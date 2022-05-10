@@ -7,8 +7,12 @@
         "id": "faf23742a285f8c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RPG/R20/Bestiary/Ent, Newborn.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RPG/R20/Bestiary/Ent, Newborn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RPG/R20/Bestiary/Ent, Newborn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +119,15 @@
   },
   "active": "faf23742a285f8c9",
   "lastOpenFiles": [
-    "RPG/R20/Bestiary/Ent.md",
+    "RPG/R20/Bestiary/Ent, Newborn.md",
     "RPG/R20/Bestiary/Boitatá Filhote.md",
+    "RPG/R20/Proficiency.md",
+    "RPG/R20/Origins.md",
+    "RPG/R20/(WIP) Conditions.md",
+    "RPG/R20/(WIP) Battle Maneuvers.md",
     "Templates/R20/Monster.md",
     "Templates/R20/Spell.md",
-    "RPG/R20/(WIP) Battle Maneuvers.md",
     "Anime n stuff/To watch.md",
-    "RPG/T20/Ssaak'Iid/sessions/12 ... & Baratas!.md",
-    "RPG/T20/Ssaak'Iid/sessions/11 Zumbis....md",
-    "RPG/T20/Ssaak'Iid/bio.md",
-    "Vsaúde/Vsaúde reunião 22-05-02.md"
+    "RPG/T20/Ssaak'Iid/sessions/12 ... & Baratas!.md"
   ]
 }
