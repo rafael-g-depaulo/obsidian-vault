@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Bestiary/Ent, Newborn.md",
+            "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Bestiary/Ent, Newborn.md",
+                "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Bestiary/Ent, Newborn.md",
+                "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,8 +119,8 @@
   },
   "active": "faf23742a285f8c9",
   "lastOpenFiles": [
-    "RPG/R20/Bestiary/Ent, Newborn.md",
     "RPG/R20/Bestiary/Boitatá Filhote.md",
+    "RPG/R20/Bestiary/Ent, Newborn.md",
     "RPG/R20/Proficiency.md",
     "RPG/R20/Origins.md",
     "RPG/R20/(WIP) Conditions.md",

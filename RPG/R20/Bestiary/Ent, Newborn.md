@@ -1,7 +1,7 @@
 ___
 ___
 > ## Ent
->*Large plant
+>*Large plant*
 > ___
 > - **Defesa** 13
 > - **HP** 59
