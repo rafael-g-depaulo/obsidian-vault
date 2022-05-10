@@ -1,0 +1,78 @@
+﻿Swift and Strong:
+  Tiers: 3
+  Cost: 2 per tier
+
+  Prerequisites: None
+
+  Tier 1:
+    Your Dodge is no longer automatically 0 if your Might is more than 1,5x your Agility
+    Your Guard is no longer automatically 0 if your Agility is more than 1,5x your Agility
+    Your Might does not negativelly affect your Dodge.
+    Your size does not negativelly affect your Guard.
+
+  Tier 2: 
+    Same as Tier 1, plus:
+    Your size does not negativelly affect your Dodge.
+    You have +1 Dodge if you have at least 6 Guard.
+    You have +2 Guard if you have at least 5 Dodge.
+
+  Tier 3:
+    Same as Tier 2, plus
+    Your size does not negativelly affect your Dodge.
+    You have +2 Dodge if you have at least 8 Guard.
+    You have +2 Guard if you have at least 7  Dodge.
+
+OBS: com a forma que scaling funciona no sistema, vc precisa focar PRA CARALHO(serio, MUITO mesmo)
+  em defesa pra ter Dodge ou Guard no nível pra poder pegar a Tier 3, quanto mais ter as DUAS coisas
+
+Weakness Exploitation:
+  Tiers: 3
+  Cost: 3 per tier
+
+  Prerequisites:
+    A: 2 (+1 per tier of this Feat) AND B: 2 (+1 per tier of this Feat)
+    (A and B can be any 2 attributes you and the DM agree on)
+    (A must be your attribute for ALL normal attacking rolls)
+
+  Effect:
+      You have two forms of attack. One of them is used at most situations, and uses Attribute A.
+    On your turn, you can chose one creature you can see. Then you may spend your Major Action +
+    Your Movement that turn to try to find their weaknesses/weak spots. You make a Perception roll
+    to check if you were sucessfull. If you passed the Perception CR(listed below), from then on,
+    your attacks gainst that creature are "precise", and you use Attribute B as your attacking
+    attribute. This Feat affects your attack as follows:
+
+    Tier 1:
+      Your normal attacks deal damage with A -1.
+      Your "precise" attacks deal damage with B +1.
+      You have advantage 1 to hit on "precise" strikes.
+
+    Tier 2:
+      Your normal attacks deal damage with A -1.
+      Your "precise" attacks deal damage with B +2.
+      You have advantage 1 on "precise" strikes.
+      You have advantage 1 on the Perception roll to find a creature's weaknesses.
+
+    Tier 3:
+      Your normal attacks deal damage with A.
+      Your "precise" attacks deal damage with B +3.
+      You have advantage 1 on "precise" strikes.
+      You have advantage 1 on the Perception roll to find a creature's weaknesses.
+      If your attack roll exceeds the creature's defense roll/CR to hit by 5 or more, inflict one
+      of the banes listed below on them,.
+
+  Perception CR:
+    The chalenge rating for the Perception roll is calculated as such
+
+    CR = 9 + U - Tiers you have for this Feat 
+
+    U: Constant decided by the DM, that takes into account how Unfamiliar you are with the creature's body
+      structure/anatomy. Examples for a typical human adventurer might look like this: (enemy:  U value)
+        
+      Your archrival, who you've fought many, many times: 1
+      Another random human:                               3
+      Centaur:                                            5
+      DireWolf:                                           6
+      giant spider:                                       8
+      mechanical golem:                                   10
+      formless abomination:                               12

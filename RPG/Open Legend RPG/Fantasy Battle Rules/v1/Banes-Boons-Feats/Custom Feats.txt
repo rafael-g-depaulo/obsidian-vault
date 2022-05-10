@@ -1,0 +1,61 @@
+﻿Swift and Strong:
+  Tiers: 3
+  Cost: 3 per tier
+
+  Prerequisites: None
+
+  Tier 1:
+    Your Dodge is no longer automatically 0 if your Might is more than 1,5x your Agility
+    Your Guard is no longer automatically 0 if your Agility is more than 1,5x your Agility
+    Your Might does not negativelly affect your Dodge.
+    Your size does not negativelly affect your Guard.
+
+  Tier 2:
+    Same as Tier 1, plus:
+    Your size does not negativelly affect your Guard.
+    You have +1 Dodge if you have at least 6 Guard (before considering this Feat's effect).
+    You have +1 Guard if you have at least 5 Dodge (before considering this Feat's effect).
+
+  Tier 3:
+    Same as Tier 2, plus
+    Your size does not negativelly affect your Dodge.
+    You have +2 Dodge if you have at least 7 Guard (before considering this Feat's effect).
+    You have +2 Guard if you have at least 7 Dodge (before considering this Feat's effect).
+
+  OBS: com a forma que scaling funciona no sistema, vc precisa focar PRA CARALHO(serio, MUITO mesmo)
+  em defesa pra ter Dodge ou Guard no nível pra poder pegar a Tier 3, quanto mais ter as DUAS coisas
+
+Spell Supercharge:
+  Tiers: 2
+  Cost: 3 per Tier
+
+  Prerequisites: Any Extraordynary: 5
+
+  Tier 1:
+    You can chose to spend a Complete Action (Major+Minor+Movement Action) to Supercharge
+    a skill, and use it at a higher level. The Skill costs 50% more Mana/Stamina/HP, the
+    relevant attribute is considered to be 2 higher in damage/healing calculation, and any
+    banes it inflicts make the aflicted character have disadvantage to resist it. After
+    Supercharging a skill, you have to wait 1d4+1 turns before being able to do it again
+
+  Tier 2:
+    You can use a Supercharged Skill as a Major Action instead of a Complete Action.
+    You can further increase a skill's effect, and can Hypercharge a skill. Hypercharged
+    skills cost double mana/stamina/hp, and the relevant attribute is considered to be 3
+    higher in damage/healing calculation. Any banes inflicted by Hypercharged skills make
+    the aflicted character have disadvantage-2 to resist it, and any boons invoked by it
+    that normally would require concentration no longer require concentration. Now you
+    have to wait only 1d4 turns to supercharge a skill again. After hypercharging a skill,
+    roll a 1d4. you have to wait that -1 turns before being able to use Mana again, and
+    that +1 turns before being able to Super or Hypercharge a skill again
+
+  Tier 3:
+    You can now use a skill to it's fullest maximum power, and Ultracharge it. You need to
+    Spend 1 Complete action in one turn plus 1 Major action at the start of the following one
+    (you need to roll for concentration if you are disturbed or damaged during that), and 
+    spend 2,5x the Mana/Stamina/Hp. the relevant attribute is considered to be 5 higher for
+    damage/healing, and the ability/attack roll is made with advantage +3. Any banes inflicted
+    by Ultracharged skills make the aflicted character have disadvantage-2 to resist it, and
+    any boons invoked by it that normally would require concentration no longer require
+    concentration. You can't Super, Hyper or Ultracharge a skill until you take a short or
+    long rest. You can't spend mana for 1d4 turns after Ultracharging a skill.

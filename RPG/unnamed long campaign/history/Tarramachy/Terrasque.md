@@ -1,0 +1,2 @@
+Uma besta enorme e poderosa, com (dezenas/centenas) de metros de altura, escamas mais duras e que os diamantes
+do Rei Anão Gnilb. A única coisa que conseguia não só parar os 7 Deuses, mas fazê-los se curvar.

@@ -1,0 +1,45 @@
+
+    $$$ STAMINA $$$$$:
+        - (HR) Stamina is a secret resource a character has that scales with the character's physical attributes and level.
+            - hint for character building:  Fortitude > Agility > Might for stamina increase.
+        - (HR) Exceptional physical feats (attacking, some types of movement, blocking attacks) and some skills drain
+            the user's stamina
+        - (HR) When a character has insuficient stamina to perform an action it still rolls, but has +1 disadvantage
+            if the character has positive stamina values, +2 disadvantage if has stamina between 0 and -25% of their
+            maximum stamina, and fails automatically if they have less then -25% of their maximum stamina.
+        - (HR) Performing actions that exert stamina when at 0 or below stamina may have consequences besides the
+            disadvantage (the DM will roll a secret d20 to see wich one). those may include:
+                - increase the character's maximum stamina
+                - lower the damage or healing the character would have done with the action
+                - deal damage to the character
+                - have the character black out from over exertion
+                - decrease the character's maximum stamina
+
+    $$$ MANA $$$$$$$$:
+        - (HR) Mana is a resource that scales with the character's level, Learning and Will attributes, and their highest
+            special attribute
+            - hint for character building:  Learning > Will > Special Atribute for mana increase.
+        - (HR) if a character can't spend mana in any way, their mana is considered 0 at all times
+
+    $$$ HP $$$$$$$$$:
+        - (CR) Hit Points (HP) are an abstract measure of how well a character can ignore pain, avoid deadly blows, and
+            maintain a presence on the battlefield in spite of wounds or exhaustion.
+        - (HR) Whenever a non-player character reaches 0 hp, they die (unless the DM decides otherwise, then rules for
+            player characters apply)
+        - (HR) Whenever a player character reaches 0 hp the DM will roll 1d20 and not tell the players the result.
+            - The roll will be measured against a chalenge rating set by the DM for that specific instance of the
+                situation.
+            - depending on the roll, the character may:
+                - die
+                - pass out
+                - defy death and gain a burst of Energy
+                - gain a mortal wound and lose maximum health
+                - slowly bleed out if not assisted soon
+                - etc.
+            - The DM may (and is encouraged to) not tell the players wich of the possibilities happened to the
+                character, and just let the players try to improvise, assuming the worst.
+
+        - (HR) When at 0-25% hp, a character has +1 disadvantage at any combat-related roll, unless they have a
+            feat or perk specifying otherwise or the DM decides otherwise.
+        - (HR) HP is based on the character's Fortitude, Presence, Might, Will and Level.
+            - hint for character creation: Fortitude = Presence > Might > Will for HP increase.

@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "d9227fcb1d02be5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf23742a285f8c9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cb65725c3b336ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "85a6fa3f2050d0ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c10be6e595b703",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea7c52c90d9d636d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "bonus action",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34f9e49a257fc4a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "2656195b13165f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "338135152cc09216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d7f62add28ce27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a032c3a3b7f9dab4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fea88411ef2bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 126
+  },
+  "active": "faf23742a285f8c9",
+  "lastOpenFiles": [
+    "RPG/R20/Bestiary/Ent.md",
+    "RPG/R20/Bestiary/Boitatá Filhote.md",
+    "Templates/R20/Monster.md",
+    "Templates/R20/Spell.md",
+    "RPG/R20/(WIP) Battle Maneuvers.md",
+    "Anime n stuff/To watch.md",
+    "RPG/T20/Ssaak'Iid/sessions/12 ... & Baratas!.md",
+    "RPG/T20/Ssaak'Iid/sessions/11 Zumbis....md",
+    "RPG/T20/Ssaak'Iid/bio.md",
+    "Vsaúde/Vsaúde reunião 22-05-02.md"
+  ]
+}

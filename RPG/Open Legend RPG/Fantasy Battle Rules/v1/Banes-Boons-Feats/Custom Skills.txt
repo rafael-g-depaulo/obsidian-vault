@@ -1,0 +1,134 @@
+Weakness Exploitation:
+  Tiers: 4
+  Cost: 2 per tier
+
+  Prerequisites:
+    A: 2 (+1 per tier of this Feat) AND B: 2 (+1 per tier of this Feat)
+    (A and B can be any 2 attributes you and the DM agree on)
+    (A must be your attribute for ALL normal attacking rolls)
+
+  Effect:
+      You have two forms of attack. One of them is used at most situations, and uses Attribute A.
+    On your turn, you can chose one creature you can see. Then you may spend your Major Action +
+    Your Movement that turn to try to find their weaknesses/weak spots. You make a Perception roll
+    to check if you were sucessfull. If you passed the Perception CR(listed below), from then on,
+    your attacks gainst that creature are "precise", and you use Attribute B as your attacking
+    attribute. This Feat affects your attack as follows:
+
+    Tier 1:
+      Your normal attacks deal damage with A -1.
+      Your "precise" attacks deal damage with B +1.
+      You have advantage 1 to hit on "precise" strikes.
+
+    Tier 2:
+      Your normal attacks deal damage with A -1.
+      Your "precise" attacks deal damage with B +2.
+      You have advantage 1 on "precise" strikes.
+      On a Perception roll 5 or more above the CR, you gain some information about the enemy
+        (at DM's discretion). Examples of this might be getting to know the creatures current/max
+        HP/MP and/or Stamina, 1 (ONE) weakness/ resistance it has, it's level, it's primary
+        Attribute and it's score on it, or something about it's attack pattern or possible threat
+        level.
+      If your attack roll exceeds the creature's defense roll/CR you can chose to deal half damage,
+        and inflict one of the banes listed below on them (if you have met the Bane requirements),
+        with a PL <= atkRoll - defense.
+
+    Tier 3:
+      Your normal attacks deal damage with A.
+      Your "precise" attacks deal damage with B +2.
+      You have advantage 2 on "precise" strikes.
+      You have advantage 1 on the Perception roll to find a creature's weaknesses.
+      On a sucessfull Perception roll, you gain some information about the enemy (at DM's
+        discretion). examples of this might be getting to know the creatures current/max HP,
+        it's 2 main Attributes and it's scores on them, it's level, 1-2 weaknesses/ resistances
+        it has, or something about it's attack pattern or possible threat level.
+      If your attack roll exceeds the creature's defense roll/CR you can chose to deal half damage,
+        and inflict one of the banes listed below on them (if you have met the Bane requirements),
+        with a PL <= atkRoll - defense.
+      If your attack roll exceeds the creature's defense roll/CR by 5 or more, you can inflict one of
+        the banes listed below on them (if you have met the Bane requirements), with a
+        PL <= atkRoll - (2*defense + 5)
+
+    Tier 4:
+      Your normal attacks deal damage with A +1.
+      Your "precise" attacks deal damage with B +3.
+      You have advantage 2 on "precise" strikes.
+      On a sucessfull Perception roll, you gain knowledge about the creature's max/current HP and
+        level. if the roll was 5 or more higher than the CR, you also gain knowledge of the creature's
+        weaknesses and resistances, and their primary Attribute's score. if you beat it by 10 or more,
+        you gain knowledge of all of it's Attribute scores.
+      You have advantage 1 on the Perception roll to find a creature's weaknesses.
+      If your attack roll exceeds the creature's defense roll/CR you can chose to deal half damage,
+        and inflict one of the banes listed below on them (if you have met the Bane requirements),
+        with a PL <= atkRoll - defense.
+      If your attack roll exceeds the creature's defense roll/CR by 5 or more, you can inflict one of
+        the banes listed below on them (if you have met the Bane requirements), with a
+        PL <= atkRoll - (2*defense + 5)
+
+  Possible Banes: (the number in parenthesis is the minimum tier of this Feat required to inflict the Bane)
+    - Knockdown      (2)
+    - Immobile       (2)
+    - Provoked       (2)
+    - Deafened       (3)
+    - Silenced       (3)
+    - Blinded        (3)
+    - Stunned        (3)
+    - Incapacitated  (4)
+    - Fatigued       (4. you do not need to meet the Entropy attribute requirements for this Bane)
+    - Sickened       (4. you do not need to meet the Entropy attribute requirements for this Bane)
+
+  Perception CR:
+    The chalenge rating for the Perception roll is calculated as such
+
+    CR = 9 + U - Tiers you have for this Feat 
+
+    U: Constant decided by the DM, that takes into account how Unfamiliar you are with the creature's body
+      structure/anatomy. Examples for a typical human adventurer might look like this: (enemy:  U value)
+
+      Your archrival, who you've fought many, many times: 1
+      Another random human:                               3
+      Centaur:                                            5
+      DireWolf:                                           6
+      giant spider:                                       8
+      mechanical golem:                                   10
+      formless abomination:                               12
+
+  *OBS: Esse Feat tem alguns pontos de balanceamento interessantes, que são:
+    1. Para usar esse Feat é necessário investir em ambos A e B, o que restringe muito o personagem.
+      ex: para pegar o Feat na Tier 4, tem que gastar 42 pontos de atributo nesses dois stats. (6 em cada)
+
+    2. Para poder usar os bonus no ataque, um turno inteiro (Main Action + Movement) tem que ser gasto TENTANDO
+      achar as fraquezas inimigas.
+      
+      2.1. Com isso, pra ser efetivo, o personagem TEM que investir também em Perception, o que limita ele ainda
+        mais.
+
+      2.2. Mesmo se ele conseguir passar na rolagem de Perception, esse bonus de ataque preciso só funciona contra
+        UM inimigo, e pelo menos mais um turno é gasto para achar fraquezas em outro oponente
+
+    3. Durante as primeiras 2 Tiers, o personagem é mais fraco, atacando normalmente, do que seria se não tivesse
+      investido nesse Feat (e ele teria que ter investido 4 Feat Points e 20 Pontos de Atributo para ter a Tier 2).
+
+  É possível que esse feat seja Over Powered ou Under Powered. nesse caso, aqui estão possíveis patchs de balanceamento:
+    OP:
+      - Diminuir o dano na Tier 4 para B+2 em vez de B+3 (mas se fizer isso acho que é melhor botar algum bonus também para balancear)
+      - Aumentar o custo da Tier 3 para 3 Feat points em vez de 2
+      - Aumentar o custo da Tier 4 para 3 Feat points em vez de 2
+      - Diminuir a vantagem no ataque da Tier 3 para 1 em vez de 2
+      - Diminuir a quantidade de Tiers de 4 para 3, e aumentar o custo por Tier de 2 para 3
+      - Diminuir a vantagem na Tier 1 e/ou Tier 2 de 1 para 0 no ataque
+      - Diminuir a vantagem na Tier 3 e/ou Tier 4 de 2 para 1 no ataque
+      - Dar desvantagem(1 ou mais) em ataques não-precisos
+    UP:
+      - Diminuir a quantidade de Tiers de 4 pra 3. (Tier N+1 vira Tier N)
+      - Aumentar a vantagem em ataques precisos
+
+Defensive Form:
+  Tiers: 3
+  Cost: 2
+
+  Prerequisites: Alteration: X+1 for tier X
+
+  Tier 1:
+      Can expend a Major Action to roll Alteration. on a successful roll, expend 4 Mana and recieve a buff
+    for (Alteration+1) turns, that increases Guard by 1.

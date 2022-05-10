@@ -1,0 +1,53 @@
+HP = 8 + 2*For + 2*Presence + Will + 1.5*Might(FLR) + 2*Lvl
+Stamina = 8 + 3*For + 2*Agi + Might + 2*Lvl
+Mana(CEI) = 8 + 3*Lrn + 2*Logic + 1,5*Will + 1.5*Highest Special Atribute + 2*Lvl
+
+Dodge(RND) = 0.75*Agi + 0.5*Pcpt + 0.75*Dcpt - 0.5*Might + EB - (Size-5)
+Guard(FLR) = 0.75*Might + 0.5*For + 0.5*Prot + EB + (Size-5)
+EB: Equipment Bonus
+
+// CR to bane ATK  = target's AR + Power Level
+CR to invoke Boon  = 8  + 2 * Power Level (Mana cost of 2*PL and/or Stamina cost of 3*PL)
+CR to inflict Bane = 10 + 2 * Power Level
+CR to resist Bane  = 8  + 2 * Power Level
+
+Dmg Taken = ( Attack * (10 / Dodge + 10) - Guard )(CEI)  // Old. don't use. Dodge is OP
+Dmg Taken = ( Attack * (15 / Dodge + 15) - Guard )(CEI)  // New! probably more balanced?
+Attribute Roll = 1d20 + 2 * Relevant Attribute
+Attack Roll    = 1d20 + 1 * Attack Attribute
+Defense Roll   = 1d20 + Guard + 1* Relevant Atribute
+Dash Dodge     = 1d20 + Dodge + 1* Agility
+
+*Atribute roll table:                                             Dodge Table
+---------------------------------------------        -------------------------------------
+|   level   |   dice    |  average | growth |        |   Dodge   |      Damage Taken     |
+---------------------------------------------        |           |  fraction  |    %     |
+|     0     |    1d2    |   3.00   |  0.00  |        -------------------------------------
+|     1     |    1d4    |   3.33   |  0.33  |        |     1     | 15/16      |   93,8   |
+|     2     |    1d6    |   4.20   |  0.87  |        |     2     | 15/17      |   88,2   |
+|     3     |    1d8    |   5.14   |  0.94  |        |     3     | 15/18      |   83,3   |
+|     4     |    1d10   |   6.11   |  0.97  |        |     4     | 15/19      |   78,9   |
+|     5     |    2d6    |   8.40   |  2.29  |        |     5     | 15/20      |   75     |
+|     6     |    2d8    |   10.28  |  1.88  |        |     6     | 15/21      |   71,4   |
+|     7     |    2d10   |   12.22  |  1.94  |        |     7     | 15/22      |   68,2   |
+|     8     |    3d8    |   15.42  |  3.20  |        |     8     | 15/23      |   65,2   |
+|     9     |    3d10   |   18.33  |  2.91  |        |     9     | 15/24      |   62,2   |
+|     10    |    4d8    |   20.56  |  2.23  |        |     10    | 15/25      |   60     |
+---------------------------------------------        -------------------------------------
+|     11    |    7d4    |   23.31  |  2.75  |
+|     12    |    8d4    |   25.70  |  3.33  |
+|     13    |    7d6    |   26.64  |  2.76  |
+|     14    |    3d20   |   28.36  |  3.75  |
+|     15    |    6d10   |   30.84  |  3.51  |
+|     16    |    12d4   |   33.15  |  3.30  |
+|     17    |    7d10   |   42.77  |  2.81  |
+|     18    |    9d8    |   46.26  |  3.49  |
+|     19    |    15d4   |   49.95  |  3.69  |
+|     20    |    13d6   |   54.60  |  4.65  |
+---------------------------------------------
+|     21    |    14d6   |   58.80  |  4.20  |
+---------------------------------------------
+
+RND: round to nearest integer
+CEI: round up
+FLR: round down

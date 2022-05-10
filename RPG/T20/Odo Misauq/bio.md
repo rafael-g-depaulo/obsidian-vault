@@ -1,0 +1,17 @@
+## Mortre Damme
+Como um demônio extremamente poderosa e ambiciosa, Mortre Damme conseguiu invadir o plano material ha séculos atrás. Ela acabou se vendo no pequeno vilarejo do Sino Quebrado. Perto tinha uma vila pequena que sofria com ataques constantes de animais poderosos e da seita do fogo lá que eu esqueci o nome.
+
+Ela matou os participantes de algumas incursões da seita do fogo que iam atacar a vila, e defendeu a vila de alguns ataques de monstros (era a presença dela que atraia os monstros, mas a vila não sabia disso). Gratos pela "ajuda" do demônio, a vila se dedicou para ajudar a "Senhora Damme". Ao longo de várias gerações eles construíram um pequeno castelo para ela. A vila cresceu e prosperou, mas tanto as pessoas quanto as plantas, animais e até o solo de lá foi mudando pouco a pouco, sofrendo com a corrupção de Damme. O Elemento de Corpo (ou elemento de mutação/corrupção) foi sendo adquirido por novas pessoas que nasciam na área, e os já perigosos animais da região viraram monstros enormes e perigosos.
+
+Eventualmente um grupo de aventureiros derrotou ela e baniu ela para outro plano de existência ou prendeu ela em uma panela ou algo assim. A vila continuou devota a ela, esperando o dia quando ela voltaria para voltar a proteger e compartilhar os seus presentes com eles e com o mundo. O povo do vilarejo hoje em dia só sabe que ela sumiu, mas não sabe dos detalhes de como, pra onde ou quando/se ela voltaria sozinha.
+
+Se a Mortre Damme conseguir voltar os planos dela não vão mudar muito. Ela quer corromper tudo e buscar vingança contra os malditos que ousaram selar ela tanto tempo atrás.
+
+Em questão de aparência ela é um demônio de pele rosa/avermelhada, com dois chifres longos e pretos, cabelo longo da mesma cor, olhos amarelos. Ela tinha uns ~2,20m de altura, e usava um machado de uma mão enorme e estranho.
+
+A arma dela tinha uma haste estranha, retorcida como um galho de uma árvore velha. Ele era quase tão alto quanto sua usuária, e suas cores eram uma mistura estranha e nojenta de preto, vermelho e branco. A haste era de um material similar aos chifres do demônio, seu fio de corte na cabeça parecia esculpido em osso e marfim. A cabeça do machado era conectada à haste por algo que lembrava tendões, ligamentos e carne. O machado dela está perdido, e é uma arma mágica incrivelmente poderosa. A imitação do machado dela que o Odo usa tem um tamanho parecido com o original, mas ele usa como arma de duas mãos.
+
+## Odo Misauq
+Corcunda. 1,61m. Como uma pessoa cheia de "benção" e naturalmente forte e resistente apesar da sua aparência, ele logo cedo virou um protetor da vila. Ao longo dos anos ganhou a sua armadura customizada, feita especificamente para encaixar certo no corpo dele mesmo com as suas expansões e contrações usando as magias de corpo dele, todas presentes diretos ou indiretos da Baronesa. Ele ouviu um boato que a Mortre Damme teria voltado e estava no oeste, então ele saiu da vila em busca da sua senhora (para encontrá-la, salvá-la ou trazê-la de volta, o que fosse). Quando ele ia sair o povo do vilarejo deu pra ele um artefato importante: o Cinto do Campeão da Baronesa, que diz a lenda que foi feito por ela mesma para presentear um dos seus devotos do passado.
+
+Ele passou pela floresta lá que eu esqueci onde rolaram as coisas e o lugar fechou, aí em vez de entrar ele só seguiu, e agora está indo para além daquela muralha lá no extremo oeste, pq ele acha que depois de lá tem boa chance de ser onde ele vai achar ela.

@@ -1,0 +1,42 @@
+
+#### ATTRIBUTES & LEVELING ##########################################################################################
+
+    - (CR) there are 18 attributes:
+        *physical:
+            # Agility
+            # Fortitude
+            # Might
+
+        *mental:
+            # Learning
+            # Logic
+            # Perception
+            # Will
+
+        *social:
+            # Deception
+            # Persuasion
+            # Presence
+
+        *special:
+            # Alteration
+            # Creation
+            # Energy
+            # Entropy
+            # Influence
+            # Movement
+            # Precience
+            # Protection
+
+    - (CR) In order to increase one attribute by one point, attribute points shall be spent equal to the current level
+        of the attribute+1:
+        EX: in order to go from Might:4 to Might:5, 5 points are spent. to go from Deception:2 to Deception:3, 3 points
+            are spent.
+
+    - (CR modified) sugested starting character level: 0
+    - (CR modified) when creating a level 0 character they gain 40 attribute points, 6 skill points and 6 feat points.
+        - Add (9 atribute points + 3 feat points + 3 skill points)*character starting level for other starting levels.
+
+    - (CR modified) Every time a character earns 1 XP, they gain 3 atribute points.
+    - (CR) Every 3rd XP a character gains grants them a level.
+    - (HR) Every level achieved grants a character 3 feat points and 3 skill points.

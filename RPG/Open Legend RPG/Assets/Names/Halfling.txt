@@ -1,0 +1,18 @@
+Male:
+
+    Alaric,     Gruffo,
+    Robin,      Reginaldo,
+    Wilibaldo,  Will,
+    Iago
+
+Female:
+
+    Mina,       Farcínia,
+    Merlinda,   Prímula,
+    Lily
+
+Surnames:
+
+    Boffin,     Jardim,
+    Flower,     Greenlock,
+    Fairhome

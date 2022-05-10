@@ -1,0 +1,23 @@
+Firstname:
+
+    Barthin,    Balin,
+    Ilbun,      Kili,
+    Frar,       Frerin,
+    Dáin,       Brudof,
+    Rudolf,     Thordin,
+    Thorlan,    Thork,
+    Dwalin,     Fangul,
+    Glauder
+
+
+Surname:
+
+    [COLOR]beard
+    Strong[Weapon]
+    Tuff[Weapon]
+    [Material][Weapon]
+    The [Adj.]
+    
+USED:
+
+    Kili Steelhand (pronounced stillhand, in a british accent)

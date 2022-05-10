@@ -1,0 +1,4 @@
+- Ssak ouviu o JoJo falar "pachorra" e anotou no braço
+- Ssak dormiu com o guarda Ordim e a namorada dele (gastou $14 em vinho)
+- a gente ouviu barulhos e alguém desapareceu do lado de fora
+- Todo mundo saiu, e o Ssak e o Kenshin quase mataram um bicho usando Defibrilator!!!

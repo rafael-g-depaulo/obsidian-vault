@@ -1,0 +1,45 @@
+
+    $$$ FEATS $$$$$$$$$:
+        - (CR) feats are bought using feat points.
+        - (HR) a feat may give a character a skill, or an inate buff or hability of sorts.
+        - (HR) feat points may be granted or taken from the character at character creation depending on the character's
+            flaws & perks. (*see: Flaws & Perks)
+
+    $$$ SKILLS & SKILL POINTS $$$:
+        - (HR) Whenever a character levels up they recieve 3 skill points they may spend to gain or upgrade skills.
+        - (HR) Each skill may have it's own Perk, Lore and/or Attribute requirements to be met.
+        - (HR) Each skill may have multiple possible upgrade options. (e.g.:giving it more damage, or lowering it's cost)
+        - (HR) A skill upgrade may cost multiple skill points.
+        - (HR) Skills are active habilities that characters have, that may cost stamina and/or mana.
+            - A skill may use a major, minor, complete or free action. decided by the DM
+        - (HR) skills are designed by the DM and/or the player, and can be bought with skill points.
+            - The DM decides how many skill points a skill costs
+        - (HR) a skill may have atribute requirements, and cannot be purchased without them.
+        - (HR) a skill may have one or more scaling attributes, that atribute is multiplied by 2 and added to the d20
+            when checking if an action succeded
+        - (HR) if a skill has multiple scaling attributes, the highest one is chosen for rolls involving that skill.
+        - (CR) A skill may have multiple levels available for use. a higher level of a skill may have a higher
+            requirements, scaling, damage, healing, chalenge rating and mana/stamina cost.
+        - (HR) failing in using a higher level skill that has lower level variants may cause the lower level to be
+            used instead (decided by the DM)
+        - (HR) landing a natural 20 when rolling for a skill may cause its higher level variant to be used if
+            available.
+
+    $$$ FLAWS & PERKS $$$$:
+        - (HR) At the DM's mercy, flaws may grant a character extra feat/atribute/skill points, and perks may cost them.
+        - (HR) because of flaws & perks, a character may begin with more than 6 feat points, or even negative points.
+        - (HR) A character may acquire extra flaws or perks throughout the journey, if the DM says so.
+            - Flaws acquired this way may or may not not grant feat points (decided by the DM)
+            - Perks acquired this way may cost feat points (decided by the DM)
+        - (CR modified) Flaws and perks are designed by the player/DM at character creation, and give the character
+            inherit bonuses, vices or special characteristics role play, story and/or gameplay wise, that help give
+            the character their identity.
+        - (HR) Perks and flaws may grant or remove maximum Mana, Stamina or HP.
+        - A list of available perks/flaws is available at http://openlegendrpg.com/core-rules/05-perks-flaws
+        - Perks & Flaws can also be Designed by the player/DM. the price for them is decided by the DM.
+
+    - (HR) feat points and skill points can be spent at any time of rest.
+        - Special exeptions may happen, when the DM says so.
+    - (CR) feat, skill and atribute points need not be used imediatelly. they can be saved for later spending.
+        - A list of available feats to buy is available at http://www.openlegendrpg.com/feats
+        - Feats can also be Designed by the player/DM. the price for them is decided by the DM.

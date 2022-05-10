@@ -1,0 +1,9 @@
+has up to 4 charges (4 jewels that store magic). every short rest they gain one charge. all charges restored on a long rest.
+
+Can spend a minor action to spend all of the charges and improve the next spell cast this turn. The effect depends on the
+ammount of charges used:
+1   -> *Supercharge. The Bracelet can't gain more charges until a long rest, when it resets to 3 charges.
+2-3 -> *Hypercharge. The Bracelet can't gain more charges until a long rest, when it resets to 0 charges.
+4   -> *Ultracharge. The Bracelet can't gain more charges until a long rest, when it resets to 0 charges.
+
+(*check the Skill Supercharge Feat for info)

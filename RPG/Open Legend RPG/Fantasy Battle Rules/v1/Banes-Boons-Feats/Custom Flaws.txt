@@ -1,0 +1,4 @@
+Naive:
+  You don't know a lot about stuff and things, and are easily fooled by others. Other characters have advantage 1 on
+  Deception and/or Persuation Rolls against you(your choice).
+  (recommended 1 Feat Point awarded if one Attribute chosen, 2 if both)

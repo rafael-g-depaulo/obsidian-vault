@@ -1,0 +1,21 @@
+Male:
+
+    Llat
+    Vuhl
+    Thra
+
+
+Female:
+
+    Gertha
+    Threy
+
+
+Surname:
+
+    Tnak
+    Rohku
+
+USED:
+
+    blank

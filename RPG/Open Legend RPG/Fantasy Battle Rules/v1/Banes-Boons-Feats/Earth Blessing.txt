@@ -1,0 +1,139 @@
+Earth Blessing Tree:
+  Earth Blessing - 3 skill pts
+    Pode gastar uma ação maior para manipular terreno ao redor (até 5m)
+
+  Earth Blessing: Regen Tree 
+    Mana&Stamina I    - 1 skill
+      Se ficar parado em contato com o chão o turno inteiro, regenera (Will) de Stamina e Mana
+
+    Mana&Stamina II   - 1 skill pts
+      O segundo turno parado e os seguintes recuperam metade da Mana e Stamina faltando 
+
+    HP ++ I  - 1 skill pt
+      Cada turno sem se mover regenera (hp_dice) de hp como ação maior (6 de mana) 
+
+    HP ++ II - 3 skill pt
+      Cada turno sem se mover regenera 2*(hp_dice) de hp como ação maior (8 de mana) 
+  
+  Earth Blessing: Terrain Tree 
+    Shape Terrain I   - 1 skill pt
+      Pode manipular até 10m^2 de Terra 
+    
+    Shape Terrain II  - 1 skill pt
+      Pode manipular até 15m^2
+      Pode usar a manipulação para mover qualquer criatura 2sqr
+
+    Shape Terrain III - 1 skill pts
+      Pode manipular até 20m^2
+      Pode usar Terrain Manipulation como ação menor.
+
+  Earth Blessing: Earth Sense Tree 
+    Earth Sensing I   - 1 skill pt
+      Pode gastar uma ação maior pra usar tremmor sense em um raio de 10sqr
+    Earth Sensing II  - 1 skill pt
+      Pode usar tremor sense (15sqr) como uma ação menor.
+      Ganha tremor sense (6sqr) passivo.
+
+  Earth Blessing: Shield Tree
+    Shielding - 1 skill pt
+      Pode usar sua ação maior para criar um escudo de terra/rocha. Role dano com Alteration+1. O escudo aguenta
+      essa quantidade de dano. (4 de Mana). pode usar como Ação Menor, mas custa +3 Mana, e tem -2 no Atributo.
+
+    Fast Shielding - 2 skill pt (Feat)
+      Pode usar Shielding como reação fora do seu turno. Role Alteration contra um CR de 7 + distancia entre você e
+      o local onde o escudo surgirá. isso conta como um shield usado como Ação Menor, e custa +2 de Mana que o normal.
+
+    Enhanced Shielding - 1 skill pt p/ tier, 2 tiers (Feat)
+      Você tem +1 de bonus em Alteration para calcular a vida do shield por cada tier de Enhanced Shielding
+    
+    Versatile Shielding - 3 skill pts (Feat)
+      Você pode escolher a forma que seu escudo asume:
+        1. Uma barreira linear de 1 (normal) até 3 quadrados (+1 Mana por quadrado a mais.)
+        2. Um meio-domo de 1 quadrado (protege de todo lado menos por trás. +1 Mana)
+        3. Um domo completo de 1 quadrado, prendendo o alvo lá dentro, até que o domo fique sem
+          vida, você cancele o escudo, ou perca concentração. (+2 Mana) 
+  
+  Earth Blessing: Shared Blessing Tree
+    Shared Blessing - 1 skill pt/ tier, 3 tiers
+      Pode compartilhar Earth Blessing Regen com até (skill_tier) aliados. Na tier 3, o efeito dobra, e se só
+      um aliado só foi escolhido, pode recuperar HP & Mana+Stamina, mas ele não dobra o efeito. Ação Maior.
+      2 + 2*(quantidade de aliados) de Mana
+
+    Fast Shared Blessing - 1 skill pt (Feat)
+      Pode usar Shared Blessing como uma Ação Menor. +2 de Mana
+    Ofensive Blessing I - 2 skill pt (Feat)
+      Quando um Aliado ganha Earth Blessing, você pode escolher entre dar pra ele o efeito normal, ou energizar o próximo
+      ataque dele com o poder da Terra (ele perde o bonus se se mover), aumentando o dano do próximo ataque dele. O dano
+      bonus é igual a uma rolagem sua de dano com Alteration (-1 por cada aliado afetado depois do primeiro).
+
+    Ofensive Blessing II - 2 skill pt
+      Você pode usar incluir a si mesmo como um dos alvos de Ofensive Blessing (só se for usada como Ação Maior). Você tem
+      +2 em Alteration quando rolar o dano bonus para si mesmo.
+
+    Agile Shared Blessing - 1 skill pt 
+      Shared Blessing não expira no momento que a criatura se mover, mas sim no final do turno em que ela se mover.
+
+
+  Earth Blessing: Offensive Tree 
+  
+    Nome - 2 skill pts
+      A partir do segundo turno, cada turno parado garante 1 de vantagem no próximo ataque
+
+    Earth Strike I   - 2 skill pts
+      Ficar parado 1 turno te deixa tornar um ataque um Earth Strike (4 de Mana). Quando usando um Earth Strike, o chão treme na área
+      2x2 acertada até o final do seu próximo turno. você escolhe se os tremores:
+        1. Causam dano extra com seu Alteration (o alvo original do ataque toma metade do dano bonus e metade do dano original do ataque)
+        2. Afligir Knockdown automático em todas as criaturas com tamanho menor que o seu (criaturas de tamanho >= rolam resistência pra
+        ver se caem ou não). Para levantar enquanto os tremores persistem, a criatura deve rolar Might e superar um CR:
+          CR = (seu_tamanho - 5)+2*(seu_might)  
+    
+    Earth Strike II  - 2 skill pts
+      Tudo da tier 1, mais:
+        Qualquer inimigo que sofreu knockdown por um Earth Strike tem Dis-1 na primeira resistência ao Bane.
+        Se escolheu por dano, o alvo original toma o dano físico inteiro, não metade(ainda toma metade do dano bonus).
+        Toda criatura que não você que estiver nos tremores causados por um Earth Strike tem Dis-1 em ataques.
+        Vantagem+1 em Earth Strikes 
+
+    Earth Strike III - 2 skill pts
+      Tudo da tier 2, mais:
+        Area dos tremores de Earth Strike aumentada para 3x3
+        Vantagem em Earth Strikes aumentada para +2
+        Você pode escolher gastar sua Ação menor pra manter concentração e aumentar a duração dos tremores em 1 turno (3 de Mana) 
+
+    Earth Strike IV - 2 skill pts 
+      Tudo da tier 3, mais:
+        Vantagem em Earth Strikes aumentada para +3
+        Tremores duram 2 turnos em vez de 1
+        Pode gastar +3 de mana pra aumentar a área do próximo Earth Strike pra 4x4
+        Além de dano e knockdown, como uma terceira opção você pode escolher tentar soterrar um número qualquer de criaturas atingidas
+        pelos tremores a sua escolha. você rola Might com uma CR de 10 + (tamanho total das criaturas presas que você quer soterrar).
+        Se conseguir passar na CR, as criaturas escolhidas dentro dos tremores são soterradas. no início dos primeiros 3 turnos dela
+        enquanto soterrada, qualquer criatura soterrada pode tentar escapar a prisão de terra, rolando Might com um CR de (22 - tamanho
+        total criaturas presas). se uma das criaturas conseguir atingir a CR, todas são liberadas. depois de 10 turnos soterrada, uma
+        criatura morre de asfixia 
+  
+  Earth Blessing: Summoning 
+    Lapidate I   - 1 skill pt
+    Posso manipular a terra e produzir 1 objeto (ferramenta) 
+    
+    Lapidate II  - 1 skill pt
+    Posso manipular a terra e produzir 1 arma/escudo 
+
+    Shared Hatred - 3 skill pts
+    Meu golen recebe os mesmos buffs que eu recebo (Battle Trance, Earth Strike, Earth Sensing, Shape Terrain, etc) 
+
+    Summon I  - 2 skill pts
+    Posso invocar uma criatura de pedra, tendo vida igual a (minha vida)/2 e might igual a (meu might)/2, guard igual a (minha guard)/4, dodge igual a -1 e tamanho 4, all rounded down 
+
+    Summon II  - 2 skill pts
+    Posso invocar uma criatura de pedra, tendo vida igual a 10 + (minha vida)/2 e might igual a 2 + (meu might)/2, guard igual a (minha guard)/3, dodge igual a -3, tamanho 5 
+
+    Summon III - 2 skill pts
+    Posso invocar uma criatura de pedra, tendo vida igual a  20 + (minha vida)/2, might igual a 3 + (meu might)/2, guard igual a (minha guard)/2, dodge igual a -4, tamanho 6 
+
+    Summon IV - 2 skill pts
+    Posso invocar uma criatura de pedra, tendo vida igual a 30 + (minha vida)/2, might igual a 4 + (meu might)/2, guard igual a minha guard, dodge igual a minha dodge, tamanho 8 
+
+    Gurren Lagann - 4 skill pts
+    Eu posso usar o Golen como armadura, ganhando (1+Summon tier) * 5 de shield (quando o shield quebrar, retorna à forma normal),
+    guard em (Summon tier), might em (Summon tier + 1), tamanho em (Summon tier) 

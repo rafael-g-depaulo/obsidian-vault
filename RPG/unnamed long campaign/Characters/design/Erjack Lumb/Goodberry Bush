@@ -1,0 +1,17 @@
+Criar Arbusto: Escolha um ponto em um raio de 30ft de você. um arbusto cresce ali. No início do seu próximo turno
+(ou no final do turno, se você escolheu um lugar ruim para o crescimento da planta), aparecem no arbusto
+1d4! Goodberries. Os dados do arbusto seguem abaixo. Custa 8 de Mana.
+
+Você pode gastar uma Ação Maior e escolher um Goodberry Bush em 10ft de você. Ele ganha mais (role dano com Creation)
+de HP e de HP máximo, e nele nascem mais 2+1d4! Goodberries. Custa 5 de Mana
+
+Goodberry Bush: 
+  Vida: 1 + 2 * Creation
+  CH to hit: 6
+  Guard: 0
+
+  Pegar: Uma criatura pode gastar 1 Ação Menor pra pegar 1 Goodberry, ou uma Ação Maior pra pegar 1d4! Goodberries.
+
+Goodberry: 
+  Comer: Uma criatura pode gastar 1 Ação Menor para comer 1 Goodberry, ou uma Ação Maior pra comer até 3. Ao ser
+    consumida, uma Goodberry cura 1d6! de vida e 1 de stamina

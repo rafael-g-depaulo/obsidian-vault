@@ -1,0 +1,46 @@
+Petrification:
+  Duration: 
+    PL 1-4: Resist all stages (Fail -> CR lowers by 2)
+    PL 5-6: Resist all stages (Fail -> CR lowers by 1)
+    PL 7-9: Resist all stages (Fail -> CR increases by 2)
+
+  Effect:
+      If the target succeds the resist roll the bane's Level lowers by 1. if the Bane was already at 
+    Level 1, the bane ends and the target can move up to half their movement without triggering
+    oportunity attacks.
+
+    PL < 5
+      * Petrification's maximum Level is 2
+      * Petrification only gains stages if the source is continuous
+      * Petrification goes down 1 Level at the end of the target's turn if the source of the bane isn't
+        continuous
+
+    PL < 7 and PL >= 5
+      * Petrification's maximum Level is 3
+      * The target gets disadvantage-1 on the resist roll if the source is continuous
+      * Petrification gains one Level at the end every one of the target's turns, if they fail the resist
+
+    PL > 7
+      * Petrification gains one Level at the end every one of the target's turns, if they fail the resist
+      * The target gets disadvantage-1 on the resist roll if the source is continuous
+      * If the save was made but the source is continuous, the bane stays at that Level (only if PL = 9)
+      
+    Level 1:
+        The taget has their speed reduced by half, and at the end of their turn can use 1 free action to
+      roll to resist this bane. If target stays at this Level for 3 rounds, the bane wears off.
+
+    Level 2:
+        The target is immobile, and o their turn can only perform 1 major action + 1 free action to roll to
+      resist this bane. If target stays at this Level for 3 rounds, it lasts 1 minute.
+
+    Level 3:
+        The target is immobile, can't talk and can only perform 1 free action to resist this bane on their
+      turn. If target stays at this Level for 3 rounds, it lasts 1 hour. The target's weight increases by
+      half.
+
+    Level 4:
+        The target is immobile, can't talk, be affected by potions, or act at all. the target's weight triples.
+      this effect can only be dispelled by a powerfull healer's constant attention and care, through a period
+      of one week (the Petrification does not advance during the cleansing process). After 3 full days, at the
+      start of the 4th day, the target rolls a d20 against a CR of 12 to stay alive. On a fail, the target
+      dies. On a success, the target lives and the CR increases by 2. Roll again at the start of the next day.

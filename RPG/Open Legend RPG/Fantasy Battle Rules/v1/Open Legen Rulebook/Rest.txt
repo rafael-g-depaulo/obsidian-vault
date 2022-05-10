@@ -1,0 +1,15 @@
+
+   $$$ Recovery Dice $$$$$:
+
+      - (HR) after each full rest, a character regains all of their Stamina, plus a portion
+        of their MP/HP.
+
+        - Full Rest:
+          MP RECOVERED = 25%(rounded down)MaxMP + 1,5*MP Dice (rounded down)
+          HP RECOVERED = 20%(rounded down)MaxHP +     HP Dice
+          Stamina RECOVERED = 100-(20 per level of fatigue)% of Maximum Stamina
+
+        - Short Rest:
+          HP RECOVERED = 0
+          MP RECOVERED = 0,25*MP Dice (rounded down)
+          Stamina RECOVERED = 1,5* HP Dice

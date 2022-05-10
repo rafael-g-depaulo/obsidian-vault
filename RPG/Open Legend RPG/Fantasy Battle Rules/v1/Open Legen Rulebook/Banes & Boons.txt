@@ -1,0 +1,33 @@
+
+    $$$ Banes $$$$$$$$:
+        - (CR) Banes are status effects that can be inflicted onto a character, usually throung the use of a skill.
+            - In order to inflict a bane a character must meet the Bane's Attribute and/or Feat requirements.
+            - Trying to defend againts a bane is done through meeting the chalenge rating set by the DM for that
+                circumstance.
+        - (HR) If a defence roll is a critical failure, or the attack roll is a natural 20, the DM may chose to then
+                apply a higher level version of the same bane, if available.
+        - (HR) If a roll to inflict a bane fails by a little, the DM may chose that a lower level version of the
+                bane is inflicted instead, if available.
+        - (CR) A bane has a default duration. After every turn since it's inflicted with a bane, a character rolls
+                against a chalenge rating set by the DM (usually the same as the CR to defend against it initially)
+                to try to resist it. If a character keeps failing, the bane will expire at it's natural duration.
+        - (HR) To inflict a Bane the character inflicting it must pass an Attribute Roll equal to 10 + 2* the Bane's
+                Power level
+        - (HR) To resist a Bana the character trying to resist it must make an attribute roll against a CR of 8 + 2*
+                the Bane's Power Level
+
+    $$$ Boon $$$$$$$$:
+        - (CR) Boons are buffs that affect a character, and can be self aplied of given by a friendly skill or item
+            property.
+            - Most boons will be aplied through skills, and are automatically if the skill hits, or if the roll
+                surpassed the chalenge rating by some arbitrary ammount.
+        - (CR modified) Boons may either:
+            - Have a set duration
+            - Have a maximum duration, with the character(s) affected by the boon rolling to maintaing it every turn
+                against a Chalenge rating set by the DM. If it fails, the boon stops taking effect.
+        - (CR) Some boons can have their default duration extended if the character affected by it wishes to do so,
+            and surpass the Chalenge rating set by the DM, in a standard d20 roll plus two times the relevant attribute.
+        - (HR) If the roll to apply a boon lands a natural 20, or exceeds the Chalenge Rating by an arbitrary ammount,
+            a higher version of the Boon may be aplied, if available (and allowed by the DM)
+        - (HR) If the roll to apply a boon is slightly below the Chalenge Rating set by the DM, a lower level version
+            of the boon may be applied, if available (and allowed by the DM)

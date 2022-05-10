@@ -1,0 +1,5 @@
+Fatigued:
+  Same as Vanilla, except:
+    * after a short rest (8h), roll a 1d20 against a CR of 10+Fatigue Level. if successfull, remove
+      one Level of fatigue.
+    * fatigue is automatically removed after a long rest (3-7 days)

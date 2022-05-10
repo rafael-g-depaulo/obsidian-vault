@@ -1,0 +1,108 @@
+
+    $$$ DICE $$$$$$$$$:
+        - (HR) There are 3 kind of dice rolls that determine how incertainty happens in the story. Initiative Rolls
+            decide the order of action of characters in combat, and are decided with 1d20 + Agility. Attribute Rolls
+            decide wether a skill/attack/bane/boon hits or not, resistance to banes, etc., and are decided with 1d20
+            + 2 * Relevant Attribute. Damage Rolls decide Healing/Damage numbers, and are decided with the Attribute
+            dice table, using the dice correspondant with the relevant Attribute for the attack/skill, and use exploding
+            dice.
+        - (HR) Any relevant action that impacts the story will be rolled with a d20
+            - If there is a relevant atribute to the situation, it shall be dubbled, then added to the d20
+            - If the resulting d20+2*atribute is equal to or higher then the chalenge rating (set by the DM), the
+                action succeds.
+            - Otherwise, the DM decides if the action failed and the story continues, or if it succeds with a twist.
+            - The roll exceeding the chalenge rating by some arbitrary ammount may trigger additional effects, either
+                decided by the DM or explicited by a character feat
+            - If the d20 rolls a 20, the action will suceed automatically, and if it does damage or heals, the damage/heal
+                is doubled. if it inflicts a bane, the foe will have +1 disadvantage when rolling for future resistance.
+            - If the d20 rolls a 1, the action will fail automatically, independently of anything else.
+                - Listen to the DM, he'll say what happens next.
+        - (HR) Whenever a character is rolling for damage/healing and the character has 0 in the related atribute, it is
+            rolled an exploding 1d2(a coin toss).
+            - EX: this situation might occour if a mage-type character tries to perform a physical attack with a mace
+                while having 0 Might, for example.
+        - (CR modified) Whenever a roll is significantly higher than a specific chalenge rating, it is strongly recommended
+            that the DM reward the action. Also recommended is that the DM insitute higher and higher rewards for breaking
+            the chalenge rating more. examples of rewards are:
+                - Add +1 or +2 advantage to damage/healing roll
+                - Nullify or lessen the costs of performing the action (recoil damage, mana/stamina cost, etc.)
+                - Just flat out double the damage, D&D style.
+                - let the character perform another major action (recommended +1 or +2 disadvantage)
+                - inflict a bane onto the target (if attacking)
+                - inflict a boon onto the target or themselves(if supporting/defending/resisting)
+
+    $$$ INITIATIVE $$$:
+        - (HR) whenever combat starts, all characters involved in combat roll 1d20 + their respective Agility.
+            The results then are ordered descendingly, and that becomes the order of actions each turn.
+
+    $$$ DODGE $$$$$$$$:
+        - (HR) if a character's Might is higher than 1.5 times their Agility (Rounded up), their dodge is 0
+            - (HR) this aplies only to Dodge coming from stats. Dodge coming from equipment, feats or other
+                means isn't nulified.
+        - (HR) Whenever trying to hit an opponent aware of the attack, the chalenge rating to be overcome is
+            increased by the defender's Dodge.
+        - (HR) If an attack hits, even though the character had a Dodge level higher than 0, and the defender was
+            aware of the attacker, the defender takes only a portion of the damage, inverselly proportional to the
+            defender's Dodge.
+        - (HR) Dodge is based on a character's Agility, Perception and size*(smaller is better).
+            - Dodge also scales negativelly with Might (increasing might decreases dodge)
+            - hint for character building: Agility > Perception for increasing dodge.
+        - (HR) Dodge may also be increased by equipment, feats, boons, etc.
+        - (HR) Dodge can go below 0, but the formula that reduces damage taken is ignored if so.
+            - (If the formula wasn't ignored, the damage taken would be increased by a percentage proporcional
+                to the absolute value of the now negative Dodge)
+
+    $$$ ACTIONS $$$$$$:
+        - During a characters turn in combat they may chose perform the actions listed below, in any wich order:
+            - 1 Movement Action (move their character)
+            - 1 Major Action (e.g.: all attacks, most skills, maintaining concentration skills(exceptions may occour), defending, etc.)
+            - 1 Minor Action (e.g.: some skills are considered to be Minor Actions)
+            - Any Number of Free Actions.
+
+        - There are also Complete Actions. (e.g.: some more powerfull skills)
+            - A character may chose to perform one Complete Action instead of their normal turn, and therefore forgo
+                their Movement, Major and Minor actions.  
+            - A character that cannot take a Major Action also can't perform a Complete Action.
+
+    $$$ GUARD $$$$$$$$:
+        - (HR) if a character's Agility is higher than 1.5 times their Might (Rounded up), their guard is 0
+            - (HR) this aplies only to Guard coming from stats. Guard coming from equipment, feats or other
+                means isn't nulified.
+        - (HR) Whenever a character is hit, the damage is (AFTER dodge), reduced by their guard stat.
+        - (HR) Guard is based on the character's Might, Fortitude, Protection and size*(bigger is better).
+            - hint for character building: Might > Fortitude > Protection for increasing Guard.
+        - (HR) Guard may also be increased by equipment, feats, boons, etc.
+        - (HR) (optional) Since the size bonus can be negative, guard may be negative, increasing damage taken
+            by a flat ammount.
+
+        *Size is decided by the DM when a character is created, and goes from 1 to 10;
+
+    $$$ DEFENDING $$$$:
+        - (HR) A character may spend their major action to prepare a defense, that lasts until their next turn.
+            the character rolls a defense score, wich is equal to: 1d20 + Dodge + Defense Attribute Score for that
+            situation (DM's choice wich attribute applies to wich situation)
+
+        - (HR) Any attacks made against the character are then checked against their defense score, and the
+            apropriate effect is applied:
+
+            ATK Roll >  DEF Roll:   the attack follows as usual
+            ATK Roll <= DEF Roll:   the attack follows, but deals half damage and the defender has +1Advantage
+                                        on any resistance against any Banes the attack might inflict
+            ATK Roll <= DEF Roll-5: the attack deals no damage, and inflicts no bane
+    
+    $$$ ATTACKING $$$$:
+        - (HR) When a character attacks, they make an attack roll, and compare that with a CR to hit that the
+            deffender has. if the attack is equal to or greater than the CR, the attack goes through.
+
+        - (HR) the CR to hit is calculated as such:
+                8 + characters' Dodge
+
+        - (HR) the attack roll is calculated as such:
+                1d20 + ATK
+            ATK: Attaking Attribute
+
+    $$$ MAGICAL PERCEPTION $$$$:
+        - (HR) differently than all other attribute rolls(wich are rolled with 1d20+2*attribute), rolling to percieve
+            magical influences may, at the DM's discretion, be rolled as:
+
+            (1d10 OR 1d12 OR 1d8 OR 1d6, recommend the ones on the left) + Perception*2 + Prescience*2

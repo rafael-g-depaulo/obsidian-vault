@@ -1,0 +1,33 @@
+Male:
+
+    Gallond,        Gilleon,
+    Garleon,        Talbir,
+    Fariath,        Miril,
+    Turien,         Lireon
+
+Female:
+
+    Liradriel,      Loruin,
+    Celedel,        Siloana,
+    Narilla,        Galbala
+
+Surname:
+
+    (High)
+    Tyssent,        Lisbarian,
+    Galandodel,     Shalidon,
+    Manaril
+
+    (Wood)
+    Barklond,       Roothil,
+    Lunasir,        Riverthul,
+    Waterlune
+    
+    (Dark)
+    Amakiir,        Draksah,
+    Missilira,      Galanoel,
+    Fariath
+
+USED:
+
+    blank

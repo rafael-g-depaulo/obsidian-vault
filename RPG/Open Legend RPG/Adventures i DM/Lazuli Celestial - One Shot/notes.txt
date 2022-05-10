@@ -1,0 +1,148 @@
+(MOSTRAR MAP.PNG)###########################################################
+A Party está seguindo norte, depois de mais uma aventura. Cançados, com fome, quase sem dinheiro e a
+procura de um trabalho, eles entram na taverna "Eionei", algumas horas antes do por do sol.
+(Descrever Personagens)
+
+(Party fala com taberneiro)
+(TOCAR SOM DE COPOS)#####################################################
+(Olha com cuidado. racist remarks against Aylo and Kamui)
+Trabalho?... Ah, já sei! Deixa eu chamar o Sol. ô Sóoooo, acorda seu porra.
+vc tava com problema com seus bixo lá na fazenda, né? fala com esse povo aqui.
+
+A sua esquerda vocês vem um monte de garrafas vazias enfileiradas, e atrás delas um homem sujo e barbado,
+que deve o tal sol. Pelas roupas e chapéu de palha ele parece ser um fazendeiro, o que não condiz com o tamanho
+do saco de moedas que ele leva amarrado na cintura. Ele levanta a cabeça do balcão devagar. vira a cabeça e fica
+encarando vocês por um tempo, tentando enteder o que está acontecvendo.
+
+Depois de um tempo, ele fala: Vem cá, Ô. num tô afim de ficar gritando não.
+Vocês tão procurando trabaio, é? (Espreguiça. coça a barba. olha pra eles. pausa).
+Seis... não, cinco. isso, cinco. cinco mueda de prata.
+um pra cada um de vocês. (bebe a última garrafa). e mais um, só porque a bebida tá boa.
+(levanta. se espreguiça)
+
+(TOCAR SOM DE MOEDAS NA BOLSA)###########################################
+(TOCAR SOM DE MOEDAS NA MESA)############################################
+
+(paga 6 prata. anda até a porta)
+vem logo, ô. As peste comendo meus bixo não vão sumi sozinha.
+
+Sol, o fazendeiro barbado, leva vocês à parte de traz da taverna, onde ele desamarra um burro, sobe
+nele, e segue caminho, esperando que vocês acompanhem ele.
+
+(TOCAR SOM DE CAVALO)##################################################
+Depois de alguns minutos andando em silêncio, ele começa a rir, vira pra trás, e fala:
+Seis querem ouvir uma história? essa é boa. Antes de vocês responderem, ele começa:
+
+Foi um tempo atrás. umas três, quatro semana, sei lá.
+Eu tava na estrada, sabe? levando a carroça lá pra Mânuhs, lá no norte. Vende queijo, leite, bacon, sás coisa, sabe? (risada)
+Ai me aparece um bando de gentinha pequena. É claro que eu, como o bom emprededorista que sou, fui vende minhas coisa pros viajante.
+
+(risada) Aí os idiota. Tinha que ser povinho pequeno mesmo, porque gente de verdade não da pra tapear assim facil, sabe.
+Eles viram o colar. um negocinho idiota que meu filho fez pra agradar uma mocinha da vila, sabe. ele fez com um couro que eu dei, e
+uma pedrinha que tem aqui perto. bunita que só, mas vale nada. Um dos idiota achou que fosse uma gema, um tal de apis celente ou
+uma merda assim.
+
+Aí eu aproveitei. Falei que era isso mesmo, que era um colar sagrado, que meu tio escavou a muito tempo atras, de uma ruína de um
+reino antigo. que era um colar encantado pelos elfo, e lá lá lá.
+
+Mas olha, nunca achei que idiota pudesse ser rico, até ver esse povo. Eles parece que viajou muito, porque meu fí. Eles tinham ouro
+dos elfo, ouro humano, ouro dos gnomo, ouro anão. E os anão pode se idiota o quanto fo, mas pensa num povo que faz ouro de qualidade.
+30 mueda de ouro eu fiz. Aí foda-se vende leite, eu fui é pro banco, troca meus ouro por prata. Aí fiquei dois dia indo da taverna 
+pra casa das prima, antes de voltá pra casa.
+
+Olha, tirando essas peste comendo meus bixo, a vida tá boa, sabe. Tô gostando.
+
+(detalhar fazenda. buraco na cerca. animais mortos.)
+(TOCAR PORCOS SOFRENDO/ASSUSTADOS#########################################
+(trilha pra floresta. chegando na clareira)
+
+(TOCAR PASSAROS DA FLORESTA.)#############################################
+(lobo comendo um cervo. lobo vira para party. olhos, garras azuis).
+
+Fight #1: Lobo #1
+
+Lobo Foge. (TOCAR LOBO CHORANDO.)#########################################
+
+Fight #2: Jesse e Lobo #1-2
+
+(MOSTRAR URSO CORUJA.PNG)#################################################
+(urso coruja. urso pardo. um pouco +baixo q Talion. Olhos e garras azuis.)
+(MOSTRAR JESSE.PNG)#######################################################
+(TOCAR OWLBEAR ROSNANDO)##################################################
+
+Trilha pela floresta. Chega na base das montanhas. entrada de uma caverna natural.
+curva a esquerda uns 20-25 metros da entrada.
+(TOCAR CAVERNA AMBIENCE)#################################################
+Iluminada com tochas grosseiramente enfiadas nas paredes, sem apoios próprios.
+(Yreith rola percepção. Luz ligeiramente errada.)
+
+Móveis crudemente feitos de madeira, com pregos a mostra, sem acabamento nem nada. 5 poções de vida.
+(MOSTRAR POT DE HP.PNG)##################################################
+
+pouco a pouco, conforme vocês vão avançando, vão aparecendo menos e menos tochas. No lugar delas, mais e mais veios dessa
+estranha gema aparecem. Esses cristais tem um brilho natural, mas sua intensidade aumenta com a proximidade de vocês, sendo
+o suficiente para iluminar o caminho. Ocorre a vocês que as tochas então são postas quando uma quantidade grande do cristal
+é minerada, e a sua luz diminui. Logo, não tem mais nenhuma tocha a sua frente, somente veios e mais veios do cristal azul(lazuli celestial).
+
+vocês continuam a andar, e percebem algo logo a frente. As paredes se expandem, e formam uma espécie de pseudo-sala ou câmara.
+Os cristais só se iluminam com a sua presença, então vocês não vem nada além da entrada.
+
+(eles entram/atacam)
+
+(cristal a esquerda se ilumina, todos os da sala acendem de leve. Uma silhueta pequena aparece no meio da sala, iluminada de trás por um amontoado enorme de cristais).
+
+Berg "Hehehe.... eles chegaram"
+
+A silhueta levanta suas mãos, segurando dois cristais de lazuli celestial, de tamanho semelhante ao das garras do Ursocoruja que vocês enfrentaram.
+(MOSTRAR LAZULI CELESTIAL.PNG)
+(TOCAR BERG HEARTBEAT)##################################################
+
+(trsnformation starts. Zhen monologue starts.)
+
+"Vocês se meteram onde não deviam. Eu dei uma chance, mandei nossos bichos como uma mensagem. &&&& Sai do meu território &&&&. Vocês não ouviram.
+Vocês mataram o Jesse, e interromperam meus experimentos. vão pagar. Levante-se, Berg"
+
+(descrever a transformação do Berg)
+
+&&&& Lagarto acha que bate no Berg. Lagarto ERRADO. Ninguém bate no Berg. Eu, Eu é quem bate. &&&&
+
+&&&& Vocês acham nós já acabamos por acaso? EU digo quando nós acabamos. &&&&&
+
+&&&& Lembre-se do meu nome, paladino. É Zhen. Eu sou seu novo deus. Diga o nome de deus. DIGA!. Diga o meu nome. &&&&&
+
+&&&& Por acaso acha(m) que eu estou no negócio de cristais mágicos? no negócio de magia? hahaha. Errado.
+Eu estou no negócio de poder, de respeito, de impérios. (meu nome é Zhen, e eu sou Deus.) &&&&
+
+&&&& Eu... Venci. &&&&&
+
+jornal pessoal de Zhen:
+    dia 3.
+        Finalmente consegui. Ha quatro dias atrás eu executei o plano, envenenei o mestre e fugi.
+        Brahk, o Rei Mal, mereceu isso. Queria poder ter salvo os outros, mas tenho medo de voltar
+        e ser capturado. Embora não mais usar a coleira, meu pescoço coça todo dia. Vermelho. Furioso.
+        Vingativo.
+    dia 28:
+        Depois de passar as últimas semanas como mendigo aqui na cidade Metanfet, consegui um trabalho
+        na biblioteca. De noite eu fico por lá, e leio. Achei um livro interessante na sessão reservada
+        sobre magia arcana e pedras de poder. 
+    dia 156:
+        Eu queria ter me despedido do diretor. Eu gostei da minha vida como ajudante na biblioteca, mas
+        eu não consegui me segurar quando aquele homem veio. Um Elfo arrogante, que lembrava Brahk.
+        Atrás dele vinha um escravo. Um anão. Meu pescoço coçava. Como eu, ele nasceu acorrentado, sem sobrenome.
+        Mas ele tinha um nome. O nome dele é berg. Nós viajamos juntos agora.
+    dia 270:
+        Eu e Berg achamos uma vila de halflings sendo atacada por orcs. Ao ver as algemas que eles levavam
+        de carga, meu pescoço coçou. Eram 23 orcs. Nós lutamos o melhor que pudemos, mas a vila foi toda
+        destruída. Os orcs idiotas acharam que mataram a nós. Conseguimos salvar somente uma mulher da vila.
+        O nome dela é Rai, e ela segue conosco agora. Eu sou fraco.
+    dia 650:
+        Estavamos na estrada, entre Mânus e Polhosseh, e encontramos um viajante. Ele tinha uma gema quase
+        perfeita de Lazuli Celestial. Meu pescoço coçava de antecipação quando vi. Ela é exatamente como nos livros.
+        Achamos a reserva de onde a pedra foi tirada. A escavação começa amanha.
+    dia 663:
+        O progresso continua. Meu pescoço coça menos agora. Agora que eu tenho poder de verdade, acho que percebi algo.
+        Quer saber o que, jornal? Eu achava que fazia isso tudo pelos outros. achava que era pra poder liberar todos os
+        escravos, e fortalecer os fracos. Eu não quero isso. Eu não me importo se eu fizer isso no caminho, mas não é
+        isso que eu quero. Eu quero saber que nunca mais ninguém vai pisar em mim, que ninguém além de mim decide o
+        meu destino.
+        &&&&& Eu fiz isso por mim. Eu gosto disso. Eu sou bom nisso. Pela primeira vez, de verdade, eu estou vivo &&&&&

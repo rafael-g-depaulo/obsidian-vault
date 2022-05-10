@@ -1,0 +1,282 @@
+Anything not explicit in here shall be taken from http://www.openlegendrpg.com/core-rules/00-introduction.
+Explanations of the core rules are preceded with (CR), House rules are preceded with (HR)
+
+RULE #1:
+    The DM is god, and their word is law.
+
+RULE #2:
+    see rule 1.
+
+RULES #3-#??:
+
+#### ATTRIBUTES & LEVELING ##########################################################################################
+
+    - (CR) there are 18 attributes:
+        *physical:
+            # Agility
+            # Fortitude
+            # Might
+
+        *mental:
+            # Learning
+            # Logic
+            # Perception
+            # Will
+
+        *social:
+            # Deception
+            # Persuasion
+            # Presence
+
+        *special:
+            # Alteration
+            # Creation
+            # Energy
+            # Entropy
+            # Influence
+            # Movement
+            # Precience
+            # Protection
+
+    - (CR) In order to increase one attribute by one point, attribute points shall be spent equal to the current level
+        of the attribute+1:
+        EX: in order to go from Might:4 to Might:5, 5 points are spent. to go from Deception:2 to Deception:3, 3 points
+            are spent.
+
+    - (CR modified) sugested starting character level: 0
+    - (CR modified) when creating a level 0 character they gain 40 attribute points and 6 feat points.
+        - Add (9 atribute points + 3 feat points + 3 skill points)*character starting level for other starting levels.
+
+    - (CR modified) Every time a character earns 1 XP, they gain 3 atribute points.
+    - (CR) Every 3rd XP a character gains grants them a level.
+    - (HR) Every level achieved grants a character 3 feat points and 3 skill points.
+
+#### PERKS, FLAWS, FEATS & SKILLS ###################################################################################
+
+    $$$ FEATS $$$$$$$$$:
+        - (CR) feats are bought using feat points.
+        - (HR) a feat may give a character a skill, or an inate buff or hability of sorts.
+        - (HR) feat points may be granted or taken from the character at character creation depending on the character's
+            flaws & perks. (*see: Flaws & Perks)
+
+    $$$ SKILLS & SKILL POINTS $$$:
+        - (HR) Whenever a character levels up they recieve 3 skill points they may spend to upgrade skills.
+        - (HR) Each skill may have multiple possible upgrade options, maybe giving it more damage, or lowering it's cost.
+        - (HR) A skill upgrade may cost multiple skill points.
+        - (HR) Skills are active habilities that characters have, that may cost stamina and/or mana.
+            - A skill may use a major or minor action. decided by the DM
+        - (HR) skills are designed by the DM or the player, and can be bought with feat points.
+            - The DM decides how many feat points a skill costs
+        - (HR) a skill may have atribute requirements, and cannot be purchased without them.
+        - (HR) a skill may have one or more scaling attributes, that atribute is added to the d20 when checking
+            if an action succeded
+        - (HR) if a skill has multiple scaling attributes, the higher one is chosen for rolls involving that skill.
+        - (HR) If a skill heals or does damage scaling with an attribute, the damage/heal scaling is decided by the
+            atribute roll
+            - check atribute roll table for what dice to roll
+        - (CR) A skill may have multiple levels available for use. a higher level of a skill may have a higher
+            requirements, scaling, damage, healing, chalenge rating and mana/stamina cost.
+        - (HR) failing in using a higher level skill that has lower level variants may cause the lower level to be
+            used instead (decided by the DM)
+        - (HR) landing a natural 20 when rolling for a skill may cause its higher level variant to be used if
+            available.
+
+    $$$ FLAWS & PERKS $$$$:
+        - (HR) At the DM's mercy, flaws may grant a character extra feat/atribute points, and perks may cost them.
+        - (HR) because of flaws & perks, a character may begin with more than 6 feat points, or even negative points.
+        - (HR) A character may acquire extra flaws or quirks throughout the journey, if the DM says so.
+            - Flaws acquired this way do not grant feat points
+            - Perks acquired this way MAY cost feat points (decided by the DM)
+        - (CR modified) Flaws and perks are designed by the player/DM at character creation, and give the character
+            inherit bonuses, vices or special characteristics role play, story and/or gameplay wise, that help give
+            the character their identity.
+        - (HR) Perks and flaws may grant or remove maximum Mana, Stamina or HP.
+
+    - (HR) feat points and skill points can be spent at any time of rest, but only then.
+        - Special exeptions may happen, when the DM says so.
+    - (CR) feat, skill and atribute points need not be used imediatelly. they can be saved for later spending.
+        - A list of available feats to buy is available at http://www.openlegendrpg.com/feats
+        - Feats can also be Designed by the player/DM. the price for them is decided by the DM.
+
+#### BANES & BOONS ##################################################################################################
+
+    $$$ Banes $$$$$$$$:
+        - (CR) Banes are status effects that can be inflicted onto a character, usually throung the use of a skill.
+            - In order to inflict a bane a character must meet the Bane's Attribute and/or Feat requirements.
+            - Trying to defend againts a bane is done through meeting the chalenge rating set by the DM for that
+                circumstance.
+        - (HR) If a defence roll is a critical failure, or the attack roll is a natural 20, the DM may chose to then
+                apply a higher level version of the same bane, if available.
+        - (HR) If a roll to inflict a bane fails by a little, the DM may chose that a lower level version of the
+                bane is inflicted instead, if available.
+        - (CR) A bane has a default duration. After every turn since it's inflicted with a bane, a character rolls
+                against a chalenge rating set by the DM (usually the same as the CR to defend against it initially)
+                to try to resist it. If a character keeps failing, the bane will expire at it's natural duration.
+
+    $$$ Boon $$$$$$$$:
+        - (CR) Boons are buffs that affect a character, and can be self aplied of given by a friendly skill or item
+            property.
+            - Most boons will be aplied through skills, and are automatically if the skill hits, or if the roll
+                surpassed the chalenge rating by some arbitrary ammount.
+        - (CR modified) Boons may either:
+            - Have a set duration
+            - Have a maximum duration, with the character(s) affected by the boon rolling to maintaing it every turn
+                against a Chalenge rating set by the DM. If it fails, the boon stops taking effect.
+        - (CR) Some boons can have their default duration extended if the character affected by it wishes to do so,
+            and surpass the Chalenge rating set by the DM, in a standard d20 roll plus two times the relevant attribute.
+        - (HR) If the roll to apply a boon lands a natural 20, or exceeds the Chalenge Rating by an arbitrary ammount,
+            a higher version of the Boon may be aplied, if available (and allowed by the DM)
+        - (HR) If the roll to apply a boon is slightly below the Chalenge Rating set by the DM, a lower level version
+            of the boon may be applied, if available (and allowed by the DM)
+
+#### COMBAT 'N SHIT #################################################################################################
+
+    $$$ DICE $$$$$$$$$:
+        - (HR) There are 3 kind of dice rolls that determine how incertainty happens in the story. Initiative Rolls
+            decide the order of action of characters in combat, and are decided with 1d20 + Agility. Attribute Rolls
+            decide wether a skill/attack/bane/boon hits or not, resistance to banes, etc., and are decided with 1d20
+            + 2 * Relevant Attribute. Damage Rolls decide Healing/Damage numbers, and are decided with the Attribute
+            dice table, using the dice correspondant with the relevant Attribute for the attack/skill, and use exploding
+            dice.
+        - (HR) Any relevant action that impacts the story will be rolled with a d20
+            - If there is a relevant atribute to the situation, it shall be dubbled, then added to the d20
+            - If the resulting d20+2*atribute is equal to or higher then the chalenge rating (set by the DM), the
+                action succeds.
+            - Otherwise, the DM decides if the action failed and the story continues, or if it succeds with a twist.
+            - The roll exceeding the chalenge rating by some arbitrary ammount may trigger additional effects, either
+                decided by the DM or explicited by a character feat
+            - If the d20 rolls a 20, the action will suceed automatically, and if it does damage or heals, the damage/heal
+                is doubled. if it inflicts a bane, the foe will have +1 disadvantage when rolling for future resistance.
+            - If the d20 rolls a 1, the action will fail automatically, independently of anything else.
+                - Listen to the DM, he'll say what happens next.
+        - (HR) Whenever a character is rolling for damage/healing and the character has 0 in the related atribute, it is
+            rolled an exploding 1d2(a coin toss).
+            - EX: this situation might occour if a mage-type character tries to perform a physical attack with a mace
+                while having 0 Might, for example.
+        - (CR modified) Whenever a roll is significantly higher than a specific chalenge rating, it is strongly recommended
+            that the DM reward the action. Also recommended is that the DM insitute higher and higher rewards for breaking
+            the chalenge rating more. examples of rewards are:
+                - Add +1 or +2 advantage to damage/healing roll
+                - Nullify or lessen the costs of performing the action (recoil damage, mana/stamina cost, etc.)
+                - Just flat out double the damage, D&D style.
+                - let the character perform another major action (recommended +1 or +2 disadvantage)
+                - inflict a bane onto the target (if attacking)
+                - inflict a boon onto the target or themselves(if supporting/defending/resisting)
+
+    $$$ INITIATIVE $$$:
+        - (HR) whenever combat starts, all characters involved in combat roll 1d20 + their respective Agility.
+            The results then are ordered descendingly, and that becomes the order of actions each turn.
+
+    $$$ DODGE $$$$$$$$:
+        - (HR) if a character's Might is higher than 1.5 times their Agility (Rounded up), their dodge is 0
+            - (HR) this aplies only to Dodge coming from stats. Dodge coming from equipment, feats or other
+                means isn't nulified.
+        - (HR) Whenever trying to hit an opponent aware of the attack, the chalenge rating to be overcome is
+            increased by the defender's Dodge.
+        - (HR) If an attack hits, even though the character had a Dodge level higher than 0, and the defender was
+            aware of the attacker, the defender takes only a portion of the damage, inverselly proportional to the
+            defender's Dodge.
+        - (HR) Dodge is based on a character's Agility, Perception and size*(smaller is better).
+            - Dodge also scales negativelly with Might (increasing might decreases dodge)
+            - hint for character building: Agility > Perception for increasing dodge.
+        - (HR) Dodge may also be increased by equipment, feats, boons, etc.
+        - (HR) Dodge can go below 0, but the formula that reduces damage taken is ignored if so.
+            - (If the formula wasn't ignored, the damage taken would be increased by a percentage proporcional
+                to the absolute value of the now negative Dodge)
+
+    $$$ ACTIONS $$$$$$:
+        - During a characters turn in combat they may chose perform the actions listed below, in any wich order:
+            - 1 Movement Action (move their character)
+            - 1 Major Action (e.g.: all attacks, most skills, maintaining concentration skills(exceptions may occour), defending, etc.)
+            - Any number of Minor Actions (e.g.: some skills are considered to be Minor Actions)
+
+        - There are also Complete Actions. (e.g.: some more powerfull skills)
+            - A character may chose to perform one Complete Action instead of their normal turn, and therefore forgo
+                their Movement, Major and Minor actions.  
+            - A character that cannot take a Major Action also can't perform a Complete Action.
+
+    $$$ GUARD $$$$$$$$:
+        - (HR) if a character's Agility is higher than 1.5 times their Might (Rounded up), their guard is 0
+            - (HR) this aplies only to Guard coming from stats. Guard coming from equipment, feats or other
+                means isn't nulified.
+        - (HR) Whenever a character is hit, the damage is (AFTER dodge), reduced by their guard stat.
+        - (HR) Guard is based on the character's Might, Fortitude, Protection and size*(bigger is better).
+            - hint for character building: Might > Fortitude > Protection for increasing Guard.
+        - (HR) Guard may also be increased by equipment, feats, boons, etc.
+        - (HR) (optional) Since the size bonus can be negative, guard may be negative, increasing damage taken
+            by a flat ammount.
+
+        *Size is decided by the DM when a character is created, and goes from 1 to 10;
+
+    $$$ DEFENDING $$$$:
+        - (HR) A character may spend their major action to prepare a defense, that lasts until their next turn.
+            the character rolls a defense score, wich is equal to: 1d20 + Dodge + Defense Attribute Score for that
+            situation (DM's choice wich attribute applies to wich situation)
+
+        - (HR) Any attacks made against the character are then checked against their defense score, and the
+            apropriate effect is applied:
+
+            ATK Roll >  DEF Roll:   the attack follows as usual
+            ATK Roll <= DEF Roll:   the attack follows, but deals half damage and the defender has +1Advantage
+                                        on any resistance against any Banes the attack might inflict
+            ATK Roll <= DEF Roll-5: the attack deals no damage, and inflicts no bane
+                                        
+
+#### HP, MANA & STAMINA ############################################################################################
+
+    $$$ STAMINA $$$$$:
+        - (HR) Stamina is a secret resource a character has that scales with the character's physical attributes and level.
+            - hint for character building:  Fortitude > Agility > Might for stamina increase.
+        - (HR) Exceptional physical feats (attacking, some types of movement, blocking attacks) and some skills drain
+            the user's stamina
+        - (HR) When a character has insuficient stamina to perform an action it still rolls, but has +1 disadvantage
+            if the character has positive stamina values, +2 disadvantage if has stamina between 0 and -25% of their
+            maximum stamina, and fails automatically if they have less then -25% of their maximum stamina.
+        - (HR) Performing actions that exert stamina when at 0 or below stamina may have consequences besides the
+            disadvantage (the DM will roll a secret d20 to see wich one). those may include:
+                - increase the character's maximum stamina
+                - lower the damage or healing the character would have done with the action
+                - deal damage to the character
+                - have the character black out from over exertion
+                - decrease the character's maximum stamina
+
+    $$$ MANA $$$$$$$$:
+        - (HR) Mana is a resource that scales with the character's level, Learning and Will attributes, and their highest
+            special attribute
+            - hint for character building:  Learning > Will > Special Atribute for mana increase.
+        - (HR) if a character can't spend mana in any way, their mana is considered 0 at all times
+
+    $$$ HP $$$$$$$$$:
+        - (CR) Hit Points (HP) are an abstract measure of how well a character can ignore pain, avoid deadly blows, and
+            maintain a presence on the battlefield in spite of wounds or exhaustion.
+        - (HR) Whenever a non-player character reaches 0 hp, they die (unless the DM decides otherwise, then rules for
+            player characters apply)
+        - (HR) Whenever a player character reaches 0 hp the DM will roll 1d20 and not tell the players the result.
+            - The roll will be measured against a chalenge rating set by the DM for that specific instance of the
+                situation.
+            - depending on the roll, the character may:
+                - die
+                - pass out
+                - defy death and gain a burst of Energy
+                - gain a mortal wound and lose maximum health
+                - slowly bleed out if not assisted soon
+                - etc.
+            - The DM may (and is encouraged to) not tell the players wich of the possibilities happened to the
+                character, and just let the players try to improvise, assuming the worst.
+
+        - (HR) HP is based on the character's Fortitude, Presence, Might, Will and Level.
+            - hint for character creation: Fortitude = Presence > Might > Will for HP increase.
+    
+   $$$ Recovery Dice $$$$$:
+
+      - (HR) after each full rest, a character regains all of their Stamina, plus a portion of their MP/HP.
+        - MP/HP RECOVERY FORMULA:
+
+          MP RECOVERED = 25%(rounded down)MaxMP + 2*MP Dice
+          HP RECOVERED = 20%(rounded down)MaxHP +   HP Dice
+
+$$$$$ PALADINS & FAVOUR $$$$$$$$$$$$$$$$$
+
+    - (HR) when spending mana on a skill granted by their deity, or performing some action the deity aproves, a paladin
+        gains favour with that deity. When certain levels of favour are reached, the paladin may receive a gift from their
+        deity.

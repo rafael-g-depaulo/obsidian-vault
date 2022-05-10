@@ -1,0 +1,45 @@
+Attribute Substituition:
+  Tiers: 2
+  Cost: 2 per tier
+
+  Effect:
+    Can susbtitute one attribute (A) for another (B), in certain circunstances. 
+
+    Tier 1:
+      - Can make non-attack, non-defend rolls with A instead of B
+      - Meet Feat Prerequisites with A instead of B
+      - Meet Item Prerequisites with A instead of B (at DM's discretion. May need tier 2)
+
+    Tier 2:
+      - can make attack/defend rolls with A instead of B
+      - can invoke banes/boons with A instead of B
+
+  OBS: one attribute may NEVER be used in place of another in any formula calculation (e.g.: HP, Mana, Stamina, Guard, Dodge)
+
+Tough as Nails:
+  Tiers: 2
+  Cost: 2 per tier
+
+  Prerequisites:
+    Tier 1: Fortitude 3
+    Tier 2: Fortitude 5
+
+  Effect:
+    You permanently gain 8 (up from 5) extra hit points per tier of this feat you possess.
+
+Battlefield Retribution
+  Tiers: 2
+  Cost: 2 per Tier
+
+  Prerequisites:
+    Agility 4, Might 4 or Any Extraordinary 4
+
+  Effect:
+    Tier 1:
+      When you prepare a defense on your turn, and your defense roll is greater than your opponents'
+        attack roll by at least 5, you may perform an attack of oportunity on them.
+
+    Tier 2:
+      When you prepare a defense on your turn, and your defense roll is greater than your opponents'
+        attack roll, you may perform an attack of oportunity on them. This also applies if an opponent
+        tried to attack you and dealt no (physical) damage.
