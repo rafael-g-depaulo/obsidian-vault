@@ -35,9 +35,9 @@ TODO: Add description here
 
 **Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
 
-**Save Roll Proficiencies:** XXXXX, YYYYYYYY.
+**Save Roll Proficiencies:** STR, CON.
 
-<div class='classTable'>
+\<div class='classTable'>
 ##### Warrior
 | Level | Proficiency Bonus | Features                    |
 |:-----:|:---:|:------------------------------------------|
@@ -61,7 +61,7 @@ TODO: Add description here
 | 18th  | +9  | Warrior Feat, Precise Strike +16          |
 | 19th  | +10 | Warrior Feat, Attribute Score Improvement |
 | 20th  | +10 | Warrior Feat, Action Surge (3)            |
-</div>
+\</div>
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 

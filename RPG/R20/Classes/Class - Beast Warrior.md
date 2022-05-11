@@ -26,11 +26,11 @@ TODO: Add description here
 
 **Equipment Proficiencies:** Simple weapons, martial weapons.
 
-**Save Roll Proficiencies:** XXXXX, YYYYYYYY.
+**Save Roll Proficiencies:** CON, SEN.
 
-<div class='classTable'>
+\<div class='classTable'>
 ##### Beast Warrior
-| Level | Proficiency Bonus | Features                                                   |
+| Level | Proficiency Bonus | Features  |
 |:-----:|:---:|:------------------------------------------------------------------------ |
 | 1st   | +1  | Rage (+2)                                                                |
 | 2nd   | +1  | Beast Warrior Feat, Savage Attack (1d4+CON)                              |
@@ -52,9 +52,9 @@ TODO: Add description here
 | 18th  | +9  | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5)             |
 | 19th  | +10 | Beast Warrior Feat, Attribute Score Improvement                          |
 | 20th  | +10 | Beast Warrior Feat                                                       |
-</div>
+\</div>
 
-**Rage.** You can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
+**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
@@ -90,7 +90,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 > A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 >
 
-- *Wild Rage: Owlbear*. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your attacks' damage.
+- *Wild Rage: Owlbear*. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
 - *Wild Rage: Direwolf*. Passive: Gain your CON mod as extra movement speed. You have +2 to attack rolls and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 

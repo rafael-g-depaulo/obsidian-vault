@@ -23,9 +23,9 @@ TODO: Add description here
 
 **MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain 6 extra per level.
 
-**Equipment Proficiencies:** ....
+**Equipment Proficiencies:** none.
 
-**Save Roll Proficiencies:** SEN, INT.
+**Save Roll Proficiencies:** SEN.
 
 **Spellcasting Modifier:** INT
 

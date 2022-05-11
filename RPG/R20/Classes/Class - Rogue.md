@@ -26,7 +26,7 @@ TODO: Add description here
 
 **Equipment Proficiencies:** Simple weapons, light and medium armor.
 
-**Save Roll Proficiencies:** XXXXX, YYYYYYYY.
+**Save Roll Proficiencies:** DEX, INT.
 
 <div class='classTable'>
 ##### Rogue

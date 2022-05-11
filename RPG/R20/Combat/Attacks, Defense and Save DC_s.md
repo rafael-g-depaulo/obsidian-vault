@@ -35,7 +35,7 @@ Unlike physical attacks, spell attacks in general don't add the caster's spellca
 Some spells use a spell save DC instead. For that, see the Save DC Section below.
 
 ## Saves
-For some spell and other abilities certain classes have an enemy has to roll ot try to escape from the ability. The DC for that roll is determined by the formula below:
+For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 
 **8 + proficiency modifier + relevant attribute modifier**
 
@@ -61,18 +61,11 @@ The formula for a character's Guard is:
 
 - **Equipment bonus + Constituition modifier**
 
-Besides contributing to a character's Defense, Guard also allows them to use *Endurance*.
-
-**Endurance:** a character may spend a movement action 2MP: for the rest of the scene, all damage they take that's equal or below their guard is reduced to 0 (the DM may rule otherwise for specific damage types, such as psychic damage). 
+Besides contributing to a character's Defense, Guard also allows them to use [[Combat Actions#Endurance]].
 
 ### Dodge
 The formula for a character's Dodge is:
 
 - **Equipment bonus + Dexterity modifier**
 
-Besides contributing to a character's Defense, Dodge also allows them to use *Uncanny Dodge*.
-
-**Uncanny Dodge:** a character may, upon taking damage, spend a reaction and 3PM to halve the incoming damage. You can't spend more PM using Uncanny Dodge in a scene than you have Dodge.
-
-Example: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to attack them has to roll a 18 or higher to hit them), can use Uncanny Dodge up to 2 times per scene, and their Endurance allows them to shrug off attacks of 8 or less points of damage. If they use Endurance and take 3 attacks dealing 7, 14 and 5 damage, the first and third attacks have their damage reduced to 0.
-
+	Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].

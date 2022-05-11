@@ -55,7 +55,7 @@ TODO: Add description here
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard".
 
-**POWERFUL STRIKE (GOLPE PODEROSO).** While you're on guard: Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
+**POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
 
 ### Shield Warrior Feats
 
@@ -69,6 +69,34 @@ Begining at level 2, every time you gain a level in Champion you gain a Shield W
 
 - *Vingança*. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
 
-- *Quebrar Guarda*. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, e 2 de Guard e ganha +2 Força até levantar a guarda de novo.
+- *Quebrar Guarda*. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Força até levantar a guarda de novo.
 
-- *Defesa absoluta*. Você tem +1 Guard quando está de Guarda Levantada. Você pode pegar esse poder até 2 vezes. Pré-requisitos: 5º e 8º nível de Shield Warrior, respectivamente.
+- *"A melhor defesa..."*. Ação de Movimento (1PM): Até o final da cena, você tem -1 de Guard e +1 de Força. A cada 3 níveis, pode gastar +2PM para receber -1 Guard e +1 Força.
+
+- *Golpe Derrubador*. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[(WIP) Battle Maneuvers#Derrubar]])
+
+- *Golpe Empurrador*. Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você empurra o alvo. (Veja: [[(WIP) Battle Maneuvers]])
+
+- *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance.
+
+- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (2+mod. Força) quadrados de você. Terremoto ativa Golpe Derrubador, Golpe Empurrador e Golpe em Arco automaticamente. Pré-requisito: 10º nível em Shield Warrior. Golpe Derrubador, Golpe Empurrador e Golpe em Arco.
+
+- *Defesa Impenetrável*. Enquanto estiver de Guarda Alta, você tem +2 Guard. 
+
+- *Defesa Implacável*. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
+
+- *Defesa Intocável*. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Pré-requisito: Defesa Impenetrável.
+
+- *Defesa Impregnável*. (Guarda Alta) Você pode gastar 2PM e somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
+
+- *Defesa Imbatível*. (Você negou um ataque com [[Combat Actions#Endurance]]) Ação Livre (1PM): Você recebe +1 de Força até o final da cena.
+
+- *Defesa Inabalável*. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
+
+- *Defesa Inflexível*. (Guarda Alta) 2PM: Até você sair de onde está, pode gastar uma ação de movimento e 1 PM para realizar um ataque. Pré-requisito: Defesa Impenetrável.
+
+- *Defesa Impermeável* (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
+
+- *Defesa Invencível*. (Guarda Alta) Até receber dano pela primeira vez na rodada, você tem +2 Guard. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+
+- *Defesa Indestrutível*. (Guarda Alta) Reação (4PM): Quando você receber damp que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.

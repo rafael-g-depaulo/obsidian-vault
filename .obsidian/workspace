@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "faf23742a285f8c9",
+        "id": "365540beb9eca9f6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
+            "file": "RPG/R20/Classes/Class - Shield Warrior.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "899f9c0c03c80de9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RPG/R20/Classes/Class - Beast Warrior.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6f2bcb7c5541a226",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RPG/R20/Combat/Combat Actions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
+                "file": "RPG/R20/Classes/Class - Beast Warrior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Bestiary/Boitatá Filhote.md",
+                "file": "RPG/R20/Classes/Class - Beast Warrior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +141,17 @@
     "direction": "horizontal",
     "width": 126
   },
-  "active": "faf23742a285f8c9",
+  "active": "899f9c0c03c80de9",
   "lastOpenFiles": [
-    "RPG/R20/Bestiary/Boitatá Filhote.md",
-    "RPG/R20/Bestiary/Ent, Newborn.md",
-    "RPG/R20/Proficiency.md",
-    "RPG/R20/Origins.md",
-    "RPG/R20/(WIP) Conditions.md",
+    "RPG/R20/Classes/Class - Beast Warrior.md",
     "RPG/R20/(WIP) Battle Maneuvers.md",
-    "Templates/R20/Monster.md",
-    "Templates/R20/Spell.md",
-    "Anime n stuff/To watch.md",
-    "RPG/T20/Ssaak'Iid/sessions/12 ... & Baratas!.md"
+    "RPG/R20/Classes/Class - Shield Warrior.md",
+    "RPG/R20/Combat/Combat Actions.md",
+    "RPG/R20/Combat/Attacks, Defense and Save DC_s.md",
+    "Endurance.md",
+    "RPG/R20/Combat/Actions/Endurance.md",
+    "RPG/R20/(WIP) Conditions.md",
+    "RPG/R20/Combat/Movement.md",
+    "RPG/R20/Classes/Class - Warrior.md"
   ]
 }
