@@ -25,12 +25,12 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 - **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's base MP Cost can't exceed the value in the table below:
 
 ##### Off Caster maximum spell circle per Level
-| Level | Spell's Circle | Base MP Cost |
-|:-----:|:--------------:|:------------:|
-| 1-4   | 1              | 1            |
-| 5-7   | 2              | 2            |
-| 8-10  | 3              | 3            |
-| 11-12 | 4              | 4            |
-| 13-14 | 5              | 6            |
-| 15-16 | 6              | 8            |
-| 17-20 | 7              | 10           |
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |

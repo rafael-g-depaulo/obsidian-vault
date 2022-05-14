@@ -10,6 +10,9 @@
 - [[Detect Poison and Disease]]
 - [[Goodberry]]
 - [[Snare]]
+- [[Área Escorregadia]]
+- [[Teia]]
+- [[Enfeitiçar]]
 
 ### Thunderwave
 - **Level:** 1
@@ -48,76 +51,6 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 - **Duration:** Instantaneous
 You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Área Escorregadia
-Arcana 1 (Convocação)
-Execução: padrão; Alcance: curto;
-Alvo ou Área: quadrado de 3m ou 1
-objeto; Duração: cena; Resistência:
-Reflexos (veja texto).
-Esta magia recobre uma superfície com
-uma substância gordurosa e escorregadia.
-Criaturas na área devem passar na
-resistência para não cair. Nas rodadas
-seguintes, criaturas que tentem movimentar-
-se pela área devem fazer testes
-de Acrobacia para equilíbrio (CD 10).
-Área Escorregadia pode tornar um item
-escorregadio. Uma criatura segurando
-um objeto afetado deve passar na
-resistência para não deixar o item cair
-cada vez que usá-lo.
-+1 PM: aumenta a área em +1 quadrado
-de 1,5m.
-+2 PM: muda a CD dos testes de
-Acrobacia para 15.
-+5 PM: muda a CD dos testes de Acrobacia
-para 20.
-
-Teia
-Arcana 1 (Convocação)
-Execução: padrão; Alcance: curto;
-Área: cubo com 6m de lado; Duração:
-cena; Resistência: Reflexos anula.
-Teia cria várias camadas de fibras entrelaçadas
-e pegajosas na área. Qualquer
-criatura na área que falhar na resistência
-fica enredada. Uma vítima pode se
-libertar com uma ação padrão e um
-teste de Acrobacia ou Atletismo. A
-área ocupada por Teia é terreno difícil.
-A Teia é inflamável. Qualquer ataque
-que cause dano de fogo destrói as teias
-por onde passar, libertando as criaturas
-enredadas mas deixando-as em chamas
-(veja Condições, no Apêndice).
-+1 PM: além do normal, criaturas que
-falhem na resistência também ficam
-imóveis.
-+2 PM: além do normal, no início de
-seus turnos a magia afeta novamente
-qualquer criatura na área, exigindo
-um novo teste de Reflexos. Requer 2º
-círculo.
-+2 PM: aumenta a área em +1 cubo
-de 1,5m.
-
 Abençoar Alimentos
 Divina 1 (Transmutação)
 Execução: padrão; Alcance: curto;
@@ -145,43 +78,6 @@ o alvo para 1 frasco com água e
 adiciona componente material (pó de
 prata no valor de T$ 5). Em vez do normal,
 cria um frasco de água benta.
-
-Enfeitiçar
-Arcana 1 (Encantamento)
-Execução: padrão; Alcance: curto;
-Alvo: 1 humanoide; Duração: cena;
-Resistência: Vontade anula.
-Esta magia torna o alvo prestativo (veja
-a página 118). Ele não fica sob seu controle,
-mas percebe suas palavras e ações
-da maneira mais favorável possível.
-Você recebe um bônus de +10 em testes
-de Diplomacia com a vítima. Um
-alvo hostil ou que esteja envolvido em
-um combate recebe +5 em seu teste de
-resistência. Se você ou seus aliados tomarem
-qualquer ação hostil contra o
-alvo, a magia é dissipada e o alvo retorna
-à atitude que tinha antes (ou piorada,
-de acordo com o mestre).
-+2 PM: em vez do normal, você sugere
-uma ação para o alvo e ele obedece.
-A sugestão deve ser feita de modo
-que pareça aceitável, a critério do mestre.
-Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia.
-Já sugerir a um guarda que descanse
-um pouco, de modo que você e seus
-aliados passem por ele, é aceitável.
-Quando o alvo executa a ação, a magia
-termina. Você pode determinar
-uma condição específica para a sugestão:
-por exemplo, que um rico mercador
-doe suas moedas para o primeiro
-mendigo que encontrar.
-+5 PM: muda o alvo para 1 espírito ou
-monstro. Requer 3º círculo.
-+5 PM: afeta todos os alvos dentro do
-alcance.
 
 Suporte Ambiental
 Divina 1 (Abjuração)

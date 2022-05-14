@@ -46,15 +46,15 @@ ___
 - Investigation: 0 = +0
 - Logic: 0 = +0
 - History: 0 = +0
-- Arcana: 0 = +0
 - Medicine: 0 = +0
 - Nature: 0 = +0
 
 #### Sensibility (+0):
-- Perception: 0 = +0
+- Arcana: 0 = +0
+- Animal Handling: 0 = +0
 - Empathy: 0 = +0
 - Insight: 0 = +0
-- Animal Handling: 0 = +0
+- Perception: 0 = +0
 
 #### Presence (+0):
 - Deception: 0 = +0

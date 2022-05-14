@@ -15,6 +15,9 @@ Lista de magias que eu adaptei de T20
 - [[Perdição]]
 - [[Primor Atlético]]
 - [[Toque Chocante]]
+- [[Área Escorregadia]]
+- [[Teia]]
+- [[Enfeitiçar]]
 
 ##### 3rd Circle
 - [[Campo de Força]]

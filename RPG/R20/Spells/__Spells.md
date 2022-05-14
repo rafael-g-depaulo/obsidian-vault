@@ -13,7 +13,7 @@ Full-casters and Off-Casters start at level 1 knowing 3 and 1 known spells, resp
 
 The maximum level of a spell a character can learn is given by the below table (see also: Spell Levels).
 
-##### Maximum level of known spells
+##### Maximum circle of known spells
 | Char Level | Full-Caster | Off-Caster |
 |:----------:|:-----------:|:----------:|
 | 1          | 1           | 1          |
@@ -43,11 +43,11 @@ The maximum level of a spell a character can learn is given by the below table (
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
 
 ### Concentration
-Some spells require you to maintain concentration in order to keep their m agic active. If you lose concentration, such a spell ends. If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
 
 - **Casting another spell that requires concentration**. You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
 
-- **Taking damage**. Whenever you take damage while you are concentrating on a spell, you must make a Willpower roll to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+- **Taking damage**. Whenever you take damage while you are concentrating on a spell, you must make a Constituition saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
 
 - **Being incapacitated or killed**. You lose concentration on a spell if you are incapacitated or if you die.
 
@@ -56,16 +56,16 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 
 | Spell Level | Base MP Cost |
 |:-----------:|:------------:|
-| cantrips    | 0            |
-| 1           | 1            |
-| 2           | 2            |
-| 3           | 3            |
-| 4           | 4            |
-| 5           | 6            |
-| 6           | 8            |
-| 7           | 10           |
-| 8           | 12           |
-| 9           | 15           |
+|  cantrips   |      0       |
+|      1      |      1       |
+|      2      |      2       |
+|      3      |      3       |
+|      4      |      4       |
+|      5      |      6       |
+|      6      |      8       |
+|      7      |      10      |
+|      8      |      12      |
+|      9      |      15      |
 
 ## Spell List
 Global list of all spells, divided by circLe:

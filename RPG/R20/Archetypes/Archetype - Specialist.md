@@ -15,7 +15,7 @@ A Specialist's maximum HP and MP are calculated as such:
 A specialist has access to all Specialist Feats.
 
 ### Attacks
-None by default
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
 
 ### Spells
 None by default
