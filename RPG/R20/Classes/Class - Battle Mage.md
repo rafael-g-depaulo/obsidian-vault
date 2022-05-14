@@ -1,22 +1,6 @@
 #class
-```metadata
-title: Class - Battle Mage
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Battle Mage
-
-##### Archetype: Off-Caster
+##### [[Archetype - Off-Caster]]
 
 TODO: Add description here
 
@@ -54,10 +38,10 @@ TODO: Add description here
 | 19th  | +10 | Battle Mage Feat                                            |
 | 20th  | +10 | Battle Mage Feat                                            |
 
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal ammount by 1d8+1
+**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
-**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (15ft square centered on you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a meele spell attack, and it deals 1d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the abilitie's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
-
+**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (1sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 1d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
+****
 ### Battle Mage Feats
 
 Begining at level 2, every time you gain a level in Battle Mage you gain a Battle Mage Feat. You may instead of a Battle Mage feat take a Martial or General Feat of your choice.
@@ -68,7 +52,7 @@ Begining at level 2, every time you gain a level in Battle Mage you gain a Battl
 
 - *Spiritual Magic*. Whenever you cast a Spell with a range of touch, you can cast it through your Spiritual Weapon.
 
-- *Magically Powered*. Whenver you cast a spell of first circle or higher, you can spend another 3PM to perform a Spiritual Weapon Attack as a free action.
+- *Magically Powered*. Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
 
 - *Defensive Spiritual Weapon*. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Battle Mage.
 

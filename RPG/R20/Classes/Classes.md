@@ -60,8 +60,8 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 ### Symbiote (Martial)
 Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
 
-### Alquimist/Runic Mage/Cook (Specialist)
-must prepare stuff beforehand. must aquire ingredients.
+### Alquimist/Cook (Specialist)
+[[Class - Alquimist]]
 
 ### Beast Master (Off-Caster? really complicated)
 Can summon and control low CR animals.

@@ -1,24 +1,6 @@
 #class 
-```metadata
-title: Class - Beast Warrior (WIP)
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Beast Warrior
-
-##### Archetype: Martial
-
-TODO: Add description here
+##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
 
@@ -94,7 +76,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Wild Rage: Direwolf*. Passive: Gain your CON mod as extra movement speed. You have +2 to attack rolls and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 
-- *Wild Rage: Sharkodile*. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod.
+- *Wild Rage: Sharkodile*. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below their max HP and has been damaged this scene).
 
 - *Ímpeto*. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 

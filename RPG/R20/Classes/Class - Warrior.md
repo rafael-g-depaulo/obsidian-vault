@@ -1,33 +1,6 @@
-#class 
-```metadata
-title: Class - Warrior
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
-```css
-/*=======---  Example CSS styling  ---=======*/
-/* Any CSS here will apply to your document! */
-
-.myExampleClass {
-	  color: black;
-}
-```
-
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
+#class
 # Warrior
-
-##### Archetype: Martial
-
-TODO: Add description here
+##### [[Archetype - Specialist]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
 

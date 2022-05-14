@@ -62,6 +62,8 @@ When a character levels up they gain proficiency points, which they may distribu
 
 A character's proficiency bonus for any given skill can only reach up to the maximum defined in the following table.
 
+OBS: most likely this will need to change to 2 every levelup + INT mod every even level up
+
 ##### Maximum Proficiency Bonus per level
 | Level | Max Proficiency Bonus |
 |:-----:|:----------------------|
@@ -85,4 +87,3 @@ A character's proficiency bonus for any given skill can only reach up to the max
 | 18    | +15                   |
 | 19    | +15                   |
 | 20    | +15                   |
-

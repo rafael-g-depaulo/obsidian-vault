@@ -1,24 +1,6 @@
 #class 
-```metadata
-title: Class - Champion
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Shield Warrior
-
-##### Archetype: Martial
-
-TODO: Add description here
+##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
 
@@ -63,15 +45,21 @@ Begining at level 2, every time you gain a level in Champion you gain a Shield W
 
 - *Tanque de Combate*. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
 
-- *Nome Pendente*. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre.
-
-- *Nome Pendente*. Você dá mais 1 dado de dano nos seus críticos de estiver de guarda alta
-
 - *Vingança*. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
+
+- *"Tragam o próximo"*. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre. Você ganha +1 Força até o final da cena.
+
+- *"A melhor defesa..."*. Ação de Movimento (1PM): Até o final da cena, você tem -1 de Guard e +1 de Força. A cada 3 níveis, pode gastar +2PM para receber -1 Guard e +1 Força.
 
 - *Quebrar Guarda*. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Força até levantar a guarda de novo.
 
-- *"A melhor defesa..."*. Ação de Movimento (1PM): Até o final da cena, você tem -1 de Guard e +1 de Força. A cada 3 níveis, pode gastar +2PM para receber -1 Guard e +1 Força.
+- *Crítico Fortificador*. Quando acertar um ataque crítico, você recebe +1 Força até o final da cena.
+
+- *Crítico Brutal*. Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.
+
+- *Crítico Poderoso*. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
+
+-  *Golpe Brutal*. (durante ataque crítico) Ao usar Golpe Poderoso (+3PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
 
 - *Golpe Derrubador*. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[(WIP) Battle Maneuvers#Derrubar]])
 
@@ -79,7 +67,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Shield W
 
 - *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance.
 
-- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (2+mod. Força) quadrados de você. Terremoto ativa Golpe Derrubador, Golpe Empurrador e Golpe em Arco automaticamente. Pré-requisito: 10º nível em Shield Warrior. Golpe Derrubador, Golpe Empurrador e Golpe em Arco.
+- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (2+mod. Força) quadrados de você. Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Pré-requisito: 10º nível em Shield Warrior. 2 poderes de Shield Warrior que começam com "Golpe \_\_\_\_".
 
 - *Defesa Impenetrável*. Enquanto estiver de Guarda Alta, você tem +2 Guard. 
 
@@ -97,6 +85,11 @@ Begining at level 2, every time you gain a level in Champion you gain a Shield W
 
 - *Defesa Impermeável* (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
 
-- *Defesa Invencível*. (Guarda Alta) Até receber dano pela primeira vez na rodada, você tem +2 Guard. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+- *Defesa Inatingível*. (Guarda Alta) Até receber dano pela primeira vez na rodada, você tem +2 Guard. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
-- *Defesa Indestrutível*. (Guarda Alta) Reação (4PM): Quando você receber damp que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+- *Defesa Indestrutível*. (Guarda Alta) Reação (4PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+
+
+TODO: add more stuff to help/interact with/defend rest of party.
+
+Also, maybe Juggernaut is a better name for the class?

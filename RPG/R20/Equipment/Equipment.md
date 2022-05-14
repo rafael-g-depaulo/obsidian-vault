@@ -83,7 +83,7 @@ undefined
 
 **Light**. A light w eapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-**Loading**. Because of the time required to load this weapon, you can fire only one piece o f ammunition from it when you fire it, regardless of the number of attacks you can normally make.
+**Loading**. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you fire it, regardless of the number of attacks you can normally make.
 
 **Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the w eapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
@@ -93,6 +93,6 @@ undefined
 
 **Reach**. This weapon adds 5 feet to your reach when you attack with it.
 
-**Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the w eapon is used with two hands to make a melee attack.
+**Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.

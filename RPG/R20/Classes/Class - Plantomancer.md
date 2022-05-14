@@ -1,23 +1,6 @@
 #class 
-```metadata
-title: Class - Plantomancer
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Plantomancer
-
-##### Archetype: Full-Caster
-
-TODO: Add description here
+##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
@@ -29,7 +12,7 @@ TODO: Add description here
 
 **Spellcasting Modifier:** INT
 
-<div class='classTable'>
+\<div class='classTable'>
 ##### Plantomancer
 | Level | Proficiency Bonus | Features                                          |
 |:-----:|:---:|:----------------------------------------------------------------|
@@ -53,7 +36,7 @@ TODO: Add description here
 | 18th  | +9  | Plantomancer Feat, Magic Seed (11)                              |
 | 19th  | +10 | Plantomancer Feat, Attribute Score Improvement                  |
 | 20th  | +10 | Plantomancer Feat, Magic Seed (12)                              |
-</div>
+\</div>
 
 **MAGIC SEED.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 

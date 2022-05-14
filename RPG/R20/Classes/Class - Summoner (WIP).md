@@ -1,15 +1,6 @@
 #class 
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Summoner
-
-##### Archetype: Caster
-
-TODO: Add description here
+##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with XX (+CON mod.) maximum hit points, and gain an extra X (+CON mod.) per level.
 

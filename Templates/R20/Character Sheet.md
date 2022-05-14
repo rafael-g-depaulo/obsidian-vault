@@ -21,7 +21,7 @@ ___
 ___
 **Save Roll Proficiencies(Resistência)**: XXXXXXX, YYYYYYY
 ___
-**Movement Speed**: 20ft (4 squares)
+**Movement Speed**: 6m (4 squares)
 
 ### Attributes
 - **STR**: 18 (+4)
