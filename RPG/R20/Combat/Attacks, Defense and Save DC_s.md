@@ -54,7 +54,9 @@ If they aren't proficient in saves with that attribute, the roll is:
 <div></div>
 When an attack or spell has a roll instead of a save DC, the chalenge rating it should meet to hit the target is the target's Defense. The target's defense (also known as armor class) is calculated as:
 
-- **10 + Maximum(Dodge, Guard)**
+- **10 + Maximum(Dodge, Guard) + Defense Bonus**
+
+Defense Bonus is given by items, spells, abilities, circumstances (e.g. cover), etc.
 
 ### Guard
 The formula for a character's Guard is:

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3ead488851c10b8b",
+        "id": "ca26ccd6ced2c8c6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Spells/__T20 spells.md",
+            "file": "RPG/R20/Characters/PCs/Syril.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "9eb3f765a56da785",
+        "id": "4028387889bf5d95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Spells/__Spells.md",
+            "file": "RPG/R20/Classes/Classes.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Spells/__T20 spells.md",
+                "file": "RPG/R20/Characters/PCs/Syril.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Spells/__T20 spells.md",
+                "file": "RPG/R20/Characters/PCs/Syril.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,25 +122,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6b02c9853ebdbb54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 126,
-    "collapsed": true
+    "width": 126
   },
-  "active": "3ead488851c10b8b",
+  "active": "ca26ccd6ced2c8c6",
   "lastOpenFiles": [
-    "RPG/R20/Spells/__T20 spells.md",
-    "RPG/R20/Spells/__Spell List - Plantomancer.md",
-    "RPG/R20/Spells/Teia.md",
-    "RPG/R20/Spells/Área Escorregadia.md",
-    "Templates/R20/Character Sheet.md",
-    "RPG/R20/Classes/Class - Alquimist.md",
+    "RPG/R20/Characters/PCs/Syril.md",
+    "RPG/R20/Classes/Classes.md",
+    "RPG/R20/Attributes & Skills/Skills _ Skill Checks.md",
     "RPG/R20/Archetypes/Archetype - Off-Caster.md",
-    "RPG/R20/Spells/__Spells.md",
-    "RPG/R20/Archetypes/Archetype - Specialist.md",
-    "RPG/R20/Classes/Class - Warrior.md"
+    "RPG/R20/Archetypes/Archetype - Caster.md",
+    "RPG/R20/Spells/Toque Chocante.md",
+    "RPG/R20/Spells/Thunderwave.md",
+    "RPG/R20/Origins.md",
+    "RPG/R20/Combat/Attacks, Defense and Save DC_s.md",
+    "RPG/R20/Items/Equipment.md"
   ]
 }

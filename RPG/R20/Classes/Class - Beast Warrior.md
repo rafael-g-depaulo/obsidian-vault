@@ -54,11 +54,11 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Hibernation*. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
 
-- *Powerful Savage Attacks*. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 10 Beast Warrior.
+- *Powerful Savage Attacks*. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
 
 - *Alma de Bronze*. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Força.
 
-- *Pele de Aço*. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de bárbaro.
+- *Pele de Aço*. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de Beast Warrior.
 
 - *Pele de Ferro*. Você recebe +2 na Defesa, mas apenas se não estiver usando armadura pesada.
 
@@ -74,7 +74,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Wild Rage: Owlbear*. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
-- *Wild Rage: Direwolf*. Passive: Gain your CON mod as extra movement speed. You have +2 to attack rolls and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
+- *Wild Rage: Direwolf*. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 
 - *Wild Rage: Sharkodile*. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below their max HP and has been damaged this scene).
 

@@ -32,12 +32,12 @@ Spider Sense. feel energy. percieve magic. identify magical items.
 #### Intimidation (PRE)
 #### Persuasion (PRE)
 
-### Finding/Acquiring information
+### Finding/Remembering/Acquiring information
 #### Investigation (INT)
 look for something physically
 #### Logic (INT)
 #### History (INT)
-#### Arcana (INT)
+#### Arcana (SEN)
 
 ### Miscellaneous
 #### Performance (PRE)
@@ -47,6 +47,11 @@ look for something physically
 #### Nature (INT)
 #### Animal Handling (SEN)
 
+### Tools
+#### Cook's Tools (INT)
+#### Smith's Tools (INT)
+#### Alquemist's Tools (INT)
+#### Herbalist's Tools (INT)
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:

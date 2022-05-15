@@ -50,24 +50,24 @@ undefined
 | Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0        |
 | Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0        |
 
-| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty  |
-|------------------------------------|-------|-------|------|-----|----------|
-| Hide (Gibão de peles)              | 1     | 1     |  10g | 8   | 0        |
-| Camisa de couro de Cobra           | 2     | 1     |  75g | 8   | 0        |
-| Camisa de couro de Crocodilo       | 1     | 2     |  75g | 9   | 0        |
-| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   | -1       |
-| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  | -2       |
-| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3       |
-| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3       |
+| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty (deprecated? probably gonna remove/rework it) | 
+| ---------------------------------- | ----- | ----- | ---- | --- | ----------------------------------------------------- |
+| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   | 0                                                     |
+| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   | 0                                                     |
+| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   | 0                                                     |
+| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   | -1                                                    |
+| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  | -2                                                    |
+| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3                                                    |
+| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3                                                    |
 
-| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty  |
-|--------------------------------|-------|-------|--------|-----|----------|
-| Ring mail ()                   | -1    | 2     |    30g | 12  | -3       |
-| Chain mail ()                  | -2    | 3     |    75g | 13  | -4       |
-| Splint ()                      | -3    | 4     |   200g | 14  | -5       |
-| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5       |
+| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty (deprecated? probably gonna remove/rework it) | Movement |
+| ------------------------------ | ----- | ----- | ------ | --- | ----------------------------------------------------- | -------- |
+| Ring mail                      | -1    | 2     | 30g    | 12  | -3                                                    | 0        |
+| Chain mail                     | -2    | 3     | 75g    | 13  | -4                                                    | 0        |
+| Splint                         | -3    | 4     | 200g   | 14  | -5                                                    | -1sqr    |
+| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5                                                    | -2sqr    | 
 
-| Shield       | Dodge | Guard | Cost | STR | Penalty  |
+| Shield       | Dodge | Guard | Cost | STR | Penalty (deprecated? probably gonna remove/rework it)   |
 |--------------|-------|-------|------|-----|----------|
 | Buckler      | 2     | 1     |   5g | -   | 0        |
 | Light Shield | -3    | 2     |  15g | -   | -1       |
@@ -76,6 +76,8 @@ undefined
 \**STR*: The minimum strength score requirement to wear the armor.
 
 \**Penalty*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
+
+\*Movement: Movement speed penalty while wearing.
 
 **Finesse**. When making an attack with a finesse weapon, you use your choice o f your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 

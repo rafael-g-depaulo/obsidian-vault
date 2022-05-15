@@ -74,6 +74,10 @@ Global list of all spells, divided by circLe:
 - [[Toll the Dead]]
 - [[Acid Splash]]
 - [[Chill Touch]]
+- [[Thorn Whip]]
+- [[Primal Savagery]]
+- [[Magic Stone]]
+- [[Poison Spray]]
 
 ##### 1st Circle
 - [[Arma Mágica]]
@@ -94,6 +98,9 @@ Global list of all spells, divided by circLe:
 - [[Perdição]]
 - [[Primor Atlético]]
 - [[Toque Chocante]]
+- [[Área Escorregadia]]
+- [[Teia]]
+- [[Enfeitiçar]]
 
 ##### 2nd Circle
 - [[Aid]]

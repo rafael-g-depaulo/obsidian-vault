@@ -36,11 +36,22 @@
 | 20th  |        +10        | Alquimist Feat |
 \</div>
 
-**Benefitial Concoction.** Spend PM, get potion with random benefitial effect.
+**Elixir Experimental.** Spend PM, get potion with random benefitial effect.
+
+| d6  | Efeito Positivo                                                                                         |
+|:---:|:------------------------------------------------------------------------------------------------------- |
+|  1  | 2d4+INT PV                                                                                              |
+|  2  | +2sqr (3m) velocidade de movimento                                                                      |
+|  3  | +1 Defesa                                                                                               |
+|  4  | +1d4 em rolagens de ataque e testes de resistência                                                      |
+|  5  | 1d4 PM temporários                                                                                      |
+|  6  | 50% de chance de perder sua ação de movimento ou ganhar uma ação padrão extra no início dos seus turnos |
 
 **Poison.** Spend PM, get poison.
 
 **Ingredients.** Can store up to X ingredients. If you use them, the MP cost of your stuff is decreased.
+
+Ideia: cada dia tem x poções positivas/negativas, limitado pelos ingredientes que coletou.
 
 ****
 

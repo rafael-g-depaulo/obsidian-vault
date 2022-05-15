@@ -5,6 +5,10 @@ List of spells i adapted from D&D.
 - [[Toll the Dead]]
 - [[Acid Splash]]
 - [[Chill Touch]]
+- [[Thorn Whip]]
+- [[Primal Savagery]]
+- [[Magic Stone]]
+- [[Poison Spray]]
 
 ##### 1st Circle
 - [[Arma Mágica]]
@@ -22,9 +26,7 @@ List of spells i adapted from D&D.
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Mage Hand]]
-- [[Perdição]]
-- [[Primor Atlético]]
-- [[Toque Chocante]]
+- [[Sleep]]
 
 ##### 2nd Circle
 - [[Aid]]

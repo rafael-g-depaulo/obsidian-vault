@@ -60,16 +60,18 @@ ___
 - Performance: 0 = +1
 
 ### Powers
-- **Magic defense, bitch.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados). *Pré-requisito*: treinado em Luta.
+- **Magic defense, bitch.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados).
+
+- **Dropout.** +2 to Intelligence based skill checks to recall information.
 
 ### Abilities
 
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**CURAR PELAS MÃOS.** Action (1PM): touch one creature, and heal them for 1d8+1.
+**Curar Pelas Mãos.** Action (1PM): touch one creature, and heal them for 1d8+1.
 
 ### Attacks
-- **Maça**: +4 to hit. 1d6+3 impacto. 19/2x critical.
+- **Maça**: +6 to hit. 1d6+3 impacto. 19/2x critical.
 
 ### Equipment
 Chain Mail:
@@ -82,24 +84,4 @@ Mace:
 	- crit: 19/2x
 
 ### Spells
-
-#### Toque chocante (TEMP)
-*1th-level*
-___
-- **Casting Time:** 1 action
-- **Range:** touch
-- **Duration:** Instantaneous
-- **Resistência:** Fortidude reduz a metade
-
-Arcos elétricos envolvem sua mão,
-causando 2d8+2 pontos de dano de
-eletricidade. Se o alvo usa armadura de
-metal (ou carrega muito metal, a critério
-do mestre), sofre uma penalidade
-de –5 no teste de resistência.
-
-+1 PM: aumenta o dano em 1d8+1.
-+2 PM: como parte da execução da
-magia, você faz um ataque corpo a corpo
-contra o alvo. Se acertar, causa o
-dano do ataque e da magia.
+![[Toque Chocante]]
