@@ -1,12 +1,3 @@
-```css
-/*=======---  Example CSS styling  ---=======*/
-/* Any CSS here will apply to your document! */
-
-.myExampleClass {
-	  color: black;
-}
-```
-
 # Recovery
 An adventuring character recovers HP and MP mainly through resting. There are 4 different kinds of resting conditions:
 

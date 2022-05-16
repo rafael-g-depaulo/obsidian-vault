@@ -81,12 +81,5 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 
 - *Herbomancia: Raizes Enredantes*. 2PM. alcance: círculo com XX raio. terreno difícil e prende todos que entram. Pré-requisito: Herbomancia: Raizes Mágicas.
 
-
 ### Spell List
-
-<div class='spellList'>
-##### 1st Circle 
-- Arma Mágica
-- Bênção
-
-</div>
+![[__Spell List - Plantomancer]]

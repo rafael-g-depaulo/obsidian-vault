@@ -1,5 +1,5 @@
 #class 
-# Shield Warrior
+# Juggernaut
 ##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
@@ -8,40 +8,40 @@
 
 **Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
 
-**Save Roll Proficiencies:** Strength, Constituition.
+**Save Roll Proficiencies:** Strength, Constitution.
 
-##### Shield Warrior
+##### Juggernaut
 | Level | Proficiency Bonus | Features                                   |
 |:-----:|:---:|:---------------------------------------------------------|
 | 1st   | +1  | Raise Guard (CON)                                             |
-| 2nd   | +1  | Shield Warrior Feat, Raise Guard (1+CON)                      |
-| 3rd   | +2  | Shield Warrior Feat, Powerful Strike (1d10+STR)                                            |
-| 4th   | +2  | Shield Warrior Feat, Attribute Score Improvement, Raise Guard (2+CON)               |
-| 5th   | +3  | Shield Warrior Feat, Extra Attack (1), Powerful Strike (2d10+STR)             |
-| 6th   | +3  | Shield Warrior Feat, Attribute Score Improvement, Raise Guard (3+CON)               |
-| 7th   | +4  | Shield Warrior Feat,                       |
-| 8th   | +4  | Shield Warrior Feat, Raise Guard (4+CON)                                            |
-| 9th   | +5  | Shield Warrior Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
-| 10th  | +5  | Shield Warrior Feat, Raise Guard (5+CON)                        |
-| 11th  | +6  | Shield Warrior Feat, Extra Attack (2)                          |
-| 12th  | +6  | Shield Warrior Feat, Attribute Score Improvement, Raise Guard (6+CON)               |
-| 13th  | +7  | Shield Warrior Feat, Powerful Strike (4d10+STR)                               |
-| 14th  | +7  | Shield Warrior Feat, Raise Guard (7+CON)                        |
-| 15th  | +8  | Shield Warrior Feat, Attribute Score Improvement               |
-| 16th  | +8  | Shield Warrior Feat, Raise Guard (8+CON)                                            |
-| 17th  | +9  | Shield Warrior Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
-| 18th  | +9  | Shield Warrior Feat, Raise Guard (9+CON)                       |
-| 19th  | +10 | Shield Warrior Feat, Attribute Score Improvement               |
-| 20th  | +10 | Shield Warrior Feat, Raise Guard (10+CON)                                            |
+| 2nd   | +1  | Juggernaut Feat, Raise Guard (1+CON)                      |
+| 3rd   | +2  | Juggernaut Feat, Powerful Strike (1d10+STR)                                            |
+| 4th   | +2  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (2+CON)               |
+| 5th   | +3  | Juggernaut Feat, Extra Attack (1), Powerful Strike (2d10+STR)             |
+| 6th   | +3  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (3+CON)               |
+| 7th   | +4  | Juggernaut Feat,                       |
+| 8th   | +4  | Juggernaut Feat, Raise Guard (4+CON)                                            |
+| 9th   | +5  | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
+| 10th  | +5  | Juggernaut Feat, Raise Guard (5+CON)                        |
+| 11th  | +6  | Juggernaut Feat, Extra Attack (2)                          |
+| 12th  | +6  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (6+CON)               |
+| 13th  | +7  | Juggernaut Feat, Powerful Strike (4d10+STR)                               |
+| 14th  | +7  | Juggernaut Feat, Raise Guard (7+CON)                        |
+| 15th  | +8  | Juggernaut Feat, Attribute Score Improvement               |
+| 16th  | +8  | Juggernaut Feat, Raise Guard (8+CON)                                            |
+| 17th  | +9  | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
+| 18th  | +9  | Juggernaut Feat, Raise Guard (9+CON)                       |
+| 19th  | +10 | Juggernaut Feat, Attribute Score Improvement               |
+| 20th  | +10 | Juggernaut Feat, Raise Guard (10+CON)                                            |
 
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard".
 
 **POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
 
-### Shield Warrior Feats
+### Juggernaut Feats
 
-Begining at level 2, every time you gain a level in Champion you gain a Shield Warrior Feat. You may instead of a Shield Warrior Feat take a Martial or General Feat of your choice.
+Begining at level 2, every time you gain a level in Champion you gain a Juggernaut Feat. You may instead of a Juggernaut Feat take a Martial or General Feat of your choice.
 
 - *Tanque de Combate*. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
 
@@ -67,7 +67,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Shield W
 
 - *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance.
 
-- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (2+mod. Força) quadrados de você. Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Pré-requisito: 10º nível em Shield Warrior. 2 poderes de Shield Warrior que começam com "Golpe \_\_\_\_".
+- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (2+mod. Força) quadrados de você. Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Pré-requisito: 10º nível em Juggernaut. 2 poderes de Juggernaut que começam com "Golpe \_\_\_\_".
 
 - *Defesa Impenetrável*. Enquanto estiver de Guarda Alta, você tem +2 Guard. 
 

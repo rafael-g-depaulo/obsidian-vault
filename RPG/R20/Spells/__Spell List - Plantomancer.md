@@ -1,5 +1,3 @@
-
-
 ##### Cantrips (Circle 0) 
 - [[Thorn Whip]]
 - [[Primal Savagery]]

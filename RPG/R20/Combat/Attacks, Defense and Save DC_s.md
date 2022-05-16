@@ -8,7 +8,6 @@ renderer: legacy
 ```
 
 ## Attacks
-
 ### Physical Attacks
 To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
 

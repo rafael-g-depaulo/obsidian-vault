@@ -1,6 +1,6 @@
 #class
 # Warrior
-##### [[Archetype - Specialist]]
+##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
 

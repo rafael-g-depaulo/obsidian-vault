@@ -1,19 +1,10 @@
-```metadata
-title: Origins
-description: ''
-tags: ''
-systems: []
-renderer: V3
-
-```
-
 # Origins
+(Act in a similar way to races in other fantasy TTRPGs)
 
 Origins usually give +4, +2 and -2 to 3 attributes, and the equivalent of ~2 powers.
 
 ## Origin Lists
-Here's a list of origins:
-
+Here's a list of origins: (e em parênteses qual raça do T20 eu quibei pra montar elas)
 
 ### Generalist (Human)
 **Attributes**: +2 to 3 different attributes.

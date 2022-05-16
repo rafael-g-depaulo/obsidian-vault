@@ -1,9 +1,14 @@
 # Proficiency
-Proficiency is used mainly for 2 things: determining the DC for a skill's effect, and making attack rolls. A character's proficiency is directly determined by their overall level, following the formula below.
+Proficiency is used mainly for 3 things:
+	- determining the DC for a skill's effect (i.e.: the DC to resist a character's magic)
+	- making attack rolls
+	- making saving throws with an attribute a character is proficient in
+
+A character's proficiency is directly determined by their overall level, following the formula below.
 
 - **Proficiency: char's level / 2 (rounded up) **
 
-Examples: here's a table with the proficiency levels for all levels from 1 to 20.
+Here's a table with the proficiency levels for all levels from 1 to 20.
 
 ##### Proficiency Bonus per level
 | Level | Proficiency Bonus |

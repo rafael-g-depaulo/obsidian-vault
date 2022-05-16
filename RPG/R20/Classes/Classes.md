@@ -1,12 +1,3 @@
-```css
-/*=======---  Example CSS styling  ---=======*/
-/* Any CSS here will apply to your document! */
-
-.myExampleClass {
-	  color: black;
-}
-```
-
 # Classes
 classes are always from one of the archetypes, and add aditional abilities that the character earns as they level. they also offer powers that the character may take at each level up after the first
 
@@ -30,7 +21,7 @@ rage
 Beastly Rage. Savage Attack
 
 ### Shield Warrior
-[[Class - Shield Warrior]]
+[[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
 
 ### Battle Mage

@@ -1,9 +1,4 @@
-```css
-undefined
-```
-
 ## Simple Weapons
-
 | Melee Weapons  | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
 | Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |

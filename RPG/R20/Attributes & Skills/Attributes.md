@@ -59,7 +59,6 @@ You have 27 points to spend on your ability scores. The cost is shown in the tab
 ## Effects
 Besides skill checks, attacks, ability and spell DCs and other class features, most Attributes also have other effects for your character.
 
-
 **Strength**: Your movement speed is increased by 5ft (1 square) times your strength modifier.
 
 **Dexterity**: Your Dodge is increased by your dexterity modifier (see: Attack rolls, Defense and save DCs).

@@ -68,7 +68,7 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 |      9      |      15      |
 
 ## Spell List
-Global list of all spells, divided by circLe:
+Global list of all spells, divided by circle:
 
 ##### Cantrips (Circle 0) 
 - [[Toll the Dead]]

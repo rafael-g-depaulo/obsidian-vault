@@ -1,20 +1,3 @@
-```metadata
-title: General & Archetype Feats
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
-```css
-/*=======---  Example CSS styling  ---=======*/
-/* Any CSS here will apply to your document! */
-
-.myExampleClass {
-	  color: black;
-}
-```
 
 <style>
   .phb h1+p:first-letter {
