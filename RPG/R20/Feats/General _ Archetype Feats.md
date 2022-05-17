@@ -9,7 +9,7 @@
 
 **Proficiência.** Escolha uma proficiência: armas marciais, armas de fogo, armaduras pesadas ou escudos (se for proficiente em armas marciais, você também pode escolher armas exóticas). Você recebe essa proficiência. Você pode escolher este poder outras vezes para proficiências diferentes.
 
-**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre). *Pré-requisito*: treinado em Iniciativa.
+**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 
 **Vitalidade.** Você recebe +1 PV por nível de personagem. *Pré-requisito*: Con 13.
 
@@ -19,7 +19,7 @@
 
 **Aparência Inofensiva.** A primeira criatura inteligente (Int 3 ou mais) que atacar você em uma cena deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Este poder só funciona uma vez por cena; independentemente de a criatura falhar ou não no teste, poderá atacá-lo nas rodadas seguintes. *Pré-requisito*: Car 13.
 
-**Atlético.** Você recebe +2 em Atletismo e +3m em seu deslocamento. *Pré-requisito*: For 15.
+**Atlético.** Você recebe +2 em Atletismo e +2sqr em seu deslocamento. *Pré-requisito*: For 15.
 
 **Atraente.** Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
 
@@ -27,7 +27,7 @@
 
 **Investigador.** Você recebe +2 em Investigação e soma seu bônus de Inteligência em Intuição. *Pré-requisito*: Int 13.
 
-**Sentidos Aguçados.** Você recebe +2 em Percepção, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem ou camuflagem total, pode rolar mais uma vez o dado da chance de falha. *Pré-requisitos*: Sab 13, treinado em Percepção.
+**Sentidos Aguçados.** Você recebe +2 em Percepção, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem ou camuflagem total, pode rolar mais uma vez o dado da chance de falha. *Pré-requisitos*: SEN 13, treinado em Percepção.
 
 **Linguista.** Você aprende 2 línguas a sua escolha.
 

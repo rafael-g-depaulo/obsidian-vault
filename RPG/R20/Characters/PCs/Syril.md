@@ -13,11 +13,11 @@ ___
 {{width:30px}}
 **Guard**: 7
 ___
-**Spell save DC (if caster)**: 11
+**Spell save DC**: 11
 ___
 **Proficiency Bonus**: +1
 ___
-**Save Roll Proficiencies(Resistência)**: SEN, DEX
+**Save Roll Proficiencies (Resistência)**: SEN, DEX
 ___
 **Movement Speed**: 9m (6 squares)
 

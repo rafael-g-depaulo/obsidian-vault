@@ -81,7 +81,6 @@ ___
 - **Hot Knife**:  +5 to hit. 1d4+6 slashing damage and 2d6 fire damage. 19/2x critical.
 
 ### Spells (if caster)
-
 #### Spell name
 *5th-level*
 ___
@@ -108,3 +107,13 @@ ___
 - **Duration:** Instantaneous
 
 Description description description description description description description description description description description description description description description description description description description.
+
+### Equipment
+Full plate armor:
+	- Dodge: -5
+	- Guard: +5
+	- Penalty: -5
+
+Great Sword:
+  - 2d6 slashing damage 19/2x crit
+  - heavy, two-handed

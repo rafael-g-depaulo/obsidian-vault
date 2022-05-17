@@ -14,7 +14,7 @@
 ##### Rogue
 | Level | Proficiency Bonus | Features                                                                                |
 |:-----:|:-----------------:|:--------------------------------------------------------------------------------------- |
-|  1st  |        +1         | Sneak Attack (1d6), Quick and Light                                                     |
+|  1st  |        +1         | Sneak Attack (1d6)                                                                      | 
 |  2nd  |        +1         | Rogue Feat, Expertise (INT skills, 1PM: +INT to roll)                                   |
 |  3rd  |        +2         | Rogue Feat, Sneak Attack (2d6)                                                          |
 |  4th  |        +2         | Rogue Feat, Attribute Score Improvement                                                 |
@@ -40,8 +40,6 @@
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-**QUICK AND LIGHT.** You don't have proficiency with martial weapons and heavy armor, start at level 1 with 4 less maximum HP than other martial classes and gain 2 less maximum HP per levelup than other martial classes. You add your dexterity modifier twice when calculating your Dodge.
-
 ### Rogue Feats
 
 Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat. You may instead of a Rogue feat take a Martial or General Feat of your choice.
@@ -51,6 +49,8 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - *Assassinate*. Você pode gastar uma ação de movimento e 3 PM para analisar uma criatura em alcance curto. Até o fim de seu próximo turno, seu primeiro Ataque Furtivo que causar dano a ela tem seus dados de dano extras dessa habilidade dobrados. Pré-requisito: 5º nível de ladino.
 
 - *Crítico Furtivo*. Quando você acerta um ataque crítico com um Ataque Furtivo, você muda o dado de dano de 1d6 para 1d8. Você pode escolher esse poder de novo para aumentar o dado para 1d10. Pré-requisitos: 8º e 12º nível de ladino para a primeira e segunda vez, respectivamente.
+
+- *Disparo Preciso.* Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.
 
 - *Emboscar*. Você pode gastar 2 PM para realizar uma ação padrão adicional em seu turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
 
@@ -65,7 +65,6 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - *Mente Criminosa*. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
 
 - *Oportunismo*. Você recebe +2 em testes de ataque contra inimigos que já sofreram dano desde seu último turno.
-
 
 - *Saqueador de Tumbas*. Você recebe +5 em testes de Investigação para encontrar armadilhas e em testes de Reflexos para evitá-las.
 

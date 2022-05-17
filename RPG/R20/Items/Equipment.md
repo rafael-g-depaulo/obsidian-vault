@@ -15,8 +15,8 @@
 
 | Ranged Weapons | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
-| Crossbow, light|   1d8  |  19  | Range (80/320), loading, 2-handed|
-| Shortbow       |   1d6  |  x3  | Range (80/320), 2-handed         |
+| Crossbow, light|   1d8  |  19  | Range (10sqr/20sqr), loading(movement), 2-handed|
+| Shortbow       |   1d6  |  x3  | Range (15sqr/40sqr), 2-handed         |
 
 ## Martial Weapons
 | Melee Weapons		 	| Damage 	| Crit 	| Properties       |
@@ -33,7 +33,7 @@
 
 | Ranged Weapons    | Damage | Crit |            Properties                       |
 |:-----------------:|:------:|:----:|:-------------------------------------------:|
-| Crossbow, heavy 	| 1d10   |  x3 	| Range (100/400), heavy, loading, 2-handed 	|
+| Crossbow, heavy 	| 1d10   |  x3 	| Range (100/400), heavy, loading(action), 2-handed 	|
 | Longbow         	| 1d8    |  19 	| Range (150/600), heavy, 2-handed          	|
 
 ## Armor
@@ -45,7 +45,7 @@
 | Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0        |
 | Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0        |
 
-| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty (deprecated? probably gonna remove/rework it) | 
+| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty (deprecated? probably gonna remove/rework it) |
 | ---------------------------------- | ----- | ----- | ---- | --- | ----------------------------------------------------- |
 | Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   | 0                                                     |
 | Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   | 0                                                     |
@@ -80,7 +80,7 @@
 
 **Light**. A light w eapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-**Loading**. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you fire it, regardless of the number of attacks you can normally make.
+**Loading**. This weapons needs to be reloaded before it can be fired again.
 
 **Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the w eapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
