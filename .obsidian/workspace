@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33a2b5c2da6e842f",
+        "id": "19e7fcb6ff78af96",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vsaúde/Vsaúde reunião 22-05-18.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vsaúde/Vsaúde reunião 22-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vsaúde/Vsaúde reunião 22-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +120,7 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "33a2b5c2da6e842f",
+  "active": "19e7fcb6ff78af96",
   "lastOpenFiles": [
     "Vsaúde/Vsaúde reunião 22-05-18.md",
     "Vsaúde/Vsaúde reunião 22-05-02.md",
