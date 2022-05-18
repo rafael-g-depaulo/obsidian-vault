@@ -60,7 +60,7 @@ Here's a list of origins: (e em parênteses qual raça do T20 eu quibei pra mont
 **I saw that one before!**: you have +2 on investigation checks to find traps, and to see if someone is trying to decieve you.
 
 ### Nature Explorer (Trog)
-**Attributes**: +4 CON, +2 STR, -2 SEN
+**Attributes**: +4 CON, +2 STR, -2 PRE
 **Powers**: 1 General Power of your choice. Forest Walker.
 
 **Forest Walker**: You can move through natural environments with dificult terrain as if they were of normal terrain.
