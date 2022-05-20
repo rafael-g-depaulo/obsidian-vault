@@ -89,7 +89,7 @@
 
 **Ataque Pesado.** Quando faz um ataque corpo a corpo com uma arma de duas mãos, você pode pagar 1 PM. Se fizer isso e acertar o ataque, além do dano você faz uma manobra derrubar ou empurrar contra o alvo como uma ação livre (use o resultado do ataque como o teste de manobra). *Pré-requisito*: Estilo de Duas Mãos.
 
-**Estilo de Duas Mãos.** Se estiver usando uma arma corpo a corpo com as duas mãos, você recebe +5 nas rolagens de dano. Este poder não pode ser usado com armas leves. *Pré-requisitos*: For 15, Treinado em Luta.
+**Estilo de Duas Mãos.** Se estiver usando uma arma corpo a corpo com as duas mãos, você recebe +5 nas rolagens de dano. Este poder não pode ser usado com armas leves. *Pré-requisitos*: For 15.
 
 **Estilo de Uma Arma.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados). *Pré-requisito*: treinado em Luta.
 

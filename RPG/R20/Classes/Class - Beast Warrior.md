@@ -6,7 +6,7 @@
 
 **MP**: 3 per level.
 
-**Equipment Proficiencies:** Simple weapons, martial weapons.
+**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor
 
 **Save Roll Proficiencies:** CON, SEN.
 

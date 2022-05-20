@@ -11,29 +11,28 @@
 **Save Roll Proficiencies:** Strength, Constitution.
 
 ##### Juggernaut
-| Level | Proficiency Bonus | Features                                   |
-|:-----:|:---:|:---------------------------------------------------------|
-| 1st   | +1  | Raise Guard (CON)                                             |
-| 2nd   | +1  | Juggernaut Feat, Raise Guard (1+CON)                      |
-| 3rd   | +2  | Juggernaut Feat, Powerful Strike (1d10+STR)                                            |
-| 4th   | +2  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (2+CON)               |
-| 5th   | +3  | Juggernaut Feat, Extra Attack (1), Powerful Strike (2d10+STR)             |
-| 6th   | +3  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (3+CON)               |
-| 7th   | +4  | Juggernaut Feat,                       |
-| 8th   | +4  | Juggernaut Feat, Raise Guard (4+CON)                                            |
-| 9th   | +5  | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
-| 10th  | +5  | Juggernaut Feat, Raise Guard (5+CON)                        |
-| 11th  | +6  | Juggernaut Feat, Extra Attack (2)                          |
-| 12th  | +6  | Juggernaut Feat, Attribute Score Improvement, Raise Guard (6+CON)               |
-| 13th  | +7  | Juggernaut Feat, Powerful Strike (4d10+STR)                               |
-| 14th  | +7  | Juggernaut Feat, Raise Guard (7+CON)                        |
-| 15th  | +8  | Juggernaut Feat, Attribute Score Improvement               |
-| 16th  | +8  | Juggernaut Feat, Raise Guard (8+CON)                                            |
-| 17th  | +9  | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
-| 18th  | +9  | Juggernaut Feat, Raise Guard (9+CON)                       |
-| 19th  | +10 | Juggernaut Feat, Attribute Score Improvement               |
-| 20th  | +10 | Juggernaut Feat, Raise Guard (10+CON)                                            |
-
+| Level | Proficiency Bonus | Features                                                                 |
+|:-----:|:-----------------:|:------------------------------------------------------------------------ |
+|  1st  |        +1         | Raise Guard (CON)                                                        |
+|  2nd  |        +1         | Juggernaut Feat, Raise Guard (1+CON)                                     |
+|  3rd  |        +2         | Juggernaut Feat, Powerful Strike (1d10+STR)                              |
+|  4th  |        +2         | Juggernaut Feat, Attribute Score Improvement, Raise Guard (2+CON)        |
+|  5th  |        +3         | Juggernaut Feat, Extra Attack (1), Powerful Strike (2d10+STR)            |
+|  6th  |        +3         | Juggernaut Feat, Attribute Score Improvement, Raise Guard (3+CON)        |
+|  7th  |        +4         | Juggernaut Feat                                                          |
+|  8th  |        +4         | Juggernaut Feat, Raise Guard (4+CON)                                     |
+|  9th  |        +5         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
+| 10th  |        +5         | Juggernaut Feat, Raise Guard (5+CON)                                     |
+| 11th  |        +6         | Juggernaut Feat, Extra Attack (2)                                        |
+| 12th  |        +6         | Juggernaut Feat, Attribute Score Improvement, Raise Guard (6+CON)        |
+| 13th  |        +7         | Juggernaut Feat, Powerful Strike (4d10+STR)                              |
+| 14th  |        +7         | Juggernaut Feat, Raise Guard (7+CON)                                     |
+| 15th  |        +8         | Juggernaut Feat, Attribute Score Improvement                             |
+| 16th  |        +8         | Juggernaut Feat, Raise Guard (8+CON)                                     |
+| 17th  |        +9         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
+| 18th  |        +9         | Juggernaut Feat, Raise Guard (9+CON)                                     |
+| 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
+| 20th  |        +10        | Juggernaut Feat, Raise Guard (10+CON)                                    |
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard".
 
@@ -88,8 +87,3 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 - *Defesa Inatingível*. (Guarda Alta) Até receber dano pela primeira vez na rodada, você tem +2 Guard. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
 - *Defesa Indestrutível*. (Guarda Alta) Reação (4PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
-
-
-TODO: add more stuff to help/interact with/defend rest of party.
-
-Also, maybe Juggernaut is a better name for the class?

@@ -1,0 +1,2 @@
+Names:
+    When a wood-elf is born, they receive a name (first + last) from their community/parents. When that elf reaches maturity and leaves, they may, at that point or somewhere in their journey, chose a new name. Usually the first name remains, and the last name changes

@@ -4,7 +4,7 @@ Adaga/Espada Curta
     um círculo, decorado com 4 pedras preciosas, e um mecanismo que roda o círculo.
     
 
-  -Girar a Roleta: Uma pessoa em posse da Lâmina de Artelo pode, como uma Ação Menor,
+  -Girar a Roleta: Uma pessoa em posse da Lâmina de Artelo pode, como uma ação de movimento,
     "girar a roleta". Ao fazer isso, a lamina ganha um efeito especial dependendo de
     qual pedra for escolhida pela rolagem de um 1d4. A duração do efeito é de 2 horas,
     e "Girar a Roleta" não pode ser ativado durante esse tempo
@@ -18,9 +18,8 @@ Adaga/Espada Curta
 
   Ametista: Quando uma criatura for cortada pela Lâmina de Artelo, ela tem que rolar
     para resistir o sonífero. Se ela falhar, ela cai em sono por 1 + 1d4 turnos. Para
-    resistir, a criatura rola 1d20 + Fortitude, contra um CR de 9 (Will contra CR 15
-    pra acordar. dura pelo menos 1 turno). O CR aumenta em 1 com cada golpe que a
-    criatura receber da Lâmina de Artelo
+    resistir, a criatura rola resistência (CON) contra um CR de 9. O CR aumenta em 1
+    com cada golpe que a criatura receber da Lâmina de Artelo
 
   Ruby: Quando uma criatura for cortada pela Lâmina de Artelo, ela sangra continuamente
     por 2 turnos. Durante esses dois turnos, a ferida não fecha, e a criatura sofre 1d2!

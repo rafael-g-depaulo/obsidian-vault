@@ -62,15 +62,15 @@ Where "Attribute Modifier" is the modifier to the character's corresponding main
 
 In rare circumstances the DM might ask for a different attribute to be used instead of the skill's normal one. Example: Intimidation through a show of force or visual display of apparent strength might use CON or STR as a substitute of PRE, if the DM agrees.
 
-### Proficiency Bonus
-When a character levels up they gain proficiency points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** proficiency points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
+### Skill points
+When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** proficiency points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
 
-A character's proficiency bonus for any given skill can only reach up to the maximum defined in the following table.
+A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
 
 OBS: most likely this will need to change to 2 every levelup + INT mod every even level up
 
-##### Maximum Proficiency Bonus per level
-| Level | Max Proficiency Bonus |
+##### Maximum Skill Bonus per level
+| Level | Max Skill Bonus |
 |:-----:|:----------------------|
 | 1     | +2                    |
 | 2     | +3                    |
