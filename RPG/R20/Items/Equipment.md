@@ -16,7 +16,7 @@
 | Ranged Weapons | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
 | Crossbow, light|   1d8  |  19  | Range (10sqr/20sqr), loading(movement), 2-handed|
-| Shortbow       |   1d6  |  x3  | Range (15sqr/40sqr), 2-handed         |
+| Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
 
 ## Martial Weapons
 | Melee Weapons		 	| Damage 	| Crit 	| Properties       |
@@ -33,8 +33,8 @@
 
 | Ranged Weapons    | Damage | Crit |            Properties                       |
 |:-----------------:|:------:|:----:|:-------------------------------------------:|
-| Crossbow, heavy 	| 1d10   |  x3 	| Range (100/400), heavy, loading(action), 2-handed 	|
-| Longbow         	| 1d8    |  19 	| Range (150/600), heavy, 2-handed          	|
+| Crossbow, heavy 	| 1d10   |  x3 	| Range (20sqr/40sqr), heavy, loading(action), 2-handed 	|
+| Longbow         	| 1d8    |  19 	| Range (25sqr/50sqr), heavy, 2-handed          	|
 
 ## Armor
 

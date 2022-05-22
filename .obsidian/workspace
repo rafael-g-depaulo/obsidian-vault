@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "11e9bb35a10de38f",
+        "id": "089187e307b1e010",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Characters/PCs/Kaiser.md",
+            "file": "RPG/R20/Bestiary/Bullywug, Shaman.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alquemy",
+                "query": "tag:#skeleton",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Characters/PCs/Kaiser.md",
+                "file": "RPG/R20/Bestiary/Bullywug, Shaman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Characters/PCs/Kaiser.md",
+                "file": "RPG/R20/Bestiary/Bullywug, Shaman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +127,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "11e9bb35a10de38f",
+  "active": "089187e307b1e010",
   "lastOpenFiles": [
-    "RPG/R20/Characters/PCs/Kaiser.md",
-    "RPG/R20/Characters/PCs/Zunnen.md",
-    "Untitled 1.md",
-    "RPG/R20/Origins.md",
-    "Anime n stuff/To watch.md",
-    "RPG/R20/Classes/Class - Juggernaut.md",
-    "RPG/R20/Characters/PCs/Syril.md",
-    "RPG/R20/Characters/PCs/Zyggs.md",
-    "RPG/R20/Feats/General _ Archetype Feats.md",
-    "RPG/R20/Items/Equipment.md"
+    "RPG/R20/Bestiary/Bullywug, Shaman.md",
+    "RPG/R20/Bestiary/Bullywub, Scout.md",
+    "RPG/R20/Bestiary/Bullywug, Spearman.md",
+    "RPG/R20/Spells/Entangle.md",
+    "RPG/R20/Spells/Enfeitiçar.md",
+    "RPG/R20/Spells/Aid.md",
+    "RPG/R20/Bestiary/Skeleton, Archer.md",
+    "RPG/R20/Items/Equipment.md",
+    "RPG/R20/Bestiary/Skeleton, Shield.md",
+    "RPG/R20/Bestiary/Skeleton, Skull on Arm.md"
   ]
 }

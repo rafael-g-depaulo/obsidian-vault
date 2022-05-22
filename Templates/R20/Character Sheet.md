@@ -3,17 +3,15 @@
 ___
 Level 88 class (archetype)
 ___
-Level 88 class (archetype)
-___
 **HP**: 88/88
 {{width:30px}}
 **MP**: 88/88
 ___
-**Defense**: 23
+**Defense**: 98
 ___
-**Dodge**: 6 
+**Dodge**: 88
 {{width:30px}}
-**Guard**: 13
+**Guard**: 88
 ___
 **Spell save DC (if caster)**: 18
 ___

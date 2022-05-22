@@ -1,0 +1,1 @@
+TODO: Add grungs and their variants. see: mordenkainen_presents_monsters_of_the_multiverse_color_deluxe, pg. 150

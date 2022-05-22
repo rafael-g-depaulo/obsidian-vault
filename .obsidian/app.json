@@ -9,5 +9,6 @@
   "tabSize": 2,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newFileLocation": "current"
 }
