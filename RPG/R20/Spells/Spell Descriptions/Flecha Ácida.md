@@ -2,7 +2,7 @@
 *3º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** médio
+- **Alcance:** 20sqr
 - **Alvo:** 1 criatura ou objeto
 - **Duração:** instantânea
 - **Resistência:** Reflexos parcial.

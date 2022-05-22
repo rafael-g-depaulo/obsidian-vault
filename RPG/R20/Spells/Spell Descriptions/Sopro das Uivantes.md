@@ -2,7 +2,7 @@
 *3º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** 6m
+- **Alcance:** 4sqr
 - **Área:** cone
 - **Duração:** instantânea
 - **Resistência:** Fortitude parcial.

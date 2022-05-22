@@ -2,7 +2,7 @@
 *3º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** curto
+- **Alcance:** 6sqr
 - **Alvos:** todas as criaturas (veja texto)
 - **Duração:** sustentada
  Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de dano, e todos os seus inimigos no alcance sofrem –2 em testes de perícia e rolagens de dano. Esses bônus e penalidades são cumulativos com outras magias.

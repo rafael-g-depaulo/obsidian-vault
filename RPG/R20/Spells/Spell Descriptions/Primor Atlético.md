@@ -6,7 +6,7 @@ ___
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
 
-Você modifica os limites físicos do alvo, que recebe deslocamento +9m e +10 em testes de Atletismo.
+Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 em testes de Atletismo.
 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30).
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala.

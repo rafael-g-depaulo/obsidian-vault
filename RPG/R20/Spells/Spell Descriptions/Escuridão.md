@@ -2,7 +2,7 @@
 *1º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** curto
+- **Alcance:** 6sqr
 - **Alvo:** 1 objeto
 - **Duração:** cena
 - **Resistência:** Vontade anula (veja texto).

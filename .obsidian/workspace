@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Spells/Spell List.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "66ac4355d1b7b0f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RPG/R20/Spells/Spell Descriptions/Teia.md",
+            "file": "RPG/R20/Spells/Spell List - Plantomancer.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Spells/Spell List.md",
+                "file": "RPG/R20/Spells/Spell List - Plantomancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Spells/Spell List.md",
+                "file": "RPG/R20/Spells/Spell List - Plantomancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +129,15 @@
   },
   "active": "089187e307b1e010",
   "lastOpenFiles": [
+    "RPG/R20/Spells/Spell List - Plantomancer.md",
     "RPG/R20/Spells/Spell List.md",
-    "RPG/R20/Spells/T20 spells.md",
+    "RPG/R20/Spells/Spell Descriptions/Primor Atlético.md",
     "RPG/R20/Spells/Spells.md",
     "RPG/R20/Spells/DND spells.md",
-    "RPG/R20/Spells/Spell List - Plantomancer.md",
-    "RPG/R20/Spells/Spell Descriptions/Teia.md",
-    "RPG/R20/Spells/Spell Descriptions/Acid Splash.md",
-    "RPG/R20/Items/Consumable Items.md",
-    "RPG/R20/Crafting.md",
-    "RPG/R20/Proficiency.md"
+    "RPG/R20/Spells/T20 spells.md",
+    "RPG/R20/Spells/Spell Descriptions/Imagem Espelhada.md",
+    "RPG/R20/Spells/Spell Descriptions/Insect Plague.md",
+    "RPG/R20/Spells/Spell Descriptions/Infligir Ferimentos.md",
+    "RPG/R20/Spells/Spell Descriptions/Heroísmo.md"
   ]
 }

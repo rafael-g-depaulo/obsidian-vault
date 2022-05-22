@@ -87,7 +87,7 @@ Global list of all spells, divided by circle:
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
-- [[Escudo da Fé]]
+- [[Escudo]]
 - [[Escuridão]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]

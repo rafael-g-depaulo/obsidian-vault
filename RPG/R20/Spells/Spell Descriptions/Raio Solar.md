@@ -2,7 +2,7 @@
 *3º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** médio
+- **Alcance:** 20sqr
 - **Área:** linha
 - **Duração:** instantânea
 - **Resistência:** Reflexos (veja texto).

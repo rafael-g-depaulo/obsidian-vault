@@ -2,7 +2,7 @@
 *1º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** curto
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura ou objeto mundano Pequeno
 - **Duração:** instantânea
 - **Resistência:** Fortitude parcial ou Reflexos anula.

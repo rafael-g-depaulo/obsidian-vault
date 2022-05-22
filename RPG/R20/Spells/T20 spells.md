@@ -7,7 +7,7 @@ Lista de magias que eu adaptei de T20
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
-- [[Escudo da Fé]]
+- [[Escudo]]
 - [[Escuridão]]
 - [[Explosão de chamas]]
 - [[Imagem Espelhada]]

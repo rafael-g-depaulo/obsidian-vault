@@ -1,3 +1,6 @@
+# Plantomancer
+List of spells available for a Plantomancer to learn.
+
 ##### Cantrips (Circle 0) 
 - [[Thorn Whip]]
 - [[Primal Savagery]]
@@ -65,19 +68,6 @@ o alvo para 1 frasco com água e
 adiciona componente material (pó de
 prata no valor de T$ 5). Em vez do normal,
 cria um frasco de água benta.
-
-Suporte Ambiental
-Divina 1 (Abjuração)
-Execução: padrão; Alcance: toque;
-Alvo: 1 criatura; Duração: 1 dia.
-Esta magia garante a sobrevivência
-em ambientes hostis. O alvo fica imune
-aos efeitos de calor e frio extremos,
-pode respirar na água se respirar
-ar (ou vice-versa) e não sufoca em
-fumaça densa.
-+5 PM: muda o alcance para curto e o
-alvo para criaturas escolhidas.
 
 Detectar Ameaças
 Divina 1 (Adivinhação)
@@ -168,14 +158,10 @@ dano dobrado por essa magia. Se
 o alvo é um objeto, é destruído (Reflexos
 anula).
 +2 PM: aumenta o dano em +1d8+2.
-+2 PM: muda o alvo para objeto mundano
-Médio. Requer 2º círculo.
-+5 PM: muda o alvo para objeto mundano
-Grande. Requer 3º círculo.
-+9 PM: muda o alvo para objeto mundano
-Enorme. Requer 4º círculo.
-+14 PM: muda o alvo para objeto
-mundano Colossal. Requer 5º círculo.
++2 PM: muda o alvo para objeto mundano Médio. Requer 2º círculo.
++5 PM: muda o alvo para objeto mundano Grande. Requer 3º círculo.
++9 PM: muda o alvo para objeto mundano Enorme. Requer 4º círculo.
++14 PM: muda o alvo para objeto mundano Colossal. Requer 5º círculo.
 
 Luz
 Universal 1 (Evocação)
@@ -198,11 +184,11 @@ para anulá-la. Luz anula Escuridão.
 e adiciona componente material
 (pó de rubi no valor de T$ 50). Requer
 2º círculo.
-+0 PM (Apenas Arcanos): muda
++0 PM: muda
 o alvo para 1 criatura. Você lança a magia
 nos olhos do alvo, que fica ofuscado
 pela cena. Não afeta criaturas cegas.
-+2 PM (Apenas Arcanos): muda o
++2 PM: muda o
 alcance para longo e o efeito para 4 esferas
 brilhantes. Cria esferas flutuantes
 de pura luz com 10cm de diâmetro,
@@ -219,22 +205,6 @@ uma criatura, ela fica ofuscada e sua silhueta
 pode ser vista claramente (ela
 não recebe camuflagem por escuridão
 ou invisibilidade). Requer 2º círculo.
-+2 PM (Apenas Divinos): a luz é
-cálida como a do sol. Criaturas que sofrem
-penalidades e dano pela luz solar
-sofrem seus efeitos como se estivessem
-expostos à luz solar real. Dentro
-da área seus aliados estabilizam automaticamente
-e ficam imunes à condição
-sangrando, e seus inimigos ficam
-ofuscados. Requer 2º círculo.
-+5 PM (Apenas Divinos): muda o
-alcance para toque e o alvo para 1 criatura.
-Em vez do normal, o alvo é envolto
-por um halo de luz, recebendo +10
-em testes de Diplomacia e resistência a
-trevas 10. Requer 2º círculo.
-
 
 Controlar Plantas
 Divina 1 (Transmutação)

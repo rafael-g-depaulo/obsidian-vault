@@ -2,7 +2,7 @@
 *1º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** curto
+- **Alcance:** 6sqr
 - **Alvos:** criaturas escolhidas
 - **Duração:** concentração
 - **Resistência:** nenhuma.

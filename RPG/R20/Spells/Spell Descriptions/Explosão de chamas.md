@@ -2,7 +2,7 @@
 *1º Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** 6m
+- **Alcance:** 4sqr
 - **Área:** cone
 - **Duração:** instantânea
 - **Resistência:** Reflexos reduz à metade.
