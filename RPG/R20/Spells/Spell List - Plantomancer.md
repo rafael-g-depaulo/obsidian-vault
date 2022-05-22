@@ -11,8 +11,8 @@
 - [[Goodberry]]
 - [[Snare]]
 - [[Área Escorregadia]]
-- [[Teia]]
 - [[Enfeitiçar]]
+- [[Entangle]]
 - [[Sleep]]
 - [[Thunderwave]]
 

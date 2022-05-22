@@ -11,20 +11,11 @@ List of spells i adapted from D&D.
 - [[Poison Spray]]
 
 ##### 1st Circle
-- [[Arma Mágica]]
-- [[Bênção]]
 - [[Bane]]
 - [[Bless]]
-- [[Concentração de Combate]]
-- [[Curar Ferimentos]]
-- [[Despedaçar]]
-- [[Escudo da Fé]]
-- [[Escuridão]]
-- [[Explosão de chamas]]
+- [[Entangle]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
 - [[Mage Hand]]
 - [[Sleep]]
 
