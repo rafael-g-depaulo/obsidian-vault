@@ -43,7 +43,7 @@ ___
 - History: 0 = +3
 - Medicine: 0 = +3
 - Nature: 0 = +3
-- Alquemy (t): 2 = +5
+- Alquemy (tool): 2 = +5
 
 #### Sensibility (+1):
 - Arcana: 0 = +1
