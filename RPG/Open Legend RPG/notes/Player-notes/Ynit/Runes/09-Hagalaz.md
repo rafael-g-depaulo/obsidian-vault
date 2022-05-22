@@ -10,4 +10,3 @@ Poem:
   é turbilhonado do cofre do paraíso
   e agitado por rajadas de vento,
   antes de derreter em água.
-

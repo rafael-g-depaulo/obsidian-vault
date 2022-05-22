@@ -9,6 +9,9 @@ List of spells i adapted from D&D.
 - [[Primal Savagery]]
 - [[Magic Stone]]
 - [[Poison Spray]]
+- [[Fog Cloud]]
+- [[Ray of Sickness]]
+- [[Earth Tremor]]
 
 ##### 1st Circle
 - [[Bane]]

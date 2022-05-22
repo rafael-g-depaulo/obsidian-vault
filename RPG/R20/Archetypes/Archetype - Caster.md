@@ -20,14 +20,14 @@ A Caster has access to all Caster Feats.
 - **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
 
 ##### Caster maximum spell circle per Level
-| Level | Spell's Circle | Base MP Cost |
-|:-----:|:--------------:|:------------:|
-| 1-2   | 1              | 1            |
-| 3-4   | 2              | 2            |
-| 5-6   | 3              | 3            |
-| 7-8   | 4              | 4            |
-| 9-10  | 5              | 6            |
-| 11-12 | 6              | 8            |
-| 13-14 | 7              | 10           |
-| 15-16 | 8              | 12           |
-| 17-20 | 9              | 15           |
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-2  |       1        |
+|  3-4  |       2        |
+|  5-6  |       3        |
+|  7-8  |       4        |
+| 9-10  |       5        |
+| 11-12 |       6        |
+| 13-14 |       7        |
+| 15-16 |       8        | 
+| 17-20 |       9        |

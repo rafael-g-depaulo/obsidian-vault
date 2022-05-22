@@ -18,6 +18,13 @@ Lista de magias que eu adaptei de T20
 - [[Área Escorregadia]]
 - [[Teia]]
 - [[Enfeitiçar]]
+- [[Abençoar Alimentos]]
+- [[Detectar Ameaças]]
+- [[Caminhos da Natureza]]
+- [[Tranquilidade]]
+- [[Canhão de Ervilha]]
+- [[Luz]]
+- [[Controlar Plantas]]
 
 ##### 3rd Circle
 - [[Campo de Força]]

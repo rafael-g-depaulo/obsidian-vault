@@ -67,7 +67,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 > 
 > Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto. Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
 >
-> As plantas criadas por Herbomancia tem 5 + 2*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
+> As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 
 - *Herbomancia: nome_planta_cobertura*. 1PM. nome_planta_cobertura crescer num numa linha de 4,5m no local onde a semente foi plantada. A nome_planta_cobertura funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida. 
 
