@@ -35,6 +35,8 @@
 
 **Proficiência com Armas Exóticas.** Você ganha proficiência com armas exóticas. *Pré-requisito*: Proficiência com Armas Marciais.
 
+**Lobo Solitário.** Você recebe +1 em testes de perícia e Defesa se estiver sem nenhum aliado em alcance curto. Você não sofre penalidade por usar a perícia Cura em si mesmo.
+
 **Alert.** Always on the lookout for danger, you gain the following benefits:
   - You gain a +3 bonus to initiative.
   - You can’t be surprised while you are conscious.
@@ -43,6 +45,12 @@
 **Healer.** As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number o f Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest. *Pré-requisitos*: definir depois
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
+
+**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre). *Pré-requisito*: 14 Dex.
+
+**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
+
+**Escriba Arcano.** Você pode aprender magias copiando os textos de pergaminhos e grimórios de outros magos. Aprender uma magia dessa forma exige meio dia de trabalho e 100g em matérias-primas por círculo da magia. Assim, aprender uma magia de 4º círculo exige 2 dias de trabalho e o gasto de 400g. *Pré-requisitos*: +5 História.
 
 # Caster Feats
 

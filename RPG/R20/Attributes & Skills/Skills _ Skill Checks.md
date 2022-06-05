@@ -38,6 +38,7 @@ look for something physically
 #### Logic (INT)
 #### History (INT)
 #### Arcana (SEN)
+Figuring out magic speels or items, understanding mystical beings.
 
 ### Miscellaneous
 #### Performance (PRE)
@@ -56,14 +57,14 @@ look for something physically
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
 
-- **Skill Check:** 1d20 + Attribute Modifier + Proficiency Bonus
+- **Skill Check:** 1d20 + Attribute Modifier + Skill Bonus
 
-Where "Attribute Modifier" is the modifier to the character's corresponding main attribute of the skill (e.g. when rolling an Insight Skill Check a character with 17 SEN would use +3 as their Attribute Modifier). Proficiency Bonuses are explained below.
+Where "Attribute Modifier" is the modifier to the character's corresponding main attribute of the skill (e.g. when rolling an Insight Skill Check a character with 17 SEN would use +3 as their Attribute Modifier). Skill Bonuses are explained below.
 
 In rare circumstances the DM might ask for a different attribute to be used instead of the skill's normal one. Example: Intimidation through a show of force or visual display of apparent strength might use CON or STR as a substitute of PRE, if the DM agrees.
 
-### Skill points
-When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** proficiency points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
+### Skill Bonus & Skill Points
+When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
 
 A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
 

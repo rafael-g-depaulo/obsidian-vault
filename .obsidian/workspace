@@ -7,8 +7,13 @@
         "id": "bccd0238e6e77b15",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RPG/R20/Characters/PCs/Syril.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RPG/R20/Characters/PCs/Syril.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RPG/R20/Characters/PCs/Syril.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +129,15 @@
   },
   "active": "bccd0238e6e77b15",
   "lastOpenFiles": [
+    "RPG/R20/Characters/PCs/Syril.md",
+    "RPG/R20/Characters/PCs/Toque Chocante.md",
+    "RPG/R20/Attributes & Skills/Skills _ Skill Checks.md",
+    "RPG/R20/Attributes & Skills/Attributes.md",
+    "RPG/R20/Feats/General _ Archetype Feats.md",
     "RPG/R20/(WIP) Conditions.md",
     "RPG/R20/Classes/Class - Beast Warrior.md",
     "RPG/Open Legend RPG/notes/DM-notes/NPCs/Ordem-da-Hidra/explicação da ordem.md",
     "RPG/Open Legend RPG/notes/DM-notes/NPCs/Ordem-da-Hidra/Fifinia Ticenti.md",
-    "RPG/Open Legend RPG/notes/DM-notes/my-players-things/Zyggs poisons.md",
-    "RPG/Open Legend RPG/notes/DM-notes/minigames/drinking-competitions.md",
-    "RPG/Open Legend RPG/notes/DM-notes/minigames/dice-games.md",
-    "RPG/Open Legend RPG/notes/DM-notes/minigames/card-games.md",
-    "Anime n stuff/To watch.md",
-    "RPG/R20/Attributes & Skills/Attributes.md"
+    "RPG/Open Legend RPG/notes/DM-notes/my-players-things/Zyggs poisons.md"
   ]
 }
