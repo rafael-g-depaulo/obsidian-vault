@@ -60,9 +60,9 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 -  *Golpe Brutal*. (durante ataque crítico) Ao usar Golpe Poderoso (+3PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
 
-- *Golpe Derrubador*. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[(WIP) Battle Maneuvers#Derrubar]])
+- *Golpe Derrubador*. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
 
-- *Golpe Empurrador*. Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você empurra o alvo. (Veja: [[(WIP) Battle Maneuvers]])
+- *Golpe Empurrador*. Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você empurra o alvo. (Veja: [[Battle Maneuvers]])
 
 - *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance.
 

@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Classes/Class - Plantomancer.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b9799578799dd576",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RPG/R20/Archetypes/Archetype - Caster.md",
+            "file": "RPG/R20/Conditions.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -33,124 +20,101 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cb65725c3b336ca",
-    "type": "split",
+    "id": "f8dd7ef9e255b9c4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "85a6fa3f2050d0ef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3c10be6e595b703",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "ea7c52c90d9d636d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#skeleton",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "34f9e49a257fc4a5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "a78890f773694d29",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ab86a7ca8b1f89d6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "beef5b77e2be7f0c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "440074a62f815650",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 293
+    "currentTab": 0
   },
   "right": {
-    "id": "2656195b13165f53",
-    "type": "split",
+    "id": "f91bae63f80b6c89",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "338135152cc09216",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90d7f62add28ce27",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "RPG/R20/Classes/Class - Plantomancer.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a032c3a3b7f9dab4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "RPG/R20/Classes/Class - Plantomancer.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6fea88411ef2bc9f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6b02c9853ebdbb54",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
+        "id": "03d112abfc2c06c2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "RPG/R20/Conditions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "303224f66199abf7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "RPG/R20/Conditions.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "bccd0238e6e77b15",
   "lastOpenFiles": [
+    "RPG/R20/Conditions.md",
+    "RPG/R20/Battle Maneuvers.md",
+    "RPG/R20/Paladins, Entities & Contracts/Entity List.md",
     "RPG/R20/Classes/Class - Plantomancer.md",
     "RPG/R20/Archetypes/Archetype - Caster.md",
     "RPG/R20/Spells/Spells.md",
     "RPG/R20/Spells/Spell List - Plantomancer.md",
     "RPG/R20/Spells/Spell Descriptions/Tranquilidade.md",
     "RPG/R20/Spells/Spell Descriptions/Abençoar Alimentos.md",
-    "RPG/R20/Spells/Spell Descriptions/Caminhos da Natureza.md",
-    "RPG/R20/Spells/T20 spells.md",
-    "RPG/R20/Spells/DND spells.md",
-    "RPG/R20/Spells/Spell Descriptions/Luz.md"
+    "RPG/R20/Spells/Spell Descriptions/Caminhos da Natureza.md"
   ]
 }

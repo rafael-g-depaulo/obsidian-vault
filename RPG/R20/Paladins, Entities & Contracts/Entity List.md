@@ -42,6 +42,6 @@ people "stealing it's food".
 
 **Lyf's Mantle**. buff defense, movement for scene.
 
-**Eat**. deal damage and heal? gain FP if it kills?
+**Eat**. 2FP. Model it after some DND spell or something. Necrotic dmg + heal
 
-**cool name involving fungi?**. teleport a short/medium distance, all spooky-like
+cool name involving fungi?. teleport a short/medium distance, all spooky-like
