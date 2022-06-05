@@ -12,6 +12,3 @@ dice poker:
   Three Sequence
   One pair
   High card
-
-
-

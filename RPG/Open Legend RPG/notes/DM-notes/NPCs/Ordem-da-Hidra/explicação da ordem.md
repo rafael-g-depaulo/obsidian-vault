@@ -8,11 +8,11 @@ Cada membro da ordem recebe uma parcela de tudo que os seus subordinados recebem
 
   - Cabeça da Fúria:        Sinop Do'og
   - Cabeça da Inveja:       Chief of the College of the drow capital
-  - Cabeça do Orgulho:      Fifinia Ticenti
-  - Cabeça da Preguiça:     that huge crow
-  - Cabeça da Gula:         Dragonborn qualquer
-  - Cabeça da Luxúria:      idk like a really hot pan-tiefling somewhereyt
-  - Cabeça da Ganancia:     Dr. Drenio Epsco Stain
+  - Cabeça do Ganancia:     Fifinia Ticenti
+  - Cabeça da Preguiça:     Lucinia Fiasco? (pirate with skeleton ship)
+  - Cabeça da Gula:         Rikross (tucano lich)
+  - Cabeça da Luxúria:      Drakhe
+  - Cabeça da Orgulho:      Dr. Drenio Epsco Stain
 
 Cada Cabeça possui um aprendiz e sucessor. Esse aprendiz recebe o título de Pescoço da Hidra. Quando uma Cabeça morre, seu Pescoço toma o seu lugar como nova Cabeça, e a nova Cabeça então escolhe um Pescoço para tomar seu antigo posto. Os pescoços atuais são:
 

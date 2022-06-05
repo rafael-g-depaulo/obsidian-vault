@@ -1,7 +1,6 @@
 ## Off-Caster
 An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
 
-
 ### Hit Points (HP) & Mana Points (MP)
 A Half-Caster's maximum HP and MP are calculated as such:
 - **HP at 1st Level:** 14 + their Constitution modifier
