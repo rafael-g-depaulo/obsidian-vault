@@ -1,4 +1,6 @@
 {
   "baseFontSize": 12,
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "fira code"
 }

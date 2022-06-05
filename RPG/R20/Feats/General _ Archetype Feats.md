@@ -70,6 +70,8 @@
 
 **Elemental Adept.** Choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type
 
+**Magia Pungente.** Quando lança uma magia, você pode pagar 1 PM para aumentar em +2 a CD para resistir a ela.
+
 # Martial Feats
 
 **Athlete.** You have undergone extensive physical training to gain the following benefits:
