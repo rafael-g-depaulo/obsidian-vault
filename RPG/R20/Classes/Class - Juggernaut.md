@@ -34,7 +34,7 @@
 | 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
 | 20th  |        +10        | Juggernaut Feat, Raise Guard (10+CON)                                    |
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
 
 You have +1 bonus to Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. 
 
