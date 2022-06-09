@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Classes/Class - Werebeast (WIP).md",
+            "file": "RPG/R20/Classes/Class - Juggernaut.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Classes/Class - Werebeast (WIP).md",
+                "file": "RPG/R20/Classes/Class - Juggernaut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Classes/Class - Werebeast (WIP).md",
+                "file": "RPG/R20/Classes/Class - Juggernaut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,15 @@
   },
   "active": "2e96d783b1830f86",
   "lastOpenFiles": [
+    "RPG/R20/Classes/Class - Juggernaut.md",
     "RPG/R20/Classes/Class - Werebeast (WIP).md",
-    "RPG/R20/Classes/Class - Rogue.md",
     "RPG/R20/Archetypes/Archetype - Specialist.md",
+    "RPG/R20/Classes/Class - Rogue.md",
     "RPG/R20/Classes/Untitled.md",
     "RPG/R20/Classes/Class - Witch.md",
     "RPG/R20/Archetypes/Archetype - Caster.md",
     "RPG/R20/Classes/Class - Champion.md",
     "RPG/R20/Classes/Class - Plantomancer.md",
-    "RPG/R20/Classes/Class - Beast Warrior.md",
-    "RPG/R20/Classes/Class - Alquimist.md"
+    "RPG/R20/Classes/Class - Beast Warrior.md"
   ]
 }
