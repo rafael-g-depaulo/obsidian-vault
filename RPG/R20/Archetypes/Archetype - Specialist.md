@@ -4,9 +4,9 @@ Specialists are exactly what the name implies, incredibly specialized combatants
 ### Hit Points (HP) & Mana Points (MP)
 A Specialist's maximum HP and MP are calculated as such:
 - **HP at 1st Level:** 10 + their Constitution modifier
-- **MP at 1st Level:** 2 + their Intelligence modifier
+- **MP at 1st Level:** 5
 - **HP gain per level after 1st:** 3 + their Constitution modifier
-- **MP gain per level after 1st:** 2
+- **MP gain per level after 1st:** 5
 
 ### Attribute Score Increase
 - Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)

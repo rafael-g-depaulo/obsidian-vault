@@ -1,5 +1,5 @@
 #class
-# Witch
+# Witch (WIP)
 ##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 8 (+CON mod.) per level.
@@ -47,6 +47,7 @@ IDEAS:
 		- Learn some ammount of hexes every X levels, and has a power to learn more.
 	- make scary look a single feat
 	- add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
+	- Be able to change what attribute the target uses for a save (either as a core mechanic, feat or Hex)
 
 ### Witch Feats
 
@@ -91,4 +92,4 @@ TODO: give all the hexes some cool, gross descriptions and names. like they shou
 
 Spell List:
 
-Some mix of druid-like and warlock-like spells, focusing on debuffs, some few buffs, healing, and a lot of concentration stuff.
+Some mix of druid-like and warlock-like spells, focusing on debuffs, some few buffs, healing, and a lot of concentration stuff. Also a lot of save spells, and not many attack spells.

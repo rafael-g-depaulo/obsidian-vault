@@ -33,7 +33,7 @@ Spiritual Weapon. Lay on Hands
 Smite! Lay on Hands
 
 ### Alquimist/Cook (Specialist)
-[[Class - Alquimist]]
+[[Class - Alquimist (WIP)]]
 
 ### 
 

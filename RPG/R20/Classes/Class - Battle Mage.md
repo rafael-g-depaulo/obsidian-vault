@@ -2,8 +2,6 @@
 # Battle Mage
 ##### [[Archetype - Off-Caster]]
 
-TODO: Add description here
-
 **HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
 
 **MP**: You start at 1st level with 4 (+SEN mod.) maximum MP, and gain 4 extra per level.
