@@ -37,4 +37,4 @@ ___
 > 
 > **Zarabatana.** *Ranged Weapon Attack*: +4 to hit, range 6sqr/12sqr, one target. *Hit:* 3 (1d4+2) poison damage, and the target must pass a CD 13 (PRE) save or be affected by **Tropical Warning**'s effect.
 
-
+![[Bullywug, Scout.png]]

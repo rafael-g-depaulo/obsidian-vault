@@ -40,3 +40,8 @@ ___
 > ### Action
 > **Veneno Pantanal (2PM)** All non-bullywug creatures standing on the Pântano must make a CD 13 CON save or be affected by **Tropical Warning**.
 >
+
+
+add 2 turn concentration skill to summon ent
+
+![[Bullywug, Shaman.png]]

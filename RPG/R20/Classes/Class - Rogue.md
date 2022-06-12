@@ -14,25 +14,25 @@
 ##### Rogue
 | Level | Proficiency Bonus | Features                                                                                |
 |:-----:|:-----------------:|:--------------------------------------------------------------------------------------- |
-|  1st  |        +1         | Sneak Attack (2d6)                                                                      | 
+|  1st  |        +1         | Sneak Attack (2d6)                                                                      |
 |  2nd  |        +1         | Rogue Feat, Expertise (INT skills, 1PM: +INT to roll)                                   |
-|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6)                                                          |
+|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6)                                                     |
 |  4th  |        +2         | Rogue Feat, Attribute Score Improvement                                                 |
-|  5th  |        +3         | Rogue Feat, Sneak Attack (2PM, 4d6)                                                          |
+|  5th  |        +3         | Rogue Feat, Sneak Attack (2PM, 4d6)                                                     |
 |  6th  |        +3         | Rogue Feat, Attribute Score Improvement, Expertise (INT+1 skills, 2PM: +INT\*2 to roll) |
-|  7th  |        +4         | Rogue Feat, Sneak Attack (3PM, 5d6)                                                          |
+|  7th  |        +4         | Rogue Feat, Sneak Attack (3PM, 5d6)                                                     |
 |  8th  |        +4         | Rogue Feat, Attribute Score Improvement                                                 |
-|  9th  |        +5         | Rogue Feat, Sneak Attack (4PM, 6d6)                                                          |
-| 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) |
-| 11th  |        +6         | Rogue Feat, Extra Attack (2), Sneak Attack (5PM, 7d6)                                        |
+|  9th  |        +5         | Rogue Feat, Sneak Attack (4PM, 6d6)                                                     |
+| 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) | 
+| 11th  |        +6         | Rogue Feat, Extra Attack (2), Sneak Attack (5PM, 7d6)                                   |
 | 12th  |        +6         | Rogue Feat, Attribute Score Improvement                                                 |
-| 13th  |        +7         | Rogue Feat, Sneak Attack (6PM, 8d6)                                                          |
+| 13th  |        +7         | Rogue Feat, Sneak Attack (6PM, 8d6)                                                     |
 | 14th  |        +7         | Rogue Feat, Expertise (INT+4 skills, 4PM: +INT\*4 to roll)                              |
-| 15th  |        +8         | Rogue Feat, Attribute Score Improvement, Sneak Attack (7PM, 9d6)                             |
+| 15th  |        +8         | Rogue Feat, Attribute Score Improvement, Sneak Attack (7PM, 9d6)                        |
 | 16th  |        +8         | Rogue Feat                                                                              |
-| 17th  |        +9         | Rogue Feat, Attribute Score Improvement, Sneak Attack (8PM, 10d6)                             |
+| 17th  |        +9         | Rogue Feat, Attribute Score Improvement, Sneak Attack (8PM, 10d6)                       |
 | 18th  |        +9         | Rogue Feat, Expertise (INT+5 skills, 5PM: +INT\*5 to roll)                              |
-| 19th  |        +10        | Rogue Feat, Attribute Score Improvement, Sneak Attack (9PM, 11d6)                            |
+| 19th  |        +10        | Rogue Feat, Attribute Score Improvement, Sneak Attack (9PM, 11d6)                       |
 | 20th  |        +10        | Rogue Feat                                                                              |
 \</div>
 

@@ -63,6 +63,21 @@ Where "Attribute Modifier" is the modifier to the character's corresponding main
 
 In rare circumstances the DM might ask for a different attribute to be used instead of the skill's normal one. Example: Intimidation through a show of force or visual display of apparent strength might use CON or STR as a substitute of PRE, if the DM agrees.
 
+### Using a different attribute for a skill check
+
+### Using a different skill for a skill check
+Many situations allow for different ways for a character to achieve their goals, even if there is a "more common" or "easier" one. A character might want to melt away a locked mechanism with their Alchemist's tools instead of lockpicking it. Another might want to perform crazy stunts and roll acrobatics instead of performance to try to convince The Great Master Artist Cain Delarrouse™ that he should accept them as an apprentice dancer. A third one could try to roll intimidation instead of persuasion to let the guards in the post let them through, convincing them that it's not worth the trouble to get their asses beat for a random traveler just minding their business.
+
+It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM choses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
+
+##### DC for using a different skill for a task
+| Aditional Dificulty            | DC  |
+| ------------------------------ | --- |
+| about the same or a bit harder | +2  | 
+| considerably harder            | +5  |
+
+Whether the character is allowed to roll a different skill is always at the DM's discretion.
+
 ### Skill Bonus & Skill Points
 When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
 

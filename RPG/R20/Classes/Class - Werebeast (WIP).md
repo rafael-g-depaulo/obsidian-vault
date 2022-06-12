@@ -36,7 +36,7 @@
 | 20th  |        +10        | Werebeast Feat                            |
 \</div>
 
-**Wild Dice (1).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
+**Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
 **Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1d8+your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice, to increase that by 2d8.
 
@@ -48,7 +48,7 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 **Monstruous Blood. Action (1PM+, up to your Wild Dice):** 
 - Human form: Choose an ally you can see within 6sqr of you. They recover 1d8 HP per PM spent.
-- Beast form: Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2d8 poison damage per PM spent.
+- Beast form: Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2d8 poison damage, +1d8 per PM spent after the first.
 
 ### Werebeast Feats
 
@@ -60,5 +60,7 @@ Feat ideas:
 	- bonus to intimidation in human form
 	- increase crit margin/dmg in beast form
 	- change monstruous blood dmg type
+	- climbing speed
+	- increase speed in beast form
 	- add nasty debuffs to monstrous blood beast form
 	- add cool buffs to monstrous blood human form

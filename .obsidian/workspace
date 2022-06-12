@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2e96d783b1830f86",
+        "id": "44ea27efb57201f7",
         "type": "leaf",
-        "dimension": 65.19138755980862,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Classes/Class - Rogue.md",
+            "file": "RPG/Campaign - Natura/Characters/Sir João Wolfe Uik.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -18,13 +17,12 @@
         }
       },
       {
-        "id": "d580fd1a33093e0c",
+        "id": "1c9b14f1b78838d4",
         "type": "leaf",
-        "dimension": 34.80861244019139,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Archetypes/Archetype - Specialist.md",
+            "file": "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Classes/Class - Rogue.md",
+                "file": "RPG/Campaign - Natura/Characters/Sir João Wolfe Uik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Classes/Class - Rogue.md",
+                "file": "RPG/Campaign - Natura/Characters/Sir João Wolfe Uik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +140,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "2e96d783b1830f86",
+  "active": "44ea27efb57201f7",
   "lastOpenFiles": [
-    "RPG/R20/Classes/Class - Rogue.md",
-    "RPG/R20/Classes/Class - Werebeast (WIP).md",
-    "RPG/R20/Classes/Class - Juggernaut.md",
-    "RPG/R20/Archetypes/Archetype - Specialist.md",
-    "RPG/R20/Classes/Untitled.md",
-    "RPG/R20/Classes/Class - Witch.md",
-    "RPG/R20/Archetypes/Archetype - Caster.md",
-    "RPG/R20/Classes/Class - Champion.md",
-    "RPG/R20/Classes/Class - Plantomancer.md",
-    "RPG/R20/Classes/Class - Beast Warrior.md"
+    "RPG/Campaign - Natura/Characters/Sir João Wolfe Uik.md",
+    "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
+    "RPG/R20/Characters/Syril.md",
+    "RPG/R20/Characters/Kaiser.md",
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento.md",
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/encounter tables.md",
+    "RPG/R20/WIP Treasure & Rewards.md",
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/reward chart.md",
+    "RPG/R20/Items/Consumable Items.md",
+    "Treasure Hoard Table.png"
   ]
 }
