@@ -12,30 +12,30 @@
 
 **Spellcasting Modifier:** INT
 
-\<div class='classTable'>
+\<div class='classTable wide'>
 ##### Plantomancer
-| Level | Proficiency Bonus | Features                                          |
-|:-----:|:---:|:----------------------------------------------------------------|
-| 1st   | +1  | Magic Seed (2), Summon Sapling                                  |
-| 2nd   | +1  | Plantomancer Feat, Magic Seed (3)                               |
-| 3rd   | +2  | Plantomancer Feat                                               |
-| 4th   | +2  | Plantomancer Feat, Attribute Score Improvement, Magic Seed (4)  |
-| 5th   | +3  | Plantomancer Feat                                               |
-| 6th   | +3  | Plantomancer Feat, Magic Seed (5)                               |
-| 7th   | +4  | Plantomancer Feat                                               |
-| 8th   | +4  | Plantomancer Feat, Attribute Score Improvement, Magic Seed (6)  |
-| 9th   | +5  | Plantomancer Feat                                               |
-| 10th  | +5  | Plantomancer Feat, Magic Seed (7)                               |
-| 11th  | +6  | Plantomancer Feat                                               |
-| 12th  | +6  | Plantomancer Feat, Attribute Score Improvement, Magic Seed (8)  |
-| 13th  | +7  | Plantomancer Feat                                               |
-| 14th  | +7  | Plantomancer Feat, Magic Seed (9)                               |
-| 15th  | +8  | Plantomancer Feat                                               |
-| 16th  | +8  | Plantomancer Feat, Attribute Score Improvement, Magic Seed (10) |
-| 17th  | +9  | Plantomancer Feat                                               |
-| 18th  | +9  | Plantomancer Feat, Magic Seed (11)                              |
-| 19th  | +10 | Plantomancer Feat, Attribute Score Improvement                  |
-| 20th  | +10 | Plantomancer Feat, Magic Seed (12)                              |
+| Level | Proficiency Bonus | Features                                                        | Spells Known | Max Spell Level |
+|:-----:|:-----------------:|:--------------------------------------------------------------- |:------------:|:---------------:|
+|  1st  |        +1         | Magic Seed (2), Summon Sapling                                  |      3       |        1        |
+|  2nd  |        +1         | Plantomancer Feat, Magic Seed (3)                               |      4       |        1        |
+|  3rd  |        +2         | Plantomancer Feat                                               |      5       |        2        |
+|  4th  |        +2         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (4)  |      6       |        2        |
+|  5th  |        +3         | Plantomancer Feat                                               |      7       |        3        |
+|  6th  |        +3         | Plantomancer Feat, Magic Seed (5)                               |      8       |        3        |
+|  7th  |        +4         | Plantomancer Feat                                               |      9       |        4        |
+|  8th  |        +4         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (6)  |      10      |        4        |
+|  9th  |        +5         | Plantomancer Feat                                               |      11      |        5        |
+| 10th  |        +5         | Plantomancer Feat, Magic Seed (7)                               |      12      |        5        |
+| 11th  |        +6         | Plantomancer Feat                                               |      13      |        6        |
+| 12th  |        +6         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (8)  |      14      |        6        |
+| 13th  |        +7         | Plantomancer Feat                                               |      15      |        7        |
+| 14th  |        +7         | Plantomancer Feat, Magic Seed (9)                               |      16      |        7        |
+| 15th  |        +8         | Plantomancer Feat                                               |      17      |        8        |
+| 16th  |        +8         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (10) |      18      |        8        |
+| 17th  |        +9         | Plantomancer Feat                                               |      19      |        9        |
+| 18th  |        +9         | Plantomancer Feat, Magic Seed (11)                              |      20      |        9        |
+| 19th  |        +10        | Plantomancer Feat, Attribute Score Improvement                  |      21      |        9        |
+| 20th  |        +10        | Plantomancer Feat, Magic Seed (12)                              |      22      |        9        |
 \</div>
 
 **MAGIC SEED.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
@@ -46,7 +46,7 @@
 
 Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- *Planta Resistente*. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX. Você pode
+- *Planta Resistente*. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
 
 - *Planta Explosiva*. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 4,5m, centrado na planta), causando YdY de dano ácido. A cada X níveis você pode gastar mais 2PM e aumentar o dano em XdX.
 

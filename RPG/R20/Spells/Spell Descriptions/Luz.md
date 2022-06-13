@@ -1,22 +1,13 @@
 ### Luz
-
 *1º Círculo*
-
 ___
-
 - **Execução:** padrão;
-
 - **Alcance:** curto;
-
 - **Alvo:** 1 objeto;
-
 - **Duração:** cena;
 
-  
-
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
-
-  
+ 
 
 +1 PM: aumenta a área iluminada em +3m de raio.
 

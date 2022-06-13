@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "89b348ffb7a1d4a6",
+        "id": "b3bd3bce2d1dcf37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
+            "file": "RPG/R20/Classes/Class - Battle Mage.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "db4405960f0a8302",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RPG/R20/Archetypes/Archetype - Off-Caster.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
+                "file": "RPG/R20/Classes/Class - Battle Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
+                "file": "RPG/R20/Classes/Class - Battle Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +140,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "89b348ffb7a1d4a6",
+  "active": "b3bd3bce2d1dcf37",
   "lastOpenFiles": [
-    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
-    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/encounter tables.md",
-    "RPG/R20/Characters/Zyggs.md",
-    "RPG/R20/Characters/Zunnen.md",
-    "RPG/R20/Characters/Kaiser.md",
-    "RPG/R20/Characters/Syril.md",
-    "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
-    "RPG/Campaign - Natura/Non-physical Lore/languages.md",
-    "RPG/Campaign - Natura/Non-physical Lore/elven (wood) culture.md",
-    "RPG/Campaign - Natura/Portraits/Joao_e_Seu_Aprendiz.png"
+    "RPG/R20/Classes/Class - Battle Mage.md",
+    "RPG/R20/Archetypes/Archetype - Off-Caster.md",
+    "RPG/R20/Classes/Class - Plantomancer.md",
+    "RPG/R20/Spells/Spell List - Plantomancer.md",
+    "RPG/R20/Spells/Spell Descriptions/Thunderwave.md",
+    "RPG/R20/Spells/Spell Descriptions/Thorn Whip.md",
+    "RPG/R20/Spells/Spell Descriptions/Poison Spray.md",
+    "RPG/R20/Spells/Spell Descriptions/Ray of Sickness.md",
+    "RPG/R20/Spells/Spell Descriptions/Sleep.md",
+    "RPG/R20/Spells/Spell Descriptions/Magic Stone.md"
   ]
 }

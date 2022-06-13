@@ -21,7 +21,7 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 ### Spells
 - **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
 - **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells)
-- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's base MP Cost can't exceed the value in the table below:
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
 
 ##### Off Caster maximum spell circle per Level
 | Level | Spell's Circle |
