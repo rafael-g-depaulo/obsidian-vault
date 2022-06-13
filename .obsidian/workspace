@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "44ea27efb57201f7",
+        "id": "89b348ffb7a1d4a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1c9b14f1b78838d4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
+            "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento.md",
+                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento.md",
+                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +127,17 @@
     "width": 352,
     "collapsed": true
   },
-  "active": "44ea27efb57201f7",
+  "active": "89b348ffb7a1d4a6",
   "lastOpenFiles": [
-    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento.md",
-    "RPG/Campaign - Natura/Characters/Hefca.md",
-    "RPG/Campaign - Natura/Arcs & Quests/planning for hidra questline.md",
-    "RPG/Campaign - Natura/Characters/Sir João Wolfe Uik.md",
-    "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
-    "RPG/R20/Characters/Syril.md",
-    "RPG/R20/Characters/Kaiser.md",
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
     "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/encounter tables.md",
-    "RPG/R20/WIP Treasure & Rewards.md",
-    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/reward chart.md"
+    "RPG/R20/Characters/Zyggs.md",
+    "RPG/R20/Characters/Zunnen.md",
+    "RPG/R20/Characters/Kaiser.md",
+    "RPG/R20/Characters/Syril.md",
+    "RPG/Campaign - Natura/Characters/Fifinia Ticente.md",
+    "RPG/Campaign - Natura/Non-physical Lore/languages.md",
+    "RPG/Campaign - Natura/Non-physical Lore/elven (wood) culture.md",
+    "RPG/Campaign - Natura/Portraits/Joao_e_Seu_Aprendiz.png"
   ]
 }
