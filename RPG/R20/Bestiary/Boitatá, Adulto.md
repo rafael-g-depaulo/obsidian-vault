@@ -1,6 +1,6 @@
 ___
 > ## Boitatá Adulto #monster
->*Medium Fey*
+>*Large Fey*
 > ___
 > - **Defesa** 16
 > - **HP** 75
@@ -28,3 +28,4 @@ ___
 > 
 > **Explosão (3PM).** O boitatá deixa de ficar em chamas, e todos os inimigos em um raio de 2sq devem fazer uma resistência em DEX (CD 14) ou tomar 6d6 dano de fogo. Quem passar toma metade do dano
 
+![[Boitatá, Adulto.jpg]]

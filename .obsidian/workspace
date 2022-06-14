@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Classes/Class - Battle Mage.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "db4405960f0a8302",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RPG/R20/Archetypes/Archetype - Off-Caster.md",
+            "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Classes/Class - Battle Mage.md",
+                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Classes/Class - Battle Mage.md",
+                "file": "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +129,15 @@
   },
   "active": "b3bd3bce2d1dcf37",
   "lastOpenFiles": [
-    "RPG/R20/Classes/Class - Battle Mage.md",
-    "RPG/R20/Archetypes/Archetype - Off-Caster.md",
-    "RPG/R20/Classes/Class - Plantomancer.md",
-    "RPG/R20/Spells/Spell List - Plantomancer.md",
-    "RPG/R20/Spells/Spell Descriptions/Thunderwave.md",
-    "RPG/R20/Spells/Spell Descriptions/Thorn Whip.md",
-    "RPG/R20/Spells/Spell Descriptions/Poison Spray.md",
-    "RPG/R20/Spells/Spell Descriptions/Ray of Sickness.md",
-    "RPG/R20/Spells/Spell Descriptions/Sleep.md",
-    "RPG/R20/Spells/Spell Descriptions/Magic Stone.md"
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/TODO.md",
+    "RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/Untitled.md",
+    "RPG/R20/Bestiary/Boitatá, Adulto.md",
+    "RPG/R20/Bestiary/Boitatá, Filhote.md",
+    "RPG/R20/Bestiary/max.png.md",
+    "RPG/R20/Bestiary/Ent, Newborn.md",
+    "RPG/R20/Bestiary/Bullywug, Shaman.md",
+    "RPG/R20/Bestiary/Grung.md",
+    "RPG/R20/Bestiary/Bullywug, Scout.md",
+    "RPG/R20/Bestiary/Bullywug, Spearman.md"
   ]
 }

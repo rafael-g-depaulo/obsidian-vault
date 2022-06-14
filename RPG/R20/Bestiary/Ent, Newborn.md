@@ -1,18 +1,17 @@
 ___
-___
 > ## Ent
 >*Large plant*
 > ___
 > - **Defesa** 13
 > - **HP** 59
 > - **MP** 13
-> - **Speed** 9sqr
+> - **Speed** 4sqr
 >___
 >|   STR  |   DEX   |   CON   |   INT   |   SEN   |   PRE  |
 >|:------:|:-------:|:-------:|:-------:|:-------:|:------:|
 >|19 (+5) |  6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 >___
-> - **Damage Vulnerabilities** fire
+> - **Damage Vulnerabilities** fire, slashing
 > - **Damage Resistances** bludgeoning, piercing
 > - **Senses** passive Perception 10
 > - **Languages** Ent, Druidic

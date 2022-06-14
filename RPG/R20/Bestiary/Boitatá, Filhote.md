@@ -1,6 +1,6 @@
 ___
 > ## Boitatá Filhote #monster
->*Small Fey*
+>*Medium Fey*
 > ___
 > - **Defesa** 15
 > - **HP** 55
@@ -28,3 +28,4 @@ ___
 > 
 > **Explosão (3PM).** O boitatá deixa de ficar em chamas, e todos os inimigos adjacentes devem fazer uma resistência em DEX (CD 12) ou tomar 4d6 dano de fogo. Quem passar toma metade do dano. Depois de usar isso, o Boitatá fica paralizado até o início do seu próximo turno.
 
+![[Boitatá, Filhote.png]]

@@ -2,7 +2,7 @@ ___
 > ## Bullywug Shaman #monster
 >*Medium Humanoid*
 > ___
-> - **Defesa** 15
+> - **Defesa** 13
 > - **HP** 50
 > - **MP** 6
 > - **Speed** 3sqr, swim 8sqr
