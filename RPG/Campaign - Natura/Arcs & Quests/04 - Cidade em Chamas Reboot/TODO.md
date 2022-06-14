@@ -2,4 +2,4 @@
 - [ ] talk to Vinicius about making his sheet
 - [ ] make Lumb's sheet
 - [ ] Add Lumb to roll20
-- Schedule session 0
+- [ ] Schedule session 0
