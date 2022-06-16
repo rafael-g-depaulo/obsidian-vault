@@ -1,4 +1,3 @@
-#class
 # Battle Mage
 ##### [[Archetype - Off-Caster]]
 

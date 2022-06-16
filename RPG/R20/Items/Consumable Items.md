@@ -1,4 +1,4 @@
-# Consumable Items
+## Consumable Items
 
 | Name              | Tool              | Price |
 |:----------------- | ----------------- | -----:|

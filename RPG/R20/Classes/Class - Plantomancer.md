@@ -36,7 +36,7 @@
 | 18th  |        +9         | Plantomancer Feat, Magic Seed (11)                              |     11     |      20      | 9               |
 | 19th  |        +10        | Plantomancer Feat, Attribute Score Improvement                  |     11     |      21      | 9               |
 | 20th  |        +10        | Plantomancer Feat, Magic Seed (12)                              |     12     |      22      | 9               |
-\</div>
+</div>
 
 **Semente Mágica.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 

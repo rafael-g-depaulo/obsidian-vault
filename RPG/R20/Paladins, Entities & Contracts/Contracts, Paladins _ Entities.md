@@ -1,12 +1,3 @@
-```metadata
-title: Contracts, Paladins & Entities
-description: ''
-tags: ''
-systems: []
-renderer: V3
-
-```
-
 # Contracts, Paladins & Entities
 
 Warlocks. Paladins. Clerics. Priests. That one fool who made a deal with the devil. The bard with the Dragon sugar daddy. What do they all have in common? They all have a contract with a powerful being, an "Entity".

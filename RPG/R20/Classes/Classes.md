@@ -1,26 +1,22 @@
 # Classes
-classes are always from one of the archetypes, and add aditional abilities that the character earns as they level. they also offer powers that the character may take at each level up after the first
+classes are always from one of the archetypes, and add additional abilities that the character earns as they level. they also offer powers that the character may take at each level up after the first.
 
-(space filler)(space filler)(space filler)(space filler)
+Below is a list of all classes and a brief description of their abilities.
 
-(space filler)(space filler)(space filler)(space filler)
-
-## Rogue
+### Rogue
 [[Class - Rogue]]
 sneak attack
 
-## Fighter
+### Fighter
 [[Class - Warrior]]
 Extra Attack(2-3). Action surge
 
-### Barbarian
-rage
-
+### (WIP) Barbarian
 ### Beast Warrior
 [[Class - Beast Warrior]]
 Beastly Rage. Savage Attack
 
-### Shield Warrior
+### Juggernaut
 [[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
 
@@ -32,10 +28,11 @@ Spiritual Weapon. Lay on Hands
 [[Class - Champion]]
 Smite! Lay on Hands
 
-### Alquimist/Cook (Specialist)
+### (WIP) Alquimist
 [[Class - Alquimist (WIP)]]
 
-### 
+### (WIP) Summoner
+### (WIP) Rune Crafter
 
 ### Monk
 big unarmed damage. flurry of blows

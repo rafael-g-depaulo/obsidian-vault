@@ -1,4 +1,4 @@
-# Recovery
+# Rest & Recovery
 An adventuring character recovers HP and MP mainly through resting. There are 4 different kinds of resting conditions:
 
 - **Bad Condition**: Recovers half of the character's level worth of MP, and no HP. Sleeping outdoors without propper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours. At the end of the rest roll a DC 10 Constitution Check. On a fail, gain 1 level of exhaustion.

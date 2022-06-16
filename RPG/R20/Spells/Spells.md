@@ -1,9 +1,3 @@
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
-
 # Spells
 
 ## Learning Spells
@@ -124,7 +118,7 @@ Global list of all spells, divided by circle:
 - [[Toque Vampírico]]
 
 ##### 4th Circle
-- [[]]
+- uhhh, nenhum de 4º círculo por enquanto
 
 ##### 5th Circle
 - [[Contagion]]

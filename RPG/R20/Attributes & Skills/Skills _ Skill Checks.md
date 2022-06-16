@@ -1,12 +1,3 @@
-```metadata
-title: Skills & Skill Checks
-description: ''
-tags: ''
-systems: []
-renderer: legacy
-
-```
-
 # Skills & Skill Checks
 
 ## Skills:

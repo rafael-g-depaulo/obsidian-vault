@@ -54,22 +54,22 @@
 | Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
 | Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
 
-| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty (deprecated? probably gonna remove/rework it) | Movement |
-| ------------------------------ | ----- | ----- | ------ | --- | ----------------------------------------------------- | -------- |
-| Ring mail                      | -1    | 2     | 30g    | 12  | -3                                                    | 0        |
-| Chain mail                     | -2    | 3     | 75g    | 13  | -4                                                    | 0        |
-| Splint                         | -3    | 4     | 200g   | 14  | -5                                                    | -1sqr    |
-| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5                                                    | -2sqr    | 
+| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty | Movement |
+| ------------------------------ | ----- | ----- | ------ | --- | ------- | -------- |
+| Ring mail                      | -1    | 2     | 30g    | 12  | -3      | 0        |
+| Chain mail                     | -2    | 3     | 75g    | 13  | -4      | 0        |
+| Splint                         | -3    | 4     | 200g   | 14  | -5      | -1sqr    |
+| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5      | -2sqr    |
 
-| Shield       | Dodge | Guard | Cost | STR | Penalty (deprecated? probably gonna remove/rework it)   |
-|--------------|-------|-------|------|-----|----------|
-| Buckler      | 2     | 1     |   5g | -   | 0        |
-| Light Shield | -3    | 2     |  15g | -   | -1       |
-| Heavy Shield | -4    | 3     | 200g | 13  | -2       |
+| Shield       | Dodge | Guard | Cost | STR | Penalty | 
+| ------------ | ----- | ----- | ---- | --- | ------- |
+| Buckler      | 2     | 1     | 5g   | -   | 0       |
+| Light Shield | -3    | 2     | 15g  | -   | -1      |
+| Heavy Shield | -4    | 3     | 200g | 13  | -2      |
 
 \**STR*: The minimum strength score requirement to wear the armor.
 
-\**Penalty*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
+\**Penalty (deprecated? probably gonna remove/rework it)*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
 
 \*Movement: Movement speed penalty while wearing.
 
