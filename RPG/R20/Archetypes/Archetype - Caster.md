@@ -15,7 +15,7 @@ A Caster's maximum HP and MP are calculated as such:
 A Caster has access to all Caster Feats.
 
 ### Spells
-- **Prepared Spells**: After every rest, a Caster choses up to half (rounded down) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
 - **Cantrips**: Casters can learn cantrips (0 MP cost spells)
 - **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
 

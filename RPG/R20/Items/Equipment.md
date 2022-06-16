@@ -30,7 +30,6 @@
 | Greataxe        	| 1d12   	|   x3 	| Heavy, 2-handed  |
 | Greatsword      	| 2d6    	|   19 	| Heavy, 2-handed  |
 
-
 | Ranged Weapons    | Damage | Crit |            Properties                       |
 |:-----------------:|:------:|:----:|:-------------------------------------------:|
 | Crossbow, heavy 	| 1d10   |  x3 	| Range (20sqr/40sqr), heavy, loading(action), 2-handed 	|
@@ -74,19 +73,19 @@
 
 \*Movement: Movement speed penalty while wearing.
 
-**Finesse**. When making an attack with a finesse weapon, you use your choice o f your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+**Finesse**. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 **Heavy**. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
 
-**Light**. A light w eapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+**Light**. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
 **Loading**. This weapons needs to be reloaded before it can be fired again.
 
-**Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the w eapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+**Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
 **Two-Handed**. This weapon requires two hands to use.
 
-**Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the w eapon’s long range.
+**Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
 **Reach**. This weapon adds 5 feet to your reach when you attack with it.
 

@@ -24,7 +24,6 @@ I don't recommend this because it has a lot of variance and has a really high av
 
 Buuut... if you really want to do it, I recommend using either a "8, 16 and 4 times 3d6", or a "6 times 3d6, repeat until modifier total is >=3"
 
-
 ### Score buy
 You have 27 points to spend on your ability scores. The cost is shown in the table below.
 

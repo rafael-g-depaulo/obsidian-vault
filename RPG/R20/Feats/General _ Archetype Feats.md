@@ -11,7 +11,7 @@
 
 **Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 
-**Vitalidade.** Você recebe +1 PV por nível de personagem. *Pré-requisito*: Con 13.
+**Vitalidade.** Você recebe +1 HP por nível de personagem. *Pré-requisito*: Con 13.
 
 **Vontade de Ferro.** Você recebe +1 PM para cada dois níveis de personagem. *Pré-requisito*: Sab 13.
 
@@ -35,14 +35,14 @@
 
 **Proficiência com Armas Exóticas.** Você ganha proficiência com armas exóticas. *Pré-requisito*: Proficiência com Armas Marciais.
 
-**Lobo Solitário.** Você recebe +1 em testes de perícia e Defesa se estiver sem nenhum aliado em alcance curto. Você não sofre penalidade por usar a perícia Cura em si mesmo.
+**Lobo Solitário.** Você recebe +1 em testes de perícia e Defesa se estiver sem nenhum aliado em alcance curto (6sqr). Você não sofre penalidade por usar a perícia Cura em si mesmo.
 
 **Alert.** Always on the lookout for danger, you gain the following benefits:
   - You gain a +3 bonus to initiative.
   - You can’t be surprised while you are conscious.
   - Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
 
-**Healer.** As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number o f Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest. *Pré-requisitos*: definir depois
+**Healer.** As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest. *Pré-requisitos*: definir depois
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
 
@@ -50,10 +50,7 @@
 
 **Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
 
-**Escriba Arcano.** Você pode aprender magias copiando os textos de pergaminhos e grimórios de outros magos. Aprender uma magia dessa forma exige meio dia de trabalho e 100g em matérias-primas por círculo da magia. Assim, aprender uma magia de 4º círculo exige 2 dias de trabalho e o gasto de 400g. *Pré-requisitos*: +5 História.
-
 # Caster Feats
-
 **Celebrar Ritual.** Você pode lançar magias na forma de rituais. Isso dobra seu limite de PM, mas muda a execução para 1 hora (ou o dobro, o que for maior). Você gasta 2 moedas de ouro em incensos, oferendas etc. por PM do custo total. Após esse gasto, paga apenas metade do custo em PM da magia (após aplicar quaisquer outros efeitos de redução). *Pré-requisitos*: definir depois.
 
 **Escrever Pergaminho.** Você pode usar a perícia Ofício (escriba) para fabricar pergaminhos com magias que conheça. De acordo com o mestre, você pode usar outros objetos similares, como runas, tabuletas de argila etc. *Pré-requisitos*: treinado em Ofício (escriba).
@@ -72,11 +69,13 @@
 
 **Magia Pungente.** Quando lança uma magia, você pode pagar 1 PM para aumentar em +2 a CD para resistir a ela.
 
+**Escriba Arcano.** Você pode aprender magias copiando os textos de pergaminhos e grimórios de outros magos. Aprender uma magia dessa forma exige meio dia de trabalho e 100g em matérias-primas por círculo da magia. Assim, aprender uma magia de 4º círculo exige 2 dias de trabalho e o gasto de 400g. *Pré-requisitos*: +5 História.
+
 # Martial Feats
 
 **Athlete.** You have undergone extensive physical training to gain the following benefits:
   - Increase your Strength or Dexterity score by 1, to amaximum of 20.
-  - When you are prone, standing up uses only 5 feet of your movement.
+  - When you are prone, standing up uses half of your movement.
   - Climbing doesn’t halve your speed.
   - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 

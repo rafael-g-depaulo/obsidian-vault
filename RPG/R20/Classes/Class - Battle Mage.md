@@ -41,13 +41,13 @@
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
-**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (1sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 1d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
+**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 1d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 ****
 ### Battle Mage Feats
 
 Begining at level 2, every time you gain a level in Battle Mage you gain a Battle Mage Feat. You may instead of a Battle Mage feat take a Martial or General Feat of your choice.
 
-- *Arma Espiritual teleguiada*. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m, 30ft).
+- *Arma Espiritual teleguiada*. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
 
 - *Spiritual Strike*. You can spend a movement action and 1 PM to use a Spiritual Weapon Attack. Pre-requisite: 5th level Battle Mage
 

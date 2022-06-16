@@ -8,7 +8,7 @@ Burning targets take damage at the start of their turn and have disadvantage on 
 A frightened has disadvantage on all rolls made against the source of their fright. At the start of there turn, the frightened creature must succeed on a DC 10 Presence save (or the DC of the fear effect -5, whichever is higher), or they spend all their movement running away from the source of their fear. If the fear effect involves a save each turn, the creature makes one save and considers its result for both the effect save and the "run away" save.
 
 ### Paralyzed
-A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage. Any attack that hits the creature is a critical hit if the attacker is within 5 feet o f the creature.
+A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage. Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
