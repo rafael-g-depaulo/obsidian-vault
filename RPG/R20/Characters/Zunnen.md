@@ -72,19 +72,12 @@ ___
 - **Espada (fúria)**: +6 to hit. 2d6+10 cortante. 19/2x critical.
 
 ### Equipment
-Camisa de couro de Crocodilo:
-  - Guard +2
-	- Dodge +1
-
-Espada de duas Mãos\*:
-  - 2d6 slashing damage 19/2x crit
-  - heavy, two-handed
+- **Camisa de couro de Crocodilo.** (Guard: +2, Dodge: +1)
+- **Espada de duas Mãos\*.** 2d6 slashing. 19/2x crit. Heavy, two-handed.
 
 ### Character Creation choices
 
 Atributes: 14, 8, 15, 12, 13, 10
 standard array
 
-Origin: Nature Explorer
-Poder: **Estilo de Duas Mãos**
-
+Origin: Nature Explorer. Poder: **Estilo de Duas Mãos**

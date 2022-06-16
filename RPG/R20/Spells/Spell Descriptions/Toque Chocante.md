@@ -5,7 +5,7 @@ ___
 - **Alcance:** toque
 - **Alvo:** 1 criatura
 - **Duração:** instantânea
-- **Resistência:** Fortitude reduz à metade.
+- **Resistência:** Constituição reduz à metade.
 
 Arcos elétricos envolvem sua mão, causando 2d8+2 pontos de dano de eletricidade. Se o alvo usa armadura de metal (ou carrega muito metal, a critério do mestre), sofre uma penalidade de –5 no teste de resistência.
 

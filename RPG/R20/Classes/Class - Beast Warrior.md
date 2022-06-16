@@ -56,7 +56,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Powerful Savage Attacks*. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
 
-- *Alma de Bronze*. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Força.
+- *Alma de Bronze*. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
 
 - *Pele de Aço*. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de Beast Warrior.
 

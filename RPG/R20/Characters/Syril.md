@@ -74,14 +74,8 @@ ___
 - **Maça**: +6 to hit. 1d6+3 impacto. 19/2x critical.
 
 ### Equipment
-Chain Mail:
-	- Dodge: -2
-	- Guard: 4
-	- Penalty: -4
-
-Mace:
-	- dmg: 1d6 bludgeoning
-	- crit: 19/2x
+- **Chain Mail.** (Dodge: -2, Guard: 4). Armor Penalty: -4
+- **Mace.** 1d6 bludgeoning. crit: 19/2x
 
 ### Spells
 ![[Toque Chocante]]

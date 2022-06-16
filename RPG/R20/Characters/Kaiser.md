@@ -65,21 +65,16 @@ ___
 ### General Abilities
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**Uncanny Dodge:** when taking damage, reaction (3PM): halve the incoming damage. You can't spend more PM using Uncanny Dodge in a scene than you have Dodge.
+**Levantar Guarda.** Movement Action (1PM): Gain 2 temporary HP. While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
 
-**Levantar Guarda.** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard".
+**Guts.** You have +1 bonus to Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. 
 
 ### Attacks
 - lance: +7 to hit. 1d12+6 perfurante. 20/2x critical.
 
 ### Equipment
-- **Chain mail**:
-  - Guard -2
-	- Dodge +3
-- **Lança**:
-  - dano: 1d12 perfurante. crit 20/x2
-	- mounted (2-handed)
-	- reach +1sqr
+- **Chain mail.** (Guard: -2, Dodge: +3)
+- **Lança.** Dano: 1d12 perfurante. crit 20/x2. mounted (2-handed). reach +1sqr
 
 ### Character Creation choices
 Atributes: 18, 12, 13, 14, 11, 8

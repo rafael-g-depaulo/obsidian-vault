@@ -63,7 +63,7 @@ ___
 - **Saque Rápido (não escolhido pelo Thales, recomendado pelo Ragan).** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 
 ### General Abilities
-**SNEAK ATTACK (Ataque Furtivo).** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. This damage isn't increased by landing a critical hit.
+**Ataque Furtivo.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon.
 
 **Uncanny Dodge:** when taking damage, reaction (3PM): halve the incoming damage. You can't spend more PM using Uncanny Dodge in a scene than you have Dodge.
 
@@ -71,24 +71,10 @@ ___
 - **Besta**: +5 to hit. 1d8+4 piercing damage. 19/2x critical.
 
 ### Equipment
-- Armadura improvisada de couro:
-  - Dodge: +3
-  - Guard: -2
-
-- Besta simples:
-  - 1d8 dano perfurante. 19/2x crit
-  - Alcance: 10sqr/20sqr
-  - 2-handed
-  - Loading (ação de movimento)
+- **Armadura improvisada de couro**. (Dodge: +3, Guard: -2)
+- **Besta simples.** dano: 1d8 perfurante. 19/2x crit. Alcance: 10sqr/20sqr. 2-handed. Loading (ação de movimento).
 
 ## Character Creation choices
-Attributes (point buy)
-- **STR**: 10
-- **DEX**: 15
-- **CON**: 9 
-- **INT**: 15
-- **SEN**: 12
-- **PRE**: 8 
+Attributes (point buy). STR 10, DEX 15, CON 9, INT 15, SEN 12, PRE 8.
 
-Origin: Tinkerer (+4 DEX, +2 INT, -2 PRE).
-	- Poder escolhido: Saque Rápido
+Origin: Tinkerer (+4 DEX, +2 INT, -2 PRE). Poder escolhido: Saque Rápido
