@@ -1,4 +1,6 @@
-creature        value
+| creature | value   |
+| -------- | ------- |
+| bullywug | 2 prata | 
 bullywug:         2 prata  (20)
 ent:              1 prata  (10)
 wolf:             10 cobre (5)

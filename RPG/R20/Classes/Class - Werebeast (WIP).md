@@ -40,7 +40,7 @@
 
 **Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1d8+your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice, to increase that by 2d8.
 
-While on best form you gain a natural weapon of your **Wild Dice** (20/2x) slashing damage.
+While on best form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
 
 While on your beast form, you switch your physical and mental attributes. Strength <-> Inteligence, Dexterity <-> Sensibility, Constitution <-> Presence.
 
@@ -64,3 +64,4 @@ Feat ideas:
 	- increase speed in beast form
 	- add nasty debuffs to monstrous blood beast form
 	- add cool buffs to monstrous blood human form
+	- temporarily increase Wild Dice value

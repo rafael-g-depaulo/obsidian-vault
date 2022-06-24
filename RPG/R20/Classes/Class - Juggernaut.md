@@ -14,7 +14,7 @@
 ##### Juggernaut
 | Level | Proficiency Bonus | Features                                                                 |
 |:-----:|:-----------------:|:------------------------------------------------------------------------ |
-|  1st  |        +1         | Raise Guard (CON)                                                        |
+|  1st  |        +1         | Raise Guard (CON), Guts                                                  | 
 |  2nd  |        +1         | Juggernaut Feat, Raise Guard (1+CON)                                     |
 |  3rd  |        +2         | Juggernaut Feat, Powerful Strike (1d10+STR)                              |
 |  4th  |        +2         | Juggernaut Feat, Attribute Score Improvement, Raise Guard (2+CON)        |
@@ -36,9 +36,9 @@
 | 20th  |        +10        | Juggernaut Feat, Raise Guard (10+CON)                                    |
 </div>
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain half your level + CON mod. temporary HP (minimum 1). While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts.
 
-You have +1 bonus to Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. 
+**Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points.
 
 **POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
 
@@ -70,7 +70,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance.
 
-- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme, acertando todas as criaturas em um raio de (1+Guts) quadrados de você. Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Pré-requisito: 10º nível em Juggernaut. 2 poderes de Juggernaut que começam com "Golpe \_\_\_\_".
+- *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme com o seu enorme poder. Todas as criaturas de sua escolha em um raio de (1+Guts) quadrados de você precisam fazer um teste de resistência de Força (CD: 10 + seu bônus de Proficiência + seu Guts). Aqueles que falharem sofrem os efeitos do seu Golpe Poderoso mais potente +1d10 de dano por cada Guts que você tem (o dano de terremoto é de impacto). Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Você perde todo seu Guts. Pré-requisito: 10º nível em Juggernaut.
 
 - *Defesa Impenetrável*. Enquanto estiver de Guarda Alta, você tem +2 Guard. 
 

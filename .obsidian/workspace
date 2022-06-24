@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPG/R20/Battle Maneuvers.md",
+            "file": "Programming/Reference.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/R20/Battle Maneuvers.md",
+                "file": "Programming/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/R20/Battle Maneuvers.md",
+                "file": "Programming/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "b3bd3bce2d1dcf37",
   "lastOpenFiles": [
-    "RPG/R20/Battle Maneuvers.md",
-    "RPG/R20/Conditions.md",
-    "RPG/R20/Crafting.md",
-    "RPG/R20/Origins.md",
-    "RPG/R20/Proficiency.md",
-    "RPG/R20/R20 intro.md",
-    "RPG/R20/Rest.md",
-    "RPG/R20/WIP Treasure & Rewards.md",
-    "RPG/GM stuff/Encounter Design.md",
-    "RPG/R20/Spells/Spells.md"
+    "Programming/Reference.md",
+    "Programming/Tools to check.md",
+    "Todo/22-06-24.md",
+    "RPG/Campaign - Natura/Arcs & Quests/03 - Cidade em Chamas parte 2/reward chart.md",
+    "RPG/R20/Classes/Class - Juggernaut.md",
+    "RPG/R20/Classes/Class - Werebeast (WIP).md",
+    "RPG/R20/Archetypes/Archetype - Specialist.md",
+    "RPG/R20/Classes/Class - Rogue.md",
+    "RPG/R20/Classes/Untitled.md",
+    "RPG/R20/Classes/Class - Witch.md"
   ]
 }
