@@ -85,7 +85,45 @@ ___
 - 2x **Potion of Healing.** A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
 ### Spells
-Adicionar magias...
+#### Poison Spray
+*Truque (Cantrip)*
+___
+- **Casting time:** 1 Action
+- **Range:** 2sqr
+- **Duration:** Instantaneous
+
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
+
+- **+2 PM:** Aumenta o dano em 1d12.
+
+#### Área Escorregadia
+- **Level:** 1
+- **Casting time:** padrão
+- **Range:** curto
+- **Alvo ou Área:** quadrado de 3m ou 1 objeto
+- **Duração:** cena
+- **Resistence:** Dex
+
+Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
+Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
+
+- **+1 PM:** aumenta a área em +1 quadrado de 1,5m.
+- **+2 PM:** muda a CD dos testes para 15.
+- **+5 PM:** muda a CD dos testes para 20.
+
+#### Caminhos da Natureza
+*1º Círculo*
+___
+- **Casting time:** padrão
+- **Alcance:** curto;
+- **Área:** criaturas escolhidas;
+- **Duração:** 1 dia.
+
+Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
+
+- **+0 PM**: muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
+- **+1 PM**: além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
+- **+2 PM**: aumenta o bônus de deslocamento em +3m.
 
 ### Character build choices
 #### Attributes

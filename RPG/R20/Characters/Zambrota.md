@@ -1,4 +1,4 @@
-# Zunnen Kuflion
+# Zambrota Kuflion
 ## Stats
 ___
 Level 1 Beast Warrior (Martial)
