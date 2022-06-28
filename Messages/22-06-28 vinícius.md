@@ -1,0 +1,15 @@
+Eai Vinícius, tudo bem? Eu li a sua mensagem mais cedo, mas só cheguei em casa pra poder responder por agora.
+
+Primeiramente só queria falar que acho super válido o que vc falou no grupo. É uma preocupação importante, e é sempre necessário a gente se precaver assim pra evitar dor de cabeça e problemas futuros, principalmente com clientes não muito alinhados.
+
+Agora, o foda é que isso me quebra de leve kkkk. Eu não vou de jeito nenhum te pedir pra começar a trabalhar sem te dar essa garantira, mas deixa eu explicar o pq que ter um contrato assinado me ferra um pouco, e quais são as minhas ideias pra contornar isso.
+
+Uma coisa que eu devia ter e não tenho ainda é justamente um modelo pessoal de contrato pra esses meus freelas menores. quando se trata de um projeto maior com escopo de meses e equipe grande e tal o cliente vem com o contrato pra mim, mas em projetinhos menores como esse o cara vem sem nada, e eu não tenho nem advogado nem a expertise pra montar isso sozinho (estou querendo arranjar um pra usar de modelo como falei, mas ainda não vi isso). A minha intenção nesse projeto era fazer como eu tenho feito nos outros freelas mais básicos que eu fiz, e ir com base em boa fé e no documento de proposta que eu mostrei antes.
+
+Então um contrato em si acaba sendo inviável pra mim, que já estou tirando quase nada do projeto e não tenho tempo pra trampar nele, só estou basicamente fazendo ele como trabalho voluntário nas minhas horas extras. Mas como comentei lá em cima, eu não vou te deixar só num "confia e bora".
+
+Do lado externo a nossa equipe, eu vou conversar diretamente com a Anasha, e fazer ela me mandar um email explícitamente falando que ela concorda com a minha proposta inicial e com as datas combinadas entre a gente, e deixar transparente e bem definido o escopo do trabalho. Email não é contrato oficial no cartório, mas é prova de contrato não-oficial e dá não só pra usar em defesa de processo, mas tbm como prova se a gente processar ela.
+
+Isso é alguma coisa, mas não é tão seguro ainda. Aqui vem a parte mais importante, que é interna. No final das contas, a Anasha é a minha cliente. Oficialmente estamos fazendo tudo pelo meu CNPJ, e o meu MEI que está entrando nesse negócio com ela. No final das contas eu sou o seu cliente, e vc está vendendo seu serviço pra mim de forma informal. O que eu posso te garantir como seu cliente é que eu vou te pagar o valor integral do seu serviço, e que se a Anasha vier pedindo coisa além do que já temos combinado vc não vai precisar fazer nada. Se o projeto mitologia der ruim, se der treta com ela, se ela não pagar... isso tudo é problema meu. Você não vai precisar fazer nada além do que já conversamos e combinamos, e vai receber integralmente pelo seu trabalho sem atraso, porque eu sou o seu cliente e eu respeito o seu trabalho.
+
+O que vc acha? Isso funciona pra você? Porque como eu falei antes eu não acho viável um contrato real, seja entre eu e vc ou nós e Anasha.
