@@ -13,5 +13,6 @@
 13. Grimgar of Fantasy And Ash
 14. Kaiba
 15. Talentless Nana
-16. Skeleton Knight in Another World (kinda mid? but looks fun)
-17. Moriarty the Patriot
+16. Kujira no Korai
+17. Skeleton Knight in Another World (kinda mid? but looks fun)
+18. Moriarty the Patriot

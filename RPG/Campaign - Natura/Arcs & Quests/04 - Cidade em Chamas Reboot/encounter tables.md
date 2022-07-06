@@ -11,7 +11,7 @@ Full of smoke, hard to see. Players have to succeed on a perception check of be 
 | Elite Enemies            |  3  | 2x [[Bullywug, Shaman]], 2x [[Ent, Newborn]]                             |
 | Lieutenant and Lackeys++ |  4  | 2x [[Boitatá, Filhote]], 2x [[Bullywug, Scout]], 1x [[Bullywug, Shaman]] |
 
-### Commercial District
+### Religious District
 A lot of fire, many dex saves and burning. Also boitatás
 
 #### Encounter Table
@@ -21,7 +21,7 @@ A lot of fire, many dex saves and burning. Also boitatás
 | Mook Squad-             |  3  | 2x [[Bullywug, Shaman]], 2x [[Bullywug, Scout]], 3x [[Bullywug, Spearman]] |
 | Mated Pair+             |  4  | 2x [[Boitatá, Filhote]]                                                    |
 
-### Religious District
+### Commercial District
 Not many hazards, but a lot of monsters
 
 #### Encounter Table
