@@ -8,7 +8,6 @@
 - [Labfaz/feature/TransitionIntoNewInfra](https://github.com/rafael-g-depaulo/labfaz/tree/feature/TransitionIntoNewInfra)
 
 ## [Turborepo](https://turborepo.org/docs/getting-started)
-
 - yarn 3.1.1
 - changesets ("lerna + semver_changelog")
 - syncpack
