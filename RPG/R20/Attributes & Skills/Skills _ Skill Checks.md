@@ -29,7 +29,7 @@ look for something physically
 #### Logic (INT)
 #### History (INT)
 #### Arcana (SEN)
-Figuring out magic speels or items, understanding mystical beings.
+Figuring out magic spells or items, understanding mystical beings.
 
 ### Miscellaneous
 #### Performance (PRE)

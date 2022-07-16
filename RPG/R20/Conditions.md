@@ -14,3 +14,20 @@ A paralyzed creature is incapacitated (see the condition) and can’t move or sp
 
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
+
+### Blinded
+• A blinded creature can’t see and automatically fails any ability check that requires sight.
+• Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+
+## Light and vision
+A given area might be lightly or heavily obscured. In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Perception checks that rely on sight.
+
+A heavily obscured area—such as darkness, opaque
+fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition
+
+Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
+
+Dim light, also called shadows, creates a lightly
+obscured area.
+
+Darkness creates a heavily obscured area

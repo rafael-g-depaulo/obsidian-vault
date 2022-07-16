@@ -11,4 +11,4 @@ $$
 \end{align*}
 $$
 
-
+$$\prod_{i=1}^rp_i^{r_i}$$

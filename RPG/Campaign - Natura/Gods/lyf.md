@@ -1,25 +1,42 @@
-# Lyf
+Names:
+  Lyf
 
-## Description
-Lyf (it/its) is the god of putritude, maggots, vermin, rot, entropy and decay. It's sometimes called by other names, including:
+Tittles:
+  - Senhor das Moscas
+  - Lorde dos não-enterrados
+  - Deus da putridão
+  - Entropia
+  - Rei dos Vermes (perjorativo)
 
-  - Duke of Flies
-  - Lord of the Unburied
-  - Eater of All
+Sayings/Quotes:
+  "Todo defunto pertence às moscas"
+  "Eu devoro tudo o que vive, eu devoro tudo que morre"
+  "Eu levo às cinzas toda a existência"
+  "Da vida a morte; da morte as cinzas; das cinzas a vida"
+  "Das cinzas nasce vida, da morte vem as cinzas"
 
-## History
-People say that some gods are more "human" than others. Some gods are understandable. They have alliances, desires, enemies, etc. In short, they have comprehensible will and agency. Other gods arent like that. They dont think, dont change, dont want, dont take. They are. More "Forces of Nature" than living entities, you might say. Lyf is one of those.
+Blessings:
+  Total | Cost
+    15  |  0
 
-It doesnt have a church. It doesnt have devote followers, favorite things or plans for the future. Lyf consumes, and nothing else.
+Miracles:
+  Total | Cost
+    80  | 
 
-Life may seem diverse and full of choices and chaos (and from some points of view it may be that), but to Lyf its always the same. Things live, things die, and It eats them. All that is or was alive, all organic matter, all magic, everything in existence, will eventually be consumed by It, and die (the order of these 2 things can vary. Living things can rot, whether they want to or not).
+*Avatar de Lyf: Ganha Percepção total em um raio de 15 metros. +2 no dano de todos
+  os ataques de Entropia. Acesso a Cura de Bael*, Invocação de Zebub* e Invocação de
+  Belzebub*
+*Cura de Bael: Usa as cinzas guardadas para curar um aliado. 10g + 0.5 de Mana curam 1hp.
+*Invocação de Zebub: Invoca um enxame de insetos, que podem ser controlados. Se usado como
+  milagre, custa 5g, 0.25 de mana e 0.25 de Favor por cada ponto de HP curado.
+*Invocação de Belzebub: Usa 1kg de cinzas para formar um círculo mágico, do qual é
+  invocado Belzebub. Belzebub é uma mosca gigante, que emana uma aura de putridão, que dá
+  x de dano para toda criatura que entre no alcance da sua aura, ou termine o seu turno
+  nela.
 
-And from the ashes left behind by Lyf, life may use those remains to build itself again. Like a tree's roots using the decomposed nutrients of old leaves to grow, from the its previous remains life may rise once more, so it may one day be consumed again, and rot.
-
-## Appearence
-No one knows, or even thinks, about 
-
-## Lyf & Society
-As mencioned before, its excedingly rare to see a devote of the Maggot King
-
-
+Triva:
+  - Lyf is the deity of decomposing bodies, and as such takes care of breaking down bones.
+    What is left after a skeleton is decomposed is just white phosphorus, which is often
+    used to summon Boitatás, as that's how one is born. Because of that, although they are
+    not used as symbols of lyf, the Boitatás are usually respectfull and thankfull for him
+    and his followers, sometimes even befriending them.

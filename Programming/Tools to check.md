@@ -10,3 +10,5 @@ https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tool
 
 - https://github.com/streamich/react-use
 	- cool hooks lib for react
+
+- Railway deploypu

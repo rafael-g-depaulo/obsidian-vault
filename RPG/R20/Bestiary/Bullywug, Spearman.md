@@ -2,7 +2,7 @@ ___
 > ## Bullywug Spearman #monster
 >*Medium Humanoid*
 > ___
-> - **Defesa** 15
+> - **Defesa** 14
 > - **HP** 20
 > - **MP** 4
 > - **Speed** 4sqr, swim 8sqr
