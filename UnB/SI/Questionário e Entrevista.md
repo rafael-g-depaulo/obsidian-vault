@@ -17,7 +17,7 @@
 5- Você sabe como entrar em contato com um representante público sobre um descontentamento seu sobre o manejo da água?
 6- Você tem acesso estável à internet?
 7- Como você acessa sites? Em qual tipo de dispositivo?
-8- Você considera que conhece práticas de economia/reuso de água?
+8- Você conhece práticas de economia/reuso de água?
 9- Você adota essas práticas?
 10- Você acessaria um site para aprofundar seus conhecimentos sobre educação ambiental relacionado a recursos hídricos?
 
