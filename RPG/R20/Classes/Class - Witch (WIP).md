@@ -38,24 +38,24 @@
 | 20th  |        +10        | Witch Feat                              |
 \</div>
 
-**Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: *Condition: frightened*). At 123th, 123th and 123th level you can spend +2PM to increase the DC by 2.
+**Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.  
 
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: *you still need to pay 1PM/turn for each effect you're concentrating on*).
 
-IDEAS: 
-	- change hex to be a core mechanic
-		- Learn some ammount of hexes every X levels, and has a power to learn more.
-	- make scary look a single feat
-	- add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
-	- Be able to change what attribute the target uses for a save (either as a core mechanic, feat or Hex)
+TODO: add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
+Witches Brew: combination of effects (decide some, roll for most). all effects have a positive and a negative.
+
+ex:
+- bonus on skill checks & take damage
+- heal + disadvantage on initiative
+
 
 ### Witch Feats
-
 Begining at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Martial or General Feat of your choice.
 
 - *Focused Cantrip*. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
-- *NAME HERE*. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
+- *Scary Look.* (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: *Condition: frightened*). At 123th, 123th and 123th level you can spend +2PM to increase the DC by 2.
 
 - *NAME HERE.* Scary Look is now AoE.
 
@@ -65,19 +65,23 @@ Begining at level 2, every time you gain a level in Witch you gain a Witch Feat.
 
 - *NAME HERE.* Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex.
 
-- *Special Brew.* You can make some weird soup (cooking skill check), and it heals
+- *NAME HERE.* +x to double range of Hex.
 
-> ##### Hexes
-> Some powers are Hexes. Hexes are concentration spell-like abilities. A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
-> 
-> By default, a Hex takes a movement action to cast, has a range of 9sqr, costs 0PM and targets one creature you can see. You can change the target of your Hex for free if the original dies.
-> 
-> Most Hexes also gain an additional effect for each other effect you're concentrating on.
-> 
+- *NAME HERE.* +x target an aditional creature when you cast a Hex. 8th level witch.
 
-IDEA: maybe give Hex slow-startup mechanic. "The Hex takes time to show up, and it's effects only start at the end of the target's turn"
+- *NAME HERE.* learn 2 hexes.
+
+- *NAME HERE*. Be able to change what attribute the target uses for a save
+
 
 TODO: give all the hexes some cool, gross descriptions and names. like they should make the target weird, slimy, neurotic and shit. really up the flavor of it
+
+### Hex List:
+A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
+ 
+By default, a Hex takes a movement action to cast, has a range of 9sqr, costs 0PM and targets one creature you can see. You can change the target of your Hex for free if the original dies.
+ 
+Most Hexes also gain an additional effect for each other effect you're concentrating on.
 
 - *Hex: Frail.* The target has -1 Defense, and -1 for each other effect you're concentrating on.
 
@@ -88,7 +92,6 @@ TODO: give all the hexes some cool, gross descriptions and names. like they shou
 - *Hex: Slowed.* The target has their movement speed halved.
 
 - *Hex: Fragile.* Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
-
 
 Spell List:
 

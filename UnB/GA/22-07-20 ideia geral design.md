@@ -31,3 +31,9 @@
 **Expectativas:**
 - Ele espera chegar na página inicial e saber na hora onde achar as informações pertinentes, principalmente quando revisitar pra pegar de novo os contatos que esqueceu da primeira vez.
 - Ele espera que o site seja fácil de ler e visualmente claro, porquê Pedro tem problema de vista e um celular antigo com tela rachada.
+
+
+tem que definir melhor a teoria
+
+interativo: chuveiro/descarga com gráficos responsivos.
+

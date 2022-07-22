@@ -38,9 +38,9 @@ people "stealing it's food".
 ### Miracles
 **Rot away**. 2FP: As part of an attack, you enhance your weapon with necrotic energy. If you hit the attack, you deal an extra 1d6 necrotic damage, and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
 
-**Lyf's Mask**. buff perception, necrotic damage for scene.
+**Lyf's Mask**. buff perception, insight, necrotic damage for scene.
 
-**Lyf's Mantle**. buff defense, movement for scene.
+**Lyf's Mantle**. buff defense, movement for scene. gain flight
 
 **Eat**. 2FP. Model it after some DND spell or something. Necrotic dmg + heal
 
