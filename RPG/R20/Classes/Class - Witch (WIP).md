@@ -48,6 +48,7 @@ Witches Brew: combination of effects (decide some, roll for most). all effects h
 ex:
 - bonus on skill checks & take damage
 - heal + disadvantage on initiative
+- mana + no extra crit damage (too weak? prolly change)
 
 
 ### Witch Feats
