@@ -12,3 +12,11 @@ https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tool
 	- cool hooks lib for react
 
 - Railway deploypu
+
+
+[argo](https://argoproj.github.io/workflows/#:~:text=Argo%20Workflows%20is%20an%20open,the%20workflow%20is%20a%20container.). k8s CI/CD pipeline?
+
+ansible
+
+terraform
+
