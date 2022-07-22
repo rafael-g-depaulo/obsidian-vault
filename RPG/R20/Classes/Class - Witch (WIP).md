@@ -51,7 +51,7 @@ ex:
 
 
 ### Witch Feats
-Begining at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Martial or General Feat of your choice.
+Begining at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
 - *Focused Cantrip*. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
