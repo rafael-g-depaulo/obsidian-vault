@@ -1,0 +1,14 @@
+# SI: 1+ Personas
+
+## Persona #1
+*Nome:* Pedro
+*Idade:* 36
+*Objetivos:* Quer saber se ele e sua família estão gastando água de mais. Quer reduzir a sua conta d'agua. Quer saber pra quem ligar quando faltar água. 
+*Tarefas:* 
+- consultar médias de consumo d'agua
+- inserir os dados da sua família e receber feedback de como melhorar seu consumo individual/familial
+- consultar informações sobre quais agências, orgãos do governo e representantes do governo são responsáveis qye ele pode contactar quando houver algum problema
+*Expectativas:*
+- Ele espera chegar na página inicial e saber na hora onde achar as informações pertinentes, principalmente quando revisitar pra pegar de novo os contatos que esqueceu da primeira vez.
+- Ele espera que o site seja fácil de ler e visualmente claro, porquê Pedro tem problema de vista e um celular antigo com tela rachada.
+
