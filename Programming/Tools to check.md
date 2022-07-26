@@ -20,3 +20,5 @@ ansible
 terraform
 
 https://keystonejs.com/ powerful CMS that uses prisma
+
+- [infracost](https://www.tabnews.com.br/themarkwill/prevendo-custo-de-arquitetura-terraform) ferramenta de estimativa de custo de infra usando terraform
