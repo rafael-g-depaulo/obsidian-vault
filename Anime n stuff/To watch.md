@@ -1,11 +1,11 @@
-1. Centaur World
-2. Hilda
-3. Spy Family 
-4. Jujutsu Kaisen 0
-5. The Executioner and Her Way of Life
-6. Dance Dance Danceur
-7. Kipo and the Age of Wonderbeasts
-8. Tower of God
+1. Hilda
+2. Spy Family 
+3. Jujutsu Kaisen 0
+4. The Executioner and Her Way of Life
+5. Dance Dance Danceur
+6. Kipo and the Age of Wonderbeasts
+7. Tower of God
+8. Primal
 9. Shield Hero S2
 10. Glitch Techs
 11. Akudama Drive

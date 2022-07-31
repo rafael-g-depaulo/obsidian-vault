@@ -22,3 +22,9 @@ terraform
 https://keystonejs.com/ powerful CMS that uses prisma
 
 - [infracost](https://www.tabnews.com.br/themarkwill/prevendo-custo-de-arquitetura-terraform) ferramenta de estimativa de custo de infra usando terraform
+
+
+## Documentation
+- Archi + C4 for arquitecture documentation
+	- [agile software architecture using archimate and the c4 model](https://medium.com/@jeanb.rocher/agile-software-architecture-using-archimate-and-the-c4-model-e98c15e75106)
+	- [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
