@@ -5,3 +5,5 @@
 - DesignOps and DSP
 	- [XD vscode extension](https://www.adobe.com/products/xd/learn/design-systems/cloud-libraries/vscode-extension.html)
 	- [Design-System-Package](https://github.com/AdobeXD/design-system-package-dsp)
+
+[Here’s the Study Plan a Self-Taught Software Engineer Used to Get Two FAANG Offers](https://12ft.io/proxy?ref=&q=http://medium.com/codex/heres-the-study-plan-a-self-taught-software-engineer-used-to-get-two-faang-offers-2e1b7c757e45_)
