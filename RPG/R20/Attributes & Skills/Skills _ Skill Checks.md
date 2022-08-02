@@ -39,8 +39,11 @@ Figuring out magic spells or items, understanding mystical beings.
 #### Nature (INT)
 #### Animal Handling (SEN)
 
+### Rest
+#### Survival (SEN)
+#### Cooking (PRE)
+
 ### Tools
-#### Cook's Tools (INT)
 #### Smith's Tools (INT)
 #### Alquemist's Tools (INT)
 #### Herbalist's Tools (INT)
