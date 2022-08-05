@@ -7,3 +7,5 @@
 	- [Design-System-Package](https://github.com/AdobeXD/design-system-package-dsp)
 
 [Here’s the Study Plan a Self-Taught Software Engineer Used to Get Two FAANG Offers](https://12ft.io/proxy?ref=&q=http://medium.com/codex/heres-the-study-plan-a-self-taught-software-engineer-used-to-get-two-faang-offers-2e1b7c757e45_)
+
+- [ContentLayer](https://www.contentlayer.dev/blog/beta), an interesting tool for handling markdown and other kinds of dynamic content in a more programmatic and statically typed way.
