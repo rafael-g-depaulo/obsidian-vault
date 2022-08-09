@@ -16,8 +16,9 @@
 16. The Yakuza's Guide to Babysitting
 17. Kujira no Korai
 18. Birdie Wing: Golf Girls' Story
-19. Skeleton Knight in Another World (kinda mid? but looks fun)
-20. Love After World Domination
-21. Moriarty the Patriot
-22. Engage Kiss (maybe? kinda NSFW but at least looks cool)
-23. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
+19. Bee and Puppycat
+20. Skeleton Knight in Another World (kinda mid? but looks fun)
+21. Love After World Domination
+22. Moriarty the Patriot
+23. Engage Kiss (maybe? kinda NSFW but at least looks cool)
+24. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
