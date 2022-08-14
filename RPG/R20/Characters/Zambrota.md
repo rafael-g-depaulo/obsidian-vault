@@ -3,9 +3,9 @@
 ___
 Level 1 Beast Warrior (Martial)
 ___
-**HP**: 22/22
+**HP**: 30/30
 {{width:30px}}
-**MP**: 3/3
+**MP**: 6/6
 ___
 **Defense**: 15
 ___
@@ -33,7 +33,7 @@ ___
 
 #### Dexterity (-1):
 - Acrobatics: 0 = -1
-- Initiative: 1 = 0
+- Initiative: 2 = +1
 - Stealth: 0 = -1
 - Sleight of Hand: 0 = -1
 
@@ -42,13 +42,13 @@ ___
 - Logic: 0 = +1
 - History: 0 = +1
 - Medicine: 0 = +1
-- Nature: 1 = +2
+- Nature: 2 = +3
 
 #### Sensibility (+1):
 - Arcana: 0 = +1
 - Animal Handling: 1 = +2
 - Empathy: 0 = +1
-- Insight: 1 = +2
+- Insight: 2 = +3
 - Perception: 1 = +2
 
 #### Presence (-1):
@@ -65,7 +65,11 @@ ___
 ### General Abilities
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**Rage.** (in combat) ação livre (2PM): entre em fúria. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn.
+**Rage.** (in combat) ação livre (2PM): entre em fúria. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP.
+
+**Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
+
+**Beastly Resistance**. Whenever you're at or below half HP, you gain +2 Guard.
 
 ### Attacks
 - **Espada (normal)**: +4 to hit. 2d6+8 cortante. 19/2x critical.

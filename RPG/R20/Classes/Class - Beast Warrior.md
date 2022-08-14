@@ -46,7 +46,7 @@
 
 Begining at level 2, every time you gain a level in Beast Warrior you gain a Beast Warrior Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 
-- *Beastly Resistance*. Whenever you're at or below half HP, you gain your STR mod. as bonus guard.
+- *Beastly Resistance*. Whenever you're at or below half HP, you gain your STR mod. as bonus guard, limited by your level.
 
 - *Thick Hide*. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
