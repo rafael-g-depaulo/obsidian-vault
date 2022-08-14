@@ -48,7 +48,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *Tanque de Combate*. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
 
-- *Vingança*. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
+- *Vingança*. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo turno tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
 
 - *"Tragam o próximo"*. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
 

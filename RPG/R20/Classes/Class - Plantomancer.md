@@ -48,7 +48,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 
 - *Planta Resistente*. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
 
-- *Planta Explosiva*. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 4,5m, centrado na planta), causando YdY de dano ácido. A cada X níveis você pode gastar mais 2PM e aumentar o dano em XdX.
+- *Planta Explosiva*. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
 - *Planta Ajudante*. Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
 
@@ -65,15 +65,15 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 > ##### Herbomancia e Plantas Mágicas
 > Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
 > 
-> Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto. Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
+> Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
 >
 > As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 
-- *Herbomancia: nome_planta_cobertura*. 1PM. nome_planta_cobertura crescer num numa linha de 4,5m no local onde a semente foi plantada. A nome_planta_cobertura funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida. 
+- *Herbomancia: Troco Paredão*. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida. 
 
-- *Herbomancia: nome_planta_escudo*. 2PM. A planta te protege, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado
+- *Herbomancia: Trepadeira da Batata de Aço*. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado
 
-- braço treinado. aumenta o alcance das plantas que vc pode plantar
+- braço treinado. dobra o alcance das plantas que vc pode plantar
 
 - nome sei lá. você recebe +5 em testes de Natureza para Herbomancia
 

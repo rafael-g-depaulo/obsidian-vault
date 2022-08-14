@@ -3,7 +3,7 @@ ___
 >*Small Undead*
 > ___
 > - **Defesa** 13
-> - **HP** 50
+> - **HP** 40
 > - **MP** 13
 > - **Speed** 3sqr
 >___

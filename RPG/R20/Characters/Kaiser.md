@@ -3,9 +3,9 @@
 ___
 Level 1 Juggernaut (Martial)
 ___
-**HP**: 20/20
+**HP**: 23/26
 {{width:30px}}
-**MP**: 3/3
+**MP**: 3/6
 ___
 **Defense**: 15
 ___
@@ -41,18 +41,19 @@ ___
 #### Intelligence (+2):
 - Investigation: 0 = +2
 - Logic: 0 = +2
-- History: 2 = +4
+- History: 3 = +4
 - Arcana: 1 = +3
 - Medicine: 0 = +4
 - Nature: 1 = +3
 
 #### Sensibility (-1):
-- Perception: 1 = +0
+- Perception: 2 = +1
 - Empathy: 0 = -1
 - Insight: 0 = -1
 - Animal Handling: 0 = -1
 
 #### Presence (-1):
+- Cooking: 1 = 0
 - Deception: 0 = -1
 - Intimidation: 0 = -1
 - Persuasion: 0 = -1
@@ -61,13 +62,16 @@ ___
 ### Powers
 - **Tough it up**. Gasta ação de movimento e 1PM e ganha +2 guard pra cena.
 - **Alert**. +3 de iniciativa, não é mais surpreendido enquanto estiver consciente, outras criaturas não ganham vantagem em atks por estarem escondidas de você.
+- **"Tragam o próximo"**. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
 
 ### General Abilities
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**Levantar Guarda.** Movement Action (1PM): Gain 2 temporary HP. While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
+**Levantar Guarda.** Movement Action (1PM): Gain 4 temporary HP. While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
 
 **Guts.** You have +1 bonus to Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. 
+
+**POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage.
 
 ### Attacks
 - lance: +7 to hit. 1d12+6 perfurante. 20/2x critical.

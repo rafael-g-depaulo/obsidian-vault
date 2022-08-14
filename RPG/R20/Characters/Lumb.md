@@ -1,11 +1,11 @@
 # Lumb Erjack
 ## Stats
 ___
-Level 1 class (PLantomancer)
+Level 2 Plantomancer
 ___
-**HP**: 10/10
+**HP**: 14/14
 {{width:30px}}
-**MP**: 10/10
+**MP**: 16/16
 ___
 **Defense**: 13
 ___
@@ -36,33 +36,36 @@ ___
 #### Dexterity (+3):
 - Acrobatics: 0 = +3
 - Initiative: 2 = +5
-- Stealth: 1 = +4
+- Stealth: 2 = +5
 - Sleight of Hand: 1 = +4
 
 #### Intelligence (+4):
 - Investigation: 0 = +4
 - Logic: 0 = +4
-- History: 0 = +4
+- History: 2 = +6
 - Medicine: 2 = +6
-- Nature: 2 = +6
+- Nature: 3 = +7
 
 #### Sensibility (+0):
 - Arcana: 0 = 0
 - Animal Handling: 0 = 0
 - Empathy: 0 = 0
-- Insight: 1 = +1
+- Insight: 2 = +2
 - Perception: 0 = 0
 
 #### Presence (+2):
+- Cooking: 0 = +2
 - Deception: 0 = +2
 - Intimidation: 0 = +2
-- Persuasion: 0 = +2
+- Persuasion: 1 = +3
 - Performance: 0 = +2
 
 ### Powers
 - **Dropout.** +2 to Intelligence based skill checks to recall information.
 
 - **Linguista.** Você aprende 2 línguas a sua escolha.
+
+- **Plantas Conduentes Arcanas**. Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
 
 ### General Abilities
 
@@ -72,7 +75,7 @@ ___
 
 **Criar Muda.** As a movement or main action on your turn, you may spend 1PM and a Magic Seed to summon a sappling to an unnocupied space withing short distance of you. You can cast spells through the sappling, and percieve its surroundings as if you were standing there. (This counts as a Herbomancy power)
 
-**Semente Mágica (2/dia).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day).
+**Semente Mágica (3/dia).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day).
 
 ### Attacks
 - **Adaga**: +3 to hit. 1d4 cortante. 20/2x crítico.
@@ -124,6 +127,22 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+0 PM**: muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
 - **+1 PM**: além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM**: aumenta o bônus de deslocamento em +3m.
+
+#### Enfeitiçar
+*1º Círculo*
+___
+- **Casting time:** padrão
+- **Range:** curto
+- **Alvo:** 1 humanoide
+- **Duração:** concentração
+- **Resistência:** Vontade anula
+
+Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
+
+- **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar.
+- **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo.
+- **+5 PM:** afeta todos os alvos dentro do alcance.
+
 
 ### Character build choices
 #### Attributes

@@ -22,3 +22,4 @@ ___
 >
 > ***Choke.*** Target has to succeed on a DC 13+(ammount of turns it's being choked) STR save, or take 1d8+2 necrotic damage
 
+![[Skeleton, Hand.png]]

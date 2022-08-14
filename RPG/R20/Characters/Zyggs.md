@@ -3,9 +3,9 @@
 ___
 Level 1 Rogue (Specialist)
 ___
-**HP**: 9/9
+**HP**: 11/11
 {{width:30px}}
-**MP**: 5/5
+**MP**: 10/10
 ___
 **Defense**: 17
 ___
@@ -34,8 +34,8 @@ ___
 #### Dexterity (+4):
 - Acrobatics: 0 = +4
 - Initiative: 0 = +4
-- Stealth: 2 = +6
-- Sleight of Hand: 2 = +6
+- Stealth: 3 = +7 (+3)
+- Sleight of Hand: 2 = +6 (+3)
 
 #### Intelligence (+3):
 - Investigation: 0 = +3
@@ -50,22 +50,26 @@ ___
 - Animal Handling: 0 = +1
 - Empathy: 0 = +1
 - Insight: 0 = +1
-- Perception: 0 = +1
+- Perception: 3 = +1
 
 #### Presence (-2):
+- Cooking: 0 = -2
 - Deception: 0 = -2
-- Intimidation: 2 = 0
+- Intimidation: 3 = 1
 - Persuasion: 0 = -2
 - Performance: 0 = -2
 
 ### Powers
 - **Tool Expert**: no negative when performing a skill check without it's kit. +2 if using kit.
 - **Saque Rápido (não escolhido pelo Thales, recomendado pelo Ragan).** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
+- **Mente Criminosa**. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
 
 ### General Abilities
 **Ataque Furtivo.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon.
 
 **Uncanny Dodge:** when taking damage, reaction (3PM): halve the incoming damage. You can't spend more PM using Uncanny Dodge in a scene than you have Dodge.
+
+**EXPERTISE (intimidação, alquimia, iniciativa).** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
 ### Attacks
 - **Besta**: +5 to hit. 1d8+4 piercing damage. 19/2x critical.

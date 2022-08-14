@@ -25,3 +25,4 @@ ___
 > 
 > **Explosão Necrótica.** Todos os personagens em um raio de 2sqr da caveira devem passar numa resistência de DEX (CD 10), ou tomam 3d6 de dano necrótico (resistência anula o dano). Após usar isso, a caveira "morre".
 
+![[Skeleton, Skull.webp]]

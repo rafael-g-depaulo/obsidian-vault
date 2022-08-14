@@ -55,6 +55,7 @@ ___
 - Perception: 0 = +0
 
 #### Presence (+0):
+- Cooking: 0 = +0
 - Deception: 0 = +0
 - Intimidation: 0 = +0
 - Persuasion: 0 = +0
