@@ -84,8 +84,6 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *Defesa Inabalável*. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
 
-- *Defesa Inflexível*. (Guarda Alta) 2PM: Até você sair de onde está, pode gastar uma ação de movimento e 1 PM para realizar um ataque. Pré-requisito: Defesa Impenetrável.
-
 - *Defesa Impermeável* (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
 
 - *Defesa Inatingível*. (Guarda Alta) Até receber dano pela primeira vez na rodada, você tem +2 Guard. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
