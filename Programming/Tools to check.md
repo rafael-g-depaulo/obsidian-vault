@@ -36,3 +36,13 @@ https://keystonejs.com/ powerful CMS that uses prisma
 - Archi + C4 for arquitecture documentation
   - [agile software architecture using archimate and the c4 model](https://medium.com/@jeanb.rocher/agile-software-architecture-using-archimate-and-the-c4-model-e98c15e75106)
   - [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
+
+
+## Methodologies
+
+### DDD
+https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
+
+
+# Apps
+[cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
