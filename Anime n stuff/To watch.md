@@ -22,3 +22,4 @@
 22. Moriarty the Patriot
 23. Engage Kiss (maybe? kinda NSFW but at least looks cool)
 24. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
+25. Devils' Line (vampire romance stuff)

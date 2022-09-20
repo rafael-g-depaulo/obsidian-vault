@@ -31,3 +31,6 @@ Dim light, also called shadows, creates a lightly
 obscured area.
 
 Darkness creates a heavily obscured area
+
+## Grapple
+The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you.

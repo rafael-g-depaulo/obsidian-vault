@@ -16,10 +16,6 @@ https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tool
 
 [argo](https://argoproj.github.io/workflows/#:~:text=Argo%20Workflows%20is%20an%20open,the%20workflow%20is%20a%20container.). k8s CI/CD pipeline?
 
-ansible
-
-terraform
-
 https://keystonejs.com/ powerful CMS that uses prisma
 
 - [infracost](https://www.tabnews.com.br/themarkwill/prevendo-custo-de-arquitetura-terraform) ferramenta de estimativa de custo de infra usando terraform
@@ -31,18 +27,33 @@ https://keystonejs.com/ powerful CMS that uses prisma
 
 - [proton mail](https://medium.com/illumination/gmail-is-dead-and-something-new-is-replacing-it-bc3623a11fbe)
 
-## Documentation
+## Tests
+https://vitest.dev/
 
+## Documentation
 - Archi + C4 for arquitecture documentation
   - [agile software architecture using archimate and the c4 model](https://medium.com/@jeanb.rocher/agile-software-architecture-using-archimate-and-the-c4-model-e98c15e75106)
   - [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
 
 
 ## Methodologies
-
 ### DDD
 https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
 
 
-# Apps
+## Apps
 [cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
+
+## Extensions
+[tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)
+
+## General Use
+### Antivirus
+[https://www.malwarebytes.com/](https://www.malwarebytes.com/)
+
+### Terminals
+[Terminal for DevOps](http://medium.com/@april-4/a-quicker-and-better-terminal-for-devops-70670468a221)
+
+## Design
+https://twitter.com/penpotapp
+https://twitter.com/sketch
