@@ -57,3 +57,12 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 ## Design
 https://twitter.com/penpotapp
 https://twitter.com/sketch
+
+## CLI
+- rg (search file contents of folder?)
+
+## DevOps
+https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
+
+### Secret Management
+https://www.vaultproject.io/, which i got from this article: https://dev.to/gregorygaines/stop-using-env-files-now-kp0

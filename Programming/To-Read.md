@@ -13,6 +13,9 @@
 https://kodekloud.com/courses/devops-pre-requisite-course/?utm_source=IFS&utm_medium=email&utm_campaign=DevOps-Prerequisites-Email-B&utm_id=180
 
 
+## Acessibility
+- [What Can You Learn from Getting Certified in Accessibility?](https://dev.to/futurice/what-can-you-learn-from-getting-certified-in-accessibility-the-cpacc-edition-25m5)
+
 ## Books
 [Fundamentals of Software Architecture [Book]](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 [Head First Design Patterns, 2nd Edition [Book]](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
