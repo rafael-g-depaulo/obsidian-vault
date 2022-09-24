@@ -1,1 +1,3 @@
-- https://www.youtube.com/watch?v=69ODr13hDpw
+- [Log Horizon 2 - Track 01 : Main Theme](https://www.youtube.com/watch?v=69ODr13hDpw)
+- [Dragon, Witcher](https://www.youtube.com/watch?v=LBZikgZ7JeE)
+- [Log Horizon OST2 挑戦者たち (Challengers)](https://www.youtube.com/watch?v=I1wqFFhX0s4)
