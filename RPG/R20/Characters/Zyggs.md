@@ -67,7 +67,7 @@ ___
 ### General Abilities
 **Ataque Furtivo.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon.
 
-**Uncanny Dodge:** when taking damage, reaction (3PM): halve the incoming damage. You can't spend more PM using Uncanny Dodge in a scene than you have Dodge.
+**Uncanny Dodge:** (when taking damage) Reaction (3PM): ignore the damage, and increase the cost of this by 3PM. You can't use Uncanny Dodge if it costs more than your **Dodge**.
 
 **EXPERTISE (intimidação, alquimia, iniciativa).** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 

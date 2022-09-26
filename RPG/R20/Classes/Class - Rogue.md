@@ -1,4 +1,3 @@
-#class 
 # Rogue
 ##### [[Archetype - Specialist]]
 
@@ -34,7 +33,7 @@
 | 18th  |        +9         | Rogue Feat, Expertise (INT+5 skills, 5PM: +INT\*5 to roll)                              |
 | 19th  |        +10        | Rogue Feat, Attribute Score Improvement, Sneak Attack (9PM, 11d6)                       |
 | 20th  |        +10        | Rogue Feat                                                                              |
-\</div>
+</div>
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this damage increases by +1d6.
 

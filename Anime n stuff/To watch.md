@@ -19,8 +19,9 @@
 19. Bee and Puppycat
 20. Final Space
 21. Skeleton Knight in Another World (kinda mid? but looks fun)
-22. Love After World Domination
-23. Moriarty the Patriot
-24. Engage Kiss (maybe? kinda NSFW but at least looks cool)
-25. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
-26. Devils' Line (vampire romance stuff)
+22. Inuyasha
+23. Love After World Domination
+24. Moriarty the Patriot
+25. Engage Kiss (maybe? kinda NSFW but at least looks cool)
+26. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
+27. Devils' Line (vampire romance stuff)

@@ -64,7 +64,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Sangue dos Inimigos*. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-- *Superstição*. Você odeia magia, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
+- *Superstição*. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
 
 > ##### Wild Rage animal forms
 > Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.

@@ -6,3 +6,4 @@ TODO
 	- [ ] Nicky swamp fiasco
 	- [ ] Aspo/Bullywug stuff
 	- [ ] Travel
+- [ ] Write up Henrique Wayne and Leifert Robin
