@@ -1,11 +1,11 @@
 # Kaiser (Kal'Angus)
 ## Stats
 ___
-Level 1 Juggernaut (Martial)
+Level 2 Juggernaut (Martial)
 ___
-**HP**: 23/26
+**HP**: 26/26
 {{width:30px}}
-**MP**: 3/6
+**MP**: 6/6
 ___
 **Defense**: 15
 ___
@@ -20,69 +20,68 @@ ___
 **Movement Speed**: 15m (10 squares)
 
 ### Attributes
-- **STR**: 22 (+6)
+- **STR**: 20 (+5)
 - **DEX**: 12 (+1)
-- **CON**: 15 (+2)
+- **CON**: 14 (+2)
 - **INT**: 14 (+2)
 - **SEN**: 11 (+0)
 - **PRE**: 8 (-1)
 
 ### Skills:
-#### Strength (+6):
-- Athletics: 0 = +6
+#### Strength (+5):
+- Athletics: 0 = +5
 
 #### Dexterity (+1):
 - Acrobatics: 0 = +1
 - Initiative*: 2 = +6
-- Reflexes: 0 = +1
+- Reflexes: 1 = +2
 - Stealth: 0 = +1
 - Sleight of Hand: 0 = +1
 
 #### Intelligence (+2):
 - Investigation: 0 = +2
 - Logic: 0 = +2
-- History: 3 = +4
+- History: 2 = +4
 - Arcana: 1 = +3
-- Medicine: 0 = +4
-- Nature: 1 = +3
+- Medicine: 0 = +2
+- Nature: 2 = +4
 
 #### Sensibility (-1):
-- Perception: 2 = +1
+- Perception: 1 = +0
 - Empathy: 0 = -1
 - Insight: 0 = -1
 - Animal Handling: 0 = -1
 
 #### Presence (-1):
-- Cooking: 1 = 0
 - Deception: 0 = -1
 - Intimidation: 0 = -1
 - Persuasion: 0 = -1
-- Performance: 0 = -1
+- Performance: 2 = 1
 
 ### Powers
 - **Tough it up**. Gasta ação de movimento e 1PM e ganha +2 guard pra cena.
 - **Alert**. +3 de iniciativa, não é mais surpreendido enquanto estiver consciente, outras criaturas não ganham vantagem em atks por estarem escondidas de você.
-- **"Tragam o próximo"**. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
+- **Defesa Impenetrável**. Enquanto estiver de Guarda Alta, você tem +2 Guard.
 
 ### General Abilities
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**Levantar Guarda.** Movement Action (1PM): Gain 4 temporary HP. While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
+**Levantar Guarda.** Movement Action (1PM): Gain (CONS+1) 3 temporary HP. While you have this temporary HP, you're considered as "On Guard". When you lose this temporary HP by taking damage, gain +1 Guts until the end of the scene.
 
 **Guts.** You have +1 bonus to Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. 
 
-**POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage.
+**Powerful Strike (Golpe Poderoso)**. (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
 
 ### Attacks
-- lance: +7 to hit. 1d12+6 perfurante. 20/2x critical.
+- lance: +6 to hit. 1d12+5 perfurante. 20/2x critical.
 
 ### Equipment
-- **Chain mail.** (Guard: -2, Dodge: +3)
+- **Chain mail.** (Guard: +3, Dodge: +2)
 - **Lança.** Dano: 1d12 perfurante. crit 20/x2. mounted (2-handed). reach +1sqr
 
 ### Character Creation choices
 Atributes: 18, 12, 13, 14, 11, 8
 rolou stats
 
-Origin: Brute
+Origin: Brute (+2 STR, +1 CON, -1 SEN)
 Poder: **Alert**

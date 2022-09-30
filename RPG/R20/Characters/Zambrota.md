@@ -20,20 +20,20 @@ ___
 **Movement Speed**: 10,5m (7 squares)
 
 ### Attributes
-- **STR**: 16 (+3)
+- **STR**: 15 (+2)
 - **DEX**: 8 (-1)
-- **CON**: 19 (+4)
+- **CON**: 17 (+3)
 - **INT**: 12 (+1)
 - **SEN**: 13 (+1)
-- **PRE**: 8 (-1)
+- **PRE**: 9 (-1)
 
 ### Skills
-#### Strength (+3):
-- Athletics: 1 = +4
+#### Strength (+2):
+- Athletics: 1 = +3
 
 #### Dexterity (-1):
 - Acrobatics: 0 = -1
-- Initiative: 2 = +1
+- Initiative: 1 = 0
 - Stealth: 0 = -1
 - Sleight of Hand: 0 = -1
 
@@ -42,13 +42,13 @@ ___
 - Logic: 0 = +1
 - History: 0 = +1
 - Medicine: 0 = +1
-- Nature: 2 = +3
+- Nature: 1 = +2
 
 #### Sensibility (+1):
 - Arcana: 0 = +1
 - Animal Handling: 1 = +2
 - Empathy: 0 = +1
-- Insight: 2 = +3
+- Insight: 1 = +2
 - Perception: 1 = +2
 
 #### Presence (-1):
@@ -65,15 +65,11 @@ ___
 ### General Abilities
 **Endurance:** movement (2MP): for the rest of the scene, all damage you take that's equal or below your guard becomes 0.
 
-**Rage.** (in combat) ação livre (2PM): entre em fúria. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP.
-
-**Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
-
-**Beastly Resistance**. Whenever you're at or below half HP, you gain +2 Guard.
+**Rage.** (in combat) ação livre (2PM): entre em fúria. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn.
 
 ### Attacks
-- **Espada (normal)**: +4 to hit. 2d6+8 cortante. 19/2x critical.
-- **Espada (fúria)**: +6 to hit. 2d6+10 cortante. 19/2x critical.
+- **Espada (normal)**: +3 to hit. 2d6+7 cortante. 19/2x critical.
+- **Espada (fúria)**: +5 to hit. 2d6+9 cortante. 19/2x critical.
 
 ### Equipment
 - **Camisa de couro de Crocodilo.** (Guard: +2, Dodge: +1)

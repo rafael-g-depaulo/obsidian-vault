@@ -89,7 +89,7 @@ Here's a list of origins: (e em parênteses qual raça do T20 eu quibei pra mont
 **Attributes**: +1 in 3 non-Presence attributes. Presence -1.
 **Powers**: 1 General Power. Intimidating.
 
-**Intimidating**. +1 to intimidation.
+**Intimidating**. +2 to intimidation.
 
 ### Dropout
 You went out and got yourself a propper education in a fancy shmancy school! Well... you tried, at least.

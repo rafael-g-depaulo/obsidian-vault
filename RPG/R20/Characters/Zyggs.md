@@ -21,21 +21,21 @@ ___
 
 ### Attributes
 - **STR**: 10 (+0)
-- **DEX**: 19 (+4)
+- **DEX**: 17 (+3)
 - **CON**: 9  (-1)
-- **INT**: 17 (+3)
+- **INT**: 16 (+3)
 - **SEN**: 12 (+1)
-- **PRE**: 6  (-2) 
+- **PRE**: 7  (-2) 
 
 ### Skills:
 #### Strength (+0):
 - Athletics: 0 = +0
 
-#### Dexterity (+4):
-- Acrobatics: 0 = +4
-- Initiative: 0 = +4
-- Stealth: 3 = +7 (+3)
-- Sleight of Hand: 2 = +6 (+3)
+#### Dexterity (+3):
+- Acrobatics: 0 = +3
+- Initiative: 0 = +3
+- Stealth: 3 = +6 (+3)
+- Sleight of Hand: 2 = +5 (+3)
 
 #### Intelligence (+3):
 - Investigation: 0 = +3
@@ -72,7 +72,7 @@ ___
 **EXPERTISE (intimidação, alquimia, iniciativa).** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
 ### Attacks
-- **Besta**: +5 to hit. 1d8+4 piercing damage. 19/2x critical.
+- **Besta**: +4 to hit. 1d8+3 piercing damage. 19/2x critical.
 
 ### Equipment
 - **Armadura improvisada de couro**. (Dodge: +3, Guard: -2)
