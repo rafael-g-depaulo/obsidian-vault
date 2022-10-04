@@ -3,15 +3,15 @@ Auto marketada como uma iniciativa de "Necromancia Multi-Nível", a Ordem da Hid
 A Ordem da Hidra tem uma forte hierarquia. E no topo dela tem as 7 Cabeças. 7 líderes da Ordem, um para cada pecado. 7 líderes, cada um com seus aprendizes. Quando uma Cabeça morre, seu escolhido sobe, e toma seu posto. A Ordem junta corpos, e com isso energia. Quando eles juntam o suficiente para criar um lich, as cabeças se reunem, e escolhem um de si para virar o próximo Lich.
 
 #### as 7 cabeças atuais
-| Name                          | Rapper      | Sin      | Species    | Status | Has Neck? |
-| ----------------------------- | ----------- | -------- | ---------- | ------ | --------- |
-| [[Dr. Drenio E. Stein]]       | Dr. Dre     | pride    | gnome      |        | no        |
-| [[Fifinia Missilira Ticente]] | 50 cent     | greed    | Elf        |        | yes       |
-| [[Emin Nemdrago]]             | eminem      | envy     | half-elf   |        | no        |
-| [[Drahke]]                        | Drake       | luxury   | dragonborn |        | yes       |
-| [[Hikrôss]]                       | Rick Ross   | gluttony | toucan     | lich   | yes       |
-| [[Lupina Fiasco]]                 | Lupe Fiasco | sloth    | human      |        | yes       |
-| Sinnôp Do'og                  | Snoop Dog   | wrath    | orc        |        | yes       |
+| Name                          | Rapper      | Sin      | Species    | Status | Has Neck? | Gimmick                         |
+| ----------------------------- | ----------- | -------- | ---------- | ------ | --------- | ------------------------------- |
+| [[Dr. Drenio E. Stein]]       | Dr. Dre     | pride    | gnome      |        | no        | Frankenstein Combos             |
+| [[Fifinia Missilira Ticente]] | 50 cent     | greed    | Elf        |        | yes       | Geared out skeletons            |
+| [[Emin Nemdrago]]             | eminem      | envy     | half-elf   |        | no        | magical creatures               |
+| [[Drahke]]                    | Drake       | luxury   | dragonborn |        | yes       | pimped out skele-gear & Dragons |
+| [[Hikrôss]]                   | Rick Ross   | gluttony | toucan     | lich   | yes       | Animals                         |
+| [[Lupina Fiasco]]             | Lupe Fiasco | sloth    | human      |        | yes       | Skeleton Boats & Sea Creatures  | 
+| Sinnôp Do'og                  | Snoop Dog   | wrath    | orc        |        | yes       |  Big things                               |
 
 
 #### Os pescoços atuais
@@ -19,7 +19,7 @@ A Ordem da Hidra tem uma forte hierarquia. E no topo dela tem as 7 Cabeças. 7 l
 | --------------------------- | ----------- | -------- | -------- |
 |                             |             | pride    |          |
 | [[Nickolau Mandrova Inahg]] | Nicky Minaj | greed    | half-elf |
-|                             |             | envy     |          |
+| none                        |             | envy     |          |
 |                             |             | luxury   |          |
 |                             |             | wrath    |          |
 |                             |             | gluttony |          |

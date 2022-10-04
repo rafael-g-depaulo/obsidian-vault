@@ -1,6 +1,6 @@
 Povo massa do partido verde:
 
-dep distrital: 4320 Jeann Cunha
-dep federal 4343 Reginaldo Veras
-dep federal: 2117 [Espaguete](https://www.poderpopularmg.org/eleicoes-2022/espaguete/)
+dep distrital: 13100
+dep federal: 2121 Ju Guerreira
 governador: 43 Leangro grass
+senadora: 133 Rosilene
