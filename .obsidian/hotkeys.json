@@ -7,5 +7,13 @@
       ],
       "key": "B"
     }
+  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
   ]
 }

@@ -21,7 +21,7 @@ Beastly Rage. Savage Attack
 Raise Guard. Powerful Strike.
 
 ### Battle Mage
-[[Class - Battle Mage]]
+[[Class - Spelgard]]
 Spiritual Weapon. Lay on Hands
 
 ### Champion

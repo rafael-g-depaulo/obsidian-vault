@@ -15,7 +15,8 @@ A Half-Caster's maximum HP and MP are calculated as such:
 An off-caster has access to all Caster Feats and all Matial Featst.
 
 ### Attacks
-- **Simple Weapon Proficiency**: Any Off-Caster character has proficiency with Simple Weapons
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [[Combat Actions#Attack of Opportunity]].
 - **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
 
 ### Spells

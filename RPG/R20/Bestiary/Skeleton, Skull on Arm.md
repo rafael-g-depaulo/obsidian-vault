@@ -26,5 +26,3 @@ ___
 > ***Choke.*** Target has to succeed on a DC 14+(ammount of turns it's being choked) STR save, or take 1d8+2 necrotic damage.
 > 
 > **Explosão Necrótica.** A caveira é jogada num ponto em um raio de 3sqr. Todos os personagens em um raio de 2sqr da caveira devem passar numa resistência de DEX (CD 10), ou tomam 3d6 de dano necrótico (resistência reduz o dano pela metade). Após usar isso, a caveira "morre", e esse monstro vira um [[Skeleton, Hand]].
-> 
-

@@ -1,7 +1,7 @@
 # Syril Corima
 ## Stats
 ___
-Level 1 [[Class - Battle Mage]] ([[Archetype - Off-Caster]])
+Level 1 [[Class - Spelgard]] ([[Archetype - Off-Caster]])
 ___
 **HP**: 24/24
 {{width:30px}}

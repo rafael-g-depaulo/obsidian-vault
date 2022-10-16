@@ -14,28 +14,28 @@
 ##### Spelgard
 
 \<div class='classTable wide'>
-| Level | Proficiency Bonus | Features                                                    | Spells Known | Max Spell Circle |
-|:-----:|:-----------------:|:----------------------------------------------------------- |:------------:|:----------------:|
-|  1st  |        +1         | Lay on Hands (1d8+1)                                        |      1       |        1         |
-|  2nd  |        +1         | Spelgard Feat, Spiritual Weapon (1d8+SEN)                |      2       |        1         |
-|  3rd  |        +2         | Spelgard Feat                                            |      2       |        1         |
-|  4th  |        +2         | Spelgard Feat, Lay on Hands (2d8+2)                      |      3       |        1         |
-|  5th  |        +3         | Spelgard Feat, Attribute Score Improvement               |      3       |        2         |
-|  6th  |        +3         | Spelgard Feat, Spiritual Weapon (2d8+SEN)                |      4       |        2         |
-|  7th  |        +4         | Spelgard Feat, Attribute Score Improvement, Extra Attack |      4       |        2         |
-|  8th  |        +4         | Spelgard Feat                                            |      5       |        3         |
-|  9th  |        +5         | Spelgard Feat, Lay on Hands (3d8+3)                      |      5       |        3         |
-| 10th  |        +5         | Spelgard Feat, Attribute Score Improvement               |      6       |        3         |
-| 11th  |        +6         | Spelgard Feat, Spiritual Weapon (3d8+SEN)                |      6       |        4         |
-| 12th  |        +6         | Spelgard Feat, Attribute Score Improvement               |      7       |        4         |
-| 13th  |        +7         | Spelgard Feat                                            |      7       |        5         |
-| 14th  |        +7         | Spelgard Feat, Attribute Score Improvement               |      8       |        5         |
-| 15th  |        +8         | Spelgard Feat, Lay on Hands (4d8+4)                      |      8       |        6         |
-| 16th  |        +8         | Spelgard Feat, Spiritual Weapon (4d8+SEN)                |      9       |        6         |
-| 17th  |        +9         | Spelgard Feat, Attribute Score Improvement               |      9       |        7         |
-| 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                      |      10      |        7         |
-| 19th  |        +10        | Spelgard Feat                                            |      10      |        7         |
-| 20th  |        +10        | Spelgard Feat                                            |      11      |        7         | 
+| Level | Proficiency Bonus | Features                                                          | Spells Known | Max Spell Circle |
+|:-----:|:-----------------:|:----------------------------------------------------------------- |:------------:|:----------------:|
+|  1st  |        +1         | Lay on Hands (1d8+1)                                              |      1       |        1         |
+|  2nd  |        +1         | Spelgard Feat, Spiritual Weapon (1d8+SEN)                         |      2       |        1         |
+|  3rd  |        +2         | Spelgard Feat                                                     |      2       |        1         |
+|  4th  |        +2         | Spelgard Feat, Lay on Hands (2d8+2)                               |      3       |        1         |
+|  5th  |        +3         | Spelgard Feat, Attribute Score Improvement, Attack of Opportunity |      3       |        2         |
+|  6th  |        +3         | Spelgard Feat, Spiritual Weapon (2d8+SEN)                         |      4       |        2         |
+|  7th  |        +4         | Spelgard Feat, Attribute Score Improvement, Extra Attack          |      4       |        2         |
+|  8th  |        +4         | Spelgard Feat                                                     |      5       |        3         |
+|  9th  |        +5         | Spelgard Feat, Lay on Hands (3d8+3)                               |      5       |        3         |
+| 10th  |        +5         | Spelgard Feat, Attribute Score Improvement                        |      6       |        3         |
+| 11th  |        +6         | Spelgard Feat, Spiritual Weapon (3d8+SEN)                         |      6       |        4         |
+| 12th  |        +6         | Spelgard Feat, Attribute Score Improvement                        |      7       |        4         |
+| 13th  |        +7         | Spelgard Feat                                                     |      7       |        5         |
+| 14th  |        +7         | Spelgard Feat, Attribute Score Improvement                        |      8       |        5         |
+| 15th  |        +8         | Spelgard Feat, Lay on Hands (4d8+4)                               |      8       |        6         |
+| 16th  |        +8         | Spelgard Feat, Spiritual Weapon (4d8+SEN)                         |      9       |        6         |
+| 17th  |        +9         | Spelgard Feat, Attribute Score Improvement                        |      9       |        7         |
+| 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                               |      10      |        7         |
+| 19th  |        +10        | Spelgard Feat                                                     |      10      |        7         |
+| 20th  |        +10        | Spelgard Feat                                                     |      11      |        7         |
 </div>
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1

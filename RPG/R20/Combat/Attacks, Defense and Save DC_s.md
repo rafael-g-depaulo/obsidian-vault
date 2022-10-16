@@ -18,7 +18,7 @@ Example: Molly, an 8th level character proficient with simple weapons and 15(+2)
 
 #### Spell Attacks
 To make a spell attack you first roll to hit. The roll is determined by the following formula:
-  - **1d20 + proficiency bonus + Spellcasting modifier**
+- **1d20 + proficiency bonus + Spellcasting modifier**
 	
 Unlike physical attacks, spell attacks in general don't add the caster's spellcasting modifier to the damage roll.
 
@@ -27,18 +27,18 @@ Some spells use a spell save DC instead. For that, see the Save DC Section below
 ### Saves
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 
-**8 + proficiency modifier + relevant attribute modifier**
+- **8 + proficiency modifier + relevant attribute modifier**
 
 Example: Ynit, a level 6 Mage with 15 INT (their spellcasting attribute) would have a spell save DC of 8 + 3 + 2 = 13.
 
 #### Rolling Saves
 Whenever a player character has to resist an effect, they perform a Save Roll with a certain attribute. A character's class determines what attributes they have proficiency in saves with. If a character is proficient with a save, the roll formula is:
 
-**1d20 + proficiency modifier + relevant attribute modifier**
+- **1d20 + proficiency modifier + relevant attribute modifier**
 
 If they aren't proficient in saves with that attribute, the roll is:
 
-**1d20 + relevant attribute modifier**
+- **1d20 + relevant attribute modifier**
 
 ## Defense (AC)
 <div></div>
@@ -60,4 +60,4 @@ The formula for a character's Dodge is:
 
 - **Equipment bonus + Dexterity modifier**
 
-	Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
+Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].

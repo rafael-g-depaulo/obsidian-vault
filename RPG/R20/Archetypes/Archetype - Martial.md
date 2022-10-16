@@ -20,4 +20,6 @@ A character from a martial class has access to all Matial Feats.
 - **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
 - **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
 - **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
+
 <!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
