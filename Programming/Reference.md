@@ -14,3 +14,8 @@ https://cutcodedown.com/for_others/medium_articles/vuetify/wireframe/
 ### Navigation
 [navigate and get old commands and stuff](https://betterprogramming.pub/7-shell-shortcuts-to-speed-up-development-439943247eea)
 
+
+# HTML
+HTML Elements
+
+![[Pasted image 20221008235841.png]]

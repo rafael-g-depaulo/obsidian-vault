@@ -8,7 +8,7 @@
   "spellcheck": true,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabeticalReverse",
+  "fileSortOrder": "alphabetical",
   "readableLineLength": false,
   "newFileLocation": "current",
   "showLineNumber": true,

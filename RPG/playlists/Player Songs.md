@@ -10,3 +10,6 @@ Kaiser:
 
 Zyggs:
 - [Cloak And Dagger](https://www.youtube.com/watch?v=SPcVvEnxTLU)
+
+Syril:
+- [Yu Yu Hakusho Soundtrack (Kurama's Theme)](https://www.youtube.com/watch?v=iKpPtJAMy8c)

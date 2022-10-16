@@ -45,3 +45,5 @@ people "stealing it's food".
 **Eat**. 2FP. Model it after some DND spell or something. Necrotic dmg + heal
 
 cool name involving fungi?. teleport a short/medium distance, all spooky-like
+
+**Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn

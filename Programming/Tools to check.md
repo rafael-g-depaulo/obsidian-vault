@@ -46,6 +46,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 
 ## Extensions
 [tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)
+[JSON Crack](https://jsoncrack.com/), for web and vscode
 
 ## General Use
 ### Antivirus

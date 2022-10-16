@@ -26,7 +26,7 @@ ele comentou de coisas interessantes
 
 1. conchas amplificadoras a leste
 2. torre de livros
-3. gruta antiga
+3. gruta dos susurros
 4. fortaleza antiga cheia de espíritos
 
 chegamos na cidade de lugubela
