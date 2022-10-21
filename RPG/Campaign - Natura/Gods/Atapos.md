@@ -32,3 +32,6 @@ Miracles:
 *Alea Jacta Est: joga-se uma moeda. Se cair cara, todos os inimigos tomam 1d2 + 1d4 + 1d6 + 1d8 + 1d10
   + 1d12 + 1d20 de dano (todos os dados explosivos). Se cair coroa, rolam-se os mesmo dados, e todos os
   aliados são curados por essa quantidade
+
+Icone:
+![[Atapos.png]]

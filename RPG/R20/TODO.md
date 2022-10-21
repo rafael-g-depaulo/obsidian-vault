@@ -5,3 +5,4 @@
 
 - [ ] considering making monks an archetype?
 - [ ] pet system
+- [ ] implement passive Perception

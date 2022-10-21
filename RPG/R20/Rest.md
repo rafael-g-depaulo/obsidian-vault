@@ -48,7 +48,7 @@ Consult the table below to see how the rest affected the characters.
 | Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                   |
 | ----- | --------------------- | ----------- | ----------- | -------- | ------------------------------------------- |
 | <=0   | Bad Condition         | 0           | level/2     | 5 hours  | DC 10-5\*condition CON save or gain 1 level |
-| 1     | Normal Condition      | level/2     | level/2     | 8 hours  | recovers 1 level                            |
+| 1     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                            |
 | 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
 | 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |

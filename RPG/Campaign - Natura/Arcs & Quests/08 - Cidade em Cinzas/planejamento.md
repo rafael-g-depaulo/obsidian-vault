@@ -8,7 +8,6 @@ TODO
 	- [x] Travel
 - [x] Write up Henrique Wayne and Leifert Robin
 
-
 ### Henrique Rises.
 Henrique Wayne agora é um rogue do bem. Ele vai avisar a party pq o contato dele chamou ele. Deu ruim.
 

@@ -1,1 +1,2 @@
 - https://www.youtube.com/watch?v=_p4eYKfnAqo
+- Exploration: https://www.youtube.com/watch?v=bLZApMsorjA
