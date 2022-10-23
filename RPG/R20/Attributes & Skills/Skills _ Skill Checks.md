@@ -22,6 +22,8 @@ Spider Sense. feel energy. percieve magic. identify magical items.
 #### Deception (PRE)
 #### Intimidation (PRE)
 #### Persuasion (PRE)
+#### Performance (PRE)
+While performance is used mainly for displays or artistic expression, it can also be used to roll for a character's ability to express their feelings/ideas/intentions.
 
 ### Finding/Remembering/Acquiring information
 #### Investigation (INT)
