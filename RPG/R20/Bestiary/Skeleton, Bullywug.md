@@ -2,8 +2,8 @@
 ## Bullywug Skeleton
 *Medium Beast*
 ___
-**Defense**     :: 13 (chain mail, shield)
-**HP**          :: 47
+**Defense**     :: 15 (chain mail, shield)
+**HP**          :: 30
 **Speed**       :: 2sqr.
 ___
 
@@ -21,6 +21,6 @@ ___
 ___
 
 ### Actions
-**Megajump.**, range: 2sqr. area: 3sqr side square. 12 DEX save 2d6 damage on a hit and knocked prone. half damage and no prone on a success.
+**Megajump.** range: 2sqr. area: 3sqr side square. 12 DEX save 2d6 damage on a hit and knocked prone. half damage and no prone on a success.
 
 ![[Skeleton, Bullywug.png]]

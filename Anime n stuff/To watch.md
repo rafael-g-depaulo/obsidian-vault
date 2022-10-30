@@ -46,3 +46,5 @@
 46. Final Space
 47. the Eminence in Shadow (satire edgy isekai)
 48. Akiba MAid War
+49. Wendel & Wild
+50. To Be Hero X

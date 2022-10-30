@@ -39,7 +39,7 @@
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
-**POWERFUL STRIKE (GOLPE PODEROSO).** (On Guard) Movement Action (1PM): Your next melee attack until your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
+**Powerful Strike (Golpe Poderoso)**. (On Guard) Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
 
 ### Juggernaut Feats
 

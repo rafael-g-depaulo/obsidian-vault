@@ -26,12 +26,12 @@ When resting, expending more or less resources has an effect on the quality of t
 **Experiment with different prices**
 | amount spent per person | bonus |
 | ----------------------- | ----- |
-| 0g                      | -3    |
-| 0.2g (2 silver)         | -1    |
-| 0.5g (5 silver)         | 0     |
-| 2g                      | +1    |
-| 5g                      | +2    |
-| 15g                     | +3    |
+| 0                       | -3    |
+| 2 silver                | -1    |
+| 5 silver                | 0     |
+| 20 silver               | +1    |
+| 50 silver               | +2    |
+| 150 silver              | +3    |
 
 ### Skills
 A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). 
