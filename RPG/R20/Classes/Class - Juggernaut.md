@@ -53,7 +53,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *"A Melhor Defesa..."*. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
 
-- *Crítico Fortificador*. Quando acertar um ataque crítico, você ganha +1 Guts.
+- *Crítico Fortificador*. Quando acertar um ataque crítico, você ganha +2 Guts.
 
 - *Crítico Brutal*. Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.
 
