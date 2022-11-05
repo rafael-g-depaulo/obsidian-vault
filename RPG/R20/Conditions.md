@@ -25,12 +25,7 @@ A given area might be lightly or heavily obscured. In a lightly obscured area, s
 A heavily obscured area—such as darkness, opaque
 fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition
 
-Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
-
-Dim light, also called shadows, creates a lightly
-obscured area.
-
-Darkness creates a heavily obscured area
+Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
 ## Grapple
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you.

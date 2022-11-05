@@ -1,4 +1,5 @@
-### Attacks
+# Attacking and Defending
+## Attacking
 #### Physical Attacks
 To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
 
@@ -40,7 +41,9 @@ If they aren't proficient in saves with that attribute, the roll is:
 
 - **1d20 + relevant attribute modifier**
 
-## Defense (AC)
+## Defending Against an Attack, Spell or Ability
+
+### Defense (AC)
 <div></div>
 When an attack or spell has a roll instead of a save DC, the chalenge rating it should meet to hit the target is the target's Defense. The target's defense (also known as armor class) is calculated as:
 
@@ -48,16 +51,18 @@ When an attack or spell has a roll instead of a save DC, the chalenge rating it 
 
 Defense Bonus is given by items, spells, abilities, circumstances (e.g. cover), etc.
 
-### Guard
+#### Guard
 The formula for a character's Guard is:
 
 - **Equipment bonus + Constituition modifier**
 
 Besides contributing to a character's Defense, Guard also allows them to use [[Combat Actions#Endurance]].
 
-### Dodge
+#### Dodge
 The formula for a character's Dodge is:
 
 - **Equipment bonus + Dexterity modifier**
 
 Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
+
+

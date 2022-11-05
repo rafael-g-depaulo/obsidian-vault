@@ -1,13 +1,22 @@
 <style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
+  .page#p1{ text-align:center; counter-increment: none; }
+  .page#p1:after{ display:none; }
+  .page:nth-child(2n) .pageNumber { left: inherit !important; right: 2px !important; }
+  .page:nth-child(2n+1) .pageNumber { right: inherit !important; left: 2px !important; }
+  .page:nth-child(2n)::after { transform: scaleX(1); }
+  .page:nth-child(2n+1)::after { transform: scaleX(-1); }
+  .page:nth-child(2n) .footnote { left: inherit; text-align: right; }
+  .page:nth-child(2n+1) .footnote { left: 80px; text-align: left; }
 </style>
 
-<div style='margin-top:450px;'></div>
+{{margin-top:225px}}
 
-# [Name Pending]
+# R20
 
-<div style='margin-top:25px'></div>
-<div class='wide'>
+{{margin-top:25px}}
+
+{{wide
 ##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
-</div>
+}}
+
+\page

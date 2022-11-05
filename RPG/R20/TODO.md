@@ -6,7 +6,7 @@
 
 - [ ] considering making monks an archetype?
 - [ ] pet system
-- [ ] implement passive Perception
+- [ ] implement passive Perception and passive rolls in general
 - [ ] Write up spell preparation rules
 - [ ] Write up Hide mechanics
 - [ ] Write up spell attack/save rules, with crit in mind
