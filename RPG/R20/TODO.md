@@ -3,10 +3,10 @@
 - [ ] Add cunning action to rogue
 - [ ] Especialist Feats (Ex: hide as free action after de raspão)
 - [ ] Fix up simple weapons
-
 - [ ] considering making monks an archetype?
 - [ ] pet system
 - [ ] implement passive Perception and passive rolls in general
 - [ ] Write up spell preparation rules
 - [ ] Write up Hide mechanics
 - [ ] Write up spell attack/save rules, with crit in mind
+- [ ] Add unarmored defense to Beast Warrior

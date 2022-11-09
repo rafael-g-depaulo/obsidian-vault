@@ -8,13 +8,13 @@ TODO
 	- [x] Travel
 - [x] Write up Henrique Wayne and Leifert Robin
 
-### Henrique Rises.
+### Henrique Wayne Rises.
 Henrique Wayne agora é um rogue do bem. Ele vai avisar a party pq o contato dele chamou ele. Deu ruim.
 
-Henrique não entregou o que devia, e o chefe dele (mão) tá fudido com os chefes dele (pescoço causou a invasão).
+Henrique não entregou o que devia, e o chefe dele (mão) tá fudido com os chefes dele
 
 Nome da mão é Lili Trevus (13 AC, 35 HP). Ela vai tentar pegar o broche dele e matar ele. Ela usa um firebolt necrótico: +3 to hit, 1d10+1 necrotic, 4sqr range. 5sqr movement.
 
-Começa só Lili, aí ela chama o bullywug e mais 3 mãos
+Começa só Lili, aí ela chama o bullywug, pernas e mais 3 mãos
 
 2 turnos

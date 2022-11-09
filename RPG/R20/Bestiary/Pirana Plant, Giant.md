@@ -13,7 +13,7 @@ ___
 **Condition Immunities** :: Slowed, Prone
 **Senses**               :: passive Perception 15
 **Languages**            :: Ent, Fairy
-**Challenge**            :: 1X
+**Challenge**            :: (2X)
 ___
 ### Actions
 
