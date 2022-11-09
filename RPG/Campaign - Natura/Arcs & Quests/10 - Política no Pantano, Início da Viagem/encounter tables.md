@@ -13,4 +13,4 @@ Encounters:
 
 Expected Rests: 2
 
-180%, challenging
+225%, challenging
