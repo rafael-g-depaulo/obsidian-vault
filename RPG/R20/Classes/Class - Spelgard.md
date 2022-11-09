@@ -11,9 +11,8 @@
 
 **Spellcasting Modifier:** SEN
 
+{{classTable,decoration,wide
 ##### Spelgard
-
-\<div class='classTable wide'>
 | Level | Proficiency Bonus | Features                                                          | Spells Known | Max Spell Circle |
 |:-----:|:-----------------:|:----------------------------------------------------------------- |:------------:|:----------------:|
 |  1st  |        +1         | Lay on Hands (1d8+1)                                              |      1       |        1         |
@@ -36,7 +35,7 @@
 | 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                               |      10      |        7         |
 | 19th  |        +10        | Spelgard Feat                                                     |      10      |        7         |
 | 20th  |        +10        | Spelgard Feat                                                     |      11      |        7         |
-</div>
+}}
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -87,3 +86,5 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Spiritual Aura*. Your Spiritual Weapon also radiates your aura.
 
 - *Long Range Aura*. Your aura's radius is increased to 3sqr (4.5m)
+
+- *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.

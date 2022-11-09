@@ -1,8 +1,8 @@
 - [ ] Add Defensive Duelist Feat
-- [ ] Make Expertise global for especialists and add cunning action to rogue
+- [ ] Make Expertise global for especialists
+- [ ] Add cunning action to rogue
 - [ ] Especialist Feats (Ex: hide as free action after de raspão)
 - [ ] Fix up simple weapons
-
 
 - [ ] considering making monks an archetype?
 - [ ] pet system

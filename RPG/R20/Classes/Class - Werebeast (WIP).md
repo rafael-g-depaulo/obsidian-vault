@@ -65,3 +65,6 @@ Feat ideas:
 	- add nasty debuffs to monstrous blood beast form
 	- add cool buffs to monstrous blood human form
 	- temporarily increase Wild Dice value
+	- advantage to resist mental effects in human form
+	- advantage to resist physical effects in beast form
+	- **FEAT TYPE: Aberrant Body:** skills with different effects in human and werebeast form

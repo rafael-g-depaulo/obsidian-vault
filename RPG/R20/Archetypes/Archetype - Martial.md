@@ -9,7 +9,6 @@ A Martial character's maximum HP and MP are calculated as such:
 - **HP gain per level after 1st:** 5 + their Constitution modifier
 - **MP gain per level after 1st:** 3
 
-
 ### Attribute Score Increase
 - **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
 
