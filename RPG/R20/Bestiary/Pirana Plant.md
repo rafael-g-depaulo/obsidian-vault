@@ -1,5 +1,5 @@
 {{monster
-## Giant Pirana Plant
+## Pirana Plant
 *Medium Plant*
 ___
 **Defense**     :: 13
