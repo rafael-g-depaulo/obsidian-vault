@@ -2,8 +2,8 @@ ___
 > ## Spiderlings #monster
 >*Tiny beast*
 > ___
-> - **Defesa** 11
-> - **HP** 5
+> - **Defesa** 13
+> - **HP** 10
 > - **Speed** 4sqr
 >___
 >
@@ -19,5 +19,5 @@ ___
 > ___
 > ### Action
 > 
-> ***Bite.*** *Melee Weapon Attack*: +5 to hit, one target. Hit 1d4 piercing. Target must succeed on DC 11 CON save or take 1d8 poison damage
+> ***Bite.*** *Melee Weapon Attack*: +3 to hit, one target. Hit 1d4 piercing. Target must succeed on DC 11 CON save or take 1d8 poison damage
 

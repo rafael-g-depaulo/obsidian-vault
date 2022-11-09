@@ -2,9 +2,9 @@
 ## Giant Pirana Plant
 *Medium Plant*
 ___
-**Defense**     :: 11
-**HP**          :: 35
-**Speed**       :: 0.
+**Defense**     :: 13
+**HP**          :: 54
+**Speed**       :: 0
 ___
 |   STR   |  DEX   |   CON   |  INT   |   WIS   |  CHA   |
 |:-------:|:------:|:-------:|:------:|:-------:|:------:|
@@ -13,8 +13,8 @@ ___
 **Condition Immunities** :: Slowed, Prone
 **Senses**               :: passive Perception 15
 **Languages**            :: Ent, Fairy
-**Challenge**            :: (2X)
+**Challenge**            :: (2X, challenging, 45% 40%)
 ___
 ### Actions
 
-**Chomp.** Melee Attack: +4 to hit. 1d8+1 piercing damage per hit. Hit target is grappled and being eaten, and at the start of the plants turns takes 2d8+2 acid damage. Target can use a major action to attempt a DC 15 Strength DC to leave it's mouth.
+**Chomp.** Melee Attack: +7 to hit. 3d6 piercing damage per hit. Hit target is grappled and being eaten, and at the start of the plants turns takes 2d8 acid damage. Target can use a major action to attempt a DC 16 Strength DC to leave it's mouth.
