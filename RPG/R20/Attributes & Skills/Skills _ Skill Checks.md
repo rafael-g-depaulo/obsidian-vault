@@ -34,7 +34,6 @@ look for something physically
 Figuring out magic spells or items, understanding mystical beings.
 
 ### Miscellaneous
-#### Performance (PRE)
 #### Stealth (DEX)
 #### Sleight of Hand (DEX)
 #### Medicine (INT)
