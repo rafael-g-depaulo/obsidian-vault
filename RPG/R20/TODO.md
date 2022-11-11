@@ -10,3 +10,4 @@
 - [ ] Write up Hide mechanics
 - [ ] Write up spell attack/save rules, with crit in mind
 - [ ] Add unarmored defense to Beast Warrior
+- [ ] Download php & t20 notebook
