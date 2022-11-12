@@ -16,9 +16,9 @@
 ##### Witch
 | Level | Proficiency Bonus | Features                                |
 |:-----:|:-----------------:|:--------------------------------------- |
-|  1st  |        +1         | Scary Look                              |
+|  1st  |        +1         | Hex                                     | 
 |  2nd  |        +1         | Witch Feat, Witch's Focus (2 effects)   |
-|  3rd  |        +2         | Witch Feat                              | 
+|  3rd  |        +2         | Witch Feat                              |
 |  4th  |        +2         | Witch Feat, Attribute Score Improvement |
 |  5th  |        +3         | Witch Feat, Scary Look (+2)             |
 |  6th  |        +3         | Witch Feat, Witch's Focus (3 effects)   |
