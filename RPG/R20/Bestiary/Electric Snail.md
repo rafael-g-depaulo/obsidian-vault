@@ -31,6 +31,6 @@ ___
 > **Discharge.** *Complete Action*: All creatures touching the Electric Snail take (11) 2d8+2 Electric Damage (CD 11 CON save to take half damage). Discgarge is propagated through **Acid Mucus**, and affects all touching it.
 > 
 > #### Feet 2d6
-> ***SLAM!!.*** *(Complete Action) Melee Weapon Attack*: +4 to hit. The Electric Snail propels itself in a chosen straight line, up to 6 squares. It deals 3d4 bludgeoning damage on a hit, and all squares around it are covered with Acid Mucus
+> ***SLAM!!.*** *(Complete Action) Melee Weapon Attack*: +4 to hit. The Electric Snail propels itself in a chosen straight line, up to 6 squares. It deals 3d4 bludgeoning damage on a hit, and all squares around it (in a cross pattern) are covered with Acid Mucus
 
 ![[RPG/Campaign - Natura/Stuff from pinterest/Electric Snail.png]]
