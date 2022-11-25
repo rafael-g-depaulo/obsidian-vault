@@ -19,7 +19,7 @@ ___
 > - **Languages** None
 > - **Challenge** 2X
 > ---
-> **Acid Mucus** Whenever the Electric Snail moves over a square it leaves behind it's Acid Mucus. Whenever a creature first enters the Acid Mucus in their turn or starts their turn there it takes 1d4 acid damage. Burning the Mucus destroys it and all other Mucus in a 3sqr radius, along with dealing 3d6 fire damage to all Electric Snails touching it.
+> **Acid Mucus** Whenever the Electric Snail moves over a square it leaves behind it's Acid Mucus. Whenever a creature first enters the Acid Mucus in their turn or ends their turn there it takes 1d4 acid damage. Burning the Mucus destroys it and all other Mucus in a 3sqr radius, along with dealing 3d6 fire damage to all Electric Snails touching it.
 > 
 ---
 > ### Components
