@@ -49,7 +49,7 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 
 - *Spiritual Strike*. You can spend a movement action and 1 PM to use a Spiritual Weapon Attack. Pre-requisite: 5th level Spelgard
 
-- *Spiritual Magic*. Whenever you cast a Spell with a range of touch, you can cast it through your Spiritual Weapon.
+- *Spiritual Magic*. Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras)
 
 - *Magically Powered*. Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
 
@@ -88,3 +88,5 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Long Range Aura*. Your aura's radius is increased to 3sqr (4.5m)
 
 - *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
+
+- *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano.
