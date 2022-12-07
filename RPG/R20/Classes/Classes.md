@@ -81,7 +81,7 @@ Inspiration (flat bonus or dice? AoE or single target?). off-caster
 | Archetype  | Core Feature | Auxiliary Feature | Mid-Game Feature |
 | ---------- | ------------ | ----------------- | ---------------- |
 | Martial    | 1st          | 2nd               | 7th              |
-| Specialist | 1st          | 2nd               | 7th              |
+| Specialist | 1st          | 3rd               | 7th              |
 | Off-Caster | 1st          | 2nd               | 6th/8th          |
 | Caster     | 1st          | -                 | 6th/8th          | 
 

@@ -15,12 +15,12 @@
 |:-----:|:-----------------:|:--------------------------------------------------------------------------------------- |
 |  1st  |        +1         | Sneak Attack (2d6)                                                                      |
 |  2nd  |        +1         | Rogue Feat, Expertise (INT skills, 1PM: +INT to roll)                                   |
-|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6)                                                     |
+|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6), Cunning Action                                                     |
 |  4th  |        +2         | Rogue Feat, Attribute Score Improvement                                                 |
 |  5th  |        +3         | Rogue Feat, Sneak Attack (2PM, 4d6)                                                     |
 |  6th  |        +3         | Rogue Feat, Attribute Score Improvement, Expertise (INT+1 skills, 2PM: +INT\*2 to roll) |
 |  7th  |        +4         | Rogue Feat, Sneak Attack (3PM, 5d6)                                                     |
-|  8th  |        +4         | Rogue Feat, Attribute Score Improvement                                                 |
+|  8th  |        +4         | Rogue Feat, Attribute Score Improvement, Cunning Action                                                 |
 |  9th  |        +5         | Rogue Feat, Sneak Attack (4PM, 6d6)                                                     |
 | 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) | 
 | 11th  |        +6         | Rogue Feat, Extra Attack (2), Sneak Attack (5PM, 7d6)                                   |
@@ -38,6 +38,8 @@
 **SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this damage increases by +1d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+**Cunning Action (ação xxxxxxxx)**. (Once per turn) Free Action (1PM): You can Hide or Dash as a free action (see combat actions).
 
 ### Rogue Feats
 
