@@ -24,9 +24,3 @@ At the start of the crafting attempt, the spellcaster decides on what spell and 
 In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
 
 OBS: maybe make it be different checks instead of all Arcana?
-
-
-
-
-
-
