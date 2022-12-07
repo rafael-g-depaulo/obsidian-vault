@@ -36,7 +36,8 @@ not much, really.
 people "stealing it's food".
 
 ### Miracles
-**Rot away**. 2FP: As part of an attack, you enhance your weapon with necrotic energy. If you hit the attack, you deal an extra 1d6 necrotic damage, and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
+**Rot**. (As part of an attack, or Action) 2FP: you enhance your weapon with necrotic energy, or make a ranged spell attack (range: 8sqr). If you hit the attack, you deal 2d6 necrotic damage (or +1d6 if it was as part of an attack), and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
++1MP, +2FP: increase the damage by +2d6
 
 **Lyf's Mask**. buff perception, insight, necrotic damage for scene.
 

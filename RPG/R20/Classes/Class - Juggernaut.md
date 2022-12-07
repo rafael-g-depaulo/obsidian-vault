@@ -9,7 +9,7 @@
 
 **Save Roll Proficiencies:** Strength, Constitution.
 
-\<div class='classTable'>
+{{classTable
 ##### Juggernaut
 | Level | Proficiency Bonus | Features                                                                 |
 |:-----:|:-----------------:|:------------------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 | 18th  |        +9         | Juggernaut Feat                                                          |
 | 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
 | 20th  |        +10        | Juggernaut Feat                                                          | 
-</div>
+}}
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 

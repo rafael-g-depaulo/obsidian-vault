@@ -3,10 +3,12 @@
 - [ ] Add cunning action to rogue
 - [ ] Specialist Feats (Ex: hide as free action after de raspão)
 - [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)
-- [ ] pet system
+- [ ] pet system (allies from T20 with hitpoints, and can use feats to give them extra abilities. for every feat spent they gain more HP. uses player's MP to use abilities, and acts on player's turn)
 - [x] implement passive Perception and passive rolls in general
 - [ ] Write up spell preparation rules
 - [x] Write up Hide mechanics
 - [ ] Write up spell attack/save rules, with crit in mind
 - [ ] Add unarmored defense to Beast Warrior
-- [ ] Download php & t20 notebook
+- [ ] Download php & t20 notebook (what does this mean??)
+- [ ] Add more spells from D&D
+- [ ] Consider making different spell lists that classes can have access to.

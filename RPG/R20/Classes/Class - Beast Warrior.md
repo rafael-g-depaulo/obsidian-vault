@@ -40,13 +40,16 @@
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
+**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão (limitado pelo seu nível).
+
 **Wild Senses.** Choose 3 between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging.
+
 
 ### Beast Warrior Feats
 
 Begining at level 2, every time you gain a level in Beast Warrior you gain a Beast Warrior Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 
-- *Beastly Resistance*. Whenever you're at or below half HP, you gain your STR mod. as bonus guard, limited by your level.
+- *Keen Reflexes*. Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
 
 - *Thick Hide*. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
