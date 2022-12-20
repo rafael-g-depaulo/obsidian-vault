@@ -12,5 +12,6 @@
   "readableLineLength": false,
   "newFileLocation": "current",
   "showLineNumber": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "vimMode": false
 }
