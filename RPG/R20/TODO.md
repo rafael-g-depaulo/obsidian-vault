@@ -12,3 +12,5 @@
 - [ ] Download php & t20 notebook (what does this mean??)
 - [ ] Add more spells from D&D
 - [ ] Consider making different spell lists that classes can have access to.
+- [ ] look into D&D smites for champion
+- [ ] think up counterspell
