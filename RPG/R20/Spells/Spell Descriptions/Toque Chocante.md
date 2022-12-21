@@ -1,3 +1,4 @@
+#spell #lighning #energy #evocation 
 ### Toque Chocante
 *1º Círculo*
 ___

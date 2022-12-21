@@ -1,3 +1,4 @@
+#spell #arcane #creation 
 ### Área Escorregadia
 - **Level:** 1
 - **Casting time:** padrão

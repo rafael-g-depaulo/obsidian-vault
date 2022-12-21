@@ -1,3 +1,4 @@
+#spell #ilusion #trickery
 ### Imagem Espelhada
 *1º Círculo*
 ___

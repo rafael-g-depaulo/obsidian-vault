@@ -1,3 +1,4 @@
+#spell #curse #negative
 ### Bane
 *1st Circle*
 - **Casting time:** 1 Action

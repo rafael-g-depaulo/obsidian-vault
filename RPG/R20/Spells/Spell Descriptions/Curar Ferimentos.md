@@ -1,3 +1,4 @@
+#spell #recovery #positive
 ### Curar Ferimentos
 *1º Círculo*
 ___

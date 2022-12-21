@@ -1,3 +1,4 @@
+#spell #boost #positive
 ### Bênção
 *1º Círculo*
 ___

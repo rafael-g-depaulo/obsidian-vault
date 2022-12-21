@@ -1,3 +1,4 @@
+#spell #boost #positive
 ### Aid
 *2nd Circle*
 - **Casting time:** 1 Action

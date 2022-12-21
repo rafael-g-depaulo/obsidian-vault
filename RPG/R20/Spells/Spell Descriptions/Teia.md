@@ -1,3 +1,4 @@
+#spell #arcane #creation
 ### Teia
 - **Level:** 1
 - **Casting time:** padrão

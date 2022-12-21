@@ -111,7 +111,7 @@ Global list of all spells, divided by circle:
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 
-##### 3rd Circle
+##### 3rd Circle not tagged
 - [[Life Transference]]
 - [[Mass Healing Word]]
 - [[Revivify]]

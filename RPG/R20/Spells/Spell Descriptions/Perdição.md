@@ -1,3 +1,4 @@
+#spell #curse #negative 
 ### Perdição
 *1º Círculo*
 ___

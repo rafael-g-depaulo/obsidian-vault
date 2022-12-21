@@ -1,3 +1,4 @@
+#spell #wind #nature #holy #recovery #positive 
 ### Prayer of Healing
 *2nd Circle*
 - **Casting time:** 10 Minutes

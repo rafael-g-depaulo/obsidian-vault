@@ -1,3 +1,4 @@
+#spell #boost #positive #abjuration #arcane
 ### Escudo
 *1º Círculo*
 ___

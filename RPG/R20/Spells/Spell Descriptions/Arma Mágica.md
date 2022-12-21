@@ -1,3 +1,4 @@
+#spell #arcane #transmutation #boost #positive
 ### Arma Mágica
 *1º Círculo*
 ___

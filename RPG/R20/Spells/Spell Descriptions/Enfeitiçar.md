@@ -1,3 +1,4 @@
+#spell #enchantment #trickery 
 ### Enfeitiçar
 - **Level:** 1
 - **Casting time:** padrão

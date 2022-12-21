@@ -1,3 +1,4 @@
+#spell #fire #energy #evocation 
 ### Explosão de chamas
 *1º Círculo*
 ___
@@ -11,3 +12,4 @@ Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo à
 
 - **+1 PM:** aumenta o  ano em +1d6.
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar,  ica em chamas (veja Condições, no Apêndice). 
+

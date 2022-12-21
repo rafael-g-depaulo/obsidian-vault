@@ -1,3 +1,4 @@
+#spell #recovery #positive #wind #nature 
 ### Healing Word
 *1st Circle*
 - **Casting time:** 1 Movement Action

@@ -1,3 +1,4 @@
+#spell #holy #recovery #positive #holy
 ### Lesser Restoration
 *2nd Circle*
 - **Casting time:** 1 Action

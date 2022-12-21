@@ -1,3 +1,4 @@
+#spell #unholy #negative #necrotic #decay
 ### Infligir Ferimentos
 *1º Círculo*
 ___
@@ -7,7 +8,7 @@ ___
 - **Duração:** instantânea
 - **Resistência:** Fortitude reduz à metade.
 
-Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano de trevas (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
+Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano necrótico (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
 
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena.
 - **+2 PM:** aumenta o dano em 1d8+1.

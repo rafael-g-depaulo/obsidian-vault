@@ -1,3 +1,4 @@
+#spell #boost #positive #transmutation #arcane
 ### Primor Atlético
 *1º Círculo*
 ___

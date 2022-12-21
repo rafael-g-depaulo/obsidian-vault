@@ -1,3 +1,4 @@
+#spell #boost #positive #chronomancy
 ### Concentração de Combate
 *1º Círculo*
 ___

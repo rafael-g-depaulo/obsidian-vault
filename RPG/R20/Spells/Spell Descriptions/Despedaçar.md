@@ -1,3 +1,4 @@
+#spell #wind #nature
 ### Despedaçar
 *1º Círculo*
 ___

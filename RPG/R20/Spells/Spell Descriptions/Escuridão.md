@@ -1,3 +1,4 @@
+#spell #negative #unholy #trickery #ilusion
 ### Escuridão
 *1º Círculo*
 ___
