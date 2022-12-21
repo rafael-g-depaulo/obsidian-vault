@@ -10,9 +10,13 @@ by nature:
 	- feral
 - negative
 	- curse (debuf. consider separating into 2 different tags if the need arises)
+	- unholy (warlock stuff. cosmic horror, demons and shit)
 - positive
 	- recovery
 	- boost
+	- holy (sunlight, radiant, cleric stuff)
+- arcane (general magic stuff. grease, prestidigitation, tiny hut and shit)
+
 
 by damage type:
 - energy (fire+ice+lighning)
@@ -38,5 +42,5 @@ by school:
 - necromancy
 - enchantment
 - summon
-- arcane (general magic stuff. grease, prestidigitation, tiny hut and shit)
 - chronomancy
+- evocation
