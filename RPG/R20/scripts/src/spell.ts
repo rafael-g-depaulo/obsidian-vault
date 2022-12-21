@@ -44,24 +44,25 @@ export const readSpells = async (
   return Promise.all(spellFilenames.map(readSpell))
 }
 
-const isError = (s: ValidatedSpell): s is SpellError => (s as any).isError
+const isError = (s: ValidatedSpell): s is SpellError => !!(s as any).spell
+const isSpell = (s: ValidatedSpell): s is Spell => !isError(s)
 
 export const validateSpells = (spells: Spell[]) => {
   const validatedSpells = spells.map(validadeSpell)
   const errors = validatedSpells.filter(isError)
 
   return {
-    errors: errors.map(err => err.message),
-    spells: validatedSpells,
+    errors,
+    spells: validatedSpells.filter(isSpell),
   }
 }
 
-type SpellError = { isError: true; message: string }
+export type SpellError = { spell: Spell; message: string }
 type ValidatedSpell = Spell | SpellError
 
 export const validadeSpell = (spell: Spell): ValidatedSpell => {
   const spellError = (message: string): SpellError => ({
-    isError: true,
+    spell,
     message,
   })
 

@@ -1,23 +1,28 @@
 import { join } from 'path'
 
-import { listFiles, readFile } from './file'
-import { readSpells, validateSpells } from './spell'
-import { createTagMap, getTags } from './tags'
+import { readSpells, SpellError, validateSpells } from './spell'
 
 // config
 const baseDir = join(__dirname, '../../')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
 
-// readSpells(SpellDescriptionsFolder)
-readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
+const dealWithErrors = (errors: SpellError[]): void => {
+  // throw errors
+}
+
+readSpells(SpellDescriptionsFolder)
+  // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   .then(validateSpells)
-  .then(a => a.spells)
+  .then(({ errors, spells }) => {
+    if (errors.length > 0) dealWithErrors(errors)
+    return spells
+  })
   .then(console.log)
-  .catch(err => console.log('asdadasdsa', err))
+  .catch(err => console.log('asdadasdsa'))
 
 // TODO:
-//  - validate errors and output to a file (ex: all spells should be tagged as #spell or #wip)
+//  - output error validation to a file for user
 //  - create list of all spells of a tag
 //  - make logic for generating a spell list from tags
 //  -
