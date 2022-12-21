@@ -10,8 +10,23 @@ export interface Spell {
 
 export const getSpellname = (filename: string) => filename.replace(/.md$/, '')
 
+const getSpellLevel = (content: string) => {
+  if (/^\*Truque \(Cantrip\)\*\n/gim.test(content)) return 0
+
+  const matchedLevel = /^\*(\d+)\w+ Circle\*/gim.exec(content)
+
+  if (!matchedLevel || !matchedLevel[1]) return -1
+
+  return parseInt(matchedLevel[1])
+}
+
 export const parseSpell = (name: string, content: string): Spell => {
-  return { name, description: content, tags: getTags(content), level: -1 }
+  return {
+    name,
+    description: content,
+    tags: getTags(content),
+    level: getSpellLevel(content),
+  }
 }
 
 export const readSpells = async (
@@ -21,13 +36,37 @@ export const readSpells = async (
   const spellFilenames =
     _spellFilenames ?? (await listFiles(descriptionsFolder))
 
-  const spells = await Promise.all(
-    spellFilenames.map(name =>
-      readFile(descriptionsFolder, name).then(content =>
-        parseSpell(getSpellname(name), content)
-      )
+  const readSpell = (name: string) =>
+    readFile(descriptionsFolder, name).then(content =>
+      parseSpell(getSpellname(name), content)
     )
-  )
 
-  return spells
+  return Promise.all(spellFilenames.map(readSpell))
+}
+
+const isError = (s: ValidatedSpell): s is SpellError => (s as any).isError
+
+export const validateSpells = (spells: Spell[]) => {
+  const validatedSpells = spells.map(validadeSpell)
+  const errors = validatedSpells.filter(isError)
+
+  return {
+    errors: errors.map(err => err.message),
+    spells: validatedSpells,
+  }
+}
+
+type SpellError = { isError: true; message: string }
+type ValidatedSpell = Spell | SpellError
+
+export const validadeSpell = (spell: Spell): ValidatedSpell => {
+  const spellError = (message: string): SpellError => ({
+    isError: true,
+    message,
+  })
+
+  if (!spell.tags.includes('wip') && !spell.tags.includes('spell'))
+    return spellError(`${spell.name} should have either "wip" or "spell" tag`)
+
+  return spell
 }
