@@ -1,4 +1,4 @@
-#spell
+#spell #wild #plant
 ### Thorn Whip
 *Cantrip (Truque)*
 ___

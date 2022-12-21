@@ -1,3 +1,4 @@
+#spell #poison #decay #evocation 
 ### Poison Spray
 *Truque (Cantrip)*
 ___

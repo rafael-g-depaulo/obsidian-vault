@@ -1,4 +1,4 @@
-#spell
+#spell #cold #energy #unholy #negative 
 # Chill Touch
 *Truque (cantrip)*
 ___

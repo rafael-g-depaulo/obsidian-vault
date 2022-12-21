@@ -1,4 +1,4 @@
-#spell
+#spell #acid #decay #evocation
 ### Acid Splash
 *Truque (Cantrip)*
 ___

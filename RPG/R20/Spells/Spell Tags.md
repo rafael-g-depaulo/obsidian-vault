@@ -1,6 +1,8 @@
 # Spell Tags
 asdasdasd
 
+TODO: code JS script to read all spells and check if tags respect hierarchy (e.g. all plant spells should also be wild spells). it should only give warnings
+
 ## Tags
 list of tags:
 
@@ -15,7 +17,7 @@ by nature:
 	- recovery
 	- boost
 	- holy (sunlight, radiant, cleric stuff)
-- arcane (general magic stuff. grease, prestidigitation, tiny hut and shit)
+- arcane (general magic stuff. grease, prestidigitation, tiny hut and shit. maybe it contains some of the schools?)
 
 
 by damage type:
@@ -23,7 +25,7 @@ by damage type:
 	- fire
 	- lighning
 	- cold
-- physical
+- physical (maybe not needed)
 	- slashing
 	- bludgeoning
 	- piercing
@@ -41,6 +43,12 @@ by school:
 - divination (also all comunication stuff)
 - necromancy
 - enchantment
+- transmutation
 - summon
 - chronomancy
 - evocation
+
+- Arcane
+	- transmutation
+	- ilusion
+	- divination

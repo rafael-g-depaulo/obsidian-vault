@@ -1,4 +1,4 @@
-#spell
+#spell #wild #feral
 ### Primal Savagery
 *Cantrip (Truque)
 ___
