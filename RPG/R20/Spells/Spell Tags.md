@@ -41,7 +41,6 @@ by nature:
 - #chronomancy
 - #evocation
 
-
 by damage type:
 - #energy (fire+ice+lighning)
 	- #fire

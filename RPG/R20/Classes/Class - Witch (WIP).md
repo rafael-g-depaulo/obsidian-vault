@@ -98,7 +98,7 @@ Spell List:
 
 Some mix of druid-like and warlock-like spells, focusing on debuffs, some few buffs, healing, and a lot of concentration stuff. Also a lot of save spells, and not many attack spells.
 
-{{spe ll-list
+{{spell-list
 INCLUDE_TAGS:
 	- negative
 	- feral

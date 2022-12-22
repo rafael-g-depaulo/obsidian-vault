@@ -6,7 +6,6 @@ import { listFiles, readFile, writeToFile } from './file'
 import { readSpells } from './spell'
 import { createSpellList, parseTagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
-import { isNotNull } from './typeUtils'
 import { validateSpells } from './validateSpell'
 
 // config
@@ -48,6 +47,7 @@ const compileSpells = async () => {
     )
   )
 
+  // compile class spell lists
   classSpellListRules
     .filter(({ rules }) => !!rules)
     .map(({ filename, rules }) => ({
@@ -61,10 +61,6 @@ const compileSpells = async () => {
     .map(({ classname, spellList }) =>
       writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
     )
-
-  // const f = await readFile(ClassesFolder, 'Class - Plantomancer.md')
-  // console.log(classSpellListRules)
-  // parseTagRules(f)
 }
 
 // run everything
