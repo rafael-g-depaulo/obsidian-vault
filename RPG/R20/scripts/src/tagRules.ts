@@ -64,6 +64,5 @@ export const createSpellList = (spells: Spell[], rules: TagRules): Spell[] => {
     // and isn't already included by tag
     .filter(spell => !spellsByTag.some(s => s.name === spell.name))
 
-  console.log(spellsByTag, specificSpells, rules)
   return [...spellsByTag, ...specificSpells]
 }
