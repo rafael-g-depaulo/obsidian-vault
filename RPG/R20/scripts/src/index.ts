@@ -34,6 +34,5 @@ readSpells(SpellDescriptionsFolder)
 
 // TODO:
 //  - output error validation to a file for user
-//  - create list of all spells of a tag
 //  - make logic for generating a spell list from tags
-//  -
+//  - validate tag groups (fire needs to have energy, etc.)
