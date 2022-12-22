@@ -1,6 +1,6 @@
 #negative #unholy #decay #necrotic
 ### Toll the Dead
-*Cantrssip*
+*Cantrip*
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Duration:** Instantaneous
