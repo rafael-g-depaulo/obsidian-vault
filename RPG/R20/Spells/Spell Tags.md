@@ -8,14 +8,18 @@ list of tags:
 OBS: nothing stops spells from overlapping groups (e.g.: a spell can be wild, negative and arcane at once).
 OBS2: it's possible for a spell to belong to a group without belonging to one of it's sub-tags. ex: Mage hand isn't ilusion, divination or enchantment, but it's trickery
 
+### Considering:
+- maybe remove summon from wild group. only do it after a concrete example shows up
+- maybe separate curse into 2 different tags if the need arises
+
 by nature:
 - #wild
 	- #plant
 	- #feral
-	- #summon (maybe remove summon from here. only do it after a concrete example shows up)
+	- #summon
 - #negative
-	- #curse (debuf. consider separating into 2 different tags if the need arises)
-	- #unholy (warlock stuff. cosmic horror, demons and shit)
+	- #curse (debuf)
+	- #unholy (warlock stuff)
 	- #necromancy
 - #positive
 	- #recovery
@@ -29,7 +33,7 @@ by nature:
 	- #creation
 - #trickery
 	- #ilusion
-	- #divination (also all comunication stuff)
+	- #divination (also all communication stuff)
 	- #enchantment
 - #chronomancy
 - #evocation

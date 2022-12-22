@@ -1,5 +1,8 @@
 import { groupBy } from './arrayUtils'
+import { deleteFile, writeToFile } from './file'
 import { Spell } from './spell'
+import { TagGroups } from './tags'
+import { ValidatedSpells } from './validateSpell'
 
 // types
 export type SpellError = { spell: Spell; message: string; kind: string }
@@ -26,6 +29,10 @@ const hasSpellOrWipTag: ErrorCheck = spell =>
         `Spell should have either "wip" or "spell" tag`
       )
     : null
+const obeysTagGroupHierarchy =
+  (hierarchy: TagGroups): ErrorCheck =>
+  spell =>
+    null
 
 // consolidate error parsers
 const isError = (e: SpellError | null): e is SpellError => !!e
@@ -34,8 +41,13 @@ const createErrorCheckerThing =
   spell =>
     checkers.map(check => check(spell)).filter(isError)
 
-export const getErrorsWithSpell: ErrorParser =
-  createErrorCheckerThing(hasSpellOrWipTag)
+export interface ErrorCheckerDeps {
+  tagGroups: TagGroups
+}
+export const getErrorsWithSpell = ({
+  tagGroups: hierarchy,
+}: ErrorCheckerDeps) =>
+  createErrorCheckerThing(hasSpellOrWipTag, obeysTagGroupHierarchy(hierarchy))
 
 const writeOutError = (error: SpellError) =>
   `- [[${error.spell.name}]] ${error.message}`
@@ -45,3 +57,12 @@ export const writeOutErrors = (errors: SpellError[]): string =>
     ([errorType, errors]) =>
       `## ${errorType}\n` + errors.map(writeOutError).join('\n')
   )
+
+export const dealWithErrors =
+  (folder: string, filename: string) =>
+  ({ spells, errors }: ValidatedSpells) => {
+    if (errors.length > 0) writeToFile(folder, filename, writeOutErrors(errors))
+    else deleteFile(folder, filename)
+
+    return spells
+  }
