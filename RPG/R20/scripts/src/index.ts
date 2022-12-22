@@ -1,4 +1,5 @@
 import { join } from 'path'
+import { writeToFile } from './file'
 
 import { readSpells, SpellError, validateSpells } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
@@ -7,6 +8,7 @@ import { createTagSpellMap, makeTagSpellList } from './spellList'
 const baseDir = join(__dirname, '../../')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
+const ResultsFolder = join(SpellsFolder, 'Compiled')
 
 const dealWithErrors = (errors: SpellError[]): void => {
   // throw errors
@@ -20,13 +22,14 @@ readSpells(SpellDescriptionsFolder)
     return spells
   })
   .then(createTagSpellMap)
-  .then(map => makeTagSpellList('negative', map['negative']))
-  // .then(map =>
-  //   Object.keys(map)
-  //     .map(tag => makeTagSpellList(tag, map[tag]))
-  //     .join('\n\n')
-  // )
-  .then(console.log)
+  // .then(map => makeTagSpellList('negative', map['negative']))
+  .then(map =>
+    Object.keys(map)
+      .map(tag => makeTagSpellList(tag, map[tag]))
+      .join('\n\n')
+  )
+  .then(content => writeToFile(ResultsFolder, 'Spell List by Tag.md', content))
+  // .then(console.log)
   .catch(err => console.log('asdadasdsa'))
 
 // TODO:
