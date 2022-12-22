@@ -20,7 +20,7 @@ const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
 const tagSpellListsFile = 'Spell List by Tag.md'
 const compiledClassSpellList = (classname: string) =>
-  `Compiled ${classname} Spell List.md`
+  `${classname} Spell List.md`
 
 // read, analyse and compile stuff
 const compileSpells = async () => {

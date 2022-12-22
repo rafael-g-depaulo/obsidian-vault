@@ -83,6 +83,16 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 ### Spell List
 List of spells available for a Plantomancer to learn.
 
+{{spell-list
+INCLUDE_TAGS:
+	- plant
+	- recovery
+	- arcane
+EXCLUDE_TAGS:
+INCLUDE_SPELLS:
+EXCLUDE_SPELLS:
+}}
+
 ##### Cantrips (Circle 0) 
 - [[Thorn Whip]]
 - [[Primal Savagery]]

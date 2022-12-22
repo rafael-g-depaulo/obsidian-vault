@@ -40,10 +40,10 @@ export const parseTagRules = (content: string): TagRules | null => {
   const spellRules = Object.fromEntries(spellRulesEntries)
 
   return createTagRules({
-    excludeSpells: spellRules.INCLUDE_TAGS,
+    excludeSpells: spellRules.EXCLUDE_SPELLS,
     excludeTags: spellRules.EXCLUDE_TAGS,
     includeSpells: spellRules.INCLUDE_SPELLS,
-    includeTags: spellRules.EXCLUDE_SPELLS,
+    includeTags: spellRules.INCLUDE_TAGS,
   })
 }
 
@@ -64,5 +64,6 @@ export const createSpellList = (spells: Spell[], rules: TagRules): Spell[] => {
     // and isn't already included by tag
     .filter(spell => !spellsByTag.some(s => s.name === spell.name))
 
+  console.log(spellsByTag, specificSpells, rules)
   return [...spellsByTag, ...specificSpells]
 }
