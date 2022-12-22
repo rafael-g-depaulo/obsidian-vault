@@ -1,8 +1,10 @@
 import { join } from 'path'
+import { SpellError } from './error'
 import { writeToFile } from './file'
 
-import { readSpells, SpellError, validateSpells } from './spell'
+import { readSpells } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
+import { validateSpells } from './validateSpell'
 
 // config
 const baseDir = join(__dirname, '../../')
@@ -28,9 +30,9 @@ readSpells(SpellDescriptionsFolder)
       .map(tag => makeTagSpellList(tag, map[tag]))
       .join('\n\n')
   )
-  .then(content => writeToFile(ResultsFolder, 'Spell List by Tag.md', content))
-  // .then(console.log)
-  .catch(err => console.log('asdadasdsa'))
+  // .then(content => writeToFile(ResultsFolder, 'Spell List by Tag.md', content))
+  .then(console.log)
+  .catch(err => console.log('asdadasdsa', err, 'WDEFSDFSDF'))
 
 // TODO:
 //  - output error validation to a file for user

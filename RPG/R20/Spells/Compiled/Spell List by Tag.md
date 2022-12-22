@@ -6,6 +6,7 @@
 ### Cantrip
 - [[Acid Splash]]
 - [[Poison Spray]]
+- [[Toll the Dead]]
 ### 1st Circle
 - [[Infligir Ferimentos]]
 
@@ -72,6 +73,7 @@
 ## Negative Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Toll the Dead]]
 ### 1st Circle
 - [[Bane]]
 - [[Escuridão]]
@@ -93,6 +95,7 @@
 ## Unholy Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Toll the Dead]]
 ### 1st Circle
 - [[Escuridão]]
 - [[Infligir Ferimentos]]
@@ -167,7 +170,8 @@
 - [[Prayer of Healing]]
 
 ## Necrotic Spells
-
+### Cantrip
+- [[Toll the Dead]]
 ### 1st Circle
 - [[Infligir Ferimentos]]
 
