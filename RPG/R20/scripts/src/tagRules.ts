@@ -1,3 +1,4 @@
+import { matchAllGroups, matchGroups } from './regexUtils'
 import { Spell } from './spell'
 
 export type TagRules = {
@@ -11,12 +12,40 @@ export const createTagRules = ({
   excludeTags = [],
   includeSpells = [],
   includeTags = [],
-}: Partial<TagRules>): TagRules => ({
+}: Partial<TagRules> = {}): TagRules => ({
   excludeSpells,
   excludeTags,
   includeSpells,
   includeTags,
 })
+
+export const parseTagRules = (content: string): TagRules | null => {
+  const rulesBlockRegex = /{{spell-list(?<rules>[^}]+)}}/
+  const ruleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\t-\s*\w+\n)*)/g
+  const ruleItemRegex = /^\s*-\s*(?<item>\w+)/
+
+  const spellListBlock = matchGroups(content, rulesBlockRegex)?.rules
+  if (!spellListBlock) return null
+
+  const spellRulesEntries = matchAllGroups(spellListBlock, ruleRegex)
+    .map(groups => [groups.ruleName, groups.ruleItems])
+    .map(([rule, itemsString]) => [
+      rule,
+      itemsString
+        .split('\n')
+        .filter(line => line !== '')
+        .map(line => matchGroups(line, ruleItemRegex))
+        .map(({ item }) => item),
+    ])
+  const spellRules = Object.fromEntries(spellRulesEntries)
+
+  return createTagRules({
+    excludeSpells: spellRules.INCLUDE_TAGS,
+    excludeTags: spellRules.EXCLUDE_TAGS,
+    includeSpells: spellRules.INCLUDE_SPELLS,
+    includeTags: spellRules.EXCLUDE_SPELLS,
+  })
+}
 
 export const createSpellList = (spells: Spell[], rules: TagRules): Spell[] => {
   const spellsByTag = spells

@@ -1,6 +1,7 @@
 import { readFile, writeToFile } from './file'
 import { Spell } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
+import { isNotNull } from './typeUtils'
 
 export const getTags = (content: string) =>
   [...content.matchAll(/#(\w+)/gm)].map(([, tagName]) => tagName)
@@ -8,8 +9,6 @@ export const getTags = (content: string) =>
 type TagMap = {
   [spellname: string]: string[]
 }
-
-const isNotNull = <T>(obj: T | null): obj is T => !!obj
 
 export type TagGroups = { group: string; tags: string[] }[]
 export const parseTagGroups = (tagGroupsMarkdown: string): TagGroups => {

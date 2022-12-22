@@ -1,13 +1,17 @@
 import { join } from 'path'
+import { className, makeClassSpellList } from './classSpellList'
 import { dealWithErrors } from './error'
-import { readFile } from './file'
+import { listFiles, readFile, writeToFile } from './file'
 
 import { readSpells } from './spell'
+import { createSpellList, parseTagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
+import { isNotNull } from './typeUtils'
 import { validateSpells } from './validateSpell'
 
 // config
 const baseDir = join(__dirname, '../../')
+const ClassesFolder = join(baseDir, 'Classes')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
 const ResultsFolder = join(SpellsFolder, 'Compiled')
@@ -15,6 +19,8 @@ const ResultsFolder = join(SpellsFolder, 'Compiled')
 const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
 const tagSpellListsFile = 'Spell List by Tag.md'
+const compiledClassSpellList = (classname: string) =>
+  `Compiled ${classname} Spell List.md`
 
 // read, analyse and compile stuff
 const compileSpells = async () => {
@@ -22,14 +28,43 @@ const compileSpells = async () => {
     parseTagGroups
   )
 
+  // parse all spells
   // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
-  readSpells(SpellDescriptionsFolder)
+  const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
     .then(dealWithErrors(ResultsFolder, errorsFile))
-    // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
-    .then(writeTagSpellLists(ResultsFolder, tagSpellListsFile))
-    // .then(console.log)
-    .catch(err => console.log('asdadasdsa', err, 'WDEFSDFSDF'))
+  // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
+
+  // create tag spell lists
+  writeTagSpellLists(ResultsFolder, tagSpellListsFile)(allSpells)
+
+  // create spell lists for classes
+  const classFilenames = await listFiles(ClassesFolder)
+  const classSpellListRules = await Promise.all(
+    classFilenames.map(filename =>
+      readFile(ClassesFolder, filename)
+        .then(parseTagRules)
+        .then(rules => ({ filename, rules }))
+    )
+  )
+
+  classSpellListRules
+    .filter(({ rules }) => !!rules)
+    .map(({ filename, rules }) => ({
+      classname: className(filename),
+      spells: createSpellList(allSpells, rules!),
+    }))
+    .map(({ classname, spells }) => ({
+      classname,
+      spellList: makeClassSpellList(classname, spells),
+    }))
+    .map(({ classname, spellList }) =>
+      writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
+    )
+
+  // const f = await readFile(ClassesFolder, 'Class - Plantomancer.md')
+  // console.log(classSpellListRules)
+  // parseTagRules(f)
 }
 
 // run everything
