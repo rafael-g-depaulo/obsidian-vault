@@ -32,3 +32,7 @@ a gente viu, foi procurar a Reima. eu fui parado por 2 soldados. um foi pro quar
 A gente foi arrastado pra nave a lançou a missão
 
 na loot pessoal do coco na nave tinha um bracelete nanorefletor (ativando ele vira um escudo de energia massa), 3 granadas e as armas dele.
+
+Também tem o copo especial da capitão escondido na loot do coco
+
+chegamos no planeta Sakar-3

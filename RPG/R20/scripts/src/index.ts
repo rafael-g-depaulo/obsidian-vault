@@ -34,6 +34,3 @@ const compileSpells = async () => {
 
 // run everything
 compileSpells()
-
-// TODO:
-//  - validate tag groups (fire needs to have energy, etc.)
