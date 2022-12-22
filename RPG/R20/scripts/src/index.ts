@@ -1,6 +1,7 @@
 import { join } from 'path'
 
 import { readSpells, SpellError, validateSpells } from './spell'
+import { createTagSpellMap, makeTagSpellList } from './spellList'
 
 // config
 const baseDir = join(__dirname, '../../')
@@ -18,6 +19,13 @@ readSpells(SpellDescriptionsFolder)
     if (errors.length > 0) dealWithErrors(errors)
     return spells
   })
+  .then(createTagSpellMap)
+  .then(map => makeTagSpellList('negative', map['negative']))
+  // .then(map =>
+  //   Object.keys(map)
+  //     .map(tag => makeTagSpellList(tag, map[tag]))
+  //     .join('\n\n')
+  // )
   .then(console.log)
   .catch(err => console.log('asdadasdsa'))
 

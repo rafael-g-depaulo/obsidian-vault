@@ -11,11 +11,20 @@ export interface Spell {
 export const getSpellname = (filename: string) => filename.replace(/.md$/, '')
 
 const getSpellLevel = (content: string) => {
-  if (/^\*Truque \(Cantrip\)\*\n/gim.test(content)) return 0
+  if (
+    /^\*(?:Truque|Cantrip) \((?:Truque|Cantrip)\)|^\*Cantrip\*|^\*Truque\*/gim.test(
+      content
+    )
+  )
+    return 0
 
-  const matchedLevel = /^\*(\d+)\w+ Circle\*/gim.exec(content)
+  const matchedLevel =
+    /^\*(\d+)[\wªº]* (?:Circle|Círculo)\*/gim.exec(content) ??
+    /- \*\*Level.*\*\*\s*(\d+)/gim.exec(content)
 
-  if (!matchedLevel || !matchedLevel[1]) return -1
+  if (!matchedLevel || !matchedLevel[1]) {
+    return -1
+  }
 
   return parseInt(matchedLevel[1])
 }
@@ -71,3 +80,13 @@ export const validadeSpell = (spell: Spell): ValidatedSpell => {
 
   return spell
 }
+
+export const groupByLevel = (spells: Spell[]) =>
+  spells.reduce<Spell[][]>((acc, spell) => {
+    // if (spell.level === -1) console.log('level', spell.level, 'spell', spell)
+    acc[spell.level] ??= []
+    acc[spell.level].push(spell)
+    return acc
+  }, [])
+
+// export const get
