@@ -23,7 +23,7 @@ const hasSpellOrWipTag: ErrorCheck = spell =>
     ? spellError(
         spell,
         'Spell Tag',
-        `${spell.name} should have either "wip" or "spell" tag`
+        `Spell should have either "wip" or "spell" tag`
       )
     : null
 
@@ -37,6 +37,11 @@ const createErrorCheckerThing =
 export const getErrorsWithSpell: ErrorParser =
   createErrorCheckerThing(hasSpellOrWipTag)
 
+const writeOutError = (error: SpellError) =>
+  `- [[${error.spell.name}]] ${error.message}`
 export const writeOutErrors = (errors: SpellError[]): string =>
-  `# Compiling Errors\nHere's a list of all of the errors found.\n\n
-  ` + groupBy((e: SpellError) => e.kind)(errors)
+  `# Compiling Errors\nHere's a list of all of the errors found.\n\n` +
+  Object.entries(groupBy((e: SpellError) => e.kind)(errors)).map(
+    ([errorType, errors]) =>
+      `## ${errorType}\n` + errors.map(writeOutError).join('\n')
+  )

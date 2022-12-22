@@ -1,6 +1,6 @@
 import { join } from 'path'
-import { SpellError } from './error'
-import { writeToFile } from './file'
+import { SpellError, writeOutErrors } from './error'
+import { deleteFile, writeToFile } from './file'
 
 import { readSpells } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
@@ -13,25 +13,26 @@ const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
 const ResultsFolder = join(SpellsFolder, 'Compiled')
 
 const dealWithErrors = (errors: SpellError[]): void => {
-  // throw errors
+  if (errors.length > 0)
+    writeToFile(ResultsFolder, 'Errors.md', writeOutErrors(errors))
+  else deleteFile(ResultsFolder, 'Errors.md')
 }
 
 readSpells(SpellDescriptionsFolder)
   // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   .then(validateSpells)
   .then(({ errors, spells }) => {
-    if (errors.length > 0) dealWithErrors(errors)
+    dealWithErrors(errors)
     return spells
   })
   .then(createTagSpellMap)
-  // .then(map => makeTagSpellList('negative', map['negative']))
   .then(map =>
     Object.keys(map)
       .map(tag => makeTagSpellList(tag, map[tag]))
       .join('\n\n')
   )
-  // .then(content => writeToFile(ResultsFolder, 'Spell List by Tag.md', content))
-  .then(console.log)
+  .then(content => writeToFile(ResultsFolder, 'Spell List by Tag.md', content))
+  // .then(console.log)
   .catch(err => console.log('asdadasdsa', err, 'WDEFSDFSDF'))
 
 // TODO:

@@ -19,7 +19,6 @@
 - [[Toque Chocante]]
 
 ## Boost Spells
-
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
@@ -31,7 +30,6 @@
 - [[Aid]]
 
 ## Positive Spells
-
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
@@ -65,7 +63,6 @@
 - [[Primor Atlético]]
 
 ## Curse Spells
-
 ### 1st Circle
 - [[Bane]]
 - [[Perdição]]
@@ -101,12 +98,10 @@
 - [[Infligir Ferimentos]]
 
 ## Chronomancy Spells
-
 ### 1st Circle
 - [[Concentração de Combate]]
 
 ## Recovery Spells
-
 ### 1st Circle
 - [[Curar Ferimentos]]
 - [[Healing Word]]
@@ -115,7 +110,6 @@
 - [[Prayer of Healing]]
 
 ## Wind Spells
-
 ### 1st Circle
 - [[Despedaçar]]
 - [[Healing Word]]
@@ -123,7 +117,6 @@
 - [[Prayer of Healing]]
 
 ## Nature Spells
-
 ### 1st Circle
 - [[Despedaçar]]
 - [[Healing Word]]
@@ -131,12 +124,10 @@
 - [[Prayer of Healing]]
 
 ## Enchantment Spells
-
 ### 1st Circle
 - [[Enfeitiçar]]
 
 ## Trickery Spells
-
 ### 1st Circle
 - [[Enfeitiçar]]
 - [[Escuridão]]
@@ -144,24 +135,20 @@
 - [[Mage Hand]]
 
 ## Abjuration Spells
-
 ### 1st Circle
 - [[Escudo]]
 
 ## Ilusion Spells
-
 ### 1st Circle
 - [[Escuridão]]
 - [[Imagem Espelhada]]
 
 ## Fire Spells
-
 ### 1st Circle
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 
 ## Holy Spells
-
 ### 1st Circle
 - [[Guiding Bolt]]
 ### 2nd Circle
@@ -189,7 +176,6 @@
 - [[Primal Savagery]]
 
 ## Creation Spells
-
 ### 1st Circle
 - [[Teia]]
 - [[Área Escorregadia]]
@@ -199,6 +185,5 @@
 - [[Thorn Whip]]
 
 ## Lighning Spells
-
 ### 1st Circle
 - [[Toque Chocante]]

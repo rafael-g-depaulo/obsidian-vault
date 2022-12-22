@@ -1,4 +1,4 @@
-import { readdir, readFile as fsReadFile, writeFile } from 'fs/promises'
+import { readdir, readFile as fsReadFile, writeFile, rm } from 'fs/promises'
 import { join } from 'path'
 
 // util file funcions
@@ -15,3 +15,5 @@ export const writeToFile = async (
   filename: string,
   content: string
 ) => writeFile(join(dir, filename), content, { encoding: 'utf8' })
+
+export const deleteFile = async (...paths: string[]) => rm(join(...paths))
