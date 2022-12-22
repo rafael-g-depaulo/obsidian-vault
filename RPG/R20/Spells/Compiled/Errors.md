@@ -50,3 +50,7 @@ Here's a list of all of the errors found.
 - [[Tranquilidade]] Spell should have either "wip" or "spell" tag
 - [[Transformação de Guerra]] Spell should have either "wip" or "spell" tag
 - [[Web]] Spell should have either "wip" or "spell" tag
+
+## Tag Group Hierarchy
+- [[Escuridão]] Spell has tag "ilusion" but is missing it's group tag "arcane"
+- [[Imagem Espelhada]] Spell has tag "ilusion" but is missing it's group tag "arcane"

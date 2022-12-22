@@ -1,4 +1,4 @@
-import { writeToFile } from './file'
+import { readFile, writeToFile } from './file'
 import { Spell } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
 
@@ -9,8 +9,27 @@ type TagMap = {
   [spellname: string]: string[]
 }
 
-export type TagGroups = { [tag: string]: string[] }
-export const parseTagGroups = (tagGroupsMarkdown: string): TagGroups => ({})
+const isNotNull = <T>(obj: T | null): obj is T => !!obj
+
+export type TagGroups = { group: string; tags: string[] }[]
+export const parseTagGroups = (tagGroupsMarkdown: string): TagGroups => {
+  const tagGroupRegex = /^- #(?<group>\w+)\n(?<tags>(?:^\t- #\w+.*\n)+)/gm
+  const tagGroupItemRegex = /^\t- #(\w+)/
+
+  const groups = [...tagGroupsMarkdown.matchAll(tagGroupRegex)]
+    .map(r => r.groups as { group: string; tags: string })
+    .filter(isNotNull)
+    .map(({ group, tags }) => ({
+      group,
+      tags: tags
+        .split('\n')
+        .map(s => s.match(tagGroupItemRegex))
+        .filter(isNotNull)
+        .map(result => result[1]),
+    }))
+
+  return groups
+}
 
 export const createTagMap = async (spells: Spell[]): Promise<TagMap> => {
   return spells.reduce((acc, { name, tags }) => ({ ...acc, [name]: tags }), {})

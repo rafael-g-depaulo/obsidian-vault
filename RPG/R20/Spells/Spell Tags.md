@@ -12,6 +12,9 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 - maybe remove summon from wild group. only do it after a concrete example shows up
 - maybe separate curse into 2 different tags if the need arises
 
+### Tag descriptions
+1. arcane: (general magic stuff. grease, prestidigitation, tiny hut and shit)
+
 by nature:
 - #wild
 	- #plant
@@ -25,7 +28,7 @@ by nature:
 	- #recovery
 	- #boost
 	- #holy (sunlight, radiant, cleric stuff)
-- #arcane  (general magic stuff. grease, prestidigitation, tiny hut and shit)
+- #arcane
 	- #transmutation
 	- #ilusion
 	- #divination 
