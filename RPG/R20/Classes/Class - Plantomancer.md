@@ -85,12 +85,13 @@ List of spells available for a Plantomancer to learn.
 
 {{spell-list
 INCLUDE_TAGS:
-	- plant
-	- recovery
-	- arcane
+- plant
+- arcane
+- decay
+- recovery
 EXCLUDE_TAGS:
-INCLUDE_SPELLS:
-EXCLUDE_SPELLS:
+- fire
+- necrotic
 }}
 
 ##### Cantrips (Circle 0) 

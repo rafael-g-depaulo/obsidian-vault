@@ -1,7 +1,9 @@
 ## Plantomancer Spells
 
 ### Cantrip
+- [[Acid Splash]]
 - [[Magic Stone]]
+- [[Poison Spray]]
 - [[Thorn Whip]]
 
 ### 1st Circle

@@ -21,7 +21,7 @@ export const createTagRules = ({
 
 export const parseTagRules = (content: string): TagRules | null => {
   const rulesBlockRegex = /{{spell-list(?<rules>[^}]+)}}/
-  const ruleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\t-\s*\w+\n)*)/g
+  const ruleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\s*-\s*\w+\n)*)/g
   const ruleItemRegex = /^\s*-\s*(?<item>\w+)/
 
   const spellListBlock = matchGroups(content, rulesBlockRegex)?.rules

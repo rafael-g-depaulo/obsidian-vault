@@ -97,3 +97,13 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 Spell List:
 
 Some mix of druid-like and warlock-like spells, focusing on debuffs, some few buffs, healing, and a lot of concentration stuff. Also a lot of save spells, and not many attack spells.
+
+{{spe ll-list
+INCLUDE_TAGS:
+	- negative
+	- feral
+	- ilusion
+	- positive
+EXCLUDE_TAGS:
+	- holy
+}}
