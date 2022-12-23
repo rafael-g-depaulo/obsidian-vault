@@ -66,7 +66,9 @@ const compileSpells = async () => {
     )
 
   // compile all rules
-  compileRules(join(baseDir, rootRulesFile)).then(compiledRules =>
+  compileRules(join(baseDir, rootRulesFile), {
+    classesFolder: ClassesFolder,
+  }).then(compiledRules =>
     writeToFile(ResultsFolder, rulebookFile, compiledRules)
   )
 }
@@ -75,6 +77,5 @@ const compileSpells = async () => {
 compileSpells()
 
 // TODO: add in compiled tag spell lists
-// TODO: replace in compiled class spell lists
 // TODO: add option to include all items from folder alphabetically
 // TODO: remove wip automatically (maybe not needed?)

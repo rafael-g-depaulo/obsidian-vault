@@ -1,4 +1,9 @@
-import { popTopFolder, readFile, searchPathRecursively } from './file'
+import {
+  listFiles,
+  popTopFolder,
+  readFile,
+  searchPathRecursively,
+} from './file'
 import { matchGroups, replaceAsync } from './regexUtils'
 
 const markdownLinkRegex = /!\[\[(?<link>[^\]]+)\]\]/g
@@ -20,30 +25,50 @@ export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
   )
 
 export const replaceLinks =
-  (currentFolder: string) =>
+  (currentFolder: string, deps: CompileRulesDeps) =>
   (content: string): Promise<string> =>
     replaceAsync(content, globalLinkRegex, link => {
       const path = matchGroups(link, globalLinkRegex).path
-      return compileRulesRecursive(popTopFolder(path) ?? currentFolder, path)
+      return compileRulesRecursive(
+        popTopFolder(path) ?? currentFolder,
+        path,
+        deps
+      )
     })
 
-// const listClassesRegex = /{{list-classes}}/
-// const listClasses = (classesFolder: string) => listFiles(classesFolder)
-// const replaceClasses = (classesFolder: string) => (content: string) =>
-//   replaceAsync(content, listClassesRegex, () =>
-//     listClasses(classesFolder).then(classes => {
-//       console.log(classes)
-//       return ''
-//     })
-//   )
+const listClassesRegex = /{{list-classes}}/
+const classFilenameRegex = /Class - (?<class>.+)\.md/
+const isWipRegex = /\(WIP\)/i
+const listClasses = (classesFolder: string) =>
+  listFiles(classesFolder).then(
+    list =>
+      list.filter(
+        filename =>
+          classFilenameRegex.test(filename) && !isWipRegex.test(filename)
+      )
+    // .map(filename => matchGroups(filename, classFilenameRegex).class)
+  )
+const replaceClasses = (classesFolder: string) => (content: string) =>
+  replaceAsync(content, listClassesRegex, () =>
+    listClasses(classesFolder)
+      .then(classes =>
+        Promise.all(
+          classes.map(classFilename => readFile(classesFolder, classFilename))
+        )
+      )
+      .then(classesContents => classesContents.join('\n'))
+  )
 
 export type CompileRulesDeps = { classesFolder: string }
-export const compileRules = (
-  filepath: string
-  // deps: CompileRulesDeps = { classesFolder: '' }
-) => compileRulesRecursive(popTopFolder(filepath) ?? '', filepath)
+export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
+  compileRulesRecursive(popTopFolder(filepath) ?? '', filepath, deps)
 
-const compileRulesRecursive = (currentFolder: string, filepath: string) =>
+const compileRulesRecursive = (
+  currentFolder: string,
+  filepath: string,
+  deps: CompileRulesDeps
+) =>
   readFile(filepath)
     .then(makeLinksGlobal(currentFolder))
-    .then(replaceLinks(currentFolder))
+    .then(replaceLinks(currentFolder, deps))
+    .then(replaceClasses(deps.classesFolder))
