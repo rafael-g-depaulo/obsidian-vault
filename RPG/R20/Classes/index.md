@@ -12,7 +12,6 @@ sneak attack
 [[Class - Warrior]]
 Extra Attack(2-3). Action surge
 
-### (WIP) Barbarian
 ### Beast Warrior
 [[Class - Beast Warrior]]
 Beastly Rage. Savage Attack
@@ -29,38 +28,19 @@ Spiritual Weapon. Lay on Hands
 [[Class - Champion]]
 Smite! Lay on Hands
 
-### (WIP) Alquimist
-[[Class - Alquimist (WIP)]]
-
-### (WIP) Summoner
-### (WIP) Rune Crafter
-
-### Monk
-big unarmed damage. flurry of blows
-
-### Shapeshifter
-shapeshifting. half-caster archetype? or should shapeshifting be it's own archetype? a druid would usually want to cast spells, but a werewolf character or someone who could turn super-sayan wouldn't want to cast spells but *would* want to transform, while still hitting hard. or should that temporary enhancement count differently to shapeshifting?
-
-maybe offcaster? but there are still main casters who would like to shapeshift, right? are there? or does it make sense that druids who chose to wildshape have considerably weaker spells? i think so, but it still leaves us with the super sayan issue. should we allow shapeshifters who don't cast spells at all? i think that might work better as a class from a martial archetype...
-
-**I FUCKING FOUND A SOLUTION BABYYYYYY. LOOK AT THESE BABIES DOWN BELOW**
-
-### Shapeshifter (half-caster)
-half caster who can also shapeshift into monsters like D&D druids
-
-### Enhancer (Off-caster)
+### Enhancer (Off-caster) (WIP)
 off-caster who fights and can apply temporary buffs that make them hit harder and stronger. This could also be implemented as a Martial archetype, but i think it would be cooler as an Enhancer.
 
-### Symbiote (Martial)
+### Symbiote (Martial) (WIP)
 Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
 
-### Beast Master (Off-Caster? really complicated)
+### Beast Master (Off-Caster? really complicated) (WIP)
 Can summon and control low CR animals.
 
-### Medium/Summoner
+### Medium/Summoner (WIP)
 Can spend some time channeling and roll to see what comes out (who's available to be summoned). doesn't actually have long-term summons, it's just usual black magic.
 
-### Bard
+### Bard (WIP)
 Inspiration (flat bonus or dice? AoE or single target?). off-caster
 
 ## Creating a Class
@@ -91,3 +71,6 @@ Important tips:
 - Feats not from a feat group, on the other hand, usually aren't skills in and of themselves, but instead modify other class features or add in some passive effect or alternative way of using existing skills (possibly costing additional MP).
 
 
+
+
+{{list-classes}}
