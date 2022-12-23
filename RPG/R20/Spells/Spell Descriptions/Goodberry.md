@@ -1,4 +1,4 @@
-#spell
+#spell #plant #wild #summon
 ###  Goodberry
 *1º Círculo*
 ___

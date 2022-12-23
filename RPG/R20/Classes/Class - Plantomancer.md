@@ -89,9 +89,15 @@ INCLUDE_TAGS:
 - arcane
 - decay
 - recovery
+- abjuration
+- enchantment
 EXCLUDE_TAGS:
 - fire
 - necrotic
+- boost
+- ilusion
+INCLUDE_SPELLS:
+- Área Escorregadia
 }}
 
 ##### Cantrips (Circle 0) 

@@ -6,6 +6,7 @@
 ### 1st Circle
 - [[Detectar Ameaças]]
 - [[Imagem Espelhada]]
+- [[Snare]]
 
 ### 2nd Circle
 - [[Web]]

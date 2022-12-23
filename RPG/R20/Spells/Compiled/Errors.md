@@ -2,7 +2,6 @@
 Here's a list of all of the errors found.
 
 ## Spell Tag
-- [[Abençoar Alimentos]] Spell should have either "wip" or "spell" tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
 - [[Campo de Força]] Spell should have either "wip" or "spell" tag
 - [[Camuflagem ilusória]] Spell should have either "wip" or "spell" tag

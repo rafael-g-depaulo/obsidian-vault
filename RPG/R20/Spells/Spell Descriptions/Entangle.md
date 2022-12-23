@@ -1,4 +1,4 @@
-#spell
+#spell #plant #wild #trickery 
 ### Entangle
 *1º Círculo*
 ___

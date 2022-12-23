@@ -1,7 +1,57 @@
+## Holy Spells
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Detect Poison and Disease]]
+- [[Luz]]
+### 2nd Circle
+- [[Lesser Restoration]]
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Raio Solar]]
+### -1th Circle
+- [[Guiding Bolt]]
+
+## Sacred Spells
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Curar Ferimentos]]
+- [[Detect Poison and Disease]]
+- [[Healing Word]]
+### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Físico Divino]]
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Raio Solar]]
+### 5th Circle
+- [[Transformação de Guerra]]
+### -1th Circle
+- [[Aid]]
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
+- [[Concentração de Combate]]
+- [[Escudo]]
+- [[Guiding Bolt]]
+- [[Primor Atlético]]
+
+## Plant Spells
+### Cantrip
+- [[Thorn Whip]]
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Canhão de Ervilha]]
+- [[Controlar Plantas]]
+- [[Entangle]]
+- [[Goodberry]]
+
 ## Acid Spells
 ### Cantrip
 - [[Acid Splash]]
-### -1th Circle
+### 3rd Circle
 - [[Flecha Ácida]]
 
 ## Decay Spells
@@ -11,10 +61,10 @@
 ### 1st Circle
 - [[Ray of Sickness]]
 ### 3rd Circle
+- [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Toque Vampírico]]
 ### -1th Circle
-- [[Flecha Ácida]]
 - [[Infligir Ferimentos]]
 - [[Toll the Dead]]
 
@@ -28,9 +78,8 @@
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
 ### 3rd Circle
-- [[Relâmpago]]
-### -1th Circle
 - [[Flecha Ácida]]
+- [[Relâmpago]]
 
 ## Boost Spells
 ### 3rd Circle
@@ -47,30 +96,6 @@
 - [[Escudo]]
 - [[Primor Atlético]]
 
-## Sacred Spells
-### 1st Circle
-- [[Detect Poison and Disease]]
-### 3rd Circle
-- [[Físico Divino]]
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Raio Solar]]
-### 5th Circle
-- [[Transformação de Guerra]]
-### -1th Circle
-- [[Aid]]
-- [[Arma Mágica]]
-- [[Bless]]
-- [[Bênção]]
-- [[Concentração de Combate]]
-- [[Curar Ferimentos]]
-- [[Escudo]]
-- [[Guiding Bolt]]
-- [[Healing Word]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
-- [[Primor Atlético]]
-
 ## Arcane Spells
 ### Cantrip
 - [[Magic Stone]]
@@ -84,6 +109,7 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
+- [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
@@ -92,7 +118,6 @@
 ### -1th Circle
 - [[Arma Mágica]]
 - [[Escudo]]
-- [[Flecha Ácida]]
 - [[Primor Atlético]]
 
 ## Transmutation Spells
@@ -113,11 +138,12 @@
 ### 1st Circle
 - [[Ray of Sickness]]
 - [[Sleep]]
+- [[Snare]]
 ### 3rd Circle
+- [[Flecha Ácida]]
 - [[Oração]]
 ### -1th Circle
 - [[Bane]]
-- [[Flecha Ácida]]
 - [[Perdição]]
 
 ## Occult Spells
@@ -125,7 +151,9 @@
 - [[Fog Cloud]]
 - [[Ray of Sickness]]
 - [[Sleep]]
+- [[Snare]]
 ### 3rd Circle
+- [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Oração]]
 - [[Toque Vampírico]]
@@ -133,7 +161,6 @@
 - [[Bane]]
 - [[Chill Touch]]
 - [[Escuridão]]
-- [[Flecha Ácida]]
 - [[Infligir Ferimentos]]
 - [[Perdição]]
 - [[Toll the Dead]]
@@ -147,7 +174,9 @@
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
 - [[Detectar Ameaças]]
+- [[Entangle]]
 - [[Fog Cloud]]
+- [[Goodberry]]
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
@@ -161,6 +190,7 @@
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Fog Cloud]]
+- [[Goodberry]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 
@@ -180,10 +210,12 @@
 - [[Controlar Plantas]]
 - [[Detectar Ameaças]]
 - [[Enfeitiçar]]
+- [[Entangle]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
 - [[Sleep]]
+- [[Snare]]
 - [[Tranquilidade]]
 ### 2nd Circle
 - [[Web]]
@@ -192,13 +224,6 @@
 - [[Oração]]
 ### -1th Circle
 - [[Escuridão]]
-
-## Plant Spells
-### Cantrip
-- [[Thorn Whip]]
-### 1st Circle
-- [[Canhão de Ervilha]]
-- [[Controlar Plantas]]
 
 ## Cold Spells
 ### 3rd Circle
@@ -236,54 +261,42 @@
 
 ## Recovery Spells
 ### 1st Circle
+- [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Healing Word]]
+### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Mass Healing Word]]
-### -1th Circle
-- [[Curar Ferimentos]]
-- [[Healing Word]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
 
 ## Wind Spells
 ### 1st Circle
 - [[Despedaçar]]
 - [[Fog Cloud]]
+- [[Healing Word]]
 - [[Thunderwave]]
+### 2nd Circle
+- [[Prayer of Healing]]
 ### 3rd Circle
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Healing Word]]
-- [[Prayer of Healing]]
 
 ## Nature Spells
 ### 1st Circle
 - [[Despedaçar]]
 - [[Earth Tremor]]
 - [[Fog Cloud]]
+- [[Healing Word]]
 - [[Thunderwave]]
+### 2nd Circle
+- [[Prayer of Healing]]
 ### 3rd Circle
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Healing Word]]
-- [[Prayer of Healing]]
-
-## Holy Spells
-### 1st Circle
-- [[Detect Poison and Disease]]
-- [[Luz]]
-### 3rd Circle
-- [[Raio Solar]]
-### -1th Circle
-- [[Guiding Bolt]]
-- [[Lesser Restoration]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
 
 ## Divination Spells
 ### 1st Circle
@@ -317,6 +330,8 @@
 ### 1st Circle
 - [[Imagem Espelhada]]
 - [[Luz]]
+- [[Snare]]
+- [[Snare]]
 ### 3rd Circle
 - [[Invisibilidade]]
 ### -1th Circle

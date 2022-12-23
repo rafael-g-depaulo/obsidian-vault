@@ -1,3 +1,4 @@
+#spell #holy #sacred #plant
 ### Abençoar Alimentos
 *1º Círculo*
 ___

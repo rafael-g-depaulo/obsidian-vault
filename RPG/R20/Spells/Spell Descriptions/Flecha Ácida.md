@@ -1,11 +1,7 @@
 #spell #decay #acid #evocation #arcane #curse #occult
-
 ### Flecha Ácida
-
-_3º Círculo_
-
----
-
+*3º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura ou objeto

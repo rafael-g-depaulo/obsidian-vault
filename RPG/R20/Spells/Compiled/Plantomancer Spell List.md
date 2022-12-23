@@ -7,35 +7,32 @@
 - [[Thorn Whip]]
 
 ### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
+- [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Earth Tremor]]
+- [[Enfeitiçar]]
+- [[Entangle]]
 - [[Fog Cloud]]
-- [[Luz]]
+- [[Goodberry]]
+- [[Healing Word]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
+- [[Tranquilidade]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
 - [[Web]]
 
 ### 3rd Circle
-- [[Físico Divino]]
+- [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
-
-### -1th Circle
-- [[Arma Mágica]]
-- [[Curar Ferimentos]]
-- [[Escudo]]
-- [[Flecha Ácida]]
-- [[Healing Word]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
-- [[Primor Atlético]]

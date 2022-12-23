@@ -783,38 +783,35 @@ List of spells available for a Plantomancer to learn.
 - [[Thorn Whip]]
 
 ### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
+- [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Earth Tremor]]
+- [[Enfeitiçar]]
+- [[Entangle]]
 - [[Fog Cloud]]
-- [[Luz]]
+- [[Goodberry]]
+- [[Healing Word]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
+- [[Tranquilidade]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
 - [[Web]]
 
 ### 3rd Circle
-- [[Físico Divino]]
+- [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
-
-### -1th Circle
-- [[Arma Mágica]]
-- [[Curar Ferimentos]]
-- [[Escudo]]
-- [[Flecha Ácida]]
-- [[Healing Word]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
-- [[Primor Atlético]]
 
 ##### Cantrips (Circle 0) 
 - [[Thorn Whip]]
@@ -1949,6 +1946,7 @@ by nature:
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
+- [[Curar Ferimentos]]
 - [[Despedaçar]]
 - [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
@@ -1958,6 +1956,7 @@ by nature:
 - [[Explosão de chamas]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Healing Word]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
@@ -1971,11 +1970,14 @@ by nature:
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
 - [[Web]]
 
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Camuflagem ilusória]]
+- [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Invisibilidade]]
 - [[Life Transference]]
@@ -2021,16 +2023,11 @@ by nature:
 - [[Bênção]]
 - [[Chill Touch]]
 - [[Concentração de Combate]]
-- [[Curar Ferimentos]]
 - [[Escudo]]
 - [[Escuridão]]
-- [[Flecha Ácida]]
 - [[Guiding Bolt]]
-- [[Healing Word]]
 - [[Infligir Ferimentos]]
-- [[Lesser Restoration]]
 - [[Perdição]]
-- [[Prayer of Healing]]
 - [[Primor Atlético]]
 - [[Toll the Dead]]
 
@@ -2039,7 +2036,7 @@ by nature:
 # Spells
 . Here is a list of all spells, sorted alphabetically
 ### Abençoar Alimentos
-  <div class="spell-tags"></div>
+  <div class="spell-tags">holy sacred plant</div>
 
 *1st Circle*
 - **Casting time:** padrão;
@@ -2230,7 +2227,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea..
@@ -2311,7 +2308,7 @@ ___
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
 ### Entangle
-  <div class="spell-tags"></div>
+  <div class="spell-tags">plant wild trickery</div>
 
 *1st Circle*
 - **Alcance:** 10sqr ;
@@ -2391,7 +2388,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult</div>
 
-*-1th Circle*
+*3rd Circle*
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura ou objeto;
 - **Duração:** instantânea.
@@ -2409,7 +2406,7 @@ ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 ### Goodberry
-  <div class="spell-tags"></div>
+  <div class="spell-tags">plant wild summon</div>
 
 *1st Circle*
 - **Alcance:** toque;
@@ -2462,7 +2459,7 @@ When you cast this spell using aspell slot of 7th level or higher, the amount of
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
 
-*-1th Circle*
+*1st Circle*
 - **Casting time:** 1 Movement Action.
 
 ___
@@ -2535,7 +2532,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
-*-1th Circle*
+*2nd Circle*
 - **Casting time:** 1 Action.
 
 ___
@@ -2674,7 +2671,7 @@ Você canaliza o poder de sua divindade. Você aumenta uma categoria de tamanho 
 ### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
-*-1th Circle*
+*2nd Circle*
 - **Casting time:** 10 Minutes.
 
 ___
@@ -2763,7 +2760,7 @@ ___
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
 ### Snare
-  <div class="spell-tags"></div>
+  <div class="spell-tags">trickery ilusion ilusion curse occult</div>
 
 *1st Circle*
 - **Alcance:** Toque;
@@ -2771,7 +2768,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 - **Duração:** 8 Horas..
 
 ___
-As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
+As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild</div>
