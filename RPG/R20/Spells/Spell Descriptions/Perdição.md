@@ -1,7 +1,11 @@
-#spell #curse #negative 
+#spell #curse #occult
+
 ### Perdição
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvos:** criaturas escolhidas

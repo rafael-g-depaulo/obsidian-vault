@@ -1,7 +1,11 @@
-#spell #boost #positive #abjuration #arcane
+#spell #boost #sacred #abjuration #arcane
+
 ### Escudo
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** reação
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura
@@ -11,4 +15,4 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena.
 - **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância.
-- **+2 PM:** aumenta o bônus na Defesa em +1 
+- **+2 PM:** aumenta o bônus na Defesa em +1

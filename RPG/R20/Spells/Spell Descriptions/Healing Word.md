@@ -1,6 +1,9 @@
-#spell #recovery #positive #wind #nature 
+#spell #recovery #sacred #wind #nature
+
 ### Healing Word
-*1st Circle*
+
+_1st Circle_
+
 - **Casting time:** 1 Movement Action
 - **Range:** 60 feet
 - **Components:** V

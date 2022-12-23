@@ -1,7 +1,11 @@
-#spell #boost #positive #transmutation #arcane
+#spell #boost #sacred #transmutation #arcane
+
 ### Primor Atlético
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** toque
 - **Alvo:** 1 criatura

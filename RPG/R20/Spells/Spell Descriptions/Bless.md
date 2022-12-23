@@ -1,6 +1,9 @@
-#spell #boost #positive
+#spell #boost #sacred
+
 ### Bless
-*1st Circle*
+
+_1st Circle_
+
 - **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** a sprinkling of holy water
@@ -10,5 +13,5 @@ You bless up to three creatures of your choice within range. Each target gains a
 
 - **+2 PM:** aumenta o número de alvos em 1
 - **+2 PM:** aumenta o número de dados de auxílio em +1.
-- **+3 PM:** muda o tipo dos dados de auxílio para d6. 
+- **+3 PM:** muda o tipo dos dados de auxílio para d6.
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo

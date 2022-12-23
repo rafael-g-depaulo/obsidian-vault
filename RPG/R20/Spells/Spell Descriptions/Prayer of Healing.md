@@ -1,6 +1,9 @@
-#spell #wind #nature #holy #recovery #positive 
+#spell #wind #nature #holy #recovery #sacred
+
 ### Prayer of Healing
-*2nd Circle*
+
+_2nd Circle_
+
 - **Casting time:** 10 Minutes
 - **Range:** 30 feet
 - **Components:** V

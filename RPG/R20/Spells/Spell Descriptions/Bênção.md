@@ -1,7 +1,11 @@
-#spell #boost #positive
+#spell #boost #sacred
+
 ### Bênção
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvos:** criaturas escolhidas

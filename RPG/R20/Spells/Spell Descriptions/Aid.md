@@ -1,6 +1,9 @@
-#spell #boost #positive
+#spell #boost #sacred
+
 ### Aid
-*2nd Circle*
+
+_2nd Circle_
+
 - **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** a tiny strip of white cloth

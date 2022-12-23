@@ -1,6 +1,9 @@
-#spell #curse #negative
+#spell #curse #occult
+
 ### Bane
-*1st Circle*
+
+_1st Circle_
+
 - **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** A drop of blood

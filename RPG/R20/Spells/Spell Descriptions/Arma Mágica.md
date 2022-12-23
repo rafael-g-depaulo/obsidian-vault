@@ -1,7 +1,11 @@
-#spell #arcane #transmutation #boost #positive
+#spell #arcane #transmutation #boost #sacred
+
 ### Arma Mágica
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** toque
 - **Duração:** cena

@@ -1,6 +1,9 @@
-#spell #holy #recovery #positive #holy
+#spell #holy #recovery #sacred #holy
+
 ### Lesser Restoration
-*2nd Circle*
+
+_2nd Circle_
+
 - **Casting time:** 1 Action
 - **Range:** Touch
 - **Duration:** Instantaneous
