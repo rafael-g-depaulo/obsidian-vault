@@ -3,7 +3,9 @@ import { isNotUndefined } from './typeUtils'
 export const matchAllGroups = (str: string, reg: RegExp) =>
   [...str.matchAll(reg)].map(result => result.groups).filter(isNotUndefined)
 
-export const matchGroups = (str: string, reg: RegExp) => reg.exec(str)?.groups!
+// i have no idea why but it sometimes doesn't work just running it once
+export const matchGroups = (str: string, reg: RegExp) =>
+  reg.exec(str)?.groups! ?? reg.exec(str)?.groups!
 
 // code taken mostly from Overcl9ck's response in https://stackoverflow.com/questions/33631041/javascript-async-await-in-replace
 export const replaceAsync = async (

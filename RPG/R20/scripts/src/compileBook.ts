@@ -1,17 +1,35 @@
-import { readFile, searchPathRecursively } from './file'
+import { popTopFolder, readFile, searchPathRecursively } from './file'
 import { matchGroups, replaceAsync } from './regexUtils'
 
-const linkRegex = /\[\[(?<link>[^\]]+)\]\]/g
+const markdownLinkRegex = /\[\[(?<link>[^\]]+)\]\]/g
+const globalLinkRegex = /{{rewrite "(?<path>.+)"}}/g
 const __INVALID__LINK__ = '############ INVALID_LINK ############'
 
 export const parsePath = (currentFolder: string, markdownLink: string) => {
-  const { link } = matchGroups(markdownLink, linkRegex)
+  const link = matchGroups(markdownLink, markdownLinkRegex)?.link
+  if (!link) return Promise.resolve(null)
   return searchPathRecursively(currentFolder, `${link}.md`)
 }
 
-export const replaceLinks = (currentFolder: string, content: string) =>
-  replaceAsync(content, linkRegex, matchStr =>
+export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
+  replaceAsync(content, markdownLinkRegex, matchStr =>
     parsePath(currentFolder, matchStr).then(
-      s => `[[${s}]]` ?? __INVALID__LINK__
+      s => `{{rewrite "${s}"}}` ?? __INVALID__LINK__
     )
   )
+
+export const replaceLinks =
+  (currentFolder: string) =>
+  (content: string): Promise<string> =>
+    replaceAsync(content, globalLinkRegex, link => {
+      const path = matchGroups(link, globalLinkRegex).path
+      return compileRulesRecursive(popTopFolder(path) ?? currentFolder, path)
+    })
+
+export const compileRules = (filepath: string) =>
+  compileRulesRecursive(popTopFolder(filepath) ?? '', filepath)
+
+const compileRulesRecursive = (currentFolder: string, filepath: string) =>
+  readFile(filepath)
+    .then(makeLinksGlobal(currentFolder))
+    .then(replaceLinks(currentFolder))

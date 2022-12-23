@@ -1,6 +1,6 @@
 import { join } from 'path'
 import { className, makeClassSpellList } from './classSpellList'
-import { replaceLinks } from './compileBook'
+import { compileRules } from './compileBook'
 import { dealWithErrors } from './error'
 import { listFiles, readFile, writeToFile } from './file'
 
@@ -21,6 +21,8 @@ const tagGroupsFile = 'Spell Tags.md'
 const tagSpellListsFile = 'Spell List by Tag.md'
 const compiledClassSpellList = (classname: string) =>
   `${classname} Spell List.md`
+const rootRulesFile = 'index.md'
+const rulebookFile = 'R20 - rulebook.md'
 
 // read, analyse and compile stuff
 const compileSpells = async () => {
@@ -63,12 +65,16 @@ const compileSpells = async () => {
       writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
     )
 
-  readFile(baseDir, 'index.md')
-    .then(content => replaceLinks(baseDir, content))
-    .then(console.log)
-  // replaceLinks(baseDir, baseDir + '/index.md').then(console.log)
-  // parsePath(join(baseDir, 'Attributes & Skills'), '[[Skills _ Skill Checks]]')
+  // compile all rules
+  compileRules(join(baseDir, rootRulesFile)).then(compiledRules =>
+    writeToFile(ResultsFolder, rulebookFile, compiledRules)
+  )
 }
 
 // run everything
 compileSpells()
+
+// TODO: add in compiled tag spell lists
+// TODO: replace in compiled class spell lists
+// TODO: add option to include all items from folder alphabetically
+// TODO: remove wip automatically (maybe not needed?)

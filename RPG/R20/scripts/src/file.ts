@@ -30,14 +30,25 @@ export const fileExists = async (...paths: string[]) =>
     .catch(() => false)
 
 const popFolderRegex = /^(?<path>.+)[\/\\](?:.+)$/
+export const popTopFolder = (
+  path: string,
+  depth: number = 1
+): string | null => {
+  if (depth === 0) return path
+
+  const groups = matchGroups(path, popFolderRegex)
+  // if on bottom layer and didn't find file it doesn't exist
+  if (!groups) return null
+  return popTopFolder(groups.path, depth - 1)
+}
 export const searchPathRecursively = async (
   currentFolder: string,
   relativePath: string
 ): Promise<null | string> => {
   if (await fileExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
-  const groups = matchGroups(currentFolder, popFolderRegex)
-  // if on bottom layer and didn't find file it doesn't exist
-  if (!groups) return null
-  return searchPathRecursively(groups.path, relativePath)
+  const poppedPath = popTopFolder(currentFolder)
+  if (!poppedPath) return null
+
+  return searchPathRecursively(poppedPath, relativePath)
 }
