@@ -14,7 +14,9 @@ export const listFiles = (...dirs: string[]) =>
   readdir(join(...dirs), { encoding: 'utf8' })
 
 export const readFile = (...path: string[]) =>
-  fsReadFile(join(...path), { encoding: 'utf8' }).then(buff => buff.toString())
+  fsReadFile(join(...path), { encoding: 'utf8' })
+    .then(buff => buff.toString())
+    .catch(() => `ERROR READING FILE: "${join(...path)}"`)
 
 export const writeToFile = async (
   dir: string,
