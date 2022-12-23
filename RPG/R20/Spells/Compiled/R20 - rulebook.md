@@ -29,7 +29,7 @@
 {{wide
 ##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
 }}
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -105,7 +105,7 @@ Besides skill checks, attacks, ability and spell DCs and other class features, m
 **Sensibility**: *nothing yet*
 
 **Presence**: *nothing yet*
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -217,7 +217,7 @@ OBS: most likely this will need to change to 2 every levelup + INT mod every eve
 |  18   | +15             |
 |  19   | +15             |
 |  20   | +15             |
-{{pageNumber,auto}}
+
 
 ## Passive Skill Rolls
 
@@ -226,8 +226,8 @@ A character's passive, neutral ability in a skill means that even when not activ
 - **8 + ATB + Bonus**, with ATB being their bonus with the relevant attribute, and Bonus being their proficiency in that skill.
 
 Example: Ada, the Rogue, has 17 DEX and 4 points in stealth. Her passive stealth, then, is 8 + 3 + 4 = 15.
-{{pageNumber,auto}}
-{{pageNumber,auto}}
+
+
 
 {{pageNumber,auto}}
 \page
@@ -267,7 +267,7 @@ A Caster has access to all Caster Feats.
 | 13-14 |       7        |
 | 15-16 |       8        | 
 | 17-20 |       9        |
-{{pageNumber,auto}}
+
 
 ## Off-Caster
 An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
@@ -306,7 +306,7 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 | 11-12 |       4        |
 | 13-14 |       5        |
 | 15-16 |       6        |
-| 17-20 |       7        |{{pageNumber,auto}}
+| 17-20 |       7        |
 
 ## Specialist
 Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
@@ -334,7 +334,7 @@ Starting at 2nd level, a Specialist gains the **Expertise** feature.
 
 ### Spells
 None by default
-{{pageNumber,auto}}
+
 
 ## Martial
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
@@ -359,7 +359,7 @@ A character from a martial class has access to all Matial Feats.
 - **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
 - **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
 
-<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->{{pageNumber,auto}}{{pageNumber,auto}}
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
 
 {{pageNumber,auto}}
 \page
@@ -1072,7 +1072,7 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 - *Tornado de Dor*. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
 - *Valentão*. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos. 
-{{pageNumber,auto}}{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1108,7 +1108,7 @@ During their turn, a character can spend their movement action to move up to the
 
 ### Attack
 Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [[Maneuvers]]
-{{pageNumber,auto}}
+
 
 ## Attacking and Defending
 ### Attacking
@@ -1178,20 +1178,20 @@ The formula for a character's Dodge is:
 - **Equipment bonus + Dexterity modifier**
 
 Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
-{{pageNumber,auto}}
+
 
 ## Movement
 
 A PC's movement speed (in squares of size 1.5m/5ft) is calculated by:
   - **5 + STR** (min 4 total, max 8 total)
 
-{{pageNumber,auto}}
+
 
 ## Maneuvers
 
 ### Grappling
 Grappling is a kind of melee attack. The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, an Athletics check contested by the target’s Athletics or Acrobatics check (the target chooses the skill to use).
-{{pageNumber,auto}}
+
 
 ## Manobras
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
@@ -1226,7 +1226,7 @@ The smaller creature can move around within the larger creature's space, treatin
 
 #### DISARM
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
-{{pageNumber,auto}}{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1330,7 +1330,7 @@ You went out and got yourself a propper education in a fancy shmancy school! Wel
 **Powers**: 1 Combat Power of your choice.
 
 **Skills**: +1 to Intelligence based skill checks to recall information (some things stuck. Not many, but some).
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1377,7 +1377,7 @@ T20's formula: floor(lv/2) + (2/4/7 depending on level)
   - lv1: 0, lv2-3 -> 1, lv4-5 -> 2, lv6-7 -> 3, lv8-9 -> 4, etc.
 
 R20's formula: ceil(lv/2)
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1480,7 +1480,7 @@ R20's formula: ceil(lv/2)
 
 
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1513,15 +1513,15 @@ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit po
 | Greater healing  | Uncommon  | 200g   | 4d4+4   |
 | Superior healing | Rare      | 2000g  | 8d4+8   |
 | Supreme healing  | Very rare | 20000g | 10d4+20 |
-{{pageNumber,auto}}
+
 
 ## Poisons
 #### Basic Poison
 _Potion, Common. 100g_
 
 You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
-{{pageNumber,auto}}
-{{pageNumber,auto}}
+
+
 
 {{pageNumber,auto}}
 \page
@@ -1569,7 +1569,7 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 _Common (50gp)_
 Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
 
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1583,7 +1583,7 @@ Rune effects:
 | Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
 | Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
 | Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     | 
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1637,7 +1637,7 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 25          | 20,000 gp   |
 | Legendary   | 50          | 100, 000 gp |
 \*Halved for a consumable item like a potion or scroll
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1667,7 +1667,7 @@ At the start of the crafting attempt, the spellcaster decides on what spell and 
 In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
 
 OBS: maybe make it be different checks instead of all Arcana?
-{{pageNumber,auto}}{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -1838,7 +1838,7 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 - leomund's tiny hut
 - phantom steed
 - remove curse
-- sending{{pageNumber,auto}}
+- sending
 
 {{pageNumber,auto}}
 \page
@@ -1902,7 +1902,7 @@ by damage type:
 	- #poison
 	- #acid
 	- #necrotic
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -2877,7 +2877,7 @@ ___
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
-{{pageNumber,auto}}{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -2918,7 +2918,7 @@ Just as upholding their Entity's values and working towards their mission can he
 
 ## Miracles
 Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mecanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -2953,7 +2953,7 @@ Bright light lets most creatures see normally. Even gloomy days provide bright l
 
 ## Grapple
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[Battle Maneuvers]])
-{{pageNumber,auto}}
+
 
 {{pageNumber,auto}}
 \page
@@ -3011,5 +3011,6 @@ Consult the table below to see how the rest affected the characters.
 | 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
 | 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
-{{pageNumber,auto}}
+
+
 {{pageNumber,auto}}

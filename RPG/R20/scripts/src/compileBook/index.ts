@@ -8,7 +8,7 @@ import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
-import { replacePageBreakMacro } from './replacePageBreakMacro'
+import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 
 export type CompileRulesDeps = {
   currentFolder: string
@@ -16,7 +16,9 @@ export type CompileRulesDeps = {
   allSpells: Spell[]
 }
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
-  readFile(join(deps.currentFolder, filepath)).then(processContent(deps))
+  readFile(join(deps.currentFolder, filepath))
+    .then(processContent(deps))
+    .then(content => `${content}\n${numberPage}`)
 
 export const processContent = (deps: CompileRulesDeps) =>
   asyncPipe(
