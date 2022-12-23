@@ -7,7 +7,7 @@ An adventuring character recovers HP and MP mainly through resting. There are 5 
 - **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
 - **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
 
-## Mantimentos (esqueci palavra EN)
+## Mantimentos/Rations
 Food, firewood, water... to properly rest, a party needs to expend some resources. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
 
 ## How to recover
