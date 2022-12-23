@@ -1,4 +1,3 @@
-#class
 # Witch (WIP)
 ##### [[Archetype - Caster]]
 

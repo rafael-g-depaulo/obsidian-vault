@@ -417,7 +417,6 @@ Important tips:
 
 
 
-#class 
 # Beast Warrior
 ##### [[Archetype - Martial]]
 
@@ -507,7 +506,6 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Fúria Raivosa*. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
-#class 
 # Champion
 ##### [[Archetype - Martial]]
 
@@ -743,16 +741,26 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 ### Spell List
 List of spells available for a Plantomancer to learn.
 
-{{spell-list
-INCLUDE_TAGS:
-- plant
-- arcane
-- decay
-- recovery
-EXCLUDE_TAGS:
-- fire
-- necrotic
-}}
+##  Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Magic Stone]]
+- [[Poison Spray]]
+- [[Thorn Whip]]
+
+### 1st Circle
+- [[Arma Mágica]]
+- [[Curar Ferimentos]]
+- [[Escudo]]
+- [[Healing Word]]
+- [[Primor Atlético]]
+- [[Teia]]
+- [[Área Escorregadia]]
+
+### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
 
 ##### Cantrips (Circle 0) 
 - [[Thorn Whip]]
@@ -953,7 +961,6 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
 - *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
-#class
 # Warrior
 ##### [[Archetype - Martial]]
 

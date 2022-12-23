@@ -59,7 +59,7 @@ const compileSpells = async () => {
     }))
     .map(({ classname, spells }) => ({
       classname,
-      spellList: makeClassSpellList(classname, spells),
+      spellList: makeClassSpellList(spells, classname),
     }))
     .map(({ classname, spellList }) =>
       writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
@@ -68,6 +68,7 @@ const compileSpells = async () => {
   // compile all rules
   compileRules(join(baseDir, rootRulesFile), {
     classesFolder: ClassesFolder,
+    allSpells,
   }).then(compiledRules =>
     writeToFile(ResultsFolder, rulebookFile, compiledRules)
   )

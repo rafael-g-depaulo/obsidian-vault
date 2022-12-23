@@ -19,8 +19,8 @@ export const createTagRules = ({
   includeTags,
 })
 
+export const rulesBlockRegex = /{{spell-list(?<rules>[^}]+)}}/
 export const parseTagRules = (content: string): TagRules | null => {
-  const rulesBlockRegex = /{{spell-list(?<rules>[^}]+)}}/
   const ruleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\s*-\s*\w+\n)*)/g
   const ruleItemRegex = /^\s*-\s*(?<item>\w+)/
 

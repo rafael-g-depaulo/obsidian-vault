@@ -1,4 +1,3 @@
-#class
 # Warrior
 ##### [[Archetype - Martial]]
 

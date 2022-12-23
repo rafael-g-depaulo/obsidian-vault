@@ -6,7 +6,7 @@ import { spellLevelStr, spellListItem } from './stringOutputUtils'
 export const className = (filename: string) =>
   matchGroups(filename, /^Class - (?<className>.+)\.md$/).className
 
-export const makeClassSpellList = (classname: string, spells: Spell[]) =>
+export const makeClassSpellList = (spells: Spell[], classname: string = '') =>
   `## ${classname} Spells\n\n` +
   groupByLevel(spells)
     .map(

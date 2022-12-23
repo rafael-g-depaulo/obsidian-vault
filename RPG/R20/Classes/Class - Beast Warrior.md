@@ -1,4 +1,3 @@
-#class 
 # Beast Warrior
 ##### [[Archetype - Martial]]
 

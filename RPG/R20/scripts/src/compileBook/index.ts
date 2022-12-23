@@ -1,8 +1,10 @@
 import { popTopFolder, readFile } from '../file'
+import { Spell } from '../spell'
 import { replaceClasses } from './replaceClasses'
+import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 
-export type CompileRulesDeps = { classesFolder: string }
+export type CompileRulesDeps = { classesFolder: string; allSpells: Spell[] }
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
   compileRulesRecursive(popTopFolder(filepath) ?? '', filepath, deps)
 
@@ -15,3 +17,4 @@ export const compileRulesRecursive = (
     .then(makeLinksGlobal(currentFolder))
     .then(replaceLinks(currentFolder, deps))
     .then(replaceClasses(deps.classesFolder))
+    .then(replaceClassSpellLists(deps.allSpells))

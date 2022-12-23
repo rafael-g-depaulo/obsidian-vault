@@ -1,4 +1,3 @@
-#class
 # Werebeast
 ##### [[Archetype - Specialist]]
 

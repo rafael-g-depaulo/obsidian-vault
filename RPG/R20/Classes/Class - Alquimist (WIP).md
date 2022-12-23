@@ -1,4 +1,3 @@
-#class
 # Alquimist
 ##### [[Archetype - Specialist]]
 
