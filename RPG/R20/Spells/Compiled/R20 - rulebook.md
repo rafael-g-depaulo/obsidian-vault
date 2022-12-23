@@ -29,8 +29,9 @@
 {{wide
 ##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
 }}
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Attributes
 
@@ -104,8 +105,9 @@ Besides skill checks, attacks, ability and spell DCs and other class features, m
 **Sensibility**: *nothing yet*
 
 **Presence**: *nothing yet*
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Skills & Skill Checks
 
@@ -172,7 +174,7 @@ In rare circumstances the DM might ask for a different attribute to be used inst
 ### Using a different skill for a skill check
 Many situations allow for different ways for a character to achieve their goals, even if there is a "more common" or "easier" one. A character might want to melt away a locked mechanism with their Alchemist's tools instead of lockpicking it. Another might want to perform crazy stunts and roll acrobatics instead of performance to try to convince The Great Master Artist Cain Delarrouse™ that he should accept them as an apprentice dancer. A third one could try to roll intimidation instead of persuasion to let the guards in the post let them through, convincing them that it's not worth the trouble to get their asses beat for a random traveler just minding their business.
 
-
+{{pageNumber,auto}}
 \page
 
 It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM choses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
@@ -215,7 +217,7 @@ OBS: most likely this will need to change to 2 every levelup + INT mod every eve
 |  18   | +15             |
 |  19   | +15             |
 |  20   | +15             |
-
+{{pageNumber,auto}}
 
 ## Passive Skill Rolls
 
@@ -224,9 +226,10 @@ A character's passive, neutral ability in a skill means that even when not activ
 - **8 + ATB + Bonus**, with ATB being their bonus with the relevant attribute, and Bonus being their proficiency in that skill.
 
 Example: Ada, the Rogue, has 17 DEX and 4 points in stealth. Her passive stealth, then, is 8 + 3 + 4 = 15.
+{{pageNumber,auto}}
+{{pageNumber,auto}}
 
-
-
+{{pageNumber,auto}}
 \page
 # Archetypes
 All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
@@ -264,7 +267,7 @@ A Caster has access to all Caster Feats.
 | 13-14 |       7        |
 | 15-16 |       8        | 
 | 17-20 |       9        |
-
+{{pageNumber,auto}}
 
 ## Off-Caster
 An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
@@ -289,7 +292,7 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 
 ### Spells
 - **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
-- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) 
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
 \page
 
 - **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
@@ -303,7 +306,7 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 | 11-12 |       4        |
 | 13-14 |       5        |
 | 15-16 |       6        |
-| 17-20 |       7        |
+| 17-20 |       7        |{{pageNumber,auto}}
 
 ## Specialist
 Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
@@ -331,7 +334,7 @@ Starting at 2nd level, a Specialist gains the **Expertise** feature.
 
 ### Spells
 None by default
-
+{{pageNumber,auto}}
 
 ## Martial
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
@@ -356,8 +359,9 @@ A character from a martial class has access to all Matial Feats.
 - **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
 - **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
 
-<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->{{pageNumber,auto}}{{pageNumber,auto}}
 
+{{pageNumber,auto}}
 \page
 # Classes
 classes are always from one of the archetypes, and add additional abilities that the character earns as they level. they also offer powers that the character may take at each level up after the first.
@@ -414,7 +418,7 @@ Inspiration (flat bonus or dice? AoE or single target?). off-caster
 5. Think of a level-1 feature (almost always should be a skill that uses MP) to incorporate the main way that class expresses their **Theme**, and interacts with their **Core Mechanic**.
 6. Then, if the class isn't from the Caster Archetype: Think of another feature relating to the class' **Theme** (but not necessarily it's **Core Mechanic**), and add that either as a level 2 or 3 class feature.
 	1. In specific when designing Caster Classes it may make sense to add the class' **Core Mechanic** at a later level (such as with the Witch class' **Witch's Focus**). In that case this supplementary feature should be made, and added as a first level class feature.
-7. Then think of 1 other feature to round out the **Theme** (something that also adds some non-combat flavor/utility). Add them as mid-game class features. 
+7. Then think of 1 other feature to round out the **Theme** (something that also adds some non-combat flavor/utility). Add them as mid-game class features. {{pageNumber,auto}}
 \page
 
 8. Now think of additional interesting new features and modifications to existing features that play to the class' **Theme**. Observe that while the **Core Mechanic** always has a combat effect, these mechanics don't necessarily have to all have to be obviously useful in combat (though most of them should have some in-combat use). This is a good place to think up of possible variations and specializations within members of the class. Add those as class feats.
@@ -436,6 +440,7 @@ Important tips:
 
 
 
+{{pageNumber,auto}}
 \page
 # Beast Warrior
 ##### [[Archetype - Martial]]
@@ -505,7 +510,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 - *Sangue dos Inimigos*. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
 - *Superstição*. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
-
+{{pageNumber,auto}}
 \page
 
 
@@ -529,6 +534,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Fúria Raivosa*. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
+{{pageNumber,auto}}
 \page
 # Champion
 ##### [[Archetype - Martial]]
@@ -590,6 +596,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 
 - *Julgamento: Vindicação*. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
+{{pageNumber,auto}}
 \page
 # Juggernaut
 ##### [[Archetype - Martial]]
@@ -663,7 +670,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 - *Defesa Impenetrável*. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
 
 - *Defesa Implacável*. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
-
+{{pageNumber,auto}}
 \page
 
 - *Defesa Intocável*. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
@@ -678,6 +685,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 
 
+{{pageNumber,auto}}
 \page
 # Plantomancer
 ##### [[Archetype - Caster]]
@@ -739,7 +747,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 - *Herbomancia: Raizes Mágicas*. 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3. Pré-requisitos: nível 5 de Plantomancer.
 
 - *Crescimento Acelerado*. Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
-
+{{pageNumber,auto}}
 \page
 
 - *Herbomancia: Samambaia Recuperadora*. Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pré-requisitos: nível 4 de Plantomancer. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso).
@@ -815,6 +823,7 @@ List of spells available for a Plantomancer to learn.
 - [[Luz]]
 - [[Controlar Plantas]]
 
+{{pageNumber,auto}}
 \page
 # Rogue
 ##### [[Archetype - Specialist]]
@@ -878,7 +887,7 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - *Gatuno*. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
 - *Capitalizar Distrações*. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
-
+{{pageNumber,auto}}
 \page
 
 - *Mão na Boca*. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
@@ -897,6 +906,7 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - *Veneno Potente*. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
 
+{{pageNumber,auto}}
 \page
 # Spelgard
 ##### [[Archetype - Off-Caster]]
@@ -960,7 +970,7 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 - *Curar Aprimorado*. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
 
 - *Curar Distante*. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
-
+{{pageNumber,auto}}
 \page
 
 {{note
@@ -992,6 +1002,7 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
 - *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
+{{pageNumber,auto}}
 \page
 # Warrior
 ##### [[Archetype - Martial]]
@@ -1061,8 +1072,9 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 - *Tornado de Dor*. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
 - *Valentão*. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos. 
+{{pageNumber,auto}}{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Combat
 ## Round
@@ -1096,7 +1108,7 @@ During their turn, a character can spend their movement action to move up to the
 
 ### Attack
 Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [[Maneuvers]]
-
+{{pageNumber,auto}}
 
 ## Attacking and Defending
 ### Attacking
@@ -1129,7 +1141,7 @@ Some spells use a spell save DC instead. For that, see the Save DC Section below
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 
 - **8 + proficiency modifier + relevant attribute modifier**
-
+{{pageNumber,auto}}
 \page
 
 Example: Ynit, a level 6 Mage with 15 INT (their spellcasting attribute) would have a spell save DC of 8 + 3 + 2 = 13.
@@ -1166,20 +1178,20 @@ The formula for a character's Dodge is:
 - **Equipment bonus + Dexterity modifier**
 
 Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
-
+{{pageNumber,auto}}
 
 ## Movement
 
 A PC's movement speed (in squares of size 1.5m/5ft) is calculated by:
   - **5 + STR** (min 4 total, max 8 total)
 
-
+{{pageNumber,auto}}
 
 ## Maneuvers
 
 ### Grappling
 Grappling is a kind of melee attack. The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, an Athletics check contested by the target’s Athletics or Acrobatics check (the target chooses the skill to use).
-
+{{pageNumber,auto}}
 
 ## Manobras
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
@@ -1201,7 +1213,7 @@ With this option, a creature uses the special shove attack from the Player's Han
 #### TUMBLE
 A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
-
+{{pageNumber,auto}}
 \page
 
 
@@ -1214,8 +1226,9 @@ The smaller creature can move around within the larger creature's space, treatin
 
 #### DISARM
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+{{pageNumber,auto}}{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Origins
 (Act in a similar way to races in other fantasy TTRPGs)
@@ -1317,8 +1330,9 @@ You went out and got yourself a propper education in a fancy shmancy school! Wel
 **Powers**: 1 Combat Power of your choice.
 
 **Skills**: +1 to Intelligence based skill checks to recall information (some things stuck. Not many, but some).
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Proficiency
 Proficiency is used mainly for 3 things:
@@ -1363,8 +1377,9 @@ T20's formula: floor(lv/2) + (2/4/7 depending on level)
   - lv1: 0, lv2-3 -> 1, lv4-5 -> 2, lv6-7 -> 3, lv8-9 -> 4, etc.
 
 R20's formula: ceil(lv/2)
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Equipment
 ## Simple Weapons
@@ -1460,13 +1475,14 @@ R20's formula: ceil(lv/2)
 
 **Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-
+{{pageNumber,auto}}
 \page
 
 
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Consumable Items
 
@@ -1497,16 +1513,17 @@ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit po
 | Greater healing  | Uncommon  | 200g   | 4d4+4   |
 | Superior healing | Rare      | 2000g  | 8d4+8   |
 | Supreme healing  | Very rare | 20000g | 10d4+20 |
-
+{{pageNumber,auto}}
 
 ## Poisons
 #### Basic Poison
 _Potion, Common. 100g_
 
 You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+{{pageNumber,auto}}
+{{pageNumber,auto}}
 
-
-
+{{pageNumber,auto}}
 \page
 # Magic Items
 
@@ -1552,8 +1569,9 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 _Common (50gp)_
 Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
 
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Runes
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
@@ -1565,8 +1583,9 @@ Rune effects:
 | Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
 | Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
 | Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     | 
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Crafting
 
@@ -1618,8 +1637,9 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 25          | 20,000 gp   |
 | Legendary   | 50          | 100, 000 gp |
 \*Halved for a consumable item like a potion or scroll
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Spell Scrolls
 Spell Scrolls are consumable items that contain a spell. They can be used either to:
@@ -1647,8 +1667,9 @@ At the start of the crafting attempt, the spellcaster decides on what spell and 
 In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
 
 OBS: maybe make it be different checks instead of all Arcana?
+{{pageNumber,auto}}{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Spells
 
@@ -1718,7 +1739,7 @@ All spells have one or more tags where they fit. The spell [[Toque Chocante]], f
 
 For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
 
-It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up 
+It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up {{pageNumber,auto}}
 \page
  the process of making a spell list, not to constrain your ideas in any way
 
@@ -1817,8 +1838,9 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 - leomund's tiny hut
 - phantom steed
 - remove curse
-- sending
+- sending{{pageNumber,auto}}
 
+{{pageNumber,auto}}
 \page
 # Spell Tags
 asdasdasd
@@ -1880,13 +1902,12 @@ by damage type:
 	- #poison
 	- #acid
 	- #necrotic
+{{pageNumber,auto}}
 
-
+{{pageNumber,auto}}
 \page
 # Spell List
 . Global list of all spells, divided by circle:
-
-
 
 
 
@@ -1987,6 +2008,7 @@ by damage type:
 - [[Manto do Cruzado]]
 - [[Regenerate]]
 
+{{pageNumber,auto}}
 \page
 # Spells
 . Here is a list of all spells, sorted alphabetically
@@ -2065,7 +2087,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ___
 Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênção anula Perdição.
-
+{{pageNumber,auto}}
 \page
 ### Blade Barrier
   <div class="spell-tags"></div>
@@ -2142,7 +2164,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 ___
 You create a ghostly, skeletal hand in the space of a creature within range.  
 Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
-
+{{pageNumber,auto}}
 \page
 ### Concentração de Combate
   <div class="spell-tags">boost positive chronomancy</div>
@@ -2220,7 +2242,7 @@ Você dispara um raio fino e esverdeado que causa 10d12 pontos de dano de essên
 
 ___
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento).  onstrutos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
-
+{{pageNumber,auto}}
 \page
 ### Detect Poison and Disease
   <div class="spell-tags"></div>
@@ -2298,7 +2320,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 
 ___
 O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área recebem  amuflagem por escuridão. As sombras não podem ser iluminadas por nenhuma fonte de luz natural. O objeto pode ser  uardado (em um bolso, por exemplo) para interromper a escuridão, que voltará a funcionar caso o objeto seja revelado.  e lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la.  scuridão anula Luz.
-
+{{pageNumber,auto}}
 \page
 ### Explosão de chamas
   <div class="spell-tags">fire energy evocation</div>
@@ -2370,7 +2392,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ___
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
-
+{{pageNumber,auto}}
 \page
 ### Greater Restoration
   <div class="spell-tags"></div>
@@ -2440,7 +2462,7 @@ Esta magia imbui uma criatura com coragem e valentia. O alvo fica imune a medo e
 
 ___
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30—foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn’t already a magic weapon, it becomes one for the duration. As a Movement Action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn’t blinded. At the end of each Ofits turns, a blinded creature can make a Constitution saving throw, ending the effect on itselfon a success.
-
+{{pageNumber,auto}}
 \page
 ### Imagem Espelhada
   <div class="spell-tags">ilusion trickery</div>
@@ -2513,7 +2535,7 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 
 ___
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
-
+{{pageNumber,auto}}
 \page
 ### Mage Hand
   <div class="spell-tags">trickery</div>
@@ -2591,7 +2613,7 @@ ___
 ___
 Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma estátua inerte e sem consciência. A estátua possui os mesmos PV da criatura e resistência a dano 8; se for quebrada, a criatura morrerá. Requer 7º círculo.
-
+{{pageNumber,auto}}
 \page
 ### Perdição
   <div class="spell-tags">curse negative</div>
@@ -2664,7 +2686,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 
 ___
 Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de batalha. Criaturas na área sofrem 4d8 pontos de dano de luz (ou 4d12, se forem mortos-vivos) e ficam ofuscadas por uma rodada. Se passarem na resistência, sofrem metade do dano e não ficam ofuscadas. Truque: muda a duração para cena e a resistência para nenhuma. Em vez do normal, cria um facho de luz que ilumina a área da magia. Uma vez por rodada, você pode mudar a direção do facho como uma ação livre.
-
+{{pageNumber,auto}}
 \page
 ### Ray of Sickness
   <div class="spell-tags"></div>
@@ -2736,7 +2758,7 @@ As you cast this spell, you use the rope to create a circle with a 5-foot radius
 
 ___
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
-
+{{pageNumber,auto}}
 \page
 ### Sopro da Salvação
   <div class="spell-tags"></div>
@@ -2808,7 +2830,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 ___
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
-
+{{pageNumber,auto}}
 \page
 ### Toque Vampírico
   <div class="spell-tags"></div>
@@ -2855,10 +2877,50 @@ ___
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+{{pageNumber,auto}}{{pageNumber,auto}}
 
+{{pageNumber,auto}}
+\page
+# Contracts, Paladins & Entities
 
-############ INVALID_LINK "null" ############
+Warlocks. Paladins. Clerics. Priests. That one fool who made a deal with the devil. The bard with the Dragon sugar daddy. What do they all have in common? They all have a contract with a powerful being, an "Entity".
 
+## Paladins
+
+In R20 any character that, willingly or not, finds themselves in a contract with a powerful being is called a "Paladin". That being is, until the contract is broken (an extremely rare occurrence), that Paladin's Entity.
+
+## Contract
+The contract, also known as their Oath, is what defines the relationship between a Paladin and their Entity, and grants them access to their Entity's miracles. The contract is rarely an explicitly defined thing, and even less commonly an actual, physical item.
+
+While not all contracts are alike, nearly all of them follow a common pattern, with things a Paladin can do to earn Favor, and things that would make them lose Favor.
+
+## Favor
+Favor is the concept of how much an Entity cares for and is willing to help their Paladin. In gameplay terms, that is represented by Favor Points, or FP. At the moment that the contract is made, the Paladin starts with 0 FP. They gain FP by a variety of ways, and spend FP to gain their Entity's help and perform Miracles. A Paladin's maximum FP is equal to 5 times their level.
+
+The following are the usual ways in which a Paladin earns the Favor of their entity, according to their contract.
+
+### "The Mana Tax"
+Every time a Paladin expends energy, they unconsciously send a portion of that energy to their Entity through the link their contract gives them. Mecanically, they have higher MP costs for all of their spells and abilities. The Paladin gains 1FP for every MP used towards "The Mana Tax".
+
+A common rule for the "Mana Tax", as it's commonly refered to, is "the maximum between 1 and half of the skill's cost, rounded down" (e.g.: 1 -> +1, 2 -> +1, 3 -> +1, 4 -> +2, 5 -> +2, 6 -> +3, etc.). Another one is "+1 to all abilities and +X to all spells, where X is the spell's level".
+
+"The Mana Tax" doesn't count towards the maximum MP a character may use for a skill.
+
+### Working towards their Mission
+Though not common, some Paladins are given a specific mission by their Entity. Working towards that goal may earn them Favor with their Entity.
+
+### Upholding the Entity's values
+Doing something their Entity likes. Working towards their Entity's goals (if they have any), or helping them in general, is an obvious and very effective way of gaining their Favor, and improving the relationship between them and their Paladin.
+
+## Losing Favor
+<!-- Flavor text: FP is usually only spent to perform Miracles, but a Paladin that's going against their Entity's wishes may see themselves drawing the short end of the straw later on, as their Entity loses faith on them and becomes less likely to help them in the future. -->
+Just as upholding their Entity's values and working towards their mission can help a Paladin earn their Favor, going against their values, helping their enemies or simply getting on their Entity's bad side can cause a Paladin to lose Favor (FP) with their Entity.
+
+## Miracles
+Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mecanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
+{{pageNumber,auto}}
+
+{{pageNumber,auto}}
 \page
 # Conditions
 
@@ -2891,7 +2953,9 @@ Bright light lets most creatures see normally. Even gloomy days provide bright l
 
 ## Grapple
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[Battle Maneuvers]])
+{{pageNumber,auto}}
 
+{{pageNumber,auto}}
 \page
 # Rest & Recovery
 An adventuring character recovers HP and MP mainly through resting. There are 5 different kinds of resting conditions:
@@ -2947,7 +3011,5 @@ Consult the table below to see how the rest affected the characters.
 | 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
 | 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
-
-
-asdasdasadsad
-
+{{pageNumber,auto}}
+{{pageNumber,auto}}

@@ -18,14 +18,8 @@
 
 ![[RPG/R20/Spells/index]]
 
-![[Contracts, Paladins _ Entities]]
+![[RPG/R20/Paladins, Entities & Contracts/index]]
 
 ![[Conditions]]
 
 ![[Rest]]
-
-asdasdasadsad
-
-%%
-shouldn't appear
-%%
