@@ -26,8 +26,8 @@ export const writeToFile = async (
 
 export const deleteFile = async (...paths: string[]) => rm(join(...paths))
 
-export const fileExists = async (...paths: string[]) =>
-  access(join(...paths), constants.R_OK | constants.W_OK)
+export const fileOrFolderExists = async (...path: string[]) =>
+  access(join(...path), constants.R_OK | constants.W_OK)
     .then(() => true)
     .catch(() => false)
 
@@ -47,10 +47,22 @@ export const searchPathRecursively = async (
   currentFolder: string,
   relativePath: string
 ): Promise<null | string> => {
-  if (await fileExists(currentFolder, relativePath))
+  if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
   const poppedPath = popTopFolder(currentFolder)
   if (!poppedPath) return null
 
   return searchPathRecursively(poppedPath, relativePath)
+}
+
+export const searchFolderRecursively = async (
+  currentFolder: string,
+  relativePath: string
+): Promise<null | string> => {
+  if (await fileOrFolderExists(currentFolder, relativePath))
+    return join(currentFolder, relativePath)
+  const poppedPath = popTopFolder(currentFolder)
+  if (!poppedPath) return null
+
+  return searchFolderRecursively(poppedPath, relativePath)
 }

@@ -657,7 +657,6 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 
 
-
 \page
 # Plantomancer
 ##### [[Archetype - Caster]]
@@ -1848,7 +1847,102 @@ by damage type:
 # Spell List
 Global list of all spells, divided by circle:
 
-{{global-spell-list}}
+## All Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Magic Stone]]
+- [[Poison Spray]]
+- [[Primal Savagery]]
+- [[Thorn Whip]]
+- [[Toll the Dead]]
+
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Arma Mágica]]
+- [[Bane]]
+- [[Bless]]
+- [[Bênção]]
+- [[Caminhos da Natureza]]
+- [[Canhão de Ervilha]]
+- [[Concentração de Combate]]
+- [[Controlar Plantas]]
+- [[Curar Ferimentos]]
+- [[Despedaçar]]
+- [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
+- [[Earth Tremor]]
+- [[Enfeitiçar]]
+- [[Entangle]]
+- [[Escudo]]
+- [[Escuridão]]
+- [[Explosão de chamas]]
+- [[Fog Cloud]]
+- [[Goodberry]]
+- [[Guiding Bolt]]
+- [[Healing Word]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Luz]]
+- [[Mage Hand]]
+- [[Perdição]]
+- [[Primor Atlético]]
+- [[Ray of Sickness]]
+- [[Sleep]]
+- [[Snare]]
+- [[Teia]]
+- [[Thunderwave]]
+- [[Toque Chocante]]
+- [[Tranquilidade]]
+- [[Área Escorregadia]]
+
+### 2nd Circle
+- [[Aid]]
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+- [[Web]]
+
+### 3rd Circle
+- [[Campo de Força]]
+- [[Camuflagem ilusória]]
+- [[Flecha Ácida]]
+- [[Físico Divino]]
+- [[Invisibilidade]]
+- [[Life Transference]]
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Raio Solar]]
+- [[Relâmpago]]
+- [[Revivify]]
+- [[Soco de Arsenal]]
+- [[Sopro das Uivantes]]
+- [[Toque Vampírico]]
+
+### 5th Circle
+- [[Contagion]]
+- [[Dawn]]
+- [[Flame Strike]]
+- [[Greater Restoration]]
+- [[Heroísmo]]
+- [[Holy Weapon]]
+- [[Insect Plague]]
+- [[Mass Cure Wounds]]
+- [[Pele de Pedra]]
+- [[Potência Divina]]
+- [[Sopro da Salvação]]
+- [[Transformação de Guerra]]
+
+### 6th Circle
+- [[Blade Barrier]]
+- [[Harm]]
+- [[Heal]]
+
+### 7th Circle
+- [[Desintegrar]]
+- [[Fire Storm]]
+- [[Manto do Cruzado]]
+- [[Regenerate]]
 
 
 ############ INVALID_LINK "null" ############

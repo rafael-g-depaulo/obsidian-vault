@@ -1,4 +1,4 @@
-import { className, makeClassSpellList } from '../classSpellList'
+import { className, makeSpellListString } from '../classSpellList'
 import { Spell } from '../spell'
 import { createSpellList, parseTagRules, rulesBlockRegex } from '../tagRules'
 
@@ -7,7 +7,7 @@ export const replaceClassSpellLists =
     content.replace(rulesBlockRegex, match => {
       const rules = parseTagRules(match)
       const spellList = createSpellList(allSpells, rules!)
-      const spellListString = makeClassSpellList(spellList)
+      const spellListString = makeSpellListString(spellList)
 
       return spellListString
     })

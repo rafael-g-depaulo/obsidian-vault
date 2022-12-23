@@ -1,5 +1,5 @@
 import { join } from 'path'
-import { className, makeClassSpellList } from './classSpellList'
+import { className, makeSpellListString } from './classSpellList'
 import { compileRules } from './compileBook'
 import { dealWithErrors } from './error'
 import { listFiles, readFile, writeToFile } from './file'
@@ -59,7 +59,7 @@ const compileSpells = async () => {
     }))
     .map(({ classname, spells }) => ({
       classname,
-      spellList: makeClassSpellList(spells, classname),
+      spellList: makeSpellListString(spells, classname),
     }))
     .map(({ classname, spellList }) =>
       writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
@@ -82,4 +82,3 @@ compileSpells()
 // TODO: remove wip automatically (maybe not needed?)
 // TODO: add replacer for {{global-spell-list}}
 // TODO: add replacer for all spells in alphabetic order
-// TODO: fix removeComments regex

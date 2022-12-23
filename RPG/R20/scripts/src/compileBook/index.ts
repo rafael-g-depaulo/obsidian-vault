@@ -6,6 +6,7 @@ import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
 import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
+import { replaceGlobalSpellList } from './replaceGlobalSpellList'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 
 export type CompileRulesDeps = {
@@ -23,5 +24,6 @@ export const processContent = (deps: CompileRulesDeps) =>
     replaceLinks(deps),
     replaceClasses(deps),
     replaceClassSpellLists(deps.allSpells),
-    addPageBreakBeforeH1
+    addPageBreakBeforeH1,
+    replaceGlobalSpellList(deps)
   )
