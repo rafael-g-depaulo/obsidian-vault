@@ -1,3 +1,4 @@
+# Equipment
 ## Simple Weapons
 | Melee Weapons  | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|

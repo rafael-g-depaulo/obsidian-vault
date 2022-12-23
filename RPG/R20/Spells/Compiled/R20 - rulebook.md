@@ -1031,3 +1031,863 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 - *Valentão*. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos. 
 
 
+# Combat
+## Round
+For each round of combat (equivalent to ~6s of real time), each character takes their turn, in initiative order. Some items, spells and abilities might affect these numbers, but by default every character has, during their turn, access to:
+
+- 1 Action
+- 1 Movement Action
+- Any number of Free Actions
+
+## Combat Actions
+
+### Endurance
+**Endurance:** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
+
+OBS: the DM may rule that any specific instance of damage may or may not ignore Endurance depending on the situation, at their discretion.
+
+### Uncanny Dodge
+Below is the definition of the Uncanny Dodge ability, that all characters can perform:
+
+**Uncanny Dodge:** (when taking damage) Reaction (3PM): ignore the damage, and increase the cost of this by 3PM. You can't use Uncanny Dodge if it costs more than your **Dodge**.
+
+Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to attack them has to roll a 18 or higher to hit them), can use Uncanny Dodge up to 2 times per scene, and their Endurance allows them to shrug off attacks of 8 or less points of damage. If they use Endurance and take 3 attacks dealing 7, 14 and 5 damage, the first and third attacks have their damage reduced to 0.
+
+### Attack of Opportunity
+If your character has the ability to do so, they can perform an attack of opportunity.
+
+**Attack of Opportunity**: Reaction (An enemy leaves your melee range, 0MP): You can make an attack against the enemy immediately as they leave your melee range.
+
+### Movement
+During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]])
+
+### Attack
+Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [[Maneuvers]]
+
+
+## Attacking and Defending
+### Attacking
+##### Physical Attacks
+To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
+
+If making a melee attack:
+  - **1d20 + proficiency bonus + Strength modifier**
+
+If making a ranged attack:
+  - **1d20 + proficiency bonus + Dexterity modifier**
+
+If a melee weapon has the *finesse* property you can use Dexterity for the attack roll instead of Strength. (see: Equipment section).
+
+If the attack hit, you deal damage equal to the damage dice for the weapon, plus the modifier used for the attack roll.
+
+Example: Molly, an 8th level character proficient with simple weapons and 15(+2) DEX would have the following attack and damage rolls with a dagger:
+- Attack Roll: 1d20+6
+- Damage Roll: 1d4+2
+
+##### Spell Attacks
+To make a spell attack you first roll to hit. The roll is determined by the following formula:
+- **1d20 + proficiency bonus + Spellcasting modifier**
+	
+Unlike physical attacks, spell attacks in general don't add the caster's spellcasting modifier to the damage roll.
+
+Some spells use a spell save DC instead. For that, see the Save DC Section below.
+
+#### Saves
+For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
+
+- **8 + proficiency modifier + relevant attribute modifier**
+
+Example: Ynit, a level 6 Mage with 15 INT (their spellcasting attribute) would have a spell save DC of 8 + 3 + 2 = 13.
+
+##### Rolling Saves
+Whenever a player character has to resist an effect, they perform a Save Roll with a certain attribute. A character's class determines what attributes they have proficiency in saves with. If a character is proficient with a save, the roll formula is:
+
+- **1d20 + proficiency modifier + relevant attribute modifier**
+
+If they aren't proficient in saves with that attribute, the roll is:
+
+- **1d20 + relevant attribute modifier**
+
+### Defending Against an Attack, Spell or Ability
+
+#### Defense (AC)
+<div></div>
+When an attack or spell has a roll instead of a save DC, the chalenge rating it should meet to hit the target is the target's Defense. The target's defense (also known as armor class) is calculated as:
+
+- **10 + Maximum(Dodge, Guard) + Defense Bonus**
+
+Defense Bonus is given by items, spells, abilities, circumstances (e.g. cover), etc.
+
+##### Guard
+The formula for a character's Guard is:
+
+- **Equipment bonus + Constituition modifier**
+
+Besides contributing to a character's Defense, Guard also allows them to use [[Combat Actions#Endurance]].
+
+##### Dodge
+The formula for a character's Dodge is:
+
+- **Equipment bonus + Dexterity modifier**
+
+Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
+
+
+## Movement
+
+A PC's movement speed (in squares of size 1.5m/5ft) is calculated by:
+  - **5 + STR** (min 4 total, max 8 total)
+
+
+
+## Maneuvers
+
+### Grappling
+Grappling is a kind of melee attack. The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, an Athletics check contested by the target’s Athletics or Acrobatics check (the target chooses the skill to use).
+
+
+
+# Origins
+(Act in a similar way to races in other fantasy TTRPGs)
+
+Origins usually give +2, +1 and -1 to 3 attributes, and the equivalent of ~2 powers.
+
+## Origin Lists
+Here's a list of origins: (e em parênteses qual raça do T20 eu quibei pra montar elas)
+
+### Generalist
+**Attributes**: +1 to 3 different attributes.
+**Powers**: 2 general powers of your choice.
+
+### Brute
+**Attributes**: +2 STR, +1 CON, -1 SEN.
+**Powers**: 1 Combat power of your choice. Tough it Out!.
+
+**Tough it out!**: Can spend movement action and 1PM to gain +1 Guard for scene.
+
+### Old Soul
+**Attributes**: CON +2, SEN +1, DEX -1.
+**Powers**: 1 general power of your choice. Darn these old legs. Built over time.
+
+**Darn these old legs**: your base movement speed is 1 square (5ft/1.5m) lower.
+**Built over time**: +3 maximum HP at lv1, and +1 maximum HP per levelup
+
+### Tinkerer
+**Attributes**: DEX +2, INT +1, PRE -1.
+**Powers**: 1 general power. Tool Expert.
+
+**Tool Expert**: no negative when performing a skill check without it's kit. +1 if using kit.
+
+### Student
+**Attributes**: INT +2, DEX +1, CON -1.
+**Powers**: 1 general power. Caffeine-powered soul.
+
+**Caffeine-powered soul**: +1 maximum MP per level.
+
+### Animal Friend
+**Attributes**: SEN +2, DEX +1, INT -1.
+**Powers**: 1 general power. Animal Embassador.
+
+**Animal Embassador**: double SEN mod in animal handling checks. can comunicate with animals through body language.
+
+### Initiate
+**Attributes**: PRE +2, INT +1, STR -1.
+**Powers**: 1 general power. Initiate Magic.
+
+**Initiate Magic**: Choose 1 1st level spell. You can cast it (PRE is the attribute).
+
+### Loner
+**Attributes**: +2 STR, +1 SEN, -1 PRE.
+**Powers**: 1 General Power of your choice. Lone wolf.
+
+**Lone wolf**: +1 DEF when you have no allies within short range of you.
+
+### Schemer
+**Attributes**: +2 DEX, +1 PRE, -1 CON
+**Powers**: 1 General Power of your choice.
+
+**I saw that one before!**: you have +1 on investigation checks to find traps, and to see if someone is trying to decieve you.
+
+### Nature Explorer
+**Attributes**: +2 CON, +1 STR, -1 PRE
+**Powers**: 1 General Power of your choice. Forest Walker.
+
+**Forest Walker**: You can move through natural environments with dificult terrain as if they were of normal terrain.
+
+### Researcher
+**Attributes**: +2 INT, +1 CON, -1 DEX
+**Powers**: 1 General Power of your choice. Field Expert
+
+**Field Expert**: Choose either History, Arcana, Nature or Medicine. You add double your Inteligence modifier when rolling that skill.
+
+### Gladiator
+<!-- You did a lot of arena fighting in your younger days. You might have gotten a bit wiser (or not), but one thing you won't forget is your first-hand combat experience, and ability to get a crowd roaring! -->
+**Attributes**: +2 PRE, +1 STR, -1 INT
+**Powers**: 1 Combat power of your choice. Show fight
+
+**Show fight**: You can choose to cause non-lethal damage with your attacks without taking the usual -5 to the attack roll.
+
+### Merchant
+**Attributes**: +2 SEN, +1 PRE, -1 STR
+**Powers**: 1 General Power of your choice. Bargain Bin Buyer. Salesman.
+
+**Bargain Bin Buyer**: You can buy non-magical items for half price (DM may rule against this for technologically complex, rare or unique items, according to the situation).
+**Salesman**: You sell items for 10% more.
+
+### Shunned
+**Attributes**: +1 in 3 non-Presence attributes. Presence -1.
+**Powers**: 1 General Power. Intimidating.
+
+**Intimidating**. +2 to intimidation.
+
+### Dropout
+You went out and got yourself a propper education in a fancy shmancy school! Well... you tried, at least.
+
+**Atributes**: +1 to 3 attributes except Intelligence.
+**Powers**: 1 Combat Power of your choice.
+
+**Skills**: +1 to Intelligence based skill checks to recall information (some things stuck. Not many, but some).
+
+
+# Proficiency
+Proficiency is used mainly for 3 things:
+	- determining the DC for a skill's effect (i.e.: the DC to resist a character's magic)
+	- making attack rolls
+	- making saving throws with an attribute a character is proficient in
+
+A character's proficiency is directly determined by their overall level, following the formula below.
+
+- **Proficiency: char's level / 2 (rounded up) **
+
+Here's a table with the proficiency levels for all levels from 1 to 20.
+
+##### Proficiency Bonus per level
+| Level | Proficiency Bonus |
+|:-----:|:------------------|
+| 1     | +1                |
+| 2     | +1                |
+| 3     | +2                |
+| 4     | +2                |
+| 5     | +3                |
+| 6     | +3                |
+| 7     | +4                |
+| 8     | +4                |
+| 9     | +5                |
+| 10    | +5                |
+| 11    | +6                |
+| 12    | +6                |
+| 13    | +7                |
+| 14    | +7                |
+| 15    | +8                |
+| 16    | +8                |
+| 17    | +9                |
+| 18    | +9                |
+| 19    | +10               |
+| 20    | +10               |
+
+D&D's formula: ceiling(lv / 4) + 1
+  - lv1-4 -> 2, lv5-8 -> 3, lv9-12 -> 4, etc.
+ 
+T20's formula: floor(lv/2) + (2/4/7 depending on level)
+  - lv1: 0, lv2-3 -> 1, lv4-5 -> 2, lv6-7 -> 3, lv8-9 -> 4, etc.
+
+R20's formula: ceil(lv/2)
+
+
+# Equipment
+## Simple Weapons
+| Melee Weapons  | Damage | Crit |            Properties            |
+|:--------------:|:------:|:----:|:--------------------------------:|
+| Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |
+| Unarmed Attack |   1d2  |   -  |                -                 |
+| Club           |   1d4  |   -  |              light               |
+| Greatclub      |   1d8  |   -  |             2-handed             |
+| Handaxe        |   1d6  |   -  |      light, thrown (20/60)       |
+| Javelin        |   1d6  |   -  |         thrown (30/120)          |
+| Light Hammer   |   1d4  |   -  |      light, thrown (20/60)       |
+| Mace           |   1d6  |  19  |                                  |
+| Quarterstaff   |   1d6  |   -  |         versatile (1d8)          |
+| Spear          |   1d6  |  x3  | Thrown (20/60), versatile (1d8)  |
+| Scythe         |   1d4  |  x4  |              light               |
+
+| Ranged Weapons | Damage | Crit |            Properties            |
+|:--------------:|:------:|:----:|:--------------------------------:|
+| Crossbow, light|   1d8  |  19  | Range (10sqr/20sqr), loading(movement), 2-handed|
+| Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
+
+## Martial Weapons
+| Melee Weapons		 	| Damage 	| Crit 	| Properties       |
+|:-----------------:|:-------:|:-----:|:-----------------|
+| Battleaxe       	| 1d8    	|   - 	| light            |
+| Shortsword       	| 1d6    	|   x3 	| Finesse, light   |
+| Flail           	| 1d8    	|   - 	| Reach            |
+| Lance           	| 1d12   	|   -  	| Reach, Mounted   |
+| Longsword       	| 1d8    	|   19 	| Versatile (1d10) |
+| Rapier          	| 1d6    	|   18 	| Finesse          |
+| Greataxe        	| 1d12   	|   x3 	| Heavy, 2-handed  |
+| Greatsword      	| 2d6    	|   19 	| Heavy, 2-handed  |
+
+| Ranged Weapons    | Damage | Crit |            Properties                       |
+|:-----------------:|:------:|:----:|:-------------------------------------------:|
+| Crossbow, heavy 	| 1d10   |  x3 	| Range (20sqr/40sqr), heavy, loading(action), 2-handed 	|
+| Longbow         	| 1d8    |  19 	| Range (25sqr/50sqr), heavy, 2-handed          	|
+
+## Armor
+
+| Light Armor                    | Dodge | Guard | Cost | STR | Penalty  |
+|--------------------------------|-------|-------|------|-----|----------|
+| Padded (Acolchoada)            | 2     | -1    |  10g | -   | 0        |
+| Leather (Couro)                | 3     | -2    |  50g | -   | 0        |
+| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0        |
+| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0        |
+
+| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty | 
+| ---------------------------------- | ----- | ----- | ---- | --- | ------- |
+| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   | 0       |
+| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   | 0       |
+| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   | 0       |
+| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   | -1      |
+| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  | -2      |
+| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
+| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
+
+| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty | Movement |
+| ------------------------------ | ----- | ----- | ------ | --- | ------- | -------- |
+| Ring mail                      | -1    | 2     | 30g    | 12  | -3      | 0        |
+| Chain mail                     | -2    | 3     | 75g    | 13  | -4      | 0        |
+| Splint                         | -3    | 4     | 200g   | 14  | -5      | -1sqr    |
+| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5      | -2sqr    |
+
+| Shield       | Dodge | Guard | Cost | STR | Penalty | 
+| ------------ | ----- | ----- | ---- | --- | ------- |
+| Buckler      | 2     | 1     | 5g   | -   | 0       |
+| Light Shield | -3    | 2     | 15g  | -   | -1      |
+| Heavy Shield | -4    | 3     | 200g | 13  | -2      |
+
+\**STR*: The minimum strength score requirement to wear the armor.
+
+\**Penalty (deprecated? probably gonna remove/rework it)*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
+
+\*Movement: Movement speed penalty while wearing.
+
+**Finesse**. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+**Heavy**. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
+
+**Light**. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+**Loading**. This weapons needs to be reloaded before it can be fired again.
+
+**Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+
+**Two-Handed**. This weapon requires two hands to use.
+
+**Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+
+**Reach**. This weapon adds 5 feet to your reach when you attack with it.
+
+**Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+
+**Mounted**. This weapon is considered Two-Handed unless the user is mounted.
+
+
+# Consumable Items
+
+| Name              | Tool              | Price |
+|:----------------- | ----------------- | -----:|
+| Acid              | Alchemist's tools |   25g |
+| Alchemist's Fire  | Alchemist's tools |   50g | 
+| Potion of Healing | Alchemist's tools |   50g |
+| Poison, basic     | Alchemist's tools |  100g |
+| Healer’s Kit      | -                 |    5g |
+
+Poisons and Healing potions have their own sections.
+
+**Healer’s Kit.** This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.
+
+**Acid.** As an action, you can splash the contents of this vial onto a creature within 1sqr of you or throw the vial up to 4sqr, shattering it on impact. In either case, make a ranged attack against a creature or object. On a hit, the target takes 2d6 acid damage.
+
+**Alchemist’s Fire.** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 4sqr, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a **DC 10 Dexterity** check to extinguish the flames.
+
+## Potions
+#### Healing Potion
+_Potion, Common_
+A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+
+| Potion of ...    | Rarity    | Price  | HP      |
+| ---------------- | --------- | ------ | ------- |
+| Healing          | Common    | 50g    | 2d4+2   |
+| Greater healing  | Uncommon  | 200g   | 4d4+4   |
+| Superior healing | Rare      | 2000g  | 8d4+8   |
+| Supreme healing  | Very rare | 20000g | 10d4+20 |
+
+
+## Poisons
+#### Basic Poison
+_Potion, Common. 100g_
+
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+
+
+
+# Magic Items
+
+### MAGIC ITEM RARITY
+| Rarity    | Character Level | Value           |
+| --------- | --------------- | --------------- |
+| Common    | 1st or higher   | 50-100 gp       |
+| Uncommon  | 1st or higher   | 101-500 gp      |
+| Rare      | 5th or higher   | 501-5,000 gp    |
+| Very rare | 11th or higher  | 5,001-50,000 gp |
+| Legendary | 17th or higher  | 50,001+ gp      |
+
+
+
+### Magic item list
+
+#### Corda da Escalada
+_Common (50gp)_
+
+Esta corda de 15m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
+
+#### Garrafa da Fumaça Eterna
+_Common (50g)_
+Quando a tampa desta ânfora de metal é retirada, uma grande quantidade de fumaça é liberada, deixando toda a áera em 12m de raio obscura. A fumaça persiste até a garrafa ser tampada. Após isso, dissipa-se no fim da cena (ou após 4 rodadas, sob vento forte, ou 1 rodada, sob um vendaval).
+
+#### Gema da Luminosidade.
+*Common (50gp)*
+Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de Fortitude ou ficar cega por 1d4 rodadas
+
+#### Manto Élfico
+*Uncommon (100gp-350gp)*
+Indistinguível de um manto cinza comum. Entretanto, quando usado com o capuz cobrindo o rosto, fornece +2/+5 em Furtividade.
+
+### Mochila de Carga (Bag of Holding)
+*Uncommon (100gp-500gp)*
+Este item, que parece uma simples mochila de pano, está na verdade ligado a um espaço interdimensional — fazendo com que seja maior por dentro do que por fora. Você pode guardar até 100 kg dentro de uma mochila de carga, mas ela pesará no máximo 5 kg. Se a mochila for rasgada, os objetos em seu interior são destruídos. Criaturas vivas colocadas no interior da mochila podem sobreviver até 10 minutos, mas depois disso ficarão sem ar.
+
+### Chapéu do Estilo
+*Common (50gp)*
+Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como ação quem estiver usando o chapéu pode tocar nele, e ele se transforma em qualquer tipo de chapéu ou adereço de usar na cabeça. Role um d20 ao colocar ou transformar o chapéu. Se tirar 10+, você tem +2 em rolagens de presença enquanto usar o chapéu. Se tirar 20, esse bônus dobra. (hidden until players roll 1: Se você tirar 1, o chapéu fica preso em você por 1 dia, você tem desvantagem em rolagens de presença e ele vira um fedora)
+
+### Enciclopédia do Biólogo Sumido
+_Common (50gp)_
+Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
+
+%%O livro age como uma pokedex, e alerta o monstro%%
+
+# Runes
+You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
+
+Rune effects:
+
+| Name                 | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
+| -------------------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
+| Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
+| Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     | 
+
+
+# Crafting
+
+**IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
+
+basic rules:
+
+needs 25% of the item's worth of ingredients
+
+50gp worth of item/workweek. (increase to more gp/week at later levels.)
+
+1 check per workweek
+
+use tools. costs 500silver (-5 without tools)
+
+## Crafting Roll
+1 roll per workweek. if it takes multiple weeks you can roll again, but after 3 fails the item breaks and all materials are lost. fails can maybe add other adversities (build fail table).
+
+The CD is defined by the item rarity.
+
+#### Crafting roll CD by item rarity
+| Item Rarity | CD  |
+| ----------- | --- |
+| Common      | 10  |
+| Uncommon    | 15  |
+| Rare        | 18  |
+| Very rare   | 20  |
+| Legendary   | 25  | 
+
+## Crafting Materials (Took mostly from D&D)
+An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
+
+#### MAGIC ITEM INGREDIENTS
+| Item Rarity | CR Range |
+| ----------- | -------- |
+| Common      | 1-3      |
+| Uncommon    | 4-8      | 
+| Rare        | 9-12     |
+| Very rare   | 13- 18   |
+| Legendary   | 19+      |
+
+
+#### MAGIC ITEM CRAFTING TIME AND COST
+| Item Rarity | Workweeks\* | Cost\*      | 
+| ----------- | ----------- | ----------- |
+| Common      | 1           | 50 gp       |
+| Uncommon    | 2           | 200 gp      |
+| Rare        | 10          | 2,000 gp    |
+| Very rare   | 25          | 20,000 gp   |
+| Legendary   | 50          | 100, 000 gp |
+\*Halved for a consumable item like a potion or scroll
+
+
+# Spell Scrolls
+Spell Scrolls are consumable items that contain a spell. They can be used either to:
+- Cast the spell
+- Learn the spell
+
+All spell scrolls have a tier. The tier of a spell scroll is equal to the MP cost of the spell stored inside it (including all spell modifiers).
+
+## Casting a Spell from a Scroll
+Any sentient creature may attempt to cast a spell from a scroll.
+
+**Read Spell Scroll.** Action: make an Arcana skill check (DC 5 + tier). On a success the spell is cast, and the scroll is destroyed. On a failure by 5 or more, the scroll is destroyed. On a failure by 10 or more, the stored mana explodes in a 5sqr side square centered on the scroll, dealing 1d6 energy damage times the scroll tier and destroying the scroll.
+
+If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
+
+## Learning a Spell from a Scroll
+A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
+
+To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana (INT) check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
+
+## Creating Spell Scrolls
+At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 2gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 2 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
+
+## Buying Spell Scrolls
+In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
+
+OBS: maybe make it be different checks instead of all Arcana?
+
+
+# Spells
+
+## Learning Spells
+As characters level up, they learn new spells. The amount of spells and maximum spell level for a character's known spells can be seen according to the table below (info also available in Archetypes).
+
+Full-casters and Off-Casters start at level 1 knowing 3 and 1 known spells, respectively. Full-Casters learn a new spell at every level up and Off-Casters learn a new one at every even level. Casters can learn cantrips (0-level spells), while Off-Casters cannot learn them.
+
+The maximum level of a spell a character can learn is given by the below table (see also: Spell Levels).
+
+##### Maximum circle of known spells
+| Char Level | Full-Caster | Off-Caster |
+|:----------:|:-----------:|:----------:|
+| 1          | 1           | 1          |
+| 2          | 1           | 1          |
+| 3          | 2           | 1          |
+| 4          | 2           | 1          |
+| 5          | 3           | 2          |
+| 6          | 3           | 2          |
+| 7          | 4           | 2          |
+| 8          | 4           | 3          |
+| 9          | 5           | 3          |
+| 10         | 5           | 3          |
+| 11         | 6           | 4          |
+| 12         | 6           | 4          |
+| 13         | 7           | 5          |
+| 14         | 7           | 5          |
+| 15         | 8           | 6          |
+| 16         | 8           | 6          |
+| 17         | 9           | 7          |
+| 18         | 9           | 7          |
+| 19         | 9           | 7          |
+| 20         | 9           | 7          |
+
+## Casting Spells
+
+### Casting while wearing armor
+Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+
+### Concentration
+Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+
+- **Casting another spell that requires concentration**. You lose concentration on a spell if you cast another spell that requires concentration. You can’t concentrate on two spells at once.
+
+- **Taking damage**. Whenever you take damage while you are concentrating on a spell, you must make a Constituition saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon’s breath, you make a separate saving throw for each source of damage.
+
+- **Being incapacitated or killed**. You lose concentration on a spell if you are incapacitated or if you die.
+
+## Spell levels
+Spells are divided into 9 levels and cantrips (0-level spells).
+
+| Spell Level | Base MP Cost |
+|:-----------:|:------------:|
+|  cantrips   |      0       |
+|      1      |      1       |
+|      2      |      2       |
+|      3      |      3       |
+|      4      |      4       |
+|      5      |      6       |
+|      6      |      8       |
+|      7      |      10      |
+|      8      |      12      |
+|      9      |      15      |
+
+## Spell Tags
+All spells have one or more tags where they fit. The spell [[Toque Chocante]], for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
+
+For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
+
+It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up the process of making a spell list, not to constrain your ideas in any way
+
+## Flavor
+TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
+
+------ considering ------
+### Level 1
+- dissonant whispers
+- faerie fire
+- feather fall
+- sleep
+- speak with animals
+- entangle
+- fog cloud
+- jump
+- thunderwave
+- compelled duel?
+- command
+- detect magic?
+- heroism
+- chromatic orb
+- witch bolt
+- armor of agathis
+- arms of hadar
+- hellish rebuke
+- burning hands
+- charm person
+- grease
+- jump
+- mage armor
+- magic missile
+- ray of sickness
+### Level 2
+- calm emotions
+- cloud of daggers
+- crown of madness]
+- heat metal
+- invisibility
+- lesser restoration
+- locate object
+- see invisibility
+- shatter
+- silence
+- sugestion
+- blindness/deafness
+- calm emotions
+- continual flame
+- enhance ability
+- hold person
+- animal messenger
+- bark skin
+- beast sense
+- dark vision
+- locate animals or plants
+- moonbeam
+- pass without a trace
+- spike growth
+- magic weapon (compare com o arma mágica do T20)
+- crescer diminuir do t20
+- levitate
+- scorching ray
+- spider climb
+- web
+- crescer/reduzir do T20
+- flaming sphere
+- magic mouth
+- melf's acid arrow
+- misty step
+### Level 3
+- plant growth
+- speak with dead
+- speak with plants
+- stinking cloud
+- call lightning
+- daylight
+- meld into stone
+- sleet storm
+- wind wall
+- aura of vitality
+- elemental weapon
+- lightning arrow
+- blink
+- fear
+- fireball
+- fly
+- gaseous form
+- haste
+- lightning bolt
+- slow
+- stinking cloud
+- vampiric touch
+- bestow curse
+- blink
+- clairvoyance
+- leomund's tiny hut
+- phantom steed
+- remove curse
+- sending
+
+# Spell Tags
+asdasdasd
+
+TODO: code JS script to read all spells and check if tags respect hierarchy (e.g. all plant spells should also be wild spells). it should only give warnings
+
+## Tags
+list of tags:
+OBS: nothing stops spells from overlapping groups (e.g.: a spell can be wild, negative and arcane at once).
+OBS2: it's possible for a spell to belong to a group without belonging to one of it's sub-tags. ex: Mage hand isn't ilusion, divination or enchantment, but it's trickery
+
+### Considering:
+- maybe remove summon from wild group. only do it after a concrete example shows up
+- maybe separate curse into 2 different tags if the need arises
+
+### Tag descriptions
+1. arcane: (general magic stuff. grease, prestidigitation, tiny hut and shit)
+
+by nature:
+- #wild
+	- #plant
+	- #feral
+	- #summon
+- #negative
+	- #curse (debuf)
+	- #unholy (warlock stuff)
+	- #necromancy
+- #positive
+	- #recovery
+	- #boost
+	- #holy (sunlight, radiant, cleric stuff)
+- #arcane
+	- #transmutation
+	- #ilusion
+	- #divination 
+	- #abjuration (shields and some self-buffs)
+	- #creation
+- #trickery
+	- #ilusion
+	- #divination (also all communication stuff)
+	- #enchantment
+- #chronomancy
+- #evocation
+
+by damage type:
+- #energy (fire+ice+lighning)
+	- #fire
+	- #lighning
+	- #cold
+- #physical (maybe not needed)
+	- #slashing
+	- #bludgeoning
+	- #piercing
+- #nature (does physical damage)
+	- #wind
+	- #water
+	- #earth
+- #decay
+	- #poison
+	- #acid
+	- #necrotic
+
+
+# Spell List
+Global list of all spells, divided by circle:
+
+{{global-spell-list}}
+
+
+############ INVALID_LINK "null" ############
+
+# Conditions
+
+### Prone
+Prone target has movement speed halved, -2 defense against melee attacks and +2 against ranged ones. Standing up from prone takes a movement action. A prone target can once per turn attempt to stand up as a free action, if they pass a DC 14 Acrobatics test
+
+### Burning
+Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.
+
+### Frightened
+A frightened has disadvantage on all rolls made against the source of their fright. At the start of there turn, the frightened creature must succeed on a DC 10 Presence save (or the DC of the fear effect -5, whichever is higher), or they spend all their movement running away from the source of their fear. If the fear effect involves a save each turn, the creature makes one save and considers its result for both the effect save and the "run away" save.
+
+### Paralyzed
+A paralyzed creature is incapacitated (see the condition) and can’t move or speak. The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage. Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
+### Charmed
+A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
+
+### Blinded
+• A blinded creature can’t see and automatically fails any ability check that requires sight.
+• Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+
+## Light and vision
+A given area might be lightly or heavily obscured. In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Perception checks that rely on sight.
+
+A heavily obscured area—such as darkness, opaque
+fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition
+
+Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
+
+## Grapple
+The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you.
+
+# Rest & Recovery
+An adventuring character recovers HP and MP mainly through resting. There are 5 different kinds of resting conditions:
+
+- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
+- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a nightwatch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
+- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
+
+## Mantimentos (esqueci palavra EN)
+Food, firewood, water... to properly rest, a party needs to expend some resources. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
+
+## How to recover
+When the party decides to rest, they set up camp for the night.
+
+### Base Level and Rest CR
+The DM chooses the base condition for the rest, which may be Bad, Normal or even worse. Chose a base condition level for the situation. That number can be a negative or positive one, with 1 being normal, and the lesser the number, the worse the condition is.
+
+The DM also chooses secretly the CR of the rest, considering the location, time, weather and other adverse conditions that may apply.
+
+Recommendation for CR: 15 - (5* base level of rest)
+
+### Expending Resources
+When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the level of the recovery. 
+
+**Experiment with different prices**
+| amount spent per person | bonus |
+| ----------------------- | ----- |
+| 0                       | -3    |
+| 2 silver                | -1    |
+| 5 silver                | 0     |
+| 20 silver               | +1    |
+| 50 silver               | +2    |
+| 150 silver              | +3    |
+
+### Skills
+A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). 
+
+The character then rolls a skill check against the Rest CR chosen by the DM. If they pass it, the Rest Level is increased by 1. For every 5 above the CR, the level is increased by another 1 point.
+
+### Result
+Do the following calculation to find out the level of the rest:
+
+rest condition level = base level + resource bonus + skill bonus
+
+Consult the table below to see how the rest affected the characters.
+
+| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                   |
+| ----- | --------------------- | ----------- | ----------- | -------- | ------------------------------------------- |
+| <=0   | Bad Condition         | 0           | level/2     | 5 hours  | DC 10-5\*condition CON save or gain 1 level |
+| 1     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                            |
+| 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
+| 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
+| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |

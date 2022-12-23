@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon --watch \"*.ts\" --exec \"ts-node\" ./src/index.ts",
-    "run": "ts-node ./src/index.ts"
+    "compile": "ts-node ./src/index.ts"
   },
   "dependencies": {
     "typescript": "^4.9.4"

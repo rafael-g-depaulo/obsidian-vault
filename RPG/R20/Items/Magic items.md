@@ -1,3 +1,5 @@
+# Magic Items
+
 ### MAGIC ITEM RARITY
 | Rarity    | Character Level | Value           |
 | --------- | --------------- | --------------- |

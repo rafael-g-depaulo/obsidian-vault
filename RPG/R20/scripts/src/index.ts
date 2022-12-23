@@ -78,5 +78,6 @@ const compileSpells = async () => {
 compileSpells()
 
 // TODO: add in compiled tag spell lists
-// TODO: add option to include all items from folder alphabetically
 // TODO: remove wip automatically (maybe not needed?)
+// TODO: add replacer for {{global-spell-list}}
+// TODO: add replacer for all spells in alphabetic order
