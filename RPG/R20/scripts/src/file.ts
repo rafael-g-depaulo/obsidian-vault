@@ -1,14 +1,20 @@
-import { readdir, readFile as fsReadFile, writeFile, rm } from 'fs/promises'
+import {
+  readdir,
+  readFile as fsReadFile,
+  writeFile,
+  rm,
+  access,
+  constants,
+} from 'fs/promises'
 import { join } from 'path'
+import { matchGroups } from './regexUtils'
 
 // util file funcions
 export const listFiles = (...dirs: string[]) =>
   readdir(join(...dirs), { encoding: 'utf8' })
 
-export const readFile = (dir: string, filename: string) =>
-  fsReadFile(join(dir, filename), { encoding: 'utf8' }).then(buff =>
-    buff.toString()
-  )
+export const readFile = (...path: string[]) =>
+  fsReadFile(join(...path), { encoding: 'utf8' }).then(buff => buff.toString())
 
 export const writeToFile = async (
   dir: string,
@@ -17,3 +23,21 @@ export const writeToFile = async (
 ) => writeFile(join(dir, filename), content, { encoding: 'utf8' })
 
 export const deleteFile = async (...paths: string[]) => rm(join(...paths))
+
+export const fileExists = async (...paths: string[]) =>
+  access(join(...paths), constants.R_OK | constants.W_OK)
+    .then(() => true)
+    .catch(() => false)
+
+const popFolderRegex = /^(?<path>.+)[\/\\](?:.+)$/
+export const searchPathRecursively = async (
+  currentFolder: string,
+  relativePath: string
+): Promise<null | string> => {
+  if (await fileExists(currentFolder, relativePath))
+    return join(currentFolder, relativePath)
+  const groups = matchGroups(currentFolder, popFolderRegex)
+  // if on bottom layer and didn't find file it doesn't exist
+  if (!groups) return null
+  return searchPathRecursively(groups.path, relativePath)
+}

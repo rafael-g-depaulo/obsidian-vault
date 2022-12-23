@@ -1,5 +1,6 @@
 import { join } from 'path'
 import { className, makeClassSpellList } from './classSpellList'
+import { replaceLinks } from './compileBook'
 import { dealWithErrors } from './error'
 import { listFiles, readFile, writeToFile } from './file'
 
@@ -61,6 +62,12 @@ const compileSpells = async () => {
     .map(({ classname, spellList }) =>
       writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
     )
+
+  readFile(baseDir, 'index.md')
+    .then(content => replaceLinks(baseDir, content))
+    .then(console.log)
+  // replaceLinks(baseDir, baseDir + '/index.md').then(console.log)
+  // parsePath(join(baseDir, 'Attributes & Skills'), '[[Skills _ Skill Checks]]')
 }
 
 // run everything
