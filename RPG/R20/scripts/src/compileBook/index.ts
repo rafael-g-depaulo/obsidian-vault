@@ -14,12 +14,7 @@ export type CompileRulesDeps = {
   allSpells: Spell[]
 }
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
-  compileRulesRecursive(join(deps.currentFolder, filepath), deps)
-
-export const compileRulesRecursive = (
-  filepath: string,
-  deps: CompileRulesDeps
-) => readFile(filepath).then(processContent(deps))
+  readFile(join(deps.currentFolder, filepath)).then(processContent(deps))
 
 export const processContent = (deps: CompileRulesDeps) =>
   asyncPipe(

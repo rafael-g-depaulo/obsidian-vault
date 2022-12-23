@@ -1,6 +1,6 @@
-import { popTopFolder, searchPathRecursively } from '../file'
+import { popTopFolder, readFile, searchPathRecursively } from '../file'
 import { matchGroups, replaceAsync } from '../regexUtils'
-import { CompileRulesDeps, compileRulesRecursive } from './index'
+import { CompileRulesDeps, processContent } from './index'
 
 const markdownLinkRegex = /!\[\[(?<link>[^\]]+)\]\]/g
 const __INVALID__LINK__ = (link: string | null) =>
@@ -25,8 +25,10 @@ export const replaceLinks =
   (content: string): Promise<string> =>
     replaceAsync(content, globalLinkRegex, link => {
       const path = matchGroups(link, globalLinkRegex).path
-      return compileRulesRecursive(path, {
-        ...deps,
-        currentFolder: popTopFolder(path) ?? deps.currentFolder,
-      })
+      return readFile(path).then(
+        processContent({
+          ...deps,
+          currentFolder: popTopFolder(path) ?? deps.currentFolder,
+        })
+      )
     })
