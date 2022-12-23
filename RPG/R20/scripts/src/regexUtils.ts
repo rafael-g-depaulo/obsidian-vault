@@ -22,3 +22,6 @@ export const replaceAsync = async (
   const data = await Promise.all(promises)
   return str.replace(reg, () => data.shift() ?? '')
 }
+
+export const specialChars =
+  'ÁÈôÇáèÒçÂËòâëØÑÀÐøñàðÕÅõÝåÍÖýÃíöãÎ"ÄîÚ<äÌú>ÆìÛ&æÏûïÙ®Éù©éÓÜÞÊóüþêÔß'

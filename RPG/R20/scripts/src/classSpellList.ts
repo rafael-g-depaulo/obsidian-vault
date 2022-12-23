@@ -1,7 +1,9 @@
+import { groupBy } from './arrayUtils'
 import { matchGroups } from './regexUtils'
-import { Spell } from './spell'
+import { Spell, spellDescriptionItems, SpellDescriptionItems } from './spell'
 import { groupByLevel } from './spellList'
 import { spellLevelStr, spellListItem } from './stringOutputUtils'
+import { isNotUndefined } from './typeUtils'
 
 export const className = (filename: string) =>
   matchGroups(filename, /^Class - (?<className>.+)\.md$/).className
@@ -15,3 +17,31 @@ export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
         spells.map(spellListItem).join('\n')
     )
     .join('\n\n')
+
+const SpellItemLabelName: { [k in SpellDescriptionItems]: string } = {
+  castTime: 'Casting time',
+  range: 'Alcance',
+  target: 'Alvo',
+  duration: 'Duração',
+}
+
+const spellDescriptionItemsString = (spell: Spell) =>
+  spellDescriptionItems
+    .filter(key => isNotUndefined(spell.items[key]))
+    .map(key => `- **${SpellItemLabelName[key]}:** ${spell.items[key]}`)
+    .join(';\n') + '.\n'
+
+const makeSpellDescriptionString = (spell: Spell) =>
+  `### ${spell.name} <span class="spell-tags">${spell.tags
+    .filter(tag => tag !== 'spell')
+    .join(' ')}</span>
+*${spellLevelStr(spell.level)}*
+${spellDescriptionItemsString(spell)}
+___
+${spell.description}
+`
+export const makeSpellDescriptionsListString = (spells: Spell[]) =>
+  spells
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .map(makeSpellDescriptionString)
+    .join('\n')

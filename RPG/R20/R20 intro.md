@@ -7,6 +7,9 @@
   .page:nth-child(2n+1)::after { transform: scaleX(-1); }
   .page:nth-child(2n) .footnote { left: inherit; text-align: right; }
   .page:nth-child(2n+1) .footnote { left: 80px; text-align: left; }
+  .spell-tags {
+	  color: #ed4512; font-family: 'Open Sans'; font-size: 0.8rem;
+  }
 </style>
 
 {{margin-top:225px}}
