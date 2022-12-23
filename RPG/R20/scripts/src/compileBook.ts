@@ -1,7 +1,7 @@
 import { popTopFolder, readFile, searchPathRecursively } from './file'
 import { matchGroups, replaceAsync } from './regexUtils'
 
-const markdownLinkRegex = /\[\[(?<link>[^\]]+)\]\]/g
+const markdownLinkRegex = /!\[\[(?<link>[^\]]+)\]\]/g
 const globalLinkRegex = /{{rewrite "(?<path>.+)"}}/g
 const __INVALID__LINK__ = '############ INVALID_LINK ############'
 

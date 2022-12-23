@@ -1,7 +1,7 @@
-[[RPG/R20/Attributes & Skills/Attributes]]
+![[RPG/R20/Attributes & Skills/Attributes]]
 
-[[Skills _ Skill Checks]]
+![[Skills _ Skill Checks]]
 
-[[Passive Skill Rolls]]
+![[Passive Skill Rolls]]
 
-[[RPG/R20/Combat/Hiding]]
+![[RPG/R20/Combat/Hiding]]
