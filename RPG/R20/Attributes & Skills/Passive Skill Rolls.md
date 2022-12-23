@@ -1,4 +1,4 @@
-# Passive Skill Rolls
+## Passive Skill Rolls
 
 A character's passive, neutral ability in a skill means that even when not actively trying, they succeed in all checks of DC smaller than or equal to:
 

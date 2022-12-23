@@ -18,5 +18,3 @@
 {{wide
 ##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
 }}
-
-\page

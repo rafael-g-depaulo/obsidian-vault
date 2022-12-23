@@ -1,4 +1,4 @@
-%% this file is the root used by the scripts to compile markdown into a single file. all files linked will be recursively imported by order %%
+
 
 <style>
   .page#p1{ text-align:center; counter-increment: none; }
@@ -21,8 +21,8 @@
 ##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
 }}
 
-\page
 
+\page
 # Attributes
 
 ## Description
@@ -97,6 +97,7 @@ Besides skill checks, attacks, ability and spell DCs and other class features, m
 **Presence**: *nothing yet*
 
 
+\page
 # Skills & Skill Checks
 
 ## Skills:
@@ -204,7 +205,7 @@ OBS: most likely this will need to change to 2 every levelup + INT mod every eve
 |  20   | +15             |
 
 
-# Passive Skill Rolls
+## Passive Skill Rolls
 
 A character's passive, neutral ability in a skill means that even when not actively trying, they succeed in all checks of DC smaller than or equal to:
 
@@ -214,6 +215,7 @@ Example: Ada, the Rogue, has 17 DEX and 4 points in stealth. Her passive stealth
 
 
 
+\page
 # Archetypes
 All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
 
@@ -342,6 +344,7 @@ A character from a martial class has access to all Matial Feats.
 
 <!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
 
+\page
 # Classes
 classes are always from one of the archetypes, and add additional abilities that the character earns as they level. they also offer powers that the character may take at each level up after the first.
 
@@ -417,6 +420,7 @@ Important tips:
 
 
 
+\page
 # Beast Warrior
 ##### [[Archetype - Martial]]
 
@@ -506,6 +510,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - *Fúria Raivosa*. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
+\page
 # Champion
 ##### [[Archetype - Martial]]
 
@@ -566,6 +571,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 
 - *Julgamento: Vindicação*. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
+\page
 # Juggernaut
 ##### [[Archetype - Martial]]
 
@@ -649,13 +655,14 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *Defesa Indestrutível*. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
+%%
 TODO: Add more stuff that uses guts, or buff guts.
 	- dar a possibilidade de gastar Guts em vez de PM
 
-%%
 - *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme com o seu enorme poder. Todas as criaturas de sua escolha em um raio de (1+Guts) quadrados de você precisam fazer um teste de resistência de Força (CD: 10 + seu bônus de Proficiência + seu Guts). Aqueles que falharem sofrem os efeitos do seu Golpe Poderoso mais potente +1d10 de dano por cada Guts que você tem (o dano de terremoto é de impacto). Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Você perde todo seu Guts. Pré-requisito: 10º nível em Juggernaut.
 - *Placeholder*. **Golpe Poderoso** dá seu Guts de dano adicional.
 %%
+\page
 # Plantomancer
 ##### [[Archetype - Caster]]
 
@@ -790,6 +797,7 @@ List of spells available for a Plantomancer to learn.
 - [[Luz]]
 - [[Controlar Plantas]]
 
+\page
 # Rogue
 ##### [[Archetype - Specialist]]
 
@@ -869,6 +877,7 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - *Veneno Potente*. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
 
+\page
 # Spelgard
 ##### [[Archetype - Off-Caster]]
 
@@ -961,6 +970,7 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
 - *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
+\page
 # Warrior
 ##### [[Archetype - Martial]]
 
@@ -1031,6 +1041,7 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 - *Valentão*. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos. 
 
 
+\page
 # Combat
 ## Round
 For each round of combat (equivalent to ~6s of real time), each character takes their turn, in initiative order. Some items, spells and abilities might affect these numbers, but by default every character has, during their turn, access to:
@@ -1146,7 +1157,38 @@ A PC's movement speed (in squares of size 1.5m/5ft) is calculated by:
 Grappling is a kind of melee attack. The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, an Athletics check contested by the target’s Athletics or Acrobatics check (the target chooses the skill to use).
 
 
+## Manobras
+Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
+### Derrubar
+Você deixa o alvo caído (Veja a condição de caído: [[Conditions]]). Esta queda normalmente não causa dano.
+
+### Empurrar
+Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
+
+FROM THE DMG:
+
+#### OVERRUN
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength (Athletics) check contested by the hostile creature's Strength (Athletics) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+
+#### SHOVE ASIDE
+With this option, a creature uses the special shove attack from the Player's Handbook to force a target to the side, rather than away. The attacker has disadvantage on its Strength (Athletics) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+
+#### TUMBLE
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+
+#### CLIMB ONTO A BIGGER CREATURE
+If one creature wants to jump onto another creature, it can do so by grappling. A Small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
+
+As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength (Athletics) or Dexterity (Acrobatics) check contested by the target's Dexterity (Acrobatics) check. If it wins the contest, the smaller creature successfully moves into the target creature's space and clings to its body. While in the target's space, the smaller creature moves with the target and has advantage on attack rolls against it.
+
+The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action- knocking it off, scraping it against a wall, or grabbing and throwing it- by making a Strength (Athletics) check contested by the smaller creature's Strength (Athletics) or Dexterity (Acrobatics) check. The smaller creature chooses which ability to use.
+
+#### DISARM
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+
+
+\page
 # Origins
 (Act in a similar way to races in other fantasy TTRPGs)
 
@@ -1249,6 +1291,7 @@ You went out and got yourself a propper education in a fancy shmancy school! Wel
 **Skills**: +1 to Intelligence based skill checks to recall information (some things stuck. Not many, but some).
 
 
+\page
 # Proficiency
 Proficiency is used mainly for 3 things:
 	- determining the DC for a skill's effect (i.e.: the DC to resist a character's magic)
@@ -1294,6 +1337,7 @@ T20's formula: floor(lv/2) + (2/4/7 depending on level)
 R20's formula: ceil(lv/2)
 
 
+\page
 # Equipment
 ## Simple Weapons
 | Melee Weapons  | Damage | Crit |            Properties            |
@@ -1391,6 +1435,7 @@ R20's formula: ceil(lv/2)
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.
 
 
+\page
 # Consumable Items
 
 | Name              | Tool              | Price |
@@ -1430,6 +1475,7 @@ You can use the poison in this vial to coat one slashing or piercing weapon or u
 
 
 
+\page
 # Magic Items
 
 ### MAGIC ITEM RARITY
@@ -1474,8 +1520,9 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 _Common (50gp)_
 Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
 
-%%O livro age como uma pokedex, e alerta o monstro%%
 
+
+\page
 # Runes
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
 
@@ -1488,6 +1535,7 @@ Rune effects:
 | Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     | 
 
 
+\page
 # Crafting
 
 **IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
@@ -1540,6 +1588,7 @@ An item invariably re quires an exotic material to complete it. This material ca
 \*Halved for a consumable item like a potion or scroll
 
 
+\page
 # Spell Scrolls
 Spell Scrolls are consumable items that contain a spell. They can be used either to:
 - Cast the spell
@@ -1568,6 +1617,7 @@ In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
 OBS: maybe make it be different checks instead of all Arcana?
 
 
+\page
 # Spells
 
 ## Learning Spells
@@ -1735,6 +1785,7 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 - remove curse
 - sending
 
+\page
 # Spell Tags
 asdasdasd
 
@@ -1797,6 +1848,7 @@ by damage type:
 	- #necrotic
 
 
+\page
 # Spell List
 Global list of all spells, divided by circle:
 
@@ -1805,6 +1857,7 @@ Global list of all spells, divided by circle:
 
 ############ INVALID_LINK "null" ############
 
+\page
 # Conditions
 
 ### Prone
@@ -1835,8 +1888,9 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
 ## Grapple
-The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you.
+The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[Battle Maneuvers]])
 
+\page
 # Rest & Recovery
 An adventuring character recovers HP and MP mainly through resting. There are 5 different kinds of resting conditions:
 

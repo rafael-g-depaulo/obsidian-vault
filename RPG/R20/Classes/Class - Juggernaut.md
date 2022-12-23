@@ -81,10 +81,10 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - *Defesa Indestrutível*. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
+%%
 TODO: Add more stuff that uses guts, or buff guts.
 	- dar a possibilidade de gastar Guts em vez de PM
 
-%%
 - *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme com o seu enorme poder. Todas as criaturas de sua escolha em um raio de (1+Guts) quadrados de você precisam fazer um teste de resistência de Força (CD: 10 + seu bônus de Proficiência + seu Guts). Aqueles que falharem sofrem os efeitos do seu Golpe Poderoso mais potente +1d10 de dano por cada Guts que você tem (o dano de terremoto é de impacto). Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Você perde todo seu Guts. Pré-requisito: 10º nível em Juggernaut.
 - *Placeholder*. **Golpe Poderoso** dá seu Guts de dano adicional.
 %%

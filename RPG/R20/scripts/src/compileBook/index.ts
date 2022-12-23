@@ -1,5 +1,7 @@
 import { popTopFolder, readFile } from '../file'
 import { Spell } from '../spell'
+import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
+import { removeComments } from './removeComments'
 import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
@@ -14,7 +16,9 @@ export const compileRulesRecursive = (
   deps: CompileRulesDeps
 ) =>
   readFile(filepath)
+    .then(removeComments)
     .then(makeLinksGlobal(currentFolder))
     .then(replaceLinks(currentFolder, deps))
     .then(replaceClasses(deps.classesFolder))
     .then(replaceClassSpellLists(deps.allSpells))
+    .then(addPageBreakBeforeH1)
