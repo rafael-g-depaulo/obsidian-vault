@@ -66,7 +66,8 @@ const compileSpells = async () => {
     )
 
   // compile all rules
-  compileRules(join(baseDir, rootRulesFile), {
+  compileRules(rootRulesFile, {
+    currentFolder: baseDir,
     classesFolder: ClassesFolder,
     allSpells,
   }).then(compiledRules =>
@@ -81,3 +82,4 @@ compileSpells()
 // TODO: remove wip automatically (maybe not needed?)
 // TODO: add replacer for {{global-spell-list}}
 // TODO: add replacer for all spells in alphabetic order
+// TODO: fix removeComments regex

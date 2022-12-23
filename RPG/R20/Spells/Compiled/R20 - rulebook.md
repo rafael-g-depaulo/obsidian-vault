@@ -662,6 +662,10 @@ TODO: Add more stuff that uses guts, or buff guts.
 - *Terremoto*. Ação Completa (10PM): Você acerta o chão com o maior Golpe Poderoso que pode usar e o solo treme com o seu enorme poder. Todas as criaturas de sua escolha em um raio de (1+Guts) quadrados de você precisam fazer um teste de resistência de Força (CD: 10 + seu bônus de Proficiência + seu Guts). Aqueles que falharem sofrem os efeitos do seu Golpe Poderoso mais potente +1d10 de dano por cada Guts que você tem (o dano de terremoto é de impacto). Terremoto ativa todos os seus poderes com nome "Golpe \_\_\_\_". Você perde todo seu Guts. Pré-requisito: 10º nível em Juggernaut.
 - *Placeholder*. **Golpe Poderoso** dá seu Guts de dano adicional.
 %%
+
+%%
+test whyyyyyyyyyyyyy
+%%
 \page
 # Plantomancer
 ##### [[Archetype - Caster]]
@@ -1945,3 +1949,7 @@ Consult the table below to see how the rest affected the characters.
 | 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
 | 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
+
+
+asdasdasadsad
+

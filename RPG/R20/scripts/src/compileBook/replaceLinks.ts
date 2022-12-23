@@ -21,13 +21,12 @@ export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
 
 const globalLinkRegex = /{{rewrite "(?<path>.+)"}}/g
 export const replaceLinks =
-  (currentFolder: string, deps: CompileRulesDeps) =>
+  (deps: CompileRulesDeps) =>
   (content: string): Promise<string> =>
     replaceAsync(content, globalLinkRegex, link => {
       const path = matchGroups(link, globalLinkRegex).path
-      return compileRulesRecursive(
-        popTopFolder(path) ?? currentFolder,
-        path,
-        deps
-      )
+      return compileRulesRecursive(path, {
+        ...deps,
+        currentFolder: popTopFolder(path) ?? deps.currentFolder,
+      })
     })

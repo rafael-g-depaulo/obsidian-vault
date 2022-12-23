@@ -1,3 +1,5 @@
+import { isPromise } from './typeUtils'
+
 export const groupBy =
   <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>
   (items: Item[]): { [key in Key]: Item[] } =>
@@ -8,3 +10,49 @@ export const groupBy =
       }),
       {} as { [key in Key]: Item[] }
     )
+
+type FuncList = readonly Function[]
+type Promisify<F extends Function> = F extends (i: infer Input) => infer Output
+  ? Output extends Promise<infer Inner>
+    ? (i: Input) => Promise<Inner>
+    : (i: Input) => Promise<Output>
+  : never
+
+type AsyncPipedCallback<FList extends FuncList> = FList['length'] extends 0
+  ? never
+  : FList extends [infer F, ...infer Ftail]
+  ? Ftail['length'] extends 0
+    ? F
+    : Ftail extends [infer S, ...infer Stail]
+    ? F extends (input: infer Fin) => infer Fout
+      ? S extends (input: infer Sin) => infer Sout
+        ? Fout extends Promise<infer FOutAsync>
+          ? FOutAsync extends Sin
+            ? Stail['length'] extends 0
+              ? AsyncPipedCallback<[Promisify<(input: Fin) => Sout>]>
+              : Stail extends FuncList
+              ? AsyncPipedCallback<[Promisify<(input: Fin) => Sout>, ...Stail]>
+              : never
+            : never
+          : Fout extends Sin
+          ? Stail extends FuncList
+            ? AsyncPipedCallback<[(input: Fin) => Sout, ...Stail]>
+            : never
+          : never
+        : never
+      : never
+    : never
+  : never
+
+export const asyncPipe = <CList extends FuncList>(
+  ...callbacks: CList
+): AsyncPipedCallback<CList> =>
+  callbacks.reduce<any>(
+    (acc, cur) => (input: any) => {
+      const tempValue = acc(input)
+      return isPromise(tempValue)
+        ? tempValue.then((output: any) => cur(output))
+        : cur(acc(input))
+    },
+    <T>(a: T) => a
+  )

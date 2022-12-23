@@ -1,4 +1,6 @@
-import { popTopFolder, readFile } from '../file'
+import { join } from 'path'
+import { asyncPipe } from '../arrayUtils'
+import { readFile } from '../file'
 import { Spell } from '../spell'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
@@ -6,19 +8,25 @@ import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 
-export type CompileRulesDeps = { classesFolder: string; allSpells: Spell[] }
+export type CompileRulesDeps = {
+  currentFolder: string
+  classesFolder: string
+  allSpells: Spell[]
+}
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
-  compileRulesRecursive(popTopFolder(filepath) ?? '', filepath, deps)
+  compileRulesRecursive(join(deps.currentFolder, filepath), deps)
 
 export const compileRulesRecursive = (
-  currentFolder: string,
   filepath: string,
   deps: CompileRulesDeps
-) =>
-  readFile(filepath)
-    .then(removeComments)
-    .then(makeLinksGlobal(currentFolder))
-    .then(replaceLinks(currentFolder, deps))
-    .then(replaceClasses(deps.classesFolder))
-    .then(replaceClassSpellLists(deps.allSpells))
-    .then(addPageBreakBeforeH1)
+) => readFile(filepath).then(processContent(deps))
+
+export const processContent = (deps: CompileRulesDeps) =>
+  asyncPipe(
+    removeComments,
+    makeLinksGlobal(deps.currentFolder),
+    replaceLinks(deps),
+    replaceClasses(deps.classesFolder),
+    replaceClassSpellLists(deps.allSpells),
+    addPageBreakBeforeH1
+  )
