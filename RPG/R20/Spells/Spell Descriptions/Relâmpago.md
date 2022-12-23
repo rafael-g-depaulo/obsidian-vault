@@ -1,3 +1,4 @@
+#spell #lighning #energy #evocation #thaumaturgy 
 ### Relâmpago
 *3º Círculo*
 ___

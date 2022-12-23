@@ -1,3 +1,4 @@
+#spell #wind #nature #sacred #boost #occult #curse #enchantment #trickery 
 ### Oração
 *3º Círculo*
 ___

@@ -1,3 +1,4 @@
+#spell #unholy #occult #feral #wild #necromancy #necrotic #decay #recovery 
 ### Life Transference
 *3rd Circle*
 - **Casting time:** 1 Action

@@ -1,3 +1,4 @@
+#spell #curse #occult #enchantment #trickery 
 ### Sleep
 - **Level:** 1
 - **Casting time:** 1 Action

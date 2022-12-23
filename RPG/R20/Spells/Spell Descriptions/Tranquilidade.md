@@ -1,3 +1,4 @@
+#spell #enchantment #trickery
 ### Tranquilidade
 *1º Círculo*
 ___

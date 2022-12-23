@@ -1,3 +1,4 @@
+#spell #sacred #holy #recovery
 ### Detect Poison and Disease (Ritual)
 - **Level:** 1
 - **Casting time:** 1 Action

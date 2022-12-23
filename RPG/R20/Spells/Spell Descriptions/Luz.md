@@ -1,3 +1,4 @@
+#spell #holy #trickery #ilusion #evocation #thaumaturgy #creation #arcane 
 ### Luz
 *1º Círculo*
 ___

@@ -1,4 +1,4 @@
-#spell #ilusion #trickery
+#spell #ilusion #trickery #abjuration #thaumaturgy 
 ### Imagem Espelhada
 *1º Círculo*
 ___

@@ -1,3 +1,4 @@
+#spell #feral #wild #trickery #creation #arcane 
 ### Web
 *2º Círculo*
 ___

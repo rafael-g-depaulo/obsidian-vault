@@ -1,3 +1,4 @@
+#spell #arcane #creation #unholy #summon #wild
 ### Soco de Arsenal
 *3º Círculo*
 ___

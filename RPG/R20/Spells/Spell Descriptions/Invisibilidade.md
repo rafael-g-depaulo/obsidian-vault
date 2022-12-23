@@ -1,3 +1,4 @@
+#spell #ilusion #trickery 
 ### Invisibilidade
 *3º Círculo*
 ___

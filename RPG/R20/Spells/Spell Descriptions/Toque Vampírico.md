@@ -1,3 +1,4 @@
+#spell #necrotic #decay #feral #wild #unholy #occult
 ### Toque Vampírico
 *3º Círculo*
 ___

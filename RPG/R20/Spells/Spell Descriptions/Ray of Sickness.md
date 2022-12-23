@@ -1,3 +1,4 @@
+#spell #curse #occult #poison #decay #evocation #thaumaturgy 
 ### Ray of Sickness
 *1º Círculo*
 ___

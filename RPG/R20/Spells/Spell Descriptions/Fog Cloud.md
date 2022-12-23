@@ -1,3 +1,4 @@
+#spell #unholy #occult #summon #wild #creation #arcane #wind #nature
 ### Fog Cloud
 *1º Círculo*
 ___

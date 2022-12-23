@@ -1,3 +1,4 @@
+#spell #wind #nature #cold #energy #creation #arcane
 ### Sopro das Uivantes
 *3º Círculo*
 ___

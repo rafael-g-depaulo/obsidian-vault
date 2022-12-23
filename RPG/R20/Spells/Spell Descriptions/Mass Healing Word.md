@@ -1,3 +1,4 @@
+#spell #recovery #sacred #wind #nature 
 ### Mass Healing Word
 *3rd Circle*
 - **Casting time:** 1 Movement Action
