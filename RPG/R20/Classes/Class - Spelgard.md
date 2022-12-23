@@ -60,7 +60,7 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 - *Curar Aprimorado*. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
 
 - *Curar Distante*. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
-
+{{page-break}}
 {{note
 ##### Auras
 

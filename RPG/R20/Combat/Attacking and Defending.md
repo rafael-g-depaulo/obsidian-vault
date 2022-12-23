@@ -29,7 +29,7 @@ Some spells use a spell save DC instead. For that, see the Save DC Section below
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 
 - **8 + proficiency modifier + relevant attribute modifier**
-
+{{page-break}}
 Example: Ynit, a level 6 Mage with 15 INT (their spellcasting attribute) would have a spell save DC of 8 + 3 + 2 = 13.
 
 ##### Rolling Saves

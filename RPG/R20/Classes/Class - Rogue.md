@@ -60,7 +60,7 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - *Gatuno*. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
 - *Capitalizar Distrações*. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
-
+{{page-break}}
 - *Mão na Boca*. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
 
 - *Mente Criminosa*. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.

@@ -56,3 +56,12 @@ export const asyncPipe = <CList extends FuncList>(
     },
     <T>(a: T) => a
   )
+
+export const joinInGroupsOf =
+  (n: number) =>
+  <T>(arr: T[]) =>
+    arr.reduce<T[][]>((acc, cur, i) => {
+      acc[i % n] ??= []
+      acc[i % n].push(cur)
+      return acc
+    }, [])

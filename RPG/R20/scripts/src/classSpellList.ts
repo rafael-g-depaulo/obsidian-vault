@@ -1,4 +1,4 @@
-import { groupBy } from './arrayUtils'
+import { groupBy, joinInGroupsOf } from './arrayUtils'
 import { matchGroups } from './regexUtils'
 import { Spell, spellDescriptionItems, SpellDescriptionItems } from './spell'
 import { groupByLevel } from './spellList'
@@ -41,7 +41,10 @@ ___
 ${spell.description}
 `
 export const makeSpellDescriptionsListString = (spells: Spell[]) =>
-  spells
-    .sort((a, b) => a.name.localeCompare(b.name))
-    .map(makeSpellDescriptionString)
-    .join('\n')
+  joinInGroupsOf(6)(
+    spells
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .map(makeSpellDescriptionString)
+  )
+    .map(group => group.join('\n'))
+    .join('{{page-break}}')
