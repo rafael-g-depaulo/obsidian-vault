@@ -3,7 +3,8 @@ import { matchGroups, replaceAsync } from './regexUtils'
 
 const markdownLinkRegex = /!\[\[(?<link>[^\]]+)\]\]/g
 const globalLinkRegex = /{{rewrite "(?<path>.+)"}}/g
-const __INVALID__LINK__ = '############ INVALID_LINK ############'
+const __INVALID__LINK__ = (link: string | null) =>
+  `############ INVALID_LINK "${link}" ############`
 
 export const parsePath = (currentFolder: string, markdownLink: string) => {
   const link = matchGroups(markdownLink, markdownLinkRegex)?.link
@@ -13,9 +14,9 @@ export const parsePath = (currentFolder: string, markdownLink: string) => {
 
 export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
   replaceAsync(content, markdownLinkRegex, matchStr =>
-    parsePath(currentFolder, matchStr).then(
-      s => `{{rewrite "${s}"}}` ?? __INVALID__LINK__
-    )
+    parsePath(currentFolder, matchStr).then(s => {
+      return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
+    })
   )
 
 export const replaceLinks =
@@ -26,8 +27,21 @@ export const replaceLinks =
       return compileRulesRecursive(popTopFolder(path) ?? currentFolder, path)
     })
 
-export const compileRules = (filepath: string) =>
-  compileRulesRecursive(popTopFolder(filepath) ?? '', filepath)
+// const listClassesRegex = /{{list-classes}}/
+// const listClasses = (classesFolder: string) => listFiles(classesFolder)
+// const replaceClasses = (classesFolder: string) => (content: string) =>
+//   replaceAsync(content, listClassesRegex, () =>
+//     listClasses(classesFolder).then(classes => {
+//       console.log(classes)
+//       return ''
+//     })
+//   )
+
+export type CompileRulesDeps = { classesFolder: string }
+export const compileRules = (
+  filepath: string
+  // deps: CompileRulesDeps = { classesFolder: '' }
+) => compileRulesRecursive(popTopFolder(filepath) ?? '', filepath)
 
 const compileRulesRecursive = (currentFolder: string, filepath: string) =>
   readFile(filepath)
