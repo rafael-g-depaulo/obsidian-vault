@@ -32,16 +32,18 @@ const spellDescriptionItemsString = (spell: Spell) =>
     .join(';\n') + '.\n'
 
 const makeSpellDescriptionString = (spell: Spell) =>
-  `### ${spell.name} <span class="spell-tags">${spell.tags
+  `### ${spell.name}
+  <div class="spell-tags">${spell.tags
     .filter(tag => tag !== 'spell')
-    .join(' ')}</span>
+    .join(' ')}</div>
+
 *${spellLevelStr(spell.level)}*
 ${spellDescriptionItemsString(spell)}
 ___
 ${spell.description}
 `
 export const makeSpellDescriptionsListString = (spells: Spell[]) =>
-  joinInGroupsOf(6)(
+  joinInGroupsOf(7)(
     spells
       .sort((a, b) => a.name.localeCompare(b.name))
       .map(makeSpellDescriptionString)

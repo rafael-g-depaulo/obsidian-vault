@@ -1,14 +1,10 @@
 # Spell List
-Global list of all spells, divided by circle:
+. Global list of all spells, divided by circle:
 
 {{load-spells-folder "./Spell Descriptions"}}
-
-%%
-{{glo bal-spell-list "./Spell Descriptions"}}
-%%
 
 {{global-spell-list}}
 
 # Spells
-Here is a list of all spells, sorted alphabetically
+. Here is a list of all spells, sorted alphabetically
 {{all-spells-descriptions}}

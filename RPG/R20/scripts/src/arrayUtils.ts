@@ -61,7 +61,7 @@ export const joinInGroupsOf =
   (n: number) =>
   <T>(arr: T[]) =>
     arr.reduce<T[][]>((acc, cur, i) => {
-      acc[i % n] ??= []
-      acc[i % n].push(cur)
+      acc[Math.floor(i / n)] ??= []
+      acc[Math.floor(i / n)].push(cur)
       return acc
     }, [])
