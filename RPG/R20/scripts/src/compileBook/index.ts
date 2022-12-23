@@ -26,7 +26,7 @@ export const processContent = (deps: CompileRulesDeps) =>
     removeComments,
     makeLinksGlobal(deps.currentFolder),
     replaceLinks(deps),
-    replaceClasses(deps.classesFolder),
+    replaceClasses(deps),
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1
   )

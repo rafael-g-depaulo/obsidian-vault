@@ -1,5 +1,6 @@
 import { listFiles, readFile } from '../file'
 import { replaceAsync } from '../regexUtils'
+import { CompileRulesDeps, processContent } from './index'
 
 const listClassesRegex = /{{list-classes}}/
 const classFilenameRegex = /Class - (?<class>.+)\.md/
@@ -13,13 +14,18 @@ const listClasses = (classesFolder: string) =>
       )
     // .map(filename => matchGroups(filename, classFilenameRegex).class)
   )
-export const replaceClasses = (classesFolder: string) => (content: string) =>
-  replaceAsync(content, listClassesRegex, () =>
-    listClasses(classesFolder)
-      .then(classes =>
-        Promise.all(
-          classes.map(classFilename => readFile(classesFolder, classFilename))
+export const replaceClasses =
+  (deps: CompileRulesDeps) =>
+  (content: string): Promise<string> =>
+    replaceAsync(content, listClassesRegex, () =>
+      listClasses(deps.classesFolder)
+        .then(classes =>
+          Promise.all(
+            classes.map(classFilename =>
+              readFile(deps.classesFolder, classFilename)
+            )
+          )
         )
-      )
-      .then(classesContents => classesContents.join('\n'))
-  )
+        .then(classesContents => classesContents.join('\n'))
+        .then(processContent(deps))
+    )
