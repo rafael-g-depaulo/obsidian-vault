@@ -69,7 +69,7 @@ const parseSpellDescriptionItems = (content: string): Spell['items'] =>
   )
 
 const descriptionParagraphRegex = new RegExp(
-  `^(?<paragraph>[${specialChars}\\w].+)$`,
+  `^(?<paragraph>[${specialChars}a-z0-9].+)$`,
   'gmi'
 )
 const parseDescription = (content: string): string =>

@@ -1962,7 +1962,6 @@ Here is a list of all spells, sorted alphabetically
 - **Duração:** cena..
 
 ___
-___
 Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna um alimento sujo, estragado ou envenenado próprio para consumo. Além disso, se for consumido até o final da duração, o alimento oferece 5 PV temporários ou 1 PM temporário (além de quaisquer bônus que já oferecesse). Bônus de alimentação duram um dia e cada personagem só pode receber um bônus de alimentação por dia. Truque: o alimento é purificado (não causa nenhum efeito nocivo se estava estragado ou envenenado), mas não oferece bônus ao ser consumido.
 
 ### Acid Splash <span class="spell-tags">acid decay evocation</span>
@@ -1971,7 +1970,6 @@ Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna u
 - **Alvo:** 1 criatura.;
 - **Duração:** instantânea..
 
-___
 ___
 You hurl a bubble of acid.  
 Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.  
@@ -2000,7 +1998,6 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 - **Duração:** cena.
 
 ___
-___
 A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é considerada mágica. Caso você esteja empunhando a arma, pode usar seu atributo-chave de magias em vez do atributo original nos testes de ataque.
 
 ### Bane <span class="spell-tags">curse negative</span>
@@ -2016,7 +2013,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 - **Alvo:** criaturas escolhidas;
 - **Duração:** concentração.
 
-___
 ___
 Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênção anula Perdição.
 
@@ -2042,7 +2038,6 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **Duração:** 1 dia..
 
 ___
-___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
 
 ### Campo de Força <span class="spell-tags"></span>
@@ -2052,7 +2047,6 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **Duração:** concentração..
 
 ___
-___
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
 ### Camuflagem ilusória <span class="spell-tags"></span>
@@ -2061,7 +2055,6 @@ Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporá
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
-___
 ___
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
@@ -2073,7 +2066,6 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 - **Duração:** instantânea.
 
 ___
-___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 ### Chill Touch <span class="spell-tags">cold energy unholy negative</span>
@@ -2082,7 +2074,6 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
-___
 ___
 You create a ghostly, skeletal hand in the space of a creature within range.  
 Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
@@ -2093,7 +2084,6 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 - **Alvo:** você;
 - **Duração:** 1 rodada..
 
-___
 ___
 Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
 
@@ -2112,7 +2102,6 @@ Since this spell induces a natural disease in its target, any effect that remove
 - **Alcance:** curto.
 
 ___
-___
 Área: quadrado com 9m de lado;
 Duração: cena;
 Resistência: Reflexos anula.
@@ -2124,7 +2113,6 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea..
 
-___
 ___
 Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura tocada. Como mortos-vivos usam energia  egativa, esta magia causa dano de luz a eles (Vontade reduz à metade). Curar Ferimentos anula Infligir Ferimentos. Truque: em vez do normal, estabiliza uma criatura. Truque: muda o alvo para 1 morto- vivo. Em vez do normal, causa 1d8 pontos de dano de luz (Vontade reduz à metade).
 
@@ -2142,7 +2130,6 @@ The light of dawn shines down on a location you specify within range. Until the 
 - **Duração:** instantânea.
 
 ___
-___
 Você dispara um raio fino e esverdeado que causa 10d12 pontos de dano de essência. Se o alvo passar no teste de resistência, em vez disso sofre 2d12 pontos de dano. Independentemente do resultado do teste de Fortitude, se os PV do  lvo forem reduzidos a 0 ou menos, ele será completamente desintegrado, restando apenas pó. 
 
 ### Despedaçar <span class="spell-tags">wind nature</span>
@@ -2151,7 +2138,6 @@ Você dispara um raio fino e esverdeado que causa 10d12 pontos de dano de essên
 - **Alvo:** 1 criatura ou objeto mundano Pequeno;
 - **Duração:** instantânea.
 
-___
 ___
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento).  onstrutos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
@@ -2168,7 +2154,6 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 - **Alcance:** pessoal.
 
 ___
-___
 Área: esfera de 9m de raio;
 Duração: instantânea.
 Você percebe a presença e a localização de criaturas inamistosas ou hostis na área, mesmo através de barreiras físicas.
@@ -2177,7 +2162,6 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 *1st Circle*
 - **Casting time:** 1 Action.
 
-___
 ___
 You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
@@ -2197,7 +2181,6 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **Duração:** concentração..
 
 ___
-___
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
 into difficult terrain.
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
@@ -2210,7 +2193,6 @@ When the spell ends, the conjured plants wilt away.
 - **Duração:** 1 turno..
 
 ___
-___
 Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa.
 
 ### Escuridão <span class="spell-tags">negative unholy trickery ilusion</span>
@@ -2220,7 +2202,6 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **Duração:** cena.
 
 ___
-___
 O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área recebem  amuflagem por escuridão. As sombras não podem ser iluminadas por nenhuma fonte de luz natural. O objeto pode ser  uardado (em um bolso, por exemplo) para interromper a escuridão, que voltará a funcionar caso o objeto seja revelado.  e lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la.  scuridão anula Luz.
 
 ### Explosão de chamas <span class="spell-tags">fire energy evocation</span>
@@ -2228,7 +2209,6 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **Alcance:** 4sqr;
 - **Duração:** instantânea.
 
-___
 ___
 Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1  bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela,  ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
 
@@ -2248,7 +2228,6 @@ The fire damages objects in the area and ignites flammable objects that aren’t
 - **Duração:** concentração..
 
 ___
-___
 O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Força, Destreza ou Constituição, a sua escolha. Esse aumento não oferece PV ou PM adicionais.
 
 ### Flame Strike <span class="spell-tags"></span>
@@ -2265,14 +2244,12 @@ A vertical column of divine fire roars down from the heavens in a location you s
 - **Duração:** instantânea.
 
 ___
-___
 Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo  ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a  agia causa dano dobrado e ignora a RD do objeto.
 
 ### Fog Cloud <span class="spell-tags"></span>
 *1st Circle*
 - **Casting time:** 1 Action.
 
-___
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
@@ -2281,7 +2258,6 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 - **Alcance:** toque;
 - **Duração:** instantâneo..
 
-___
 ___
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
@@ -2331,7 +2307,6 @@ A creature of your choice that you can see within range regains hit points equal
 - **Duração:** concentração..
 
 ___
-___
 Esta magia imbui uma criatura com coragem e valentia. O alvo fica imune a medo e recebe +4 em testes de ataque e rolagens de dano contra inimigos com ND maior que seu nível.
 
 ### Holy Weapon <span class="spell-tags"></span>
@@ -2348,7 +2323,6 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 - **Duração:** cena..
 
 ___
-___
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
 ### Infligir Ferimentos <span class="spell-tags">unholy negative necrotic decay</span>
@@ -2357,7 +2331,6 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea.
 
-___
 ___
 Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano necrótico (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
 
@@ -2375,7 +2348,6 @@ When the area appears, each creature in it must make a Constitution saving throw
 - **Alvo:** você;
 - **Duração:** 1 rodada..
 
-___
 ___
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
 
@@ -2400,7 +2372,6 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 - **Duração:** cena.
 
 ___
-___
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
 
 ### Mage Hand <span class="spell-tags">trickery</span>
@@ -2409,7 +2380,6 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
-___
 ___
 A spectral, floating hand appears at a point you choose within range.  
 The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.  
@@ -2422,7 +2392,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 - **Duração:** cena..
 
 ___
-___
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 ### Manto do Cruzado <span class="spell-tags"></span>
@@ -2431,7 +2400,6 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **Alvo:** você;
 - **Duração:** sustentada..
 
-___
 ___
 Você invoca a energia sagrada de sua divindade na forma de um manto de energia sólida que reveste seu corpo. Esta magia tem duas versões. Você escolhe qual versão pode lançar quando aprende esta magia. Ela não pode ser mudada. Manto de Luz: um manto dourado e luminoso. No início de cada um de seus turnos, você e todos os seus aliados em alcance curto recuperam 2d8 PV. Você fica imune a dano de trevas e seus ataques corpo a corpo causam +2d8 pontos de dano de luz. Manto de Trevas: um manto negro como a noite. No início de cada um de seus turnos, todos os inimigos em alcance curto sofrem 2d8 pontos de dano de trevas. Você cura metade de todo o dano causado pela magia. Mão Poderosa
 
@@ -2457,7 +2425,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **Duração:** sustentada.
 
 ___
-___
+
 
 ### Pele de Pedra <span class="spell-tags"></span>
 *5th Circle*
@@ -2465,7 +2433,6 @@ ___
 - **Alvo:** você;
 - **Duração:** concentração..
 
-___
 ___
 Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma estátua inerte e sem consciência. A estátua possui os mesmos PV da criatura e resistência a dano 8; se for quebrada, a criatura morrerá. Requer 7º círculo.
@@ -2477,14 +2444,12 @@ Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma est�
 - **Duração:** concentração.
 
 ___
-___
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
 ### Poison Spray <span class="spell-tags">poison decay evocation</span>
 *Cantrip*
 - **Casting time:** 1 Action.
 
-___
 ___
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
@@ -2494,7 +2459,6 @@ You extend your hand toward a creature you can see within range and project a pu
 - **Alvo:** você;
 - **Duração:** sustentada..
 
-___
 ___
 Você canaliza o poder de sua divindade. Você aumenta uma categoria de tamanho (seu equipamento muda de acordo). Além disso, você recebe Força +8 e resistência a dano 10. Você não pode lançar magias enquanto estiver sob efeito de Potência Divina.
 
@@ -2512,7 +2476,6 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **Duração:** instantânea..
 
 ___
-___
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d8 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 ### Primor Atlético <span class="spell-tags">boost positive transmutation arcane</span>
@@ -2522,7 +2485,6 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 - **Duração:** concentração..
 
 ___
-___
 Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 em testes de Atletismo.
 
 ### Raio Solar <span class="spell-tags"></span>
@@ -2531,14 +2493,12 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **Duração:** instantânea.
 
 ___
-___
 Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de batalha. Criaturas na área sofrem 4d8 pontos de dano de luz (ou 4d12, se forem mortos-vivos) e ficam ofuscadas por uma rodada. Se passarem na resistência, sofrem metade do dano e não ficam ofuscadas. Truque: muda a duração para cena e a resistência para nenhuma. Em vez do normal, cria um facho de luz que ilumina a área da magia. Uma vez por rodada, você pode mudar a direção do facho como uma ação livre.
 
 ### Ray of Sickness <span class="spell-tags"></span>
 *1st Circle*
 - **Casting time:** 1 Action.
 
-___
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
@@ -2557,7 +2517,6 @@ The target’s severed body members (fingers, legs, tails, and so on), if any, a
 - **Alcance:** 20sqr;
 - **Duração:** instantânea.
 
-___
 ___
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
@@ -2582,7 +2541,6 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 - **Duração:** 8 Horas..
 
 ___
-___
 As you cast this spell, you use the rope to create a circle with a 5-foot radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
 ### Soco de Arsenal <span class="spell-tags"></span>
@@ -2592,7 +2550,6 @@ As you cast this spell, you use the rope to create a circle with a 5-foot radius
 - **Duração:** instantânea.
 
 ___
-___
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
 ### Sopro da Salvação <span class="spell-tags"></span>
@@ -2601,7 +2558,6 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **Duração:** instantânea.
 
 ___
-___
 Você enche seus pulmões de energia positiva e sopra um cone de poeira reluzente. O sopro afeta apenas seus aliados na área, curando 2d8+4 pontos de vida e removendo uma das seguintes condições de todos os alvos abalado, atordoado, apavorado, alquebrado, cego, confuso, debilitado, enjoado, esmorecido, exausto, fascinado, fatigado, fraco, frustrado, lento, paralisado, pasmo e surdo.
 
 ### Sopro das Uivantes <span class="spell-tags"></span>
@@ -2609,7 +2565,6 @@ Você enche seus pulmões de energia positiva e sopra um cone de poeira reluzent
 - **Alcance:** 4sqr;
 - **Duração:** instantânea.
 
-___
 ___
 Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à metade). Criaturas de tamanho Médio ou menor que falhem na resistência são empurradas 6m na direção oposta. Se houver uma parede ou outro objeto sólido (mas não uma criatura) no caminho, a criatura para de se mover, mas sofre 1d6 pontos de dano de impacto.
 
@@ -2627,7 +2582,6 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea..
 
-___
 ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
@@ -2653,7 +2607,6 @@ You point at one creature you can see within range, and the sound of a dolorous 
 - **Duração:** instantânea.
 
 ___
-___
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
 ### Toque Vampírico <span class="spell-tags"></span>
@@ -2662,7 +2615,6 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea.
 
-___
 ___
 Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Você recupera pontos de vida iguais à metade do dano causado (se causou algum dano).
 
@@ -2674,7 +2626,6 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 - **Duração:** cena.
 
 ___
-___
 Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitude mudada para indiferente e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior, de acordo com o mestre).
 
 ### Transformação de Guerra <span class="spell-tags"></span>
@@ -2684,7 +2635,6 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **Duração:** sustentada.
 
 ___
-___
 Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
 
 ### Web <span class="spell-tags"></span>
@@ -2692,7 +2642,6 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 - **Alcance:** 12sqr;
 - **Duração:** cena..
 
-___
 ___
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
