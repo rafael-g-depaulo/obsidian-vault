@@ -7,7 +7,6 @@ Here's a list of all of the errors found.
 - [[Caminhos da Natureza]] Spell should have either "wip" or "spell" tag
 - [[Campo de Força]] Spell should have either "wip" or "spell" tag
 - [[Camuflagem ilusória]] Spell should have either "wip" or "spell" tag
-- [[Canhão de Ervilha]] Spell should have either "wip" or "spell" tag
 - [[Contagion]] Spell should have either "wip" or "spell" tag
 - [[Controlar Plantas]] Spell should have either "wip" or "spell" tag
 - [[Dawn]] Spell should have either "wip" or "spell" tag

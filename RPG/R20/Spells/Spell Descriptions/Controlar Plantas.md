@@ -1,3 +1,4 @@
+#spell #plant #wild #enchantment #trickery 
 ### Controlar Plantas
 *1º Círculo*
 ___

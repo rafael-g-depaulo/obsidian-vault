@@ -1,3 +1,4 @@
+#spell #wild #summon #enchantment #trickery 
 ### Caminhos da Natureza
 *1º Círculo*
 ___

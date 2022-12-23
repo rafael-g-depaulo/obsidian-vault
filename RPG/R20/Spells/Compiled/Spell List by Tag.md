@@ -77,6 +77,23 @@
 - [[Infligir Ferimentos]]
 - [[Perdição]]
 
+## Summon Spells
+### 1st Circle
+- [[Canhão de Ervilha]]
+
+## Plant Spells
+### Cantrip
+- [[Thorn Whip]]
+### 1st Circle
+- [[Canhão de Ervilha]]
+
+## Wild Spells
+### Cantrip
+- [[Primal Savagery]]
+- [[Thorn Whip]]
+### 1st Circle
+- [[Canhão de Ervilha]]
+
 ## Cold Spells
 ### Cantrip
 - [[Chill Touch]]
@@ -166,11 +183,6 @@
 ### Cantrip
 - [[Poison Spray]]
 
-## Wild Spells
-### Cantrip
-- [[Primal Savagery]]
-- [[Thorn Whip]]
-
 ## Feral Spells
 ### Cantrip
 - [[Primal Savagery]]
@@ -179,10 +191,6 @@
 ### 1st Circle
 - [[Teia]]
 - [[Área Escorregadia]]
-
-## Plant Spells
-### Cantrip
-- [[Thorn Whip]]
 
 ## Lighning Spells
 ### 1st Circle

@@ -784,6 +784,7 @@ List of spells available for a Plantomancer to learn.
 
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Canhão de Ervilha]]
 - [[Curar Ferimentos]]
 - [[Escudo]]
 - [[Healing Word]]
@@ -2142,7 +2143,7 @@ ___
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
 ### Canhão de Ervilha
-  <div class="spell-tags"></div>
+  <div class="spell-tags">summon plant wild</div>
 
 *1st Circle*
 - **Casting time:** padrão;

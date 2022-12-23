@@ -1,3 +1,4 @@
+#spell #summon #plant #wild
 ### Canhão de Ervilha
 *1º Círculo*
 ___

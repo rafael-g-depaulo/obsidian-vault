@@ -22,6 +22,7 @@ const tagSpellListsFile = 'Spell List by Tag.md'
 const compiledClassSpellList = (classname: string) =>
   `${classname} Spell List.md`
 const rootRulesFile = 'index.md'
+const allSpellsFile = 'All Spells List.md'
 const rulebookFile = 'R20 - rulebook.md'
 
 // read, analyse and compile stuff
@@ -37,6 +38,12 @@ const compileSpells = async () => {
     .then(dealWithErrors(ResultsFolder, errorsFile))
   // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
 
+  // write all spells
+  writeToFile(
+    ResultsFolder,
+    allSpellsFile,
+    makeSpellListString(allSpells, 'All')
+  )
   // create tag spell lists
   writeTagSpellLists(ResultsFolder, tagSpellListsFile)(allSpells)
 

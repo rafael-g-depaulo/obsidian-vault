@@ -8,6 +8,7 @@
 
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Canhão de Ervilha]]
 - [[Curar Ferimentos]]
 - [[Escudo]]
 - [[Healing Word]]

@@ -30,18 +30,16 @@ by nature:
 	- #holy (sunlight, radiant, cleric stuff)
 - #arcane
 	- #transmutation
-	- #ilusion
 	- #divination 
-	- #abjuration (shields and some self-buffs)
 	- #creation
 - #trickery
 	- #ilusion
 	- #divination (also all communication stuff)
 	- #enchantment
-- #chronomancy
-- #evocation
-
-by damage type:
+- #thaumaturgy
+	- #chronomancy
+	- #evocation
+	- #abjuration
 - #energy (fire+ice+lighning)
 	- #fire
 	- #lighning

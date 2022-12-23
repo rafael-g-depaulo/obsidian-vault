@@ -1,10 +1,11 @@
+#spell #divination #feral #wild #trickery 
 ### Detectar Ameaças
 *1º Círculo*
 ___
 - **Casting time:** padrão
 - **Alcance:** pessoal;
-Área: esfera de 9m de raio;
-Duração: instantânea.
+- **Área:** esfera de 9m de raio;
+- **Duração:** instantânea.
 
 Você percebe a presença e a localização de criaturas inamistosas ou hostis na área, mesmo através de barreiras físicas.
 
