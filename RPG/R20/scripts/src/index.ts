@@ -14,7 +14,7 @@ const baseDir = join(__dirname, '../../')
 const ClassesFolder = join(baseDir, 'Classes')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
-const SpellResultsFolder = join(SpellsFolder, 'Compiled')
+const ResultsFolder = join(baseDir, 'Compiled')
 
 const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
@@ -35,17 +35,17 @@ const compileSpells = async () => {
   // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
-    .then(dealWithErrors(SpellResultsFolder, errorsFile))
+    .then(dealWithErrors(ResultsFolder, errorsFile))
   // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
 
   // write all spells
   writeToFile(
-    SpellResultsFolder,
+    ResultsFolder,
     allSpellsFile,
     makeSpellListString(allSpells, 'All')
   )
   // create tag spell lists
-  writeTagSpellLists(SpellResultsFolder, tagSpellListsFile)(allSpells)
+  writeTagSpellLists(ResultsFolder, tagSpellListsFile)(allSpells)
 
   // create spell lists for classes
   const classFilenames = await listFiles(ClassesFolder)
@@ -69,11 +69,7 @@ const compileSpells = async () => {
       spellList: makeSpellListString(spells, classname),
     }))
     .map(({ classname, spellList }) =>
-      writeToFile(
-        SpellResultsFolder,
-        compiledClassSpellList(classname),
-        spellList
-      )
+      writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
     )
 
   // compile all rules
@@ -81,7 +77,9 @@ const compileSpells = async () => {
     currentFolder: baseDir,
     classesFolder: ClassesFolder,
     allSpells,
-  }).then(compiledRules => writeToFile(baseDir, rulebookFile, compiledRules))
+  }).then(compiledRules =>
+    writeToFile(ResultsFolder, rulebookFile, compiledRules)
+  )
 }
 
 // run everything
@@ -89,5 +87,3 @@ compileSpells()
 
 // TODO: add in compiled tag spell lists
 // TODO: remove wip automatically (maybe not needed?)
-// TODO: add replacer for {{global-spell-list}}
-// TODO: add replacer for all spells in alphabetic order
