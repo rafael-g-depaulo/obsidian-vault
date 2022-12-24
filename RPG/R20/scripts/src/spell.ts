@@ -25,21 +25,17 @@ export const getSpellname = (filename: string) => filename.replace(/.md$/, '')
 
 const getSpellLevel = (content: string) => {
   if (
-    /^\*(?:Truque|Cantrip) \((?:Truque|Cantrip)\)|^\*Cantrip\*|^\*Truque\*/gim.test(
+    /^[\*_](?:Truque|Cantrip) \((?:Truque|Cantrip)\)|^[\*_]Cantrip[\*_]|^[\*_]Truque[\*_]/gim.test(
       content
     )
   )
     return 0
 
   const matchedLevel =
-    /^\*(\d+)[\wªº]* (?:Circle|Círculo)\*/gim.exec(content) ??
-    /- \*\*Level.*\*\*\s*(\d+)/gim.exec(content)
+    /^[\*_](\d+)[\wªº]* (?:Circle|Círculo)[\*_]/gim.exec(content) ??
+    /- [\*_][\*_]Level.*[\*_][\*_]\s*(\d+)/gim.exec(content)
 
-  if (!matchedLevel || !matchedLevel[1]) {
-    return -1
-  }
-
-  return parseInt(matchedLevel[1])
+  return parseInt(matchedLevel?.[1] ?? '-1')
 }
 
 const spellDescriptionLabelsRegex: { [key in SpellDescriptionItems]: RegExp } =
