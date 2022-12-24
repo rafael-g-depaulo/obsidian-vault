@@ -808,6 +808,7 @@ List of spells available for a Plantomancer to learn.
 - [[Web]]
 
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]
@@ -2156,7 +2157,7 @@ ___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
 
 ### Campo de Força
-  <div class="spell-tags"></div>
+  <div class="spell-tags">abjuration</div>
 
 *3rd Circle*
 - **Alcance:** pessoal;
@@ -2167,7 +2168,7 @@ ___
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
 ### Camuflagem ilusória
-  <div class="spell-tags"></div>
+  <div class="spell-tags">ilusion trickery</div>
 
 *3rd Circle*
 - **Alcance:** toque;

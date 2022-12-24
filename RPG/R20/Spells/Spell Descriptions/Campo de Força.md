@@ -1,3 +1,4 @@
+#spell #abjuration 
 ### Campo de Força
 *3º Círculo*
 ___

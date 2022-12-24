@@ -1,3 +1,4 @@
+#spell #ilusion #trickery 
 ### Camuflagem ilusória
 *3º Círculo*
 ___

@@ -1,10 +1,24 @@
 # Compiling Errors
 Here's a list of all of the errors found.
 
+## Tag Group Hierarchy
+- [[Abençoar Alimentos]] Spell has tag "plant" but is missing it's group tag "wild"
+- [[Acid Splash]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy"
+- [[Campo de Força]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy"
+- [[Concentração de Combate]] Spell has tag "chronomancy" but is missing it's group tag "thaumaturgy"
+- [[Detectar Ameaças]] Spell has tag "divination" but is missing it's group tag "arcane"
+- [[Escudo]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy"
+- [[Explosão de chamas]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy"
+- [[Flecha Ácida]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy"
+- [[Life Transference]] Spell has tag "recovery" but is missing it's group tag "sacred"
+- [[Luz]] Spell has tag "holy" but is missing it's group tag "sacred"
+- [[Poison Spray]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy"
+- [[Soco de Arsenal]] Spell has tag "unholy" but is missing it's group tag "occult"
+- [[Thunderwave]] Spell has tag "lighning" but is missing it's group tag "energy"
+- [[Toque Chocante]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy"
+
 ## Spell Tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
-- [[Campo de Força]] Spell should have either "wip" or "spell" tag
-- [[Camuflagem ilusória]] Spell should have either "wip" or "spell" tag
 - [[Contagion]] Spell should have either "wip" or "spell" tag
 - [[Dawn]] Spell should have either "wip" or "spell" tag
 - [[Desintegrar]] Spell should have either "wip" or "spell" tag
@@ -23,4 +37,3 @@ Here's a list of all of the errors found.
 - [[Regenerate]] Spell should have either "wip" or "spell" tag
 - [[Revivify]] Spell should have either "wip" or "spell" tag
 - [[Sopro da Salvação]] Spell should have either "wip" or "spell" tag
-- [[Toll the Dead]] Spell should have either "wip" or "spell" tag

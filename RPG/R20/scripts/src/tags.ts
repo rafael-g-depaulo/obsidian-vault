@@ -1,4 +1,5 @@
 import { readFile, writeToFile } from './file'
+import { matchAllGroups, matchGroups } from './regexUtils'
 import { Spell } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
 import { isNotNull } from './typeUtils'
@@ -10,25 +11,28 @@ type TagMap = {
   [spellname: string]: string[]
 }
 
+// TODO: maybe add option to understand groups beyond 1 level?
 export type TagGroups = { group: string; tags: string[] }[]
-export const parseTagGroups = (tagGroupsMarkdown: string): TagGroups => {
-  const tagGroupRegex = /^- #(?<group>\w+)\n(?<tags>(?:^\t- #\w+.*\n)+)/gm
-  const tagGroupItemRegex = /^\t- #(\w+)/
-
-  const groups = [...tagGroupsMarkdown.matchAll(tagGroupRegex)]
-    .map(r => r.groups as { group: string; tags: string })
-    .filter(isNotNull)
-    .map(({ group, tags }) => ({
-      group,
-      tags: tags
-        .split('\n')
-        .map(s => s.match(tagGroupItemRegex))
-        .filter(isNotNull)
-        .map(result => result[1]),
+const tagGroupItemRegex = /^(?<position>[ \t]*)- #(?<tagName>\w+)/
+export const parseTagGroups = (tagGroupsMarkdown: string): TagGroups =>
+  tagGroupsMarkdown
+    .split('\n')
+    .filter(line => /^ *- #\w+/.test(line))
+    .map(tagLine => matchGroups(tagLine, tagGroupItemRegex))
+    .map(({ position, tagName }) => ({
+      tagName,
+      isParent: position.length === 0,
     }))
+    .reduce<TagGroups>((acc, cur) => {
+      if (acc.length === 0 || cur.isParent)
+        return [...acc, { group: cur.tagName, tags: [] }]
 
-  return groups
-}
+      const oldGroups = acc.slice(0, acc.length - 1)
+      const currentGroup = acc[acc.length - 1]
+      currentGroup.tags.push(cur.tagName)
+
+      return [...oldGroups, currentGroup]
+    }, [])
 
 export const createTagMap = async (spells: Spell[]): Promise<TagMap> => {
   return spells.reduce((acc, { name, tags }) => ({ ...acc, [name]: tags }), {})

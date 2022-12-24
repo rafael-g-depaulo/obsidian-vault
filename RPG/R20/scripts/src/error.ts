@@ -32,6 +32,9 @@ const hasSpellOrWipTag: ErrorCheck = spell =>
 const obeysTagGroupHierarchy =
   (hierarchy: TagGroups): ErrorCheck =>
   spell => {
+    if (spell.name === 'Campo de Força') {
+      console.log('!!!', spell.tags, hierarchy)
+    }
     return hierarchy
       .filter(
         ({ group, tags }) =>

@@ -12,6 +12,7 @@
 - [[Web]]
 
 ### 3rd Circle
+- [[Camuflagem ilusória]]
 - [[Físico Divino]]
 - [[Invisibilidade]]
 - [[Life Transference]]

@@ -218,8 +218,30 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
+- [[Camuflagem ilusória]]
 - [[Invisibilidade]]
 - [[Oração]]
+### -1th Circle
+- [[Escuridão]]
+
+## Abjuration Spells
+### 1st Circle
+- [[Escudo]]
+- [[Imagem Espelhada]]
+### 3rd Circle
+- [[Campo de Força]]
+### 5th Circle
+- [[Transformação de Guerra]]
+
+## Ilusion Spells
+### 1st Circle
+- [[Imagem Espelhada]]
+- [[Luz]]
+- [[Snare]]
+- [[Snare]]
+### 3rd Circle
+- [[Camuflagem ilusória]]
+- [[Invisibilidade]]
 ### -1th Circle
 - [[Escuridão]]
 
@@ -316,24 +338,6 @@
 ## Earth Spells
 ### 1st Circle
 - [[Earth Tremor]]
-
-## Abjuration Spells
-### 1st Circle
-- [[Escudo]]
-- [[Imagem Espelhada]]
-### 5th Circle
-- [[Transformação de Guerra]]
-
-## Ilusion Spells
-### 1st Circle
-- [[Imagem Espelhada]]
-- [[Luz]]
-- [[Snare]]
-- [[Snare]]
-### 3rd Circle
-- [[Invisibilidade]]
-### -1th Circle
-- [[Escuridão]]
 
 ## Fire Spells
 ### 1st Circle

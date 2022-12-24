@@ -1,4 +1,4 @@
-#occult #unholy #decay #necrotic
+#spell #occult #unholy #decay #necrotic
 
 ### Toll the Dead
 
