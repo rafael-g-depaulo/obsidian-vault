@@ -3,5 +3,6 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "obsidian-git",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-shellcommands"
 ]
