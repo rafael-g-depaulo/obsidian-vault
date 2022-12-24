@@ -1,11 +1,7 @@
 #spell #boost #sacred #chronomancy
-
 ### Concentração de Combate
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** livre
 - **Alcance:** pessoal
 - **Alvo:** você

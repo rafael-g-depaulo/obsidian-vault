@@ -813,33 +813,6 @@ List of spells available for a Plantomancer to learn.
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
 
-##### Cantrips (Circle 0) 
-- [[Thorn Whip]]
-- [[Primal Savagery]]
-- [[Magic Stone]]
-- [[Acid Splash]]
-- [[Poison Spray]]
-
-##### 1st Circle
-- [[Poison Spray]]
-- [[Detect Poison and Disease]]
-- [[Goodberry]]
-- [[Snare]]
-- [[Área Escorregadia]]
-- [[Enfeitiçar]]
-- [[Entangle]]
-- [[Sleep]]
-- [[Thunderwave]]
-- [[Fog Cloud]]
-- [[Ray of Sickness]]
-- [[Earth Tremor]]
-- [[Abençoar Alimentos]]
-- [[Detectar Ameaças]]
-- [[Caminhos da Natureza]]
-- [[Tranquilidade]]
-- [[Canhão de Ervilha]]
-- [[Luz]]
-- [[Controlar Plantas]]
 
 {{pageNumber,auto}}
 \page
@@ -1020,6 +993,45 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
 - *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
+
+### Spell List
+List of spells available for a Spelgard to learn.
+
+##  Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Poison Spray]]
+
+### 1st Circle
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
+- [[Concentração de Combate]]
+- [[Curar Ferimentos]]
+- [[Detect Poison and Disease]]
+- [[Escudo]]
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Healing Word]]
+- [[Primor Atlético]]
+- [[Ray of Sickness]]
+- [[Toque Chocante]]
+
+### 2nd Circle
+- [[Aid]]
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Mass Healing Word]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
+
+### 5th Circle
+- [[Transformação de Guerra]]
 {{pageNumber,auto}}
 \page
 # Warrior
@@ -1892,18 +1904,18 @@ by nature:
   - #unholy (warlock stuff)
   - #necromancy
 - #sacred
-  - #recovery
+  - #recovery (heals)
   - #boost
   - #holy (sunlight, radiant, cleric stuff)
 - #arcane
   - #transmutation
-  - #divination
+  - #divination (also all communication stuff)
   - #creation
 - #trickery
   - #ilusion
   - #divination (also all communication stuff)
   - #enchantment
-- #thaumaturgy
+- #thaumaturgy (general attack stuff + defense and time magic)
   - #chronomancy
   - #evocation
   - #abjuration
@@ -1936,6 +1948,7 @@ by nature:
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Chill Touch]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Primal Savagery]]
@@ -1943,8 +1956,12 @@ by nature:
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
@@ -1953,13 +1970,16 @@ by nature:
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[Escudo]]
 - [[Explosão de chamas]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
+- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
@@ -1970,6 +1990,7 @@ by nature:
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Aid]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 - [[Web]]
@@ -2016,19 +2037,10 @@ by nature:
 - [[Regenerate]]
 
 ### -1th Circle
-- [[Aid]]
-- [[Arma Mágica]]
 - [[Bane]]
-- [[Bless]]
-- [[Bênção]]
-- [[Chill Touch]]
-- [[Concentração de Combate]]
-- [[Escudo]]
 - [[Escuridão]]
-- [[Guiding Bolt]]
 - [[Infligir Ferimentos]]
 - [[Perdição]]
-- [[Primor Atlético]]
 - [[Toll the Dead]]
 
 {{pageNumber,auto}}
@@ -2062,7 +2074,7 @@ Choose one creature within range, or choose two creatures within range that are 
 ### Aid
   <div class="spell-tags">boost sacred</div>
 
-*-1th Circle*
+*2nd Circle*
 - **Casting time:** 1 Action.
 
 ___
@@ -2084,7 +2096,7 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 ### Arma Mágica
   <div class="spell-tags">arcane transmutation boost sacred</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** toque;
 - **Duração:** cena.
 
@@ -2103,7 +2115,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 ### Bênção
   <div class="spell-tags">boost sacred</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** 6sqr;
 - **Alvo:** criaturas escolhidas;
 - **Duração:** concentração.
@@ -2125,7 +2137,7 @@ When a creature enters the wall’s area for the first time on a turn or starts 
 ### Bless
   <div class="spell-tags">boost sacred</div>
 
-*-1th Circle*
+*1st Circle*
 - **Casting time:** 1 Action.
 
 ___
@@ -2179,7 +2191,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 ### Chill Touch
   <div class="spell-tags">cold energy unholy occult</div>
 
-*-1th Circle*
+*Cantrip*
 - **Alcance:** 18m (12 quadrados de 1,5m);
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
@@ -2192,7 +2204,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 ### Concentração de Combate
   <div class="spell-tags">boost sacred chronomancy</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** pessoal;
 - **Alvo:** você;
 - **Duração:** 1 rodada..
@@ -2324,7 +2336,7 @@ When the spell ends, the conjured plants wilt away.
 ### Escudo
   <div class="spell-tags">boost sacred abjuration arcane</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** 1 turno..
@@ -2428,7 +2440,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire energy</div>
 
-*-1th Circle*
+*1st Circle*
 - **Casting time:** 1 Action.
 
 ___
@@ -2691,7 +2703,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 ### Primor Atlético
   <div class="spell-tags">boost sacred transmutation arcane</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..

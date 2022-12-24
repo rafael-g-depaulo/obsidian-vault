@@ -30,18 +30,18 @@ by nature:
   - #unholy (warlock stuff)
   - #necromancy
 - #sacred
-  - #recovery
+  - #recovery (heals)
   - #boost
   - #holy (sunlight, radiant, cleric stuff)
 - #arcane
   - #transmutation
-  - #divination
+  - #divination (also all communication stuff)
   - #creation
 - #trickery
   - #ilusion
   - #divination (also all communication stuff)
   - #enchantment
-- #thaumaturgy
+- #thaumaturgy (general attack stuff + defense and time magic)
   - #chronomancy
   - #evocation
   - #abjuration

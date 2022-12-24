@@ -2,6 +2,7 @@
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Chill Touch]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Primal Savagery]]
@@ -9,8 +10,12 @@
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
@@ -19,13 +24,16 @@
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[Escudo]]
 - [[Explosão de chamas]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
+- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
@@ -36,6 +44,7 @@
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Aid]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 - [[Web]]
@@ -82,17 +91,8 @@
 - [[Regenerate]]
 
 ### -1th Circle
-- [[Aid]]
-- [[Arma Mágica]]
 - [[Bane]]
-- [[Bless]]
-- [[Bênção]]
-- [[Chill Touch]]
-- [[Concentração de Combate]]
-- [[Escudo]]
 - [[Escuridão]]
-- [[Guiding Bolt]]
 - [[Infligir Ferimentos]]
 - [[Perdição]]
-- [[Primor Atlético]]
 - [[Toll the Dead]]

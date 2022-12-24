@@ -2,6 +2,7 @@
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Detect Poison and Disease]]
+- [[Guiding Bolt]]
 - [[Luz]]
 ### 2nd Circle
 - [[Lesser Restoration]]
@@ -9,16 +10,22 @@
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Raio Solar]]
-### -1th Circle
-- [[Guiding Bolt]]
 
 ## Sacred Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
+- [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Escudo]]
+- [[Guiding Bolt]]
 - [[Healing Word]]
+- [[Primor Atlético]]
 ### 2nd Circle
+- [[Aid]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 ### 3rd Circle
@@ -28,15 +35,6 @@
 - [[Raio Solar]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Aid]]
-- [[Arma Mágica]]
-- [[Bless]]
-- [[Bênção]]
-- [[Concentração de Combate]]
-- [[Escudo]]
-- [[Guiding Bolt]]
-- [[Primor Atlético]]
 
 ## Plant Spells
 ### Cantrip
@@ -82,27 +80,31 @@
 - [[Relâmpago]]
 
 ## Boost Spells
-### 3rd Circle
-- [[Físico Divino]]
-- [[Oração]]
-### 5th Circle
-- [[Transformação de Guerra]]
-### -1th Circle
-- [[Aid]]
+### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
 - [[Bênção]]
 - [[Concentração de Combate]]
 - [[Escudo]]
 - [[Primor Atlético]]
+### 2nd Circle
+- [[Aid]]
+### 3rd Circle
+- [[Físico Divino]]
+- [[Oração]]
+### 5th Circle
+- [[Transformação de Guerra]]
 
 ## Arcane Spells
 ### Cantrip
 - [[Magic Stone]]
 ### 1st Circle
+- [[Arma Mágica]]
 - [[Earth Tremor]]
+- [[Escudo]]
 - [[Fog Cloud]]
 - [[Luz]]
+- [[Primor Atlético]]
 - [[Teia]]
 - [[Thunderwave]]
 - [[Área Escorregadia]]
@@ -115,24 +117,19 @@
 - [[Sopro das Uivantes]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Arma Mágica]]
-- [[Escudo]]
-- [[Primor Atlético]]
 
 ## Transmutation Spells
 ### Cantrip
 - [[Magic Stone]]
 ### 1st Circle
+- [[Arma Mágica]]
 - [[Earth Tremor]]
+- [[Primor Atlético]]
 - [[Thunderwave]]
 ### 3rd Circle
 - [[Físico Divino]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Arma Mágica]]
-- [[Primor Atlético]]
 
 ## Curse Spells
 ### 1st Circle
@@ -147,6 +144,8 @@
 - [[Perdição]]
 
 ## Occult Spells
+### Cantrip
+- [[Chill Touch]]
 ### 1st Circle
 - [[Fog Cloud]]
 - [[Ray of Sickness]]
@@ -159,7 +158,6 @@
 - [[Toque Vampírico]]
 ### -1th Circle
 - [[Bane]]
-- [[Chill Touch]]
 - [[Escuridão]]
 - [[Infligir Ferimentos]]
 - [[Perdição]]
@@ -226,23 +224,25 @@
 - [[Escuridão]]
 
 ## Cold Spells
+### Cantrip
+- [[Chill Touch]]
 ### 3rd Circle
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Chill Touch]]
 
 ## Energy Spells
+### Cantrip
+- [[Chill Touch]]
 ### 1st Circle
 - [[Explosão de chamas]]
+- [[Guiding Bolt]]
 - [[Toque Chocante]]
 ### 3rd Circle
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Chill Touch]]
-- [[Guiding Bolt]]
 
 ## Unholy Spells
+### Cantrip
+- [[Chill Touch]]
 ### 1st Circle
 - [[Fog Cloud]]
 ### 3rd Circle
@@ -250,13 +250,12 @@
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 ### -1th Circle
-- [[Chill Touch]]
 - [[Escuridão]]
 - [[Infligir Ferimentos]]
 - [[Toll the Dead]]
 
 ## Chronomancy Spells
-### -1th Circle
+### 1st Circle
 - [[Concentração de Combate]]
 
 ## Recovery Spells
@@ -320,11 +319,10 @@
 
 ## Abjuration Spells
 ### 1st Circle
+- [[Escudo]]
 - [[Imagem Espelhada]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Escudo]]
 
 ## Ilusion Spells
 ### 1st Circle
@@ -340,7 +338,6 @@
 ## Fire Spells
 ### 1st Circle
 - [[Explosão de chamas]]
-### -1th Circle
 - [[Guiding Bolt]]
 
 ## Creation Spells

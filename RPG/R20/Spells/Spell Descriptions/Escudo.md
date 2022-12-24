@@ -1,11 +1,7 @@
 #spell #boost #sacred #abjuration #arcane
-
 ### Escudo
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** reação
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura
