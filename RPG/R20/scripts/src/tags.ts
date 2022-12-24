@@ -43,6 +43,7 @@ export const writeTagSpellLists =
     const tagMap = createTagSpellMap(spells)
 
     const tagSpellListsContent = Object.keys(tagMap)
+      .sort((a, b) => a.localeCompare(b))
       .map(tag => makeTagSpellList(tag, tagMap[tag]))
       .join('\n\n')
 

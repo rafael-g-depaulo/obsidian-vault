@@ -1,3 +1,169 @@
+## Abjuration Spells
+### 1st Circle
+- [[Escudo]]
+- [[Imagem Espelhada]]
+### 3rd Circle
+- [[Campo de Força]]
+### 5th Circle
+- [[Transformação de Guerra]]
+
+## Acid Spells
+### Cantrip
+- [[Acid Splash]]
+### 3rd Circle
+- [[Flecha Ácida]]
+
+## Arcane Spells
+### Cantrip
+- [[Magic Stone]]
+### 1st Circle
+- [[Arma Mágica]]
+- [[Detectar Ameaças]]
+- [[Earth Tremor]]
+- [[Escudo]]
+- [[Fog Cloud]]
+- [[Luz]]
+- [[Primor Atlético]]
+- [[Teia]]
+- [[Thunderwave]]
+- [[Área Escorregadia]]
+### 2nd Circle
+- [[Web]]
+### 3rd Circle
+- [[Campo de Força]]
+- [[Flecha Ácida]]
+- [[Flecha Ácida]]
+- [[Físico Divino]]
+- [[Soco de Arsenal]]
+- [[Sopro das Uivantes]]
+### 5th Circle
+- [[Transformação de Guerra]]
+
+## Boost Spells
+### 1st Circle
+- [[Arma Mágica]]
+- [[Bless]]
+- [[Bênção]]
+- [[Concentração de Combate]]
+- [[Escudo]]
+- [[Primor Atlético]]
+### 2nd Circle
+- [[Aid]]
+### 3rd Circle
+- [[Campo de Força]]
+- [[Físico Divino]]
+- [[Oração]]
+### 5th Circle
+- [[Transformação de Guerra]]
+
+## Chronomancy Spells
+### 1st Circle
+- [[Concentração de Combate]]
+
+## Cold Spells
+### Cantrip
+- [[Chill Touch]]
+### 3rd Circle
+- [[Sopro das Uivantes]]
+
+## Creation Spells
+### 1st Circle
+- [[Fog Cloud]]
+- [[Luz]]
+- [[Teia]]
+- [[Área Escorregadia]]
+### 2nd Circle
+- [[Web]]
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Soco de Arsenal]]
+- [[Sopro das Uivantes]]
+
+## Curse Spells
+### 1st Circle
+- [[Ray of Sickness]]
+- [[Sleep]]
+- [[Snare]]
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Oração]]
+### -1th Circle
+- [[Bane]]
+- [[Perdição]]
+
+## Decay Spells
+### Cantrip
+- [[Acid Splash]]
+- [[Poison Spray]]
+### 1st Circle
+- [[Ray of Sickness]]
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Life Transference]]
+- [[Toque Vampírico]]
+### -1th Circle
+- [[Infligir Ferimentos]]
+- [[Toll the Dead]]
+
+## Divination Spells
+### 1st Circle
+- [[Detectar Ameaças]]
+
+## Earth Spells
+### 1st Circle
+- [[Earth Tremor]]
+
+## Enchantment Spells
+### 1st Circle
+- [[Caminhos da Natureza]]
+- [[Controlar Plantas]]
+- [[Enfeitiçar]]
+- [[Sleep]]
+- [[Tranquilidade]]
+### 3rd Circle
+- [[Oração]]
+
+## Energy Spells
+### Cantrip
+- [[Chill Touch]]
+### 1st Circle
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Toque Chocante]]
+### 3rd Circle
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
+
+## Evocation Spells
+### Cantrip
+- [[Acid Splash]]
+- [[Poison Spray]]
+### 1st Circle
+- [[Explosão de chamas]]
+- [[Luz]]
+- [[Ray of Sickness]]
+- [[Toque Chocante]]
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+
+## Feral Spells
+### Cantrip
+- [[Primal Savagery]]
+### 1st Circle
+- [[Detectar Ameaças]]
+### 2nd Circle
+- [[Web]]
+### 3rd Circle
+- [[Físico Divino]]
+- [[Life Transference]]
+- [[Toque Vampírico]]
+
+## Fire Spells
+### 1st Circle
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+
 ## Holy Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
@@ -10,6 +176,112 @@
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Raio Solar]]
+
+## Ilusion Spells
+### 1st Circle
+- [[Imagem Espelhada]]
+- [[Luz]]
+- [[Snare]]
+- [[Snare]]
+### 3rd Circle
+- [[Camuflagem ilusória]]
+- [[Invisibilidade]]
+### -1th Circle
+- [[Escuridão]]
+
+## Lighning Spells
+### 1st Circle
+- [[Thunderwave]]
+- [[Toque Chocante]]
+### 3rd Circle
+- [[Relâmpago]]
+
+## Nature Spells
+### 1st Circle
+- [[Despedaçar]]
+- [[Earth Tremor]]
+- [[Fog Cloud]]
+- [[Healing Word]]
+- [[Thunderwave]]
+### 2nd Circle
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Sopro das Uivantes]]
+
+## Necromancy Spells
+### 3rd Circle
+- [[Life Transference]]
+
+## Necrotic Spells
+### 3rd Circle
+- [[Life Transference]]
+- [[Toque Vampírico]]
+### -1th Circle
+- [[Infligir Ferimentos]]
+- [[Toll the Dead]]
+
+## No-energy Spells
+### 1st Circle
+- [[Thunderwave]]
+
+## No-sacred Spells
+### 3rd Circle
+- [[Life Transference]]
+
+## No-wild Spells
+### 1st Circle
+- [[Abençoar Alimentos]]
+
+## Occult Spells
+### Cantrip
+- [[Chill Touch]]
+### 1st Circle
+- [[Fog Cloud]]
+- [[Ray of Sickness]]
+- [[Sleep]]
+- [[Snare]]
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Life Transference]]
+- [[Oração]]
+- [[Soco de Arsenal]]
+- [[Toque Vampírico]]
+### -1th Circle
+- [[Bane]]
+- [[Escuridão]]
+- [[Infligir Ferimentos]]
+- [[Perdição]]
+- [[Toll the Dead]]
+
+## Plant Spells
+### Cantrip
+- [[Thorn Whip]]
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Canhão de Ervilha]]
+- [[Controlar Plantas]]
+- [[Entangle]]
+- [[Goodberry]]
+
+## Poison Spells
+### Cantrip
+- [[Poison Spray]]
+### 1st Circle
+- [[Ray of Sickness]]
+
+## Recovery Spells
+### 1st Circle
+- [[Curar Ferimentos]]
+- [[Detect Poison and Disease]]
+- [[Healing Word]]
+### 2nd Circle
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Life Transference]]
+- [[Mass Healing Word]]
 
 ## Sacred Spells
 ### 1st Circle
@@ -38,52 +310,14 @@
 ### 5th Circle
 - [[Transformação de Guerra]]
 
-## Plant Spells
-### Cantrip
-- [[Thorn Whip]]
+## Summon Spells
 ### 1st Circle
-- [[Abençoar Alimentos]]
+- [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
-- [[Controlar Plantas]]
-- [[Entangle]]
+- [[Fog Cloud]]
 - [[Goodberry]]
-
-## No-wild Spells
-### 1st Circle
-- [[Abençoar Alimentos]]
-
-## Acid Spells
-### Cantrip
-- [[Acid Splash]]
 ### 3rd Circle
-- [[Flecha Ácida]]
-
-## Decay Spells
-### Cantrip
-- [[Acid Splash]]
-- [[Poison Spray]]
-### 1st Circle
-- [[Ray of Sickness]]
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Life Transference]]
-- [[Toque Vampírico]]
-### -1th Circle
-- [[Infligir Ferimentos]]
-- [[Toll the Dead]]
-
-## Evocation Spells
-### Cantrip
-- [[Acid Splash]]
-- [[Poison Spray]]
-### 1st Circle
-- [[Explosão de chamas]]
-- [[Luz]]
-- [[Ray of Sickness]]
-- [[Toque Chocante]]
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Relâmpago]]
+- [[Soco de Arsenal]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -104,49 +338,6 @@
 ### 5th Circle
 - [[Transformação de Guerra]]
 
-## Boost Spells
-### 1st Circle
-- [[Arma Mágica]]
-- [[Bless]]
-- [[Bênção]]
-- [[Concentração de Combate]]
-- [[Escudo]]
-- [[Primor Atlético]]
-### 2nd Circle
-- [[Aid]]
-### 3rd Circle
-- [[Campo de Força]]
-- [[Físico Divino]]
-- [[Oração]]
-### 5th Circle
-- [[Transformação de Guerra]]
-
-## Arcane Spells
-### Cantrip
-- [[Magic Stone]]
-### 1st Circle
-- [[Arma Mágica]]
-- [[Detectar Ameaças]]
-- [[Earth Tremor]]
-- [[Escudo]]
-- [[Fog Cloud]]
-- [[Luz]]
-- [[Primor Atlético]]
-- [[Teia]]
-- [[Thunderwave]]
-- [[Área Escorregadia]]
-### 2nd Circle
-- [[Web]]
-### 3rd Circle
-- [[Campo de Força]]
-- [[Flecha Ácida]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Soco de Arsenal]]
-- [[Sopro das Uivantes]]
-### 5th Circle
-- [[Transformação de Guerra]]
-
 ## Transmutation Spells
 ### Cantrip
 - [[Magic Stone]]
@@ -159,78 +350,6 @@
 - [[Físico Divino]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-
-## Curse Spells
-### 1st Circle
-- [[Ray of Sickness]]
-- [[Sleep]]
-- [[Snare]]
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Oração]]
-### -1th Circle
-- [[Bane]]
-- [[Perdição]]
-
-## Occult Spells
-### Cantrip
-- [[Chill Touch]]
-### 1st Circle
-- [[Fog Cloud]]
-- [[Ray of Sickness]]
-- [[Sleep]]
-- [[Snare]]
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Life Transference]]
-- [[Oração]]
-- [[Soco de Arsenal]]
-- [[Toque Vampírico]]
-### -1th Circle
-- [[Bane]]
-- [[Escuridão]]
-- [[Infligir Ferimentos]]
-- [[Perdição]]
-- [[Toll the Dead]]
-
-## Wild Spells
-### Cantrip
-- [[Primal Savagery]]
-- [[Thorn Whip]]
-### 1st Circle
-- [[Caminhos da Natureza]]
-- [[Canhão de Ervilha]]
-- [[Controlar Plantas]]
-- [[Detectar Ameaças]]
-- [[Entangle]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-### 2nd Circle
-- [[Web]]
-### 3rd Circle
-- [[Físico Divino]]
-- [[Life Transference]]
-- [[Soco de Arsenal]]
-- [[Toque Vampírico]]
-
-## Summon Spells
-### 1st Circle
-- [[Caminhos da Natureza]]
-- [[Canhão de Ervilha]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-### 3rd Circle
-- [[Soco de Arsenal]]
-
-## Enchantment Spells
-### 1st Circle
-- [[Caminhos da Natureza]]
-- [[Controlar Plantas]]
-- [[Enfeitiçar]]
-- [[Sleep]]
-- [[Tranquilidade]]
-### 3rd Circle
-- [[Oração]]
 
 ## Trickery Spells
 ### 1st Circle
@@ -254,44 +373,6 @@
 ### -1th Circle
 - [[Escuridão]]
 
-## Abjuration Spells
-### 1st Circle
-- [[Escudo]]
-- [[Imagem Espelhada]]
-### 3rd Circle
-- [[Campo de Força]]
-### 5th Circle
-- [[Transformação de Guerra]]
-
-## Ilusion Spells
-### 1st Circle
-- [[Imagem Espelhada]]
-- [[Luz]]
-- [[Snare]]
-- [[Snare]]
-### 3rd Circle
-- [[Camuflagem ilusória]]
-- [[Invisibilidade]]
-### -1th Circle
-- [[Escuridão]]
-
-## Cold Spells
-### Cantrip
-- [[Chill Touch]]
-### 3rd Circle
-- [[Sopro das Uivantes]]
-
-## Energy Spells
-### Cantrip
-- [[Chill Touch]]
-### 1st Circle
-- [[Explosão de chamas]]
-- [[Guiding Bolt]]
-- [[Toque Chocante]]
-### 3rd Circle
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
 ## Unholy Spells
 ### Cantrip
 - [[Chill Touch]]
@@ -306,21 +387,25 @@
 - [[Infligir Ferimentos]]
 - [[Toll the Dead]]
 
-## Chronomancy Spells
+## Wild Spells
+### Cantrip
+- [[Primal Savagery]]
+- [[Thorn Whip]]
 ### 1st Circle
-- [[Concentração de Combate]]
-
-## Recovery Spells
-### 1st Circle
-- [[Curar Ferimentos]]
-- [[Detect Poison and Disease]]
-- [[Healing Word]]
+- [[Caminhos da Natureza]]
+- [[Canhão de Ervilha]]
+- [[Controlar Plantas]]
+- [[Detectar Ameaças]]
+- [[Entangle]]
+- [[Fog Cloud]]
+- [[Goodberry]]
 ### 2nd Circle
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
+- [[Web]]
 ### 3rd Circle
+- [[Físico Divino]]
 - [[Life Transference]]
-- [[Mass Healing Word]]
+- [[Soco de Arsenal]]
+- [[Toque Vampírico]]
 
 ## Wind Spells
 ### 1st Circle
@@ -334,88 +419,3 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
-
-## Nature Spells
-### 1st Circle
-- [[Despedaçar]]
-- [[Earth Tremor]]
-- [[Fog Cloud]]
-- [[Healing Word]]
-- [[Thunderwave]]
-### 2nd Circle
-- [[Prayer of Healing]]
-### 3rd Circle
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Sopro das Uivantes]]
-
-## Divination Spells
-### 1st Circle
-- [[Detectar Ameaças]]
-
-## Feral Spells
-### Cantrip
-- [[Primal Savagery]]
-### 1st Circle
-- [[Detectar Ameaças]]
-### 2nd Circle
-- [[Web]]
-### 3rd Circle
-- [[Físico Divino]]
-- [[Life Transference]]
-- [[Toque Vampírico]]
-
-## Earth Spells
-### 1st Circle
-- [[Earth Tremor]]
-
-## Fire Spells
-### 1st Circle
-- [[Explosão de chamas]]
-- [[Guiding Bolt]]
-
-## Creation Spells
-### 1st Circle
-- [[Fog Cloud]]
-- [[Luz]]
-- [[Teia]]
-- [[Área Escorregadia]]
-### 2nd Circle
-- [[Web]]
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Soco de Arsenal]]
-- [[Sopro das Uivantes]]
-
-## Necrotic Spells
-### 3rd Circle
-- [[Life Transference]]
-- [[Toque Vampírico]]
-### -1th Circle
-- [[Infligir Ferimentos]]
-- [[Toll the Dead]]
-
-## Necromancy Spells
-### 3rd Circle
-- [[Life Transference]]
-
-## No-sacred Spells
-### 3rd Circle
-- [[Life Transference]]
-
-## Poison Spells
-### Cantrip
-- [[Poison Spray]]
-### 1st Circle
-- [[Ray of Sickness]]
-
-## Lighning Spells
-### 1st Circle
-- [[Thunderwave]]
-- [[Toque Chocante]]
-### 3rd Circle
-- [[Relâmpago]]
-
-## No-energy Spells
-### 1st Circle
-- [[Thunderwave]]
