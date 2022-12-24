@@ -5,6 +5,7 @@
 
 ### 1st Circle
 - [[Detectar Ameaças]]
+- [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Snare]]
 
@@ -17,6 +18,3 @@
 - [[Invisibilidade]]
 - [[Life Transference]]
 - [[Toque Vampírico]]
-
-### -1th Circle
-- [[Escuridão]]

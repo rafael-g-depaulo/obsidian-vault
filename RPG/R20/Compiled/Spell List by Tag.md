@@ -16,16 +16,21 @@
 ## Arcane Spells
 ### Cantrip
 - [[Magic Stone]]
+- [[Thorn Whip]]
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Concentração de Combate]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Escudo]]
+- [[Escudo]]
 - [[Fog Cloud]]
+- [[Guiding Bolt]]
 - [[Luz]]
 - [[Primor Atlético]]
 - [[Teia]]
 - [[Thunderwave]]
+- [[Toque Chocante]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Web]]
@@ -67,6 +72,8 @@
 - [[Sopro das Uivantes]]
 
 ## Creation Spells
+### Cantrip
+- [[Thorn Whip]]
 ### 1st Circle
 - [[Fog Cloud]]
 - [[Luz]]
@@ -81,29 +88,27 @@
 
 ## Curse Spells
 ### 1st Circle
+- [[Bane]]
+- [[Perdição]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Oração]]
-### -1th Circle
-- [[Bane]]
-- [[Perdição]]
 
 ## Decay Spells
 ### Cantrip
 - [[Acid Splash]]
 - [[Poison Spray]]
+- [[Toll the Dead]]
 ### 1st Circle
+- [[Infligir Ferimentos]]
 - [[Ray of Sickness]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Toque Vampírico]]
-### -1th Circle
-- [[Infligir Ferimentos]]
-- [[Toll the Dead]]
 
 ## Divination Spells
 ### 1st Circle
@@ -179,6 +184,7 @@
 
 ## Ilusion Spells
 ### 1st Circle
+- [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Snare]]
@@ -186,8 +192,6 @@
 ### 3rd Circle
 - [[Camuflagem ilusória]]
 - [[Invisibilidade]]
-### -1th Circle
-- [[Escuridão]]
 
 ## Lighning Spells
 ### 1st Circle
@@ -215,18 +219,21 @@
 - [[Life Transference]]
 
 ## Necrotic Spells
+### Cantrip
+- [[Toll the Dead]]
+### 1st Circle
+- [[Infligir Ferimentos]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Toque Vampírico]]
-### -1th Circle
-- [[Infligir Ferimentos]]
-- [[Toll the Dead]]
 
 ## No-energy Spells
 ### 1st Circle
 - [[Thunderwave]]
 
 ## No-sacred Spells
+### 1st Circle
+- [[Concentração de Combate]]
 ### 3rd Circle
 - [[Life Transference]]
 
@@ -237,8 +244,13 @@
 ## Occult Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Toll the Dead]]
 ### 1st Circle
+- [[Bane]]
+- [[Escuridão]]
 - [[Fog Cloud]]
+- [[Infligir Ferimentos]]
+- [[Perdição]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
@@ -248,12 +260,6 @@
 - [[Oração]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
-### -1th Circle
-- [[Bane]]
-- [[Escuridão]]
-- [[Infligir Ferimentos]]
-- [[Perdição]]
-- [[Toll the Dead]]
 
 ## Plant Spells
 ### Cantrip
@@ -289,7 +295,6 @@
 - [[Arma Mágica]]
 - [[Bless]]
 - [[Bênção]]
-- [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Escudo]]
@@ -311,6 +316,8 @@
 - [[Transformação de Guerra]]
 
 ## Summon Spells
+### Cantrip
+- [[Thorn Whip]]
 ### 1st Circle
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
@@ -358,6 +365,7 @@
 - [[Detectar Ameaças]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
@@ -370,22 +378,32 @@
 - [[Camuflagem ilusória]]
 - [[Invisibilidade]]
 - [[Oração]]
-### -1th Circle
-- [[Escuridão]]
 
 ## Unholy Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Toll the Dead]]
 ### 1st Circle
+- [[Escuridão]]
 - [[Fog Cloud]]
+- [[Infligir Ferimentos]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
-### -1th Circle
-- [[Escuridão]]
-- [[Infligir Ferimentos]]
-- [[Toll the Dead]]
+
+## Warmagic Spells
+### 1st Circle
+- [[Arma Mágica]]
+- [[Concentração de Combate]]
+- [[Detectar Ameaças]]
+- [[Escudo]]
+- [[Guiding Bolt]]
+- [[Primor Atlético]]
+- [[Toque Chocante]]
+### 3rd Circle
+- [[Campo de Força]]
+- [[Físico Divino]]
 
 ## Wild Spells
 ### Cantrip

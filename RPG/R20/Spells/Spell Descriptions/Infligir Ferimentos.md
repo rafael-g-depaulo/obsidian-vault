@@ -1,11 +1,7 @@
 #spell #unholy #occult #necrotic #decay
-
 ### Infligir Ferimentos
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** toque
 - **Alvo:** 1 criatura

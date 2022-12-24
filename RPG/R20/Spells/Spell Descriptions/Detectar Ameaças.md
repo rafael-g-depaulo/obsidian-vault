@@ -1,4 +1,4 @@
-#spell #divination #feral #wild #trickery  #arcane 
+#spell #divination #feral #wild #trickery  #arcane #warmagic 
 ### Detectar Ameaças
 *1º Círculo*
 ___

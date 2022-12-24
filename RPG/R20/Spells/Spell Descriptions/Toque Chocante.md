@@ -1,4 +1,4 @@
-#spell #lighning #energy #evocation #thaumaturgy 
+#spell #lighning #energy #evocation #thaumaturgy #warmagic #arcane 
 ### Toque Chocante
 *1º Círculo*
 ___

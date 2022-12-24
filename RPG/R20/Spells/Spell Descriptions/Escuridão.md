@@ -1,11 +1,7 @@
 #spell #occult #unholy #trickery #ilusion
-
 ### Escuridão
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvo:** 1 objeto

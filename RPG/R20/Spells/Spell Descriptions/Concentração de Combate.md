@@ -1,4 +1,4 @@
-#spell #boost #sacred #chronomancy #thaumaturgy 
+#spell #boost #no-sacred #chronomancy #thaumaturgy #warmagic #arcane 
 ### Concentração de Combate
 *1º Círculo*
 ___

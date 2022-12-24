@@ -1,4 +1,4 @@
-#spell #boost #sacred #feral #wild #transmutation #arcane
+#spell #boost #sacred #feral #wild #transmutation #arcane #warmagic
 ### Físico Divino
 *3º Círculo*
 ___

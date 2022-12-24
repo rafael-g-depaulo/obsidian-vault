@@ -1,9 +1,7 @@
 #spell #occult #unholy #decay #necrotic
-
 ### Toll the Dead
-
-_Cantrip_
-
+*Cantrip*
+___
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Duration:** Instantaneous

@@ -800,6 +800,7 @@ List of spells available for a Plantomancer to learn.
 - [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
+- [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
@@ -1910,7 +1911,7 @@ by nature:
   - #holy (sunlight, radiant, cleric stuff)
 - #arcane
   - #transmutation
-  - #divination (also all communication stuff)
+  - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
 - #trickery
   - #ilusion
@@ -1954,10 +1955,12 @@ by nature:
 - [[Poison Spray]]
 - [[Primal Savagery]]
 - [[Thorn Whip]]
+- [[Toll the Dead]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Arma Mágica]]
+- [[Bane]]
 - [[Bless]]
 - [[Bênção]]
 - [[Caminhos da Natureza]]
@@ -1972,14 +1975,17 @@ by nature:
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
+- [[Escuridão]]
 - [[Explosão de chamas]]
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
 - [[Luz]]
 - [[Mage Hand]]
+- [[Perdição]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
@@ -2037,13 +2043,6 @@ by nature:
 - [[Manto do Cruzado]]
 - [[Regenerate]]
 
-### -1th Circle
-- [[Bane]]
-- [[Escuridão]]
-- [[Infligir Ferimentos]]
-- [[Perdição]]
-- [[Toll the Dead]]
-
 {{pageNumber,auto}}
 \page
 # Spells
@@ -2095,7 +2094,7 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
 
 ### Arma Mágica
-  <div class="spell-tags">arcane transmutation boost sacred</div>
+  <div class="spell-tags">arcane transmutation boost sacred warmagic</div>
 
 *1st Circle*
 - **Alcance:** toque;
@@ -2107,7 +2106,7 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 ### Bane
   <div class="spell-tags">curse occult</div>
 
-*-1th Circle*
+*1st Circle*
 - **Casting time:** 1 Action.
 
 ___
@@ -2156,7 +2155,7 @@ ___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
 
 ### Campo de Força
-  <div class="spell-tags">abjuration thaumaturgy arcane boost sacred</div>
+  <div class="spell-tags">abjuration thaumaturgy arcane boost sacred warmagic</div>
 
 *3rd Circle*
 - **Alcance:** pessoal;
@@ -2203,7 +2202,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 {{pageNumber,auto}}
 \page
 ### Concentração de Combate
-  <div class="spell-tags">boost sacred chronomancy thaumaturgy</div>
+  <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
 
 *1st Circle*
 - **Alcance:** pessoal;
@@ -2290,7 +2289,7 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ### Detectar Ameaças
-  <div class="spell-tags">divination feral wild trickery arcane</div>
+  <div class="spell-tags">divination feral wild trickery arcane warmagic</div>
 
 *1st Circle*
 - **Casting time:** padrão;
@@ -2335,7 +2334,7 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 When the spell ends, the conjured plants wilt away.
 
 ### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy</div>
+  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic arcane</div>
 
 *1st Circle*
 - **Alcance:** 6sqr;
@@ -2348,7 +2347,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 ### Escuridão
   <div class="spell-tags">occult unholy trickery ilusion</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** 6sqr;
 - **Alvo:** 1 objeto;
 - **Duração:** cena.
@@ -2379,7 +2378,7 @@ The area of the storm consists of up to ten 10-foot cubes, which you can arrange
 The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
 ### Físico Divino
-  <div class="spell-tags">boost sacred feral wild transmutation arcane</div>
+  <div class="spell-tags">boost sacred feral wild transmutation arcane warmagic</div>
 
 *3rd Circle*
 - **Alcance:** toque;
@@ -2439,7 +2438,7 @@ ___
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one, or end one of the following effects on the target:
 
 ### Guiding Bolt
-  <div class="spell-tags">holy sacred fire energy</div>
+  <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
 
 *1st Circle*
 - **Casting time:** 1 Action.
@@ -2513,7 +2512,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea.
@@ -2653,7 +2652,7 @@ Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma est�
 ### Perdição
   <div class="spell-tags">curse occult</div>
 
-*-1th Circle*
+*1st Circle*
 - **Alcance:** 6sqr;
 - **Alvo:** criaturas escolhidas;
 - **Duração:** concentração.
@@ -2702,7 +2701,7 @@ ___
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d8 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 ### Primor Atlético
-  <div class="spell-tags">boost sacred transmutation arcane</div>
+  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
 
 *1st Circle*
 - **Alcance:** toque;
@@ -2826,7 +2825,7 @@ ___
 Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer criatura na área que falhar na resistência fica enredada. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. A área ocupada por Teia é terreno difícil. A Teia é inflamável. Qualquer ataque que cause dano de fogo destrói as teias por onde passar, libertando as criaturas enredadas mas deixando-as em chamas (veja Condições, no Apêndice).
 
 ### Thorn Whip
-  <div class="spell-tags">wild plant</div>
+  <div class="spell-tags">wild plant summon creation arcane</div>
 
 *Cantrip*
 - **Alcance:** 3m (2 quadrados de 1,5m);
@@ -2849,14 +2848,14 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 ### Toll the Dead
   <div class="spell-tags">occult unholy decay necrotic</div>
 
-*-1th Circle*
+*Cantrip*
 - **Casting time:** 1 Action.
 
 ___
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
 ### Toque Chocante
-  <div class="spell-tags">lighning energy evocation thaumaturgy</div>
+  <div class="spell-tags">lighning energy evocation thaumaturgy warmagic arcane</div>
 
 *1st Circle*
 - **Alcance:** toque;

@@ -24,6 +24,7 @@
 - [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
+- [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 

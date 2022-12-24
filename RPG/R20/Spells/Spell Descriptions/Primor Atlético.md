@@ -1,4 +1,4 @@
-#spell #boost #sacred #transmutation #arcane
+#spell #boost #sacred #transmutation #arcane #warmagic 
 ### Primor Atlético
 *1º Círculo*
 ___

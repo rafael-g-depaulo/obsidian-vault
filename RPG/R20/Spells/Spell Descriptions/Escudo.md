@@ -1,4 +1,4 @@
-#spell #boost #sacred #abjuration #arcane #thaumaturgy 
+#spell #boost #sacred #abjuration #arcane #thaumaturgy #warmagic #arcane 
 ### Escudo
 *1º Círculo*
 ___

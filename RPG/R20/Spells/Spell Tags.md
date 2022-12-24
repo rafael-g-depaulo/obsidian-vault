@@ -33,7 +33,7 @@ by nature:
   - #holy (sunlight, radiant, cleric stuff)
 - #arcane
   - #transmutation
-  - #divination (also all communication stuff)
+  - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
 - #trickery
   - #ilusion

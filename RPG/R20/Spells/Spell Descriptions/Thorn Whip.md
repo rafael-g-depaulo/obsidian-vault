@@ -1,4 +1,4 @@
-#spell #wild #plant
+#spell #wild #plant #summon #creation #arcane
 ### Thorn Whip
 *Cantrip (Truque)*
 ___
