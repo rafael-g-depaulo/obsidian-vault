@@ -14,7 +14,7 @@ const baseDir = join(__dirname, '../../')
 const ClassesFolder = join(baseDir, 'Classes')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
-const ResultsFolder = join(SpellsFolder, 'Compiled')
+const SpellResultsFolder = join(SpellsFolder, 'Compiled')
 
 const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
@@ -35,17 +35,17 @@ const compileSpells = async () => {
   // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
-    .then(dealWithErrors(ResultsFolder, errorsFile))
+    .then(dealWithErrors(SpellResultsFolder, errorsFile))
   // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
 
   // write all spells
   writeToFile(
-    ResultsFolder,
+    SpellResultsFolder,
     allSpellsFile,
     makeSpellListString(allSpells, 'All')
   )
   // create tag spell lists
-  writeTagSpellLists(ResultsFolder, tagSpellListsFile)(allSpells)
+  writeTagSpellLists(SpellResultsFolder, tagSpellListsFile)(allSpells)
 
   // create spell lists for classes
   const classFilenames = await listFiles(ClassesFolder)
@@ -69,7 +69,11 @@ const compileSpells = async () => {
       spellList: makeSpellListString(spells, classname),
     }))
     .map(({ classname, spellList }) =>
-      writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
+      writeToFile(
+        SpellResultsFolder,
+        compiledClassSpellList(classname),
+        spellList
+      )
     )
 
   // compile all rules
@@ -77,9 +81,7 @@ const compileSpells = async () => {
     currentFolder: baseDir,
     classesFolder: ClassesFolder,
     allSpells,
-  }).then(compiledRules =>
-    writeToFile(ResultsFolder, rulebookFile, compiledRules)
-  )
+  }).then(compiledRules => writeToFile(baseDir, rulebookFile, compiledRules))
 }
 
 // run everything

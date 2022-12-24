@@ -1,5 +1,10 @@
 ## Spelgard Spells
 
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Poison Spray]]
+
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
@@ -22,6 +27,7 @@
 
 ### 3rd Circle
 - [[Flecha Ácida]]
+- [[Físico Divino]]
 - [[Mass Healing Word]]
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]

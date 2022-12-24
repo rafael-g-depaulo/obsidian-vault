@@ -1026,6 +1026,7 @@ List of spells available for a Spelgard to learn.
 
 ### 3rd Circle
 - [[Flecha Ácida]]
+- [[Físico Divino]]
 - [[Mass Healing Word]]
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
