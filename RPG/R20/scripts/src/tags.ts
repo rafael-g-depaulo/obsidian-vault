@@ -1,8 +1,7 @@
-import { readFile, writeToFile } from './file'
-import { matchAllGroups, matchGroups } from './regexUtils'
+import { writeToFile } from './file'
+import { matchGroups } from './regexUtils'
 import { Spell } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
-import { isNotNull } from './typeUtils'
 
 export const getTags = (content: string) =>
   [...content.matchAll(/#(\w+)/gm)].map(([, tagName]) => tagName)

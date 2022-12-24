@@ -1,5 +1,6 @@
 import { groupBy } from './arrayUtils'
 import { deleteFile, writeToFile } from './file'
+import { matchGroups } from './regexUtils'
 import { Spell } from './spell'
 import { TagGroups } from './tags'
 import { ValidatedSpells } from './validateSpell'
@@ -29,17 +30,28 @@ const hasSpellOrWipTag: ErrorCheck = spell =>
         `Spell should have either "wip" or "spell" tag`
       )
     : null
+
+const noTagRegex = /^no(?<tag>\w+)/i
+const spellDoesntBreakHierarchyForGroup = (
+  spell: Spell,
+  group: TagGroups[number]
+): boolean => {
+  const noTag: string | null = ''
+
+  // look for notag of group in spell tags, and check if it follows the rules
+  // // spell has one of the group tags
+  // spell.tags.some(tag => tags.includes(tag))
+  // // and doesn't have the group
+  // && !spell.tags.includes(group) ||
+  // // and doesn't have the nogroup
+  return false
+}
 const obeysTagGroupHierarchy =
   (hierarchy: TagGroups): ErrorCheck =>
   spell => {
-    if (spell.name === 'Campo de Força') {
-      console.log('!!!', spell.tags, hierarchy)
-    }
     return hierarchy
-      .filter(
-        ({ group, tags }) =>
-          !spell.tags.includes(group) &&
-          spell.tags.some(tag => tags.includes(tag))
+      .filter(({ group, tags }) =>
+        spellDoesntBreakHierarchyForGroup(spell, { group, tags })
       )
       .flatMap(({ group, tags }) =>
         tags
@@ -50,7 +62,7 @@ const obeysTagGroupHierarchy =
         spellError(
           spell,
           'Tag Group Hierarchy',
-          `Spell has tag "${tag}" but is missing it's group tag "${group}"`
+          `Spell has tag "${tag}" but is missing it's group tag "${group}" (or you can add "#no${group}")`
         )
       )
   }

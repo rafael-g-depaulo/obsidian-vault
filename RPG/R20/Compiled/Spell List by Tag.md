@@ -46,6 +46,10 @@
 - [[Entangle]]
 - [[Goodberry]]
 
+## Nowild Spells
+### 1st Circle
+- [[Abençoar Alimentos]]
+
 ## Acid Spells
 ### Cantrip
 - [[Acid Splash]]
