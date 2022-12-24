@@ -160,7 +160,6 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
-- [[Físico Divino]]
 - [[Life Transference]]
 - [[Toque Vampírico]]
 
@@ -420,7 +419,6 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
-- [[Físico Divino]]
 - [[Life Transference]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]

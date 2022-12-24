@@ -27,7 +27,7 @@
 {{margin-top:25px}}
 
 {{wide
-##### A fantasy TTRPG system, strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
+##### A fantasy TTRPG system strong on character design options and customization, with a special focus on meaningful, strategical battles big and small based on resource management.
 }}
 
 
@@ -2378,7 +2378,7 @@ The area of the storm consists of up to ten 10-foot cubes, which you can arrange
 The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
 ### Físico Divino
-  <div class="spell-tags">boost sacred feral wild transmutation arcane warmagic</div>
+  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
 
 *3rd Circle*
 - **Alcance:** toque;

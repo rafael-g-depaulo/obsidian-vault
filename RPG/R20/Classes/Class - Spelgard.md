@@ -100,9 +100,9 @@ INCLUDE_TAGS:
 - boost
 - evocation
 - energy
-- enchantment
+- warmagic
 EXCLUDE_TAGS:
 - trickery
 - necromancy
-- wildz\\\\\\\\\\\\a
+- wild
 }}
