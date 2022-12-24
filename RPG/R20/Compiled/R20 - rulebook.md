@@ -789,6 +789,7 @@ List of spells available for a Plantomancer to learn.
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -808,7 +809,6 @@ List of spells available for a Plantomancer to learn.
 - [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]
@@ -1026,6 +1026,7 @@ List of spells available for a Spelgard to learn.
 - [[Prayer of Healing]]
 
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Mass Healing Word]]
@@ -1876,10 +1877,6 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 \page
 # Spell Tags
 
-asdasdasd
-
-TODO: code JS script to read all spells and check if tags respect hierarchy (e.g. all plant spells should also be wild spells). it should only give warnings
-
 ## Tags
 
 list of tags:
@@ -1890,6 +1887,8 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 
 - maybe remove summon from wild group. only do it after a concrete example shows up
 - maybe separate curse into 2 different tags if the need arises
+- remove physical tags. hasn't been an example yet of it being useful
+- maybe add a tag specifically for self combat buffs?
 
 ### Tag descriptions
 
@@ -2062,7 +2061,7 @@ ___
 Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna um alimento sujo, estragado ou envenenado próprio para consumo. Além disso, se for consumido até o final da duração, o alimento oferece 5 PV temporários ou 1 PM temporário (além de quaisquer bônus que já oferecesse). Bônus de alimentação duram um dia e cada personagem só pode receber um bônus de alimentação por dia. Truque: o alimento é purificado (não causa nenhum efeito nocivo se estava estragado ou envenenado), mas não oferece bônus ao ser consumido.
 
 ### Acid Splash
-  <div class="spell-tags">acid decay evocation</div>
+  <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
 *Cantrip*
 - **Alcance:** 9m (6 quadrados de 1,5m).;
@@ -2157,7 +2156,7 @@ ___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
 
 ### Campo de Força
-  <div class="spell-tags">abjuration</div>
+  <div class="spell-tags">abjuration thaumaturgy arcane boost sacred</div>
 
 *3rd Circle*
 - **Alcance:** pessoal;
@@ -2204,7 +2203,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 {{pageNumber,auto}}
 \page
 ### Concentração de Combate
-  <div class="spell-tags">boost sacred chronomancy</div>
+  <div class="spell-tags">boost sacred chronomancy thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** pessoal;
@@ -2291,7 +2290,7 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ### Detectar Ameaças
-  <div class="spell-tags">divination feral wild trickery</div>
+  <div class="spell-tags">divination feral wild trickery arcane</div>
 
 *1st Circle*
 - **Casting time:** padrão;
@@ -2336,7 +2335,7 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 When the spell ends, the conjured plants wilt away.
 
 ### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane</div>
+  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** 6sqr;
@@ -2359,7 +2358,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 {{pageNumber,auto}}
 \page
 ### Explosão de chamas
-  <div class="spell-tags">fire energy evocation</div>
+  <div class="spell-tags">fire energy evocation thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** 4sqr;
@@ -2400,7 +2399,7 @@ ___
 A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 6d6 fire damage on a failed save, or half as much damage on a successful one. 
 
 ### Flecha Ácida
-  <div class="spell-tags">decay acid evocation arcane curse occult</div>
+  <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
 *3rd Circle*
 - **Alcance:** 20sqr;
@@ -2553,7 +2552,7 @@ ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
 ### Life Transference
-  <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery</div>
+  <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
 *3rd Circle*
 - **Casting time:** 1 Action.
@@ -2562,7 +2561,7 @@ ___
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
 
 ### Luz
-  <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane</div>
+  <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
 
 *1st Circle*
 - **Alcance:** curto;
@@ -2663,7 +2662,7 @@ ___
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
 ### Poison Spray
-  <div class="spell-tags">poison decay evocation</div>
+  <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
 *Cantrip*
 - **Casting time:** 1 Action.
@@ -2785,7 +2784,7 @@ ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
 ### Soco de Arsenal
-  <div class="spell-tags">arcane creation unholy summon wild</div>
+  <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
 *3rd Circle*
 - **Alcance:** 20sqr;
@@ -2838,7 +2837,7 @@ ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
 ### Thunderwave
-  <div class="spell-tags">transmutation arcane lighning wind nature</div>
+  <div class="spell-tags">transmutation arcane lighning wind nature no-energy</div>
 
 *1st Circle*
 - **Casting time:** 1 Action.
@@ -2857,7 +2856,7 @@ ___
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
 ### Toque Chocante
-  <div class="spell-tags">lighning energy evocation</div>
+  <div class="spell-tags">lighning energy evocation thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** toque;

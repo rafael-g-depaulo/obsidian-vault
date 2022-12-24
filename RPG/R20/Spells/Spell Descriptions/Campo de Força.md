@@ -1,4 +1,4 @@
-#spell #abjuration 
+#spell #abjuration #thaumaturgy #arcane #boost #sacred 
 ### Campo de Força
 *3º Círculo*
 ___

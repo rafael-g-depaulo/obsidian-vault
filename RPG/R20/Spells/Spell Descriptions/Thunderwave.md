@@ -1,4 +1,4 @@
-#spell #transmutation #arcane #lighning #wind #nature 
+#spell #transmutation #arcane #lighning #wind #nature #no-energy
 ### Thunderwave
 - **Level:** 1
 - **Casting time:** 1 Action

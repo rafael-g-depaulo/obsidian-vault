@@ -1,4 +1,4 @@
-#spell #fire #energy #evocation 
+#spell #fire #energy #evocation #thaumaturgy 
 ### Explosão de chamas
 *1º Círculo*
 ___

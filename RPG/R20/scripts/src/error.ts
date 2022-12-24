@@ -93,7 +93,11 @@ export const writeOutErrors = (errors: SpellError[]): string =>
   Object.entries(groupBy((e: SpellError) => e.kind)(errors))
     .map(
       ([errorType, errors]) =>
-        `## ${errorType}\n` + errors.map(writeOutError).join('\n')
+        `## ${errorType}\n` +
+        errors
+          .sort((a, b) => a.kind.localeCompare(b.kind))
+          .map(writeOutError)
+          .join('\n')
     )
     .join('\n\n')
 

@@ -1,4 +1,4 @@
-#spell #decay #acid #evocation #arcane #curse #occult
+#spell #decay #acid #evocation #arcane #curse #occult #thaumaturgy #creation #arcane 
 ### Flecha Ácida
 *3º Círculo*
 ___

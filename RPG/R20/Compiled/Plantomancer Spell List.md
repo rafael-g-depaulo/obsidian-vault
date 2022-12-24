@@ -13,6 +13,7 @@
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -32,7 +33,6 @@
 - [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]

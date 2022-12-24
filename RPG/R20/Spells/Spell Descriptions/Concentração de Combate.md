@@ -1,4 +1,4 @@
-#spell #boost #sacred #chronomancy
+#spell #boost #sacred #chronomancy #thaumaturgy 
 ### Concentração de Combate
 *1º Círculo*
 ___

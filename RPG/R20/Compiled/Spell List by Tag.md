@@ -23,12 +23,14 @@
 - [[Escudo]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
+- [[Luz]]
 - [[Primor Atlético]]
 ### 2nd Circle
 - [[Aid]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Físico Divino]]
 - [[Mass Healing Word]]
 - [[Oração]]
@@ -83,6 +85,25 @@
 - [[Flecha Ácida]]
 - [[Relâmpago]]
 
+## Thaumaturgy Spells
+### Cantrip
+- [[Acid Splash]]
+- [[Poison Spray]]
+### 1st Circle
+- [[Concentração de Combate]]
+- [[Escudo]]
+- [[Explosão de chamas]]
+- [[Imagem Espelhada]]
+- [[Luz]]
+- [[Ray of Sickness]]
+- [[Toque Chocante]]
+### 3rd Circle
+- [[Campo de Força]]
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+### 5th Circle
+- [[Transformação de Guerra]]
+
 ## Boost Spells
 ### 1st Circle
 - [[Arma Mágica]]
@@ -94,6 +115,7 @@
 ### 2nd Circle
 - [[Aid]]
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Físico Divino]]
 - [[Oração]]
 ### 5th Circle
@@ -104,6 +126,7 @@
 - [[Magic Stone]]
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Escudo]]
 - [[Fog Cloud]]
@@ -115,6 +138,8 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
+- [[Campo de Força]]
+- [[Flecha Ácida]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Soco de Arsenal]]
@@ -159,6 +184,7 @@
 - [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Oração]]
+- [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 ### -1th Circle
 - [[Bane]]
@@ -357,18 +383,9 @@
 ### 2nd Circle
 - [[Web]]
 ### 3rd Circle
+- [[Flecha Ácida]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
-
-## Thaumaturgy Spells
-### 1st Circle
-- [[Imagem Espelhada]]
-- [[Luz]]
-- [[Ray of Sickness]]
-### 3rd Circle
-- [[Relâmpago]]
-### 5th Circle
-- [[Transformação de Guerra]]
 
 ## Necrotic Spells
 ### 3rd Circle
@@ -379,6 +396,10 @@
 - [[Toll the Dead]]
 
 ## Necromancy Spells
+### 3rd Circle
+- [[Life Transference]]
+
+## No-sacred Spells
 ### 3rd Circle
 - [[Life Transference]]
 
@@ -394,3 +415,7 @@
 - [[Toque Chocante]]
 ### 3rd Circle
 - [[Relâmpago]]
+
+## No-energy Spells
+### 1st Circle
+- [[Thunderwave]]

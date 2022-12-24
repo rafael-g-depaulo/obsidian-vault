@@ -26,6 +26,7 @@
 - [[Prayer of Healing]]
 
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Mass Healing Word]]
