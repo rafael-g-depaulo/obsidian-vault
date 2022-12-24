@@ -2,7 +2,8 @@ import { groupBy } from './arrayUtils'
 import { deleteFile, writeToFile } from './file'
 import { matchGroups } from './regexUtils'
 import { Spell } from './spell'
-import { TagGroups } from './tags'
+import { noTagRegex, TagGroups } from './tags'
+import { isNotNull } from './typeUtils'
 import { ValidatedSpells } from './validateSpell'
 
 // types
@@ -31,27 +32,30 @@ const hasSpellOrWipTag: ErrorCheck = spell =>
       )
     : null
 
-const noTagRegex = /^no(?<tag>\w+)/i
-const spellDoesntBreakHierarchyForGroup = (
+const spellBreaksHierarchyForGroup = (
   spell: Spell,
   group: TagGroups[number]
 ): boolean => {
-  const noTag: string | null = ''
+  const noTags = spell.tags
+    .map(tag => matchGroups(tag, noTagRegex)?.tag)
+    .filter(isNotNull)
 
-  // look for notag of group in spell tags, and check if it follows the rules
-  // // spell has one of the group tags
-  // spell.tags.some(tag => tags.includes(tag))
-  // // and doesn't have the group
-  // && !spell.tags.includes(group) ||
-  // // and doesn't have the nogroup
-  return false
+  const breaksHierarchy =
+    // spell doesn't include one of the group's tags
+    group.tags.some(tag => spell.tags.includes(tag)) &&
+    // or includes a noTag of the group
+    !noTags.includes(group.group) &&
+    // or includes the group's tag
+    !spell.tags.some(tag => tag === group.group)
+
+  return breaksHierarchy
 }
 const obeysTagGroupHierarchy =
   (hierarchy: TagGroups): ErrorCheck =>
   spell => {
     return hierarchy
       .filter(({ group, tags }) =>
-        spellDoesntBreakHierarchyForGroup(spell, { group, tags })
+        spellBreaksHierarchyForGroup(spell, { group, tags })
       )
       .flatMap(({ group, tags }) =>
         tags
@@ -62,7 +66,7 @@ const obeysTagGroupHierarchy =
         spellError(
           spell,
           'Tag Group Hierarchy',
-          `Spell has tag "${tag}" but is missing it's group tag "${group}" (or you can add "#no${group}")`
+          `Spell has tag "${tag}" but is missing it's group tag "${group}" (or you can add "#no-${group}")`
         )
       )
   }

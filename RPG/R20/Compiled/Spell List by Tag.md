@@ -46,7 +46,7 @@
 - [[Entangle]]
 - [[Goodberry]]
 
-## Nowild Spells
+## No-wild Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
 

@@ -3,8 +3,10 @@ import { matchGroups } from './regexUtils'
 import { Spell } from './spell'
 import { createTagSpellMap, makeTagSpellList } from './spellList'
 
+export const noTagRegex = /^no\-(?<tag>\w+)/i
+const tagParseRegex = /#(?<tag>[\w\-]+)/gm
 export const getTags = (content: string) =>
-  [...content.matchAll(/#(\w+)/gm)].map(([, tagName]) => tagName)
+  [...content.matchAll(tagParseRegex)].map(([, tagName]) => tagName)
 
 type TagMap = {
   [spellname: string]: string[]

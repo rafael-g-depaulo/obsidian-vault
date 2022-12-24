@@ -2050,7 +2050,7 @@ by nature:
 # Spells
 . Here is a list of all spells, sorted alphabetically
 ### Abençoar Alimentos
-  <div class="spell-tags">holy sacred plant nowild</div>
+  <div class="spell-tags">holy sacred plant no-wild</div>
 
 *1st Circle*
 - **Casting time:** padrão;
