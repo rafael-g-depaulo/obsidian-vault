@@ -1,11 +1,10 @@
-#spell
-### Spell Name
+### Spell Name Template
 *XXº Círculo*
 ___
 - **Execução:** padrão
 - **Alcance:** 9m (6 quadrados de 1,5m)
 - **Alvo:** 1 criatura
-- **Duração:** concentração.
+- **Duração:** imediata.
 
 Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 

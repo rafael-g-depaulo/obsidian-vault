@@ -1914,7 +1914,7 @@ by nature:
   - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
 - #trickery
-  - #ilusion
+  - #ilusion[[Mage Hand]]
   - #divination (also all communication stuff)
   - #enchantment
 - #thaumaturgy (general attack stuff + defense and time magic)
@@ -1951,6 +1951,7 @@ by nature:
 ### Cantrip
 - [[Acid Splash]]
 - [[Chill Touch]]
+- [[Guidance]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Primal Savagery]]
@@ -2043,6 +2044,79 @@ by nature:
 - [[Manto do Cruzado]]
 - [[Regenerate]]
 
+### -1th Circle
+- [[Animal Friendship]]
+- [[Armor of Agathys]]
+- [[Arms of Hadar]]
+- [[Barkskin]]
+- [[Beast Bond]]
+- [[Blade Ward]]
+- [[Booming Blade]]
+- [[Burning Hands]]
+- [[Calm Emotions]]
+- [[Catapult]]
+- [[Cause Fear]]
+- [[Chaos Bolt]]
+- [[Command]]
+- [[Control Flames]]
+- [[Create Bonfire]]
+- [[Crown of Madness]]
+- [[Darkvision]]
+- [[Divine Favor]]
+- [[Earthbind]]
+- [[Eldritch Blast]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
+- [[Enthrall]]
+- [[False Life]]
+- [[Feather Fall]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Green Flame Blade]]
+- [[Gust]]
+- [[Hail of Thorns]]
+- [[Healing Spirit]]
+- [[Hellish Rebuke]]
+- [[Hold Person]]
+- [[Ice Knife]]
+- [[Infestation]]
+- [[Jump]]
+- [[Levitate]]
+- [[Lightning Lure]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Maximilian's Earthen Grasp]]
+- [[Message]]
+- [[Minor Ilusion]]
+- [[Pass Without a Trace]]
+- [[Ray of Enfeeblement]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Sanctuary]]
+- [[Searing Smite]]
+- [[See Invisibilityt]]
+- [[Shadow Blade]]
+- [[Shape Water]]
+- [[Shatter]]
+- [[Shillelagh]]
+- [[Silent Image]]
+- [[Snowball Swarm]]
+- [[Spider Climb]]
+- [[Spike Growth]]
+- [[Spiritual Weapon]]
+- [[Sugestion]]
+- [[Sword Burst]]
+- [[Tasha's Hideous Laughter]]
+- [[Thunderclap]]
+- [[Thunderous Smite]]
+- [[Vicious Mockery]]
+- [[Warding Bond]]
+- [[Warding Wind]]
+- [[Witch Bolt]]
+- [[Word of Radiance]]
+- [[Zephyr Strike]]
+
 {{pageNumber,auto}}
 \page
 # Spells
@@ -2081,6 +2155,28 @@ ___
 Your spell bolsters your allies with toughness and resolve.
 Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.
 
+### Animal Friendship
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **1**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S, M (a morsel of food)**  
+Duration: **24 hours**  
+This spell lets you convince a beast that you mean it no harm.  
+Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
+When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
+Page: 212 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
+
 ### Área Escorregadia
   <div class="spell-tags">arcane creation</div>
 
@@ -2103,6 +2199,51 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 ___
 A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é considerada mágica. Caso você esteja empunhando a arma, pode usar seu atributo-chave de magias em vez do atributo original nos testes de ataque.
 
+### Armor of Agathys
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Abjuration
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V, S, M (a cup of water)**  
+Duration: **1 hour**  
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.  
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. 
+When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot
+Page: 215 Players Handbook
+A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
+{{pageNumber,auto}}
+\page
+### Arms of Hadar
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Conjuration
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Self (10-foot radius)**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You invoke the power of Hadar, the Dark Hunger.  
+Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect. 
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+Page: 215 Players Handbook
+A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
+
 ### Bane
   <div class="spell-tags">curse occult</div>
 
@@ -2111,6 +2252,48 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 
 ___
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+### Barkskin
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Barkskin
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (A handful of oak bark)**  
+Duration: **Concentration, up to 1 hour**  
+You touch a willing creature. Until the spellends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
+Page: 217 Players Handbook
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
+
+### Beast Bond
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Divination
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a bit of fur wrapped in a cloth)**  
+Duration: **Concentration, up to 10 minutes**  
+You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
+Page: 15 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Bênção
   <div class="spell-tags">boost sacred</div>
@@ -2122,8 +2305,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ___
 Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênção anula Perdição.
-{{pageNumber,auto}}
-\page
+
 ### Blade Barrier
   <div class="spell-tags"></div>
 
@@ -2134,6 +2316,26 @@ ___
 You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.
 When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 5d10 slashing damage. On a successful save, the creature takes half as much damage.
 
+### Blade Ward
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Abjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V, S**  
+Duration: **1 round**  
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+Page: 218 Players Handbook
+{{pageNumber,auto}}
+\page
 ### Bless
   <div class="spell-tags">boost sacred</div>
 
@@ -2142,6 +2344,73 @@ When a creature enters the wall’s area for the first time on a turn or starts 
 
 ___
 You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
+
+### Booming Blade
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Create Bonfire
+A Elemental Evil spell
+Conjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
+The bonfire ignites flammable objects in its area that aren’t being worn or carried.  
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Page: 16 from EE Players Companion
+
+### Burning Hands
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Evocation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Self (15-foot cone)**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.  
+The fire ignites any flammable objects in the area that aren’t being worn or carried. 
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+Page: 220 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Calm Emotions
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You attempt to suppress strong emotions in a group of people.  
+Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.  
+Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
+Page: 221 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
 
 ### Caminhos da Natureza
   <div class="spell-tags">wild summon enchantment trickery</div>
@@ -2175,7 +2444,8 @@ Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporá
 
 ___
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
-
+{{pageNumber,auto}}
+\page
 ### Canhão de Ervilha
   <div class="spell-tags">summon plant wild</div>
 
@@ -2188,6 +2458,83 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 ___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
+### Catapult
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Catapult
+A Elemental Evil spell
+Transmutation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **150 feet**  
+Components: **S**  
+Duration: **Instantaneous**  
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
+Page: 15 from EE Players Companion
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Cause Fear
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Cause Fear
+A spell from Xanathar's Guide To Everything
+Necromancy
+Level: **1**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above lst. The creatures must be within 30 feet of each other when you target them.
+Page: 151 from Xanathar's Guide To Everything
+A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Chaos Bolt
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A spell from Xanathar's Guide To Everything
+Evocation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.  
+d8 / Damage Type  
+1 / Acid  
+2 / Cold  
+3 / Fire  
+4 / Force  
+5 / Lightning  
+6 / Poison  
+7 / Psychic  
+8 / Thunder  
+If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by each casting of this spell.
+When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+Page: 151 from Xanathar's Guide To Everything
+
 ### Chill Touch
   <div class="spell-tags">cold energy unholy occult</div>
 
@@ -2199,8 +2546,27 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 ___
 You create a ghostly, skeletal hand in the space of a creature within range.  
 Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
-{{pageNumber,auto}}
-\page
+
+### Command
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **1**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V**  
+Duration: **1 round**  
+You speak a one-word command to a creature you can see within range.  
+The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.  
+When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them
+
 ### Concentração de Combate
   <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
 
@@ -2211,7 +2577,8 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 
 ___
 Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
-
+{{pageNumber,auto}}
+\page
 ### Contagion
   <div class="spell-tags"></div>
 
@@ -2222,6 +2589,29 @@ ___
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
 At the end of each of the target’s turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends.
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease’s effects apply to it.
+
+### Control Flames
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Create Bonfire
+A Elemental Evil spell
+Conjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
+The bonfire ignites flammable objects in its area that aren’t being worn or carried.  
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Page: 16 from EE Players Companion
 
 ### Controlar Plantas
   <div class="spell-tags">plant wild enchantment trickery</div>
@@ -2236,6 +2626,52 @@ Duração: cena;
 Resistência: Reflexos anula.
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
+### Create Bonfire
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Create Bonfire
+A Elemental Evil spell
+Conjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
+The bonfire ignites flammable objects in its area that aren’t being worn or carried.  
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Page: 16 from EE Players Companion
+
+### Crown of Madness
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **2**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.  
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
+Page: 229 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -2247,6 +2683,28 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 ___
 Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura tocada. Como mortos-vivos usam energia egativa, esta magia causa dano de luz a eles (Vontade reduz à metade). Curar Ferimentos anula Infligir Ferimentos. Truque: em vez do normal, estabiliza uma criatura. Truque: muda o alvo para 1 morto- vivo. Em vez do normal, causa 1d8 pontos de dano de luz (Vontade reduz à metade).
 
+### Darkvision
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (either a pinch of dried carrot or an agate)**  
+Duration: **8 hours**  
+You touch a willing creature to grant it the ability to see in the dark.  
+For the duration, that creature has darkvision out to a range of 60 feet.
+Page: 230 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
+{{pageNumber,auto}}
+\page
 ### Dawn
   <div class="spell-tags"></div>
 
@@ -2277,8 +2735,7 @@ Você dispara um raio fino e esverdeado que causa 10d12 pontos de dano de essên
 
 ___
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento).  onstrutos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
-{{pageNumber,auto}}
-\page
+
 ### Detect Poison and Disease
   <div class="spell-tags">sacred holy recovery</div>
 
@@ -2299,6 +2756,27 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 ___
 Você percebe a presença e a localização de criaturas inamistosas ou hostis na área, mesmo através de barreiras físicas.
 
+### Divine Favor
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Divine Favor
+Evocation
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit.
+Page: 234 Players Handbook
+A [Paladin](https://www.dnd-spells.com/spells/class/Paladin), spell
+
 ### Earth Tremor
   <div class="spell-tags">earth nature transmutation arcane</div>
 
@@ -2307,6 +2785,53 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 
 ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
+{{pageNumber,auto}}
+\page
+### Earthbind
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Earthbind
+A Elemental Evil spell
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **300 feet**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
+Page: 17 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Eldritch Blast
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage. 
+The spell creates more than one beam when you reach higher levels:  
+Two beams at 5th level  
+Three beams at 11th level  
+Four beams at 17th level.  
+You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+Page: 237 Players Handbook
 
 ### Enfeitiçar
   <div class="spell-tags">enchantment trickery</div>
@@ -2318,6 +2843,51 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 
 ___
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
+
+### Enhance Ability
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (fur or a feather from a beast)**  
+Duration: **Concentration, up to 1 hour**  
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
+When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+Page: 237 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Cleric](https://www.dnd-spells.com/spells/class/Cleric), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), spell
+
+### Enlarge Reduce
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enlarge/Reduce
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S, M (a pinch of powdered iron)**  
+Duration: **Concentration, up to 1 minute**  
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
+The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
+The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
+Page: 237 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Entangle
   <div class="spell-tags">plant wild trickery</div>
@@ -2333,6 +2903,27 @@ into difficult terrain.
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 When the spell ends, the conjured plants wilt away.
 
+### Enthrall
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **1 minute**  
+You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+Page: 238 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
+{{pageNumber,auto}}
+\page
 ### Escudo
   <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic arcane</div>
 
@@ -2354,8 +2945,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 
 ___
 O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área recebem amuflagem por escuridão. As sombras não podem ser iluminadas por nenhuma fonte de luz natural. O objeto pode ser uardado (em um bolso, por exemplo) para interromper a escuridão, que voltará a funcionar caso o objeto seja revelado. e lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. scuridão anula Luz.
-{{pageNumber,auto}}
-\page
+
 ### Explosão de chamas
   <div class="spell-tags">fire energy evocation thaumaturgy</div>
 
@@ -2365,6 +2955,67 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 
 ___
 Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1  bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela,  ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
+
+### False Life
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Necromancy
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V, S, M (a small amount of alcohol or distilled spirits)**  
+Duration: **1 hour**  
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
+When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+Page: 239 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Feather Fall
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Feather Fall
+Transmutation
+Level: **1**  
+Casting time: **Special**  
+Range: **60 feet**  
+Components: **V, M (a small feather or piece of down)**  
+Duration: **1 minute**  
+Reaction: When you or a creature within 60 feet of you falls  
+Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
+Page: 239 Players Handbook
+
+### Fire Bolt
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
+This spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### Fire Storm
   <div class="spell-tags"></div>
@@ -2376,7 +3027,8 @@ ___
 A storm made up of sheets of roaring flame appears in a location you choose within range.
 The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make Dexterity saving throw. It takes 5d10 fire damage on a failed save, or half as much damage on a successful one.
 The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried. If you choose, plant life in the area is unaffected by this spell.
-
+{{pageNumber,auto}}
+\page
 ### Físico Divino
   <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
 
@@ -2417,6 +3069,30 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
+### Frostbite
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+.
+
+___
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+Frostbite
+A Elemental Evil spell
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.  
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
 ### Goodberry
   <div class="spell-tags">plant wild summon</div>
 
@@ -2426,8 +3102,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ___
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
-{{pageNumber,auto}}
-\page
+
 ### Greater Restoration
   <div class="spell-tags"></div>
 
@@ -2436,6 +3111,41 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 
 ___
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one, or end one of the following effects on the target:
+{{pageNumber,auto}}
+\page
+### Green Flame Blade
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+
+### Guidance
+  <div class="spell-tags"></div>
+
+*Cantrip*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
@@ -2446,6 +3156,48 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 ___
 A flash of light streaks toward a creature of your choice within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
+
+### Gust
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Transmutation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You seize the air and compel it to create one of the following effects at a point you can see within range:  
+Page: 19 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Hail of Thorns
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Conjuration
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
+If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
+Page: 249 Players Handbook
+A [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Harm
   <div class="spell-tags"></div>
@@ -2467,6 +3219,30 @@ ___
 Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 50 hit points. The spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead. 
 At higher level
 When you cast this spell using aspell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+{{pageNumber,auto}}
+\page
+### Healing Spirit
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Healing Spirit
+A spell from Xanathar's Guide To Everything
+Conjuration
+Level: **2**  
+Casting time: **1 Bonus Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice). Until the spell ends, whenever you or a creature you can see moves into the spirits space for the first time on a turn or starts its turn there, you can cause the spirit to restore ld6 hit points to that creature (no action required). The spirit can’t heal constructs or undead. As a bonus action on your turn, you can move the Spirit up to 30 feet to a space you can see.
+When you cast this spell using a spell slot of 3rd level or higher, the healing increases 1d6 for each slot level above 2nd.
+Page: 157 from Xanathar's Guide To Everything
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
@@ -2476,6 +3252,29 @@ When you cast this spell using aspell slot of 7th level or higher, the amount of
 
 ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+### Hellish Rebuke
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Hellish Rebuke
+Evocation
+Level: **1**  
+Casting time: **Special**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+Reaction: you are being damaged by a creature within 60 feet of you that you can see.  
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+Page: 250 Players Handbook
+A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
 
 ### Heroísmo
   <div class="spell-tags"></div>
@@ -2488,6 +3287,28 @@ A creature of your choice that you can see within range regains hit points equal
 ___
 Esta magia imbui uma criatura com coragem e valentia. O alvo fica imune a medo e recebe +4 em testes de ataque e rolagens de dano contra inimigos com ND maior que seu nível.
 
+### Hold Person
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Hold Person
+Enchantment
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S, M (a small, straight piece of iron)**  
+Duration: **Concentration, up to 1 minute**  
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+Page: 251 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Cleric](https://www.dnd-spells.com/spells/class/Cleric), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Holy Weapon
   <div class="spell-tags"></div>
 
@@ -2496,6 +3317,28 @@ Esta magia imbui uma criatura com coragem e valentia. O alvo fica imune a medo e
 
 ___
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30—foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn’t already a magic weapon, it becomes one for the duration. As a Movement Action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn’t blinded. At the end of each Ofits turns, a blinded creature can make a Constitution saving throw, ending the effect on itselfon a success.
+
+### Ice Knife
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Conjuration
+Level: **1**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **S, M**  
+Duration: **Instantaneous**  
+You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.  
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.
+Page: 19 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 {{pageNumber,auto}}
 \page
 ### Imagem Espelhada
@@ -2508,6 +3351,29 @@ You imbue a weapon you touch with holy power. Until the spell ends, the weapon e
 
 ___
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
+
+### Infestation
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Infestation
+A spell from Xanathar's Guide To Everything
+Conjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S, M (a living flea)**  
+Duration: **Instantaneous**  
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.  
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Page: 158 from Xanathar's Guide To Everything
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
@@ -2541,6 +3407,26 @@ When the area appears, each creature in it must make a Constitution saving throw
 ___
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
 
+### Jump
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a grasshopper’s hind leg)**  
+Duration: **1 minute**  
+You touch a creature. The creature’s jump distance is tripled until the spell ends.
+Page: 254 Players Handbook
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -2549,6 +3435,29 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+{{pageNumber,auto}}
+\page
+### Levitate
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)**  
+Duration: **Concentration, up to 10 minutes**  
+One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.  
+The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target’s altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell’s range.  
+When the spell ends, the target floats gently to the ground if it is still aloft.
+Page: 255 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Life Transference
   <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
@@ -2558,6 +3467,50 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ___
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
+
+### Lightning Lure
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A spell from Sword Coast Adventure's Guide
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **15 feet**  
+Components: **V**  
+Duration: **Instantaneous**  
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
+The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you. 
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Page: 143 from Sword Coast Adventure's Guide
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Longstrider
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a pinch of dirt)**  
+Duration: **1 hour**  
+You touch a creature. The target’s speed increases by 10 feet until the spell ends.
+When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+Page: 256 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Luz
   <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
@@ -2569,8 +3522,27 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 
 ___
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
-{{pageNumber,auto}}
-\page
+
+### Mage Armor
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Abjuration
+Level: **1**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a piece of cured leather)**  
+Duration: **8 hours**  
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.
+Page: 256 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Mage Hand
   <div class="spell-tags">trickery</div>
 
@@ -2583,6 +3555,29 @@ ___
 A spectral, floating hand appears at a point you choose within range.  
 The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.  
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.  
+{{pageNumber,auto}}
+\page
+### Magic Missile
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Magic Missile
+Evocation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
+When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+Page: 257 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Magic Stone
   <div class="spell-tags">transmutation arcane</div>
@@ -2625,6 +3620,77 @@ Choose up to six creatures in a 30-foot-radius sphere centered on that point. Ea
 ___
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
+### Maximilian's Earthen Grasp
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V,S,M (a miniature hand sculpted from clay)**  
+Duration: **Concentration, up to 1 minute**  
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches  
+for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.  
+As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.  
+To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.  
+As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
+Page: 20 from EE Players Companion
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Message
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **120 feet**  
+Components: **V, S, M (a short piece of copper wire)**  
+Duration: **1 round**  
+You point your finger toward a creature within range and whisper a message.  
+The target (and only the target) hears the message and can reply in a whisper that only you can hear.  
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+Page: 259 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+{{pageNumber,auto}}
+\page
+### Minor Ilusion
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Illusion
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **S, M (a bit of fleece)**  
+Duration: **1 minute**  
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.  
+If you create an image of an object such as a chair, muddy footprints, or a small chest it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.  
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+Page: 260 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Oração
   <div class="spell-tags">wind nature sacred boost occult curse enchantment trickery</div>
 
@@ -2635,6 +3701,27 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 
 ___
 
+
+### Pass Without a Trace
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Abjuration
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)**  
+Duration: **Concentration, up to 1 hour**  
+A veil of shadows and silence radiates from you, masking you and your companions from detection.  
+For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+Page: 264 Players Handbook
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Pele de Pedra
   <div class="spell-tags"></div>
@@ -2647,8 +3734,7 @@ ___
 ___
 Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma estátua inerte e sem consciência. A estátua possui os mesmos PV da criatura e resistência a dano 8; se for quebrada, a criatura morrerá. Requer 7º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Perdição
   <div class="spell-tags">curse occult</div>
 
@@ -2679,7 +3765,8 @@ You extend your hand toward a creature you can see within range and project a pu
 
 ___
 Você canaliza o poder de sua divindade. Você aumenta uma categoria de tamanho (seu equipamento muda de acordo). Além disso, você recebe Força +8 e resistência a dano 10. Você não pode lançar magias enquanto estiver sob efeito de Potência Divina.
-
+{{pageNumber,auto}}
+\page
 ### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
@@ -2720,8 +3807,47 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 
 ___
 Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de batalha. Criaturas na área sofrem 4d8 pontos de dano de luz (ou 4d12, se forem mortos-vivos) e ficam ofuscadas por uma rodada. Se passarem na resistência, sofrem metade do dano e não ficam ofuscadas. Truque: muda a duração para cena e a resistência para nenhuma. Em vez do normal, cria um facho de luz que ilumina a área da magia. Uma vez por rodada, você pode mudar a direção do facho como uma ação livre.
-{{pageNumber,auto}}
-\page
+
+### Ray of Enfeeblement
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Ray of Enfeeblement
+Necromancy
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+A black beam of enervating energy springs from your finger toward a creature within range.  
+Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.  
+At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+Page: 271 Players Handbook
+
+### Ray of Frost
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+.
+
+___
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **Instantaneous**  
+A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Page: 271 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -2731,7 +3857,8 @@ Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de ba
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Regenerate
   <div class="spell-tags"></div>
 
@@ -2753,6 +3880,23 @@ The target’s severed body members (fingers, legs, tails, and so on), if any, a
 ___
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
+### Resistance
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+.
+
+___
+Abjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a miniature cloak)**  
+Duration: **Concentration, up to 1 minute**  
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
+Page: 272 Players Handbook
+A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), [Druid](https://www.dnd-spells.com/spells/class/Druid), spell
+
 ### Revivify
   <div class="spell-tags"></div>
 
@@ -2761,6 +3905,185 @@ Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em t
 
 ___
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
+
+### Sanctuary
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Sanctuary
+Abjuration
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **30 feet**  
+Components: **V, S, M (a small silver mirror)**  
+Duration: **1 minute**  
+You ward a creature within range against attack.  
+Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn’t protect the warded creature from area effects, such as the explosion of a fireball.  
+If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
+Page: 272 Players Handbook
+A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
+
+### Searing Smite
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Evocation
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensitity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames.  
+At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
+When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by 1d6 for each slot
+Page: 274 Players Handbook
+A [Paladin](https://www.dnd-spells.com/spells/class/Paladin), spell
+
+### See Invisibilityt
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+See invisibility
+Divination
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V, S, M (a pinch of talc and a small sprinkling of powdered silver)**  
+Duration: **1 hour**  
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+Page: 274 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+{{pageNumber,auto}}
+\page
+### Shadow Blade
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A spell from Xanathar's Guide To Everything
+Illusion
+Level: **2**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V, S**  
+Duration: **Concentration, up to 1 minute**  
+You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.  
+If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
+When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
+Page: 164 from Xanathar's Guide To Everything
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Shape Water
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Transmutation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **S**  
+Duration: **Instantaneous or 1 hour**  
+You choose an area of water that you can see within range and that fits within a 5-foot cube.  
+You manipulate it in one of the following ways:  
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+Page: 21 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Shatter
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Shatter
+Evocation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S, M (a chip of mica)**  
+Duration: **Instantaneous**  
+A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.  
+A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
+When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+Page: 275 Players Handbook
+
+### Shillelagh
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Shillelagh
+Transmutation
+Level: **Cantrip**  
+Casting time: **1 Bonus Action**  
+Range: **Touch**  
+Components: **V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)**  
+Duration: **1 minute**  
+The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
+For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
+Page: 275 Players Handbook
+
+### Silent Image
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Silent Image
+Illusion
+Level: **1**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V, S, M (a bit of fleece)**  
+Duration: **Concentration, up to 10 minutes**  
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.  
+You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.  
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
+Page: 276 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
@@ -2781,6 +4104,30 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
+{{pageNumber,auto}}
+\page
+### Snowball Swarm
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Snilloc’s Snowball Swarm
+A Elemental Evil spell
+Evocation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **90 feet**  
+Components: **V, S, M**  
+Duration: **Instantaneous**  
+A flurry of magic snowballs erupts from a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.  
+At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+Page: 22 from EE Players Companion
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
@@ -2792,8 +4139,7 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 
 ___
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
-{{pageNumber,auto}}
-\page
+
 ### Sopro da Salvação
   <div class="spell-tags"></div>
 
@@ -2813,6 +4159,140 @@ Você enche seus pulmões de energia positiva e sopra um cone de poeira reluzent
 
 ___
 Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à metade). Criaturas de tamanho Médio ou menor que falhem na resistência são empurradas 6m na direção oposta. Se houver uma parede ou outro objeto sólido (mas não uma criatura) no caminho, a criatura para de se mover, mas sofre 1d6 pontos de dano de impacto.
+
+### Spider Climb
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Spider Climb
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a drop of bitumen and a spider)**  
+Duration: **Concentration, up to 1 hour**  
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+Page: 277 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Spike Growth
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Transmutation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **150 feet**  
+Components: **V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)**  
+Duration: **Concentration, up to 10 minutes**  
+The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.  
+The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+Page: 277 Players Handbook
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
+
+### Spiritual Weapon
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Evocation
+Level: **2**  
+Casting time: **1 Bonus Action**  
+Range: **60 feet**  
+Components: **V, S**  
+Duration: **1 minute**  
+You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.  
+When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.  
+As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.  
+The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell’s effect resemble that weapon.
+When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.
+Page: 278 Players Handbook
+A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
+{{pageNumber,auto}}
+\page
+### Sugestion
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Suggestion
+Enchantment
+Level: **2**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil)**  
+Duration: **Concentration, up to 8 hours**  
+You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.  
+The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.  
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t preformed.  
+If you or any of your companions damage the target, the spell ends.
+Page: 279 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Sword Burst
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A spell from Sword Coast Adventure's Guide
+Conjuration
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **5 feet**  
+Components: **V**  
+Duration: **Instantaneous**  
+You create a momentary circle of spectral blades that sweep around you.  
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage. 
+This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+### Tasha's Hideous Laughter
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Tasha’s Hideous Laughter
+Enchantment
+Level: **1**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S, M (tiny tarts and a feather that is waved in the air)**  
+Duration: **Concentration, up to 1 minute**  
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw ifit’s triggered by damage. On a success, the spell ends.
+Page: 280 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Teia
   <div class="spell-tags">arcane creation</div>
@@ -2835,6 +4315,52 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
+### Thunderclap
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Thunderclap
+A Elemental Evil spell
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **5 feet**  
+Components: **S**  
+Duration: **Instantaneous**  
+You create a burst of thunderous sound, which can be heard 100 feet away.  
+Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.  
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Page: 22 from EE Players Companion
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Thunderous Smite
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Thunderous Smite
+Evocation
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+Page: 282 Players Handbook
+A [Paladin](https://www.dnd-spells.com/spells/class/Paladin), spell
+{{pageNumber,auto}}
+\page
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy</div>
 
@@ -2864,8 +4390,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 ___
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
-{{pageNumber,auto}}
-\page
+
 ### Toque Vampírico
   <div class="spell-tags">necrotic decay feral wild unholy occult</div>
 
@@ -2900,6 +4425,73 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 ___
 Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
 
+### Vicious Mockery
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Enchantment
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **60 feet**  
+Components: **V**  
+Duration: **Instantaneous**  
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+Page: 285 Players Handbook
+A [Bard](https://www.dnd-spells.com/spells/class/Bard), spell
+{{pageNumber,auto}}
+\page
+### Warding Bond
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Warding Bond
+Abjuration
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Touch**  
+Components: **V, S, M (a pair of platinum rings worth at least 50 gp each, which you and target must wear for the duration)**  
+Duration: **1 hour**  
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+Page: 287 Players Handbook
+A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
+
+### Warding Wind
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A Elemental Evil spell
+Evocation
+Level: **2**  
+Casting time: **1 Action**  
+Range: **Self**  
+Components: **V**  
+Duration: **Concentration, up to 10 minutes**  
+A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.  
+The wind has the following effects:  
+Page: 23 from EE Players Companion
+
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 
@@ -2911,6 +4503,74 @@ ___
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+
+### Witch Bolt
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Witch Bolt
+Evocation
+Level: **1**  
+Casting time: **1 Action**  
+Range: **30 feet**  
+Components: **V, S, M (a twig from a tree that has been struck by lightning)**  
+Duration: **Concentration, up to 1 minute**  
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
+Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you.
+When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
+Page: 289 Players Handbook
+A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+
+### Word of Radiance
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Word of Radiance
+A spell from Xanathar's Guide To Everything
+Evocation
+Level: **Cantrip**  
+Casting time: **1 Action**  
+Range: **5 feet**  
+Components: **V, M (a holy symbol)**  
+Duration: **Instantaneous**  
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.  
+The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+Page: 171 from Xanathar's Guide To Everything
+A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
+
+### Zephyr Strike
+  <div class="spell-tags"></div>
+
+*-1th Circle*
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+A spell from Xanathar's Guide To Everything
+Transmutation
+Level: **1**  
+Casting time: **1 Bonus Action**  
+Range: **Self**  
+Components: **V**  
+Duration: **Concentration, up to 1 minute**  
+You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.  
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
+Page: 171 from Xanathar's Guide To Everything
+A [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 
 {{pageNumber,auto}}

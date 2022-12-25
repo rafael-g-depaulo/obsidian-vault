@@ -2,22 +2,94 @@
 Here's a list of all of the errors found.
 
 ## Spell Tag
+- [[Animal Friendship]] Spell should have either "wip" or "spell" tag
+- [[Armor of Agathys]] Spell should have either "wip" or "spell" tag
+- [[Arms of Hadar]] Spell should have either "wip" or "spell" tag
+- [[Barkskin]] Spell should have either "wip" or "spell" tag
+- [[Beast Bond]] Spell should have either "wip" or "spell" tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
+- [[Blade Ward]] Spell should have either "wip" or "spell" tag
+- [[Booming Blade]] Spell should have either "wip" or "spell" tag
+- [[Burning Hands]] Spell should have either "wip" or "spell" tag
+- [[Calm Emotions]] Spell should have either "wip" or "spell" tag
+- [[Catapult]] Spell should have either "wip" or "spell" tag
+- [[Cause Fear]] Spell should have either "wip" or "spell" tag
+- [[Chaos Bolt]] Spell should have either "wip" or "spell" tag
+- [[Command]] Spell should have either "wip" or "spell" tag
 - [[Contagion]] Spell should have either "wip" or "spell" tag
+- [[Control Flames]] Spell should have either "wip" or "spell" tag
+- [[Create Bonfire]] Spell should have either "wip" or "spell" tag
+- [[Crown of Madness]] Spell should have either "wip" or "spell" tag
+- [[Darkvision]] Spell should have either "wip" or "spell" tag
 - [[Dawn]] Spell should have either "wip" or "spell" tag
 - [[Desintegrar]] Spell should have either "wip" or "spell" tag
+- [[Divine Favor]] Spell should have either "wip" or "spell" tag
+- [[Earthbind]] Spell should have either "wip" or "spell" tag
+- [[Eldritch Blast]] Spell should have either "wip" or "spell" tag
+- [[Enhance Ability]] Spell should have either "wip" or "spell" tag
+- [[Enlarge Reduce]] Spell should have either "wip" or "spell" tag
+- [[Enthrall]] Spell should have either "wip" or "spell" tag
+- [[False Life]] Spell should have either "wip" or "spell" tag
+- [[Feather Fall]] Spell should have either "wip" or "spell" tag
+- [[Fire Bolt]] Spell should have either "wip" or "spell" tag
 - [[Fire Storm]] Spell should have either "wip" or "spell" tag
 - [[Flame Strike]] Spell should have either "wip" or "spell" tag
+- [[Frostbite]] Spell should have either "wip" or "spell" tag
 - [[Greater Restoration]] Spell should have either "wip" or "spell" tag
+- [[Green Flame Blade]] Spell should have either "wip" or "spell" tag
+- [[Guidance]] Spell should have either "wip" or "spell" tag
+- [[Gust]] Spell should have either "wip" or "spell" tag
+- [[Hail of Thorns]] Spell should have either "wip" or "spell" tag
 - [[Harm]] Spell should have either "wip" or "spell" tag
 - [[Heal]] Spell should have either "wip" or "spell" tag
+- [[Healing Spirit]] Spell should have either "wip" or "spell" tag
+- [[Hellish Rebuke]] Spell should have either "wip" or "spell" tag
 - [[Heroísmo]] Spell should have either "wip" or "spell" tag
+- [[Hold Person]] Spell should have either "wip" or "spell" tag
 - [[Holy Weapon]] Spell should have either "wip" or "spell" tag
+- [[Ice Knife]] Spell should have either "wip" or "spell" tag
+- [[Infestation]] Spell should have either "wip" or "spell" tag
 - [[Insect Plague]] Spell should have either "wip" or "spell" tag
+- [[Jump]] Spell should have either "wip" or "spell" tag
+- [[Levitate]] Spell should have either "wip" or "spell" tag
+- [[Lightning Lure]] Spell should have either "wip" or "spell" tag
+- [[Longstrider]] Spell should have either "wip" or "spell" tag
+- [[Mage Armor]] Spell should have either "wip" or "spell" tag
+- [[Magic Missile]] Spell should have either "wip" or "spell" tag
 - [[Manto do Cruzado]] Spell should have either "wip" or "spell" tag
 - [[Mass Cure Wounds]] Spell should have either "wip" or "spell" tag
+- [[Maximilian's Earthen Grasp]] Spell should have either "wip" or "spell" tag
+- [[Message]] Spell should have either "wip" or "spell" tag
+- [[Minor Ilusion]] Spell should have either "wip" or "spell" tag
+- [[Pass Without a Trace]] Spell should have either "wip" or "spell" tag
 - [[Pele de Pedra]] Spell should have either "wip" or "spell" tag
 - [[Potência Divina]] Spell should have either "wip" or "spell" tag
+- [[Ray of Enfeeblement]] Spell should have either "wip" or "spell" tag
+- [[Ray of Frost]] Spell should have either "wip" or "spell" tag
 - [[Regenerate]] Spell should have either "wip" or "spell" tag
+- [[Resistance]] Spell should have either "wip" or "spell" tag
 - [[Revivify]] Spell should have either "wip" or "spell" tag
+- [[Sanctuary]] Spell should have either "wip" or "spell" tag
+- [[Searing Smite]] Spell should have either "wip" or "spell" tag
+- [[See Invisibilityt]] Spell should have either "wip" or "spell" tag
+- [[Shadow Blade]] Spell should have either "wip" or "spell" tag
+- [[Shape Water]] Spell should have either "wip" or "spell" tag
+- [[Shatter]] Spell should have either "wip" or "spell" tag
+- [[Shillelagh]] Spell should have either "wip" or "spell" tag
+- [[Silent Image]] Spell should have either "wip" or "spell" tag
+- [[Snowball Swarm]] Spell should have either "wip" or "spell" tag
 - [[Sopro da Salvação]] Spell should have either "wip" or "spell" tag
+- [[Spider Climb]] Spell should have either "wip" or "spell" tag
+- [[Spike Growth]] Spell should have either "wip" or "spell" tag
+- [[Spiritual Weapon]] Spell should have either "wip" or "spell" tag
+- [[Sugestion]] Spell should have either "wip" or "spell" tag
+- [[Sword Burst]] Spell should have either "wip" or "spell" tag
+- [[Tasha's Hideous Laughter]] Spell should have either "wip" or "spell" tag
+- [[Thunderclap]] Spell should have either "wip" or "spell" tag
+- [[Thunderous Smite]] Spell should have either "wip" or "spell" tag
+- [[Vicious Mockery]] Spell should have either "wip" or "spell" tag
+- [[Warding Bond]] Spell should have either "wip" or "spell" tag
+- [[Warding Wind]] Spell should have either "wip" or "spell" tag
+- [[Witch Bolt]] Spell should have either "wip" or "spell" tag
+- [[Word of Radiance]] Spell should have either "wip" or "spell" tag
+- [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
