@@ -1,4 +1,4 @@
-import { groupBy, joinInGroupsOf } from './arrayUtils'
+import { joinInGroupsOf } from './arrayUtils'
 import { CompileRulesDeps, processContent } from './compileBook/index'
 import { matchGroups } from './regexUtils'
 import { Spell, spellDescriptionItems, SpellDescriptionItems } from './spell'
@@ -68,9 +68,3 @@ export const makeClassSpellList = (
 
   return processContent(deps)(unproccessedString)
 }
-
-export const _makeClassSpellList = (classname: string, spells: Spell[]) =>
-  `${makeSpellListString(
-    spells,
-    classname
-  )}\n\n## Spell Descriptions\n${makeSpellDescriptionsListString(spells)}`

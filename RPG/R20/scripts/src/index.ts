@@ -1,12 +1,10 @@
 import { join } from 'path'
 import {
   getClassname,
-  _makeClassSpellList,
-  makeSpellDescriptionsListString,
   makeSpellListString,
   makeClassSpellList,
 } from './classSpellList'
-import { compileRules, CompileRulesDeps, processContent } from './compileBook'
+import { compileRules, CompileRulesDeps } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 
