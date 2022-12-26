@@ -1,5 +1,6 @@
 ### Blade Barrier
 *6th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 90 feet
 - **Duration:** Concentration

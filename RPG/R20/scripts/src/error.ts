@@ -1,7 +1,7 @@
 import { groupBy } from './arrayUtils'
 import { deleteFile, writeToFile } from './file'
 import { matchGroups } from './regexUtils'
-import { Spell } from './spell'
+import { INVALID_DESCRIPTION, Spell } from './spell'
 import { noTagRegex, TagGroups } from './tags'
 import { isNotNull } from './typeUtils'
 import { ValidatedSpells } from './validateSpell'
@@ -70,6 +70,14 @@ const obeysTagGroupHierarchy =
         )
       )
   }
+const hasDescription: ErrorCheck = spell =>
+  spell.description === INVALID_DESCRIPTION
+    ? spellError(
+        spell,
+        'Missing Description',
+        `Spell is missing a description (or more likely the description is in the wrong format)`
+      )
+    : null
 
 // consolidate error parsers
 const isError = (e: SpellError | null): e is SpellError => !!e
@@ -84,7 +92,11 @@ export interface ErrorCheckerDeps {
 export const getErrorsWithSpell = ({
   tagGroups: hierarchy,
 }: ErrorCheckerDeps) =>
-  createErrorCheckerThing(hasSpellOrWipTag, obeysTagGroupHierarchy(hierarchy))
+  createErrorCheckerThing(
+    hasSpellOrWipTag,
+    obeysTagGroupHierarchy(hierarchy),
+    hasDescription
+  )
 
 const writeOutError = (error: SpellError) =>
   `- [[${error.spell.name}]] ${error.message}`

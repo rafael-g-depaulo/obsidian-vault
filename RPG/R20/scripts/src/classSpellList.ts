@@ -21,10 +21,11 @@ export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
     .join('\n\n')
 
 const SpellItemLabelName: { [k in SpellDescriptionItems]: string } = {
-  castTime: 'Casting time',
+  castTime: 'Execução',
   range: 'Alcance',
   target: 'Alvo',
   duration: 'Duração',
+  critical: 'Crítico',
 }
 
 const spellDescriptionItemsString = (spell: Spell) =>

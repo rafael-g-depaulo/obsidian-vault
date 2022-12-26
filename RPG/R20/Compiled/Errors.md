@@ -66,7 +66,6 @@ Here's a list of all of the errors found.
 - [[Sopro da Salvação]] Spell should have either "wip" or "spell" tag
 - [[Spider Climb]] Spell should have either "wip" or "spell" tag
 - [[Spike Growth]] Spell should have either "wip" or "spell" tag
-- [[Spiritual Weapon]] Spell should have either "wip" or "spell" tag
 - [[Sugestion]] Spell should have either "wip" or "spell" tag
 - [[Sword Burst]] Spell should have either "wip" or "spell" tag
 - [[Tasha's Hideous Laughter]] Spell should have either "wip" or "spell" tag
@@ -78,3 +77,36 @@ Here's a list of all of the errors found.
 - [[Witch Bolt]] Spell should have either "wip" or "spell" tag
 - [[Word of Radiance]] Spell should have either "wip" or "spell" tag
 - [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
+
+## Missing Description
+- [[Bless]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Contagion]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Controlar Plantas]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Dawn]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Despedaçar]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Enfeitiçar]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Fire Storm]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Flame Strike]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Frostbite]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Greater Restoration]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Harm]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Heal]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Holy Weapon]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Insect Plague]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Life Transference]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Magic Stone]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Manto do Cruzado]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Mass Cure Wounds]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Mass Healing Word]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Oração]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Pele de Pedra]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Primal Savagery]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Ray of Frost]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Regenerate]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Resistance]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Revivify]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Sleep]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Sopro da Salvação]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Teia]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Thunderwave]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Área Escorregadia]] Spell is missing a description (or more likely the description is in the wrong format)

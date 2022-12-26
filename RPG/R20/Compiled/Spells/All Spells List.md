@@ -156,7 +156,6 @@
 - [[Snowball Swarm]]
 - [[Spider Climb]]
 - [[Spike Growth]]
-- [[Spiritual Weapon]]
 - [[Sugestion]]
 - [[Sword Burst]]
 - [[Tasha's Hideous Laughter]]

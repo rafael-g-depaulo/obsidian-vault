@@ -1,4 +1,4 @@
-### Spell Name
+### Animal Friendship
 *1º Círculo*
 ___
 - **Execução:** padrão

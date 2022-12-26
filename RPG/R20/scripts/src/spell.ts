@@ -1,5 +1,5 @@
 import { listFiles, readFile } from './file'
-import { matchAllGroups, specialChars } from './regexUtils'
+import { matchAllGroups, matchGroups, specialChars } from './regexUtils'
 import { getTags } from './tags'
 
 export const spellDescriptionItems = [
@@ -7,6 +7,7 @@ export const spellDescriptionItems = [
   'range',
   'target',
   'duration',
+  'critical',
 ] as const
 export type SpellDescriptionItems = typeof spellDescriptionItems[number]
 
@@ -40,10 +41,11 @@ const getSpellLevel = (content: string) => {
 
 const spellDescriptionLabelsRegex: { [key in SpellDescriptionItems]: RegExp } =
   {
-    castTime: /^Casting time/i,
-    duration: /^Duração/i,
-    range: /^Alcance/i,
-    target: /^Alvo/i,
+    castTime: /^Casting time|execução|execuçao|execucao/i,
+    duration: /^Duração|duration|duração|duracao/i,
+    range: /^Alcance|Range/i,
+    target: /^Alvo|target/i,
+    critical: /^crit|critical|critico|crítico/i,
   }
 const spellDescriptionItem =
   /^- \*\*(?<label>.+):\*\*\s*(?<item>[^;\n\r]+)[;\s]*$/gm
@@ -64,14 +66,12 @@ const parseSpellDescriptionItems = (content: string): Spell['items'] =>
       ])
   )
 
-const descriptionParagraphRegex = new RegExp(
-  `^(?<paragraph>[${specialChars}a-z0-9].+)$`,
-  'gmi'
-)
+const descriptionParagraphRegex =
+  /^___\n(?:- \*\*.+:\*\*.+\n)+\n(?<description>[\S\s]+)/gm
+export const INVALID_DESCRIPTION = 'DESCRIPTION_NOT_FOUND'
 const parseDescription = (content: string): string =>
-  matchAllGroups(content, descriptionParagraphRegex)
-    .map(({ paragraph }) => paragraph)
-    .join('\n')
+  matchGroups(content, descriptionParagraphRegex)?.description ??
+  INVALID_DESCRIPTION
 
 export const parseSpell = (name: string, content: string): Spell => {
   return {
