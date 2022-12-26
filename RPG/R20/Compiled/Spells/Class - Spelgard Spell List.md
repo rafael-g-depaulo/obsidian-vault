@@ -2,13 +2,16 @@
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
 - [[Chill Touch]]
 - [[Poison Spray]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
+- [[Burning Hands]]
 - [[Bênção]]
+- [[Chaos Bolt]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -22,6 +25,8 @@
 
 ### 2nd Circle
 - [[Aid]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 

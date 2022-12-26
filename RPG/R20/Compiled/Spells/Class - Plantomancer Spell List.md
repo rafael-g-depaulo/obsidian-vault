@@ -2,6 +2,7 @@
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
@@ -29,8 +30,10 @@
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Ray of Enfeeblement]]
 - [[Web]]
 
 ### 3rd Circle

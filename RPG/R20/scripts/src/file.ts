@@ -5,6 +5,9 @@ import {
   rm,
   access,
   constants,
+  mkdir,
+  rmdir,
+  lstat,
 } from 'fs/promises'
 import { join } from 'path'
 import { matchGroups } from './regexUtils'
@@ -25,6 +28,7 @@ export const writeToFile = async (
 ) => writeFile(join(dir, filename), content, { encoding: 'utf8' })
 
 export const deleteFile = async (...paths: string[]) => rm(join(...paths))
+export const deleteDir = async (...paths: string[]) => rmdir(join(...paths))
 
 export const fileOrFolderExists = async (...path: string[]) =>
   access(join(...path), constants.R_OK | constants.W_OK)
@@ -66,3 +70,31 @@ export const searchFolderRecursively = async (
 
   return searchFolderRecursively(poppedPath, relativePath)
 }
+
+export const createFolder = (folder: string) => mkdir(folder, {})
+
+const isFolder = (...path: string[]) =>
+  lstat(join(...path)).then(stat => stat.isDirectory())
+
+export const deletePath = (path: string): Promise<any> =>
+  isFolder(path)
+    .then(isFolder =>
+      !isFolder
+        ? deleteFile(path)
+        : (listFiles(path).then(items =>
+            Promise.all(items.map(subPath => deletePath(join(path, subPath))))
+          ) as Promise<never>)
+    )
+    .then(() => null as never)
+
+export const cleanFolder = (folder: string) =>
+  fileOrFolderExists(folder).then(exists =>
+    !exists ? createFolder(folder) : deletePath(folder)
+  )
+// .then(() => deletePath(folder))
+// .then(() => deleteFolder(folder))
+// .then(() => listFiles(folder))
+// .then<void>(
+//   files =>
+//     Promise.all(files.map(file => deleteFileOrDir(folder, file))) as any
+// )

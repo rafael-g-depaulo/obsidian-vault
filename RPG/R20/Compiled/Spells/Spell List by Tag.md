@@ -1,7 +1,12 @@
 ## Abjuration Spells
+### Cantrip
+- [[Blade Ward]]
 ### 1st Circle
 - [[Escudo]]
 - [[Imagem Espelhada]]
+### 2nd Circle
+- [[Barkskin]]
+- [[Enhance Ability]]
 ### 3rd Circle
 - [[Campo de Força]]
 ### 5th Circle
@@ -33,6 +38,7 @@
 - [[Toque Chocante]]
 - [[Área Escorregadia]]
 ### 2nd Circle
+- [[Barkskin]]
 - [[Web]]
 ### 3rd Circle
 - [[Campo de Força]]
@@ -54,6 +60,9 @@
 - [[Primor Atlético]]
 ### 2nd Circle
 - [[Aid]]
+- [[Barkskin]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -68,6 +77,8 @@
 ## Cold Spells
 ### Cantrip
 - [[Chill Touch]]
+### 1st Circle
+- [[Chaos Bolt]]
 ### 3rd Circle
 - [[Sopro das Uivantes]]
 
@@ -80,6 +91,7 @@
 - [[Teia]]
 - [[Área Escorregadia]]
 ### 2nd Circle
+- [[Maximilian's Earthen Grasp]]
 - [[Web]]
 ### 3rd Circle
 - [[Flecha Ácida]]
@@ -87,12 +99,17 @@
 - [[Sopro das Uivantes]]
 
 ## Curse Spells
+### Cantrip
+- [[Booming Blade]]
 ### 1st Circle
 - [[Bane]]
 - [[Perdição]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+### 2nd Circle
+- [[Earthbind]]
+- [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Oração]]
@@ -116,7 +133,11 @@
 
 ## Earth Spells
 ### 1st Circle
+- [[Catapult]]
 - [[Earth Tremor]]
+### 2nd Circle
+- [[Earthbind]]
+- [[Maximilian's Earthen Grasp]]
 
 ## Enchantment Spells
 ### 1st Circle
@@ -125,6 +146,9 @@
 - [[Enfeitiçar]]
 - [[Sleep]]
 - [[Tranquilidade]]
+### 2nd Circle
+- [[Earthbind]]
+- [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Oração]]
 
@@ -132,6 +156,8 @@
 ### Cantrip
 - [[Chill Touch]]
 ### 1st Circle
+- [[Burning Hands]]
+- [[Chaos Bolt]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 - [[Toque Chocante]]
@@ -144,6 +170,8 @@
 - [[Acid Splash]]
 - [[Poison Spray]]
 ### 1st Circle
+- [[Burning Hands]]
+- [[Chaos Bolt]]
 - [[Explosão de chamas]]
 - [[Luz]]
 - [[Ray of Sickness]]
@@ -158,6 +186,7 @@
 ### 1st Circle
 - [[Detectar Ameaças]]
 ### 2nd Circle
+- [[Enhance Ability]]
 - [[Web]]
 ### 3rd Circle
 - [[Life Transference]]
@@ -165,6 +194,8 @@
 
 ## Fire Spells
 ### 1st Circle
+- [[Burning Hands]]
+- [[Chaos Bolt]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 
@@ -194,6 +225,7 @@
 
 ## Lighning Spells
 ### 1st Circle
+- [[Chaos Bolt]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
 ### 3rd Circle
@@ -201,12 +233,14 @@
 
 ## Nature Spells
 ### 1st Circle
+- [[Catapult]]
 - [[Despedaçar]]
 - [[Earth Tremor]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Thunderwave]]
 ### 2nd Circle
+- [[Earthbind]]
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Mass Healing Word]]
@@ -236,6 +270,10 @@
 ### 3rd Circle
 - [[Life Transference]]
 
+## No-thaumaturgy Spells
+### 2nd Circle
+- [[Barkskin]]
+
 ## No-wild Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
@@ -246,6 +284,7 @@
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Bane]]
+- [[Chaos Bolt]]
 - [[Escuridão]]
 - [[Fog Cloud]]
 - [[Infligir Ferimentos]]
@@ -253,6 +292,8 @@
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+### 2nd Circle
+- [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Life Transference]]
@@ -269,6 +310,8 @@
 - [[Controlar Plantas]]
 - [[Entangle]]
 - [[Goodberry]]
+### 2nd Circle
+- [[Barkskin]]
 
 ## Poison Spells
 ### Cantrip
@@ -303,6 +346,8 @@
 - [[Primor Atlético]]
 ### 2nd Circle
 - [[Aid]]
+- [[Barkskin]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 ### 3rd Circle
@@ -330,6 +375,7 @@
 - [[Acid Splash]]
 - [[Poison Spray]]
 ### 1st Circle
+- [[Burning Hands]]
 - [[Concentração de Combate]]
 - [[Escudo]]
 - [[Explosão de chamas]]
@@ -349,15 +395,21 @@
 - [[Magic Stone]]
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Catapult]]
 - [[Earth Tremor]]
 - [[Primor Atlético]]
 - [[Thunderwave]]
+### 2nd Circle
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 ### 3rd Circle
 - [[Físico Divino]]
 ### 5th Circle
 - [[Transformação de Guerra]]
 
 ## Trickery Spells
+### Cantrip
+- [[Booming Blade]]
 ### 1st Circle
 - [[Caminhos da Natureza]]
 - [[Controlar Plantas]]
@@ -372,6 +424,7 @@
 - [[Snare]]
 - [[Tranquilidade]]
 ### 2nd Circle
+- [[Ray of Enfeeblement]]
 - [[Web]]
 ### 3rd Circle
 - [[Camuflagem ilusória]]
@@ -383,15 +436,21 @@
 - [[Chill Touch]]
 - [[Toll the Dead]]
 ### 1st Circle
+- [[Chaos Bolt]]
 - [[Escuridão]]
 - [[Fog Cloud]]
 - [[Infligir Ferimentos]]
+### 2nd Circle
+- [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
 ## Warmagic Spells
+### Cantrip
+- [[Blade Ward]]
+- [[Booming Blade]]
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Concentração de Combate]]
@@ -400,6 +459,10 @@
 - [[Guiding Bolt]]
 - [[Primor Atlético]]
 - [[Toque Chocante]]
+### 2nd Circle
+- [[Barkskin]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -417,6 +480,7 @@
 - [[Fog Cloud]]
 - [[Goodberry]]
 ### 2nd Circle
+- [[Barkskin]]
 - [[Web]]
 ### 3rd Circle
 - [[Life Transference]]
@@ -424,12 +488,15 @@
 - [[Toque Vampírico]]
 
 ## Wind Spells
+### Cantrip
+- [[Booming Blade]]
 ### 1st Circle
 - [[Despedaçar]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Thunderwave]]
 ### 2nd Circle
+- [[Earthbind]]
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Mass Healing Word]]

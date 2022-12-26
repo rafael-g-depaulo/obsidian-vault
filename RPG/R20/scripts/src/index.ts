@@ -2,10 +2,10 @@ import { join } from 'path'
 import { className, makeSpellListString } from './classSpellList'
 import { compileRules } from './compileBook'
 import { dealWithErrors } from './error'
-import { listFiles, readFile, writeToFile } from './file'
+import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 
-import { readSpells } from './spell'
-import { createSpellList, parseTagRules } from './tagRules'
+import { readSpells, Spell } from './spell'
+import { createSpellList, parseTagRules, TagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
 import { validateSpells } from './validateSpell'
 
@@ -14,19 +14,33 @@ const baseDir = join(__dirname, '../../')
 const ClassesFolder = join(baseDir, 'Classes')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
-const ResultsFolder = join(baseDir, 'Compiled')
+const CompiledFolder = join(baseDir, 'Compiled')
+const CompiledSpelllistsFolder = join(CompiledFolder, 'Spells')
 
 const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
 const tagSpellListsFile = 'Spell List by Tag.md'
 const compiledClassSpellList = (classname: string) =>
-  `${classname} Spell List.md`
+  `Class - ${classname} Spell List.md`
 const rootRulesFile = 'index.md'
 const allSpellsFile = 'All Spells List.md'
 const rulebookFile = 'R20 - rulebook.md'
 
-// read, analyse and compile stuff
-const compileSpells = async () => {
+// clean results
+const cleanResults = async () =>
+  Promise.all([
+    cleanFolder(CompiledFolder),
+    cleanFolder(CompiledSpelllistsFolder),
+  ])
+
+interface Content {
+  allSpells: Spell[]
+  classSpellListRules: {
+    filename: string
+    rules: TagRules | null
+  }[]
+}
+const parseContent = async () => {
   const tagGroups = await readFile(SpellsFolder, tagGroupsFile).then(
     parseTagGroups
   )
@@ -35,17 +49,8 @@ const compileSpells = async () => {
   // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
-    .then(dealWithErrors(ResultsFolder, errorsFile))
+    .then(dealWithErrors(CompiledFolder, errorsFile))
   // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
-
-  // write all spells
-  writeToFile(
-    ResultsFolder,
-    allSpellsFile,
-    makeSpellListString(allSpells, 'All')
-  )
-  // create tag spell lists
-  writeTagSpellLists(ResultsFolder, tagSpellListsFile)(allSpells)
 
   // create spell lists for classes
   const classFilenames = await listFiles(ClassesFolder)
@@ -56,6 +61,23 @@ const compileSpells = async () => {
         .then(rules => ({ filename, rules }))
     )
   )
+
+  return {
+    allSpells,
+    classSpellListRules,
+  } as Content
+}
+
+const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
+  // write all spells
+  writeToFile(
+    CompiledSpelllistsFolder,
+    allSpellsFile,
+    makeSpellListString(allSpells, 'All')
+  )
+
+  // create tag spell lists
+  writeTagSpellLists(CompiledSpelllistsFolder, tagSpellListsFile)(allSpells)
 
   // compile class spell lists
   classSpellListRules
@@ -69,7 +91,11 @@ const compileSpells = async () => {
       spellList: makeSpellListString(spells, classname),
     }))
     .map(({ classname, spellList }) =>
-      writeToFile(ResultsFolder, compiledClassSpellList(classname), spellList)
+      writeToFile(
+        CompiledSpelllistsFolder,
+        compiledClassSpellList(classname),
+        spellList
+      )
     )
 
   // compile all rules
@@ -78,12 +104,20 @@ const compileSpells = async () => {
     classesFolder: ClassesFolder,
     allSpells,
   }).then(compiledRules =>
-    writeToFile(ResultsFolder, rulebookFile, compiledRules)
+    writeToFile(CompiledFolder, rulebookFile, compiledRules)
   )
 }
 
-// run everything
-compileSpells()
+// read, analyse and compile stuff
+const main = async () => {
+  await cleanResults()
 
+  const { allSpells, classSpellListRules } = await parseContent()
+
+  await compileBook({ allSpells, classSpellListRules })
+}
+
+// run everything
+main()
 // TODO: add in compiled tag spell lists
 // TODO: remove wip automatically (maybe not needed?)

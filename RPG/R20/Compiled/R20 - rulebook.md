@@ -778,6 +778,7 @@ List of spells available for a Plantomancer to learn.
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
@@ -805,8 +806,10 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Ray of Enfeeblement]]
 - [[Web]]
 
 ### 3rd Circle
@@ -1003,13 +1006,16 @@ List of spells available for a Spelgard to learn.
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
 - [[Chill Touch]]
 - [[Poison Spray]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
+- [[Burning Hands]]
 - [[Bênção]]
+- [[Chaos Bolt]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -1023,6 +1029,8 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 
@@ -1914,7 +1922,7 @@ by nature:
   - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
 - #trickery
-  - #ilusion[[Mage Hand]]
+  - #ilusion
   - #divination (also all communication stuff)
   - #enchantment
 - #thaumaturgy (general attack stuff + defense and time magic)
@@ -1950,6 +1958,8 @@ by nature:
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
+- [[Booming Blade]]
 - [[Chill Touch]]
 - [[Guidance]]
 - [[Magic Stone]]
@@ -1963,9 +1973,12 @@ by nature:
 - [[Arma Mágica]]
 - [[Bane]]
 - [[Bless]]
+- [[Burning Hands]]
 - [[Bênção]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Catapult]]
+- [[Chaos Bolt]]
 - [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
@@ -1999,8 +2012,14 @@ by nature:
 
 ### 2nd Circle
 - [[Aid]]
+- [[Barkskin]]
+- [[Earthbind]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
+- [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
+- [[Ray of Enfeeblement]]
 - [[Web]]
 
 ### 3rd Circle
@@ -2048,25 +2067,16 @@ by nature:
 - [[Animal Friendship]]
 - [[Armor of Agathys]]
 - [[Arms of Hadar]]
-- [[Barkskin]]
 - [[Beast Bond]]
-- [[Blade Ward]]
-- [[Booming Blade]]
-- [[Burning Hands]]
 - [[Calm Emotions]]
-- [[Catapult]]
 - [[Cause Fear]]
-- [[Chaos Bolt]]
 - [[Command]]
 - [[Control Flames]]
 - [[Create Bonfire]]
 - [[Crown of Madness]]
 - [[Darkvision]]
 - [[Divine Favor]]
-- [[Earthbind]]
 - [[Eldritch Blast]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Enthrall]]
 - [[False Life]]
 - [[Feather Fall]]
@@ -2086,11 +2096,9 @@ by nature:
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
-- [[Maximilian's Earthen Grasp]]
 - [[Message]]
 - [[Minor Ilusion]]
 - [[Pass Without a Trace]]
-- [[Ray of Enfeeblement]]
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sanctuary]]
@@ -2254,25 +2262,15 @@ ___
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
 
 ### Barkskin
-  <div class="spell-tags"></div>
+  <div class="spell-tags">plant wild boost sacred abjuration no-thaumaturgy arcane warmagic</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Barkskin
-Transmutation
-Level: **2**  
-Casting time: **1 Action**  
-Range: **Touch**  
-Components: **V, S, M (A handful of oak bark)**  
-Duration: **Concentration, up to 1 hour**  
-You touch a willing creature. Until the spellends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
-Page: 217 Players Handbook
-A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
+You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s Defense can’t be less than 16, regardless of what kind of armor it is wearing.
 
 ### Beast Bond
   <div class="spell-tags"></div>
@@ -2317,23 +2315,14 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 5d10 slashing damage. On a successful save, the creature takes half as much damage.
 
 ### Blade Ward
-  <div class="spell-tags"></div>
+  <div class="spell-tags">abjuration warmagic</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*Cantrip*
+- **Alcance:** pessoal;
+- **Duração:** 1 rodada..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Abjuration
-Level: **Cantrip**  
-Casting time: **1 Action**  
-Range: **Self**  
-Components: **V, S**  
-Duration: **1 round**  
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
-Page: 218 Players Handbook
 {{pageNumber,auto}}
 \page
 ### Bless
@@ -2346,49 +2335,27 @@ ___
 You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
 
 ### Booming Blade
-  <div class="spell-tags"></div>
+  <div class="spell-tags">warmagic wind trickery curse</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*Cantrip*
+- **Alvo:** pessoal;
+- **Duração:** imediata..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Create Bonfire
-A Elemental Evil spell
-Conjuration
-Level: **Cantrip**  
-Casting time: **1 Action**  
-Range: **60 feet**  
-Components: **V, S**  
-Duration: **Concentration, up to 1 minute**  
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
-The bonfire ignites flammable objects in its area that aren’t being worn or carried.  
-The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-Page: 16 from EE Players Companion
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.  
+On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
+This spell's damage increases when you reach higher levels. 
 
 ### Burning Hands
-  <div class="spell-tags"></div>
+  <div class="spell-tags">fire energy evocation thaumaturgy</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*1st Circle*
+- **Alcance:** cone (3sqr);
+- **Duração:** imediato.
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Evocation
-Level: **1**  
-Casting time: **1 Action**  
-Range: **Self (15-foot cone)**  
-Components: **V, S**  
-Duration: **Instantaneous**  
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.  
 The fire ignites any flammable objects in the area that aren’t being worn or carried. 
-When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
-Page: 220 Players Handbook
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Calm Emotions
   <div class="spell-tags"></div>
@@ -2459,27 +2426,15 @@ ___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 ### Catapult
-  <div class="spell-tags"></div>
+  <div class="spell-tags">transmutation earth nature</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*1st Circle*
+- **Alcance:** 20sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** concentração..
+- **Duração:** imediata..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Catapult
-A Elemental Evil spell
-Transmutation
-Level: **1**  
-Casting time: **1 Action**  
-Range: **150 feet**  
-Components: **S**  
-Duration: **Instantaneous**  
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
-Page: 15 from EE Players Companion
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Cause Fear
   <div class="spell-tags"></div>
@@ -2505,22 +2460,14 @@ Page: 151 from Xanathar's Guide To Everything
 A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Chaos Bolt
-  <div class="spell-tags"></div>
+  <div class="spell-tags">occult unholy evocation energy fire lighning cold</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*1st Circle*
+- **Alcance:** 12sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** concentração..
+- **Duração:** imediato..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-A spell from Xanathar's Guide To Everything
-Evocation
-Level: **1**  
-Casting time: **1 Action**  
-Range: **120 feet**  
-Components: **V, S**  
-Duration: **Instantaneous**  
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.  
 d8 / Damage Type  
 1 / Acid  
@@ -2532,8 +2479,6 @@ d8 / Damage Type
 7 / Psychic  
 8 / Thunder  
 If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by each casting of this spell.
-When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
-Page: 151 from Xanathar's Guide To Everything
 
 ### Chill Touch
   <div class="spell-tags">cold energy unholy occult</div>
@@ -2607,11 +2552,11 @@ Level: **Cantrip**
 Casting time: **1 Action**  
 Range: **60 feet**  
 Components: **V, S**  
-Duration: **Concentration, up to 1 minute**  
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
-The bonfire ignites flammable objects in its area that aren’t being worn or carried.  
-The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+Duration: **instantaneous or 1hour**  
+You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:  
+If you cast this spell multiple times, you can have up to three non-instantaneous
 Page: 16 from EE Players Companion
+A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Controlar Plantas
   <div class="spell-tags">plant wild enchantment trickery</div>
@@ -2788,26 +2733,15 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 {{pageNumber,auto}}
 \page
 ### Earthbind
-  <div class="spell-tags"></div>
+  <div class="spell-tags">earth nature wind enchantment curse</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** 30sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Earthbind
-A Elemental Evil spell
-Transmutation
-Level: **2**  
-Casting time: **1 Action**  
-Range: **300 feet**  
-Components: **V**  
-Duration: **Concentration, up to 1 minute**  
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
-Page: 17 from EE Players Companion
-A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Eldritch Blast
   <div class="spell-tags"></div>
@@ -2845,49 +2779,30 @@ ___
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
 ### Enhance Ability
-  <div class="spell-tags"></div>
+  <div class="spell-tags">transmutation abjuration warmagic boost feral</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Transmutation
-Level: **2**  
-Casting time: **1 Action**  
-Range: **Touch**  
-Components: **V, S, M (fur or a feather from a beast)**  
-Duration: **Concentration, up to 1 hour**  
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
-When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
-Page: 237 Players Handbook
-A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Cleric](https://www.dnd-spells.com/spells/class/Cleric), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), spell
 
 ### Enlarge Reduce
-  <div class="spell-tags"></div>
+  <div class="spell-tags">transmutation boost sacred warmagic</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Enlarge/Reduce
-Transmutation
-Level: **2**  
-Casting time: **1 Action**  
-Range: **30 feet**  
-Components: **V, S, M (a pinch of powdered iron)**  
-Duration: **Concentration, up to 1 minute**  
+TODO: comparar com a versão do t20 e decidir qual usar
 You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
 The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
-Page: 237 Players Handbook
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Entangle
   <div class="spell-tags">plant wild trickery</div>
@@ -3621,29 +3536,18 @@ ___
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ### Maximilian's Earthen Grasp
-  <div class="spell-tags"></div>
+  <div class="spell-tags">earth creation</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** concentração..
+- **Duração:** cena..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-A Elemental Evil spell
-Transmutation
-Level: **2**  
-Casting time: **1 Action**  
-Range: **30 feet**  
-Components: **V,S,M (a miniature hand sculpted from clay)**  
-Duration: **Concentration, up to 1 minute**  
-You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches  
-for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.  
-As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.  
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
+As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
 To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.  
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
-Page: 20 from EE Players Companion
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Message
   <div class="spell-tags"></div>
@@ -3809,26 +3713,17 @@ ___
 Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de batalha. Criaturas na área sofrem 4d8 pontos de dano de luz (ou 4d12, se forem mortos-vivos) e ficam ofuscadas por uma rodada. Se passarem na resistência, sofrem metade do dano e não ficam ofuscadas. Truque: muda a duração para cena e a resistência para nenhuma. Em vez do normal, cria um facho de luz que ilumina a área da magia. Uma vez por rodada, você pode mudar a direção do facho como uma ação livre.
 
 ### Ray of Enfeeblement
-  <div class="spell-tags"></div>
+  <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*2nd Circle*
+- **Alcance:** 15sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** concentração..
+- **Duração:** imediata..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Ray of Enfeeblement
-Necromancy
-Level: **2**  
-Casting time: **1 Action**  
-Range: **60 feet**  
-Components: **V, S**  
-Duration: **Concentration, up to 1 minute**  
 A black beam of enervating energy springs from your finger toward a creature within range.  
 Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.  
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
-Page: 271 Players Handbook
 
 ### Ray of Frost
   <div class="spell-tags"></div>

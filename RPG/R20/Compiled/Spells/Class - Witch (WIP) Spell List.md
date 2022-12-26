@@ -10,6 +10,7 @@
 - [[Snare]]
 
 ### 2nd Circle
+- [[Enhance Ability]]
 - [[Web]]
 
 ### 3rd Circle
