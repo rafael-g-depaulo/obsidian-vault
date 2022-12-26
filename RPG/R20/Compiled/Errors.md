@@ -3,7 +3,6 @@ Here's a list of all of the errors found.
 
 ## Spell Tag
 - [[Animal Friendship]] Spell should have either "wip" or "spell" tag
-- [[Armor of Agathys]] Spell should have either "wip" or "spell" tag
 - [[Arms of Hadar]] Spell should have either "wip" or "spell" tag
 - [[Beast Bond]] Spell should have either "wip" or "spell" tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
@@ -20,8 +19,6 @@ Here's a list of all of the errors found.
 - [[Divine Favor]] Spell should have either "wip" or "spell" tag
 - [[Eldritch Blast]] Spell should have either "wip" or "spell" tag
 - [[Enthrall]] Spell should have either "wip" or "spell" tag
-- [[False Life]] Spell should have either "wip" or "spell" tag
-- [[Feather Fall]] Spell should have either "wip" or "spell" tag
 - [[Fire Bolt]] Spell should have either "wip" or "spell" tag
 - [[Fire Storm]] Spell should have either "wip" or "spell" tag
 - [[Flame Strike]] Spell should have either "wip" or "spell" tag
@@ -30,7 +27,6 @@ Here's a list of all of the errors found.
 - [[Green Flame Blade]] Spell should have either "wip" or "spell" tag
 - [[Guidance]] Spell should have either "wip" or "spell" tag
 - [[Gust]] Spell should have either "wip" or "spell" tag
-- [[Hail of Thorns]] Spell should have either "wip" or "spell" tag
 - [[Harm]] Spell should have either "wip" or "spell" tag
 - [[Heal]] Spell should have either "wip" or "spell" tag
 - [[Healing Spirit]] Spell should have either "wip" or "spell" tag
@@ -82,23 +78,3 @@ Here's a list of all of the errors found.
 - [[Witch Bolt]] Spell should have either "wip" or "spell" tag
 - [[Word of Radiance]] Spell should have either "wip" or "spell" tag
 - [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
-
-## Tag Group Hierarchy
-- [[Blade Ward]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Blade Ward]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
-- [[Booming Blade]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Booming Blade]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Booming Blade]] Spell has tag "wind" but is missing it's group tag "nature" (or you can add "#no-nature")
-- [[Catapult]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Chaos Bolt]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
-- [[Earthbind]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Earthbind]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Enhance Ability]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
-- [[Enhance Ability]] Spell has tag "boost" but is missing it's group tag "sacred" (or you can add "#no-sacred")
-- [[Enhance Ability]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Enhance Ability]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Enhance Ability]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
-- [[Enlarge Reduce]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Enlarge Reduce]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Maximilian's Earthen Grasp]] Spell has tag "creation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Maximilian's Earthen Grasp]] Spell has tag "earth" but is missing it's group tag "nature" (or you can add "#no-nature")

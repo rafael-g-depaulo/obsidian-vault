@@ -3,14 +3,17 @@
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
+- [[Booming Blade]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Catapult]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -18,8 +21,11 @@
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[False Life]]
+- [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Ray of Sickness]]
 - [[Sleep]]
@@ -32,6 +38,7 @@
 ### 2nd Circle
 - [[Earthbind]]
 - [[Lesser Restoration]]
+- [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
@@ -79,8 +86,19 @@ ___
 Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
 Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
 
+### Armor of Agathys
+  <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
+
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
+
+___
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.  
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. 
+
 ### Blade Ward
-  <div class="spell-tags">abjuration warmagic</div>
+  <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
 *Cantrip*
 - **Alcance:** pessoal;
@@ -88,6 +106,18 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 
 ___
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+
+### Booming Blade
+  <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
+
+*Cantrip*
+- **Alvo:** pessoal;
+- **Duração:** imediata..
+
+___
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.  
+On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
+This spell's damage increases when you reach higher levels. 
 
 ### Caminhos da Natureza
   <div class="spell-tags">wild summon enchantment trickery</div>
@@ -99,7 +129,8 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
-
+{{pageNumber,auto}}
+\page
 ### Canhão de Ervilha
   <div class="spell-tags">summon plant wild</div>
 
@@ -111,6 +142,17 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 
 ___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
+
+### Catapult
+  <div class="spell-tags">transmutation earth nature arcane</div>
+
+*1st Circle*
+- **Alcance:** 20sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
 
 ### Controlar Plantas
   <div class="spell-tags">plant wild enchantment trickery</div>
@@ -124,8 +166,7 @@ ___
 Duração: cena;
 Resistência: Reflexos anula.
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
-{{pageNumber,auto}}
-\page
+
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -165,9 +206,10 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 
 ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
-
+{{pageNumber,auto}}
+\page
 ### Earthbind
-  <div class="spell-tags">earth nature wind enchantment curse</div>
+  <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
 *2nd Circle*
 - **Alcance:** 30sqr;
@@ -201,8 +243,28 @@ Grasping weeds and vines sprout from the ground in a 20-foot square starting fro
 into difficult terrain.
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 When the spell ends, the conjured plants wilt away.
-{{pageNumber,auto}}
-\page
+
+### False Life
+  <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
+
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
+
+___
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
+
+### Feather Fall
+  <div class="spell-tags">transmutation wind chronomancy arcane no-thaumaturgy nature</div>
+
+*1st Circle*
+- **Alcance:** 12sqr;
+- **Alvo:** 1-5 criaturas;
+- **Duração:** 1 minuto..
+
+___
+Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
+
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -222,7 +284,8 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-
+{{pageNumber,auto}}
+\page
 ### Goodberry
   <div class="spell-tags">plant wild summon</div>
 
@@ -232,6 +295,16 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ___
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+
+### Hail of Thorns
+  <div class="spell-tags">warmagic plant wild no-arcane</div>
+
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** imediata..
+
+___
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
@@ -270,6 +343,20 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 ___
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+### Maximilian's Earthen Grasp
+  <div class="spell-tags">earth creation arcane nature</div>
+
+*2nd Circle*
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
+As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
+To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.  
+As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 {{pageNumber,auto}}
 \page
 ### Poison Spray

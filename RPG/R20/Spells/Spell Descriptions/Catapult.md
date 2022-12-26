@@ -1,4 +1,4 @@
-#spell #transmutation #earth #nature 
+#spell #transmutation #earth #nature #arcane 
 ### Catapult
 *1º Círculo*
 ___

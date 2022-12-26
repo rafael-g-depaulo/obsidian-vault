@@ -18,6 +18,7 @@
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escuridão]]
+- [[False Life]]
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Healing Word]]
@@ -32,6 +33,7 @@
 
 ### 2nd Circle
 - [[Aid]]
+- [[Earthbind]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
 
@@ -124,7 +126,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 {{pageNumber,auto}}
 \page
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation energy fire lighning cold</div>
+  <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** 12sqr;
@@ -180,6 +182,17 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 ___
 Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura tocada. Como mortos-vivos usam energia egativa, esta magia causa dano de luz a eles (Vontade reduz à metade). Curar Ferimentos anula Infligir Ferimentos. Truque: em vez do normal, estabiliza uma criatura. Truque: muda o alvo para 1 morto- vivo. Em vez do normal, causa 1d8 pontos de dano de luz (Vontade reduz à metade).
 
+### Earthbind
+  <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
+
+*2nd Circle*
+- **Alcance:** 30sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
+
 ### Enfeitiçar
   <div class="spell-tags">enchantment trickery</div>
 
@@ -204,7 +217,8 @@ Grasping weeds and vines sprout from the ground in a 20-foot square starting fro
 into difficult terrain.
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 When the spell ends, the conjured plants wilt away.
-
+{{pageNumber,auto}}
+\page
 ### Escuridão
   <div class="spell-tags">occult unholy trickery ilusion</div>
 
@@ -215,8 +229,17 @@ When the spell ends, the conjured plants wilt away.
 
 ___
 O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área recebem amuflagem por escuridão. As sombras não podem ser iluminadas por nenhuma fonte de luz natural. O objeto pode ser uardado (em um bolso, por exemplo) para interromper a escuridão, que voltará a funcionar caso o objeto seja revelado. e lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. scuridão anula Luz.
-{{pageNumber,auto}}
-\page
+
+### False Life
+  <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
+
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
+
+___
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
+
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -266,7 +289,8 @@ A creature of your choice that you can see within range regains hit points equal
 
 ___
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
-
+{{pageNumber,auto}}
+\page
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
 
@@ -288,8 +312,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 
 ___
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
-{{pageNumber,auto}}
-\page
+
 ### Life Transference
   <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -342,7 +365,8 @@ ___
 
 ___
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
-
+{{pageNumber,auto}}
+\page
 ### Primal Savagery
   <div class="spell-tags">wild feral</div>
 
@@ -366,8 +390,7 @@ ___
 A black beam of enervating energy springs from your finger toward a creature within range.  
 Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.  
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
-{{pageNumber,auto}}
-\page
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -419,7 +442,8 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 
 ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
-
+{{pageNumber,auto}}
+\page
 ### Toll the Dead
   <div class="spell-tags">occult unholy decay necrotic</div>
 
@@ -439,8 +463,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 ___
 Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Você recupera pontos de vida iguais à metade do dano causado (se causou algum dano).
-{{pageNumber,auto}}
-\page
+
 ### Tranquilidade
   <div class="spell-tags">enchantment trickery</div>
 

@@ -785,14 +785,17 @@ List of spells available for a Plantomancer to learn.
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
+- [[Booming Blade]]
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Catapult]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -800,8 +803,11 @@ List of spells available for a Plantomancer to learn.
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[False Life]]
+- [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Ray of Sickness]]
 - [[Sleep]]
@@ -814,6 +820,7 @@ List of spells available for a Plantomancer to learn.
 ### 2nd Circle
 - [[Earthbind]]
 - [[Lesser Restoration]]
+- [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
@@ -1018,6 +1025,7 @@ List of spells available for a Spelgard to learn.
 
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Armor of Agathys]]
 - [[Bless]]
 - [[Burning Hands]]
 - [[Bênção]]
@@ -1035,7 +1043,6 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
-- [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -1239,6 +1246,7 @@ Spell List:
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escuridão]]
+- [[False Life]]
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Healing Word]]
@@ -1253,6 +1261,7 @@ Spell List:
 
 ### 2nd Circle
 - [[Aid]]
+- [[Earthbind]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
 
@@ -2123,7 +2132,9 @@ by nature:
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Animal Friendship]]
 - [[Arma Mágica]]
+- [[Armor of Agathys]]
 - [[Bane]]
 - [[Bless]]
 - [[Burning Hands]]
@@ -2144,9 +2155,12 @@ by nature:
 - [[Escudo]]
 - [[Escuridão]]
 - [[Explosão de chamas]]
+- [[False Life]]
+- [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Guiding Bolt]]
+- [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
@@ -2217,8 +2231,6 @@ by nature:
 - [[Regenerate]]
 
 ### -1th Circle
-- [[Animal Friendship]]
-- [[Armor of Agathys]]
 - [[Arms of Hadar]]
 - [[Beast Bond]]
 - [[Calm Emotions]]
@@ -2231,13 +2243,10 @@ by nature:
 - [[Divine Favor]]
 - [[Eldritch Blast]]
 - [[Enthrall]]
-- [[False Life]]
-- [[Feather Fall]]
 - [[Fire Bolt]]
 - [[Frostbite]]
 - [[Green Flame Blade]]
 - [[Gust]]
-- [[Hail of Thorns]]
 - [[Healing Spirit]]
 - [[Hellish Rebuke]]
 - [[Hold Person]]
@@ -2319,24 +2328,14 @@ Choose up to three creatures within range. Each target’s hit point maximum and
 ### Animal Friendship
   <div class="spell-tags"></div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
+*1st Circle*
+- **Alcance:** 12sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** concentração..
+- **Duração:** 24 horas..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Enchantment
-Level: **1**  
-Casting time: **1 Action**  
-Range: **30 feet**  
-Components: **V, S, M (a morsel of food)**  
-Duration: **24 hours**  
 This spell lets you convince a beast that you mean it no harm.  
 Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
-When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
-Page: 212 Players Handbook
-A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Área Escorregadia
   <div class="spell-tags">arcane creation</div>
@@ -2361,26 +2360,15 @@ ___
 A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é considerada mágica. Caso você esteja empunhando a arma, pode usar seu atributo-chave de magias em vez do atributo original nos testes de ataque.
 
 ### Armor of Agathys
-  <div class="spell-tags"></div>
+  <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Abjuration
-Level: **1**  
-Casting time: **1 Action**  
-Range: **Self**  
-Components: **V, S, M (a cup of water)**  
-Duration: **1 hour**  
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.  
 You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. 
-When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot
-Page: 215 Players Handbook
-A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
 {{pageNumber,auto}}
 \page
 ### Arms of Hadar
@@ -2468,7 +2456,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 When a creature enters the wall’s area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 5d10 slashing damage. On a successful save, the creature takes half as much damage.
 
 ### Blade Ward
-  <div class="spell-tags">abjuration warmagic</div>
+  <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
 *Cantrip*
 - **Alcance:** pessoal;
@@ -2488,7 +2476,7 @@ ___
 You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
 
 ### Booming Blade
-  <div class="spell-tags">warmagic wind trickery curse</div>
+  <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
 
 *Cantrip*
 - **Alvo:** pessoal;
@@ -2579,7 +2567,7 @@ ___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 ### Catapult
-  <div class="spell-tags">transmutation earth nature</div>
+  <div class="spell-tags">transmutation earth nature arcane</div>
 
 *1st Circle*
 - **Alcance:** 20sqr;
@@ -2613,7 +2601,7 @@ Page: 151 from Xanathar's Guide To Everything
 A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation energy fire lighning cold</div>
+  <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** 12sqr;
@@ -2886,7 +2874,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 {{pageNumber,auto}}
 \page
 ### Earthbind
-  <div class="spell-tags">earth nature wind enchantment curse</div>
+  <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
 *2nd Circle*
 - **Alcance:** 30sqr;
@@ -2932,7 +2920,7 @@ ___
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
 ### Enhance Ability
-  <div class="spell-tags">transmutation abjuration warmagic boost feral</div>
+  <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
 
 *2nd Circle*
 - **Alcance:** toque;
@@ -2943,7 +2931,7 @@ ___
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
 
 ### Enlarge Reduce
-  <div class="spell-tags">transmutation boost sacred warmagic</div>
+  <div class="spell-tags">transmutation boost sacred warmagic warmagic arcane</div>
 
 *2nd Circle*
 - **Alcance:** 6sqr;
@@ -3025,46 +3013,25 @@ ___
 Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1  bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela,  ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
 
 ### False Life
-  <div class="spell-tags"></div>
+  <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Necromancy
-Level: **1**  
-Casting time: **1 Action**  
-Range: **Self**  
-Components: **V, S, M (a small amount of alcohol or distilled spirits)**  
-Duration: **1 hour**  
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
-When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
-Page: 239 Players Handbook
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Feather Fall
-  <div class="spell-tags"></div>
+  <div class="spell-tags">transmutation wind chronomancy arcane no-thaumaturgy nature</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*1st Circle*
+- **Alcance:** 12sqr;
+- **Alvo:** 1-5 criaturas;
+- **Duração:** 1 minuto..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Feather Fall
-Transmutation
-Level: **1**  
-Casting time: **Special**  
-Range: **60 feet**  
-Components: **V, M (a small feather or piece of down)**  
-Duration: **1 minute**  
-Reaction: When you or a creature within 60 feet of you falls  
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
-Page: 239 Players Handbook
 
 ### Fire Bolt
   <div class="spell-tags"></div>
@@ -3247,25 +3214,14 @@ Page: 19 from EE Players Companion
 A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
 
 ### Hail of Thorns
-  <div class="spell-tags"></div>
+  <div class="spell-tags">warmagic plant wild no-arcane</div>
 
-*-1th Circle*
-- **Alcance:** 9m (6 quadrados de 1,5m);
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** imediata..
 
 ___
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-Conjuration
-Level: **1**  
-Casting time: **1 Bonus Action**  
-Range: **Self**  
-Components: **V**  
-Duration: **Concentration, up to 1 minute**  
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
-If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
-Page: 249 Players Handbook
-A [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
 
 ### Harm
   <div class="spell-tags"></div>
@@ -3689,7 +3645,7 @@ ___
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 ### Maximilian's Earthen Grasp
-  <div class="spell-tags">earth creation</div>
+  <div class="spell-tags">earth creation arcane nature</div>
 
 *2nd Circle*
 - **Alcance:** 6sqr;

@@ -1,4 +1,4 @@
-#spell #transmutation #boost #sacred #warmagic 
+#spell #transmutation #boost #sacred #warmagic  #warmagic #arcane
 ### Enlarge/Reduce
 *2º Círculo*
 ___

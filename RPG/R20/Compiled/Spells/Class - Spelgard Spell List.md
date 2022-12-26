@@ -8,6 +8,7 @@
 
 ### 1st Circle
 - [[Arma Mágica]]
+- [[Armor of Agathys]]
 - [[Bless]]
 - [[Burning Hands]]
 - [[Bênção]]
@@ -25,7 +26,6 @@
 
 ### 2nd Circle
 - [[Aid]]
-- [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -74,6 +74,17 @@ Choose up to three creatures within range. Each target’s hit point maximum and
 ___
 A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é considerada mágica. Caso você esteja empunhando a arma, pode usar seu atributo-chave de magias em vez do atributo original nos testes de ataque.
 
+### Armor of Agathys
+  <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
+
+*1st Circle*
+- **Alcance:** pessoal;
+- **Duração:** cena..
+
+___
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.  
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. 
+
 ### Bênção
   <div class="spell-tags">boost sacred</div>
 
@@ -86,7 +97,7 @@ ___
 Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênção anula Perdição.
 
 ### Blade Ward
-  <div class="spell-tags">abjuration warmagic</div>
+  <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
 *Cantrip*
 - **Alcance:** pessoal;
@@ -103,7 +114,8 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ___
 You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
-
+{{pageNumber,auto}}
+\page
 ### Burning Hands
   <div class="spell-tags">fire energy evocation thaumaturgy</div>
 
@@ -114,8 +126,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 ___
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.  
 The fire ignites any flammable objects in the area that aren’t being worn or carried. 
-{{pageNumber,auto}}
-\page
+
 ### Campo de Força
   <div class="spell-tags">abjuration thaumaturgy arcane boost sacred warmagic</div>
 
@@ -128,7 +139,7 @@ ___
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation energy fire lighning cold</div>
+  <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
 *1st Circle*
 - **Alcance:** 12sqr;
@@ -190,21 +201,10 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
-### Enhance Ability
-  <div class="spell-tags">transmutation abjuration warmagic boost feral</div>
-
-*2nd Circle*
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
 {{pageNumber,auto}}
 \page
 ### Enlarge Reduce
-  <div class="spell-tags">transmutation boost sacred warmagic</div>
+  <div class="spell-tags">transmutation boost sacred warmagic warmagic arcane</div>
 
 *2nd Circle*
 - **Alcance:** 6sqr;

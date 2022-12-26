@@ -1,4 +1,4 @@
-#spell #abjuration #warmagic 
+#spell #abjuration #warmagic #thaumaturgy #arcane 
 ### Blade Ward
 *Truque*
 ___
