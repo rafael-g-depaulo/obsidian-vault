@@ -9,7 +9,7 @@ import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 
 import { readSpells, Spell } from './spell'
-import { createSpellList, parseTagRules, TagRules } from './tagRules'
+import { parseTagRules, TagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
 import { validateSpells } from './validateSpell'
 
