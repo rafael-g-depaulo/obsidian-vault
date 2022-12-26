@@ -109,7 +109,8 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 - **+1PM:** aumenta os PV temporários em 5
 - **+1PM:** aumenta o dano em 5
-
+{{pageNumber,auto}}
+\page
 ### Blade Ward
   <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
@@ -150,8 +151,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+0 PM**: muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
 - **+1 PM**: além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM**: aumenta o bônus de deslocamento em +3m.
-{{pageNumber,auto}}
-\page
+
 ### Canhão de Ervilha
   <div class="spell-tags">summon plant wild</div>
 
@@ -169,7 +169,8 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo.
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo.
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Catapult
   <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -223,7 +224,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
+{{pageNumber,auto}}
+\page
 ### Detectar Ameaças
   <div class="spell-tags">divination feral wild trickery arcane warmagic</div>
 
@@ -253,8 +255,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 
 - **+2PM:** increase the damage by +1d6
 - **+3PM:** increase the radius by 1sqr
-{{pageNumber,auto}}
-\page
+
 ### Earthbind
   <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
@@ -279,7 +280,8 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Entangle
   <div class="spell-tags">plant wild trickery</div>
 
@@ -343,7 +345,8 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 - **+2 PM:** aumenta a redução na Defesa em 1.
 - **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6.
 
-
+{{pageNumber,auto}}
+\page
 ### Fog Cloud
   <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
 
@@ -354,8 +357,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-{{pageNumber,auto}}
-\page
+
 ### Goodberry
   <div class="spell-tags">plant wild summon</div>
 
@@ -397,7 +399,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -511,7 +514,8 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -557,8 +561,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas.
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo.
 
-{{pageNumber,auto}}
-\page
+
 ### Teia
   <div class="spell-tags">arcane creation</div>
 
@@ -569,7 +572,8 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -631,7 +635,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+2 PM:** aumenta a penalidade em –1.
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 

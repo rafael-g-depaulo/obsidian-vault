@@ -1,6 +1,7 @@
 #spell #boost #sacred
 ### Bless
 *1st Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Components:** a sprinkling of holy water

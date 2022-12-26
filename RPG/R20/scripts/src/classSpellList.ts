@@ -47,7 +47,7 @@ ${spell.description}
 `
 
 export const makeSpellDescriptionsListString = (spells: Spell[]) =>
-  joinInGroupsOf(7)(
+  joinInGroupsOf(4)(
     spells
       .sort((a, b) => a.name.localeCompare(b.name))
       .map(makeSpellDescriptionString)

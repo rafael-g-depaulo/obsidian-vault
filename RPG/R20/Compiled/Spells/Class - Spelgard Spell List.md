@@ -87,7 +87,8 @@ Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênç
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia.
 - **+2 PM:** aumenta os bônus em +1
 
-
+{{pageNumber,auto}}
+\page
 ### Bless
   <div class="spell-tags">boost sacred</div>
 
@@ -97,7 +98,13 @@ Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênç
 - **Duração:** cena.
 
 ___
-DESCRIPTION_NOT_FOUND
+You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
+
+- **+2 PM:** aumenta o número de alvos em 1
+- **+2 PM:** aumenta o número de dados de auxílio em +1.
+- **+3 PM:** muda o tipo dos dados de auxílio para d6.
+- **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo
+
 
 ### Burning Hands
   <div class="spell-tags">fire energy evocation thaumaturgy</div>
@@ -140,8 +147,7 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 - **+1PM:** aumenta o dano em 1d6
 
-{{pageNumber,auto}}
-\page
+
 ### Concentração de Combate
   <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
 
@@ -157,7 +163,8 @@ Você amplia sua percepção, antecipando movimentos dos inimigos e achando brec
 - **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo.
 - **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo.
 
-
+{{pageNumber,auto}}
+\page
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -229,22 +236,25 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-
+{{pageNumber,auto}}
+\page
 ### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic arcane</div>
+  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** reação;
-- **Alcance:** 6sqr;
-- **Alvo:** 1 criatura;
+- **Alcance:** pessoal;
 - **Duração:** 1 turno..
 
 ___
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa.
+Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa. 
 
-- **+1 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena.
-- **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância.
-- **+2 PM:** aumenta o bônus na Defesa em +1
+- **+1PM:** muda o alcance para 6sqr, o alvo para 1 criatura e diminui o bonus na defesa em 2
+- **+1 PM:** muda a execução para ação padrão, o alcance para toque, a duração para cena e diminui o bonus na defesa em 3. 
+- **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância. 
+- **+2 PM:** aumenta o bônus na Defesa em +1.
+- **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo. 
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo.
 
 
 ### Explosão de chamas
@@ -262,8 +272,7 @@ Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo à
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar,  ica em chamas (veja Condições, no Apêndice). 
 
 
-{{pageNumber,auto}}
-\page
+
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
 
@@ -294,7 +303,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -351,7 +361,8 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Toque Chocante
   <div class="spell-tags">lighning energy evocation thaumaturgy warmagic arcane</div>
 

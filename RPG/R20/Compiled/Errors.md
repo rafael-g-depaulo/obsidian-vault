@@ -79,7 +79,6 @@ Here's a list of all of the errors found.
 - [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
 
 ## Missing Description
-- [[Bless]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Contagion]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Controlar Plantas]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Dawn]] Spell is missing a description (or more likely the description is in the wrong format)

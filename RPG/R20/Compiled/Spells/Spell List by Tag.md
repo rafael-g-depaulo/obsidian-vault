@@ -34,7 +34,6 @@
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Escudo]]
-- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]

@@ -103,8 +103,15 @@ Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênç
 - **Duração:** cena.
 
 ___
-DESCRIPTION_NOT_FOUND
+You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
 
+- **+2 PM:** aumenta o número de alvos em 1
+- **+2 PM:** aumenta o número de dados de auxílio em +1.
+- **+3 PM:** muda o tipo dos dados de auxílio para d6.
+- **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo
+
+{{pageNumber,auto}}
+\page
 ### Caminhos da Natureza
   <div class="spell-tags">wild summon enchantment trickery</div>
 
@@ -152,8 +159,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo.
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo.
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Chaos Bolt
   <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
@@ -178,7 +184,8 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 - **+1PM:** aumenta o dano em 1d6
 
-
+{{pageNumber,auto}}
+\page
 ### Chill Touch
   <div class="spell-tags">cold energy unholy occult</div>
 
@@ -235,7 +242,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 ___
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 ### Enfeitiçar
   <div class="spell-tags">enchantment trickery</div>
 
@@ -268,8 +276,7 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta a CD em 1.
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr.
 
-{{pageNumber,auto}}
-\page
+
 ### Escuridão
   <div class="spell-tags">occult unholy trickery ilusion</div>
 
@@ -301,7 +308,8 @@ ___
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
 
 - **+1PM:** aumenta +1d4 nos PV temporários
-
+{{pageNumber,auto}}
+\page
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -358,7 +366,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Imagem Espelhada
   <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -373,8 +382,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 
 - **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2).
 - **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo. 
-{{pageNumber,auto}}
-\page
+
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
 
@@ -420,7 +428,8 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Mage Hand
   <div class="spell-tags">trickery</div>
 
@@ -531,7 +540,8 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Snare
   <div class="spell-tags">trickery ilusion ilusion curse occult</div>
 
@@ -579,8 +589,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-{{pageNumber,auto}}
-\page
+
 ### Toll the Dead
   <div class="spell-tags">occult unholy decay necrotic</div>
 
@@ -594,7 +603,8 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 - **+3 PM:** increase the damage by 2 dice
 
-
+{{pageNumber,auto}}
+\page
 ### Toque Vampírico
   <div class="spell-tags">necrotic decay feral wild unholy occult</div>
 

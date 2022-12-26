@@ -2336,7 +2336,8 @@ Choose a beast that you can see within range. It must see and hear you. If the b
 
 - **+2PM:** you can affect one additional beast for each slot level above 1st.
 
-
+{{pageNumber,auto}}
+\page
 ### Área Escorregadia
   <div class="spell-tags">arcane creation</div>
 
@@ -2379,8 +2380,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 - **+1PM:** aumenta os PV temporários em 5
 - **+1PM:** aumenta o dano em 5
-{{pageNumber,auto}}
-\page
+
 ### Arms of Hadar
   <div class="spell-tags"></div>
 
@@ -2423,7 +2423,8 @@ Page: 215 Players Handbook
 ---
 
 A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
-
+{{pageNumber,auto}}
+\page
 ### Bane
   <div class="spell-tags">curse occult</div>
 
@@ -2507,7 +2508,8 @@ Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênç
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia.
 - **+2 PM:** aumenta os bônus em +1
 
-
+{{pageNumber,auto}}
+\page
 ### Blade Barrier
   <div class="spell-tags"></div>
 
@@ -2532,8 +2534,7 @@ When a creature enters the wall’s area for the first time on a turn or starts 
 ___
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-{{pageNumber,auto}}
-\page
+
 ### Bless
   <div class="spell-tags">boost sacred</div>
 
@@ -2543,7 +2544,13 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 - **Duração:** cena.
 
 ___
-DESCRIPTION_NOT_FOUND
+You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
+
+- **+2 PM:** aumenta o número de alvos em 1
+- **+2 PM:** aumenta o número de dados de auxílio em +1.
+- **+3 PM:** muda o tipo dos dados de auxílio para d6.
+- **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo
+
 
 ### Booming Blade
   <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
@@ -2558,7 +2565,8 @@ As part of the action used to cast this spell, you must make a melee attack with
 On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
 This spell's damage increases when you reach higher levels. 
 
-
+{{pageNumber,auto}}
+\page
 ### Burning Hands
   <div class="spell-tags">fire energy evocation thaumaturgy</div>
 
@@ -2646,7 +2654,8 @@ Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporá
 
 - **+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe resistência 30 contra o próximo dano que sofrer até o fim do turno atual.
 - **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10.
-
+{{pageNumber,auto}}
+\page
 ### Camuflagem ilusória
   <div class="spell-tags">ilusion trickery</div>
 
@@ -2661,8 +2670,7 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 
 - **+3 PM:** a imagem do alvo fica mais distorcida, oferecendo camuflagem total.
 - **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Canhão de Ervilha
   <div class="spell-tags">summon plant wild</div>
 
@@ -2744,7 +2752,8 @@ A [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https:/
 ---
 
 [](https://www.dnd-spells.com/auth/register)
-
+{{pageNumber,auto}}
+\page
 ### Chaos Bolt
   <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
@@ -2951,7 +2960,8 @@ The spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level
 ---
 
 Page: 16 from EE Players Companion
-
+{{pageNumber,auto}}
+\page
 ### Crown of Madness
   <div class="spell-tags"></div>
 
@@ -3055,8 +3065,7 @@ Page: 230 Players Handbook
 ---
 
 A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
-{{pageNumber,auto}}
-\page
+
 ### Dawn
   <div class="spell-tags"></div>
 
@@ -3067,7 +3076,8 @@ A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Desintegrar
   <div class="spell-tags"></div>
 
@@ -3121,7 +3131,8 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora.
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas.
 - **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Divine Favor
   <div class="spell-tags"></div>
 
@@ -3174,8 +3185,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 
 - **+2PM:** increase the damage by +1d6
 - **+3PM:** increase the radius by 1sqr
-{{pageNumber,auto}}
-\page
+
 ### Earthbind
   <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
@@ -3227,7 +3237,8 @@ You can direct the beams at the same target or at different ones. Make a separat
 ---
 
 Page: 237 Players Handbook
-
+{{pageNumber,auto}}
+\page
 ### Enfeitiçar
   <div class="spell-tags">enchantment trickery</div>
 
@@ -3303,7 +3314,8 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta a CD em 1.
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr.
 
-
+{{pageNumber,auto}}
+\page
 ### Enthrall
   <div class="spell-tags"></div>
 
@@ -3341,23 +3353,24 @@ Page: 238 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), spell
-{{pageNumber,auto}}
-\page
+
 ### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic arcane</div>
+  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** reação;
-- **Alcance:** 6sqr;
-- **Alvo:** 1 criatura;
+- **Alcance:** pessoal;
 - **Duração:** 1 turno..
 
 ___
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa.
+Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa. 
 
-- **+1 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena.
-- **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância.
-- **+2 PM:** aumenta o bônus na Defesa em +1
+- **+1PM:** muda o alcance para 6sqr, o alvo para 1 criatura e diminui o bonus na defesa em 2
+- **+1 PM:** muda a execução para ação padrão, o alcance para toque, a duração para cena e diminui o bonus na defesa em 3. 
+- **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância. 
+- **+2 PM:** aumenta o bônus na Defesa em +1.
+- **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo. 
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo.
 
 
 ### Escuridão
@@ -3394,7 +3407,8 @@ Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo à
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar,  ica em chamas (veja Condições, no Apêndice). 
 
 
-
+{{pageNumber,auto}}
+\page
 ### False Life
   <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
@@ -3518,7 +3532,8 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-
+{{pageNumber,auto}}
+\page
 ### Frostbite
   <div class="spell-tags"></div>
 
@@ -3552,8 +3567,7 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 
 ___
 DESCRIPTION_NOT_FOUND
-{{pageNumber,auto}}
-\page
+
 ### Green Flame Blade
   <div class="spell-tags"></div>
 
@@ -3578,7 +3592,8 @@ Duration: **Concentration, up to 1 minute**
 ---
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
-
+{{pageNumber,auto}}
+\page
 ### Guidance
   <div class="spell-tags"></div>
 
@@ -3671,7 +3686,8 @@ ___
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 - **+2PM:** aumenta o dano em 1d10
-
+{{pageNumber,auto}}
+\page
 ### Harm
   <div class="spell-tags"></div>
 
@@ -3693,8 +3709,7 @@ DESCRIPTION_NOT_FOUND
 
 ___
 DESCRIPTION_NOT_FOUND
-{{pageNumber,auto}}
-\page
+
 ### Healing Spirit
   <div class="spell-tags"></div>
 
@@ -3754,7 +3769,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Hellish Rebuke
   <div class="spell-tags"></div>
 
@@ -3867,7 +3883,8 @@ A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Cleric](https://www.d
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Ice Knife
   <div class="spell-tags"></div>
 
@@ -3911,8 +3928,7 @@ Page: 19 from EE Players Companion
 ---
 
 A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-{{pageNumber,auto}}
-\page
+
 ### Imagem Espelhada
   <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -3987,7 +4003,8 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia.
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
-
+{{pageNumber,auto}}
+\page
 ### Insect Plague
   <div class="spell-tags"></div>
 
@@ -4209,7 +4226,8 @@ Page: 256 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-
+{{pageNumber,auto}}
+\page
 ### Luz
   <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
 
@@ -4285,8 +4303,7 @@ You can use your action to control the hand. You can use the hand to manipulate 
 - **+Y PM:** Aumenta a carga máxima em X kilos.
 - **+X PM (Needs X circle):** turn into Big B's hand.
 
-{{pageNumber,auto}}
-\page
+
 ### Magic Missile
   <div class="spell-tags"></div>
 
@@ -4329,7 +4346,8 @@ Page: 257 Players Handbook
 ---
 
 A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-
+{{pageNumber,auto}}
+\page
 ### Magic Stone
   <div class="spell-tags">transmutation arcane</div>
 
@@ -4375,7 +4393,8 @@ DESCRIPTION_NOT_FOUND
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Maximilian's Earthen Grasp
   <div class="spell-tags">earth creation arcane nature</div>
 
@@ -4436,8 +4455,7 @@ Page: 259 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-{{pageNumber,auto}}
-\page
+
 ### Minor Ilusion
   <div class="spell-tags"></div>
 
@@ -4494,7 +4512,8 @@ A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Pass Without a Trace
   <div class="spell-tags"></div>
 
@@ -4578,7 +4597,8 @@ You extend your hand toward a creature you can see within range and project a pu
 
 - **+2 PM:** Aumenta o dano em 1d12.
 
-
+{{pageNumber,auto}}
+\page
 ### Potência Divina
   <div class="spell-tags"></div>
 
@@ -4594,8 +4614,7 @@ Você canaliza o poder de sua divindade. Você aumenta uma categoria de tamanho 
 - **+2 PM:** aumenta o bônus de Força em +2.
 - **+2 PM:** aumenta a resistência a dano em +2.
 - **+2 PM:** muda o alcance para toque e o alvo para 1 criatura. A magia falha se o alvo não seguir a mesma divindade que você.
-{{pageNumber,auto}}
-\page
+
 ### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
@@ -4640,7 +4659,8 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque.
 - **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo.
 
-
+{{pageNumber,auto}}
+\page
 ### Raio Solar
   <div class="spell-tags">holy sacred</div>
 
@@ -4741,7 +4761,8 @@ DESCRIPTION_NOT_FOUND
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Sanctuary
   <div class="spell-tags"></div>
 
@@ -4866,8 +4887,7 @@ Page: 274 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-{{pageNumber,auto}}
-\page
+
 ### Shadow Blade
   <div class="spell-tags"></div>
 
@@ -4912,7 +4932,8 @@ Page: 164 from Xanathar's Guide To Everything
 ---
 
 A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-
+{{pageNumber,auto}}
+\page
 ### Shape Water
   <div class="spell-tags"></div>
 
@@ -5082,7 +5103,8 @@ Page: 276 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-
+{{pageNumber,auto}}
+\page
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -5106,8 +5128,7 @@ DESCRIPTION_NOT_FOUND
 ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
+
 ### Snowball Swarm
   <div class="spell-tags"></div>
 
@@ -5169,7 +5190,8 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
 
-
+{{pageNumber,auto}}
+\page
 ### Sopro da Salvação
   <div class="spell-tags"></div>
 
@@ -5275,7 +5297,8 @@ Page: 277 Players Handbook
 ---
 
 A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Ranger](https://www.dnd-spells.com/spells/class/Ranger), spell
-
+{{pageNumber,auto}}
+\page
 ### Sugestion
   <div class="spell-tags"></div>
 
@@ -5320,8 +5343,7 @@ Page: 279 Players Handbook
 ---
 
 A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
-{{pageNumber,auto}}
-\page
+
 ### Sword Burst
   <div class="spell-tags"></div>
 
@@ -5410,7 +5432,8 @@ A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Wizard](https://www.d
 
 ___
 DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -5589,7 +5612,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+2 PM:** aumenta a penalidade em –1.
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Transformação de Guerra
   <div class="spell-tags">boost sacred transmutation arcane abjuration thaumaturgy</div>
 
@@ -5687,8 +5711,7 @@ Page: 287 Players Handbook
 ---
 
 A [Cleric](https://www.dnd-spells.com/spells/class/Cleric), spell
-{{pageNumber,auto}}
-\page
+
 ### Warding Wind
   <div class="spell-tags"></div>
 
@@ -5730,7 +5753,8 @@ The wind has the following effects:
 ---
 
 Page: 23 from EE Players Companion
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 
