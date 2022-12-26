@@ -91,10 +91,3 @@ export const cleanFolder = (folder: string) =>
   fileOrFolderExists(folder).then(exists =>
     !exists ? createFolder(folder) : deletePath(folder)
   )
-// .then(() => deletePath(folder))
-// .then(() => deleteFolder(folder))
-// .then(() => listFiles(folder))
-// .then<void>(
-//   files =>
-//     Promise.all(files.map(file => deleteFileOrDir(folder, file))) as any
-// )

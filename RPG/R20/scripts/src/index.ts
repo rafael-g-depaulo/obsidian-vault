@@ -29,8 +29,8 @@ const rulebookFile = 'R20 - rulebook.md'
 // clean results
 const cleanResults = async () =>
   Promise.all([
-    cleanFolder(CompiledFolder),
-    cleanFolder(CompiledSpelllistsFolder),
+    await cleanFolder(CompiledFolder),
+    await cleanFolder(CompiledSpelllistsFolder),
   ])
 
 interface Content {
@@ -70,20 +70,17 @@ const parseContent = async () => {
 
 const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
   // write all spells
-  await writeToFile(
+  writeToFile(
     CompiledSpelllistsFolder,
     allSpellsFile,
     makeSpellListString(allSpells, 'All')
   )
 
   // create tag spell lists
-  await writeTagSpellLists(
-    CompiledSpelllistsFolder,
-    tagSpellListsFile
-  )(allSpells)
+  writeTagSpellLists(CompiledSpelllistsFolder, tagSpellListsFile)(allSpells)
 
   // compile class spell lists
-  await Promise.all(
+  Promise.all(
     classSpellListRules
       .filter(({ rules }) => !!rules)
       .map(({ filename, rules }) => ({
@@ -104,7 +101,7 @@ const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
   )
 
   // compile all rules
-  await compileRules(rootRulesFile, {
+  compileRules(rootRulesFile, {
     currentFolder: baseDir,
     classesFolder: ClassesFolder,
     allSpells,

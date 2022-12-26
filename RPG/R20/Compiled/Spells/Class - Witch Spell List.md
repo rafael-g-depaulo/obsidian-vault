@@ -1,27 +1,22 @@
-## Witch (WIP) Spells
+## Witch Spells
 
 ### Cantrip
-- [[Booming Blade]]
 - [[Chill Touch]]
 - [[Primal Savagery]]
 - [[Thorn Whip]]
 - [[Toll the Dead]]
 
 ### 1st Circle
-- [[Arma Mágica]]
 - [[Bane]]
 - [[Bless]]
 - [[Bênção]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Chaos Bolt]]
-- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
-- [[Detectar Ameaças]]
 - [[Enfeitiçar]]
 - [[Entangle]]
-- [[Escudo]]
 - [[Escuridão]]
 - [[Fog Cloud]]
 - [[Goodberry]]
@@ -30,7 +25,6 @@
 - [[Infligir Ferimentos]]
 - [[Mage Hand]]
 - [[Perdição]]
-- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
@@ -38,17 +32,12 @@
 
 ### 2nd Circle
 - [[Aid]]
-- [[Barkskin]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Camuflagem ilusória]]
 - [[Flecha Ácida]]
-- [[Físico Divino]]
 - [[Invisibilidade]]
 - [[Life Transference]]
 - [[Mass Healing Word]]
