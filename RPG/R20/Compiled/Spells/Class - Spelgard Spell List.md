@@ -26,6 +26,7 @@
 
 ### 2nd Circle
 - [[Aid]]
+- [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -203,6 +204,17 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 {{pageNumber,auto}}
 \page
+### Enhance Ability
+  <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
+
+*2nd Circle*
+- **Alcance:** toque;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
+
 ### Enlarge Reduce
   <div class="spell-tags">transmutation boost sacred warmagic warmagic arcane</div>
 
@@ -270,7 +282,8 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 ___
 A flash of light streaks toward a creature of your choice within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
-
+{{pageNumber,auto}}
+\page
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
 
@@ -279,8 +292,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 
 ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
-{{pageNumber,auto}}
-\page
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -337,7 +349,8 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Relâmpago
   <div class="spell-tags">lighning energy evocation thaumaturgy</div>
 
@@ -347,8 +360,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ___
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
-{{pageNumber,auto}}
-\page
+
 ### Sopro das Uivantes
   <div class="spell-tags">wind nature cold energy creation arcane</div>
 

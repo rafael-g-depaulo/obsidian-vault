@@ -104,5 +104,6 @@ INCLUDE_TAGS:
 EXCLUDE_TAGS:
 - trickery
 - necromancy
-- wild
+- plant
+- summon
 }}
