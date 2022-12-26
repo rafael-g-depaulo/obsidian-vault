@@ -1,11 +1,13 @@
 import { groupBy, joinInGroupsOf } from './arrayUtils'
+import { CompileRulesDeps, processContent } from './compileBook/index'
 import { matchGroups } from './regexUtils'
 import { Spell, spellDescriptionItems, SpellDescriptionItems } from './spell'
 import { groupByLevel } from './spellList'
 import { spellLevelStr, spellListItem } from './stringOutputUtils'
+import { createSpellList, TagRules } from './tagRules'
 import { isNotUndefined } from './typeUtils'
 
-export const className = (filename: string) =>
+export const getClassname = (filename: string) =>
   matchGroups(filename, /^Class - (?<className>.+)\.md$/).className
 
 export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
@@ -42,6 +44,7 @@ ${spellDescriptionItemsString(spell)}
 ___
 ${spell.description}
 `
+
 export const makeSpellDescriptionsListString = (spells: Spell[]) =>
   joinInGroupsOf(7)(
     spells
@@ -50,3 +53,24 @@ export const makeSpellDescriptionsListString = (spells: Spell[]) =>
   )
     .map(group => group.join('\n'))
     .join('{{page-break}}')
+
+export const makeClassSpellList = (
+  classname: string,
+  spellRules: TagRules,
+  deps: CompileRulesDeps
+) => {
+  const spells = createSpellList(deps.allSpells, spellRules)
+  const spellList = makeSpellListString(spells, classname)
+
+  const spellDescriptions = makeSpellDescriptionsListString(spells)
+
+  const unproccessedString = `${spellList}\n\n## Spell Descriptions\n${spellDescriptions}`
+
+  return processContent(deps)(unproccessedString)
+}
+
+export const _makeClassSpellList = (classname: string, spells: Spell[]) =>
+  `${makeSpellListString(
+    spells,
+    classname
+  )}\n\n## Spell Descriptions\n${makeSpellDescriptionsListString(spells)}`

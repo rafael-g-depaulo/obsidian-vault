@@ -1,6 +1,12 @@
 import { join } from 'path'
-import { className, makeSpellListString } from './classSpellList'
-import { compileRules } from './compileBook'
+import {
+  getClassname,
+  _makeClassSpellList,
+  makeSpellDescriptionsListString,
+  makeSpellListString,
+  makeClassSpellList,
+} from './classSpellList'
+import { compileRules, CompileRulesDeps, processContent } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 
@@ -68,7 +74,10 @@ const parseContent = async () => {
   } as Content
 }
 
-const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
+const compileBook = async (
+  { allSpells, classSpellListRules }: Content,
+  compileDeps: CompileRulesDeps
+) => {
   // write all spells
   writeToFile(
     CompiledSpelllistsFolder,
@@ -80,24 +89,22 @@ const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
   writeTagSpellLists(CompiledSpelllistsFolder, tagSpellListsFile)(allSpells)
 
   // compile class spell lists
+  const casterSpellRules = classSpellListRules
+    .filter(({ rules }) => !!rules)
+    .map(({ filename, rules }) => ({
+      classname: getClassname(filename),
+      rules,
+    }))
   Promise.all(
-    classSpellListRules
-      .filter(({ rules }) => !!rules)
-      .map(({ filename, rules }) => ({
-        classname: className(filename),
-        spells: createSpellList(allSpells, rules!),
-      }))
-      .map(({ classname, spells }) => ({
-        classname,
-        spellList: makeSpellListString(spells, classname),
-      }))
-      .map(({ classname, spellList }) =>
+    casterSpellRules.map(({ classname, rules }) =>
+      makeClassSpellList(classname, rules!, compileDeps).then(spellList =>
         writeToFile(
           CompiledSpelllistsFolder,
           compiledClassSpellList(classname),
           spellList
         )
       )
+    )
   )
 
   // compile all rules
@@ -116,7 +123,13 @@ const main = async () => {
 
   const { allSpells, classSpellListRules } = await parseContent()
 
-  await compileBook({ allSpells, classSpellListRules })
+  const deps: CompileRulesDeps = {
+    currentFolder: baseDir,
+    classesFolder: ClassesFolder,
+    allSpells,
+  }
+
+  await compileBook({ allSpells, classSpellListRules }, deps)
 }
 
 // run everything

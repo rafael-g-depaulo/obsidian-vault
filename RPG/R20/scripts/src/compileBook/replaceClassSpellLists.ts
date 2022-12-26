@@ -1,4 +1,4 @@
-import { className, makeSpellListString } from '../classSpellList'
+import { getClassname, makeSpellListString } from '../classSpellList'
 import { Spell } from '../spell'
 import { createSpellList, parseTagRules, rulesBlockRegex } from '../tagRules'
 
