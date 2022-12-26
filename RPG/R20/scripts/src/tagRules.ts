@@ -1,33 +1,42 @@
 import { matchAllGroups, matchGroups } from './regexUtils'
 import { Spell } from './spell'
 
+type LevelRules = {}
 export type TagRules = {
   includeTags: string[]
   excludeTags: string[]
   includeSpells: Spell[]
   excludeSpells: Spell[]
-}
+  minLevel: number
+  maxLevel: number
+} & LevelRules
+
 export const createTagRules = ({
   excludeSpells = [],
   excludeTags = [],
   includeSpells = [],
   includeTags = [],
+  maxLevel = 9,
+  minLevel = 0,
 }: Partial<TagRules> = {}): TagRules => ({
   excludeSpells,
   excludeTags,
   includeSpells,
   includeTags,
+  maxLevel,
+  minLevel,
 })
 
 export const rulesBlockRegex = /{{spell-list(?<rules>[^}]+)}}/
 export const parseTagRules = (content: string): TagRules | null => {
-  const ruleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\s*-\s*\w+\n)*)/g
+  const tagRuleRegex = /(?<ruleName>\w+):\n(?<ruleItems>(?:\s*-\s*\w+\n)*)/g
+  const levelRuleRegex = /^\s*(?<ruleName>\w+):\s*(?<ruleValue>\d+)/gm
   const ruleItemRegex = /^\s*-\s*(?<item>\w+)/
 
   const spellListBlock = matchGroups(content, rulesBlockRegex)?.rules
   if (!spellListBlock) return null
 
-  const spellRulesEntries = matchAllGroups(spellListBlock, ruleRegex)
+  const spellRulesEntries = matchAllGroups(spellListBlock, tagRuleRegex)
     .map(groups => [groups.ruleName, groups.ruleItems])
     .map(([rule, itemsString]) => [
       rule,
@@ -37,13 +46,20 @@ export const parseTagRules = (content: string): TagRules | null => {
         .map(line => matchGroups(line, ruleItemRegex))
         .map(({ item }) => item),
     ])
-  const spellRules = Object.fromEntries(spellRulesEntries)
+  const tagRules = Object.fromEntries(spellRulesEntries)
+  const levelRules = Object.fromEntries(
+    matchAllGroups(spellListBlock, levelRuleRegex).map(
+      ({ ruleName, ruleValue }) => [ruleName, parseInt(ruleValue)]
+    )
+  )
 
   return createTagRules({
-    excludeSpells: spellRules.EXCLUDE_SPELLS,
-    excludeTags: spellRules.EXCLUDE_TAGS,
-    includeSpells: spellRules.INCLUDE_SPELLS,
-    includeTags: spellRules.INCLUDE_TAGS,
+    excludeSpells: tagRules.EXCLUDE_SPELLS,
+    excludeTags: tagRules.EXCLUDE_TAGS,
+    includeSpells: tagRules.INCLUDE_SPELLS,
+    includeTags: tagRules.INCLUDE_TAGS,
+    maxLevel: levelRules?.MAX_LEVEL,
+    minLevel: levelRules?.MIN_LEVEL,
   })
 }
 
@@ -55,6 +71,10 @@ export const createSpellList = (spells: Spell[], rules: TagRules): Spell[] => {
     .filter(spell => !spell.tags.some(tag => rules.excludeTags.includes(tag)))
     // and isn't on the excluded spells
     .filter(spell => !rules.excludeSpells.some(s => s.name === spell.name))
+    // and fits the level range
+    .filter(
+      spell => spell.level >= rules.minLevel && spell.level <= rules.maxLevel
+    )
 
   const specificSpells = spells
     // if a spell is requested

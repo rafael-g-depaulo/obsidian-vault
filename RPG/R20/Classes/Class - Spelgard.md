@@ -106,4 +106,6 @@ EXCLUDE_TAGS:
 - necromancy
 - plant
 - summon
+MIN_LEVEL: 1
+MAX_LEVEL: 2
 }}
