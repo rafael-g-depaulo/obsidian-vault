@@ -70,36 +70,41 @@ const parseContent = async () => {
 
 const compileBook = async ({ allSpells, classSpellListRules }: Content) => {
   // write all spells
-  writeToFile(
+  await writeToFile(
     CompiledSpelllistsFolder,
     allSpellsFile,
     makeSpellListString(allSpells, 'All')
   )
 
   // create tag spell lists
-  writeTagSpellLists(CompiledSpelllistsFolder, tagSpellListsFile)(allSpells)
+  await writeTagSpellLists(
+    CompiledSpelllistsFolder,
+    tagSpellListsFile
+  )(allSpells)
 
   // compile class spell lists
-  classSpellListRules
-    .filter(({ rules }) => !!rules)
-    .map(({ filename, rules }) => ({
-      classname: className(filename),
-      spells: createSpellList(allSpells, rules!),
-    }))
-    .map(({ classname, spells }) => ({
-      classname,
-      spellList: makeSpellListString(spells, classname),
-    }))
-    .map(({ classname, spellList }) =>
-      writeToFile(
-        CompiledSpelllistsFolder,
-        compiledClassSpellList(classname),
-        spellList
+  await Promise.all(
+    classSpellListRules
+      .filter(({ rules }) => !!rules)
+      .map(({ filename, rules }) => ({
+        classname: className(filename),
+        spells: createSpellList(allSpells, rules!),
+      }))
+      .map(({ classname, spells }) => ({
+        classname,
+        spellList: makeSpellListString(spells, classname),
+      }))
+      .map(({ classname, spellList }) =>
+        writeToFile(
+          CompiledSpelllistsFolder,
+          compiledClassSpellList(classname),
+          spellList
+        )
       )
-    )
+  )
 
   // compile all rules
-  compileRules(rootRulesFile, {
+  await compileRules(rootRulesFile, {
     currentFolder: baseDir,
     classesFolder: ClassesFolder,
     allSpells,

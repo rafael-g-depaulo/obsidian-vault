@@ -43,6 +43,12 @@ Can spend some time channeling and roll to see what comes out (who's available t
 ### Bard (WIP)
 Inspiration (flat bonus or dice? AoE or single target?). off-caster
 
+### Witch
+A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
+
+### Werebeast
+has the ability to transform into a wild, untamed beast form, witch flips it's physical and mental abilities and gaining an array of special skills.
+
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)

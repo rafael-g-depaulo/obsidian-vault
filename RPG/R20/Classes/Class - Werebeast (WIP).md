@@ -5,11 +5,11 @@
 
 **MP**: 5 per level.
 
-**Equipment Proficiencies:** xxxxxxxxxxxxxxxxxxxx.
+**Equipment Proficiencies:** Light armor and light weapons.
 
 **Save Roll Proficiencies:** Pre, Int.
 
-\<div class='classTable'>
+{{classTable
 ##### Werebeast
 | Level | Proficiency Bonus | Features                                  |
 |:-----:|:-----------------:|:----------------------------------------- |
@@ -33,11 +33,11 @@
 | 18th  |        +9         | Werebeast Feat                            |
 | 19th  |        +10        | Werebeast Feat, Ability Score Improvement |
 | 20th  |        +10        | Werebeast Feat                            |
-\</div>
+}}
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
-**Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1d8+your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice, to increase that by 2d8.
+**Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1d8+your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice, to increase that by 2d8. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
 
 While on best form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
 

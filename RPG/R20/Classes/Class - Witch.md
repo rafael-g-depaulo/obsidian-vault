@@ -1,4 +1,4 @@
-# Witch (WIP)
+# Witch
 ##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 8 (+CON mod.) per level.
@@ -11,7 +11,7 @@
 
 **Spellcasting Modifier:** PRE
 
-\<div class='classTable'>
+{{classTable
 ##### Witch
 | Level | Proficiency Bonus | Features                                |
 |:-----:|:-----------------:|:--------------------------------------- |
@@ -35,7 +35,7 @@
 | 18th  |        +9         | Witch Feat, Scary Look (+6)             |
 | 19th  |        +10        | Witch Feat, Attribute Score Improvement |
 | 20th  |        +10        | Witch Feat                              |
-\</div>
+}}
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.  
 
@@ -51,28 +51,27 @@ ex:
 
 
 ### Witch Feats
-Begining at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
+Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
-- *Focused Cantrip*. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
+- **Focused Cantrip**. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
-- *Scary Look.* (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: *Condition: frightened*). At 123th, 123th and 123th level you can spend +2PM to increase the DC by 2.
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: *Condition: frightened*). At every 4th level you can spend +2PM to increase the DC by 2.
 
-- *NAME HERE.* Scary Look is now AoE.
+- **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
 
-- *NAME HERE.* Scary Look now makes target scared of all your allies. 13th level minimum.
+- **NAME HERE.** Scary Look now makes target scared of all your allies. 13th level minimum.
 
-- *Cantrip asdaf.* Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
+- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
 
-- *NAME HERE.* Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex.
+- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look.
 
-- *NAME HERE.* +x to double range of Hex.
+- **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
 
-- *NAME HERE.* +x target an aditional creature when you cast a Hex. 8th level witch.
+- **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
 
-- *NAME HERE.* learn 2 hexes.
+- **Cursed Knowledge.** learn 2 hexes.
 
-- *NAME HERE*. Be able to change what attribute the target uses for a save
-
+- **Tricky Spell**. (while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisite: 10th level witch
 
 TODO: give all the hexes some cool, gross descriptions and names. like they should make the target weird, slimy, neurotic and shit. really up the flavor of it
 
@@ -95,14 +94,15 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 Spell List:
 
-Some mix of druid-like and warlock-like spells, focusing on debuffs, some few buffs, healing, and a lot of concentration stuff. Also a lot of save spells, and not many attack spells.
-
 {{spell-list
 INCLUDE_TAGS:
-	- negative
-	- feral
+	- occult
+	- wild
 	- ilusion
-	- positive
+	- boost
+	- recovery
+	- trickery
 EXCLUDE_TAGS:
 	- holy
+	- warmagic
 }}
