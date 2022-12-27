@@ -2,8 +2,9 @@ export const matchAllGroups = (str: string, reg: RegExp) =>
   str.match(reg)?.map(match => matchGroups(match, reg)) ?? []
 
 // i have no idea why but it sometimes doesn't work just running it once
-export const matchGroups = (str: string, reg: RegExp) =>
-  reg.exec(str)?.groups! ?? reg.exec(str)?.groups!
+export const matchGroups = (str: string, reg: RegExp) => ({
+  ...(reg.exec(str)?.groups ?? reg.exec(str)?.groups ?? {}),
+})
 
 // code taken mostly from Overcl9ck's response in https://stackoverflow.com/questions/33631041/javascript-async-await-in-replace
 export const replaceAsync = async (

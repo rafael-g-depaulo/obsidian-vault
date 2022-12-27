@@ -1,4 +1,4 @@
-import { matchAllGroups } from '../regexUtils'
+import { matchAllGroups, matchGroups } from '../regexUtils'
 
 export type MacroItem = string | string[]
 export type MacroArgument = string
@@ -30,7 +30,7 @@ const macroListItemValueRegex = /(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
 const macroItemRegex =
   /^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+)+|(?<itemSimpleValue>[^\s].+))\s*/gm
 
-const macroRegex =
+export const macroRegex =
   /{{(?<macroName>[\w\-]+)\s*(?:"(?<macroArgument>.+)")?\s*(?<macroBody>(?:[^}]|}[^}])+)?}}/gm
 
 const parseItem = (item: string) =>
@@ -63,4 +63,16 @@ export const parseMacros = (content: string): Macro[] => {
         argument: macroArgument,
       })
   )
+}
+export const parseMacro = (content: string): Macro | null => {
+  const groups = matchGroups(content, macroRegex)
+  if (!groups?.macroName) return null
+
+  const { macroName, macroArgument, macroBody } = groups
+
+  return createMacro({
+    items: parseItems(macroBody),
+    name: macroName,
+    argument: macroArgument,
+  })
 }
