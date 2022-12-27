@@ -1,11 +1,13 @@
-#spell #arcane #creation
+#spell #arcane #creation #feral #wild 
 ### Teia
-- **Level:** 1
+*1º Círculo*
+___
 - **Casting time:** padrão
 - **Range:** curto
 - **Área:** cubo com 6m de lado
 - **Duração:** cena
 - **Resistência:** Dex
+
 Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer criatura na área que falhar na resistência fica enredada. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. A área ocupada por Teia é terreno difícil. A Teia é inflamável. Qualquer ataque que cause dano de fogo destrói as teias por onde passar, libertando as criaturas enredadas mas deixando-as em chamas (veja Condições, no Apêndice).
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis.

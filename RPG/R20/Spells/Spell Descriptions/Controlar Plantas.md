@@ -4,9 +4,9 @@
 ___
 - **Casting time:** padrão
 - **Alcance:** curto;
-Área: quadrado com 9m de lado;
-Duração: cena;
-Resistência: Reflexos anula.
+- **Área:** quadrado com 9m de lado;
+- **Duração:** cena;
+- **Resistência:** Dex.
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 

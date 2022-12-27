@@ -100,3 +100,8 @@ export const readSpells = async (
 
   return Promise.all(spellFilenames.map(readSpell))
 }
+
+export const filterWipSpells = (spells: Spell[]) =>
+  spells.filter(
+    spell => spell.tags.includes('spell') && !spell.tags.includes('wip')
+  )

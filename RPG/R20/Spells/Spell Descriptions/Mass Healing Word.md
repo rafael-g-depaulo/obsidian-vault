@@ -1,6 +1,7 @@
 #spell #recovery #sacred #wind #nature 
 ### Mass Healing Word
 *3rd Circle*
+___
 - **Casting time:** 1 Movement Action
 - **Range:** 30 feet
 - **Components:** V

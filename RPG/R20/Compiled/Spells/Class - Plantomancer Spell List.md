@@ -28,7 +28,6 @@
 - [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Ray of Sickness]]
-- [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
@@ -199,10 +198,19 @@ Choose one object weighing 1 to 5 pounds within range that isn’t being worn or
 
 *1st Circle*
 - **Execução:** padrão;
-- **Alcance:** curto.
+- **Alcance:** curto;
+- **Duração:** cena;
+- **Resistência:** Dex..
 
 ___
-DESCRIPTION_NOT_FOUND
+Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
+
+- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador.
+
+- **+1 PM:** muda a duração para instantânea. Em vez do normal, as plantas na área diminuem, como se tivessem sido podadas. Terreno difícil muda para terreno normal e não oferece camuflagem. Esse efeito dissipa o uso normal de Controlar Plantas.
+- **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis.
+- **+2 PM:** muda o alcance para pessoal, a área para alvo (você) e a resistência para nenhuma. Em vez do normal, você consegue se comunicar com plantas, que começam com atitude prestativa em relação a você. Além disso, você pode fazer testes de Diplomacia com plantas. Em geral, plantas têm uma percepção limitada de seus arredores e normalmente fornecem respostas simplórias.
+
 
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
@@ -285,10 +293,15 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 - **Alcance:** curto;
 - **Alvo:** 1 humanoide;
 - **Duração:** concentração;
-- **Resistência:** Vontade anula.
+- **Resistência:** PRE anula.
 
 ___
-DESCRIPTION_NOT_FOUND
+Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
+
+- **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar.
+- **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo.
+- **+5 PM:** afeta todos os alvos dentro do alcance.
+
 {{pageNumber,auto}}
 \page
 ### Entangle
@@ -434,7 +447,10 @@ You touch a creature and can end either one disease or one condition afflicting 
 - **Duração:** cena..
 
 ___
-DESCRIPTION_NOT_FOUND
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+
+- **+3 PM:** Increase the damage by 1d6.
+- **+1 PM:** Increase the number of pebbles by 1.
 
 ### Mass Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
@@ -445,7 +461,11 @@ DESCRIPTION_NOT_FOUND
 - **Duração:** Instantaneous.
 
 ___
-DESCRIPTION_NOT_FOUND
+As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+- **+1 PM:** aumenta o alcanse em 1 passo
+- **+2 PM:** aumenta a cura em 1d4
+- **+2 PM:** aumenta o número de alvos em 2
 
 ### Maximilian's Earthen Grasp
   <div class="spell-tags">earth creation arcane nature</div>
@@ -527,17 +547,6 @@ A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 {{pageNumber,auto}}
 \page
-### Sleep
-  <div class="spell-tags">curse occult enchantment trickery</div>
-
-*1st Circle*
-- **Execução:** 1 Action;
-- **Alcance:** 90 feet;
-- **Duração:** 1 minute.
-
-___
-DESCRIPTION_NOT_FOUND
-
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -576,7 +585,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 
 ### Teia
-  <div class="spell-tags">arcane creation</div>
+  <div class="spell-tags">arcane creation feral wild</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -585,9 +594,13 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **Resistência:** Dex.
 
 ___
-DESCRIPTION_NOT_FOUND
-{{pageNumber,auto}}
-\page
+Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer criatura na área que falhar na resistência fica enredada. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. A área ocupada por Teia é terreno difícil. A Teia é inflamável. Qualquer ataque que cause dano de fogo destrói as teias por onde passar, libertando as criaturas enredadas mas deixando-as em chamas (veja Condições, no Apêndice).
+
+- **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis.
+- **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo.
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m.
+
+
 ### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -603,7 +616,8 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-
+{{pageNumber,auto}}
+\page
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy</div>
 
@@ -613,7 +627,12 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **Duração:** Instantaneous.
 
 ___
-DESCRIPTION_NOT_FOUND
+A wave of thunderous force sweeps out from you.
+Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
+
+- **+2PM:** increse the size of the cube by 1sqr.
+- **+1PM:** increase the damage by 1d6.
+
 
 ### Toque Chocante
   <div class="spell-tags">lighning energy evocation thaumaturgy warmagic arcane</div>
@@ -650,8 +669,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+2 PM:** aumenta a penalidade em –1.
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 

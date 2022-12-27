@@ -11,7 +11,7 @@
 
 **Spellcasting Modifier:** INT
 
-\<div class='classTable wide'>
+{{classTable,frame,decoration,wide
 ##### Plantomancer
 | Level | Proficiency Bonus | Features                                                        | Magic Seed | Spells Known | Max Spell Circle |
 |:-----:|:-----------------:|:--------------------------------------------------------------- |:----------:|:------------:|:----------------:|
@@ -35,7 +35,7 @@
 | 18th  |        +9         | Plantomancer Feat, Magic Seed (11)                              |     11     |      20      |        9         |
 | 19th  |        +10        | Plantomancer Feat, Attribute Score Improvement                  |     11     |      21      |        9         |
 | 20th  |        +10        | Plantomancer Feat, Magic Seed (12)                              |     12     |      22      |        9         |
-</div>
+}}
 
 **Semente Mágica.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -54,11 +54,11 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 - *Lanchinho Mágico*. Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
 
 - *Plantas Conduentes Arcanas*. Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
-
+{{page-break}}
 - *Herbomancia: Raizes Mágicas*. 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3. Pré-requisitos: nível 5 de Plantomancer.
 
 - *Crescimento Acelerado*. Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
-{{page-break}}
+
 - *Herbomancia: Samambaia Recuperadora*. Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pré-requisitos: nível 4 de Plantomancer. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso).
 
 > ##### Herbomancia e Plantas Mágicas

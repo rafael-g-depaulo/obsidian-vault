@@ -1,6 +1,7 @@
 #spell #transmutation #arcane #lighning #wind #nature #no-energy
 ### Thunderwave
-- **Level:** 1
+*1º Círculo*
+___
 - **Casting time:** 1 Action
 - **Range:** Self (3sqr cube)
 - **Duration:** Instantaneous

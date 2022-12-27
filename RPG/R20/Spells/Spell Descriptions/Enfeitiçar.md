@@ -1,11 +1,12 @@
 #spell #enchantment #trickery 
 ### Enfeitiçar
-- **Level:** 1
+*1º Círculo*
+___
 - **Casting time:** padrão
 - **Range:** curto
 - **Alvo:** 1 humanoide
 - **Duração:** concentração
-- **Resistência:** Vontade anula
+- **Resistência:** PRE anula
 
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 

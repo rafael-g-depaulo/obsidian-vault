@@ -4,7 +4,7 @@ import {
 } from '../classSpellList'
 import { searchPathRecursively, writeToFile } from '../file'
 import { matchGroups } from '../regexUtils'
-import { readSpells } from '../spell'
+import { filterWipSpells, readSpells } from '../spell'
 import { CompileRulesDeps } from './index'
 
 const spellDescriptionsFolderRegex = /{{load-spells-folder \"(?<path>.+)\"}}/
@@ -23,6 +23,7 @@ export const replaceGlobalSpellList =
           spellsFolder ?? Promise.reject('Folder not found' + spellsFolder)
       )
       .then(readSpells)
+      .then(filterWipSpells)
       .then(allSpells =>
         content
           .replace(spellDescriptionsFolderRegex, '')
