@@ -8,6 +8,7 @@ export const spellDescriptionItems = [
   'target',
   'duration',
   'critical',
+  'resistence',
 ] as const
 export type SpellDescriptionItems = typeof spellDescriptionItems[number]
 
@@ -46,6 +47,7 @@ const spellDescriptionLabelsRegex: { [key in SpellDescriptionItems]: RegExp } =
     range: /^Alcance|Range/i,
     target: /^Alvo|target/i,
     critical: /^crit|critical|critico|crítico/i,
+    resistence: /^resist/i,
   }
 const spellDescriptionItem =
   /^- \*\*(?<label>.+):\*\*\s*(?<item>[^;\n\r]+)[;\s]*$/gm

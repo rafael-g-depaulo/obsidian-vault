@@ -112,7 +112,8 @@ You bless up to three creatures of your choice within range. Each target gains a
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** cone (3sqr);
-- **Duração:** imediato.
+- **Duração:** imediato;
+- **Resistência:** DEX.
 
 ___
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.  
@@ -263,7 +264,8 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 4sqr;
-- **Duração:** instantânea.
+- **Duração:** instantânea;
+- **Resistência:** Reflexos reduz à metade..
 
 ___
 Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1  bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela,  ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.

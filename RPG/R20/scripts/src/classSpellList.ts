@@ -26,6 +26,7 @@ const SpellItemLabelName: { [k in SpellDescriptionItems]: string } = {
   target: 'Alvo',
   duration: 'Duração',
   critical: 'Crítico',
+  resistence: 'Resistência',
 }
 
 const spellDescriptionItemsString = (spell: Spell) =>

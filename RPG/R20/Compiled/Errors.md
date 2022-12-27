@@ -108,4 +108,3 @@ Here's a list of all of the errors found.
 - [[Sopro da Salvação]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Teia]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Thunderwave]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Área Escorregadia]] Spell is missing a description (or more likely the description is in the wrong format)

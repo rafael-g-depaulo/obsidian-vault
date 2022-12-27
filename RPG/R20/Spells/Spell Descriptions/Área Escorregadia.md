@@ -1,6 +1,7 @@
 #spell #arcane #creation 
 ### Área Escorregadia
-- **Level:** 1
+*1º Círculo*
+___
 - **Casting time:** padrão
 - **Range:** curto
 - **Alvo ou Área:** quadrado de 3m ou 1 objeto

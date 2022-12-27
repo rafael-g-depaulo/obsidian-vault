@@ -89,10 +89,17 @@ Choose one creature within range, or choose two creatures within range that are 
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** quadrado de 3m ou 1 objeto;
-- **Duração:** cena.
+- **Duração:** cena;
+- **Resistência:** Dex.
 
 ___
-DESCRIPTION_NOT_FOUND
+Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
+Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
+
+- **+1 PM:** aumenta a área em +1 quadrado de 1,5m.
+- **+2 PM:** muda a CD dos testes para 15.
+- **+5 PM:** muda a CD dos testes para 20.
+
 
 ### Armor of Agathys
   <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
@@ -159,7 +166,8 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 criatura ou objeto mundano Pequeno;
-- **Duração:** instantânea.
+- **Duração:** instantânea;
+- **Resistência:** Fortitude parcial ou Reflexos anula..
 
 ___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
@@ -276,7 +284,8 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 humanoide;
-- **Duração:** concentração.
+- **Duração:** concentração;
+- **Resistência:** Vontade anula.
 
 ___
 DESCRIPTION_NOT_FOUND
@@ -289,7 +298,8 @@ DESCRIPTION_NOT_FOUND
 - **Execução:** padrão;
 - **Alcance:** 10sqr ;
 - **Alvo:** quadrado de lado 4sqr com centro no ponto escolhido;
-- **Duração:** concentração..
+- **Duração:** concentração.;
+- **Resistência:** Força.
 
 ___
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
@@ -336,7 +346,8 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura ou objeto;
-- **Duração:** instantânea.
+- **Duração:** instantânea;
+- **Resistência:** Reflexos parcial..
 
 ___
 Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
@@ -534,7 +545,8 @@ DESCRIPTION_NOT_FOUND
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura;
-- **Duração:** instantânea.
+- **Duração:** instantânea;
+- **Resistência:** Fortitude reduz à metade..
 
 ___
 
@@ -552,7 +564,8 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 *3rd Circle*
 - **Execução:** padrão;
 - **Alcance:** 4sqr;
-- **Duração:** instantânea.
+- **Duração:** instantânea;
+- **Resistência:** Fortitude parcial..
 
 ___
 Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à metade). Criaturas de tamanho Médio ou menor que falhem na resistência são empurradas 6m na direção oposta. Se houver uma parede ou outro objeto sólido (mas não uma criatura) no caminho, a criatura para de se mover, mas sofre 1d6 pontos de dano de impacto.
@@ -568,7 +581,8 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
-- **Duração:** cena.
+- **Duração:** cena;
+- **Resistência:** Dex.
 
 ___
 DESCRIPTION_NOT_FOUND
@@ -626,7 +640,8 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 animal ou humanoide;
-- **Duração:** cena.
+- **Duração:** cena;
+- **Resistência:** Vontade parcial..
 
 ___
 Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitude mudada para indiferente e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior, de acordo com o mestre).
