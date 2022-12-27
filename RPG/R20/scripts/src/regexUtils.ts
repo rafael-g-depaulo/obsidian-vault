@@ -1,8 +1,5 @@
-import { isNotUndefined } from './typeUtils'
-
-// TODO: fix apparent bugs with these 2 functions. it's messing up stuff like parseItem in parseMacro.ts
 export const matchAllGroups = (str: string, reg: RegExp) =>
-  [...str.matchAll(reg)].map(result => result.groups).filter(isNotUndefined)
+  str.match(reg)?.map(match => matchGroups(match, reg)) ?? []
 
 // i have no idea why but it sometimes doesn't work just running it once
 export const matchGroups = (str: string, reg: RegExp) =>

@@ -1,4 +1,4 @@
-import { matchAllGroups, matchGroups } from '../regexUtils'
+import { matchAllGroups } from '../regexUtils'
 
 export type MacroItem = string | string[]
 export type MacroArgument = string
@@ -11,25 +11,18 @@ export type Macro<
   items: { [key in ItemKeys]: MacroItem }
 }
 
-export const test = <ItemKeys extends string, Name extends string>(
-  a: Macro<ItemKeys, Name>
-) => ({ a })
-const asd = test({
-  items: {
-    asd: 'dsasd',
-    cum: 'sdfsdf',
-  },
-  name: 'FDSDFSDF',
-})
-
-const createMacro = <ItemKeys extends string, Name extends string>(
-  items: { [key in ItemKeys]: string },
-  name: Name,
-  argument?: string
-): Macro<ItemKeys, Name> => ({
+const createMacro = <ItemKeys extends string, Name extends string>({
+  name,
   items,
+  argument,
+}: {
+  name: Name
+  items: { [key in ItemKeys]: MacroItem }
+  argument?: string
+}): Macro<ItemKeys, Name> => ({
   name,
   argument,
+  items,
 })
 
 const macroListItemValueRegex = /(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
@@ -38,38 +31,36 @@ const macroItemRegex =
   /^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+)+|(?<itemSimpleValue>[^\s].+))\s*/gm
 
 const macroRegex =
-  /{{\s*(?<macroName>[\w-]+)\s+(?:"(?<macroArgument>.+)")?\s*(?<macroItem>^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+)+|(?<itemSimpleValue>[^\s].+))\s*)*\s*}}/m
+  /{{(?<macroName>[\w\-]+)\s*(?:"(?<macroArgument>.+)")?\s*(?<macroBody>(?:[^}]|}[^}])+)?}}/gm
+
+const parseItem = (item: string) =>
+  !macroListItemValueRegex.test(item)
+    ? item
+    : matchAllGroups(item, macroListItemValueRegex)?.map(({ listItem }) =>
+        listItem.trim()
+      )
+
+const parseItems = (body?: string) =>
+  !body
+    ? {}
+    : Object.fromEntries(
+        matchAllGroups(body, macroItemRegex).map(({ itemKey, itemValue }) => [
+          itemKey,
+          parseItem(itemValue),
+        ])
+      )
 
 // TODO: fix bug where lists of 1 item are parsed as simpleValues instead of unitary lists
-export const parseMacro = <ItemKeys extends string, Name extends string>(
-  content: string
-): Macro<ItemKeys, Name> | null => {
+export const parseMacros = (content: string): Macro[] => {
   const isMacro = macroRegex.test(content)
-  if (!isMacro) return null
+  if (!isMacro) return []
 
-  const { macroName, macroArgument } = matchGroups(content, macroRegex)
-
-  const parseItem = (item: string) => {
-    const test = !macroListItemValueRegex.test(item)
-      ? item
-      : item
-          .match(macroListItemValueRegex)
-          ?.map(i => matchGroups(i, macroListItemValueRegex)?.listItem)
-          ?.map(i => i.trim()) ?? []
-
-    if (test?.length === 0) {
-      console.log(matchAllGroups(item, macroListItemValueRegex), item, [
-        item.match(macroListItemValueRegex),
-      ])
-    }
-    return test
-  }
-  const items = Object.fromEntries(
-    matchAllGroups(content, macroItemRegex).map(({ itemKey, itemValue }) => [
-      itemKey,
-      parseItem(itemValue),
-    ])
-  ) as { [key in ItemKeys]: string }
-
-  return createMacro(items, macroName as Name, macroArgument)
+  return matchAllGroups(content, macroRegex).map(
+    ({ macroName, macroArgument, macroBody }) =>
+      createMacro({
+        items: parseItems(macroBody),
+        name: macroName,
+        argument: macroArgument,
+      })
+  )
 }
