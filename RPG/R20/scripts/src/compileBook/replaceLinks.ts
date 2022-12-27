@@ -1,4 +1,5 @@
 import { popTopFolder, readFile, searchPathRecursively } from '../file'
+import { replaceMacroAsync } from '../macros/replaceMacro'
 import { matchGroups, replaceAsync } from '../regexUtils'
 import { CompileRulesDeps, processContent } from './index'
 
@@ -19,16 +20,16 @@ export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
     })
   )
 
-const globalLinkRegex = /{{rewrite "(?<path>.+)"}}/g
-export const replaceLinks =
-  (deps: CompileRulesDeps) =>
-  (content: string): Promise<string> =>
-    replaceAsync(content, globalLinkRegex, link => {
-      const path = matchGroups(link, globalLinkRegex).path
-      return readFile(path).then(
-        processContent({
-          ...deps,
-          currentFolder: popTopFolder(path) ?? deps.currentFolder,
-        })
-      )
-    })
+export const replaceLinks = (
+  deps: CompileRulesDeps
+): ((content: string) => Promise<string>) =>
+  replaceMacroAsync('rewrite', macro =>
+    readFile(macro.argument ?? __INVALID__LINK__('macro rewrite')).then(
+      processContent({
+        ...deps,
+        currentFolder:
+          popTopFolder(macro.argument ?? __INVALID__LINK__('macro rewrite')) ??
+          deps.currentFolder,
+      })
+    )
+  )

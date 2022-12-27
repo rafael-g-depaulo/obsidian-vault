@@ -1,37 +1,38 @@
+import { asyncPipe } from '../arrayUtils'
 import {
   makeSpellDescriptionsListString,
   makeSpellListString,
 } from '../classSpellList'
-import { searchPathRecursively, writeToFile } from '../file'
-import { matchGroups } from '../regexUtils'
+import { searchPathRecursively } from '../file'
+import { searchMacro } from '../macros/parseMacro'
+import { replaceMacro } from '../macros/replaceMacro'
 import { filterWipSpells, readSpells } from '../spell'
 import { CompileRulesDeps } from './index'
 
-const spellDescriptionsFolderRegex = /{{load-spells-folder \"(?<path>.+)\"}}/
-const globalSpellListRegex = /{{global-spell-list}}/
-const spellDescriptionsListRegex = /{{all-spells-descriptions\s*}}/
-
 export const replaceGlobalSpellList =
   (deps: CompileRulesDeps) => async (content: string) => {
-    if (!spellDescriptionsFolderRegex.test(content)) return content
-    return searchPathRecursively(
-      deps.currentFolder,
-      matchGroups(content, spellDescriptionsFolderRegex).path
-    )
+    const loadSpells = searchMacro(content, 'load-spells-folder')
+    if (!loadSpells || !loadSpells.argument) return content
+
+    return searchPathRecursively(deps.currentFolder, loadSpells.argument)
       .then(
         spellsFolder =>
           spellsFolder ?? Promise.reject('Folder not found' + spellsFolder)
       )
       .then(readSpells)
       .then(filterWipSpells)
-      .then(allSpells =>
-        content
-          .replace(spellDescriptionsFolderRegex, '')
-          .replace(globalSpellListRegex, makeSpellListString(allSpells, 'All'))
-          .replace(
-            spellDescriptionsListRegex,
+      .then(allSpells => {
+        return asyncPipe(
+          replaceMacro('load-spells-folder', ''),
+          replaceMacro(
+            'global-spell-list',
+            makeSpellListString(allSpells, 'All')
+          ),
+          replaceMacro(
+            'all-spell-descriptions',
             makeSpellDescriptionsListString(allSpells)
           )
-      )
+        )(content)
+      })
       .catch(e => '######## ERROR IN READING SPELL DESCRIPTIONS #######' + e)
   }

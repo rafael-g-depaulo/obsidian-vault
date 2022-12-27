@@ -1,15 +1,5 @@
 import { matchAllGroups, matchGroups } from '../regexUtils'
-
-export type MacroItem = string | string[]
-export type MacroArgument = string
-export type Macro<
-  ItemKeys extends string = string,
-  Name extends string = string
-> = {
-  name: Name
-  argument?: string
-  items: { [key in ItemKeys]: MacroItem }
-}
+import { Macro, MacroItem } from './types'
 
 const createMacro = <ItemKeys extends string, Name extends string>({
   name,
@@ -64,7 +54,9 @@ export const parseMacros = (content: string): Macro[] => {
       })
   )
 }
-export const parseMacro = (content: string): Macro | null => {
+export const parseMacro = <Name extends string, Keys extends string>(
+  content: string
+): Macro<Keys, Name> | null => {
   const groups = matchGroups(content, macroRegex)
   if (!groups?.macroName) return null
 
@@ -74,5 +66,21 @@ export const parseMacro = (content: string): Macro | null => {
     items: parseItems(macroBody),
     name: macroName,
     argument: macroArgument,
-  })
+  }) as Macro<Keys, Name>
+}
+export const searchMacro = <M = Macro>(
+  content: string,
+  macroName: string
+): M extends Macro<infer Keys, infer Name> ? M | null : never => {
+  const groups = matchAllGroups(content, macroRegex).filter(
+    ({ macroName: name }) => name === macroName
+  )[0]
+
+  if (!groups) return null as any
+
+  return createMacro({
+    name: groups.macroName,
+    argument: groups.macroArgument,
+    items: parseItems(groups.macroBody),
+  }) as any
 }
