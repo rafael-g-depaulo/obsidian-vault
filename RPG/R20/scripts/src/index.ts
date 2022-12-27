@@ -7,6 +7,8 @@ import {
 import { compileRules, CompileRulesDeps } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
+import { parseMacro } from './macros/parseMacro'
+import { replaceMacro } from './macros/replaceMacro'
 
 import { readSpells, Spell } from './spell'
 import { parseTagRules, TagRules } from './tagRules'
@@ -117,20 +119,31 @@ const compileBook = async (
 
 // read, analyse and compile stuff
 const main = async () => {
-  await cleanResults()
+  // await cleanResults()
 
-  const { allSpells, classSpellListRules } = await parseContent()
+  // const { allSpells, classSpellListRules } = await parseContent()
 
-  const deps: CompileRulesDeps = {
-    currentFolder: baseDir,
-    classesFolder: ClassesFolder,
-    allSpells,
-  }
+  // const deps: CompileRulesDeps = {
+  //   currentFolder: baseDir,
+  //   classesFolder: ClassesFolder,
+  //   allSpells,
+  // }
 
-  await compileBook({ allSpells, classSpellListRules }, deps)
+  // await compileBook({ allSpells, classSpellListRules }, deps)
+
+  readFile(ClassesFolder, 'Class - Beast Warrior 2.md')
+    .then(parseMacro)
+    .then(a => JSON.stringify(a, null, 2))
+    .then(str =>
+      writeToFile(
+        ClassesFolder,
+        'Class - Beast Warrior 2 result.md',
+        // '```json\n' + str + '\n```\n\n'
+        replaceMacro('class-definition', 'test')(str)
+      )
+    )
 }
 
 // run everything
 main()
-// TODO: add in compiled tag spell lists
-// TODO: remove wip automatically (maybe not needed?)
+// auto compile classes and character sheets
