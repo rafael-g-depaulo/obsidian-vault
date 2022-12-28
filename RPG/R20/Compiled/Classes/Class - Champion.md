@@ -14,26 +14,26 @@
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6 | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6 | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6 | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6 | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6 | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6 | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6 | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6 | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6 | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6 | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6 | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6 | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6 | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6 | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6 | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6 | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6 | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6 | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6 | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6 | 5d8+5 |
+| 1st | +1 | Smite | 1d6+PRE | 1d8+1 |
+| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+PRE | 1d8+1 |
+| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
+| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 8th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
+| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
+| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |
+| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |
+| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |
+| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |
+| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |
+| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |
 }}
 
 
@@ -54,13 +54,11 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 - **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
 
 {{note
-### Julgamento {
-  "name": "class-note",
-  "argument": "Julgamento",
-  "items": {},
-  "rawBody": "Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.\n\n"
-}
+#### Julgamento
+
+Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
 }}
+
 - **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
 
 - **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.

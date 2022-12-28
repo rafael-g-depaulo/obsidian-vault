@@ -1,44 +1,57 @@
-# Witch
+{{class-definition "Witch"
+ARCHETYPE: Caster
+EQUIPMENT_PROFICIENCIES: NONE
+SAVES:
+- PRE
+- CON
+MP_ATTB: PRE
+SPELLCASTING_ATTB: PRE
 
-##### [[Archetype - Caster]]
+FEATURES:
+1. Hex
+2. Witch's Focus
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
-**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 8 (+CON mod.) per level.
-
-**MP**: 6 + PRE at lv1, +6 per level.
-
-**Equipment Proficiencies:** None.
-
-**Save Roll Proficiencies:** Presence, Constituition.
-
-**Spellcasting Modifier:** PRE
-
-{{classTable
-
-##### Witch
-
-| Level | Proficiency Bonus | Features                                |
-| :---: | :---------------: | :-------------------------------------- |
-|  1st  |        +1         | Hex                                     |
-|  2nd  |        +1         | Witch Feat, Witch's Focus (2 effects)   |
-|  3rd  |        +2         | Witch Feat                              |
-|  4th  |        +2         | Witch Feat, Attribute Score Improvement |
-|  5th  |        +3         | Witch Feat, Scary Look (+2)             |
-|  6th  |        +3         | Witch Feat, Witch's Focus (3 effects)   |
-|  7th  |        +4         | Witch Feat                              |
-|  8th  |        +4         | Witch Feat, Attribute Score Improvement |
-|  9th  |        +5         | Witch Feat                              |
-| 10th  |        +5         | Witch Feat, Witch's Focus (4 effects)   |
-| 11th  |        +6         | Witch Feat, Scary Look (+4)             |
-| 12th  |        +6         | Witch Feat, Attribute Score Improvement |
-| 13th  |        +7         | Witch Feat                              |
-| 14th  |        +7         | Witch Feat, Witch's Focus (5 effects)   |
-| 15th  |        +8         | Witch Feat                              |
-| 16th  |        +8         | Witch Feat, Attribute Score Improvement |
-| 17th  |        +9         | Witch Feat                              |
-| 18th  |        +9         | Witch Feat, Scary Look (+6)             |
-| 19th  |        +10        | Witch Feat, Attribute Score Improvement |
-| 20th  |        +10        | Witch Feat                              |
-
+MULTI_FEATURES:
+| Level | Witch's Focus |
+| ----- | ------------- |
+| 1st   | -             |
+| 2nd   | 2             |
+| 3rd   | 2             |
+| 4th   | 2             |
+| 5th   | 2             |
+| 6th   | 3             |
+| 7th   | 3             |
+| 8th   | 3             |
+| 9th   | 3             |
+| 10th  | 4             |
+| 11th  | 4             |
+| 12th  | 4             |
+| 13th  | 4             |
+| 14th  | 5             |
+| 15th  | 5             |
+| 16th  | 5             |
+| 17th  | 5             |
+| 18th  | 5             |
+| 19th  | 5             |
+| 20th  | 5             |
 }}
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.

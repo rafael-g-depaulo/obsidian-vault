@@ -501,7 +501,7 @@ Important tips:
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível). (lv3)
 
-**Wild Senses.** Choose 3 between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. (lv8)
+**Wild Senses.** Choose 3 between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. Every 5 levels you can add another skill.
 
 ### Beast Warrior Feats
 
@@ -530,11 +530,13 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 \page
 
 
-> ##### Wild Rage animal forms
->
-> Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
->
-> A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
+{{note
+#### Wild Rage animal forms
+
+Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
+
+A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
+}}
 
 - **Wild Rage: Owlbear**. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
@@ -566,26 +568,26 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6 | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6 | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6 | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6 | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6 | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6 | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6 | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6 | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6 | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6 | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6 | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6 | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6 | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6 | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6 | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6 | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6 | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6 | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6 | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6 | 5d8+5 |
+| 1st | +1 | Smite | 1d6+PRE | 1d8+1 |
+| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+PRE | 1d8+1 |
+| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
+| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 8th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
+| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
+| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |
+| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |
+| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |
+| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |
+| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |
+| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |
 }}
 
 
@@ -606,59 +608,53 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 - **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
 
 {{note
-### Julgamento {
-  "name": "class-note",
-  "argument": "Julgamento",
-  "items": {},
-  "rawBody": "Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.\n\n"
-}
+#### Julgamento
+
+Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
 }}
+
 - **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
 
 - **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
 {{pageNumber,auto}}
 \page
-# Juggernaut
+# Juggernaut (Martial)
 
-##### [[Archetype - Martial]]
-
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
+**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
 
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
+**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor..
 
-**Save Roll Proficiencies:** Strength, Constitution.
+**Resistências:** Strength, Constituition.
 
-{{classTable
-
+{{classTable,decoration,frame,wide
 ##### Juggernaut
-
-| Level | Proficiency Bonus | Features                                                                 |
-| :---: | :---------------: | :----------------------------------------------------------------------- |
-|  1st  |        +1         | Raise Guard, Guts                                                        |
-|  2nd  |        +1         | Juggernaut Feat, Powerful Strike (1d10+STR)                              |
-|  3rd  |        +2         | Juggernaut Feat                                                          |
-|  4th  |        +2         | Juggernaut Feat, Attribute Score Improvement                             |
-|  5th  |        +3         | Juggernaut Feat, Extra Attack (1), Powerful Strike (2d10+STR)            |
-|  6th  |        +3         | Juggernaut Feat, Attribute Score Improvement                             |
-|  7th  |        +4         | Juggernaut Feat                                                          |
-|  8th  |        +4         | Juggernaut Feat                                                          |
-|  9th  |        +5         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
-| 10th  |        +5         | Juggernaut Feat                                                          |
-| 11th  |        +6         | Juggernaut Feat, Extra Attack (2)                                        |
-| 12th  |        +6         | Juggernaut Feat, Attribute Score Improvement                             |
-| 13th  |        +7         | Juggernaut Feat, Powerful Strike (4d10+STR)                              |
-| 14th  |        +7         | Juggernaut Feat                                                          |
-| 15th  |        +8         | Juggernaut Feat, Attribute Score Improvement                             |
-| 16th  |        +8         | Juggernaut Feat                                                          |
-| 17th  |        +9         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
-| 18th  |        +9         | Juggernaut Feat                                                          |
-| 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
-| 20th  |        +10        | Juggernaut Feat                                                          |
-
+| Level | Proficiency Bonus | Features |Max Guts | Golpe Poderoso | 
+| :---: | :---------------: | :------- | :----: |:----: |
+| 1st | +1 | Raise Guard, Guts | 2 | 1d10+STR |
+| 2nd | +1 | Juggernaut Feat, Powerful Strike | 3 | 1d10+STR |
+| 3rd | +2 | Juggernaut Feat | 4 | 1d10+STR |
+| 4th | +2 | Juggernaut Feat, Attribute Score Improvement | 5 | 1d10+STR |
+| 5th | +3 | Juggernaut Feat, Extra Attack | 6 | 2d10+STR |
+| 6th | +3 | Juggernaut Feat, Attribute Score Improvement | 7 | 2d10+STR |
+| 7th | +4 | Juggernaut Feat | 8 | 2d10+STR |
+| 8th | +4 | Juggernaut Feat | 9 | 2d10+STR |
+| 9th | +5 | Juggernaut Feat, Attribute Score Improvement | 0 | 3d10+STR |
+| 10th | +5 | Juggernaut Feat | 11 | 3d10+STR |
+| 11th | +6 | Juggernaut Feat | 12 | 3d10+STR |
+| 12th | +6 | Juggernaut Feat, Attribute Score Improvement | 13 | 3d10+STR |
+| 13th | +7 | Juggernaut Feat | 14 | 4d10+STR |
+| 14th | +7 | Juggernaut Feat | 15 | 4d10+STR |
+| 15th | +8 | Juggernaut Feat, Attribute Score Improvement | 16 | 4d10+STR |
+| 16th | +8 | Juggernaut Feat | 17 | 4d10+STR |
+| 17th | +9 | Juggernaut Feat, Attribute Score Improvement | 18 | 5d10+STR |
+| 18th | +9 | Juggernaut Feat | 19 | 5d10+STR |
+| 19th | +10 | Juggernaut Feat, Attribute Score Improvement | 10 | 5d10+STR |
+| 20th | +10 | Juggernaut Feat | 21 | 5d10+STR |
 }}
+
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
@@ -872,46 +868,42 @@ List of spells available for a Plantomancer to learn.
 
 {{pageNumber,auto}}
 \page
-# Rogue
-
-##### [[Archetype - Specialist]]
+# Rogue (Specialist)
 
 **HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
 
 **MP**: 5 per level.
 
-**Equipment Proficiencies:** Simple weapons, light and medium armor.
+**Equipment Proficiencies:** Simple weapons, light and medium armor..
 
-**Save Roll Proficiencies:** DEX, INT.
+**Resistências:** Dexterity, Inteligence.
 
 {{classTable,decoration,frame
-
 ##### Rogue
-
-| Level | Proficiency Bonus | Features                                                                                |
-| :---: | :---------------: | :-------------------------------------------------------------------------------------- |
-|  1st  |        +1         | Sneak Attack (2d6)                                                                      |
-|  2nd  |        +1         | Rogue Feat, Expertise (INT skills, 1PM: +INT to roll)                                   |
-|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6), Cunning Action                                     |
-|  4th  |        +2         | Rogue Feat, Attribute Score Improvement                                                 |
-|  5th  |        +3         | Rogue Feat, Sneak Attack (2PM, 4d6)                                                     |
-|  6th  |        +3         | Rogue Feat, Attribute Score Improvement, Expertise (INT+1 skills, 2PM: +INT\*2 to roll) |
-|  7th  |        +4         | Rogue Feat, Sneak Attack (3PM, 5d6)                                                     |
-|  8th  |        +4         | Rogue Feat, Attribute Score Improvement, Cunning Action                                 |
-|  9th  |        +5         | Rogue Feat, Sneak Attack (4PM, 6d6)                                                     |
-| 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) |
-| 11th  |        +6         | Rogue Feat, Extra Attack (2), Sneak Attack (5PM, 7d6)                                   |
-| 12th  |        +6         | Rogue Feat, Attribute Score Improvement                                                 |
-| 13th  |        +7         | Rogue Feat, Sneak Attack (6PM, 8d6)                                                     |
-| 14th  |        +7         | Rogue Feat, Expertise (INT+4 skills, 4PM: +INT\*4 to roll)                              |
-| 15th  |        +8         | Rogue Feat, Attribute Score Improvement, Sneak Attack (7PM, 9d6)                        |
-| 16th  |        +8         | Rogue Feat                                                                              |
-| 17th  |        +9         | Rogue Feat, Attribute Score Improvement, Sneak Attack (8PM, 10d6)                       |
-| 18th  |        +9         | Rogue Feat, Expertise (INT+5 skills, 5PM: +INT\*5 to roll)                              |
-| 19th  |        +10        | Rogue Feat, Attribute Score Improvement, Sneak Attack (9PM, 11d6)                       |
-| 20th  |        +10        | Rogue Feat                                                                              |
-
+| Level | Proficiency Bonus | Features |Sneak Attack | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Sneak Attack | 1d6 |
+| 2nd | +1 | Rogue Feat, Expertise | 1d6 |
+| 3rd | +2 | Rogue Feat, Cunning Action | 3d6 |
+| 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 |
+| 5th | +3 | Rogue Feat | 4d6 |
+| 6th | +3 | Rogue Feat, Attribute Score Improvement | 4d6 |
+| 7th | +4 | Rogue Feat | 5d6 |
+| 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 |
+| 9th | +5 | Rogue Feat | 6d6 |
+| 10th | +5 | Rogue Feat, Attribute Score Improvement | 6d6 |
+| 11th | +6 | Rogue Feat | 7d6 |
+| 12th | +6 | Rogue Feat, Attribute Score Improvement | 7d6 |
+| 13th | +7 | Rogue Feat | 8d6 |
+| 14th | +7 | Rogue Feat | 8d6 |
+| 15th | +8 | Rogue Feat, Attribute Score Improvement | 9d6 |
+| 16th | +8 | Rogue Feat | 9d6 |
+| 17th | +9 | Rogue Feat, Attribute Score Improvement | 10d6 |
+| 18th | +9 | Rogue Feat | 10d6 |
+| 19th | +10 | Rogue Feat, Attribute Score Improvement | 11d6 |
+| 20th | +10 | Rogue Feat | 11d6 |
 }}
+
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this damage increases by +1d6.
 
@@ -1111,6 +1103,44 @@ List of spells available for a Spelgard to learn.
 
 {{pageNumber,auto}}
 \page
+# Warrior (Martial)
+
+**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
+
+**MP**: 3 per level.
+
+**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor..
+
+**Resistências:** Strength, Dexterity.
+
+{{classTable,decoration,frame
+##### Warrior
+| Level | Proficiency Bonus | Features |Precise Strike | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Precise Strike | +4 |
+| 2nd | +1 | Warrior Feat, Action Surge | +4 |
+| 3rd | +2 | Warrior Feat | +4 |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
+| 5th | +3 | Warrior Feat, Extra Attack | +4 |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
+| 7th | +4 | Warrior Feat | +8 |
+| 8th | +4 | Warrior Feat | +8 |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
+| 10th | +5 | Warrior Feat | +8 |
+| 11th | +6 | Warrior Feat | +8 |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
+| 13th | +7 | Warrior Feat | +12 |
+| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
+| 16th | +8 | Warrior Feat | +12 |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
+| 18th | +9 | Warrior Feat | +16 |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
+| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
+}}
+
+{{pageNumber,auto}}
+\page
 # Warrior
 
 ##### [[Archetype - Martial]]
@@ -1121,7 +1151,7 @@ List of spells available for a Spelgard to learn.
 
 **Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
 
-**Save Roll Proficiencies:** STR, CON.
+**Save Roll Proficiencies:** STR, DEX.
 
 \<div class='classTable'>
 
@@ -1154,7 +1184,7 @@ List of spells available for a Spelgard to learn.
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
-**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one adicional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
+**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
 
 ### Warrior Feats
 
@@ -1186,48 +1216,42 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 
 {{pageNumber,auto}}
 \page
-# Witch
+# Witch (Caster)
 
-##### [[Archetype - Caster]]
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
-**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 8 (+CON mod.) per level.
+**MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
 
-**MP**: 6 + PRE at lv1, +6 per level.
+**Equipment Proficiencies:** NONE.
 
-**Equipment Proficiencies:** None.
+**Resistências:** Presence, Constituition.
 
-**Save Roll Proficiencies:** Presence, Constituition.
-
-**Spellcasting Modifier:** PRE
-
-{{classTable
-
+{{classTable,decoration,frame,wide
 ##### Witch
-
-| Level | Proficiency Bonus | Features                                |
-| :---: | :---------------: | :-------------------------------------- |
-|  1st  |        +1         | Hex                                     |
-|  2nd  |        +1         | Witch Feat, Witch's Focus (2 effects)   |
-|  3rd  |        +2         | Witch Feat                              |
-|  4th  |        +2         | Witch Feat, Attribute Score Improvement |
-|  5th  |        +3         | Witch Feat, Scary Look (+2)             |
-|  6th  |        +3         | Witch Feat, Witch's Focus (3 effects)   |
-|  7th  |        +4         | Witch Feat                              |
-|  8th  |        +4         | Witch Feat, Attribute Score Improvement |
-|  9th  |        +5         | Witch Feat                              |
-| 10th  |        +5         | Witch Feat, Witch's Focus (4 effects)   |
-| 11th  |        +6         | Witch Feat, Scary Look (+4)             |
-| 12th  |        +6         | Witch Feat, Attribute Score Improvement |
-| 13th  |        +7         | Witch Feat                              |
-| 14th  |        +7         | Witch Feat, Witch's Focus (5 effects)   |
-| 15th  |        +8         | Witch Feat                              |
-| 16th  |        +8         | Witch Feat, Attribute Score Improvement |
-| 17th  |        +9         | Witch Feat                              |
-| 18th  |        +9         | Witch Feat, Scary Look (+6)             |
-| 19th  |        +10        | Witch Feat, Attribute Score Improvement |
-| 20th  |        +10        | Witch Feat                              |
-
+| Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Hex | - | 3 | 1 |
+| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
+| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
+| 5th | +3 | Witch Feat | 2 | 7 | 3 |
+| 6th | +3 | Witch Feat | 3 | 8 | 3 |
+| 7th | +4 | Witch Feat | 3 | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
+| 9th | +5 | Witch Feat | 3 | 11 | 5 |
+| 10th | +5 | Witch Feat | 4 | 12 | 5 |
+| 11th | +6 | Witch Feat | 4 | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
+| 13th | +7 | Witch Feat | 4 | 15 | 7 |
+| 14th | +7 | Witch Feat | 5 | 16 | 7 |
+| 15th | +8 | Witch Feat | 5 | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
+| 17th | +9 | Witch Feat | 5 | 19 | 9 |
+| 18th | +9 | Witch Feat | 5 | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
+| 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
+
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

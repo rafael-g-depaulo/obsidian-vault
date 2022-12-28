@@ -1,42 +1,56 @@
-# Juggernaut
+{{class-definition "Juggernaut"
+ARCHETYPE: Martial
+EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons and all kinds of armor.
+SAVES:
+- STR
+- CON
 
-##### [[Archetype - Martial]]
+FEATURES:
+1. Raise Guard, Guts
+2. Powerful Strike
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
-
-**Save Roll Proficiencies:** Strength, Constitution.
-
-{{classTable
-
-##### Juggernaut
-
-| Level | Proficiency Bonus | Features                                                                 |
-| :---: | :---------------: | :----------------------------------------------------------------------- |
-|  1st  |        +1         | Raise Guard, Guts                                                        |
-|  2nd  |        +1         | Juggernaut Feat, Powerful Strike (1d10+STR)                              |
-|  3rd  |        +2         | Juggernaut Feat                                                          |
-|  4th  |        +2         | Juggernaut Feat, Attribute Score Improvement                             |
-|  5th  |        +3         | Juggernaut Feat, Extra Attack (1), Powerful Strike (2d10+STR)            |
-|  6th  |        +3         | Juggernaut Feat, Attribute Score Improvement                             |
-|  7th  |        +4         | Juggernaut Feat                                                          |
-|  8th  |        +4         | Juggernaut Feat                                                          |
-|  9th  |        +5         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (3d10+STR) |
-| 10th  |        +5         | Juggernaut Feat                                                          |
-| 11th  |        +6         | Juggernaut Feat, Extra Attack (2)                                        |
-| 12th  |        +6         | Juggernaut Feat, Attribute Score Improvement                             |
-| 13th  |        +7         | Juggernaut Feat, Powerful Strike (4d10+STR)                              |
-| 14th  |        +7         | Juggernaut Feat                                                          |
-| 15th  |        +8         | Juggernaut Feat, Attribute Score Improvement                             |
-| 16th  |        +8         | Juggernaut Feat                                                          |
-| 17th  |        +9         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
-| 18th  |        +9         | Juggernaut Feat                                                          |
-| 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
-| 20th  |        +10        | Juggernaut Feat                                                          |
-
+WIDE: true
+MULTI_FEATURES:
+| Level | Max Guts | Golpe Poderoso |
+| ----- | -------- | -------------- |
+| 1st   | 2        | 1d10+STR            |
+| 2nd   | 3        | 1d10+STR            |
+| 3rd   | 4        | 1d10+STR            |
+| 4th   | 5        | 1d10+STR            |
+| 5th   | 6        | 2d10+STR            |
+| 6th   | 7        | 2d10+STR            |
+| 7th   | 8        | 2d10+STR            |
+| 8th   | 9        | 2d10+STR            |
+| 9th   | 0        | 3d10+STR            |
+| 10th  | 11       | 3d10+STR            |
+| 11th  | 12       | 3d10+STR            |
+| 12th  | 13       | 3d10+STR            |
+| 13th  | 14       | 4d10+STR            |
+| 14th  | 15       | 4d10+STR            |
+| 15th  | 16       | 4d10+STR            |
+| 16th  | 17       | 4d10+STR            |
+| 17th  | 18       | 5d10+STR            |
+| 18th  | 19       | 5d10+STR            |
+| 19th  | 10       | 5d10+STR            |
+| 20th  | 21       | 5d10+STR            |
 }}
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
