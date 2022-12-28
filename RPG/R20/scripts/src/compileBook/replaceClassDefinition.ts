@@ -12,7 +12,7 @@ export const removeArchetypeDefinition = replaceMacro('define-archetype', '')
 export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
   replaceMacroAsync('class-definition', async macro => {
     const archetype = archetypes.find(
-      archetype => archetype.NAME === macro.items.ARCHETYPE
+      archetype => archetype.name === macro.items.ARCHETYPE
     )
 
     return generateClassDefinition(macro as ClassDefinitionMacro, archetype)
@@ -71,10 +71,10 @@ const makeCasterClassTable = (
       .join('')}\n` +
     makeSeparator(additionalFatures.length)
 
-  const header = makeHeader(archetype.MULTI_FEATURES[0], archetype.HAS_MAGIC)
+  const header = makeHeader(archetype.multi_features[0], archetype.wide)
   const footer = '\n}}\n'
 
-  const multiFeatures = archetype.MULTI_FEATURES.slice(1)
+  const multiFeatures = archetype.multi_features.slice(1)
 
   return (
     header +
@@ -107,13 +107,13 @@ const makeClassTable = (
         return [
           `${className} Feat`,
           ...featuresForLevel,
-          ...archetype.FEATURES[i],
+          ...archetype.features[i],
         ]
       return featuresForLevel
     })
     .map(featuresListForLevel => featuresListForLevel.join(', '))
 
-  if (archetype.HAS_MAGIC)
+  if (archetype.wide)
     return makeCasterClassTable(archetype, className, features)
   return makeNormalClassTable(className, features)
 }
@@ -129,11 +129,11 @@ export const generateClassDefinition = (
         2
       )}\`\`\`\n\n`
     : `# ${classMacro.items.NAME} (${classMacro.items.ARCHETYPE})\n\n` +
-      `**HP**: You start at 1st level with ${archetype.HP_LV1} (+CON mod.) maximum hit points, and gain an extra ${archetype.HP_LV} (+CON mod.) per level.\n\n` +
+      `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
       `**MP**: ${
         classMacro.items.MP_ATTB
-          ? `You start at 1st level with ${archetype.MP_LV} (+${classMacro.items.MP_ATTB}) maximum MP, and gain an extra ${archetype.MP_LV} per level`
-          : `${archetype.MP_LV} per level`
+          ? `You start at 1st level with ${archetype.mp_lv} (+${classMacro.items.MP_ATTB}) maximum MP, and gain an extra ${archetype.mp_lv} per level`
+          : `${archetype.mp_lv} per level`
       }.\n\n` +
       `**Equipment Proficiencies:** ${classMacro.items.EQUIPMENT_PROFICIENCIES}.\n\n` +
       getSaves(classMacro.items.SAVES as string[]) +

@@ -3,14 +3,14 @@ import { getNumber, getString, Macro } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
 
 export interface Archetype {
-  NAME: string
-  HP_LV1: number
-  HP_LV: number
-  MP_LV: number
-  ASI_LEVELS: number[]
-  FEATURES: string[][]
-  MULTI_FEATURES: string[][]
-  HAS_MAGIC: boolean
+  name: string
+  hp_lv1: number
+  hp_lv: number
+  mp_lv: number
+  ASI_levels: number[]
+  features: string[][]
+  multi_features: string[][]
+  wide: boolean
 }
 
 const parseFeatures = (featuresMarkdown: string) => {
@@ -34,17 +34,17 @@ const parseMultiFeatures = (multiFeaturesMarkdown: string) => {
 export const parseArchetype = <T extends Macro>(
   archetypeMacro: T
 ): Archetype => ({
-  NAME: archetypeMacro.argument ?? 'ERR_NO_NAME',
-  HP_LV1: getNumber(archetypeMacro.items.HP_LV1) ?? 999,
-  HP_LV: getNumber(archetypeMacro.items.HP_LV) ?? 999,
-  MP_LV: getNumber(archetypeMacro.items.MP_LV) ?? 999,
-  ASI_LEVELS:
+  name: archetypeMacro.argument ?? 'ERR_NO_NAME',
+  hp_lv1: getNumber(archetypeMacro.items.HP_LV1) ?? 999,
+  hp_lv: getNumber(archetypeMacro.items.HP_LV) ?? 999,
+  mp_lv: getNumber(archetypeMacro.items.MP_LV) ?? 999,
+  ASI_levels:
     getString(archetypeMacro.items.ASI_LEVELS)
       ?.split(',')
       .map(levelStr => parseInt(levelStr)) ?? [],
-  FEATURES: parseFeatures(getString(archetypeMacro.items.FEATURES) ?? ''),
-  MULTI_FEATURES: parseMultiFeatures(
+  features: parseFeatures(getString(archetypeMacro.items.FEATURES) ?? ''),
+  multi_features: parseMultiFeatures(
     getString(archetypeMacro.items.MULTI_FEATURES) ?? ''
   ),
-  HAS_MAGIC: archetypeMacro.items.HAS_MAGIC === 'true',
+  wide: archetypeMacro.items.HAS_MAGIC === 'true',
 })
