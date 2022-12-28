@@ -7,16 +7,13 @@
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
-- [[Toll the Dead]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
-- [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -24,18 +21,12 @@
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
-- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
-- [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Luz]]
-- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
@@ -45,10 +36,7 @@
 - [[Área Escorregadia]]
 
 ### 2nd Circle
-- [[Barkskin]]
 - [[Earthbind]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
@@ -56,18 +44,10 @@
 - [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Life Transference]]
 - [[Mass Healing Word]]
-- [[Oração]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
-- [[Toque Vampírico]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
 
 ## Spell Descriptions
 ### Abençoar Alimentos
@@ -121,22 +101,6 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 - **+5 PM:** muda a CD dos testes para 20.
 
 
-### Arma Mágica
-  <div class="spell-tags">arcane transmutation boost sacred warmagic</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Duração:** cena.
-
-___
-A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é considerada mágica. Caso você esteja empunhando a arma, pode usar seu atributo-chave de magias em vez do atributo original nos testes de ataque.
-
-- **+2 PM:** aumenta o bônus em +1.
-- **+2 PM:** a arma passa a causar +1d6 de dano de ácido, eletricidade, fogo ou frio, escolhido no momento em que a magia é lançada.
-
-{{pageNumber,auto}}
-\page
 ### Armor of Agathys
   <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
 
@@ -152,22 +116,8 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 - **+1PM:** aumenta os PV temporários em 5
 - **+1PM:** aumenta o dano em 5
-
-### Barkskin
-  <div class="spell-tags">plant wild boost sacred abjuration no-thaumaturgy arcane warmagic</div>
-
-*2nd Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s Defense can’t be less than 16, regardless of what kind of armor it is wearing.
-
-- **+2PM:** increase the minimum Defense by +1
-- **+3PM:** increase the number of targets by 1
-
+{{pageNumber,auto}}
+\page
 ### Blade Ward
   <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
@@ -193,8 +143,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
 This spell's damage increases when you reach higher levels. 
 
-{{pageNumber,auto}}
-\page
+
 ### Caminhos da Natureza
   <div class="spell-tags">wild summon enchantment trickery</div>
 
@@ -209,21 +158,6 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+0 PM**: muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
 - **+1 PM**: além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM**: aumenta o bônus de deslocamento em +3m.
-
-### Campo de Força
-  <div class="spell-tags">abjuration thaumaturgy arcane boost sacred warmagic</div>
-
-*3rd Circle*
-- **Execução:** padrão;
-- **Alcance:** pessoal;
-- **Alvo:** você;
-- **Duração:** concentração..
-
-___
-Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
-
-- **+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe resistência 30 contra o próximo dano que sofrer até o fim do turno atual.
-- **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10.
 
 ### Canhão de Ervilha
   <div class="spell-tags">summon plant wild</div>
@@ -243,7 +177,8 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo.
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo.
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Catapult
   <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -257,23 +192,6 @@ ___
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
 
 - **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb
-
-{{pageNumber,auto}}
-\page
-### Concentração de Combate
-  <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
-
-*1st Circle*
-- **Execução:** livre;
-- **Alcance:** pessoal;
-- **Alvo:** você;
-- **Duração:** 1 rodada..
-
-___
-Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
-
-- **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo.
-- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo.
 
 
 ### Controlar Plantas
@@ -387,49 +305,6 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 {{pageNumber,auto}}
 \page
-### Enhance Ability
-  <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
-
-*2nd Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
-- Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.  
-- Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.  
-- Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated.  
-- Eagle’s Splendor. The target has advantage on Charisma checks.  
-- Fox’s Cunning. The target has advantage on Intelligence checks.  
-- Owl’s Wisdom. The target has advantage on Wisdom checks.  
-
-- **+2PM:** aumente o número de alvos em 1
-
-### Enlarge Reduce
-  <div class="spell-tags">transmutation boost sacred warmagic warmagic arcane</div>
-
-*2nd Circle*
-- **Execução:** padrão;
-- **Alcance:** 6sqr;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-TODO: comparar com a versão do t20 e decidir qual usar
-
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
-  
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
-  
-**Enlarge**   
-The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
-  
-**Reduce**   
-The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
-
-
 ### Entangle
   <div class="spell-tags">plant wild trickery</div>
 
@@ -452,26 +327,6 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr.
 
 
-### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
-
-*1st Circle*
-- **Execução:** reação;
-- **Alcance:** pessoal;
-- **Duração:** 1 turno..
-
-___
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa. 
-
-- **+1PM:** muda o alcance para 6sqr, o alvo para 1 criatura e diminui o bonus na defesa em 2
-- **+1 PM:** muda a execução para ação padrão, o alcance para toque, a duração para cena e diminui o bonus na defesa em 3. 
-- **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância. 
-- **+2 PM:** aumenta o bônus na Defesa em +1.
-- **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo. 
-- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo.
-
-{{pageNumber,auto}}
-\page
 ### False Life
   <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
@@ -497,22 +352,6 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 ___
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-
-### Físico Divino
-  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
-
-*3rd Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Força, Destreza ou Constituição, a sua escolha. Esse aumento não oferece PV ou PM adicionais.
-
-- **+3 PM:** em vez do normal, o alvo recebe +4 nos três atributos físicos. Requer 5º círculo.
-- **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas.
-- **+7 PM:** aumenta o bônus em +2. Requer 7º círculo.
 
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
@@ -558,22 +397,6 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 - **+1 PM:** Increase the number of berries by 2.
 
 
-### Guiding Bolt
-  <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
-
-*1st Circle*
-- **Execução:** 1 Action;
-- **Alcance:** 60 feet;
-- **Duração:** 1 round.
-
-___
-A flash of light streaks toward a creature of your choice within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
-
-- **+1 PM:** aumenta o dano em +1d6
-- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno.
-
-
 ### Hail of Thorns
   <div class="spell-tags">warmagic plant wild no-arcane</div>
 
@@ -586,8 +409,7 @@ ___
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 - **+2PM:** aumenta o dano em 1d10
-{{pageNumber,auto}}
-\page
+
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
 
@@ -602,41 +424,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
-### Imagem Espelhada
-  <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** pessoal;
-- **Alvo:** você;
-- **Duração:** cena..
-
-___
-Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
-
-- **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2).
-- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo. 
-
-### Infligir Ferimentos
-  <div class="spell-tags">unholy occult necrotic decay</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** instantânea;
-- **Resistência:** Fortitude reduz à metade..
-
-___
-Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano necrótico (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
-
-- **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena.
-- **+2 PM:** aumenta o dano em 1d8+1.
-- **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia.
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
-
-
+{{pageNumber,auto}}
+\page
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -647,36 +436,6 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
-
-{{pageNumber,auto}}
-\page
-### Life Transference
-  <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
-
-*3rd Circle*
-- **Execução:** 1 Action;
-- **Alcance:** 30 feet;
-- **Duração:** Instantaneous.
-
-___
-DESCRIPTION_NOT_FOUND
-
-### Luz
-  <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** curto;
-- **Alvo:** 1 objeto;
-- **Duração:** cena.
-
-___
-O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
- 
-
-- **+1 PM:** aumenta a área iluminada em +3m de raio.
-- **+2 PM:** muda a duração para 1 dia.
-- **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo.
 
 
 ### Magic Stone
@@ -708,8 +467,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+1 PM:** aumenta o alcanse em 1 passo
 - **+2 PM:** aumenta a cura em 1d4
 - **+2 PM:** aumenta o número de alvos em 2
-{{pageNumber,auto}}
-\page
+
 ### Maximilian's Earthen Grasp
   <div class="spell-tags">earth creation arcane nature</div>
 
@@ -729,19 +487,8 @@ To break out, the restrained target can make a Strength check against your spell
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 - **+3PM:** increase all damage by +1d6
-
-### Oração
-  <div class="spell-tags">wind nature sacred boost occult curse enchantment trickery</div>
-
-*3rd Circle*
-- **Execução:** padrão;
-- **Alcance:** 6sqr;
-- **Alvo:** todas as criaturas (veja texto);
-- **Duração:** sustentada.
-
-___
-DESCRIPTION_NOT_FOUND
-
+{{pageNumber,auto}}
+\page
 ### Poison Spray
   <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -769,25 +516,6 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
-
-{{pageNumber,auto}}
-\page
-### Primor Atlético
-  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 em testes de Atletismo.
-
-- **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30).
-- **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala.
-- **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque.
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo.
 
 
 ### Ray of Enfeeblement
@@ -818,7 +546,8 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -832,8 +561,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 - **+1PM:** Add +1d8 to the dice rolled.
 
-{{pageNumber,auto}}
-\page
+
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -887,7 +615,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo.
 - **+2 PM:** aumenta a área em +1 cubo de 1,5m.
 
-
+{{pageNumber,auto}}
+\page
 ### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -903,8 +632,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-{{pageNumber,auto}}
-\page
+
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy</div>
 
@@ -919,20 +647,6 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 
 - **+2PM:** increse the size of the cube by 1sqr.
 - **+1PM:** increase the damage by 1d6.
-
-
-### Toll the Dead
-  <div class="spell-tags">occult unholy decay necrotic</div>
-
-*Cantrip*
-- **Execução:** 1 Action;
-- **Alcance:** 60 feet;
-- **Duração:** Instantaneous.
-
-___
-You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
-
-- **+3 PM:** increase the damage by 2 dice
 
 
 ### Toque Chocante
@@ -953,24 +667,6 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área
 
 
-### Toque Vampírico
-  <div class="spell-tags">necrotic decay feral wild unholy occult</div>
-
-*3rd Circle*
-- **Execução:** padrão;
-- **Alcance:** toque;
-- **Alvo:** 1 criatura;
-- **Duração:** instantânea;
-- **Resistência:** Fortitude reduz à metade..
-
-___
-Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Você recupera pontos de vida iguais à metade do dano causado (se causou algum dano).
-
-- **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia.
-- **+2 PM:** aumenta o dano em +2d6.
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo.
-{{pageNumber,auto}}
-\page
 ### Tranquilidade
   <div class="spell-tags">enchantment trickery</div>
 
@@ -988,23 +684,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+2 PM:** aumenta a penalidade em –1.
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-
-### Transformação de Guerra
-  <div class="spell-tags">boost sacred transmutation arcane abjuration thaumaturgy</div>
-
-*5th Circle*
-- **Execução:** padrão;
-- **Alcance:** pessoal;
-- **Alvo:** você;
-- **Duração:** sustentada.
-
-___
-Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
-
-- **+2 PM:** aumenta os bônus na Defesa, testes de ataque e rolagens de dano corpo a corpo em +1, e os PV temporários em +10.
-- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar.
-
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 

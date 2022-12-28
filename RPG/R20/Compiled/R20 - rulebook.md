@@ -776,13 +776,15 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 
 - **Herbomancia: Samambaia Recuperadora**. Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pré-requisitos: nível 4 de Plantomancer. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso).
 
-> ##### Herbomancia e Plantas Mágicas
->
-> Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
->
-> Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
->
-> As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
+{{note
+#### Herbomancia e Plantas Mágicas
+
+Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
+
+Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
+
+As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
+}}
 
 - **Herbomancia: Troco Paredão**. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
@@ -809,16 +811,13 @@ List of spells available for a Plantomancer to learn.
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
-- [[Toll the Dead]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
-- [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -826,18 +825,12 @@ List of spells available for a Plantomancer to learn.
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
-- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
-- [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Luz]]
-- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
@@ -847,10 +840,7 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
-- [[Barkskin]]
 - [[Earthbind]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
@@ -858,18 +848,10 @@ List of spells available for a Plantomancer to learn.
 - [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Life Transference]]
 - [[Mass Healing Word]]
-- [[Oração]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
-- [[Toque Vampírico]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
 
 {{pageNumber,auto}}
 \page
