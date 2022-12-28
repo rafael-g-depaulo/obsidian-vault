@@ -1,39 +1,57 @@
-# Champion
+{{class-definition "Champion"
+ARCHETYPE: Martial
+EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons and all kinds of armor.
+SAVES:
+- STR
+- PRE
 
-##### [[Archetype - Martial]]
+FEATURES:
+1. Smite
+2. Lay on Hands
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
-
-**Save Roll Proficiencies:** Strength, Presence.
-
-##### Champion
-
-| Level | Proficiency Bonus | Features                                                 |
-| :---: | :---------------: | :------------------------------------------------------- |
-|  1st  |        +1         | Smite (+1d6)                                             |
-|  2nd  |        +1         | Champion Feat, Lay on Hands (1d8+1)                      |
-|  3rd  |        +2         | Champion Feat                                            |
-|  4th  |        +2         | Champion Feat, Attribute Score Improvement               |
-|  5th  |        +3         | Champion Feat, Extra Attack (1), Smite (+2d6)            |
-|  6th  |        +3         | Champion Feat, Attribute Score Improvement               |
-|  7th  |        +4         | Champion Feat, Lay on Hands (2d8+2)                      |
-|  8th  |        +4         | Champion Feat                                            |
-|  9th  |        +5         | Champion Feat, Attribute Score Improvement, Smite (+3d6) |
-| 10th  |        +5         | Champion Feat Lay on Hands (3d8+3)                       |
-| 11th  |        +6         | Champion Feat, Extra Attack (2)                          |
-| 12th  |        +6         | Champion Feat, Attribute Score Improvement               |
-| 13th  |        +7         | Champion Feat, Smite (+4d6)                              |
-| 14th  |        +7         | Champion Feat Lay on Hands (4d8+4)                       |
-| 15th  |        +8         | Champion Feat, Attribute Score Improvement               |
-| 16th  |        +8         | Champion Feat                                            |
-| 17th  |        +9         | Champion Feat, Attribute Score Improvement, Smite (+5d6) |
-| 18th  |        +9         | Champion Feat, Lay on Hands (4d8+4)                      |
-| 19th  |        +10        | Champion Feat, Attribute Score Improvement               |
-| 20th  |        +10        | Champion Feat                                            |
+WIDE: true
+MULTI_FEATURES:
+| Level | Smite | Lay on Hands |
+| ----- | ----- | ------------ |
+| 1st   | 1d6   | 1d8+1        |
+| 2nd   | 1d6   | 1d8+1        |
+| 3rd   | 1d6   | 1d8+1        |
+| 4th   | 1d6   | 1d8+1        |
+| 5th   | 2d6   | 1d8+1        |
+| 6th   | 2d6   | 1d8+1        |
+| 7th   | 2d6   | 2d8+2        | 
+| 8th   | 2d6   | 2d8+2        |
+| 9th   | 3d6   | 2d8+2        |
+| 10th  | 3d6   | 3d8+3        |
+| 11th  | 3d6   | 3d8+3        |
+| 12th  | 3d6   | 3d8+3        |
+| 13th  | 4d6   | 3d8+3        |
+| 14th  | 4d6   | 4d8+4        |
+| 15th  | 4d6   | 4d8+4        |
+| 16th  | 4d6   | 4d8+4        |
+| 17th  | 5d6   | 4d8+4        |
+| 18th  | 5d6   | 5d8+5        |
+| 19th  | 5d6   | 5d8+5        |
+| 20th  | 5d6   | 5d8+5        |
+}}
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
 

@@ -1,44 +1,32 @@
-# Plantomancer
-
-##### [[Archetype - Caster]]
-
-**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
-
-**MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain 6 extra per level.
-
-**Equipment Proficiencies:** none.
-
-**Save Roll Proficiencies:** SEN.
-
-**Spellcasting Modifier:** INT
-
 {{class-definition "Plantomancer"
 ARCHETYPE: Caster
 EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons. Light and medium armor
+MP_ATTB: INT
+SPELLCASTING_ATTB: INT
 SAVES:
 - SEN
 
 FEATURES:
-1. Magic Seed (2), Summon Sapling              
-2. Magic Seed (3)                              
-3.                                              
-4. Magic Seed (4)  
-5.                                              
-6. Magic Seed (5)                              
-7.                                              
-8. Magic Seed (6)  
-9.                                              
-10. Magic Seed (7)                              
-11.                                              
-12. Magic Seed (8)  
-13.                                              
-14. Magic Seed (9)                              
-15.                                              
-16. Magic Seed (10)
-17.                                              
-18. Magic Seed (11)                              
-19.                   
-20. Magic Seed (12)
+1. Summon Sapling              
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9.  
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
 MULTI_FEATURES:
 | Level | Magic Seed |
@@ -65,36 +53,7 @@ MULTI_FEATURES:
 | 20th  |     12     |
 }}
 
-{{classTable,frame,decoration,wide
-
-##### Plantomancer
-
-| Level | Proficiency Bonus | Features                                                        | Magic Seed | Spells Known | Max Spell Circle |
-| :---: | :---------------: | :-------------------------------------------------------------- | :--------: | :----------: | :--------------: |
-|  1st  |        +1         | Magic Seed (2), Summon Sapling                                  |     2      |      3       |        1         |
-|  2nd  |        +1         | Plantomancer Feat, Magic Seed (3)                               |     3      |      4       |        1         |
-|  3rd  |        +2         | Plantomancer Feat                                               |     3      |      5       |        2         |
-|  4th  |        +2         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (4)  |     4      |      6       |        2         |
-|  5th  |        +3         | Plantomancer Feat                                               |     4      |      7       |        3         |
-|  6th  |        +3         | Plantomancer Feat, Magic Seed (5)                               |     5      |      8       |        3         |
-|  7th  |        +4         | Plantomancer Feat                                               |     5      |      9       |        4         |
-|  8th  |        +4         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (6)  |     6      |      10      |        4         |
-|  9th  |        +5         | Plantomancer Feat                                               |     6      |      11      |        5         |
-| 10th  |        +5         | Plantomancer Feat, Magic Seed (7)                               |     7      |      12      |        5         |
-| 11th  |        +6         | Plantomancer Feat                                               |     7      |      13      |        6         |
-| 12th  |        +6         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (8)  |     8      |      14      |        6         |
-| 13th  |        +7         | Plantomancer Feat                                               |     8      |      15      |        7         |
-| 14th  |        +7         | Plantomancer Feat, Magic Seed (9)                               |     9      |      16      |        7         |
-| 15th  |        +8         | Plantomancer Feat                                               |     9      |      17      |        8         |
-| 16th  |        +8         | Plantomancer Feat, Attribute Score Improvement, Magic Seed (10) |     10     |      18      |        8         |
-| 17th  |        +9         | Plantomancer Feat                                               |     10     |      19      |        9         |
-| 18th  |        +9         | Plantomancer Feat, Magic Seed (11)                              |     11     |      20      |        9         |
-| 19th  |        +10        | Plantomancer Feat, Attribute Score Improvement                  |     11     |      21      |        9         |
-| 20th  |        +10        | Plantomancer Feat, Magic Seed (12)                              |     12     |      22      |        9         |
-
-}}
-
-**Semente Mágica.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
+**Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
 **Criar Muda.** As a movement or main action on your turn, you may spend 1PM and a Magic Seed to summon a sappling to an unnocupied space withing short distance (6sqr) of you. You can cast spells through the sappling, and percieve its surroundings as if you were standing there. (This counts as a Herbomancy power)
 

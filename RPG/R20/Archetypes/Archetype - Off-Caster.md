@@ -34,3 +34,42 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 | 13-14 |       5        |
 | 15-16 |       6        |
 | 17-20 |       7        |
+
+
+{{define-archetype "Off-Caster"
+HP_LV1: 14
+HP_LV: 3
+MP_LV: 4
+ASI_LEVELS: 4, 8, 10, 12, 14, 17
+HAS_MAGIC: true
+
+FEATURES:
+| LEVEL | FEATURE               |
+| ----- | --------------------- |
+| 5     | Attack of Opportunity | 
+| 7     | Extra Attack          |
+
+MULTI_FEATURES:
+| Level | Spells Known | Max Spell Circle |
+| ----- |:------------:|:----------------:|
+| 1st   |      1       |        1         |
+| 2nd   |      2       |        1         |
+| 3rd   |      2       |        1         |
+| 4th   |      3       |        1         |
+| 5th   |      3       |        2         |
+| 6th   |      4       |        2         |
+| 7th   |      4       |        2         |
+| 8th   |      5       |        3         |
+| 9th   |      5       |        3         |
+| 10th  |      6       |        3         |
+| 11th  |      6       |        4         |
+| 12th  |      7       |        4         |
+| 13th  |      7       |        5         |
+| 14th  |      8       |        5         |
+| 15th  |      8       |        6         |
+| 16th  |      9       |        6         |
+| 17th  |      9       |        7         |
+| 18th  |      10      |        7         |
+| 19th  |      10      |        7         |
+| 20th  |      11      |        7         |
+}}

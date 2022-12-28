@@ -24,3 +24,39 @@ Starting at 2nd level, a Specialist gains the **Expertise** feature.
 
 ### Spells
 None by default
+
+{{define-archetype "Specialist"
+HP_LV1: 10
+HP_LV: 3
+MP_LV: 5
+ASI_LEVELS: 4, 6, 8, 10, 12, 15, 17, 19
+
+FEATURES:
+| LEVEL | FEATURE   |
+| ----- | --------- |
+| 2     | Expertise |
+
+MULTI_FEATURES:
+| Level |     | 
+| ----- | --- |
+| 1st   |     |
+| 2nd   |     |
+| 3rd   |     |
+| 4th   |     |
+| 5th   |     |
+| 6th   |     |
+| 7th   |     |
+| 8th   |     |
+| 9th   |     |
+| 10th  |     |
+| 11th  |     |
+| 12th  |     |
+| 13th  |     |
+| 14th  |     |
+| 15th  |     |
+| 16th  |     |
+| 17th  |     |
+| 18th  |     |
+| 19th  |     |
+| 20th  |     |
+}}

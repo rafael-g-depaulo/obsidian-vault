@@ -1,3 +1,4 @@
+import { CompileRulesDeps } from '.'
 import { pad, range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
@@ -5,7 +6,6 @@ import { Class, parseClass } from '../businessLogic/class'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
 import { order } from '../stringOutputUtils'
-import { CompileRulesDeps } from './index'
 
 export const removeArchetypeDefinition = replaceMacro('define-archetype', '')
 
@@ -15,6 +15,7 @@ export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
       archetype => archetype.name === macro.items.ARCHETYPE
     )
     const classDefinition = parseClass(macro)
+
     return generateClassDefinition(classDefinition, archetype)
   })
 
@@ -48,9 +49,9 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
       .map(() => ':----: |')
       .join('')}\n`
 
-  const makeHeader = (additionalFatures: string[], isWide: boolean) =>
+  const makeHeader = (additionalFatures: string[], isWide: boolean = false) =>
     (isWide
-      ? '{{classTabl,decoration,wide\n'
+      ? '{{classTable,decoration,frame,wide\n'
       : '{{classTable,decoration,frame\n') +
     `##### ${classDefinition.name}\n` +
     `| Level | Proficiency Bonus | Features |${additionalFatures
@@ -60,12 +61,12 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 
   const header = makeHeader(
     [...classDefinition.multi_features[0], ...archetype.multi_features[0]],
-    archetype.wide
+    archetype.wide || classDefinition.wide
   )
   const footer = '\n}}\n'
 
   const multiFeatures = archetype.multi_features
-    .map((f, i) => [...f, ...classDefinition.multi_features[i]])
+    .map((f, i) => [...classDefinition.multi_features[i], ...f])
     .slice(1)
 
   return (
@@ -99,7 +100,7 @@ export const generateClassDefinition = (
       `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
       `**MP**: ${
         classDefinition.mpAttribute
-          ? `You start at 1st level with ${archetype.mp_lv} (+${classDefinition.mpAttribute}) maximum MP, and gain an extra ${archetype.mp_lv} per level`
+          ? `You start at 1st level with ${archetype.mp_lv} (+${classDefinition.mpAttribute} mod.) maximum MP, and gain an extra ${archetype.mp_lv} per level`
           : `${archetype.mp_lv} per level`
       }.\n\n` +
       `**Equipment Proficiencies:** ${classDefinition.equipProficiencies}.\n\n` +

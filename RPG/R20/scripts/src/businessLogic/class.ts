@@ -8,8 +8,10 @@ export interface Class {
   equipProficiencies: string
   saves: string[]
   mpAttribute?: string
+  spellcastingAttb?: string
   features: string[]
   multi_features: string[][]
+  wide?: boolean
 }
 
 export const parseClass = (classMacro: Macro): Class => ({
@@ -24,4 +26,8 @@ export const parseClass = (classMacro: Macro): Class => ({
   name: classMacro.argument ?? 'CLASS NAME NOT FOUND',
   saves: getStringArr(classMacro.items.SAVES),
   mpAttribute: getString(classMacro.items.MP_ATTB),
+  spellcastingAttb: getString(classMacro.items.SPELLCASTING_ATTB),
+  wide: getString(classMacro.items.WIDE)
+    ? getString(classMacro.items.WIDE) === 'true'
+    : undefined,
 })

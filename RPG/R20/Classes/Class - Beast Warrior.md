@@ -27,29 +27,6 @@ FEATURES:
 19. 
 20. 
 
-MULTI_FEATURES:
-| Level | Magic Seed |
-| ----- |:----------:|
-| 1st   |     2      |
-| 2nd   |     3      |
-| 3rd   |     3      |
-| 4th   |     4      |
-| 5th   |     4      |
-| 6th   |     5      |
-| 7th   |     5      |
-| 8th   |     6      |
-| 9th   |     6      |
-| 10th  |     7      |
-| 11th  |     7      |
-| 12th  |     8      |
-| 13th  |     8      |
-| 14th  |     9      |
-| 15th  |     9      |
-| 16th  |     10     |
-| 17th  |     10     |
-| 18th  |     11     |
-| 19th  |     11     |
-| 20th  |     12     |
 }}
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.

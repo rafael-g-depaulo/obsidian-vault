@@ -1,43 +1,56 @@
-# Alquimist
+{{class-definition "Alquimist (WIP)"
+ARCHETYPE: Specialist
+EQUIPMENT_PROFICIENCIES: NONE
+SAVES:
+- STR
 
-##### [[Archetype - Specialist]]
+FEATURES:
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
-**HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
+MULTI_FEATURES:
+| Level |     | 
+| ----- | --- |
+| 1st   |     |
+| 2nd   |     |
+| 3rd   |     |
+| 4th   |     |
+| 5th   |     |
+| 6th   |     |
+| 7th   |     |
+| 8th   |     |
+| 9th   |     |
+| 10th  |     |
+| 11th  |     |
+| 12th  |     |
+| 13th  |     |
+| 14th  |     |
+| 15th  |     |
+| 16th  |     |
+| 17th  |     |
+| 18th  |     |
+| 19th  |     |
+| 20th  |     |
+}}
 
-**MP**: 5 per level.
-
-**Equipment Proficiencies:** Simple weapons.
-
-**Save Roll Proficiencies:** XX, XX.
-
-\<div class='classTable'>
-
-##### Alquimist
-
-| Level | Proficiency Bonus | Features       |
-| :---: | :---------------: | :------------- |
-|  1st  |        +1         |                |
-|  2nd  |        +1         | Alquimist Feat |
-|  3rd  |        +2         | Alquimist Feat |
-|  4th  |        +2         | Alquimist Feat |
-|  5th  |        +3         | Alquimist Feat |
-|  6th  |        +3         | Alquimist Feat |
-|  7th  |        +4         | Alquimist Feat |
-|  8th  |        +4         | Alquimist Feat |
-|  9th  |        +5         | Alquimist Feat |
-| 10th  |        +5         | Alquimist Feat |
-| 11th  |        +6         | Alquimist Feat |
-| 12th  |        +6         | Alquimist Feat |
-| 13th  |        +7         | Alquimist Feat |
-| 14th  |        +7         | Alquimist Feat |
-| 15th  |        +8         | Alquimist Feat |
-| 16th  |        +8         | Alquimist Feat |
-| 17th  |        +9         | Alquimist Feat |
-| 18th  |        +9         | Alquimist Feat |
-| 19th  |        +10        | Alquimist Feat |
-| 20th  |        +10        | Alquimist Feat |
-
-\</div>
 
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.
 
