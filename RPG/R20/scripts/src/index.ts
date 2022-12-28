@@ -5,6 +5,7 @@ import {
   makeClassSpellList,
 } from './classSpellList'
 import { compileRules, CompileRulesDeps } from './compileBook'
+import { replaceClassDefinition } from './compileBook/replaceClassDefinition'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 

@@ -1,3 +1,4 @@
+import { matchAllGroups } from './regexUtils'
 import { Spell } from './spell'
 
 export const order = (level: number) =>
@@ -7,3 +8,9 @@ export const spellLevelStr = (level: number) =>
   level === 0 ? 'Cantrip' : `${level}${order(level)} Circle`
 
 export const spellListItem = (spell: Spell) => `- [[${spell.name}]]`
+
+const markdownTableRowRegex = /^\s*\|(?<tableRow>.+)\|\s*$/gm
+export const parseMarkdownTable = (content: string) =>
+  matchAllGroups(content, markdownTableRowRegex)
+    .map(({ tableRow }) => tableRow.split('|').map(cell => cell.trim()))
+    .slice(2)

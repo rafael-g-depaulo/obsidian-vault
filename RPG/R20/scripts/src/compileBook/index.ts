@@ -4,6 +4,7 @@ import { readFile } from '../file'
 import { Spell } from '../spell'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
+import { replaceClassDefinition } from './replaceClassDefinition'
 import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
@@ -26,6 +27,7 @@ export const processContent = (deps: CompileRulesDeps) =>
     makeLinksGlobal(deps.currentFolder),
     replaceLinks(deps),
     replaceClasses(deps),
+    replaceClassDefinition,
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1,
     replaceGlobalSpellList(deps),

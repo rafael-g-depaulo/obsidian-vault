@@ -65,3 +65,9 @@ export const joinInGroupsOf =
       acc[Math.floor(i / n)].push(cur)
       return acc
     }, [])
+
+export const range = (from: number, to: number) =>
+  Array.from({ length: to - from + 1 }, (_, k) => k + from)
+
+export const pad = <T>(arr: T[], limit: number, filler: T) =>
+  range(0, limit - 1).map(i => arr[i] ?? filler)

@@ -446,89 +446,6 @@ Important tips:
 
 
 
-class-defition: {
-  "name": "Beast Warrior",
-  "archetype": "Martial",
-  "equipment_proficiencies": "Simple weapons, martial weapons. Light and medium armor",
-  "saves": [
-    "CON",
-    "SEN"
-  ],
-  "features": [
-    "Rage (+2)",
-    "Savage Attack (1d4+CON)",
-    "Defesa Animal",
-    "ASI",
-    "EA",
-    "ASI, Savage Attack",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ]
-}
-
-{{test1}}
-{{test2 "test"}}
-{{test4
-ASDASD: hi
-testing:
-- this
-- thing
-}}
-{{class-defition 
-name: Beast Warrior
-archetype: Martial
-
-equipment_proficiencies: Simple weapons, martial weapons. Light and medium armor
-
-saves:
-
-- CON
-- SEN 
-
-features:
-1. Rage (+2)
-2. Savage Attack (1d4+CON)
-3. Defesa Animal
-4. ASI
-5. EA
-6. ASI, Savage Attack
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-
-}}
-
-{{test1}}
-{{test2 "test"}}
-{{test4
-ASDASD: hi
-testing:
-- this
-- thing
-}}
 {{pageNumber,auto}}
 \page
 # Beast Warrior
@@ -1099,12 +1016,6 @@ List of spells available for a Spelgard to learn.
 
 ##  Spells
 
-### Cantrip
-- [[Acid Splash]]
-- [[Blade Ward]]
-- [[Chill Touch]]
-- [[Poison Spray]]
-
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
@@ -1129,17 +1040,6 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
-
-### 3rd Circle
-- [[Campo de Força]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Mass Healing Word]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
 {{pageNumber,auto}}
 \page
 # Warrior
