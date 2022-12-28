@@ -25,7 +25,7 @@ const getSaves = (saves: string[]) =>
 const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
   const features = pad(classDefinition.features, 20, '')
     .map((levelFeatures, i) => {
-      const featuresForLevel = levelFeatures
+      const featuresForLevel: string[] = levelFeatures
         .split(', ')
         .filter(feat => feat !== '')
       if (i > 0)
@@ -97,6 +97,7 @@ export const generateClassDefinition = (
         2
       )}\`\`\`\n\n`
     : `# ${classDefinition.name} (${classDefinition.archetype})\n\n` +
+      `<style>.page#p1:after{ display:none; }</style>\n` +
       `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
       `**MP**: ${
         classDefinition.mpAttribute

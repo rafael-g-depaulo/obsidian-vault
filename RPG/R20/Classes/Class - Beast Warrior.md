@@ -7,26 +7,49 @@ SAVES:
 
 FEATURES:
 1. Rage (+2)
-2. Savage Attack (1d4+CON)
+2. 
 3. Defesa Animal
 4. 
 5. 
-6. Savage Attack (2d4+CON)
+6. 
 7. Rage (+3)
 8. Wild Senses (3)
 9. 
-10. Savage Attack (3d4+CON)
+10. 
 11. Rage (+4)
 12. 
 13. Wild Senses (4)
-14. Savage Attack (4d4+CON)
+14. 
 15. 
 16. Rage (+5)
 17. 
-18. Savage Attack (5d4+CON), Wild Senses (5)
+18. Wild Senses (5)
 19. 
 20. 
 
+MULTI_FEATURES:
+| Level | Savage Attack |
+| ----- | ------------- |
+| 1st   | -             |
+| 2nd   | 1d4+CON       |
+| 3rd   | 1d4+CON       |
+| 4th   | 1d4+CON       |
+| 5th   | 1d4+CON       |
+| 6th   | 2d4+CON       |
+| 7th   | 2d4+CON       |
+| 8th   | 2d4+CON       |
+| 9th   | 2d4+CON       |
+| 10th  | 3d4+CON       |
+| 11th  | 3d4+CON       |
+| 12th  | 3d4+CON       |
+| 13th  | 3d4+CON       |
+| 14th  | 4d4+CON       |
+| 15th  | 4d4+CON       |
+| 16th  | 4d4+CON       |
+| 17th  | 4d4+CON       |
+| 18th  | 5d4+CON       |
+| 19th  | 5d4+CON       |
+| 20th  | 5d4+CON       |
 }}
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
@@ -59,8 +82,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
-  {{page-break}}
+{{page-break}}
 
 {{class-note "Wild Rage animal forms"
 
@@ -74,6 +96,8 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Wild Rage: Direwolf**. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 
 - **Wild Rage: Sharkodile**. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+
+- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
 
 - **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 

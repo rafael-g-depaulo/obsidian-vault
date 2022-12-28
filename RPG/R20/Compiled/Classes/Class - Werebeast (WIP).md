@@ -2,6 +2,7 @@
 \page
 # Werebeast (WIP) (Specialist)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
 
 **MP**: 5 per level.

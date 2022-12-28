@@ -460,6 +460,7 @@ Important tips:
 \page
 # Beast Warrior (Martial)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
@@ -470,28 +471,28 @@ Important tips:
 
 {{classTable,decoration,frame
 ##### Beast Warrior
-| Level | Proficiency Bonus | Features |
-| :---: | :---------------: | :------- | 
-| 1st | +1 | Rage (+2) |
-| 2nd | +1 | Beast Warrior Feat, Savage Attack (1d4+CON) |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Beast Warrior Feat, Extra Attack |
-| 6th | +3 | Beast Warrior Feat, Savage Attack (2d4+CON), Attribute Score Improvement |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Beast Warrior Feat, Savage Attack (3d4+CON) |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) |
-| 14th | +7 | Beast Warrior Feat, Savage Attack (4d4+CON) |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5) |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Beast Warrior Feat |
+| Level | Proficiency Bonus | Features |Savage Attack | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Rage (+2) | - |
+| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
+| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 10th | +5 | Beast Warrior Feat | 3d4+CON |
+| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
+| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
+| 14th | +7 | Beast Warrior Feat | 4d4+CON |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
+| 20th | +10 | Beast Warrior Feat | 5d4+CON |
 }}
 
 
@@ -525,8 +526,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
-  {{pageNumber,auto}}
+{{pageNumber,auto}}
 \page
 
 
@@ -544,6 +544,8 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Wild Rage: Sharkodile**. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
 
+- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
+
 - **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 
 - **Espírito Inquebrável**. Enquanto está em fúria, você não fica inconsciente por estar com 0 ou menos pontos de vida (você ainda morre se chegar em um valor negativo igual à metade de seus PV máximos). Pré-requisito: Alma de Bronze.
@@ -556,6 +558,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 \page
 # Champion (Martial)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
@@ -568,26 +571,26 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+PRE | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+PRE | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |
+| 1st | +1 | Smite | 1d6+CON | 1d8+1 |
+| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+CON | 1d8+1 |
+| 3rd | +2 | Champion Feat | 1d6+CON | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+CON | 1d8+1 |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+CON | 1d8+1 |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+CON | 1d8+1 |
+| 7th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
+| 8th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+CON | 2d8+2 |
+| 10th | +5 | Champion Feat | 3d6+CON | 3d8+3 |
+| 11th | +6 | Champion Feat | 3d6+CON | 3d8+3 |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+CON | 3d8+3 |
+| 13th | +7 | Champion Feat | 4d6+CON | 3d8+3 |
+| 14th | +7 | Champion Feat | 4d6+CON | 4d8+4 |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+CON | 4d8+4 |
+| 16th | +8 | Champion Feat | 4d6+CON | 4d8+4 |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+CON | 4d8+4 |
+| 18th | +9 | Champion Feat | 5d6+CON | 5d8+5 |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+CON | 5d8+5 |
+| 20th | +10 | Champion Feat | 5d6+CON | 5d8+5 |
 }}
 
 
@@ -621,6 +624,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 \page
 # Juggernaut (Martial)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
@@ -681,6 +685,8 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 - **Crítico Poderoso**. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
 
 - **Golpe Brutal**. (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
+{{pageNumber,auto}}
+\page
 
 - **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
 
@@ -691,9 +697,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 - **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
 
 - **Defesa Implacável**. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
-  {{pageNumber,auto}}
-\page
-
+  
 - **Defesa Intocável**. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
 
 - **Defesa Impregnável**. (Guarda Alta) Você pode gastar 2PM e somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
@@ -710,6 +714,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 \page
 # Plantomancer (Caster)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
 **MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain an extra 6 per level.
@@ -870,6 +875,7 @@ List of spells available for a Plantomancer to learn.
 \page
 # Rogue (Specialist)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
 
 **MP**: 5 per level.
@@ -930,14 +936,14 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - **Gatuno**. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
 - **Capitalizar Distrações**. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
-  {{pageNumber,auto}}
-\page
-
+  
 - **Mão na Boca**. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
 
 - **Mente Criminosa**. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
 
 - **Oportunismo**. Você recebe +2 em testes de ataque contra inimigos que já sofreram dano desde seu último turno.
+{{pageNumber,auto}}
+\page
 
 - **Saqueador de Tumbas**. Você recebe +5 em testes de Investigação para encontrar armadilhas e em testes de Reflexos para evitá-las.
 
@@ -951,48 +957,43 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 {{pageNumber,auto}}
 \page
-# Spelgard
+# Spelgard (Off-Caster)
 
-##### [[Archetype - Off-Caster]]
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
 
-**HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
+**MP**: You start at 1st level with 4 (+SEN mod.) maximum MP, and gain an extra 4 per level.
 
-**MP**: You start at 1st level with 4 (+SEN mod.) maximum MP, and gain 4 extra per level.
+**Equipment Proficiencies:** Simple weapons and all kinds of armor..
 
-**Equipment Proficiencies:** Simple weapons and all kinds of armor.
+**Resistências:** Sensibility, Dexterity.
 
-**Save Roll Proficiencies:** SEN, DEX.
-
-**Spellcasting Modifier:** SEN
-
-{{classTable,decoration,wide
-
+{{classTable,decoration,frame,wide
 ##### Spelgard
-
-| Level | Proficiency Bonus | Features                                                          | Spells Known | Max Spell Circle |
-| :---: | :---------------: | :---------------------------------------------------------------- | :----------: | :--------------: |
-|  1st  |        +1         | Lay on Hands (1d8+1)                                              |      1       |        1         |
-|  2nd  |        +1         | Spelgard Feat, Spiritual Weapon (1d8+SEN)                         |      2       |        1         |
-|  3rd  |        +2         | Spelgard Feat                                                     |      2       |        1         |
-|  4th  |        +2         | Spelgard Feat, Lay on Hands (2d8+2)                               |      3       |        1         |
-|  5th  |        +3         | Spelgard Feat, Attribute Score Improvement, Attack of Opportunity |      3       |        2         |
-|  6th  |        +3         | Spelgard Feat, Spiritual Weapon (2d8+SEN)                         |      4       |        2         |
-|  7th  |        +4         | Spelgard Feat, Attribute Score Improvement, Extra Attack          |      4       |        2         |
-|  8th  |        +4         | Spelgard Feat                                                     |      5       |        3         |
-|  9th  |        +5         | Spelgard Feat, Lay on Hands (3d8+3)                               |      5       |        3         |
-| 10th  |        +5         | Spelgard Feat, Attribute Score Improvement                        |      6       |        3         |
-| 11th  |        +6         | Spelgard Feat, Spiritual Weapon (3d8+SEN)                         |      6       |        4         |
-| 12th  |        +6         | Spelgard Feat, Attribute Score Improvement                        |      7       |        4         |
-| 13th  |        +7         | Spelgard Feat                                                     |      7       |        5         |
-| 14th  |        +7         | Spelgard Feat, Attribute Score Improvement                        |      8       |        5         |
-| 15th  |        +8         | Spelgard Feat, Lay on Hands (4d8+4)                               |      8       |        6         |
-| 16th  |        +8         | Spelgard Feat, Spiritual Weapon (4d8+SEN)                         |      9       |        6         |
-| 17th  |        +9         | Spelgard Feat, Attribute Score Improvement                        |      9       |        7         |
-| 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                               |      10      |        7         |
-| 19th  |        +10        | Spelgard Feat                                                     |      10      |        7         |
-| 20th  |        +10        | Spelgard Feat                                                     |      11      |        7         |
-
+| Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
+| 1st | +1 | Lay on Hands | - | 1d8+1 | 1 | 1 |
+| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 1d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat | 1d8+SEN | 1d8+1 | 2 | 1 |
+| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 1d8+SEN | 1d8+1 | 3 | 1 |
+| 5th | +3 | Spelgard Feat, Attack of Opportunity | 1d8+SEN | 1d8+1 | 3 | 2 |
+| 6th | +3 | Spelgard Feat | 2d8+SEN | 1d8+1 | 4 | 2 |
+| 7th | +4 | Spelgard Feat, Extra Attack | 2d8+SEN | 2d8+2 | 4 | 2 |
+| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 5 | 3 |
+| 9th | +5 | Spelgard Feat | 2d8+SEN | 2d8+2 | 5 | 3 |
+| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 3d8+3 | 6 | 3 |
+| 11th | +6 | Spelgard Feat | 3d8+SEN | 3d8+3 | 6 | 4 |
+| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 7 | 4 |
+| 13th | +7 | Spelgard Feat | 3d8+SEN | 3d8+3 | 7 | 5 |
+| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 4d8+4 | 8 | 5 |
+| 15th | +8 | Spelgard Feat | 3d8+SEN | 4d8+4 | 8 | 6 |
+| 16th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 9 | 6 |
+| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 9 | 7 |
+| 18th | +9 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
+| 19th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
+| 20th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 11 | 7 |
 }}
+
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -1017,14 +1018,12 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 - **Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
 
 - **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
-
-- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
-  {{pageNumber,auto}}
+{{pageNumber,auto}}
 \page
 
-  {{note
 
-##### Auras
+{{note
+#### Auras
 
 A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
 
@@ -1038,6 +1037,8 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - **Aura of Irradiation**. Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save.
 
 - **Aura of Regeneration**. Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura.
+
+- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
 
 - **Multi-Aura**. You can have multiple auras active at once. Pre-requisites: At least 1 "Aura of" power
 
@@ -1069,42 +1070,26 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
-- [[Detectar Ameaças]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
-- [[Hail of Thorns]]
 - [[Healing Word]]
-- [[Luz]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
 
 ### 2nd Circle
 - [[Aid]]
-- [[Barkskin]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 
-### 3rd Circle
-- [[Campo de Força]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Life Transference]]
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
-### 5th Circle
-- [[Transformação de Guerra]]
-
 {{pageNumber,auto}}
 \page
 # Warrior (Martial)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
@@ -1218,6 +1203,7 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 \page
 # Witch (Caster)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
 **MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.

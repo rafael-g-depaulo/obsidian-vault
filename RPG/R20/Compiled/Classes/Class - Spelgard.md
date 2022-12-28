@@ -1,47 +1,42 @@
 {{pageNumber,auto}}
 \page
-# Spelgard
+# Spelgard (Off-Caster)
 
-##### [[Archetype - Off-Caster]]
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
 
-**HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
+**MP**: You start at 1st level with 4 (+SEN mod.) maximum MP, and gain an extra 4 per level.
 
-**MP**: You start at 1st level with 4 (+SEN mod.) maximum MP, and gain 4 extra per level.
+**Equipment Proficiencies:** Simple weapons and all kinds of armor..
 
-**Equipment Proficiencies:** Simple weapons and all kinds of armor.
+**Resistências:** Sensibility, Dexterity.
 
-**Save Roll Proficiencies:** SEN, DEX.
-
-**Spellcasting Modifier:** SEN
-
-{{classTable,decoration,wide
-
+{{classTable,decoration,frame,wide
 ##### Spelgard
-
-| Level | Proficiency Bonus | Features                                                          | Spells Known | Max Spell Circle |
-| :---: | :---------------: | :---------------------------------------------------------------- | :----------: | :--------------: |
-|  1st  |        +1         | Lay on Hands (1d8+1)                                              |      1       |        1         |
-|  2nd  |        +1         | Spelgard Feat, Spiritual Weapon (1d8+SEN)                         |      2       |        1         |
-|  3rd  |        +2         | Spelgard Feat                                                     |      2       |        1         |
-|  4th  |        +2         | Spelgard Feat, Lay on Hands (2d8+2)                               |      3       |        1         |
-|  5th  |        +3         | Spelgard Feat, Attribute Score Improvement, Attack of Opportunity |      3       |        2         |
-|  6th  |        +3         | Spelgard Feat, Spiritual Weapon (2d8+SEN)                         |      4       |        2         |
-|  7th  |        +4         | Spelgard Feat, Attribute Score Improvement, Extra Attack          |      4       |        2         |
-|  8th  |        +4         | Spelgard Feat                                                     |      5       |        3         |
-|  9th  |        +5         | Spelgard Feat, Lay on Hands (3d8+3)                               |      5       |        3         |
-| 10th  |        +5         | Spelgard Feat, Attribute Score Improvement                        |      6       |        3         |
-| 11th  |        +6         | Spelgard Feat, Spiritual Weapon (3d8+SEN)                         |      6       |        4         |
-| 12th  |        +6         | Spelgard Feat, Attribute Score Improvement                        |      7       |        4         |
-| 13th  |        +7         | Spelgard Feat                                                     |      7       |        5         |
-| 14th  |        +7         | Spelgard Feat, Attribute Score Improvement                        |      8       |        5         |
-| 15th  |        +8         | Spelgard Feat, Lay on Hands (4d8+4)                               |      8       |        6         |
-| 16th  |        +8         | Spelgard Feat, Spiritual Weapon (4d8+SEN)                         |      9       |        6         |
-| 17th  |        +9         | Spelgard Feat, Attribute Score Improvement                        |      9       |        7         |
-| 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                               |      10      |        7         |
-| 19th  |        +10        | Spelgard Feat                                                     |      10      |        7         |
-| 20th  |        +10        | Spelgard Feat                                                     |      11      |        7         |
-
+| Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
+| 1st | +1 | Lay on Hands | - | 1d8+1 | 1 | 1 |
+| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 1d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat | 1d8+SEN | 1d8+1 | 2 | 1 |
+| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 1d8+SEN | 1d8+1 | 3 | 1 |
+| 5th | +3 | Spelgard Feat, Attack of Opportunity | 1d8+SEN | 1d8+1 | 3 | 2 |
+| 6th | +3 | Spelgard Feat | 2d8+SEN | 1d8+1 | 4 | 2 |
+| 7th | +4 | Spelgard Feat, Extra Attack | 2d8+SEN | 2d8+2 | 4 | 2 |
+| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 5 | 3 |
+| 9th | +5 | Spelgard Feat | 2d8+SEN | 2d8+2 | 5 | 3 |
+| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 3d8+3 | 6 | 3 |
+| 11th | +6 | Spelgard Feat | 3d8+SEN | 3d8+3 | 6 | 4 |
+| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 7 | 4 |
+| 13th | +7 | Spelgard Feat | 3d8+SEN | 3d8+3 | 7 | 5 |
+| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 4d8+4 | 8 | 5 |
+| 15th | +8 | Spelgard Feat | 3d8+SEN | 4d8+4 | 8 | 6 |
+| 16th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 9 | 6 |
+| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 9 | 7 |
+| 18th | +9 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
+| 19th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
+| 20th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 11 | 7 |
 }}
+
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -66,14 +61,12 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 - **Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
 
 - **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
-
-- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
-  {{pageNumber,auto}}
+{{pageNumber,auto}}
 \page
 
-  {{note
 
-##### Auras
+{{note
+#### Auras
 
 A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
 
@@ -87,6 +80,8 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 - **Aura of Irradiation**. Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save.
 
 - **Aura of Regeneration**. Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura.
+
+- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
 
 - **Multi-Aura**. You can have multiple auras active at once. Pre-requisites: At least 1 "Aura of" power
 
@@ -118,34 +113,17 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
-- [[Detectar Ameaças]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
-- [[Hail of Thorns]]
 - [[Healing Word]]
-- [[Luz]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
 
 ### 2nd Circle
 - [[Aid]]
-- [[Barkskin]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
-
-### 3rd Circle
-- [[Campo de Força]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Life Transference]]
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
-### 5th Circle
-- [[Transformação de Guerra]]

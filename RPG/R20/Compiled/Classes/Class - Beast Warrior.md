@@ -2,6 +2,7 @@
 \page
 # Beast Warrior (Martial)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
@@ -12,28 +13,28 @@
 
 {{classTable,decoration,frame
 ##### Beast Warrior
-| Level | Proficiency Bonus | Features |
-| :---: | :---------------: | :------- | 
-| 1st | +1 | Rage (+2) |
-| 2nd | +1 | Beast Warrior Feat, Savage Attack (1d4+CON) |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Beast Warrior Feat, Extra Attack |
-| 6th | +3 | Beast Warrior Feat, Savage Attack (2d4+CON), Attribute Score Improvement |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Beast Warrior Feat, Savage Attack (3d4+CON) |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) |
-| 14th | +7 | Beast Warrior Feat, Savage Attack (4d4+CON) |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5) |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Beast Warrior Feat |
+| Level | Proficiency Bonus | Features |Savage Attack | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Rage (+2) | - |
+| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
+| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 10th | +5 | Beast Warrior Feat | 3d4+CON |
+| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
+| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
+| 14th | +7 | Beast Warrior Feat | 4d4+CON |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
+| 20th | +10 | Beast Warrior Feat | 5d4+CON |
 }}
 
 
@@ -67,8 +68,7 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
-  {{pageNumber,auto}}
+{{pageNumber,auto}}
 \page
 
 
@@ -85,6 +85,8 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Wild Rage: Direwolf**. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 
 - **Wild Rage: Sharkodile**. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+
+- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
 
 - **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 

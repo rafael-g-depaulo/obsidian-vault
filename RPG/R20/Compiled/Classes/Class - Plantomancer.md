@@ -2,6 +2,7 @@
 \page
 # Plantomancer (Caster)
 
+<style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
 **MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain an extra 6 per level.
