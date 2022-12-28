@@ -36,6 +36,7 @@
 - [[Perdição]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Snare]]
 - [[Teia]]
 - [[Tranquilidade]]
@@ -831,6 +832,21 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
+### Sleep
+  <div class="spell-tags">curse occult enchantment trickery</div>
+
+*1st Circle*
+- **Execução:** 1 Action;
+- **Alcance:** 90 feet;
+- **Duração:** 1 minute.
+
+___
+This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
+
+- **+1PM:** Add +1d8 to the dice rolled.
+
+{{pageNumber,auto}}
+\page
 ### Snare
   <div class="spell-tags">trickery ilusion ilusion curse occult</div>
 
@@ -843,8 +859,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
+
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -897,7 +912,8 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-
+{{pageNumber,auto}}
+\page
 ### Toll the Dead
   <div class="spell-tags">occult unholy decay necrotic</div>
 
@@ -911,8 +927,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 - **+3 PM:** increase the damage by 2 dice
 
-{{pageNumber,auto}}
-\page
+
 ### Toque Vampírico
   <div class="spell-tags">necrotic decay feral wild unholy occult</div>
 
@@ -963,7 +978,8 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 - **+2 PM:** aumenta os bônus na Defesa, testes de ataque e rolagens de dano corpo a corpo em +1, e os PV temporários em +10.
 - **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar.
 
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 

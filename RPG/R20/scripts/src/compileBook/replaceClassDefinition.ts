@@ -30,7 +30,7 @@ const getClassTable = (
     })
     .map(featuresListForLevel => featuresListForLevel.join(', '))
 
-  const footer = '}}\n'
+  const footer = '\n}}\n'
   const header =
     '{{classTable\n' +
     `##### ${className}\n` +

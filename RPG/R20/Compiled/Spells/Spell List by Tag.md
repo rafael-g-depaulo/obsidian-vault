@@ -117,6 +117,7 @@
 - [[Bane]]
 - [[Perdição]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Snare]]
 ### 2nd Circle
 - [[Earthbind]]
@@ -124,8 +125,6 @@
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Oração]]
-### -1th Circle
-- [[Sleep]]
 
 ## Decay Spells
 ### Cantrip
@@ -157,14 +156,13 @@
 - [[Caminhos da Natureza]]
 - [[Controlar Plantas]]
 - [[Enfeitiçar]]
+- [[Sleep]]
 - [[Tranquilidade]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Oração]]
-### -1th Circle
-- [[Sleep]]
 
 ## Energy Spells
 ### Cantrip
@@ -320,6 +318,7 @@
 - [[Infligir Ferimentos]]
 - [[Perdição]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Snare]]
 ### 2nd Circle
 - [[Earthbind]]
@@ -330,8 +329,6 @@
 - [[Oração]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
-### -1th Circle
-- [[Sleep]]
 
 ## Plant Spells
 ### Cantrip
@@ -461,6 +458,7 @@
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
+- [[Sleep]]
 - [[Snare]]
 - [[Tranquilidade]]
 ### 2nd Circle
@@ -471,8 +469,6 @@
 - [[Camuflagem ilusória]]
 - [[Invisibilidade]]
 - [[Oração]]
-### -1th Circle
-- [[Sleep]]
 
 ## Unholy Spells
 ### Cantrip

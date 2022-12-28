@@ -1,39 +1,38 @@
-# Beast Warrior
-##### [[Archetype - Martial]]
+{{class-definition 
+NAME: Beast Warrior
+ARCHETYPE: Martial
+HP_LV1: 18
+HP_LV: 4
+MP_LV: 3
 
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
+EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons. Light and medium armor
 
-**MP**: 3 per level.
+SAVES:
+- CON
+- SEN 
 
-**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor
-
-**Save Roll Proficiencies:** CON, SEN.
-
-\<div class='classTable'>
-##### Beast Warrior
-| Level | Proficiency Bonus | Features                                                                 |
-|:-----:|:-----------------:|:------------------------------------------------------------------------ |
-|  1st  |        +1         | Rage (+2)                                                                |
-|  2nd  |        +1         | Beast Warrior Feat, Savage Attack (1d4+CON)                              |
-|  3rd  |        +2         | Beast Warrior Feat, Defesa Animal                                        |
-|  4th  |        +2         | Beast Warrior Feat, Attribute Score Improvement                          |
-|  5th  |        +3         | Beast Warrior Feat, Extra Attack                                         |
-|  6th  |        +3         | Beast Warrior Feat, Attribute Score Improvement, Savage Attack (2d4+CON) |
-|  7th  |        +4         | Beast Warrior Feat, Rage (+3)                                            |
-|  8th  |        +4         | Beast Warrior Feat, Wild Senses (3)                                          |
-|  9th  |        +5         | Beast Warrior Feat, Attribute Score Improvement                          |
-| 10th  |        +5         | Beast Warrior Feat, Savage Attack (3d4+CON)                              |
-| 11th  |        +6         | Beast Warrior Feat, Rage (+4)                                            |
-| 12th  |        +6         | Beast Warrior Feat, Attribute Score Improvement                          |
-| 13th  |        +7         | Beast Warrior Feat, Wild Senses (4)                                         |
-| 14th  |        +7         | Beast Warrior Feat, Savage Attack (4d4+CON)                              |
-| 15th  |        +8         | Beast Warrior Feat, Attribute Score Improvement                          |
-| 16th  |        +8         | Beast Warrior Feat, Rage (+5)                                            |
-| 17th  |        +9         | Beast Warrior Feat, Attribute Score Improvement                          |
-| 18th  |        +9         | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5)             |
-| 19th  |        +10        | Beast Warrior Feat, Attribute Score Improvement                          |
-| 20th  |        +10        | Beast Warrior Feat                                                       |
-\</div>
+FEATURES:
+1. Rage (+2)
+2. Savage Attack (1d4+CON)
+3. Defesa Animal
+4. Attribute Score Improvement
+5. Extra Attack
+6. Attribute Score Improvement, Savage Attack (2d4+CON)
+7. Rage (+3)
+8. Wild Senses (3)
+9. Attribute Score Improvement
+10. Savage Attack (3d4+CON)
+11. Rage (+4)
+12. Attribute Score Improvement
+13. Wild Senses (4)
+14. Savage Attack (4d4+CON)
+15. Attribute Score Improvement
+16. Rage (+5)
+17. Attribute Score Improvement
+18. Savage Attack (5d4+CON), Wild Senses (5)
+19. Attribute Score Improvement
+20. 
+}}
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 

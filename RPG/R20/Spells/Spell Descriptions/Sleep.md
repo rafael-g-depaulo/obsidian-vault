@@ -1,6 +1,6 @@
 #spell #curse #occult #enchantment #trickery 
 ### Sleep
-* 1º Círculo*
+*1º Círculo*
 ___
 - **Casting time:** 1 Action
 - **Range:** 90 feet

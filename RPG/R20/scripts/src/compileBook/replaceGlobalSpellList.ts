@@ -29,7 +29,7 @@ export const replaceGlobalSpellList =
             makeSpellListString(allSpells, 'All')
           ),
           replaceMacro(
-            'all-spell-descriptions',
+            'all-spells-descriptions',
             makeSpellDescriptionsListString(allSpells)
           )
         )(content)

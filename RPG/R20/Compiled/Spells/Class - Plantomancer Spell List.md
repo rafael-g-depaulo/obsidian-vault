@@ -28,6 +28,7 @@
 - [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Ray of Sickness]]
+- [[Sleep]]
 - [[Teia]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
@@ -547,6 +548,20 @@ A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 {{pageNumber,auto}}
 \page
+### Sleep
+  <div class="spell-tags">curse occult enchantment trickery</div>
+
+*1st Circle*
+- **Execução:** 1 Action;
+- **Alcance:** 90 feet;
+- **Duração:** 1 minute.
+
+___
+This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
+
+- **+1PM:** Add +1d8 to the dice rolled.
+
+
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -600,7 +615,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo.
 - **+2 PM:** aumenta a área em +1 cubo de 1,5m.
 
-
+{{pageNumber,auto}}
+\page
 ### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -616,8 +632,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-{{pageNumber,auto}}
-\page
+
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy</div>
 
@@ -669,7 +684,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+2 PM:** aumenta a penalidade em –1.
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 
