@@ -14,6 +14,45 @@
 
 **Spellcasting Modifier:** INT
 
+{{pageNumber,auto}}
+\page
+# Plantomancer (Caster)
+
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
+
+**MP**: 6 per level.
+
+**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
+
+**Resistências:** Sensibility.
+
+{{classTabl,decoration,wide
+##### Plantomancer
+| Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Magic Seed (2), Summon Sapling | 3 | 1 | 2 |
+| 2nd | +1 | Plantomancer Feat, Magic Seed (3) | 4 | 1 | 3 |
+| 3rd | +2 | Plantomancer Feat | 5 | 2 | 3 |
+| 4th | +2 | Plantomancer Feat, Magic Seed (4), Attribute Score Improvement | 6 | 2 | 4 |
+| 5th | +3 | Plantomancer Feat | 7 | 3 | 4 |
+| 6th | +3 | Plantomancer Feat, Magic Seed (5) | 8 | 3 | 5 |
+| 7th | +4 | Plantomancer Feat | 9 | 4 | 5 |
+| 8th | +4 | Plantomancer Feat, Magic Seed (6), Attribute Score Improvement | 10 | 4 | 6 |
+| 9th | +5 | Plantomancer Feat | 11 | 5 | 6 |
+| 10th | +5 | Plantomancer Feat, Magic Seed (7) | 12 | 5 | 7 |
+| 11th | +6 | Plantomancer Feat | 13 | 6 | 7 |
+| 12th | +6 | Plantomancer Feat, Magic Seed (8), Attribute Score Improvement | 14 | 6 | 8 |
+| 13th | +7 | Plantomancer Feat | 15 | 7 | 8 |
+| 14th | +7 | Plantomancer Feat, Magic Seed (9) | 16 | 7 | 9 |
+| 15th | +8 | Plantomancer Feat | 17 | 8 | 9 |
+| 16th | +8 | Plantomancer Feat, Magic Seed (10), Attribute Score Improvement | 18 | 8 | 10 |
+| 17th | +9 | Plantomancer Feat | 19 | 9 | 10 |
+| 18th | +9 | Plantomancer Feat, Magic Seed (11) | 20 | 9 | 11 |
+| 19th | +10 | Plantomancer Feat, Attribute Score Improvement | 21 | 9 | 11 |
+| 20th | +10 | Plantomancer Feat, Magic Seed (12) | 22 | 9 | 12 |
+}}
+
+
 {{classTable,frame,decoration,wide
 
 ##### Plantomancer

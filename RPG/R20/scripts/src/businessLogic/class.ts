@@ -1,0 +1,27 @@
+import { pad } from '../arrayUtils'
+import { getString, getStringArr, Macro } from '../macros/types'
+import { parseMultiFeatures } from './archetype'
+
+export interface Class {
+  archetype: string
+  name: string
+  equipProficiencies: string
+  saves: string[]
+  mpAttribute?: string
+  features: string[]
+  multi_features: string[][]
+}
+
+export const parseClass = (classMacro: Macro): Class => ({
+  archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
+  equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
+  features: getStringArr(classMacro.items.FEATURES),
+  multi_features: pad(
+    parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
+    21,
+    []
+  ),
+  name: classMacro.argument ?? 'CLASS NAME NOT FOUND',
+  saves: getStringArr(classMacro.items.SAVES),
+  mpAttribute: getString(classMacro.items.MP_ATTB),
+})

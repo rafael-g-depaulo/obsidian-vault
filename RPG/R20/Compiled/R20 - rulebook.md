@@ -269,6 +269,8 @@ A Caster has access to all Caster Feats.
 | 17-20 |       9        |
 
 
+
+
 ## Off-Caster
 An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
 
@@ -339,8 +341,6 @@ None by default
 ## Martial
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
 
-
-
 ### Hit Points (HP) & Mana Points (MP)
 A Martial character's maximum HP and MP are calculated as such:
 - **HP at 1st Level:** 18 + their Constitution modifier
@@ -361,6 +361,9 @@ A character from a martial class has access to all Matial Feats.
 - **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
 
 <!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
 
 {{pageNumber,auto}}
 \page
@@ -459,30 +462,30 @@ Important tips:
 
 **Resistências:** Constituition, Sensibility.
 
-{{classTabl,decoration,wide
+{{classTable,decoration,frame
 ##### Beast Warrior
-| Level | Proficiency Bonus | Features |Spells Known | Max Spell Circle | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Rage (+2) | 1 | 1 |
-| 2nd | +1 | Beast Warrior Feat, Savage Attack (1d4+CON) | 2 | 1 |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 2 | 1 |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 3 | 1 |
-| 5th | +3 | Beast Warrior Feat, Extra Attack, Extra Attack,  test | 3 | 2 |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement, Savage Attack (2d4+CON) | 4 | 2 |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) | 4 | 2 |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 5 | 3 |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 5 | 3 |
-| 10th | +5 | Beast Warrior Feat, Savage Attack (3d4+CON) | 6 | 3 |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) | 6 | 4 |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 7 | 4 |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 7 | 5 |
-| 14th | +7 | Beast Warrior Feat, Savage Attack (4d4+CON) | 8 | 5 |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 8 | 6 |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) | 9 | 6 |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 9 | 7 |
-| 18th | +9 | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5) | 10 | 7 |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 10 | 7 |
-| 20th | +10 | Beast Warrior Feat | 11 | 7 |
+| Level | Proficiency Bonus | Features |Magic Seed | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Rage (+2) | 2 |
+| 2nd | +1 | Beast Warrior Feat, Savage Attack (1d4+CON) | 3 |
+| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 3 |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 4 |
+| 5th | +3 | Beast Warrior Feat, Extra Attack | 4 |
+| 6th | +3 | Beast Warrior Feat, Savage Attack (2d4+CON), Attribute Score Improvement | 5 |
+| 7th | +4 | Beast Warrior Feat, Rage (+3) | 5 |
+| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 6 |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 6 |
+| 10th | +5 | Beast Warrior Feat, Savage Attack (3d4+CON) | 7 |
+| 11th | +6 | Beast Warrior Feat, Rage (+4) | 7 |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 8 |
+| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 8 |
+| 14th | +7 | Beast Warrior Feat, Savage Attack (4d4+CON) | 9 |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 9 |
+| 16th | +8 | Beast Warrior Feat, Rage (+5) | 10 |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 10 |
+| 18th | +9 | Beast Warrior Feat, Savage Attack (5d4+CON), Wild Senses (5) | 11 |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 11 |
+| 20th | +10 | Beast Warrior Feat | 12 |
 }}
 
 
@@ -712,6 +715,45 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 **Save Roll Proficiencies:** SEN.
 
 **Spellcasting Modifier:** INT
+
+{{pageNumber,auto}}
+\page
+# Plantomancer (Caster)
+
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
+
+**MP**: 6 per level.
+
+**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
+
+**Resistências:** Sensibility.
+
+{{classTabl,decoration,wide
+##### Plantomancer
+| Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Magic Seed (2), Summon Sapling | 3 | 1 | 2 |
+| 2nd | +1 | Plantomancer Feat, Magic Seed (3) | 4 | 1 | 3 |
+| 3rd | +2 | Plantomancer Feat | 5 | 2 | 3 |
+| 4th | +2 | Plantomancer Feat, Magic Seed (4), Attribute Score Improvement | 6 | 2 | 4 |
+| 5th | +3 | Plantomancer Feat | 7 | 3 | 4 |
+| 6th | +3 | Plantomancer Feat, Magic Seed (5) | 8 | 3 | 5 |
+| 7th | +4 | Plantomancer Feat | 9 | 4 | 5 |
+| 8th | +4 | Plantomancer Feat, Magic Seed (6), Attribute Score Improvement | 10 | 4 | 6 |
+| 9th | +5 | Plantomancer Feat | 11 | 5 | 6 |
+| 10th | +5 | Plantomancer Feat, Magic Seed (7) | 12 | 5 | 7 |
+| 11th | +6 | Plantomancer Feat | 13 | 6 | 7 |
+| 12th | +6 | Plantomancer Feat, Magic Seed (8), Attribute Score Improvement | 14 | 6 | 8 |
+| 13th | +7 | Plantomancer Feat | 15 | 7 | 8 |
+| 14th | +7 | Plantomancer Feat, Magic Seed (9) | 16 | 7 | 9 |
+| 15th | +8 | Plantomancer Feat | 17 | 8 | 9 |
+| 16th | +8 | Plantomancer Feat, Magic Seed (10), Attribute Score Improvement | 18 | 8 | 10 |
+| 17th | +9 | Plantomancer Feat | 19 | 9 | 10 |
+| 18th | +9 | Plantomancer Feat, Magic Seed (11) | 20 | 9 | 11 |
+| 19th | +10 | Plantomancer Feat, Attribute Score Improvement | 21 | 9 | 11 |
+| 20th | +10 | Plantomancer Feat, Magic Seed (12) | 22 | 9 | 12 |
+}}
+
 
 {{classTable,frame,decoration,wide
 

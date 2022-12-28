@@ -12,6 +12,59 @@
 
 **Spellcasting Modifier:** INT
 
+{{class-definition "Plantomancer"
+ARCHETYPE: Caster
+EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons. Light and medium armor
+SAVES:
+- SEN
+
+FEATURES:
+1. Magic Seed (2), Summon Sapling              
+2. Magic Seed (3)                              
+3.                                              
+4. Magic Seed (4)  
+5.                                              
+6. Magic Seed (5)                              
+7.                                              
+8. Magic Seed (6)  
+9.                                              
+10. Magic Seed (7)                              
+11.                                              
+12. Magic Seed (8)  
+13.                                              
+14. Magic Seed (9)                              
+15.                                              
+16. Magic Seed (10)
+17.                                              
+18. Magic Seed (11)                              
+19.                   
+20. Magic Seed (12)
+
+MULTI_FEATURES:
+| Level | Magic Seed |
+| ----- |:----------:|
+| 1st   |     2      |
+| 2nd   |     3      |
+| 3rd   |     3      |
+| 4th   |     4      |
+| 5th   |     4      |
+| 6th   |     5      |
+| 7th   |     5      |
+| 8th   |     6      |
+| 9th   |     6      |
+| 10th  |     7      |
+| 11th  |     7      |
+| 12th  |     8      |
+| 13th  |     8      |
+| 14th  |     9      |
+| 15th  |     9      |
+| 16th  |     10     |
+| 17th  |     10     |
+| 18th  |     11     |
+| 19th  |     11     |
+| 20th  |     12     |
+}}
+
 {{classTable,frame,decoration,wide
 
 ##### Plantomancer

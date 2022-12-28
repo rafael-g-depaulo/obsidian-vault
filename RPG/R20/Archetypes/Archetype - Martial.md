@@ -1,43 +1,6 @@
 ## Martial
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
 
-{{define-archetype "Martial"
-HP_LV1: 18
-HP_LV: 5
-MP_LV: 3
-ASI_LEVELS: 4, 6, 9, 12, 15, 17, 19
-HAS_MAGIC: true
-
-FEATURES:
-| LEVEL | FEATURE            |
-| ----- | ------------------ |
-| 5     | Extra Attack, test |
-
-MULTI_FEATURES:
-| Level | Spells Known | Max Spell Circle |
-| ----- |:------------:|:----------------:|
-| 1st   |      1       |        1         |
-| 2nd   |      2       |        1         |
-| 3rd   |      2       |        1         |
-| 4th   |      3       |        1         |
-| 5th   |      3       |        2         |
-| 6th   |      4       |        2         | 
-| 7th   |      4       |        2         |
-| 8th   |      5       |        3         |
-| 9th   |      5       |        3         |
-| 10th  |      6       |        3         |
-| 11th  |      6       |        4         |
-| 12th  |      7       |        4         |
-| 13th  |      7       |        5         |
-| 14th  |      8       |        5         |
-| 15th  |      8       |        6         |
-| 16th  |      9       |        6         |
-| 17th  |      9       |        7         |
-| 18th  |      10      |        7         |
-| 19th  |      10      |        7         |
-| 20th  |      11      |        7         |
-}}
-
 ### Hit Points (HP) & Mana Points (MP)
 A Martial character's maximum HP and MP are calculated as such:
 - **HP at 1st Level:** 18 + their Constitution modifier
@@ -58,3 +21,40 @@ A character from a martial class has access to all Matial Feats.
 - **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
 
 <!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+{{define-archetype "Martial"
+HP_LV1: 18
+HP_LV: 5
+MP_LV: 3
+ASI_LEVELS: 4, 6, 9, 12, 15, 17, 19
+HAS_MAGIC: false
+
+FEATURES:
+| LEVEL | FEATURE      |
+| ----- | ------------ |
+| 5     | Extra Attack | 
+
+MULTI_FEATURES:
+| Level |     |
+| ----- | --- |
+| 1st   |     |
+| 2nd   |     |
+| 3rd   |     |
+| 4th   |     |
+| 5th   |     |
+| 6th   |     |
+| 7th   |     |
+| 8th   |     |
+| 9th   |     |
+| 10th  |     |
+| 11th  |     |
+| 12th  |     |
+| 13th  |     |
+| 14th  |     |
+| 15th  |     |
+| 16th  |     |
+| 17th  |     |
+| 18th  |     |
+| 19th  |     |
+| 20th  |     |
+}}

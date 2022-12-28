@@ -1,12 +1,6 @@
-{{class-definition
-NAME: Beast Warrior
+{{class-definition "Beast Warrior"
 ARCHETYPE: Martial
-HP_LV1: 18
-HP_LV: 4
-MP_LV: 3
-
 EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons. Light and medium armor
-
 SAVES:
 - CON
 - SEN
@@ -15,23 +9,47 @@ FEATURES:
 1. Rage (+2)
 2. Savage Attack (1d4+CON)
 3. Defesa Animal
-4. Attribute Score Improvement
-5. Extra Attack
-6. Attribute Score Improvement, Savage Attack (2d4+CON)
+4. 
+5. 
+6. Savage Attack (2d4+CON)
 7. Rage (+3)
 8. Wild Senses (3)
-9. Attribute Score Improvement
+9. 
 10. Savage Attack (3d4+CON)
 11. Rage (+4)
-12. Attribute Score Improvement
+12. 
 13. Wild Senses (4)
 14. Savage Attack (4d4+CON)
-15. Attribute Score Improvement
+15. 
 16. Rage (+5)
-17. Attribute Score Improvement
+17. 
 18. Savage Attack (5d4+CON), Wild Senses (5)
-19. Attribute Score Improvement
+19. 
 20. 
+
+MULTI_FEATURES:
+| Level | Magic Seed |
+| ----- |:----------:|
+| 1st   |     2      |
+| 2nd   |     3      |
+| 3rd   |     3      |
+| 4th   |     4      |
+| 5th   |     4      |
+| 6th   |     5      |
+| 7th   |     5      |
+| 8th   |     6      |
+| 9th   |     6      |
+| 10th  |     7      |
+| 11th  |     7      |
+| 12th  |     8      |
+| 13th  |     8      |
+| 14th  |     9      |
+| 15th  |     9      |
+| 16th  |     10     |
+| 17th  |     10     |
+| 18th  |     11     |
+| 19th  |     11     |
+| 20th  |     12     |
 }}
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.

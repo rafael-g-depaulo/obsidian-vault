@@ -31,3 +31,39 @@ A Caster has access to all Caster Feats.
 | 13-14 |       7        |
 | 15-16 |       8        | 
 | 17-20 |       9        |
+
+{{define-archetype "Caster"
+HP_LV1: 8
+HP_LV: 2
+MP_LV: 6
+ASI_LEVELS: 4, 8, 12, 16, 19
+HAS_MAGIC: true
+
+FEATURES:
+| LEVEL | FEATURE            |
+| ----- | ------------------ |
+
+MULTI_FEATURES:
+| Level | Spells Known | Max Spell Circle |
+| ----- |:------------:|:----------------:|
+| 1st   |      3       |        1         |
+| 2nd   |      4       |        1         |
+| 3rd   |      5       |        2         |
+| 4th   |      6       |        2         |
+| 5th   |      7       |        3         |
+| 6th   |      8       |        3         |
+| 7th   |      9       |        4         |
+| 8th   |      10      |        4         |
+| 9th   |      11      |        5         |
+| 10th  |      12      |        5         |
+| 11th  |      13      |        6         |
+| 12th  |      14      |        6         |
+| 13th  |      15      |        7         |
+| 14th  |      16      |        7         |
+| 15th  |      17      |        8         |
+| 16th  |      18      |        8         |
+| 17th  |      19      |        9         |
+| 18th  |      20      |        9         |
+| 19th  |      21      |        9         |
+| 20th  |      22      |        9         |
+}}

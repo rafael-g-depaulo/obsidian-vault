@@ -1,9 +1,9 @@
 import { pad, range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
+import { Class, parseClass } from '../businessLogic/class'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
-import { ClassDefinitionMacro } from '../macros/types'
 import { order } from '../stringOutputUtils'
 import { CompileRulesDeps } from './index'
 
@@ -14,42 +14,29 @@ export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
     const archetype = archetypes.find(
       archetype => archetype.name === macro.items.ARCHETYPE
     )
-
-    return generateClassDefinition(macro as ClassDefinitionMacro, archetype)
+    const classDefinition = parseClass(macro)
+    return generateClassDefinition(classDefinition, archetype)
   })
 
 const getSaves = (saves: string[]) =>
   `**Resistências:** ${saves.map(a => getAttbName(a as Attb)).join(', ')}.`
 
-const makeNormalClassTable = (className: string, features: string[]) => {
-  const footer = '\n}}\n'
-  const header =
-    '{{classTable\n' +
-    `##### ${className}\n` +
-    '| Level | Proficiency Bonus | Features |\n' +
-    '|:-----:|:-----------------:|:-------- |\n'
-  return (
-    header +
-    range(1, 20)
-      .map(level => ({
-        level: level + order(level),
-        proficiencyBonus: proficiencyBonus[level - 1],
-        features: features[level - 1],
-      }))
-      .map(
-        ({ features, level, proficiencyBonus }) =>
-          `| ${level} | ${proficiencyBonus} | ${features} |`
-      )
-      .join('\n') +
-    footer
-  )
-}
+const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
+  const features = pad(classDefinition.features, 20, '')
+    .map((levelFeatures, i) => {
+      const featuresForLevel = levelFeatures
+        .split(', ')
+        .filter(feat => feat !== '')
+      if (i > 0)
+        return [
+          `${classDefinition.name} Feat`,
+          ...featuresForLevel,
+          ...archetype.features[i],
+        ]
+      return featuresForLevel
+    })
+    .map(featuresListForLevel => featuresListForLevel.join(', '))
 
-const makeCasterClassTable = (
-  archetype: Archetype,
-  className: string,
-  features: string[]
-) => {
   const makeRow = (
     levelStr: string,
     proficiency: string,
@@ -65,16 +52,21 @@ const makeCasterClassTable = (
     (isWide
       ? '{{classTabl,decoration,wide\n'
       : '{{classTable,decoration,frame\n') +
-    `##### ${className}\n` +
+    `##### ${classDefinition.name}\n` +
     `| Level | Proficiency Bonus | Features |${additionalFatures
       .map(feat => `${feat} | `)
       .join('')}\n` +
     makeSeparator(additionalFatures.length)
 
-  const header = makeHeader(archetype.multi_features[0], archetype.wide)
+  const header = makeHeader(
+    [...classDefinition.multi_features[0], ...archetype.multi_features[0]],
+    archetype.wide
+  )
   const footer = '\n}}\n'
 
-  const multiFeatures = archetype.multi_features.slice(1)
+  const multiFeatures = archetype.multi_features
+    .map((f, i) => [...f, ...classDefinition.multi_features[i]])
+    .slice(1)
 
   return (
     header +
@@ -93,53 +85,24 @@ const makeCasterClassTable = (
   )
 }
 
-const makeClassTable = (
-  archetype: Archetype,
-  className: string,
-  _features: string[]
-) => {
-  const features = pad(_features, 20, '')
-    .map((levelFeatures, i) => {
-      const featuresForLevel = levelFeatures
-        .split(', ')
-        .filter(feat => feat !== '')
-      if (i > 0)
-        return [
-          `${className} Feat`,
-          ...featuresForLevel,
-          ...archetype.features[i],
-        ]
-      return featuresForLevel
-    })
-    .map(featuresListForLevel => featuresListForLevel.join(', '))
-
-  if (archetype.wide)
-    return makeCasterClassTable(archetype, className, features)
-  return makeNormalClassTable(className, features)
-}
-
 export const generateClassDefinition = (
-  classMacro: ClassDefinitionMacro,
+  classDefinition: Class,
   archetype?: Archetype
 ) =>
   !archetype
     ? `ERRROR WHAT SMETHING's WRONG\n\n\`\`\`json\n${JSON.stringify(
-        { archetype, classMacro },
+        { archetype, classMacro: classDefinition },
         null,
         2
       )}\`\`\`\n\n`
-    : `# ${classMacro.items.NAME} (${classMacro.items.ARCHETYPE})\n\n` +
+    : `# ${classDefinition.name} (${classDefinition.archetype})\n\n` +
       `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
       `**MP**: ${
-        classMacro.items.MP_ATTB
-          ? `You start at 1st level with ${archetype.mp_lv} (+${classMacro.items.MP_ATTB}) maximum MP, and gain an extra ${archetype.mp_lv} per level`
+        classDefinition.mpAttribute
+          ? `You start at 1st level with ${archetype.mp_lv} (+${classDefinition.mpAttribute}) maximum MP, and gain an extra ${archetype.mp_lv} per level`
           : `${archetype.mp_lv} per level`
       }.\n\n` +
-      `**Equipment Proficiencies:** ${classMacro.items.EQUIPMENT_PROFICIENCIES}.\n\n` +
-      getSaves(classMacro.items.SAVES as string[]) +
+      `**Equipment Proficiencies:** ${classDefinition.equipProficiencies}.\n\n` +
+      getSaves(classDefinition.saves) +
       '\n\n' +
-      makeClassTable(
-        archetype,
-        classMacro.items.NAME as string,
-        classMacro.items.FEATURES as string[]
-      )
+      makeClassTable(archetype, classDefinition)

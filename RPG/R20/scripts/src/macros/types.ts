@@ -19,18 +19,6 @@ export type SpellListMacro = Macro<
   'spell-list'
 >
 
-export type ClassDefinitionMacro = Macro<
-  | 'ARCHETYPE'
-  | 'NAME'
-  | 'EQUIPMENT_PROFICIENCIES'
-  | 'SAVES'
-  | 'MP_ATTB'
-  | 'FEATURES'
-  | 'BASE_MECHANICS'
-  | 'CLASS_FEATS',
-  'class-definition'
->
-
 export type ArchetypeDefinitionMacro = Macro<
   'HP_LV1' | 'HP_LV' | 'MP_LV' | 'ASI_LEVELS' | 'FEATURES' | 'MULTI_FEATURES',
   'define-archetype'

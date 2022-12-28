@@ -17,6 +17,7 @@ export const parseMarkdownTable = (
   const rowsArr = matchAllGroups(content, markdownTableRowRegex).map(
     ({ tableRow }) => tableRow.split('|').map(cell => cell.trim())
   )
+  if (rowsArr.length < 3) return rowsArr
   if (withHeader) return [rowsArr[0], ...rowsArr.slice(2)]
   return rowsArr.slice(2)
 }
