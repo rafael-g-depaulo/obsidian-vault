@@ -1,10 +1,14 @@
 import { join } from 'path'
 import { asyncPipe } from '../arrayUtils'
+import { Archetype } from '../businessLogic/archetype'
 import { readFile } from '../file'
 import { Spell } from '../spell'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
-import { replaceClassDefinition } from './replaceClassDefinition'
+import {
+  removeArchetypeDefinition,
+  replaceClassDefinition,
+} from './replaceClassDefinition'
 import { replaceClasses } from './replaceClasses'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
@@ -14,7 +18,9 @@ import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 export type CompileRulesDeps = {
   currentFolder: string
   classesFolder: string
+  archetypesFolder: string
   allSpells: Spell[]
+  archetypes: Archetype[]
 }
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
   readFile(join(deps.currentFolder, filepath))
@@ -27,9 +33,10 @@ export const processContent = (deps: CompileRulesDeps) =>
     makeLinksGlobal(deps.currentFolder),
     replaceLinks(deps),
     replaceClasses(deps),
-    replaceClassDefinition,
+    replaceClassDefinition(deps),
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1,
     replaceGlobalSpellList(deps),
-    replacePageBreakMacro
+    replacePageBreakMacro,
+    removeArchetypeDefinition
   )

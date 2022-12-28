@@ -340,6 +340,7 @@ None by default
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
 
 
+
 ### Hit Points (HP) & Mana Points (MP)
 A Martial character's maximum HP and MP are calculated as such:
 - **HP at 1st Level:** 18 + their Constitution modifier
@@ -450,7 +451,7 @@ Important tips:
 \page
 # Beast Warrior (Martial)
 
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
+**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
 
 **MP**: 3 per level.
 
@@ -466,7 +467,7 @@ Important tips:
 | 2nd | +1 | Beast Warrior Feat, Savage Attack (1d4+CON) |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal |
 | 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Beast Warrior Feat, Extra Attack |
+| 5th | +3 | Beast Warrior Feat, Extra Attack, Extra Attack,  test |
 | 6th | +3 | Beast Warrior Feat, Attribute Score Improvement, Savage Attack (2d4+CON) |
 | 7th | +4 | Beast Warrior Feat, Rage (+3) |
 | 8th | +4 | Beast Warrior Feat, Wild Senses (3) |
@@ -497,52 +498,53 @@ Important tips:
 
 Begining at level 2, every time you gain a level in Beast Warrior you gain a Beast Warrior Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 
-- *Keen Reflexes*. Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
+- **Keen Reflexes**. Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
 
-- *Thick Hide*. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
+- **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
-- *Blood Healing*. While below HP and raging, the first attack you hit on your turn heals you for your CON mod.
+- **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod.
 
-- *Hibernation*. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
+- **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
 
-- *Powerful Savage Attacks*. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
+- **Powerful Savage Attacks**. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
 
-- *Alma de Bronze*. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
+- **Alma de Bronze**. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
 
-- *Pele de Aço*. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de Beast Warrior.
+- **Pele de Aço**. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de Beast Warrior.
 
-- *Pele de Ferro*. Você recebe +2 na Defesa, mas apenas se não estiver usando armadura pesada.
+- **Pele de Ferro**. Você recebe +2 na Defesa, mas apenas se não estiver usando armadura pesada.
 
-- *Sangue dos Inimigos*. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
+- **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-- *Superstição*. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
-{{pageNumber,auto}}
+- **Superstição**. Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe resistência a magia +2.
+  {{pageNumber,auto}}
 \page
 
 
 > ##### Wild Rage animal forms
-> Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
-> 
-> A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 >
+> Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
+>
+> A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 
-- *Wild Rage: Owlbear*. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
+- **Wild Rage: Owlbear**. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
-- *Wild Rage: Direwolf*. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
+- **Wild Rage: Direwolf**. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
 
-- *Wild Rage: Sharkodile*. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+- **Wild Rage: Sharkodile**. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
 
-- *Ímpeto*. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
+- **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 
-- *Espírito Inquebrável*. Enquanto está em fúria, você não fica inconsciente por estar com 0 ou menos pontos de vida (você ainda morre se chegar em um valor negativo igual à metade de seus PV máximos). Pré-requisito: Alma de Bronze.
+- **Espírito Inquebrável**. Enquanto está em fúria, você não fica inconsciente por estar com 0 ou menos pontos de vida (você ainda morre se chegar em um valor negativo igual à metade de seus PV máximos). Pré-requisito: Alma de Bronze.
 
-- *Esquiva Sobrenatural*. Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
+- **Esquiva Sobrenatural**. Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
 
-- *Fúria Raivosa*. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
+- **Fúria Raivosa**. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
 {{pageNumber,auto}}
 \page
 # Champion
+
 ##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
@@ -554,30 +556,31 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 **Save Roll Proficiencies:** Strength, Presence.
 
 ##### Champion
-| Level | Proficiency Bonus | Features                                   |
-|:-----:|:---:|:---------------------------------------------------------|
-| 1st   | +1  | Smite (+1d6)                                             |
-| 2nd   | +1  | Champion Feat, Lay on Hands (1d8+1)                      |
-| 3rd   | +2  | Champion Feat                                            |
-| 4th   | +2  | Champion Feat, Attribute Score Improvement               |
-| 5th   | +3  | Champion Feat, Extra Attack (1), Smite (+2d6)            |
-| 6th   | +3  | Champion Feat, Attribute Score Improvement               |
-| 7th   | +4  | Champion Feat, Lay on Hands (2d8+2)                      |
-| 8th   | +4  | Champion Feat                                            |
-| 9th   | +5  | Champion Feat, Attribute Score Improvement, Smite (+3d6) |
-| 10th  | +5  | Champion Feat  Lay on Hands (3d8+3)                      |
-| 11th  | +6  | Champion Feat, Extra Attack (2)                          |
-| 12th  | +6  | Champion Feat, Attribute Score Improvement               |
-| 13th  | +7  | Champion Feat, Smite (+4d6)                              |
-| 14th  | +7  | Champion Feat  Lay on Hands (4d8+4)                      |
-| 15th  | +8  | Champion Feat, Attribute Score Improvement               |
-| 16th  | +8  | Champion Feat                                            |
-| 17th  | +9  | Champion Feat, Attribute Score Improvement, Smite (+5d6) |
-| 18th  | +9  | Champion Feat, Lay on Hands (4d8+4)                      |
-| 19th  | +10 | Champion Feat, Attribute Score Improvement               |
-| 20th  | +10 | Champion Feat                                            |
 
-**SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM):  infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
+| Level | Proficiency Bonus | Features                                                 |
+| :---: | :---------------: | :------------------------------------------------------- |
+|  1st  |        +1         | Smite (+1d6)                                             |
+|  2nd  |        +1         | Champion Feat, Lay on Hands (1d8+1)                      |
+|  3rd  |        +2         | Champion Feat                                            |
+|  4th  |        +2         | Champion Feat, Attribute Score Improvement               |
+|  5th  |        +3         | Champion Feat, Extra Attack (1), Smite (+2d6)            |
+|  6th  |        +3         | Champion Feat, Attribute Score Improvement               |
+|  7th  |        +4         | Champion Feat, Lay on Hands (2d8+2)                      |
+|  8th  |        +4         | Champion Feat                                            |
+|  9th  |        +5         | Champion Feat, Attribute Score Improvement, Smite (+3d6) |
+| 10th  |        +5         | Champion Feat Lay on Hands (3d8+3)                       |
+| 11th  |        +6         | Champion Feat, Extra Attack (2)                          |
+| 12th  |        +6         | Champion Feat, Attribute Score Improvement               |
+| 13th  |        +7         | Champion Feat, Smite (+4d6)                              |
+| 14th  |        +7         | Champion Feat Lay on Hands (4d8+4)                       |
+| 15th  |        +8         | Champion Feat, Attribute Score Improvement               |
+| 16th  |        +8         | Champion Feat                                            |
+| 17th  |        +9         | Champion Feat, Attribute Score Improvement, Smite (+5d6) |
+| 18th  |        +9         | Champion Feat, Lay on Hands (4d8+4)                      |
+| 19th  |        +10        | Champion Feat, Attribute Score Improvement               |
+| 20th  |        +10        | Champion Feat                                            |
+
+**SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
@@ -585,26 +588,26 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 Begining at level 2, every time you gain a level in Champion you gain a Champion Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
 
-- *Golpe Ilustre*. Quando usa Golpe Destruidor, todos os inimigos em alcance curto ficam ofuscados até o início do seu próximo turno (-2 ataque/Percepção).
+- **Golpe Ilustre**. Quando usa Golpe Destruidor, todos os inimigos em alcance curto ficam ofuscados até o início do seu próximo turno (-2 ataque/Percepção).
 
-- *Golpe Inspirador*. Ao usar Golpe Destruidor, você pode gastar +1PM, e, se acertar, os seus aliados que verem o golpe ser feito tem +2 em testes de ataque contra o mesmo alvo.
+- **Golpe Inspirador**. Ao usar Golpe Destruidor, você pode gastar +1PM, e, se acertar, os seus aliados que verem o golpe ser feito tem +2 em testes de ataque contra o mesmo alvo.
 
-- *Curar Aprimorado*. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
+- **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
 
-- *Curar Distante*. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
-
+- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
 
 > ##### Julgamento
-> 
->Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
+>
+> Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
 
-- *Julgamento: Coragem*. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
+- **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
 
-- *Julgamento: Vindicação*. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
+- **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
 {{pageNumber,auto}}
 \page
 # Juggernaut
+
 ##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
@@ -616,9 +619,11 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 **Save Roll Proficiencies:** Strength, Constitution.
 
 {{classTable
+
 ##### Juggernaut
+
 | Level | Proficiency Bonus | Features                                                                 |
-|:-----:|:-----------------:|:------------------------------------------------------------------------ |
+| :---: | :---------------: | :----------------------------------------------------------------------- |
 |  1st  |        +1         | Raise Guard, Guts                                                        |
 |  2nd  |        +1         | Juggernaut Feat, Powerful Strike (1d10+STR)                              |
 |  3rd  |        +2         | Juggernaut Feat                                                          |
@@ -638,7 +643,8 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 | 17th  |        +9         | Juggernaut Feat, Attribute Score Improvement, Powerful Strike (5d10+STR) |
 | 18th  |        +9         | Juggernaut Feat                                                          |
 | 19th  |        +10        | Juggernaut Feat, Attribute Score Improvement                             |
-| 20th  |        +10        | Juggernaut Feat                                                          | 
+| 20th  |        +10        | Juggernaut Feat                                                          |
+
 }}
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
@@ -651,49 +657,50 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 
 Begining at level 2, every time you gain a level in Champion you gain a Juggernaut Feat. You may instead of a Juggernaut Feat take a Martial or General Feat of your choice.
 
-- *Tanque de Combate*. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
+- **Tanque de Combate**. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
 
-- *Vingança*. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo turno tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
+- **Vingança**. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo turno tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
 
-- *"Tragam o próximo"*. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
+- **"Tragam o próximo"**. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
 
-- *"A Melhor Defesa..."*. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
+- **"A Melhor Defesa..."**. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
 
-- *Crítico Fortificador*. Quando acertar um ataque crítico, você ganha +2 Guts.
+- **Crítico Fortificador**. Quando acertar um ataque crítico, você ganha +2 Guts.
 
-- *Crítico Brutal*. Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.
+- **Crítico Brutal**. Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.
 
-- *Crítico Poderoso*. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
+- **Crítico Poderoso**. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
 
-- *Golpe Brutal*. (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
+- **Golpe Brutal**. (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
 
-- *Golpe Derrubador*. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
+- **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
 
-- *Golpe em Arco*. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
+- **Golpe em Arco**. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
-- *Defesa Imbatível*. Enquanto estiver de Guarda Alta, você tem +2 Guard. Pré-requisito: Defesa Impenetrável.
+- **Defesa Imbatível**. Enquanto estiver de Guarda Alta, você tem +2 Guard. Pré-requisito: Defesa Impenetrável.
 
-- *Defesa Impenetrável*. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
+- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
 
-- *Defesa Implacável*. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
-{{pageNumber,auto}}
+- **Defesa Implacável**. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
+  {{pageNumber,auto}}
 \page
 
-- *Defesa Intocável*. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
+- **Defesa Intocável**. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
 
-- *Defesa Impregnável*. (Guarda Alta) Você pode gastar 2PM e somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impregnável**. (Guarda Alta) Você pode gastar 2PM e somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
 
-- *Defesa Inabalável*. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
+- **Defesa Inabalável**. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
 
-- *Defesa Impermeável* (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impermeável** (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
 
-- *Defesa Indestrutível*. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+- **Defesa Indestrutível**. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
 
 
 {{pageNumber,auto}}
 \page
 # Plantomancer
+
 ##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
@@ -707,9 +714,11 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 **Spellcasting Modifier:** INT
 
 {{classTable,frame,decoration,wide
+
 ##### Plantomancer
+
 | Level | Proficiency Bonus | Features                                                        | Magic Seed | Spells Known | Max Spell Circle |
-|:-----:|:-----------------:|:--------------------------------------------------------------- |:----------:|:------------:|:----------------:|
+| :---: | :---------------: | :-------------------------------------------------------------- | :--------: | :----------: | :--------------: |
 |  1st  |        +1         | Magic Seed (2), Summon Sapling                                  |     2      |      3       |        1         |
 |  2nd  |        +1         | Plantomancer Feat, Magic Seed (3)                               |     3      |      4       |        1         |
 |  3rd  |        +2         | Plantomancer Feat                                               |     3      |      5       |        2         |
@@ -730,6 +739,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 | 18th  |        +9         | Plantomancer Feat, Magic Seed (11)                              |     11     |      20      |        9         |
 | 19th  |        +10        | Plantomancer Feat, Attribute Score Improvement                  |     11     |      21      |        9         |
 | 20th  |        +10        | Plantomancer Feat, Magic Seed (12)                              |     12     |      22      |        9         |
+
 }}
 
 **Semente Mágica.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
@@ -740,44 +750,46 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- *Planta Resistente*. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
+- **Planta Resistente**. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
 
-- *Planta Explosiva*. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
+- **Planta Explosiva**. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
-- *Planta Ajudante*. Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
+- **Planta Ajudante**. Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
 
-- *Lanchinho Mágico*. Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
+- **Lanchinho Mágico**. Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
 
-- *Plantas Conduentes Arcanas*. Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
-{{pageNumber,auto}}
+- **Plantas Conduentes Arcanas**. Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
+  {{pageNumber,auto}}
 \page
 
-- *Herbomancia: Raizes Mágicas*. 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3. Pré-requisitos: nível 5 de Plantomancer.
+- **Herbomancia: Raizes Mágicas**. 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3. Pré-requisitos: nível 5 de Plantomancer.
 
-- *Crescimento Acelerado*. Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
+- **Crescimento Acelerado**. Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
 
-- *Herbomancia: Samambaia Recuperadora*. Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pré-requisitos: nível 4 de Plantomancer. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso).
+- **Herbomancia: Samambaia Recuperadora**. Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pré-requisitos: nível 4 de Plantomancer. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso).
 
 > ##### Herbomancia e Plantas Mágicas
+>
 > Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
-> 
+>
 > Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
 >
 > As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 
-- *Herbomancia: Troco Paredão*. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida. 
+- **Herbomancia: Troco Paredão**. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
-- *Herbomancia: Trepadeira da Batata de Aço*. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado.
+- **Herbomancia: Trepadeira da Batata de Aço**. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado.
 
 - braço treinado. dobra o alcance das plantas que vc pode plantar.
 
 - Raíz come-asfalto. você recebe +5 em testes de Natureza para Herbomancia.
 
-- *Se é verde faz bem*. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
+- **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
-- *Herbomancia: Raizes Enredantes*. 2PM. alcance: círculo com XX raio. terreno difícil e prende todos que entram. Pré-requisito: Herbomancia: Raizes Mágicas.
+- **Herbomancia: Raizes Enredantes**. 2PM. alcance: círculo com XX raio. terreno difícil e prende todos que entram. Pré-requisito: Herbomancia: Raizes Mágicas.
 
 ### Spell List
+
 List of spells available for a Plantomancer to learn.
 
 ##  Spells
@@ -789,13 +801,16 @@ List of spells available for a Plantomancer to learn.
 - [[Magic Stone]]
 - [[Poison Spray]]
 - [[Thorn Whip]]
+- [[Toll the Dead]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
+- [[Concentração de Combate]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -803,12 +818,18 @@ List of spells available for a Plantomancer to learn.
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Luz]]
+- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
@@ -818,7 +839,10 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Barkskin]]
 - [[Earthbind]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
@@ -826,15 +850,23 @@ List of spells available for a Plantomancer to learn.
 - [[Web]]
 
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Flecha Ácida]]
+- [[Físico Divino]]
+- [[Life Transference]]
 - [[Mass Healing Word]]
+- [[Oração]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
+- [[Toque Vampírico]]
 
+### 5th Circle
+- [[Transformação de Guerra]]
 
 {{pageNumber,auto}}
 \page
 # Rogue
+
 ##### [[Archetype - Specialist]]
 
 **HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
@@ -846,19 +878,21 @@ List of spells available for a Plantomancer to learn.
 **Save Roll Proficiencies:** DEX, INT.
 
 {{classTable,decoration,frame
+
 ##### Rogue
+
 | Level | Proficiency Bonus | Features                                                                                |
-|:-----:|:-----------------:|:--------------------------------------------------------------------------------------- |
+| :---: | :---------------: | :-------------------------------------------------------------------------------------- |
 |  1st  |        +1         | Sneak Attack (2d6)                                                                      |
 |  2nd  |        +1         | Rogue Feat, Expertise (INT skills, 1PM: +INT to roll)                                   |
-|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6), Cunning Action                                                     |
+|  3rd  |        +2         | Rogue Feat, Sneak Attack (1PM, 3d6), Cunning Action                                     |
 |  4th  |        +2         | Rogue Feat, Attribute Score Improvement                                                 |
 |  5th  |        +3         | Rogue Feat, Sneak Attack (2PM, 4d6)                                                     |
 |  6th  |        +3         | Rogue Feat, Attribute Score Improvement, Expertise (INT+1 skills, 2PM: +INT\*2 to roll) |
 |  7th  |        +4         | Rogue Feat, Sneak Attack (3PM, 5d6)                                                     |
-|  8th  |        +4         | Rogue Feat, Attribute Score Improvement, Cunning Action                                                 |
+|  8th  |        +4         | Rogue Feat, Attribute Score Improvement, Cunning Action                                 |
 |  9th  |        +5         | Rogue Feat, Sneak Attack (4PM, 6d6)                                                     |
-| 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) | 
+| 10th  |        +5         | Rogue Feat, Attribute Score Improvement, Expertise (INT+3 skills, 3PM: +INT\*3 to roll) |
 | 11th  |        +6         | Rogue Feat, Extra Attack (2), Sneak Attack (5PM, 7d6)                                   |
 | 12th  |        +6         | Rogue Feat, Attribute Score Improvement                                                 |
 | 13th  |        +7         | Rogue Feat, Sneak Attack (6PM, 8d6)                                                     |
@@ -869,6 +903,7 @@ List of spells available for a Plantomancer to learn.
 | 18th  |        +9         | Rogue Feat, Expertise (INT+5 skills, 5PM: +INT\*5 to roll)                              |
 | 19th  |        +10        | Rogue Feat, Attribute Score Improvement, Sneak Attack (9PM, 11d6)                       |
 | 20th  |        +10        | Rogue Feat                                                                              |
+
 }}
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this damage increases by +1d6.
@@ -881,43 +916,44 @@ List of spells available for a Plantomancer to learn.
 
 Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat. You may instead of a Rogue feat take a Martial or General Feat of your choice.
 
-- *Ataque Extra*. Você pode atacar 2 vezes no seu turno quando toma a ação de ataque. Pré-requisitos: 7º nível de ladino.
+- **Ataque Extra**. Você pode atacar 2 vezes no seu turno quando toma a ação de ataque. Pré-requisitos: 7º nível de ladino.
 
-- *Assassinate*. Você pode gastar uma ação de movimento e 3 PM para analisar uma criatura em alcance curto. Até o fim de seu próximo turno, seu primeiro Ataque Furtivo que causar dano a ela tem seus dados de dano extras dessa habilidade dobrados. Pré-requisito: 5º nível de ladino.
+- **Assassinate**. Você pode gastar uma ação de movimento e 3 PM para analisar uma criatura em alcance curto. Até o fim de seu próximo turno, seu primeiro Ataque Furtivo que causar dano a ela tem seus dados de dano extras dessa habilidade dobrados. Pré-requisito: 5º nível de ladino.
 
-- *Crítico Furtivo*. Quando você acerta um ataque crítico com um Ataque Furtivo, você muda o dado de dano de 1d6 para 1d8. Você pode escolher esse poder de novo para aumentar o dado para 1d10. Pré-requisitos: 8º e 12º nível de ladino para a primeira e segunda vez, respectivamente.
+- **Crítico Furtivo**. Quando você acerta um ataque crítico com um Ataque Furtivo, você muda o dado de dano de 1d6 para 1d8. Você pode escolher esse poder de novo para aumentar o dado para 1d10. Pré-requisitos: 8º e 12º nível de ladino para a primeira e segunda vez, respectivamente.
 
-- *Disparo Preciso.* Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.
+- **Disparo Preciso.** Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.
 
-- *Emboscar*. Você pode gastar 2 PM para realizar uma ação padrão adicional em seu turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
+- **Emboscar**. Você pode gastar 2 PM para realizar uma ação padrão adicional em seu turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
 
-- *Escapista*. Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
+- **Escapista**. Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
 
-- *Gatuno*. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
+- **Gatuno**. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
-- *Capitalizar Distrações*. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
-{{pageNumber,auto}}
+- **Capitalizar Distrações**. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
+  {{pageNumber,auto}}
 \page
 
-- *Mão na Boca*. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
+- **Mão na Boca**. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
 
-- *Mente Criminosa*. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
+- **Mente Criminosa**. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
 
-- *Oportunismo*. Você recebe +2 em testes de ataque contra inimigos que já sofreram dano desde seu último turno.
+- **Oportunismo**. Você recebe +2 em testes de ataque contra inimigos que já sofreram dano desde seu último turno.
 
-- *Saqueador de Tumbas*. Você recebe +5 em testes de Investigação para encontrar armadilhas e em testes de Reflexos para evitá-las.
+- **Saqueador de Tumbas**. Você recebe +5 em testes de Investigação para encontrar armadilhas e em testes de Reflexos para evitá-las.
 
-- *Sombra*. Você recebe +2 em Furtividade. Além disso, pode se mover com seu deslocamento normal enquanto usa Furtividade sem sofrer penalidades no teste de perícia. Pré-requisito: DEX 15.
+- **Sombra**. Você recebe +2 em Furtividade. Além disso, pode se mover com seu deslocamento normal enquanto usa Furtividade sem sofrer penalidades no teste de perícia. Pré-requisito: DEX 15.
 
-- *Velocidade Ladina*. Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional em seu turno. Pré-requisito: DEX 15.
+- **Velocidade Ladina**. Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional em seu turno. Pré-requisito: DEX 15.
 
-- *Veneno Persistente*. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
+- **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
-- *Veneno Potente*. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
+- **Veneno Potente**. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
 
 {{pageNumber,auto}}
 \page
 # Spelgard
+
 ##### [[Archetype - Off-Caster]]
 
 **HP**: You start at 1st level with 14 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
@@ -931,9 +967,11 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 **Spellcasting Modifier:** SEN
 
 {{classTable,decoration,wide
+
 ##### Spelgard
+
 | Level | Proficiency Bonus | Features                                                          | Spells Known | Max Spell Circle |
-|:-----:|:-----------------:|:----------------------------------------------------------------- |:------------:|:----------------:|
+| :---: | :---------------: | :---------------------------------------------------------------- | :----------: | :--------------: |
 |  1st  |        +1         | Lay on Hands (1d8+1)                                              |      1       |        1         |
 |  2nd  |        +1         | Spelgard Feat, Spiritual Weapon (1d8+SEN)                         |      2       |        1         |
 |  3rd  |        +2         | Spelgard Feat                                                     |      2       |        1         |
@@ -954,65 +992,70 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 | 18th  |        +9         | Spelgard Feat, Lay on Hands (5d8+5)                               |      10      |        7         |
 | 19th  |        +10        | Spelgard Feat                                                     |      10      |        7         |
 | 20th  |        +10        | Spelgard Feat                                                     |      11      |        7         |
+
 }}
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
-****
+
+---
+
 ### Spelgard Feats
 
 Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard Feat. You may instead of a Spelgard feat take a Martial or General Feat of your choice.
 
-- *Arma Espiritual teleguiada*. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
+- **Arma Espiritual teleguiada**. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
 
-- *Spiritual Strike*. You can spend a movement action and 1 PM to use a Spiritual Weapon Attack. Pre-requisite: 5th level Spelgard
+- **Spiritual Strike**. You can spend a movement action and 1 PM to use a Spiritual Weapon Attack. Pre-requisite: 5th level Spelgard
 
-- *Spiritual Magic*. Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras)
+- **Spiritual Magic**. Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras)
 
-- *Magically Powered*. Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
+- **Magically Powered**. Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
 
-- *Defensive Spiritual Weapon*. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Spelgard.
+- **Defensive Spiritual Weapon**. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Spelgard.
 
-- *Retaliating Spiritual Weapon*. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+- **Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
 
-- *Curar Aprimorado*. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
+- **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
 
-- *Curar Distante*. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
-{{pageNumber,auto}}
+- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
+  {{pageNumber,auto}}
 \page
 
-{{note
+  {{note
+
 ##### Auras
 
-A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess! 
+A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
 
 Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the following stats (unless stated otherwise):
 
 Movement (2PM): For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
 }}
 
-- *Aura of Retaliation*. Effect: Whenever one of your allies is damaged, your and their next damaging ability deals an aditional 1d8 damage (of the ability's damage type).
+- **Aura of Retaliation**. Effect: Whenever one of your allies is damaged, your and their next damaging ability deals an aditional 1d8 damage (of the ability's damage type).
 
-- *Aura of Irradiation*. Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save.
+- **Aura of Irradiation**. Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save.
 
-- *Aura of Regeneration*. Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura.
+- **Aura of Regeneration**. Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura.
 
-- *Multi-Aura*. You can have multiple auras active at once. Pre-requisites: At least 1 "Aura of" power
+- **Multi-Aura**. You can have multiple auras active at once. Pre-requisites: At least 1 "Aura of" power
 
-- *Defensive Aura*. You and your allies have +1 Defense while affected by one of your auras. Pre-requisites: At least 1 "Aura of" power
+- **Defensive Aura**. You and your allies have +1 Defense while affected by one of your auras. Pre-requisites: At least 1 "Aura of" power
 
-- *Weakening Aura*. Non-allies have disadvantage to resist your spells and abilities while inside one of your auras.
+- **Weakening Aura**. Non-allies have disadvantage to resist your spells and abilities while inside one of your auras.
 
-- *Spiritual Aura*. Your Spiritual Weapon also radiates your aura.
+- **Spiritual Aura**. Your Spiritual Weapon also radiates your aura.
 
-- *Long Range Aura*. Your aura's radius is increased to 3sqr (4.5m)
+- **Long Range Aura**. Your aura's radius is increased to 3sqr (4.5m)
 
-- *Um-Dois*. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
+- **Um-Dois**. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
-- *Explosão Espiritual*. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
+- **Explosão Espiritual**. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
 
 ### Spell List
+
 List of spells available for a Spelgard to learn.
 
 ##  Spells
@@ -1027,23 +1070,42 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+- [[Hail of Thorns]]
 - [[Healing Word]]
+- [[Luz]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
 
 ### 2nd Circle
 - [[Aid]]
+- [[Barkskin]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+
+### 3rd Circle
+- [[Campo de Força]]
+- [[Flecha Ácida]]
+- [[Físico Divino]]
+- [[Life Transference]]
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
+
+### 5th Circle
+- [[Transformação de Guerra]]
+
 {{pageNumber,auto}}
 \page
 # Warrior
+
 ##### [[Archetype - Martial]]
 
 **HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
@@ -1055,29 +1117,32 @@ List of spells available for a Spelgard to learn.
 **Save Roll Proficiencies:** STR, CON.
 
 \<div class='classTable'>
+
 ##### Warrior
-| Level | Proficiency Bonus | Features                    |
-|:-----:|:---:|:------------------------------------------|
-| 1st   | +1  | Precise Strike +4                         |
-| 2nd   | +1  | Warrior Feat, Action Surge                |
-| 3rd   | +2  | Warrior Feat                              |
-| 4th   | +2  | Warrior Feat, Attribute Score Improvement |
-| 5th   | +3  | Warrior Feat, Extra Attack (1)            |
-| 6th   | +3  | Warrior Feat, Attribute Score Improvement |
-| 7th   | +4  | Warrior Feat, Precise Strike +8           |
-| 8th   | +4  | Warrior Feat                              |
-| 9th   | +5  | Warrior Feat, Attribute Score Improvement |
-| 10th  | +5  | Warrior Feat                              |
-| 11th  | +6  | Warrior Feat                              |
-| 12th  | +6  | Warrior Feat, Attribute Score Improvement |
-| 13th  | +7  | Warrior Feat, Precise Strike +12          |
-| 14th  | +7  | Warrior Feat  Action Surge (2)            |
-| 15th  | +8  | Warrior Feat, Attribute Score Improvement |
-| 16th  | +8  | Warrior Feat                              |
-| 17th  | +9  | Warrior Feat, Attribute Score Improvement |
-| 18th  | +9  | Warrior Feat, Precise Strike +16          |
-| 19th  | +10 | Warrior Feat, Attribute Score Improvement |
-| 20th  | +10 | Warrior Feat, Action Surge (3)            |
+
+| Level | Proficiency Bonus | Features                                  |
+| :---: | :---------------: | :---------------------------------------- |
+|  1st  |        +1         | Precise Strike +4                         |
+|  2nd  |        +1         | Warrior Feat, Action Surge                |
+|  3rd  |        +2         | Warrior Feat                              |
+|  4th  |        +2         | Warrior Feat, Attribute Score Improvement |
+|  5th  |        +3         | Warrior Feat, Extra Attack (1)            |
+|  6th  |        +3         | Warrior Feat, Attribute Score Improvement |
+|  7th  |        +4         | Warrior Feat, Precise Strike +8           |
+|  8th  |        +4         | Warrior Feat                              |
+|  9th  |        +5         | Warrior Feat, Attribute Score Improvement |
+| 10th  |        +5         | Warrior Feat                              |
+| 11th  |        +6         | Warrior Feat                              |
+| 12th  |        +6         | Warrior Feat, Attribute Score Improvement |
+| 13th  |        +7         | Warrior Feat, Precise Strike +12          |
+| 14th  |        +7         | Warrior Feat Action Surge (2)             |
+| 15th  |        +8         | Warrior Feat, Attribute Score Improvement |
+| 16th  |        +8         | Warrior Feat                              |
+| 17th  |        +9         | Warrior Feat, Attribute Score Improvement |
+| 18th  |        +9         | Warrior Feat, Precise Strike +16          |
+| 19th  |        +10        | Warrior Feat, Attribute Score Improvement |
+| 20th  |        +10        | Warrior Feat, Action Surge (3)            |
+
 \</div>
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
@@ -1088,33 +1153,34 @@ List of spells available for a Spelgard to learn.
 
 Begining at level 2, every time you gain a level in Warrior you gain a Warrior Feat. You may instead of a Warrior feat take a Martial or General Feat of your choice.
 
-- *Ambidestria*. Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de a
+- **Ambidestria**. Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de a
 
-- *Arqueiro*. Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 13.
+- **Arqueiro**. Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 13.
 
-- *Bater e Correr*. Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.
+- **Bater e Correr**. Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.
 
-- *Destruidor*. Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 13
+- **Destruidor**. Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 13
 
-- *Esgrimista*. Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Int 13.
+- **Esgrimista**. Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Int 13.
 
-- *Golpe de Raspão*. Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque.
+- **Golpe de Raspão**. Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque.
 
-- *Golpe Demolidor*. Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele.
+- **Golpe Demolidor**. Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele.
 
-- *Ímpeto*. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
+- **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
 
-- *Planejamento Marcial*. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
+- **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
 
-- *Solidez*. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
+- **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
 
-- *Tornado de Dor*. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
+- **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
-- *Valentão*. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos. 
+- **Valentão**. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
 
 {{pageNumber,auto}}
 \page
 # Witch
+
 ##### [[Archetype - Caster]]
 
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 8 (+CON mod.) per level.
@@ -1128,10 +1194,12 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 **Spellcasting Modifier:** PRE
 
 {{classTable
+
 ##### Witch
+
 | Level | Proficiency Bonus | Features                                |
-|:-----:|:-----------------:|:--------------------------------------- |
-|  1st  |        +1         | Hex                                     | 
+| :---: | :---------------: | :-------------------------------------- |
+|  1st  |        +1         | Hex                                     |
 |  2nd  |        +1         | Witch Feat, Witch's Focus (2 effects)   |
 |  3rd  |        +2         | Witch Feat                              |
 |  4th  |        +2         | Witch Feat, Attribute Score Improvement |
@@ -1151,27 +1219,29 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 | 18th  |        +9         | Witch Feat, Scary Look (+6)             |
 | 19th  |        +10        | Witch Feat, Attribute Score Improvement |
 | 20th  |        +10        | Witch Feat                              |
+
 }}
 
-**Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.  
+**Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
-**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: *you still need to pay 1PM/turn for each effect you're concentrating on*).
+**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
 TODO: add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
 Witches Brew: combination of effects (decide some, roll for most). all effects have a positive and a negative.
 
 ex:
+
 - bonus on skill checks & take damage
 - heal + disadvantage on initiative
 - mana + no extra crit damage (too weak? prolly change)
 
-
 ### Witch Feats
+
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
 - **Focused Cantrip**. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: *Condition: frightened*). At every 4th level you can spend +2PM to increase the DC by 2.
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_). At every 4th level you can spend +2PM to increase the DC by 2.
 
 - **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
 
@@ -1192,21 +1262,22 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 TODO: give all the hexes some cool, gross descriptions and names. like they should make the target weird, slimy, neurotic and shit. really up the flavor of it
 
 ### Hex List:
+
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
- 
+
 By default, a Hex takes a movement action to cast, has a range of 9sqr, costs 0PM and targets one creature you can see. You can change the target of your Hex for free if the original dies.
- 
+
 Most Hexes also gain an additional effect for each other effect you're concentrating on.
 
-- *Hex: Frail.* The target has -1 Defense, and -1 for each other effect you're concentrating on.
+- **Hex: Frail.** The target has -1 Defense, and -1 for each other effect you're concentrating on.
 
-- *Hex: Drain.* Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on.
+- **Hex: Drain.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on.
 
-- *Hex: Weakened.* The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on.
+- **Hex: Weakened.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on.
 
-- *Hex: Slowed.* The target has their movement speed halved.
+- **Hex: Slowed.** The target has their movement speed halved.
 
-- *Hex: Fragile.* Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
+- **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
 
 Spell List:
 
@@ -1215,60 +1286,34 @@ Spell List:
 ### Cantrip
 - [[Booming Blade]]
 - [[Chill Touch]]
-- [[Primal Savagery]]
-- [[Thorn Whip]]
 - [[Toll the Dead]]
 
 ### 1st Circle
-- [[Arma Mágica]]
 - [[Bane]]
-- [[Bless]]
-- [[Bênção]]
-- [[Caminhos da Natureza]]
-- [[Canhão de Ervilha]]
 - [[Chaos Bolt]]
-- [[Concentração de Combate]]
-- [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
-- [[Detectar Ameaças]]
-- [[Enfeitiçar]]
-- [[Entangle]]
-- [[Escudo]]
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
-- [[Goodberry]]
-- [[Hail of Thorns]]
 - [[Healing Word]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Luz]]
-- [[Mage Hand]]
 - [[Perdição]]
-- [[Primor Atlético]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
-- [[Teia]]
-- [[Tranquilidade]]
 
 ### 2nd Circle
-- [[Aid]]
-- [[Barkskin]]
 - [[Earthbind]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
-- [[Web]]
 
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Camuflagem ilusória]]
 - [[Flecha Ácida]]
-- [[Físico Divino]]
 - [[Invisibilidade]]
 - [[Life Transference]]
 - [[Mass Healing Word]]
@@ -1276,8 +1321,6 @@ Spell List:
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
-### 5th Circle
-- [[Transformação de Guerra]]
 
 {{pageNumber,auto}}
 \page

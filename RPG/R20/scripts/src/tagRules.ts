@@ -1,5 +1,5 @@
 import { searchMacro } from './macros/parseMacro'
-import { SpellListMacro } from './macros/types'
+import { getNumber, getStringArr, SpellListMacro } from './macros/types'
 import { Spell } from './spell'
 
 type LevelRules = {}
@@ -31,13 +31,6 @@ export const createTagRules = ({
 export const parseTagRules = (content: string): TagRules | null => {
   const tagRules = searchMacro<SpellListMacro>(content, 'spell-list')
   if (!tagRules) return null
-
-  const getStringArr = (item: string | string[]) =>
-    typeof item === 'string' ? [item] : item
-  const getString = (item: undefined | string | string[]) =>
-    !item ? undefined : typeof item === 'string' ? item : item.join('.')
-  const getNumber = (item: string | string[] | undefined) =>
-    !item ? undefined : parseInt(getString(item)!)
 
   return createTagRules({
     excludeSpells: getStringArr(tagRules.items.EXCLUDE_SPELLS),

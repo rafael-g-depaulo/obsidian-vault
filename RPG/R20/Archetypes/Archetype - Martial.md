@@ -1,6 +1,16 @@
 ## Martial
 Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
 
+{{define-archetype "Martial"
+HP_LV1: 18
+HP_LV: 5
+MP_LV: 3
+ASI_LEVELS: 4, 6, 9, 12, 15, 17, 19
+FEATURES:
+| LEVEL | FEATURE            |
+| ----- | ------------------ |
+| 5     | Extra Attack, test | 
+}}
 
 ### Hit Points (HP) & Mana Points (MP)
 A Martial character's maximum HP and MP are calculated as such:

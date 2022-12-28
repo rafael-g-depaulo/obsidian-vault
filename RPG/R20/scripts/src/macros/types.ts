@@ -24,12 +24,21 @@ export type ClassDefinitionMacro = Macro<
   | 'NAME'
   | 'EQUIPMENT_PROFICIENCIES'
   | 'SAVES'
-  | 'HP_LV1'
-  | 'HP_LV'
-  | 'MP_LV'
   | 'MP_ATTB'
   | 'FEATURES'
   | 'BASE_MECHANICS'
   | 'CLASS_FEATS',
   'class-definition'
 >
+
+export type ArchetypeDefinitionMacro = Macro<
+  'HP_LV1' | 'HP_LV' | 'MP_LV' | 'ASI_LEVELS' | 'FEATURES',
+  'define-archetype'
+>
+
+export const getStringArr = (item: MacroItem) =>
+  typeof item === 'string' ? [item] : item
+export const getString = (item: MacroItem) =>
+  !item ? undefined : typeof item === 'string' ? item : item.join('.')
+export const getNumber = (item: MacroItem) =>
+  !item ? undefined : parseInt(getString(item)!)

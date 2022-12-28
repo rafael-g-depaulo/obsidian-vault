@@ -1,13 +1,14 @@
 import { join } from 'path'
+import { Archetype, parseArchetype } from './businessLogic/archetype'
 import {
   getClassname,
   makeSpellListString,
   makeClassSpellList,
 } from './classSpellList'
-import { compileRules, CompileRulesDeps } from './compileBook'
-import { replaceClassDefinition } from './compileBook/replaceClassDefinition'
+import { compileRules, CompileRulesDeps, processContent } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
+import { searchMacros } from './macros/parseMacro'
 
 import { readSpells, Spell } from './spell'
 import { parseTagRules, TagRules } from './tagRules'
@@ -16,11 +17,13 @@ import { validateSpells } from './validateSpell'
 
 // config
 const baseDir = join(__dirname, '../../')
+const ArchetypesFolder = join(baseDir, 'Archetypes')
 const ClassesFolder = join(baseDir, 'Classes')
 const SpellsFolder = join(baseDir, 'Spells')
 const SpellDescriptionsFolder = join(SpellsFolder, 'Spell Descriptions')
 const CompiledFolder = join(baseDir, 'Compiled')
 const CompiledSpelllistsFolder = join(CompiledFolder, 'Spells')
+const CompiledClassesFolder = join(CompiledFolder, 'Classes')
 
 const errorsFile = 'Errors.md'
 const tagGroupsFile = 'Spell Tags.md'
@@ -40,6 +43,7 @@ const cleanResults = async () =>
 
 interface Content {
   allSpells: Spell[]
+  archetypes: Archetype[]
   classSpellListRules: {
     filename: string
     rules: TagRules | null
@@ -51,7 +55,6 @@ const parseContent = async () => {
   )
 
   // parse all spells
-  // readSpells(SpellDescriptionsFolder, ['Acid Splash.md', 'Bane.md'])
   const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
     .then(dealWithErrors(CompiledFolder, errorsFile))
@@ -67,7 +70,23 @@ const parseContent = async () => {
     )
   )
 
+  // read and parse archetypes
+  const archetypes = await listFiles(ArchetypesFolder)
+    .then(archetypeFilenames =>
+      Promise.all(
+        archetypeFilenames.map(archetypeFilename =>
+          readFile(ArchetypesFolder, archetypeFilename)
+        )
+      )
+    )
+    .then(archetypesContents => archetypesContents.join('\n'))
+    .then(archetypesContent =>
+      searchMacros(archetypesContent, 'define-archetype')
+    )
+    .then(archetypeMacros => archetypeMacros.map(parseArchetype))
+
   return {
+    archetypes,
     allSpells,
     classSpellListRules,
   } as Content
@@ -106,12 +125,21 @@ const compileBook = async (
     )
   )
 
+  // compile all classes
+  listFiles(ClassesFolder).then(classfiles =>
+    Promise.all(
+      classfiles.map(classfile =>
+        readFile(join(ClassesFolder, classfile))
+          .then(processContent(compileDeps))
+          .then(processedContent =>
+            writeToFile(CompiledClassesFolder, classfile, processedContent)
+          )
+      )
+    )
+  )
+
   // compile all rules
-  compileRules(rootRulesFile, {
-    currentFolder: baseDir,
-    classesFolder: ClassesFolder,
-    allSpells,
-  }).then(compiledRules =>
+  compileRules(rootRulesFile, compileDeps).then(compiledRules =>
     writeToFile(CompiledFolder, rulebookFile, compiledRules)
   )
 }
@@ -120,15 +148,17 @@ const compileBook = async (
 const main = async () => {
   await cleanResults()
 
-  const { allSpells, classSpellListRules } = await parseContent()
+  const { allSpells, classSpellListRules, archetypes } = await parseContent()
 
   const deps: CompileRulesDeps = {
     currentFolder: baseDir,
     classesFolder: ClassesFolder,
+    archetypesFolder: ArchetypesFolder,
     allSpells,
+    archetypes,
   }
 
-  await compileBook({ allSpells, classSpellListRules }, deps)
+  await compileBook({ allSpells, classSpellListRules, archetypes }, deps)
 }
 
 // run everything

@@ -1,5 +1,4 @@
 export type Attb = 'STR' | 'DEX' | 'CON' | 'INT' | 'SEN' | 'PRE'
-export type Archetype = 'Martial' | 'Off-Caster' | 'Caster' | 'Specialist'
 
 const AttbFullnames: { [key in Attb]: string } = {
   STR: 'Strength',

@@ -15,7 +15,7 @@ const createMacro = <ItemKeys extends string, Name extends string>({
   items,
 })
 
-const macroListItemValueRegex = /(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
+const macroListItemValueRegex = /^\s*(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
 
 const macroItemRegex =
   /^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.+)\s+)+|(?<itemSimpleValue>[^\s].*(?:\n\|.*)*))\s*/gm
@@ -30,7 +30,7 @@ const parseItem = (item: string) =>
         listItem.trim()
       )
 
-const parseItems = (body?: string) =>
+const parseItems = (body: string | undefined) =>
   !body
     ? {}
     : Object.fromEntries(
@@ -68,19 +68,24 @@ export const parseMacro = <Name extends string, Keys extends string>(
     argument: macroArgument,
   }) as Macro<Keys, Name>
 }
+export const searchMacros = <M = Macro>(
+  content: string,
+  macroName: string
+): M extends Macro<infer Keys, infer Name> ? M[] : never => {
+  const groups = matchAllGroups(content, macroRegex).filter(
+    ({ macroName: name }) => name === macroName
+  )
+
+  return groups.map(group =>
+    createMacro({
+      name: group.macroName,
+      argument: group.macroArgument,
+      items: parseItems(group.macroBody),
+    })
+  ) as any
+}
 export const searchMacro = <M = Macro>(
   content: string,
   macroName: string
-): M extends Macro<infer Keys, infer Name> ? M | null : never => {
-  const groups = matchAllGroups(content, macroRegex).filter(
-    ({ macroName: name }) => name === macroName
-  )[0]
-
-  if (!groups) return null as any
-
-  return createMacro({
-    name: groups.macroName,
-    argument: groups.macroArgument,
-    items: parseItems(groups.macroBody),
-  }) as any
-}
+): M extends Macro<infer Keys, infer Name> ? M | null : never =>
+  (searchMacros(content, macroName)[0] as any) ?? null
