@@ -1,5 +1,5 @@
 
-my zoom link: [https://bdev.zoom.us/j/7765885523](https://bdev.zoom.us/j/7765885523)
+my zoom link: 
 
 
 
