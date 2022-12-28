@@ -6,10 +6,36 @@ HP_LV1: 18
 HP_LV: 5
 MP_LV: 3
 ASI_LEVELS: 4, 6, 9, 12, 15, 17, 19
+HAS_MAGIC: true
+
 FEATURES:
 | LEVEL | FEATURE            |
 | ----- | ------------------ |
-| 5     | Extra Attack, test | 
+| 5     | Extra Attack, test |
+
+MULTI_FEATURES:
+| Level | Spells Known | Max Spell Circle |
+| ----- |:------------:|:----------------:|
+| 1st   |      1       |        1         |
+| 2nd   |      2       |        1         |
+| 3rd   |      2       |        1         |
+| 4th   |      3       |        1         |
+| 5th   |      3       |        2         |
+| 6th   |      4       |        2         | 
+| 7th   |      4       |        2         |
+| 8th   |      5       |        3         |
+| 9th   |      5       |        3         |
+| 10th  |      6       |        3         |
+| 11th  |      6       |        4         |
+| 12th  |      7       |        4         |
+| 13th  |      7       |        5         |
+| 14th  |      8       |        5         |
+| 15th  |      8       |        6         |
+| 16th  |      9       |        6         |
+| 17th  |      9       |        7         |
+| 18th  |      10      |        7         |
+| 19th  |      10      |        7         |
+| 20th  |      11      |        7         |
 }}
 
 ### Hit Points (HP) & Mana Points (MP)

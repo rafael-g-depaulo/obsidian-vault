@@ -32,7 +32,7 @@ export type ClassDefinitionMacro = Macro<
 >
 
 export type ArchetypeDefinitionMacro = Macro<
-  'HP_LV1' | 'HP_LV' | 'MP_LV' | 'ASI_LEVELS' | 'FEATURES',
+  'HP_LV1' | 'HP_LV' | 'MP_LV' | 'ASI_LEVELS' | 'FEATURES' | 'MULTI_FEATURES',
   'define-archetype'
 >
 

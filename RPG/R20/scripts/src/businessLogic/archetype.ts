@@ -9,6 +9,8 @@ export interface Archetype {
   MP_LV: number
   ASI_LEVELS: number[]
   FEATURES: string[][]
+  MULTI_FEATURES: string[][]
+  HAS_MAGIC: boolean
 }
 
 const parseFeatures = (featuresMarkdown: string) => {
@@ -22,6 +24,13 @@ const parseFeatures = (featuresMarkdown: string) => {
 
   return pad(featuresArray, 20, [])
 }
+const parseMultiFeatures = (multiFeaturesMarkdown: string) => {
+  const featuresArray = parseMarkdownTable(multiFeaturesMarkdown, true).map(
+    row => row.slice(1)
+  )
+
+  return pad(featuresArray, 21, [])
+}
 export const parseArchetype = <T extends Macro>(
   archetypeMacro: T
 ): Archetype => ({
@@ -34,4 +43,8 @@ export const parseArchetype = <T extends Macro>(
       ?.split(',')
       .map(levelStr => parseInt(levelStr)) ?? [],
   FEATURES: parseFeatures(getString(archetypeMacro.items.FEATURES) ?? ''),
+  MULTI_FEATURES: parseMultiFeatures(
+    getString(archetypeMacro.items.MULTI_FEATURES) ?? ''
+  ),
+  HAS_MAGIC: archetypeMacro.items.HAS_MAGIC === 'true',
 })

@@ -21,29 +21,7 @@ export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
 const getSaves = (saves: string[]) =>
   `**Resistências:** ${saves.map(a => getAttbName(a as Attb)).join(', ')}.`
 
-const getClassTable = (
-  archetype: Archetype,
-  className: string,
-  _features: string[]
-) => {
-  // if (archetypeName === 'Off-Caster' || archetypeName === 'Caster')
-  //   return 'CASTER'
-
-  const features = pad(_features, 20, '')
-    .map((levelFeatures, i) => {
-      const featuresForLevel = levelFeatures
-        .split(', ')
-        .filter(feat => feat !== '')
-      if (i > 0)
-        return [
-          `${className} Feat`,
-          ...featuresForLevel,
-          ...archetype.FEATURES[i],
-        ]
-      return featuresForLevel
-    })
-    .map(featuresListForLevel => featuresListForLevel.join(', '))
-
+const makeNormalClassTable = (className: string, features: string[]) => {
   const footer = '\n}}\n'
   const header =
     '{{classTable\n' +
@@ -67,6 +45,79 @@ const getClassTable = (
   )
 }
 
+const makeCasterClassTable = (
+  archetype: Archetype,
+  className: string,
+  features: string[]
+) => {
+  const makeRow = (
+    levelStr: string,
+    proficiency: string,
+    featureValues: string[]
+  ) => `| ${levelStr} | ${proficiency} | ${featureValues.join(' | ')} |`
+
+  const makeSeparator = (numExtraFeatures: number) =>
+    `| :---: | :---------------: | :------- | ${range(1, numExtraFeatures)
+      .map(() => ':----: |')
+      .join('')}\n`
+
+  const makeHeader = (additionalFatures: string[], isWide: boolean) =>
+    (isWide
+      ? '{{classTabl,decoration,wide\n'
+      : '{{classTable,decoration,frame\n') +
+    `##### ${className}\n` +
+    `| Level | Proficiency Bonus | Features |${additionalFatures
+      .map(feat => `${feat} | `)
+      .join('')}\n` +
+    makeSeparator(additionalFatures.length)
+
+  const header = makeHeader(archetype.MULTI_FEATURES[0], archetype.HAS_MAGIC)
+  const footer = '\n}}\n'
+
+  const multiFeatures = archetype.MULTI_FEATURES.slice(1)
+
+  return (
+    header +
+    range(1, 20)
+      .map(level => ({
+        level: level + order(level),
+        proficiencyBonus: proficiencyBonus[level - 1],
+        classFeatures: features[level - 1],
+        multiFeatures: multiFeatures[level - 1],
+      }))
+      .map(({ classFeatures, level, proficiencyBonus, multiFeatures }) =>
+        makeRow(level, proficiencyBonus, [classFeatures, ...multiFeatures])
+      )
+      .join('\n') +
+    footer
+  )
+}
+
+const makeClassTable = (
+  archetype: Archetype,
+  className: string,
+  _features: string[]
+) => {
+  const features = pad(_features, 20, '')
+    .map((levelFeatures, i) => {
+      const featuresForLevel = levelFeatures
+        .split(', ')
+        .filter(feat => feat !== '')
+      if (i > 0)
+        return [
+          `${className} Feat`,
+          ...featuresForLevel,
+          ...archetype.FEATURES[i],
+        ]
+      return featuresForLevel
+    })
+    .map(featuresListForLevel => featuresListForLevel.join(', '))
+
+  if (archetype.HAS_MAGIC)
+    return makeCasterClassTable(archetype, className, features)
+  return makeNormalClassTable(className, features)
+}
+
 export const generateClassDefinition = (
   classMacro: ClassDefinitionMacro,
   archetype?: Archetype
@@ -87,7 +138,7 @@ export const generateClassDefinition = (
       `**Equipment Proficiencies:** ${classMacro.items.EQUIPMENT_PROFICIENCIES}.\n\n` +
       getSaves(classMacro.items.SAVES as string[]) +
       '\n\n' +
-      getClassTable(
+      makeClassTable(
         archetype,
         classMacro.items.NAME as string,
         classMacro.items.FEATURES as string[]

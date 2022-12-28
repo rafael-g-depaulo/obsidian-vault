@@ -10,7 +10,13 @@ export const spellLevelStr = (level: number) =>
 export const spellListItem = (spell: Spell) => `- [[${spell.name}]]`
 
 const markdownTableRowRegex = /^\s*\|(?<tableRow>.+)\|\s*$/gm
-export const parseMarkdownTable = (content: string) =>
-  matchAllGroups(content, markdownTableRowRegex)
-    .map(({ tableRow }) => tableRow.split('|').map(cell => cell.trim()))
-    .slice(2)
+export const parseMarkdownTable = (
+  content: string,
+  withHeader: boolean = false
+) => {
+  const rowsArr = matchAllGroups(content, markdownTableRowRegex).map(
+    ({ tableRow }) => tableRow.split('|').map(cell => cell.trim())
+  )
+  if (withHeader) return [rowsArr[0], ...rowsArr.slice(2)]
+  return rowsArr.slice(2)
+}
