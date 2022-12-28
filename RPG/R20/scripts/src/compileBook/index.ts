@@ -10,6 +10,7 @@ import {
   replaceClassDefinition,
 } from './replaceClassDefinition'
 import { replaceClasses } from './replaceClasses'
+import { replaceClassNotes } from './replaceClassNotes'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
@@ -34,6 +35,7 @@ export const processContent = (deps: CompileRulesDeps) =>
     replaceLinks(deps),
     replaceClasses(deps),
     replaceClassDefinition(deps),
+    replaceClassNotes,
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1,
     replaceGlobalSpellList(deps),

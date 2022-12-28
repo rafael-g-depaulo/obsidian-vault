@@ -7,6 +7,7 @@ export type Macro<
   name: Name
   argument?: string
   items: { [key in ItemKeys]: MacroItem }
+  rawBody: string
 }
 
 export type SpellListMacro = Macro<

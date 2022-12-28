@@ -5,14 +5,17 @@ const createMacro = <ItemKeys extends string, Name extends string>({
   name,
   items,
   argument,
+  rawBody,
 }: {
   name: Name
   items: { [key in ItemKeys]: MacroItem }
   argument?: string
+  rawBody: string
 }): Macro<ItemKeys, Name> => ({
   name,
   argument,
   items,
+  rawBody,
 })
 
 const macroListItemValueRegex = /^\s*(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
@@ -51,6 +54,7 @@ export const parseMacros = (content: string): Macro[] => {
         items: parseItems(macroBody),
         name: macroName,
         argument: macroArgument,
+        rawBody: macroBody,
       })
   )
 }
@@ -66,6 +70,7 @@ export const parseMacro = <Name extends string, Keys extends string>(
     items: parseItems(macroBody),
     name: macroName,
     argument: macroArgument,
+    rawBody: macroBody,
   }) as Macro<Keys, Name>
 }
 export const searchMacros = <M = Macro>(
@@ -81,6 +86,7 @@ export const searchMacros = <M = Macro>(
       name: group.macroName,
       argument: group.macroArgument,
       items: parseItems(group.macroBody),
+      rawBody: group.macroBody,
     })
   ) as any
 }
