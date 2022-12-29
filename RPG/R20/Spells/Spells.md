@@ -71,69 +71,8 @@ It's important to point out that you're not tied to using only this to create a 
 ## Flavor
 TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 
+%%
 ------ considering ------
-### Level 1
-- dissonant whispers
-- faerie fire
-- feather fall
-- sleep
-- speak with animals
-- entangle
-- fog cloud
-- jump
-- thunderwave
-- compelled duel?
-- command
-- detect magic?
-- heroism
-- chromatic orb
-- witch bolt
-- armor of agathis
-- arms of hadar
-- hellish rebuke
-- burning hands
-- charm person
-- grease
-- jump
-- mage armor
-- magic missile
-- ray of sickness
-### Level 2
-- calm emotions
-- cloud of daggers
-- crown of madness]
-- heat metal
-- invisibility
-- lesser restoration
-- locate object
-- see invisibility
-- shatter
-- silence
-- sugestion
-- blindness/deafness
-- calm emotions
-- continual flame
-- enhance ability
-- hold person
-- animal messenger
-- bark skin
-- beast sense
-- dark vision
-- locate animals or plants
-- moonbeam
-- pass without a trace
-- spike growth
-- magic weapon (compare com o arma mágica do T20)
-- crescer diminuir do t20
-- levitate
-- scorching ray
-- spider climb
-- web
-- crescer/reduzir do T20
-- flaming sphere
-- magic mouth
-- melf's acid arrow
-- misty step
 ### Level 3
 - plant growth
 - speak with dead
@@ -164,3 +103,4 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 - phantom steed
 - remove curse
 - sending
+%%
