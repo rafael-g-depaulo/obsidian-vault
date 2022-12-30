@@ -49,7 +49,6 @@
 - [[Life Transference]]
 - [[Mass Healing Word]]
 - [[Oração]]
-- [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
 ## Spell Descriptions
@@ -680,27 +679,6 @@ ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
 
-### Soco de Arsenal
-  <div class="spell-tags">arcane creation unholy summon wild occult</div>
-
-*3rd Circle*
-- **Execução:** padrão;
-- **Alcance:** 20sqr;
-- **Alvo:** 1 criatura;
-- **Duração:** instantânea;
-- **Resistência:** Fortitude reduz à metade..
-
-___
-
-Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
-
-- **+1 PM:** muda o alcance para pessoal, o alvo para você, a duração para cena e a resistência para nenhuma. Em vez do normal, seus ataques corpo a corpo passam a acertar inimigos distantes. Seu alcance natural aumenta em 3m; uma criatura Média pode atacar adversários a até 4,5m, por exemplo.
-- **+2 PM:** aumenta o dano em +1d6.
-- **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
-- **+5 PM:** muda o tipo do dano para essência.
-
-{{pageNumber,auto}}
-\page
 ### Tentacle Twister
   <div class="spell-tags">occult unholy summon wild</div>
 
@@ -717,7 +695,8 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **+1PM:** increase damage by +1d6
 - **+3PM:** increase the radius by 1sqr
 
-
+{{pageNumber,auto}}
+\page
 ### Toll the Dead
   <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 

@@ -1,4 +1,4 @@
-#spell #boost #sacred #transmutation #arcane #abjuration #thaumaturgy 
+#spell #boost #sacred #arcane #abjuration #thaumaturgy 
 ### Transformação de Guerra
 *5º Círculo*
 ___

@@ -148,5 +148,4 @@ Spell List:
 - [[Life Transference]]
 - [[Mass Healing Word]]
 - [[Oração]]
-- [[Soco de Arsenal]]
 - [[Toque Vampírico]]

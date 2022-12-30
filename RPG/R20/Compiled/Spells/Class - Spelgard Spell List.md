@@ -85,7 +85,7 @@ Choose up to three creatures within range. Each target’s hit point maximum and
 
 
 ### Arma Mágica
-  <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
+  <div class="spell-tags">boost sacred warmagic thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -633,7 +633,6 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ___
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
-
 
 {{pageNumber,auto}}
 \page

@@ -37,7 +37,6 @@
 - [[Thorn Whip]]
 - [[Thunderclap]]
 ### 1st Circle
-- [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Beast Bond]]
 - [[Catapult]]
@@ -68,7 +67,6 @@
 - [[Flecha Ácida]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
-- [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
 ### 5th Circle
 - [[Transformação de Guerra]]
@@ -131,7 +129,6 @@
 - [[Web]]
 ### 3rd Circle
 - [[Flecha Ácida]]
-- [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
 
 ## Curse Spells
@@ -386,6 +383,7 @@
 - [[Spider Climb]]
 - [[Warding Wind]]
 ### 3rd Circle
+- [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
 
 ## Necromancy Spells
@@ -475,7 +473,6 @@
 - [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Oração]]
-- [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
 ## Plant Spells
@@ -662,7 +659,6 @@
 - [[Shape Water]]
 - [[Thunderclap]]
 ### 1st Circle
-- [[Arma Mágica]]
 - [[Catapult]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
@@ -677,8 +673,6 @@
 - [[Warding Wind]]
 ### 3rd Circle
 - [[Físico Divino]]
-### 5th Circle
-- [[Transformação de Guerra]]
 
 ## Trickery Spells
 ### Cantrip
@@ -740,7 +734,6 @@
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
 ## Warmagic Spells
@@ -829,4 +822,5 @@
 - [[Earthbind]]
 - [[Warding Wind]]
 ### 3rd Circle
+- [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]

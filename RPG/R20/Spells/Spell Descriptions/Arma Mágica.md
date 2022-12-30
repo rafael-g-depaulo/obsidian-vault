@@ -1,4 +1,4 @@
-#spell #transmutation #boost #sacred #warmagic #thaumaturgy #arcane 
+#spell #boost #sacred #warmagic #thaumaturgy
 ### Arma Mágica
 *1º Círculo*
 ___

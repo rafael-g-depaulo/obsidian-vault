@@ -807,10 +807,11 @@ List of spells available for a Plantomancer to learn.
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
+- [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
-- [[Message]]
 - [[Poison Spray]]
+- [[Resistance]]
 - [[Shape Water]]
 - [[Shillelagh]]
 - [[Sword Burst]]
@@ -827,7 +828,6 @@ List of spells available for a Plantomancer to learn.
 - [[Catapult]]
 - [[Cause Fear]]
 - [[Charm Person]]
-- [[Command]]
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
@@ -836,13 +836,13 @@ List of spells available for a Plantomancer to learn.
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
+- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Hail of Thorns]]
-- [[Healing Word]]
-- [[Hideous Laughter]]
+- [[Mage Armor]]
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
@@ -852,23 +852,29 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Barkskin]]
 - [[Beast Sense]]
 - [[Blindness Deafness]]
+- [[Calm Emotions]]
 - [[Crown of Madness]]
+- [[Darkvision]]
 - [[Earthbind]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
-- [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
+- [[Warding Bond]]
 - [[Warding Wind]]
 - [[Web]]
 
 ### 3rd Circle
+- [[Campo de Força]]
 - [[Flecha Ácida]]
-- [[Mass Healing Word]]
-- [[Soco de Arsenal]]
+- [[Físico Divino]]
 - [[Sopro das Uivantes]]
 
 {{pageNumber,auto}}
@@ -1381,7 +1387,6 @@ Spell List:
 - [[Life Transference]]
 - [[Mass Healing Word]]
 - [[Oração]]
-- [[Soco de Arsenal]]
 - [[Toque Vampírico]]
 
 
@@ -2362,7 +2367,7 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 
 
 ### Arma Mágica
-  <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
+  <div class="spell-tags">boost sacred warmagic thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -3861,7 +3866,6 @@ ___
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
 
-
 ### Searing Smite
   <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 
@@ -3943,7 +3947,7 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 
 
 ### Soco de Arsenal
-  <div class="spell-tags">arcane creation unholy summon wild occult</div>
+  <div class="spell-tags">summon wild wind nature</div>
 
 *3rd Circle*
 - **Execução:** padrão;
@@ -4206,7 +4210,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
 
 ### Transformação de Guerra
-  <div class="spell-tags">boost sacred transmutation arcane abjuration thaumaturgy</div>
+  <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
 
 *5th Circle*
 - **Execução:** padrão;

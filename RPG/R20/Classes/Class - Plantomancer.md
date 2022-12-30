@@ -109,10 +109,13 @@ INCLUDE_TAGS:
 - recovery
 - abjuration
 - enchantment
+- earth
 
 EXCLUDE_TAGS:
 - fire
 - necrotic
-- boost
 - ilusion
+- speech
+
+MAX_LEVEL: 3
 }}
