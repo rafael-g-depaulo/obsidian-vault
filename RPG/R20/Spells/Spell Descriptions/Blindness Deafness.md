@@ -1,4 +1,4 @@
-#spell #curse #transmutation #trickery 
+#spell #curse #transmutation #trickery #occult #arcane 
 ### Blindness Deafness
 *2º Círculo*
 ___

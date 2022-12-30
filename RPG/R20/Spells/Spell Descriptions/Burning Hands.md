@@ -1,11 +1,7 @@
 #spell #fire #elemental #evocation #thaumaturgy
-
 ### Burning Hands
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** cone (3sqr)
 - **Duração:** imediato

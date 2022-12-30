@@ -114,13 +114,16 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -129,3 +132,4 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Warding Bond]]

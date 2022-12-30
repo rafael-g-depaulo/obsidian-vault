@@ -1,11 +1,7 @@
 #spell #fire #elemental #evocation #thaumaturgy
-
 ### Explosão de chamas
-
-_1º Círculo_
-
----
-
+*1º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** 4sqr
 - **Área:** cone

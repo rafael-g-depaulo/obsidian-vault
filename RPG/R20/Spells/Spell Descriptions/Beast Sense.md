@@ -1,4 +1,4 @@
-#spell #wild #feral #divination 
+#spell #wild #feral #divination #trickery 
 ### Beast Sense
 *2º Círculo*
 ___

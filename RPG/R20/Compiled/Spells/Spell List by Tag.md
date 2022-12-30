@@ -1,6 +1,7 @@
 ## Abjuration Spells
 ### Cantrip
 - [[Blade Ward]]
+- [[Resistance]]
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Escudo]]
@@ -9,6 +10,8 @@
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
+- [[Warding Bond]]
+- [[Warding Wind]]
 ### 3rd Circle
 - [[Campo de Força]]
 ### 5th Circle
@@ -24,14 +27,17 @@
 ### Cantrip
 - [[Blade Ward]]
 - [[Booming Blade]]
+- [[Create Bonfire]]
 - [[Magic Stone]]
 - [[Thorn Whip]]
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Catapult]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Detectar Ameaças]]
+- [[Divine Favor]]
 - [[Earth Tremor]]
 - [[Escudo]]
 - [[False Life]]
@@ -41,14 +47,21 @@
 - [[Luz]]
 - [[Primor Atlético]]
 - [[Teia]]
+- [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Blindness Deafness]]
+- [[Continual Flame]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Maximilian's Earthen Grasp]]
+- [[Warding Bond]]
+- [[Warding Wind]]
 - [[Web]]
 ### 3rd Circle
 - [[Campo de Força]]
@@ -61,6 +74,8 @@
 - [[Transformação de Guerra]]
 
 ## Boost Spells
+### Cantrip
+- [[Resistance]]
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Bless]]
@@ -68,11 +83,14 @@
 - [[Concentração de Combate]]
 - [[Escudo]]
 - [[Primor Atlético]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
+- [[Warding Bond]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -88,6 +106,8 @@
 ## Cold Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Frostbite]]
+- [[Ray of Frost]]
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Chaos Bolt]]
@@ -114,10 +134,14 @@
 ## Curse Spells
 ### Cantrip
 - [[Booming Blade]]
+- [[Frostbite]]
+- [[Frostbite]]
+- [[Ray of Frost]]
 ### 1st Circle
 - [[Bane]]
 - [[Cause Fear]]
 - [[Command]]
+- [[Dissonant Whispers]]
 - [[Perdição]]
 - [[Ray of Sickness]]
 - [[Sleep]]
@@ -160,6 +184,27 @@
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
 
+## Elemental Spells
+### Cantrip
+- [[Chill Touch]]
+- [[Control Flames]]
+- [[Create Bonfire]]
+- [[Frostbite]]
+- [[Ray of Frost]]
+### 1st Circle
+- [[Armor of Agathys]]
+- [[Burning Hands]]
+- [[Chaos Bolt]]
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Thunderwave]]
+- [[Toque Chocante]]
+### 2nd Circle
+- [[Continual Flame]]
+### 3rd Circle
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
+
 ## Enchantment Spells
 ### 1st Circle
 - [[Animal Friendship]]
@@ -182,23 +227,22 @@
 
 ## Energy Spells
 ### Cantrip
-- [[Chill Touch]]
+- [[Eldritch Blast]]
 ### 1st Circle
-- [[Armor of Agathys]]
-- [[Burning Hands]]
 - [[Chaos Bolt]]
-- [[Explosão de chamas]]
-- [[Guiding Bolt]]
-- [[Toque Chocante]]
-### 3rd Circle
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
+- [[Dissonant Whispers]]
+- [[Divine Favor]]
+- [[Zephyr Strike]]
+### 2nd Circle
+- [[Crown of Madness]]
 
 ## Evocation Spells
 ### Cantrip
 - [[Acid Splash]]
 - [[Control Flames]]
+- [[Eldritch Blast]]
 - [[Poison Spray]]
+- [[Ray of Frost]]
 ### 1st Circle
 - [[Burning Hands]]
 - [[Chaos Bolt]]
@@ -240,11 +284,16 @@
 ### 2nd Circle
 - [[Continual Flame]]
 
+## Force Spells
+### 1st Circle
+- [[Zephyr Strike]]
+
 ## Holy Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Compelled Duel]]
 - [[Detect Poison and Disease]]
+- [[Divine Favor]]
 - [[Guiding Bolt]]
 - [[Luz]]
 ### 2nd Circle
@@ -259,6 +308,7 @@
 ### Cantrip
 - [[Control Flames]]
 ### 1st Circle
+- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Luz]]
@@ -286,11 +336,14 @@
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Healing Word]]
+- [[Thunderous Smite]]
 - [[Thunderwave]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
+- [[Warding Wind]]
 ### 3rd Circle
 - [[Mass Healing Word]]
 - [[Oração]]
@@ -319,9 +372,14 @@
 ### 1st Circle
 - [[Thunderwave]]
 
+## No-occult Spells
+### Cantrip
+- [[Ray of Frost]]
+
 ## No-sacred Spells
 ### 1st Circle
 - [[Concentração de Combate]]
+- [[Zephyr Strike]]
 ### 3rd Circle
 - [[Life Transference]]
 
@@ -343,12 +401,15 @@
 ### Cantrip
 - [[Booming Blade]]
 - [[Chill Touch]]
+- [[Frostbite]]
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Bane]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
+- [[Dissonant Whispers]]
+- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
@@ -359,6 +420,9 @@
 - [[Snare]]
 - [[Tentacle Twister]]
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Darkvision]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
@@ -387,6 +451,17 @@
 ### 1st Circle
 - [[Ray of Sickness]]
 
+## Psyquic Spells
+### 1st Circle
+- [[Chaos Bolt]]
+- [[Dissonant Whispers]]
+### 2nd Circle
+- [[Crown of Madness]]
+
+## Radiant Spells
+### 1st Circle
+- [[Divine Favor]]
+
 ## Recovery Spells
 ### 1st Circle
 - [[Curar Ferimentos]]
@@ -400,13 +475,17 @@
 - [[Mass Healing Word]]
 
 ## Sacred Spells
+### Cantrip
+- [[Resistance]]
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Arma Mágica]]
 - [[Bless]]
 - [[Bênção]]
+- [[Compelled Duel]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
@@ -415,10 +494,12 @@
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Warding Bond]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -445,7 +526,11 @@
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
+- [[Control Flames]]
+- [[Eldritch Blast]]
 - [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Burning Hands]]
@@ -460,7 +545,10 @@
 - [[Toque Chocante]]
 ### 2nd Circle
 - [[Continual Flame]]
+- [[Continual Flame]]
 - [[Enhance Ability]]
+- [[Warding Bond]]
+- [[Warding Wind]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Flecha Ácida]]
@@ -484,6 +572,7 @@
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
+- [[Warding Wind]]
 ### 3rd Circle
 - [[Físico Divino]]
 ### 5th Circle
@@ -492,13 +581,17 @@
 ## Trickery Spells
 ### Cantrip
 - [[Booming Blade]]
+- [[Control Flames]]
 ### 1st Circle
+- [[Animal Friendship]]
+- [[Beast Bond]]
 - [[Caminhos da Natureza]]
 - [[Cause Fear]]
 - [[Charm Person]]
 - [[Command]]
 - [[Controlar Plantas]]
 - [[Detectar Ameaças]]
+- [[Dissonant Whispers]]
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escuridão]]
@@ -509,8 +602,10 @@
 - [[Snare]]
 - [[Tranquilidade]]
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
+- [[Darkvision]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
@@ -522,9 +617,11 @@
 ## Unholy Spells
 ### Cantrip
 - [[Chill Touch]]
+- [[Frostbite]]
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Chaos Bolt]]
+- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[Fog Cloud]]
 - [[Infligir Ferimentos]]
@@ -548,19 +645,27 @@
 - [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Detectar Ameaças]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Primor Atlético]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Enlarge Reduce]]
+- [[Warding Bond]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
+
+## Water Spells
+### 1st Circle
+- [[Thunderous Smite]]
 
 ## Wild Spells
 ### Cantrip
@@ -569,6 +674,7 @@
 - [[Thorn Whip]]
 ### 1st Circle
 - [[Animal Friendship]]
+- [[Beast Bond]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
@@ -598,9 +704,11 @@
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Thunderwave]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Prayer of Healing]]
+- [[Warding Wind]]
 ### 3rd Circle
 - [[Mass Healing Word]]
 - [[Oração]]

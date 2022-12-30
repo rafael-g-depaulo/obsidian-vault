@@ -1,4 +1,4 @@
-#spell #evocation #fire #ilusion 
+#spell #evocation #fire #ilusion #trickery #thaumaturgy #elemental 
 ### Control Flames
 *Truque*
 ___

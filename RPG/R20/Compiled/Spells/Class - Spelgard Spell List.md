@@ -11,13 +11,16 @@
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -26,6 +29,7 @@
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Warding Bond]]
 
 ## Spell Descriptions
 ### Aid
@@ -59,7 +63,7 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 
 
 ### Armor of Agathys
-  <div class="spell-tags">cold energy abjuration warmagic arcane thaumaturgy</div>
+  <div class="spell-tags">cold elemental abjuration warmagic arcane thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -67,12 +71,13 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 - **Duração:** cena..
 
 ___
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.  
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.
 
-You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. 
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 - **+1PM:** aumenta os PV temporários em 5
 - **+1PM:** aumenta o dano em 5
+
 
 ### Bênção
   <div class="spell-tags">boost sacred</div>
@@ -109,7 +114,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 
 
 ### Burning Hands
-  <div class="spell-tags">fire energy evocation thaumaturgy</div>
+  <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -118,16 +123,16 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **Resistência:** DEX.
 
 ___
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.  
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
-The fire ignites any flammable objects in the area that aren’t being worn or carried. 
+The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
 - **+1 PM:** dano +1d6.
 - **+2PM:** aumenta o tamanho do cone em +1sqr
 
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
+  <div class="spell-tags">occult unholy evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -136,23 +141,26 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 - **Duração:** imediato..
 
 ___
-You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.  
-d8 / Damage Type  
-1 / Acid  
-2 / Cold  
-3 / Fire  
-4 / Force  
-5 / Lightning  
-6 / Poison  
-7 / Psychic  
-8 / Thunder  
+You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
+
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
+
 If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by each casting of this spell.
 
 - **+1PM:** aumenta o dano em 1d6
 
 
 ### Compelled Duel
-  <div class="spell-tags">warmagic holy enchantment no-trickery</div>
+  <div class="spell-tags">warmagic holy enchantment no-trickery sacred arcane</div>
 
 *1st Circle*
 - **Execução:** movimento;
@@ -187,7 +195,7 @@ Você amplia sua percepção, antecipando movimentos dos inimigos e achando brec
 
 
 ### Continual Flame
-  <div class="spell-tags">creation fire thaumaturgy evocation</div>
+  <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -230,6 +238,20 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 {{pageNumber,auto}}
 \page
+### Divine Favor
+  <div class="spell-tags">warmagic holy sacred radiant energy arcane</div>
+
+*1st Circle*
+- **Execução:** Movimento;
+- **Alcance:** pessoal;
+- **Duração:** concentração..
+
+___
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
+
+- **+2PM:** +1d6 damage
+
+
 ### Enhance Ability
   <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
 
@@ -291,9 +313,10 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo. 
 - **+3 PM:** muda a duração para 1 dia. Requer 2º círculo.
 
-
+{{pageNumber,auto}}
+\page
 ### Explosão de chamas
-  <div class="spell-tags">fire energy evocation thaumaturgy</div>
+  <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -302,16 +325,14 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **Resistência:** Reflexos reduz à metade..
 
 ___
-Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1  bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela,  ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
+Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1 bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela, ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
 
-- **+1 PM:** aumenta o  ano em +1d6.
-- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar,  ica em chamas (veja Condições, no Apêndice). 
+- **+1 PM:** aumenta o ano em +1d6.
+- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice).
 
 
-{{pageNumber,auto}}
-\page
 ### Guiding Bolt
-  <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
+  <div class="spell-tags">holy sacred fire elemental warmagic arcane</div>
 
 *1st Circle*
 - **Execução:** 1 Action;
@@ -352,7 +373,8 @@ A creature of your choice that you can see within range regains hit points equal
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 ### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
@@ -367,8 +389,7 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-{{pageNumber,auto}}
-\page
+
 ### Primor Atlético
   <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
 
@@ -399,8 +420,21 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
+### Thunderous Smite
+  <div class="spell-tags">warmagic water nature arcane</div>
+
+*1st Circle*
+- **Execução:** movimento;
+- **Alcance:** pessoal;
+- **Duração:** 1 rodada..
+
+___
+The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+
+{{pageNumber,auto}}
+\page
 ### Toque Chocante
-  <div class="spell-tags">lighning energy evocation thaumaturgy warmagic arcane</div>
+  <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic arcane</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -415,4 +449,37 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **+1 PM:** aumenta o dano em 1d8+1.
 - **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia.
 - **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área
+
+
+### Warding Bond
+  <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** toque;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+
+
+### Zephyr Strike
+  <div class="spell-tags">warmagic energy force arcane boost no-sacred wind nature</div>
+
+*1st Circle*
+- **Execução:** movimento;
+- **Alcance:** 9m (6 quadrados de 1,5m);
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.  
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
+
 

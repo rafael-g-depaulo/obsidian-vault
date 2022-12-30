@@ -1,30 +1,6 @@
 # Compiling Errors
 Here's a list of all of the errors found.
 
-## Tag Group Hierarchy
-- [[Animal Friendship]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Beast Bond]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
-- [[Beast Bond]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Beast Bond]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Beast Sense]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Blindness Deafness]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Blindness Deafness]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Compelled Duel]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
-- [[Compelled Duel]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Continual Flame]] Spell has tag "creation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Continual Flame]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
-- [[Control Flames]] Spell has tag "ilusion" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-- [[Control Flames]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
-- [[Control Flames]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
-- [[Create Bonfire]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Create Bonfire]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
-- [[Crown of Madness]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Crown of Madness]] Spell has tag "unholy" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Darkvision]] Spell has tag "unholy" but is missing it's group tag "occult" (or you can add "#no-occult")
-- [[Darkvision]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
-- [[Darkvision]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
-- [[Darkvision]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
-
 ## Spell Tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
 - [[Calm Emotions]] Spell should have either "wip" or "spell" tag
@@ -32,15 +8,11 @@ Here's a list of all of the errors found.
 - [[Contagion]] Spell should have either "wip" or "spell" tag
 - [[Dawn]] Spell should have either "wip" or "spell" tag
 - [[Desintegrar]] Spell should have either "wip" or "spell" tag
-- [[Dissonant Whispers]] Spell should have either "wip" or "spell" tag
-- [[Divine Favor]] Spell should have either "wip" or "spell" tag
-- [[Eldritch Blast]] Spell should have either "wip" or "spell" tag
 - [[Enthrall]] Spell should have either "wip" or "spell" tag
 - [[Fire Bolt]] Spell should have either "wip" or "spell" tag
 - [[Fire Storm]] Spell should have either "wip" or "spell" tag
 - [[Flame Strike]] Spell should have either "wip" or "spell" tag
 - [[Flaming Sphere]] Spell should have either "wip" or "spell" tag
-- [[Frostbite]] Spell should have either "wip" or "spell" tag
 - [[Grease]] Spell should have either "wip" or "spell" tag
 - [[Greater Restoration]] Spell should have either "wip" or "spell" tag
 - [[Green Flame Blade]] Spell should have either "wip" or "spell" tag
@@ -73,9 +45,7 @@ Here's a list of all of the errors found.
 - [[Pass Without a Trace]] Spell should have either "wip" or "spell" tag
 - [[Pele de Pedra]] Spell should have either "wip" or "spell" tag
 - [[Potência Divina]] Spell should have either "wip" or "spell" tag
-- [[Ray of Frost]] Spell should have either "wip" or "spell" tag
 - [[Regenerate]] Spell should have either "wip" or "spell" tag
-- [[Resistance]] Spell should have either "wip" or "spell" tag
 - [[Revivify]] Spell should have either "wip" or "spell" tag
 - [[Sanctuary]] Spell should have either "wip" or "spell" tag
 - [[Searing Smite]] Spell should have either "wip" or "spell" tag
@@ -94,15 +64,6 @@ Here's a list of all of the errors found.
 - [[Sword Burst]] Spell should have either "wip" or "spell" tag
 - [[Tasha's Hideous Laughter]] Spell should have either "wip" or "spell" tag
 - [[Thunderclap]] Spell should have either "wip" or "spell" tag
-- [[Thunderous Smite]] Spell should have either "wip" or "spell" tag
 - [[Vicious Mockery]] Spell should have either "wip" or "spell" tag
-- [[Warding Bond]] Spell should have either "wip" or "spell" tag
-- [[Warding Wind]] Spell should have either "wip" or "spell" tag
 - [[Witch Bolt]] Spell should have either "wip" or "spell" tag
 - [[Word of Radiance]] Spell should have either "wip" or "spell" tag
-- [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
-
-## Missing Description
-- [[Frostbite]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Ray of Frost]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Resistance]] Spell is missing a description (or more likely the description is in the wrong format)

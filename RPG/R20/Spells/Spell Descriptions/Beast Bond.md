@@ -1,4 +1,4 @@
-#spell #feral #divination #enchantment 
+#spell #feral #divination #enchantment #wild #trickery 
 ### Beast Bont
 *1º Círculo*
 ___

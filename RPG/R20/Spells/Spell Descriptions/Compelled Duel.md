@@ -1,4 +1,4 @@
-#spell #warmagic #holy #enchantment #no-trickery
+#spell #warmagic #holy #enchantment #no-trickery #sacred #arcane 
 ### Compelled Duel
 *1º Círculo*
 ___

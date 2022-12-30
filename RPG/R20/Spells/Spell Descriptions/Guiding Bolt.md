@@ -1,11 +1,7 @@
 #spell #holy #sacred #fire #elemental #warmagic #arcane
-
 ### Guiding Bolt
-
-_1st Circle_
-
----
-
+*1st Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Duration:** 1 round

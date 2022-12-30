@@ -1,4 +1,4 @@
-#spell #ilusion #curse #unholy #trickery 
+#spell #ilusion #curse #unholy #trickery #occult #psyquic #energy #occult 
 ### Dissonant Whispers
 *1º Círculo*
 ___

@@ -455,6 +455,7 @@ List of spells available for a Plantomancer to learn.
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
+- [[Divine Favor]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -467,18 +468,21 @@ List of spells available for a Plantomancer to learn.
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
+- [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Warding Wind]]
 - [[Web]]
 
 ### 3rd Circle
@@ -687,13 +691,16 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -702,6 +709,7 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[Warding Bond]]
 
 {{pageNumber,auto}}
 \page
@@ -922,6 +930,7 @@ Spell List:
 - [[Booming Blade]]
 - [[Chill Touch]]
 - [[Control Flames]]
+- [[Frostbite]]
 - [[Toll the Dead]]
 
 ### 1st Circle
@@ -931,6 +940,7 @@ Spell List:
 - [[Command]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
@@ -945,6 +955,9 @@ Spell List:
 - [[Tentacle Twister]]
 
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]

@@ -19,10 +19,6 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 
 by nature:
 
-- #wild
-  - #plant
-  - #feral
-  - #summon
 - #occult
   - #curse (debuf)
   - #unholy (warlock stuff)
@@ -43,14 +39,18 @@ by nature:
   - #chronomancy
   - #evocation
   - #abjuration
-- #elemental (fire+ice+lighning)
-  - #fire
-  - #lighning
-  - #cold
+- #wild
+  - #plant
+  - #feral
+  - #summon
 - #nature (does physical damage)
   - #wind
   - #water
   - #earth
+- #elemental (fire+ice+lighning)
+  - #fire
+  - #lighning
+  - #cold
 - #decay
   - #poison
   - #acid
@@ -58,7 +58,7 @@ by nature:
 - #energy (special damage types)
   - #radiant
   - #psyquic
-  - magic/pure damage?
+  - #force (force/magic/pure damage?)
 - #physical (maybe not needed. hasn't been needed yet)
   - #slashing
   - #bludgeoning

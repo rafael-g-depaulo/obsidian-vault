@@ -1,5 +1,5 @@
-#spell #unholy #holy #divination #transmutation 
-### Spell Name Template
+#spell #unholy #holy #divination #transmutation #occult #sacred #arcane #trickery #boost
+### Darkvision
 *2º Círculo*
 ___
 - **Execução:** padrão

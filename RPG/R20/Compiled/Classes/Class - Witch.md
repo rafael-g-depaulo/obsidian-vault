@@ -103,6 +103,7 @@ Spell List:
 - [[Booming Blade]]
 - [[Chill Touch]]
 - [[Control Flames]]
+- [[Frostbite]]
 - [[Toll the Dead]]
 
 ### 1st Circle
@@ -112,6 +113,7 @@ Spell List:
 - [[Command]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
@@ -126,6 +128,9 @@ Spell List:
 - [[Tentacle Twister]]
 
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]

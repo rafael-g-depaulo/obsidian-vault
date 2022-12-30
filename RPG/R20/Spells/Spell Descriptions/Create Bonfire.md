@@ -1,4 +1,4 @@
-#spell #fire #summon #wild #transmutation 
+#spell #fire #summon #wild #transmutation #arcane #elemental 
 ### Create Bonfire
 *Truque*
 ___

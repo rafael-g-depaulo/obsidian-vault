@@ -1,11 +1,7 @@
 #spell #lighning #elemental #evocation #thaumaturgy
-
 ### Relâmpago
-
-_3º Círculo_
-
----
-
+*3º Círculo*
+___
 - **Execução:** padrão
 - **Alcance:** 20sqr
 - **Área:** linha

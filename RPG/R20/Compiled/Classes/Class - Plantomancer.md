@@ -116,6 +116,7 @@ List of spells available for a Plantomancer to learn.
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
+- [[Divine Favor]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -128,18 +129,21 @@ List of spells available for a Plantomancer to learn.
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
+- [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Warding Wind]]
 - [[Web]]
 
 ### 3rd Circle

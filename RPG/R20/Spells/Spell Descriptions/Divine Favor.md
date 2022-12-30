@@ -1,4 +1,4 @@
-#spell #warmagic #holy #sacred #evocation #thaumaturgy 
+#spell #warmagic #holy #sacred #radiant #energy #arcane 
 ### Divine Favor
 *1º Círculo*
 ___
@@ -6,6 +6,6 @@ ___
 - **Alcance:** pessoal
 - **Duração:** concentração.
 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit. (change to fire? holy? energy? interesting design decisions to make...)
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
 
 - **+2PM:** +1d6 damage
