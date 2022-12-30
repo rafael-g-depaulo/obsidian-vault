@@ -63,7 +63,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 - **Duração:** cena.
 ___
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends. 
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
 - **cost:** description.
 
@@ -116,7 +116,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 - **Duração:** concentração.
 ___
 
-You create a ghostly, skeletal hand in the space of a creature within range.  
+You create a ghostly, skeletal hand in the space of a creature within range.
 
 - **cost:** description.
 
@@ -129,7 +129,7 @@ You create a ghostly, skeletal hand in the space of a creature within range.
 - **Duração:** 1 rodada.
 ___
 
-You speak a one-word command to a creature you can see within range.  
+You speak a one-word command to a creature you can see within range.
 
 - **cost:** description.
 
@@ -142,7 +142,7 @@ You speak a one-word command to a creature you can see within range.
 - **Duração:** concentração.
 ___
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -172,7 +172,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** imediata.
 ___
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.  
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.
 
 - **cost:** description.
 
@@ -202,7 +202,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **Duração:** cena.
 ___
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -232,7 +232,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 - **Duração:** imediata.
 ___
 
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.  
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
 - **cost:** description.
 
@@ -257,7 +257,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **Duração:** imediata.
 ___
 
-Reaction: you are being damaged by a creature within range of you that you can see.  
+Reaction: you are being damaged by a creature within range of you that you can see.
 
 - **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
 \page
@@ -284,7 +284,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 - **Duração:** imediata.
 ___
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.  
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
 - **cost:** description.
 
@@ -434,6 +434,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 ___
 
 You invoke the power of Hadar, the Dark Hunger.  
+Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.
@@ -475,6 +476,6 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 - **Duração:** imediata.
 ___
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.
 
 - **cost:** description.

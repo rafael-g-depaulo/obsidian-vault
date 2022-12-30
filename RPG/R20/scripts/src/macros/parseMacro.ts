@@ -21,7 +21,7 @@ const createMacro = <ItemKeys extends string, Name extends string>({
 const macroListItemValueRegex = /^\s*(?:\-|\d+\.)[\t ]*(?<listItem>.*)\s+/gm
 
 const macroItemRegex =
-  /^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.+)\s+)+|(?<itemSimpleValue>[^\s].*(?:\n\|.*)*))\s*/gm
+  /^\s*(?<itemKey>[\w-]+):\s*(?<itemValue>(?:(?:\-|\d+\.)[\t ]*(?<listItem>.+)\s+)+|(?<itemSimpleValue>(?:^(?!\w+:).*\n)+|.+))\s*/gm
 
 export const macroRegex =
   /{{(?<macroName>[\w\-]+)\s*(?:"(?<macroArgument>.+)")?\s*(?<macroBody>(?:[^}]|}[^}])+)?}}/gm

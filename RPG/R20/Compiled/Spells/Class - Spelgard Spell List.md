@@ -59,6 +59,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 ___
 
 Your spell bolsters your allies with toughness and resolve.
+Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.
 
 - **+3 PM:** aumenta o efeito em 5..
 
@@ -84,6 +85,8 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 ___
 
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.
+
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 - **+1PM:** aumenta os PV temporários em 5.
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
@@ -154,7 +157,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** cena.
 ___
 
-You touch a willing creature to grant it the ability to see in the dark.  
+You touch a willing creature to grant it the ability to see in the dark.
 
 - **cost:** description.
 
@@ -195,7 +198,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 - **Duração:** instantânea.
 ___
 
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage. 
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -209,7 +212,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **Duração:** concentração.
 ___
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
 
 - **cost:** description.
 
@@ -221,7 +224,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 - **Duração:** 1 turno.
 ___
 
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa. 
+Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa.
 
 - **+1PM:** muda o alcance para 6sqr, o alvo para 1 criatura e diminui o bonus na defesa em 2.
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque, a duração para cena e diminui o bonus na defesa em 3..
@@ -361,6 +364,8 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 ___
 
 The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensitity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames.  
+  
+At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
 - **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
 \page
@@ -373,7 +378,7 @@ The next time you hit a creature with a melee weapon attack during the spell’s
 - **Duração:** imediata.
 ___
 
-You create a momentary circle of spectral blades that sweep around you.  
+You create a momentary circle of spectral blades that sweep around you.
 
 - **cost:** description.
 
@@ -400,6 +405,6 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **Duração:** concentração.
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
 - **cost:** description.

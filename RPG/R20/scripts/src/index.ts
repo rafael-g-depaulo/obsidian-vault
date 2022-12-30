@@ -162,3 +162,5 @@ const main = async () => {
 // run everything
 main()
 // auto compile classes and character sheets
+
+// TODO: implement error warning for a spell description file without a spell definition

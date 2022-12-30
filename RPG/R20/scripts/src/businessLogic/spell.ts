@@ -1,7 +1,6 @@
 import { getString, getStringArr, Macro } from '../macros/types'
 import { parseMarkdownTable, spellLevelStr } from '../stringOutputUtils'
 import { getTags } from '../tags'
-import { isNotUndefined } from '../typeUtils'
 
 export const spellDescriptionItems = [
   'castTime',
@@ -56,7 +55,7 @@ export const parseSpell = (spellMacro: Macro): Spell => {
     },
 
     increases: parseIncreases(getString(spellMacro.items.INCREASES) ?? ''),
-    description: getString(spellMacro.items.DESCRIPTION) ?? '',
+    description: getString(spellMacro.items.DESCRIPTION)?.trim() ?? '',
   }
 }
 

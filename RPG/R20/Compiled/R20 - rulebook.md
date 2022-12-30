@@ -2247,6 +2247,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 ___
 
 Your spell bolsters your allies with toughness and resolve.
+Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.
 
 - **+3 PM:** aumenta o efeito em 5..{{pageNumber,auto}}
 \page
@@ -2261,6 +2262,7 @@ Your spell bolsters your allies with toughness and resolve.
 ___
 
 This spell lets you convince a beast that you mean it no harm.  
+Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
 
 - **+2PM:** you can affect one additional beast for each slot level above 1st..
 
@@ -2275,6 +2277,8 @@ This spell lets you convince a beast that you mean it no harm.
 ___
 
 Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
+
+Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
 
 - **+1 PM:** aumenta a área em +1 quadrado de 1,5m..
 - **+2PM:** a área conta como terreno difícil.
@@ -2303,6 +2307,8 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 ___
 
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.
+
+You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 - **+1PM:** aumenta os PV temporários em 5.
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
@@ -2386,7 +2392,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **Duração:** cena.
 ___
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends. 
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
 - **cost:** description.
 
@@ -2453,7 +2459,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **Duração:** imediata.
 ___
 
-Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.
 
 - **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.
 
@@ -2493,7 +2499,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 - **Duração:** concentração.
 ___
 
-You create a ghostly, skeletal hand in the space of a creature within range.  
+You create a ghostly, skeletal hand in the space of a creature within range.
 
 - **cost:** description.
 
@@ -2506,7 +2512,7 @@ You create a ghostly, skeletal hand in the space of a creature within range.
 - **Duração:** 1 rodada.
 ___
 
-You speak a one-word command to a creature you can see within range.  
+You speak a one-word command to a creature you can see within range.
 
 - **cost:** description.
 
@@ -2519,7 +2525,7 @@ You speak a one-word command to a creature you can see within range.
 - **Duração:** cena.
 ___
 
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.  
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -2560,7 +2566,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Duração:** concentration.
 ___
 
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.
 
 - **cost:** description.
 
@@ -2573,7 +2579,7 @@ You create a bonfire on ground that you can see within range. Until the spell en
 - **Duração:** concentração.
 ___
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -2603,7 +2609,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** cena.
 ___
 
-You touch a willing creature to grant it the ability to see in the dark.  
+You touch a willing creature to grant it the ability to see in the dark.
 
 - **cost:** description.
 
@@ -2651,7 +2657,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **Duração:** imediata.
 ___
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.  
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.
 
 - **cost:** description.
 
@@ -2688,7 +2694,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 - **Duração:** instantânea.
 ___
 
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage. 
+A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -2716,7 +2722,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **Duração:** concentração.
 ___
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
 
 - **cost:** description.
 
@@ -2731,6 +2737,11 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 ___
 
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
+into difficult terrain.
+
+A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+
+When the spell ends, the conjured plants wilt away.
 
 - **+2 PM:** Aumenta a CD em 1..
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..
@@ -2743,7 +2754,7 @@ Grasping weeds and vines sprout from the ground in a 20-foot square starting fro
 - **Duração:** 1 turno.
 ___
 
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa. 
+Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +5 na Defesa.
 
 - **+1PM:** muda o alcance para 6sqr, o alvo para 1 criatura e diminui o bonus na defesa em 2.
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque, a duração para cena e diminui o bonus na defesa em 3..
@@ -2794,7 +2805,7 @@ Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às
 - **Duração:** cena.
 ___
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
 - **cost:** description.
 
@@ -2852,7 +2863,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 - **Duração:** imediata.
 ___
 
-You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.  
+You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
 - **cost:** description.
 
@@ -2915,7 +2926,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **Duração:** concentração.
 ___
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, every creature touching it takes damage again at the start of your turn.  
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, every creature touching it takes damage again at the start of your turn.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -2929,7 +2940,7 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 - **Duração:** imediata.
 ___
 
-Reaction: you are being damaged by a creature within range of you that you can see.  
+Reaction: you are being damaged by a creature within range of you that you can see.
 
 - **+2PM:** increase the damage by +1d10.
 
@@ -2955,7 +2966,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 - **Duração:** imediata.
 ___
 
-You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.  
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
 - **cost:** description.
 
@@ -3008,7 +3019,7 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 - **Duração:** imediata.
 ___
 
-You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.
 
 - **cost:** description.
 
@@ -3049,6 +3060,9 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 ___
 
 A spectral, floating hand appears at a point you choose within range.  
+The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.  
+
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 - **+X PM:** Torna a mão invisível.
 - **+Y PM:** Aumenta a carga máxima em X kilos.
@@ -3104,6 +3118,12 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 ___
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
+
+As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
+
+To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.  
+
+As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 - **+3PM:** increase all damage by +1d6.
 
@@ -3204,7 +3224,9 @@ ___
 
 Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de batalha. Criaturas na área sofrem 4d8 pontos de dano de luz (ou 4d12, se forem mortos-vivos) e ficam ofuscadas por uma rodada. Se passarem na resistência, sofrem metade do dano e não ficam ofuscadas. Truque: muda a duração para cena e a resistência para nenhuma. Em vez do normal, cria um facho de luz que ilumina a área da magia. Uma vez por rodada, você pode mudar a direção do facho como uma ação livre.
 
-- **cost:** description.
+- **+2 PM:** aumenta o dano ou cura em +1d8 (ou +1d12 em mortos-vivos)..
+- **+3 PM:** em vez do normal, criaturas vivas a sua escolha na área curam 4d8 pontos de vida; o restante sofre o dano normalmente..
+- **+3 PM:** criaturas que falhem na resistência ficam cegas por 1d4 rodadas.
 
 ### Ray of Frost
 <div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
@@ -3243,6 +3265,8 @@ Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em t
 ___
 
 The next time you hit a creature with a melee weapon attack during the spell’s duration, your weapon flares with white-hot intensitity, and the attack deals an extra 1d6 fire damage to the target and causes the target to ignite in flames.  
+  
+At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
 - **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
 \page
@@ -3297,7 +3321,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **Duração:** imediata.
 ___
 
-You create a momentary circle of spectral blades that sweep around you.  
+You create a momentary circle of spectral blades that sweep around you.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -3328,6 +3352,7 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 ___
 
 You invoke the power of Hadar, the Dark Hunger.  
+Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.
@@ -3355,6 +3380,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 ___
 
 You create a burst of thunderous sound, which can be heard 100 feet away.  
+Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
 - **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
 \page
@@ -3368,6 +3394,7 @@ You create a burst of thunderous sound, which can be heard 100 feet away.
 ___
 
 A wave of thunderous force sweeps out from you.
+Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
 - **+1PM:** increase the damage by 1d6..
@@ -3455,7 +3482,7 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 - **Duração:** imediata.
 ___
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.
 
 - **cost:** description.
 
@@ -3468,7 +3495,7 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 - **Duração:** concentração.
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
 - **cost:** description.{{pageNumber,auto}}
 \page
@@ -3482,7 +3509,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 - **Duração:** imediata.
 ___
 
-You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.  
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
 - **cost:** description.
 
