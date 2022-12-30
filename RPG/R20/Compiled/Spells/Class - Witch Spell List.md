@@ -36,7 +36,6 @@
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Pass Without a Trace]]
@@ -127,7 +126,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+  <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -248,24 +247,6 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
 
-### Darkvision
-  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
-
-*2nd Circle*
-- **Execução:** padrão;
-- **Alcance:** Toque;
-- **Alvo:** 1 criatura;
-- **Duração:** cena..
-
-___
-You touch a willing creature to grant it the ability to see in the dark.  
-For the duration, that creature has darkvision out to a range of 12sqr (18m).
-
-- **+2 PM:** +1 alvo
-- **+1 PM:** +4sqr (+6m).
-
-{{pageNumber,auto}}
-\page
 ### Detect Poison and Disease
   <div class="spell-tags">sacred holy recovery</div>
 
@@ -276,7 +257,8 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
+{{pageNumber,auto}}
+\page
 ### Dissonant Whispers
   <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
 
@@ -326,8 +308,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo.
 - **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo.
 
-{{pageNumber,auto}}
-\page
+
 ### False Life
   <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
@@ -340,7 +321,8 @@ ___
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
 
 - **+1PM:** aumenta +1d4 nos PV temporários
-
+{{pageNumber,auto}}
+\page
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -384,8 +366,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 - **+2PM:** aumente o dano em 1d6
 
-{{pageNumber,auto}}
-\page
+
 ### Healing Word
   <div class="spell-tags">recovery sacred speech no-trickery</div>
 
@@ -400,7 +381,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Hellish Rebuke
   <div class="spell-tags">curse occult fire elemental speech trickery</div>
 
@@ -447,8 +429,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 
 - **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2).
 - **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo. 
-{{pageNumber,auto}}
-\page
+
 ### Infestation
   <div class="spell-tags">summon wild unholy occult</div>
 
@@ -462,7 +443,8 @@ ___
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.  
 
 - **+1PM:** increases the damage by 1d6 (limitado por círculo máximo)
-
+{{pageNumber,auto}}
+\page
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
 
@@ -510,8 +492,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-{{pageNumber,auto}}
-\page
+
 ### Life Transference
   <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -524,7 +505,8 @@ ___
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
 
 - **+1 PM:** aumenta o dano em 1d8
-
+{{pageNumber,auto}}
+\page
 ### Luz
   <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
 
@@ -576,8 +558,7 @@ If you create an image of an object such as a chair, muddy footprints, or a smal
   
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-{{pageNumber,auto}}
-\page
+
 ### Oração
   <div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
 
@@ -595,7 +576,8 @@ ___
 - **+7 PM:** muda o alcance para médio. Requer 5º círculo.
 - **+12 PM:** muda a duração para cena. Requer 7º círculo
 
-
+{{pageNumber,auto}}
+\page
 ### Pass Without a Trace
   <div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
 
@@ -640,8 +622,7 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-{{pageNumber,auto}}
-\page
+
 ### Ray of Enfeeblement
   <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
@@ -658,7 +639,8 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -697,8 +679,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
+
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -718,7 +699,8 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
 
-
+{{pageNumber,auto}}
+\page
 ### Tentacle Twister
   <div class="spell-tags">occult unholy summon wild</div>
 
@@ -766,8 +748,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia.
 - **+2 PM:** aumenta o dano em +2d6.
 - **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Vicious Mockery
   <div class="spell-tags">trickery occult curse psyquic energy speech</div>
 

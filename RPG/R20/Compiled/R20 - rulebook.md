@@ -1368,7 +1368,6 @@ Spell List:
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Pass Without a Trace]]
@@ -2642,7 +2641,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+  <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -2864,7 +2863,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 
 ### Darkvision
-  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
+  <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
 
 *2nd Circle*
 - **Execução:** padrão;

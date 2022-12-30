@@ -469,7 +469,6 @@
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
@@ -731,7 +730,6 @@
 - [[Infestation]]
 - [[Toll the Dead]]
 ### 1st Circle
-- [[Chaos Bolt]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[Fog Cloud]]
@@ -739,7 +737,6 @@
 - [[Tentacle Twister]]
 ### 2nd Circle
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Life Transference]]

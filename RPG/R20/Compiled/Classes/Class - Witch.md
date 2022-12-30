@@ -135,7 +135,6 @@ Spell List:
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Pass Without a Trace]]

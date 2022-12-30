@@ -1,4 +1,4 @@
-#spell #occult #unholy #evocation #elemental #fire #lighning #cold #thaumaturgy #psyquic #energy 
+#spell #occult #evocation #elemental #fire #lighning #cold #thaumaturgy #psyquic #energy 
 ### Chaos Bolt
 *1º Círculo*
 ___

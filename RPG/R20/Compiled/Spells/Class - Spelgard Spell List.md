@@ -166,7 +166,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 
 
 ### Chaos Bolt
-  <div class="spell-tags">occult unholy evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+  <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -262,7 +262,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 {{pageNumber,auto}}
 \page
 ### Darkvision
-  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
+  <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
 
 *2nd Circle*
 - **Execução:** padrão;
