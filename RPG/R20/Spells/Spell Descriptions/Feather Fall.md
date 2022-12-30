@@ -1,4 +1,4 @@
-#spell #transmutation #wind #chronomancy #arcane #no-thaumaturgy #nature 
+#spell #transmutation #wind #arcane #no-thaumaturgy #nature 
 ### Feather Fall
 *1º Círculo*
 ___

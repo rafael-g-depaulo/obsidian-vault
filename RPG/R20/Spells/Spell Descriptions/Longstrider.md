@@ -1,4 +1,4 @@
-#spell #boost #sacred #chronomancy #thaumaturgy 
+#spell #boost #sacred #thaumaturgy 
 ### Longstrider
 *1º Círculo*
 ___
