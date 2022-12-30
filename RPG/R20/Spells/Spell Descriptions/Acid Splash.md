@@ -1,11 +1,7 @@
 #spell #acid #decay #evocation #thaumaturgy
-
 ### Acid Splash
-
-_Truque (Cantrip)_
-
----
-
+*Truque (Cantrip)**
+___
 - **Execução:** padrão.
 - **Alcance:** 6sqr.
 - **Alvo:** 1 criatura.

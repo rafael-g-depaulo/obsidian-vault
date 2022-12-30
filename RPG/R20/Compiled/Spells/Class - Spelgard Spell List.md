@@ -37,7 +37,6 @@
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -60,7 +59,12 @@
 - **Duração:** instantânea..
 
 ___
-DESCRIPTION_NOT_FOUND
+You hurl a bubble of acid.  
+Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+
+- **+1 PM:** Aumenta o dano em 1d6 (limitado pelo círculo máximo de magia que você tem).
+- **+3 PM:** Muda o alcance para 18m.
+
 
 ### Aid
   <div class="spell-tags">boost sacred</div>
@@ -415,7 +419,10 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 - **Duração:** imediata..
 
 ___
-DESCRIPTION_NOT_FOUND
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
+
+- **+3PM:** increase both damages by +1d8
+
 
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire elemental warmagic arcane</div>
@@ -717,15 +724,3 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 - **+1PM:** increase the damage by +1d6
 
-
-### Zephyr Strike
-  <div class="spell-tags">warmagic energy force arcane boost no-sacred wind nature</div>
-
-*1st Circle*
-- **Execução:** movimento;
-- **Alcance:** 6sqr;
-- **Alvo:** 1 criatura;
-- **Duração:** concentração..
-
-___
-DESCRIPTION_NOT_FOUND

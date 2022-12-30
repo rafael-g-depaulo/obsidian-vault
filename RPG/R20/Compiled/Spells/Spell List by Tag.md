@@ -59,7 +59,6 @@
 - [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
-- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Barkskin]]
@@ -84,6 +83,8 @@
 - [[Sopro das Uivantes]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## Boost Spells
 ### Cantrip
@@ -98,7 +99,6 @@
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Primor Atlético]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
@@ -114,6 +114,8 @@
 - [[Oração]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## Chronomancy Spells
 ### 1st Circle
@@ -273,9 +275,10 @@
 - [[Dissonant Whispers]]
 - [[Divine Favor]]
 - [[Magic Missile]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Crown of Madness]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## Evocation Spells
 ### Cantrip
@@ -337,6 +340,7 @@
 ## Force Spells
 ### 1st Circle
 - [[Magic Missile]]
+### -1th Circle
 - [[Zephyr Strike]]
 
 ## Holy Spells
@@ -399,7 +403,6 @@
 - [[Healing Word]]
 - [[Thunderous Smite]]
 - [[Thunderwave]]
-- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Earthbind]]
@@ -411,6 +414,8 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## Necromancy Spells
 ### 1st Circle
@@ -444,11 +449,12 @@
 ## No-sacred Spells
 ### 1st Circle
 - [[Concentração de Combate]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Life Transference]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## No-thaumaturgy Spells
 ### 1st Circle
@@ -762,7 +768,6 @@
 - [[Searing Smite]]
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
@@ -772,6 +777,8 @@
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
+### -1th Circle
+- [[Zephyr Strike]]
 
 ## Water Spells
 ### Cantrip
@@ -823,7 +830,6 @@
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Thunderwave]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Prayer of Healing]]
@@ -832,3 +838,5 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
+### -1th Circle
+- [[Zephyr Strike]]

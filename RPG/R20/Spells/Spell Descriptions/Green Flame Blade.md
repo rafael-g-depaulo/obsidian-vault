@@ -1,6 +1,7 @@
 #spell #warmagic #arcane #fire #elemental 
 ### Green Flame Blade
-_Truque_
+*Truque*
+___
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura

@@ -1,28 +1,6 @@
 # Compiling Errors
 Here's a list of all of the errors found.
 
-## Missing Description
-- [[Acid Splash]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Cloud of Daggers]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Enthrall]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Flaming Sphere]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Green Flame Blade]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Gust]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Healing Spirit]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Heroism]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Ice Knife]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Levitate]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Magic Mouth]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Misty Step]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Sanctuary]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[See Invisibility]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Shadow Blade]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Shatter]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Silence]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Silent Image]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Snowball Swarm]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Zephyr Strike]] Spell is missing a description (or more likely the description is in the wrong format)
-
 ## Spell Tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
 - [[Cloud of Daggers]] Spell should have either "wip" or "spell" tag
@@ -61,3 +39,23 @@ Here's a list of all of the errors found.
 - [[Silent Image]] Spell should have either "wip" or "spell" tag
 - [[Snowball Swarm]] Spell should have either "wip" or "spell" tag
 - [[Sopro da Salvação]] Spell should have either "wip" or "spell" tag
+
+## Missing Description
+- [[Cloud of Daggers]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Enthrall]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Flaming Sphere]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Gust]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Healing Spirit]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Heroism]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Ice Knife]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Levitate]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Magic Mouth]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Misty Step]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Sanctuary]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[See Invisibility]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Shadow Blade]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Shatter]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Silence]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Silent Image]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Snowball Swarm]] Spell is missing a description (or more likely the description is in the wrong format)
+- [[Zephyr Strike]] Spell is missing a description (or more likely the description is in the wrong format)

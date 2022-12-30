@@ -91,7 +91,6 @@
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
@@ -179,3 +178,4 @@
 - [[Silence]]
 - [[Silent Image]]
 - [[Snowball Swarm]]
+- [[Zephyr Strike]]

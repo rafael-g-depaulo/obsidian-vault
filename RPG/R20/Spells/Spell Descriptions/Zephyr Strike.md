@@ -2,9 +2,7 @@
 
 ### Zephyr Strike
 
-_1º Círculo_
-
----
+## _1º Círculo_
 
 - **Execução:** movimento
 - **Alcance:** 6sqr
