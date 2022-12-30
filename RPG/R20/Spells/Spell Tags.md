@@ -43,7 +43,7 @@ by nature:
   - #chronomancy
   - #evocation
   - #abjuration
-- #energy (fire+ice+lighning)
+- #elemental (fire+ice+lighning)
   - #fire
   - #lighning
   - #cold
@@ -55,10 +55,10 @@ by nature:
   - #poison
   - #acid
   - #necrotic
-- asdsad (special damage types?)
-	- radiant
-	- psyquic
-	- magic??????
+- #energy (special damage types)
+  - #radiant
+  - #psyquic
+  - magic/pure damage?
 - #physical (maybe not needed. hasn't been needed yet)
   - #slashing
   - #bludgeoning

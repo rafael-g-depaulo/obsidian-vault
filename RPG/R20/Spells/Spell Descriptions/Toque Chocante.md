@@ -1,7 +1,11 @@
-#spell #lighning #energy #evocation #thaumaturgy #warmagic #arcane 
+#spell #lighning #elemental #evocation #thaumaturgy #warmagic #arcane
+
 ### Toque Chocante
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** toque
 - **Alvo:** 1 criatura

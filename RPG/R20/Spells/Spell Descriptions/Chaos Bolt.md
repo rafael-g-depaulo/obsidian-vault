@@ -1,7 +1,11 @@
-#spell #occult #unholy #evocation #energy #fire #lighning #cold #thaumaturgy 
+#spell #occult #unholy #evocation #elemental #fire #lighning #cold #thaumaturgy
+
 ### Chaos Bolt
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** 12sqr
 - **Alvo:** 1 criatura

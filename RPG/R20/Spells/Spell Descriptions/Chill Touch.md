@@ -1,7 +1,11 @@
-#spell #cold #energy #unholy #occult
+#spell #cold #elemental #unholy #occult
+
 ### Chill Touch
-*Truque (cantrip)*
-___
+
+_Truque (cantrip)_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** 18m (12 quadrados de 1,5m)
 - **Alvo:** 1 criatura

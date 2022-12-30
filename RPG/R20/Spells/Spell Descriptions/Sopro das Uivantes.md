@@ -1,7 +1,11 @@
-#spell #wind #nature #cold #energy #creation #arcane
+#spell #wind #nature #cold #elemental #creation #arcane
+
 ### Sopro das Uivantes
-*3º Círculo*
-___
+
+_3º Círculo_
+
+---
+
 - **Execução:** padrão
 - **Alcance:** 4sqr
 - **Área:** cone
