@@ -1,5 +1,6 @@
 ### Flame Strike
 *5th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** pinch of sulfur

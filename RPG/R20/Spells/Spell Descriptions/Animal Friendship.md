@@ -1,3 +1,4 @@
+#spell #wild #feral #enchantment 
 ### Animal Friendship
 *1º Círculo*
 ___

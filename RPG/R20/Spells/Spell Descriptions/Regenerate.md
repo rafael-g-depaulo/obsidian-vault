@@ -1,5 +1,6 @@
 ### Regenerate
 *7th Circle*
+___
 - **Casting time:** 1 Minute
 - **Range:** Touch
 - **Components:** a prayer wheel and holy water

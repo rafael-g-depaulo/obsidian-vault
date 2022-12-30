@@ -110,6 +110,7 @@ List of spells available for a Spelgard to learn.
 - [[Burning Hands]]
 - [[Bênção]]
 - [[Chaos Bolt]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -123,6 +124,7 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
+- [[Continual Flame]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]

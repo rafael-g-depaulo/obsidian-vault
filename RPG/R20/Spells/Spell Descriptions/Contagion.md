@@ -1,5 +1,6 @@
 ### Contagion
 *5th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** Touch
 - **Duration:** 7 days

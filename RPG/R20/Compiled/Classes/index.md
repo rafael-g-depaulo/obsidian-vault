@@ -441,10 +441,16 @@ List of spells available for a Plantomancer to learn.
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Animal Friendship]]
 - [[Armor of Agathys]]
+- [[Beast Bond]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
+- [[Cause Fear]]
+- [[Charm Person]]
+- [[Command]]
+- [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -467,6 +473,7 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Crown of Madness]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
@@ -676,6 +683,7 @@ List of spells available for a Spelgard to learn.
 - [[Burning Hands]]
 - [[Bênção]]
 - [[Chaos Bolt]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -689,6 +697,7 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
+- [[Continual Flame]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
@@ -912,11 +921,14 @@ Spell List:
 ### Cantrip
 - [[Booming Blade]]
 - [[Chill Touch]]
+- [[Control Flames]]
 - [[Toll the Dead]]
 
 ### 1st Circle
 - [[Bane]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
+- [[Command]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Escuridão]]
@@ -930,6 +942,7 @@ Spell List:
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+- [[Tentacle Twister]]
 
 ### 2nd Circle
 - [[Earthbind]]

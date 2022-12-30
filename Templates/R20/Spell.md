@@ -2,7 +2,7 @@
 *XXº Círculo*
 ___
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
 

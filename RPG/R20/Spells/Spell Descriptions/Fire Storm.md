@@ -1,5 +1,6 @@
 ### Fire Storm
 *7th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 150 feet
 - **Duration:** Instantaneous

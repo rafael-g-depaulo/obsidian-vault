@@ -1,5 +1,6 @@
 ### Heal
 *6th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Duration:** Instantaneous

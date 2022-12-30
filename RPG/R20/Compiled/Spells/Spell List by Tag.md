@@ -103,6 +103,7 @@
 - [[Teia]]
 - [[Área Escorregadia]]
 ### 2nd Circle
+- [[Continual Flame]]
 - [[Maximilian's Earthen Grasp]]
 - [[Web]]
 ### 3rd Circle
@@ -115,11 +116,15 @@
 - [[Booming Blade]]
 ### 1st Circle
 - [[Bane]]
+- [[Cause Fear]]
+- [[Command]]
 - [[Perdição]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
@@ -141,7 +146,11 @@
 
 ## Divination Spells
 ### 1st Circle
+- [[Beast Bond]]
 - [[Detectar Ameaças]]
+### 2nd Circle
+- [[Beast Sense]]
+- [[Darkvision]]
 
 ## Earth Spells
 ### 1st Circle
@@ -153,12 +162,19 @@
 
 ## Enchantment Spells
 ### 1st Circle
+- [[Animal Friendship]]
+- [[Beast Bond]]
 - [[Caminhos da Natureza]]
+- [[Cause Fear]]
+- [[Charm Person]]
+- [[Command]]
+- [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Enfeitiçar]]
 - [[Sleep]]
 - [[Tranquilidade]]
 ### 2nd Circle
+- [[Crown of Madness]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
@@ -181,6 +197,7 @@
 ## Evocation Spells
 ### Cantrip
 - [[Acid Splash]]
+- [[Control Flames]]
 - [[Poison Spray]]
 ### 1st Circle
 - [[Burning Hands]]
@@ -189,6 +206,8 @@
 - [[Luz]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
+### 2nd Circle
+- [[Continual Flame]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Relâmpago]]
@@ -197,9 +216,12 @@
 ### Cantrip
 - [[Primal Savagery]]
 ### 1st Circle
+- [[Animal Friendship]]
+- [[Beast Bond]]
 - [[Detectar Ameaças]]
 - [[Teia]]
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Enhance Ability]]
 - [[Web]]
 ### 3rd Circle
@@ -207,19 +229,26 @@
 - [[Toque Vampírico]]
 
 ## Fire Spells
+### Cantrip
+- [[Control Flames]]
+- [[Create Bonfire]]
 ### 1st Circle
 - [[Burning Hands]]
 - [[Chaos Bolt]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+### 2nd Circle
+- [[Continual Flame]]
 
 ## Holy Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
+- [[Compelled Duel]]
 - [[Detect Poison and Disease]]
 - [[Guiding Bolt]]
 - [[Luz]]
 ### 2nd Circle
+- [[Darkvision]]
 - [[Lesser Restoration]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -227,6 +256,8 @@
 - [[Raio Solar]]
 
 ## Ilusion Spells
+### Cantrip
+- [[Control Flames]]
 ### 1st Circle
 - [[Escuridão]]
 - [[Imagem Espelhada]]
@@ -300,6 +331,10 @@
 ### 2nd Circle
 - [[Barkskin]]
 
+## No-trickery Spells
+### 1st Circle
+- [[Compelled Duel]]
+
 ## No-wild Spells
 ### 1st Circle
 - [[Abençoar Alimentos]]
@@ -311,7 +346,9 @@
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Bane]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
+- [[Command]]
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
@@ -320,6 +357,7 @@
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+- [[Tentacle Twister]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
@@ -392,12 +430,14 @@
 
 ## Summon Spells
 ### Cantrip
+- [[Create Bonfire]]
 - [[Thorn Whip]]
 ### 1st Circle
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Fog Cloud]]
 - [[Goodberry]]
+- [[Tentacle Twister]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 
@@ -419,6 +459,7 @@
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
 ### 2nd Circle
+- [[Continual Flame]]
 - [[Enhance Ability]]
 ### 3rd Circle
 - [[Campo de Força]]
@@ -429,6 +470,7 @@
 
 ## Transmutation Spells
 ### Cantrip
+- [[Create Bonfire]]
 - [[Magic Stone]]
 ### 1st Circle
 - [[Arma Mágica]]
@@ -438,6 +480,8 @@
 - [[Primor Atlético]]
 - [[Thunderwave]]
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 ### 3rd Circle
@@ -450,6 +494,9 @@
 - [[Booming Blade]]
 ### 1st Circle
 - [[Caminhos da Natureza]]
+- [[Cause Fear]]
+- [[Charm Person]]
+- [[Command]]
 - [[Controlar Plantas]]
 - [[Detectar Ameaças]]
 - [[Enfeitiçar]]
@@ -462,6 +509,8 @@
 - [[Snare]]
 - [[Tranquilidade]]
 ### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
 - [[Earthbind]]
 - [[Ray of Enfeeblement]]
 - [[Web]]
@@ -479,7 +528,10 @@
 - [[Escuridão]]
 - [[Fog Cloud]]
 - [[Infligir Ferimentos]]
+- [[Tentacle Twister]]
 ### 2nd Circle
+- [[Crown of Madness]]
+- [[Darkvision]]
 - [[Ray of Enfeeblement]]
 ### 3rd Circle
 - [[Life Transference]]
@@ -493,6 +545,7 @@
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Detectar Ameaças]]
 - [[Escudo]]
@@ -511,9 +564,11 @@
 
 ## Wild Spells
 ### Cantrip
+- [[Create Bonfire]]
 - [[Primal Savagery]]
 - [[Thorn Whip]]
 ### 1st Circle
+- [[Animal Friendship]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
@@ -523,8 +578,10 @@
 - [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Teia]]
+- [[Tentacle Twister]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Beast Sense]]
 - [[Enhance Ability]]
 - [[Web]]
 ### 3rd Circle

@@ -3,11 +3,14 @@
 ### Cantrip
 - [[Booming Blade]]
 - [[Chill Touch]]
+- [[Control Flames]]
 - [[Toll the Dead]]
 
 ### 1st Circle
 - [[Bane]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
+- [[Command]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Escuridão]]
@@ -21,6 +24,7 @@
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+- [[Tentacle Twister]]
 
 ### 2nd Circle
 - [[Earthbind]]
@@ -80,6 +84,22 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 - **+3 PM:** a imagem do alvo fica mais distorcida, oferecendo camuflagem total.
 - **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo.
 
+### Cause Fear
+  <div class="spell-tags">curse trickery enchantment occult</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 12sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+- **+2PM:** target one additional creature
+
+{{pageNumber,auto}}
+\page
 ### Chaos Bolt
   <div class="spell-tags">occult unholy evocation energy fire lighning cold thaumaturgy</div>
 
@@ -104,8 +124,7 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 - **+1PM:** aumenta o dano em 1d6
 
-{{pageNumber,auto}}
-\page
+
 ### Chill Touch
   <div class="spell-tags">cold energy unholy occult</div>
 
@@ -122,6 +141,46 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 - **+2 PM:** Increase the damage by 1d6.
 
 
+### Command
+  <div class="spell-tags">enchantment trickery curse occult</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** 1 rodada..
+
+___
+You speak a one-word command to a creature you can see within range.  
+The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.  
+- **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.  
+- **Drop** The target drops whatever it is holding and then ends its turn.  
+- **Flee** The target spends its turn moving away from you by the fastest available means.  
+- **Grovel** The target falls prone and then ends its turn.  
+- **Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air. 
+
+- **+2PM:** target an additional creature
+
+
+### Control Flames
+  <div class="spell-tags">evocation fire ilusion</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 12sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediato ou 1 hora..
+
+___
+You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:  
+- You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.  
+- You instantaneously extinguish the flames within the cube.  
+- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.  
+- You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.  
+If you cast this spell multiple times, you can have up to three non-instantaneous flames.
+
+{{pageNumber,auto}}
+\page
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -163,8 +222,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 ___
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 ### Escuridão
   <div class="spell-tags">occult unholy trickery ilusion</div>
 
@@ -184,7 +242,8 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo.
 - **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo.
 
-
+{{pageNumber,auto}}
+\page
 ### False Life
   <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
@@ -226,8 +285,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 
 ___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-{{pageNumber,auto}}
-\page
+
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
 
@@ -242,7 +300,8 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-
+{{pageNumber,auto}}
+\page
 ### Imagem Espelhada
   <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -293,8 +352,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+3 PM:** muda a duração para cena. Requer 5º círculo.
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo.
 - **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -306,7 +364,8 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 ### Life Transference
   <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -316,7 +375,9 @@ You touch a creature and can end either one disease or one condition afflicting 
 - **Duração:** Instantaneous.
 
 ___
-DESCRIPTION_NOT_FOUND
+You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
+
+- **+1 PM:** aumenta o dano em 1d8
 
 ### Luz
   <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
@@ -350,8 +411,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+1 PM:** aumenta o alcanse em 1 passo
 - **+2 PM:** aumenta a cura em 1d4
 - **+2 PM:** aumenta o número de alvos em 2
-{{pageNumber,auto}}
-\page
+
 ### Oração
   <div class="spell-tags">wind nature sacred boost occult curse enchantment trickery</div>
 
@@ -362,8 +422,15 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **Duração:** sustentada.
 
 ___
-DESCRIPTION_NOT_FOUND
+ Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de dano, e todos os seus inimigos no alcance sofrem –2 em testes de perícia e rolagens de dano. Esses bônus e penalidades são cumulativos com outras magias.
 
+- **+2 PM:** aumenta os bônus em +1.
+- **+2 PM:** aumenta as penalidades em –1.
+- **+7 PM:** muda o alcance para médio. Requer 5º círculo.
+- **+12 PM:** muda a duração para cena. Requer 7º círculo
+
+{{pageNumber,auto}}
+\page
 ### Perdição
   <div class="spell-tags">curse occult</div>
 
@@ -411,8 +478,7 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -424,7 +490,8 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -470,6 +537,23 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+2 PM:** aumenta o dano em +1d6.
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
+
+
+### Tentacle Twister
+  <div class="spell-tags">occult unholy summon wild</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 2sqr radius;
+- **Alvo:** pessoal;
+- **Duração:** imediata..
+
+___
+You invoke the power of Hadar, the Dark Hunger.  
+Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect. 
+
+- **+1PM:** increase damage by +1d6
+- **+3PM:** increase the radius by 1sqr
 
 {{pageNumber,auto}}
 \page

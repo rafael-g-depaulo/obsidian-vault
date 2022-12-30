@@ -1,5 +1,6 @@
 ### Greater Restoration
 *5th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** diamond dust worth at least 100 gp, which the spell consumes

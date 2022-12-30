@@ -1,5 +1,6 @@
 ### Holy Weapon
 *5th Circle*
+___
 - **Casting time:** 1 Movement Action
 - **Range:** Touch
 - **Duration:** Concentration

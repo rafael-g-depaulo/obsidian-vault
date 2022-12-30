@@ -1,7 +1,6 @@
 ### Pele de Pedra
 *5º Círculo*
 ___
-
 - **Execução:** padrão
 - **Alcance:** pessoal
 - **Alvo:** você

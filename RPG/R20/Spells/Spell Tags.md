@@ -55,7 +55,11 @@ by nature:
   - #poison
   - #acid
   - #necrotic
-- #physical (maybe not needed)
+- asdsad (special damage types?)
+	- radiant
+	- psyquic
+	- magic??????
+- #physical (maybe not needed. hasn't been needed yet)
   - #slashing
   - #bludgeoning
   - #piercing

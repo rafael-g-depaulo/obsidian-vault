@@ -1,6 +1,7 @@
 #spell #unholy #occult #feral #wild #necromancy #necrotic #decay #recovery #no-sacred
 ### Life Transference
 *3rd Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 30 feet
 - **Duration:** Instantaneous

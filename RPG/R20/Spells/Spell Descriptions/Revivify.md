@@ -1,5 +1,6 @@
 ### Revivify
 *3rd Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** diamonds worth 300 gp, which the spell consumes

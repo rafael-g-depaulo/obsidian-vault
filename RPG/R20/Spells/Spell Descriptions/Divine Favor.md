@@ -1,34 +1,11 @@
-### Spell Name
-*XXº Círculo*
+#spell #warmagic #holy #sacred #evocation #thaumaturgy 
+### Divine Favor
+*1º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
-- **Alvo:** 1 criatura
+- **Execução:** Movimento
+- **Alcance:** pessoal
 - **Duração:** concentração.
 
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit. (change to fire? holy? energy? interesting design decisions to make...)
 
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
-#   
-Divine Favor
-
-Evocation
-
-Level: **1**  
-Casting time: **1 Bonus Action**  
-Range: **Self**  
-Components: **V, S**  
-Duration: **Concentration, up to 1 minute**  
-
----
-
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit.
-
----
-
-Page: 234 Players Handbook
-
----
-
-A [Paladin](https://www.dnd-spells.com/spells/class/Paladin), spell
+- **+2PM:** +1d6 damage

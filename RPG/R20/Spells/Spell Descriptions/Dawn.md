@@ -1,5 +1,6 @@
 ### Dawn
 *5th Circle*
+___
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** a sunburst pendant worth at least 100 gp

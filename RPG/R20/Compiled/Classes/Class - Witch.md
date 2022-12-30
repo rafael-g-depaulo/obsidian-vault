@@ -102,11 +102,14 @@ Spell List:
 ### Cantrip
 - [[Booming Blade]]
 - [[Chill Touch]]
+- [[Control Flames]]
 - [[Toll the Dead]]
 
 ### 1st Circle
 - [[Bane]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
+- [[Command]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Escuridão]]
@@ -120,6 +123,7 @@ Spell List:
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
+- [[Tentacle Twister]]
 
 ### 2nd Circle
 - [[Earthbind]]

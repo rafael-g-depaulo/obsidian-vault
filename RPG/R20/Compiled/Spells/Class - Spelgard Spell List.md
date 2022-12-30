@@ -7,6 +7,7 @@
 - [[Burning Hands]]
 - [[Bênção]]
 - [[Chaos Bolt]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -20,6 +21,7 @@
 
 ### 2nd Circle
 - [[Aid]]
+- [[Continual Flame]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
@@ -149,6 +151,25 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 - **+1PM:** aumenta o dano em 1d6
 
 
+### Compelled Duel
+  <div class="spell-tags">warmagic holy enchantment no-trickery</div>
+
+*1st Circle*
+- **Execução:** movimento;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.  
+  
+The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
+
+- **+XPM:** you gain an offensive buff against the target
+- **+XPM:** both you and the target have +# movement speed when running towards eachother
+
+{{pageNumber,auto}}
+\page
 ### Concentração de Combate
   <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
 
@@ -164,8 +185,21 @@ Você amplia sua percepção, antecipando movimentos dos inimigos e achando brec
 - **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo.
 - **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo.
 
-{{pageNumber,auto}}
-\page
+
+### Continual Flame
+  <div class="spell-tags">creation fire thaumaturgy evocation</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** toque;
+- **Alvo:** 1 criatura;
+- **Duração:** indeterminada (até ser destruída)..
+
+___
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
+The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
+
+
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -194,7 +228,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
+{{pageNumber,auto}}
+\page
 ### Enhance Ability
   <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
 
@@ -237,8 +272,7 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-{{pageNumber,auto}}
-\page
+
 ### Escudo
   <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
 
@@ -274,7 +308,8 @@ Um leque de chamas irrompe de suas mãos,  ausando 2d6 pontos de dano de fogo à
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar,  ica em chamas (veja Condições, no Apêndice). 
 
 
-
+{{pageNumber,auto}}
+\page
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire energy warmagic arcane</div>
 
@@ -305,8 +340,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-{{pageNumber,auto}}
-\page
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -333,7 +367,8 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-
+{{pageNumber,auto}}
+\page
 ### Primor Atlético
   <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
 
@@ -363,8 +398,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-{{pageNumber,auto}}
-\page
+
 ### Toque Chocante
   <div class="spell-tags">lighning energy evocation thaumaturgy warmagic arcane</div>
 

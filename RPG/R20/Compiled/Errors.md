@@ -1,25 +1,35 @@
 # Compiling Errors
 Here's a list of all of the errors found.
 
+## Tag Group Hierarchy
+- [[Animal Friendship]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Beast Bond]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
+- [[Beast Bond]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Beast Bond]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Beast Sense]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Blindness Deafness]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Blindness Deafness]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Compelled Duel]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Compelled Duel]] Spell has tag "warmagic" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Continual Flame]] Spell has tag "creation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Continual Flame]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
+- [[Control Flames]] Spell has tag "ilusion" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Control Flames]] Spell has tag "evocation" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
+- [[Control Flames]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
+- [[Create Bonfire]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Create Bonfire]] Spell has tag "fire" but is missing it's group tag "energy" (or you can add "#no-energy")
+- [[Crown of Madness]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Crown of Madness]] Spell has tag "unholy" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Darkvision]] Spell has tag "unholy" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Darkvision]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Darkvision]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Darkvision]] Spell has tag "divination" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+
 ## Spell Tag
-- [[Animal Friendship]] Spell should have either "wip" or "spell" tag
-- [[Arms of Hadar]] Spell should have either "wip" or "spell" tag
-- [[Beast Bond]] Spell should have either "wip" or "spell" tag
-- [[Beast Sense]] Spell should have either "wip" or "spell" tag
 - [[Blade Barrier]] Spell should have either "wip" or "spell" tag
-- [[Blindness Deafness]] Spell should have either "wip" or "spell" tag
 - [[Calm Emotions]] Spell should have either "wip" or "spell" tag
-- [[Cause Fear]] Spell should have either "wip" or "spell" tag
-- [[Charm Person]] Spell should have either "wip" or "spell" tag
 - [[Cloud of Daggers]] Spell should have either "wip" or "spell" tag
-- [[Command]] Spell should have either "wip" or "spell" tag
-- [[Compelled Duel]] Spell should have either "wip" or "spell" tag
 - [[Contagion]] Spell should have either "wip" or "spell" tag
-- [[Continual Flame]] Spell should have either "wip" or "spell" tag
-- [[Control Flames]] Spell should have either "wip" or "spell" tag
-- [[Create Bonfire]] Spell should have either "wip" or "spell" tag
-- [[Crown of Madness]] Spell should have either "wip" or "spell" tag
-- [[Darkvision]] Spell should have either "wip" or "spell" tag
 - [[Dawn]] Spell should have either "wip" or "spell" tag
 - [[Desintegrar]] Spell should have either "wip" or "spell" tag
 - [[Dissonant Whispers]] Spell should have either "wip" or "spell" tag
@@ -93,25 +103,6 @@ Here's a list of all of the errors found.
 - [[Zephyr Strike]] Spell should have either "wip" or "spell" tag
 
 ## Missing Description
-- [[Contagion]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Dawn]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Despedaçar]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Fire Storm]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Flame Strike]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Frostbite]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Greater Restoration]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Harm]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Heal]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Holy Weapon]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Insect Plague]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Life Transference]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Manto do Cruzado]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Mass Cure Wounds]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Oração]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Pele de Pedra]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Primal Savagery]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Ray of Frost]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Regenerate]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Resistance]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Revivify]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Sopro da Salvação]] Spell is missing a description (or more likely the description is in the wrong format)
