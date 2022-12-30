@@ -1,12 +1,19 @@
-### Spell Name Template
-*XXº Círculo*
-___
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** imediata.
+{{spell-definition "SPELL_NAME_HERE "
+LEVEL: 2
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: imediata
+%%CRIT: 20/2x%%
+RESISTANCE: DEX
+%%TAGS:%%
 
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+DESCRIPTION:
+LALALALALALALALALALA
 
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+|      |             |
+
+}}

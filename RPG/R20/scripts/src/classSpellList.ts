@@ -1,60 +1,14 @@
-import { joinInGroupsOf } from './arrayUtils'
+import {
+  makeSpellDescriptionsListString,
+  makeSpellListString,
+} from './businessLogic/spellList'
 import { CompileRulesDeps, processContent } from './compileBook/index'
 import { matchGroups } from './regexUtils'
-import { Spell, spellDescriptionItems, SpellDescriptionItems } from './spell'
-import { groupByLevel } from './spellList'
-import { spellLevelStr, spellListItem } from './stringOutputUtils'
+
 import { createSpellList, TagRules } from './tagRules'
-import { isNotUndefined } from './typeUtils'
 
 export const getClassname = (filename: string) =>
   matchGroups(filename, /^Class - (?<className>.+)\.md$/).className
-
-export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
-  `## ${groupName} Spells\n\n` +
-  groupByLevel(spells)
-    .map(
-      ([level, spells]) =>
-        `### ${spellLevelStr(Number(level))}\n` +
-        spells.map(spellListItem).join('\n')
-    )
-    .join('\n\n')
-
-const SpellItemLabelName: { [k in SpellDescriptionItems]: string } = {
-  castTime: 'Execução',
-  range: 'Alcance',
-  target: 'Alvo',
-  duration: 'Duração',
-  critical: 'Crítico',
-  resistence: 'Resistência',
-}
-
-const spellDescriptionItemsString = (spell: Spell) =>
-  spellDescriptionItems
-    .filter(key => isNotUndefined(spell.items[key]))
-    .map(key => `- **${SpellItemLabelName[key]}:** ${spell.items[key]}`)
-    .join(';\n') + '.\n'
-
-const makeSpellDescriptionString = (spell: Spell) =>
-  `### ${spell.name}
-  <div class="spell-tags">${spell.tags
-    .filter(tag => tag !== 'spell')
-    .join(' ')}</div>
-
-*${spellLevelStr(spell.level)}*
-${spellDescriptionItemsString(spell)}
-___
-${spell.description}
-`
-
-export const makeSpellDescriptionsListString = (spells: Spell[]) =>
-  joinInGroupsOf(4)(
-    spells
-      .sort((a, b) => a.name.localeCompare(b.name))
-      .map(makeSpellDescriptionString)
-  )
-    .map(group => group.join('\n'))
-    .join('{{page-break}}')
 
 export const makeClassSpellList = (
   classname: string,

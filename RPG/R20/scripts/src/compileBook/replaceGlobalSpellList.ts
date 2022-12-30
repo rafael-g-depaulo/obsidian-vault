@@ -2,7 +2,7 @@ import { asyncPipe } from '../arrayUtils'
 import {
   makeSpellDescriptionsListString,
   makeSpellListString,
-} from '../classSpellList'
+} from '../businessLogic/spellList'
 import { searchPathRecursively } from '../file'
 import { searchMacro } from '../macros/parseMacro'
 import { replaceMacro } from '../macros/replaceMacro'

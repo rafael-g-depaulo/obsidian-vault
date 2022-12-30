@@ -1,10 +1,11 @@
 import { groupBy } from './arrayUtils'
-import { deleteFile, writeToFile } from './file'
+import { deleteFile, fileOrFolderExists, writeToFile } from './file'
 import { matchGroups } from './regexUtils'
-import { INVALID_DESCRIPTION, Spell } from './spell'
+import { Spell } from './businessLogic/spell'
 import { noTagRegex, TagGroups } from './tags'
 import { isNotNull } from './typeUtils'
 import { ValidatedSpells } from './validateSpell'
+import { join } from 'path'
 
 // types
 export type SpellError = { spell: Spell; message: string; kind: string }
@@ -70,14 +71,6 @@ const obeysTagGroupHierarchy =
         )
       )
   }
-const hasDescription: ErrorCheck = spell =>
-  spell.description === INVALID_DESCRIPTION
-    ? spellError(
-        spell,
-        'Missing Description',
-        `Spell is missing a description (or more likely the description is in the wrong format)`
-      )
-    : null
 
 // consolidate error parsers
 const isError = (e: SpellError | null): e is SpellError => !!e
@@ -92,11 +85,7 @@ export interface ErrorCheckerDeps {
 export const getErrorsWithSpell = ({
   tagGroups: hierarchy,
 }: ErrorCheckerDeps) =>
-  createErrorCheckerThing(
-    hasSpellOrWipTag,
-    obeysTagGroupHierarchy(hierarchy),
-    hasDescription
-  )
+  createErrorCheckerThing(hasSpellOrWipTag, obeysTagGroupHierarchy(hierarchy))
 
 const writeOutError = (error: SpellError) =>
   `- [[${error.spell.name}]] ${error.message}`
@@ -115,9 +104,10 @@ export const writeOutErrors = (errors: SpellError[]): string =>
 
 export const dealWithErrors =
   (folder: string, filename: string) =>
-  ({ spells, errors }: ValidatedSpells) => {
+  async ({ spells, errors }: ValidatedSpells) => {
     if (errors.length > 0) writeToFile(folder, filename, writeOutErrors(errors))
-    else deleteFile(folder, filename)
+    else if (await fileOrFolderExists(join(folder, filename)))
+      deleteFile(folder, filename)
 
     return spells
   }

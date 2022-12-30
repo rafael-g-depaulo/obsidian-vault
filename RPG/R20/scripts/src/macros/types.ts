@@ -26,7 +26,7 @@ export type ArchetypeDefinitionMacro = Macro<
 >
 
 export const getStringArr = (item: MacroItem) =>
-  typeof item === 'string' ? [item] : item
+  typeof item === 'string' ? [item] : !item ? [] : item
 export const getString = (item: MacroItem) =>
   !item ? undefined : typeof item === 'string' ? item : item.join('.')
 export const getNumber = (item: MacroItem) =>

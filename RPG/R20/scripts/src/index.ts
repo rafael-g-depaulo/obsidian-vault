@@ -1,16 +1,14 @@
 import { join } from 'path'
 import { Archetype, parseArchetype } from './businessLogic/archetype'
-import {
-  getClassname,
-  makeSpellListString,
-  makeClassSpellList,
-} from './classSpellList'
+import { Spell } from './businessLogic/spell'
+import { makeSpellListString } from './businessLogic/spellList'
+import { getClassname, makeClassSpellList } from './classSpellList'
 import { compileRules, CompileRulesDeps, processContent } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 import { searchMacros } from './macros/parseMacro'
 
-import { readSpells, Spell } from './spell'
+import { readSpells } from './spell'
 import { parseTagRules, TagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
 import { validateSpells } from './validateSpell'
@@ -37,8 +35,8 @@ const rulebookFile = 'R20 - rulebook.md'
 // clean results
 const cleanResults = async () =>
   Promise.all([
-    await cleanFolder(CompiledFolder),
-    await cleanFolder(CompiledSpelllistsFolder),
+    // await cleanFolder(CompiledFolder),
+    // await cleanFolder(CompiledSpelllistsFolder),
   ])
 
 interface Content {

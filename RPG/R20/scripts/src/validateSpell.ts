@@ -1,5 +1,5 @@
 import { ErrorCheckerDeps, getErrorsWithSpell, SpellError } from './error'
-import { Spell } from './spell'
+import { Spell } from './businessLogic/spell'
 
 export type ValidatedSpell = { spell: null | Spell; errors: SpellError[] }
 export type ValidatedSpells = { spells: Spell[]; errors: SpellError[] }

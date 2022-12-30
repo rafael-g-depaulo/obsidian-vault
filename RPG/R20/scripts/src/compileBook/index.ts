@@ -1,8 +1,8 @@
 import { join } from 'path'
 import { asyncPipe } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
+import { Spell } from '../businessLogic/spell'
 import { readFile } from '../file'
-import { Spell } from '../spell'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
 import {

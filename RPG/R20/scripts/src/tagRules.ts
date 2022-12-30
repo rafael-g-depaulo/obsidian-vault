@@ -1,6 +1,6 @@
 import { searchMacro } from './macros/parseMacro'
 import { getNumber, getStringArr, SpellListMacro } from './macros/types'
-import { Spell } from './spell'
+import { Spell } from './businessLogic/spell'
 
 type LevelRules = {}
 export type TagRules = {

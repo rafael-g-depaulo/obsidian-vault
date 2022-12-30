@@ -1,6 +1,7 @@
-import { makeSpellListString } from '../classSpellList'
+import { Spell } from '../businessLogic/spell'
+import { makeSpellListString } from '../businessLogic/spellList'
 import { replaceMacro } from '../macros/replaceMacro'
-import { Spell } from '../spell'
+
 import { createSpellList, parseTagRules } from '../tagRules'
 
 export const replaceClassSpellLists = (allSpells: Spell[]) =>

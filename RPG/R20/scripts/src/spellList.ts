@@ -1,6 +1,7 @@
 import { groupBy } from './arrayUtils'
-import { Spell } from './spell'
-import { spellLevelStr, spellListItem } from './stringOutputUtils'
+import { Spell } from './businessLogic/spell'
+import { spellListItemString } from './businessLogic/spellList'
+import { spellLevelStr } from './stringOutputUtils'
 
 export const groupByLevel = (spells: Spell[]) =>
   Object.entries(groupBy((spell: Spell) => spell.level)(spells)).map<
@@ -26,6 +27,6 @@ export const makeTagSpellList = (tag: string, spells: Spell[]) =>
     .map(
       ([level, spells]) =>
         `### ${spellLevelStr(Number(level))}\n` +
-        spells.map(spellListItem).join('\n')
+        spells.map(spellListItemString).join('\n')
     )
     .join('\n')
