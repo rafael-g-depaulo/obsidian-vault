@@ -1,4 +1,4 @@
-#spell #creation #arcane #warmagic #thaumaturgy 
+#spell #creation #warmagic #thaumaturgy #arcane 
 ### Sword Burst
 *Truque*
 ___

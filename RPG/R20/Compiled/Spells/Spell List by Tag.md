@@ -27,10 +27,7 @@
 
 ## Arcane Spells
 ### Cantrip
-- [[Blade Ward]]
-- [[Booming Blade]]
 - [[Create Bonfire]]
-- [[Green Flame Blade]]
 - [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
@@ -44,27 +41,17 @@
 - [[Armor of Agathys]]
 - [[Beast Bond]]
 - [[Catapult]]
-- [[Compelled Duel]]
-- [[Concentração de Combate]]
 - [[Detectar Ameaças]]
-- [[Divine Favor]]
 - [[Earth Tremor]]
-- [[Escudo]]
 - [[False Life]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
-- [[Guiding Bolt]]
 - [[Luz]]
 - [[Magic Missile]]
-- [[Primor Atlético]]
-- [[Searing Smite]]
 - [[Teia]]
-- [[Thunderous Smite]]
 - [[Thunderwave]]
-- [[Toque Chocante]]
 - [[Área Escorregadia]]
 ### 2nd Circle
-- [[Barkskin]]
 - [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Continual Flame]]
@@ -75,11 +62,9 @@
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
 - [[Spike Growth]]
-- [[Warding Bond]]
 - [[Warding Wind]]
 - [[Web]]
 ### 3rd Circle
-- [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
@@ -87,8 +72,6 @@
 - [[Sopro das Uivantes]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Zephyr Strike]]
 
 ## Boost Spells
 ### Cantrip
@@ -103,6 +86,7 @@
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Primor Atlético]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
@@ -118,14 +102,6 @@
 - [[Oração]]
 ### 5th Circle
 - [[Transformação de Guerra]]
-### -1th Circle
-- [[Zephyr Strike]]
-
-## Chronomancy Spells
-### 1st Circle
-- [[Concentração de Combate]]
-- [[Feather Fall]]
-- [[Longstrider]]
 
 ## Cold Spells
 ### Cantrip
@@ -143,6 +119,7 @@
 - [[Sword Burst]]
 - [[Thorn Whip]]
 ### 1st Circle
+- [[Armor of Agathys]]
 - [[Fog Cloud]]
 - [[Luz]]
 - [[Magic Missile]]
@@ -279,10 +256,9 @@
 - [[Dissonant Whispers]]
 - [[Divine Favor]]
 - [[Magic Missile]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Crown of Madness]]
-### -1th Circle
-- [[Zephyr Strike]]
 
 ## Evocation Spells
 ### Cantrip
@@ -344,7 +320,6 @@
 ## Force Spells
 ### 1st Circle
 - [[Magic Missile]]
-### -1th Circle
 - [[Zephyr Strike]]
 
 ## Holy Spells
@@ -407,6 +382,7 @@
 - [[Healing Word]]
 - [[Thunderous Smite]]
 - [[Thunderwave]]
+- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Earthbind]]
@@ -418,8 +394,6 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Zephyr Strike]]
 
 ## Necromancy Spells
 ### 1st Circle
@@ -436,12 +410,6 @@
 - [[Life Transference]]
 - [[Toque Vampírico]]
 
-## No-arcane Spells
-### Cantrip
-- [[Shillelagh]]
-### 1st Circle
-- [[Hail of Thorns]]
-
 ## No-energy Spells
 ### 1st Circle
 - [[Thunderwave]]
@@ -453,18 +421,15 @@
 ## No-sacred Spells
 ### 1st Circle
 - [[Concentração de Combate]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Life Transference]]
-### -1th Circle
-- [[Zephyr Strike]]
 
 ## No-thaumaturgy Spells
 ### 1st Circle
 - [[Feather Fall]]
-### 2nd Circle
-- [[Barkskin]]
 
 ## No-trickery Spells
 ### 1st Circle
@@ -619,39 +584,55 @@
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
+- [[Booming Blade]]
 - [[Control Flames]]
 - [[Eldritch Blast]]
 - [[Fire Bolt]]
+- [[Green Flame Blade]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
+- [[Shillelagh]]
 - [[Sword Burst]]
 ### 1st Circle
+- [[Arma Mágica]]
 - [[Armor of Agathys]]
 - [[Burning Hands]]
 - [[Chaos Bolt]]
+- [[Compelled Duel]]
 - [[Concentração de Combate]]
+- [[Detectar Ameaças]]
+- [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[False Life]]
+- [[Guiding Bolt]]
+- [[Hail of Thorns]]
 - [[Imagem Espelhada]]
 - [[Longstrider]]
 - [[Luz]]
 - [[Mage Armor]]
 - [[Magic Missile]]
+- [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Searing Smite]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
+- [[Zephyr Strike]]
 ### 2nd Circle
+- [[Barkskin]]
 - [[Continual Flame]]
 - [[Continual Flame]]
 - [[Enhance Ability]]
+- [[Enlarge Reduce]]
 - [[Pass Without a Trace]]
 - [[Warding Bond]]
 - [[Warding Wind]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Flecha Ácida]]
+- [[Físico Divino]]
 - [[Relâmpago]]
 ### 5th Circle
 - [[Transformação de Guerra]]
@@ -668,7 +649,6 @@
 - [[Catapult]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
-- [[Primor Atlético]]
 - [[Thunderwave]]
 ### 2nd Circle
 - [[Blindness Deafness]]
@@ -767,17 +747,15 @@
 - [[Searing Smite]]
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
-- [[Enlarge Reduce]]
 - [[Enlarge Reduce]]
 - [[Warding Bond]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
-### -1th Circle
-- [[Zephyr Strike]]
 
 ## Water Spells
 ### Cantrip
@@ -829,6 +807,7 @@
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Thunderwave]]
+- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
 - [[Prayer of Healing]]
@@ -837,5 +816,3 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Sopro das Uivantes]]
-### -1th Circle
-- [[Zephyr Strike]]

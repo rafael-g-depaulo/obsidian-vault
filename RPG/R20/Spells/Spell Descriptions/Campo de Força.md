@@ -1,4 +1,4 @@
-#spell #abjuration #thaumaturgy #arcane #boost #sacred #warmagic 
+#spell #abjuration #thaumaturgy #boost #sacred #warmagic 
 ### Campo de Força
 *3º Círculo*
 ___

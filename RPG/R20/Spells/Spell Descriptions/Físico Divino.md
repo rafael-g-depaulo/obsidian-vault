@@ -1,4 +1,4 @@
-#spell #boost #sacred #transmutation #arcane #warmagic
+#spell #boost #sacred #transmutation #thaumaturgy #warmagic #arcane 
 ### Físico Divino
 *3º Círculo*
 ___

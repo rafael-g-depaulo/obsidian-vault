@@ -1,4 +1,4 @@
-#spell #plant #wild #boost #sacred #abjuration #no-thaumaturgy #arcane #warmagic 
+#spell #plant #wild #boost #sacred #abjuration #thaumaturgy #warmagic 
 ### Barkskin
 *2º Círculo*
 ___

@@ -1,4 +1,4 @@
-#spell #holy #sacred #fire #elemental #warmagic #arcane
+#spell #holy #sacred #fire #elemental #warmagic #thaumaturgy 
 ### Guiding Bolt
 *1st Circle*
 ___

@@ -1,4 +1,4 @@
-#spell #warmagic #holy #sacred #radiant #energy #arcane 
+#spell #warmagic #holy #sacred #radiant #energy #thaumaturgy 
 ### Divine Favor
 *1º Círculo*
 ___

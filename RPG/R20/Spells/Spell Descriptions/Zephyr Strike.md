@@ -1,9 +1,7 @@
-#spell #warmagic #energy #force #arcane #boost #no-sacred #wind #nature
-
+#spell #warmagic #energy #force #thaumaturgy #boost #no-sacred #wind #nature
 ### Zephyr Strike
-
-## _1º Círculo_
-
+*1º Círculo*
+___
 - **Execução:** movimento
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura

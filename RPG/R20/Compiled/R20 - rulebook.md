@@ -807,7 +807,6 @@ List of spells available for a Plantomancer to learn.
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
-- [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
 - [[Message]]
@@ -834,7 +833,6 @@ List of spells available for a Plantomancer to learn.
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
-- [[Divine Favor]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -849,9 +847,7 @@ List of spells available for a Plantomancer to learn.
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
-- [[Thunderous Smite]]
 - [[Thunderwave]]
-- [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
@@ -1109,6 +1105,7 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -2080,6 +2077,7 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 - remove physical tags. hasn't been an example yet of it being useful
 - maybe add a tag specifically for self combat buffs?
 - maybe remove summon from wild group. only do it after a concrete example shows up
+- maybe split up boost? like body modifying stuff and added energy/extra stuff
 
 ### Tag descriptions
 
@@ -2095,15 +2093,14 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #holy (sunlight, radiant, cleric stuff)
 - #arcane
   - #transmutation
-  - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
   - #divination (also all communication stuff)
 - #trickery
   - #ilusion
   - #enchantment
   - maybe add a "sound/word/speech" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
-- #thaumaturgy (general attack stuff + defense and time magic)
-  - #chronomancy
+- #thaumaturgy (general attack stuff + defense)
+  - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #evocation
   - #abjuration
 - #wild
@@ -2232,6 +2229,7 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Witch Bolt]]
+- [[Zephyr Strike]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
@@ -2276,9 +2274,6 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 
 ### 5th Circle
 - [[Transformação de Guerra]]
-
-### -1th Circle
-- [[Zephyr Strike]]
 
 {{pageNumber,auto}}
 \page
@@ -2370,7 +2365,7 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 
 
 ### Arma Mágica
-  <div class="spell-tags">arcane transmutation boost sacred warmagic</div>
+  <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -2385,7 +2380,7 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 
 
 ### Armor of Agathys
-  <div class="spell-tags">cold elemental abjuration warmagic arcane thaumaturgy</div>
+  <div class="spell-tags">cold elemental abjuration warmagic creation arcane thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -2415,7 +2410,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 {{pageNumber,auto}}
 \page
 ### Barkskin
-  <div class="spell-tags">plant wild boost sacred abjuration no-thaumaturgy arcane warmagic</div>
+  <div class="spell-tags">plant wild boost sacred abjuration thaumaturgy warmagic</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -2475,7 +2470,7 @@ Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênç
 {{pageNumber,auto}}
 \page
 ### Blade Ward
-  <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
+  <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -2519,7 +2514,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 
 ### Booming Blade
-  <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
+  <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -2583,7 +2578,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+2 PM**: aumenta o bônus de deslocamento em +3m.
 
 ### Campo de Força
-  <div class="spell-tags">abjuration thaumaturgy arcane boost sacred warmagic</div>
+  <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
 
 *3rd Circle*
 - **Execução:** padrão;
@@ -2745,7 +2740,7 @@ The target must succeed on a Wisdom saving throw or follow the command on its ne
 {{pageNumber,auto}}
 \page
 ### Compelled Duel
-  <div class="spell-tags">warmagic holy enchantment no-trickery sacred arcane</div>
+  <div class="spell-tags">warmagic holy enchantment no-trickery sacred thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento;
@@ -2763,7 +2758,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 
 ### Concentração de Combate
-  <div class="spell-tags">boost no-sacred chronomancy thaumaturgy warmagic arcane</div>
+  <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** livre;
@@ -2934,7 +2929,7 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ### Detectar Ameaças
-  <div class="spell-tags">divination feral wild arcane warmagic</div>
+  <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -2968,7 +2963,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 
 ### Divine Favor
-  <div class="spell-tags">warmagic holy sacred radiant energy arcane</div>
+  <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** Movimento;
@@ -3045,7 +3040,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 
 ### Enhance Ability
-  <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
+  <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -3065,7 +3060,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 - **+2PM:** aumente o número de alvos em 1
 
 ### Enlarge Reduce
-  <div class="spell-tags">transmutation boost sacred warmagic warmagic arcane</div>
+  <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -3111,7 +3106,7 @@ When the spell ends, the conjured plants wilt away.
 
 
 ### Escudo
-  <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
+  <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** reação;
@@ -3180,7 +3175,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 - **+1PM:** aumenta +1d4 nos PV temporários
 
 ### Feather Fall
-  <div class="spell-tags">transmutation wind chronomancy arcane no-thaumaturgy nature</div>
+  <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
 *1st Circle*
 - **Execução:** reação;
@@ -3207,7 +3202,7 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 - **+2PM:** aumente o dano em +1d10
 
 ### Físico Divino
-  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
+  <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
 
 *3rd Circle*
 - **Execução:** padrão;
@@ -3283,7 +3278,7 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 {{pageNumber,auto}}
 \page
 ### Green Flame Blade
-  <div class="spell-tags">warmagic arcane fire elemental</div>
+  <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -3311,7 +3306,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 
 ### Guiding Bolt
-  <div class="spell-tags">holy sacred fire elemental warmagic arcane</div>
+  <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** 1 Action;
@@ -3327,7 +3322,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 
 
 ### Hail of Thorns
-  <div class="spell-tags">warmagic plant wild no-arcane</div>
+  <div class="spell-tags">warmagic plant wild thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** livre (durante um ataque a distância);
@@ -3513,7 +3508,7 @@ The target must succeed on a Strength saving throw or be pulled up to 10 feet in
 
 
 ### Longstrider
-  <div class="spell-tags">boost sacred chronomancy thaumaturgy</div>
+  <div class="spell-tags">boost sacred thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -3774,7 +3769,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 - **+2 PM:** +1d8 acid damage.
 
 ### Primor Atlético
-  <div class="spell-tags">boost sacred transmutation arcane warmagic</div>
+  <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -3885,7 +3880,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 
 ### Searing Smite
-  <div class="spell-tags">fire elemental warmagic arcane</div>
+  <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento;
@@ -3924,7 +3919,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 {{pageNumber,auto}}
 \page
 ### Shillelagh
-  <div class="spell-tags">warmagic no-arcane plant wild</div>
+  <div class="spell-tags">warmagic thaumaturgy plant wild</div>
 
 *Cantrip*
 - **Execução:** movimento;
@@ -4051,7 +4046,7 @@ If you or any of your companions damage the target, the spell ends.
 {{pageNumber,auto}}
 \page
 ### Sword Burst
-  <div class="spell-tags">creation arcane warmagic thaumaturgy</div>
+  <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -4132,7 +4127,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 
 ### Thunderous Smite
-  <div class="spell-tags">warmagic water nature arcane</div>
+  <div class="spell-tags">warmagic water nature thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento;
@@ -4175,7 +4170,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 {{pageNumber,auto}}
 \page
 ### Toque Chocante
-  <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic arcane</div>
+  <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -4261,7 +4256,7 @@ If the target can hear you (thought it need not understand you), it must succeed
 
 
 ### Warding Bond
-  <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy arcane</div>
+  <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -4345,16 +4340,19 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 
 ### Zephyr Strike
-  <div class="spell-tags">warmagic energy force arcane boost no-sacred wind nature</div>
+  <div class="spell-tags">warmagic energy force thaumaturgy boost no-sacred wind nature</div>
 
-*-1th Circle*
+*1st Circle*
 - **Execução:** movimento;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
 ___
-DESCRIPTION_NOT_FOUND
+You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
+
 
 
 {{pageNumber,auto}}

@@ -1,4 +1,4 @@
-#spell #fire #elemental #warmagic #arcane 
+#spell #fire #elemental #warmagic #thaumaturgy 
 ### Searing Smite
 *1º Círculo*
 ___

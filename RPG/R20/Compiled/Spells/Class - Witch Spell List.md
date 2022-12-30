@@ -82,7 +82,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 
 ### Booming Blade
-  <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
+  <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
 
 *Cantrip*
 - **Execução:** padrão;

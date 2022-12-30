@@ -12,6 +12,7 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 - remove physical tags. hasn't been an example yet of it being useful
 - maybe add a tag specifically for self combat buffs?
 - maybe remove summon from wild group. only do it after a concrete example shows up
+- maybe split up boost? like body modifying stuff and added energy/extra stuff
 
 ### Tag descriptions
 

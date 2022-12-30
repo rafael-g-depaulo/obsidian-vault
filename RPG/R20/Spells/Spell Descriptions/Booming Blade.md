@@ -1,4 +1,4 @@
-#spell #warmagic #wind #trickery #curse #occult #arcane #nature 
+#spell #warmagic #wind #trickery #curse #occult #nature #thaumaturgy 
 ### Booming Blade
 *Truque*
 ___

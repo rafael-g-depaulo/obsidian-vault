@@ -1,4 +1,4 @@
-#spell #abjuration #warmagic #boost #sacred #thaumaturgy #arcane 
+#spell #abjuration #warmagic #boost #sacred #thaumaturgy
 ### Warding Bond
 *2º Círculo*
 ___

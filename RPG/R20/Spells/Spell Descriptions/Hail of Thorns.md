@@ -1,4 +1,4 @@
-#spell #warmagic #plant #wild #no-arcane 
+#spell #warmagic #plant #wild #thaumaturgy 
 ### Hail of Thorns
 *1º Círculo*
 ___

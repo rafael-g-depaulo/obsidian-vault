@@ -1,4 +1,4 @@
-#spell #warmagic #arcane #fire #elemental 
+#spell #warmagic #thaumaturgy #fire #elemental 
 ### Green Flame Blade
 *Truque*
 ___

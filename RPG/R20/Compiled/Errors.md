@@ -58,4 +58,3 @@ Here's a list of all of the errors found.
 - [[Silence]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Silent Image]] Spell is missing a description (or more likely the description is in the wrong format)
 - [[Snowball Swarm]] Spell is missing a description (or more likely the description is in the wrong format)
-- [[Zephyr Strike]] Spell is missing a description (or more likely the description is in the wrong format)

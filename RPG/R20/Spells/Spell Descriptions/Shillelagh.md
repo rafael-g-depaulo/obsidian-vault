@@ -1,4 +1,4 @@
-#spell #warmagic #no-arcane #plant #wild 
+#spell #warmagic #thaumaturgy #plant #wild 
 ### Shillelagh
 *Truque*
 ___

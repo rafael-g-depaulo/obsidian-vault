@@ -434,7 +434,6 @@ List of spells available for a Plantomancer to learn.
 ### Cantrip
 - [[Acid Splash]]
 - [[Blade Ward]]
-- [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
 - [[Message]]
@@ -461,7 +460,6 @@ List of spells available for a Plantomancer to learn.
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
-- [[Divine Favor]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -476,9 +474,7 @@ List of spells available for a Plantomancer to learn.
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
-- [[Thunderous Smite]]
 - [[Thunderwave]]
-- [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
@@ -736,6 +732,7 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
