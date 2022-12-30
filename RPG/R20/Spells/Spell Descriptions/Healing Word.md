@@ -4,17 +4,21 @@ TAGS:
 - #sacred
 - #speech
 - #no
--trickery
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Healing Word
 *1º Círculo*
 ___
-- **Casting time:** 1 Movement Action
-- **Range:** 60 feet
-- **Components:** V
-- **Duration:** Instantaneous
+CAST_TIME: 1 Movement Action
+RANGE: 60 feet
+COMPONENTS_TEMP_NOT_USED: V
+DURATION: Instantaneous
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **+2 PM:** aumenta a cura em 1d4
-- **+3 PM:** muda o casting para reação
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +2 PM | aumenta a cura em 1d4 |
+| +3 PM | muda o casting para reação |

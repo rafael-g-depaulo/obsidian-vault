@@ -4,18 +4,22 @@ TAGS:
 - #sacred
 - #speech
 - #no
--trickery 
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Mass Healing Word
 *3rd Circle*
 ___
-- **Casting time:** 1 Movement Action
-- **Range:** 30 feet
-- **Components:** V
-- **Duration:** Instantaneous
+CAST_TIME: 1 Movement Action
+RANGE: 30 feet
+COMPONENTS_TEMP_NOT_USED: V
+DURATION: Instantaneous
 
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **+1 PM:** aumenta o alcanse em 1 passo
-- **+2 PM:** aumenta a cura em 1d4
-- **+2 PM:** aumenta o número de alvos em 2
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +1 PM | aumenta o alcanse em 1 passo |
+| +2 PM | aumenta a cura em 1d4 |
+| +2 PM | aumenta o número de alvos em 2 |

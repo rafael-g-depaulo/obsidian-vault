@@ -6,15 +6,18 @@ TAGS:
 - #thaumaturgy
 - #boost
 - #no
--sacred #wind #nature
+- #sacred
+- #wind
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Zephyr Strike
 *1º Círculo*
 ___
-- **Execução:** movimento
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
+CAST_TIME: movimento
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: concentração.
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
 

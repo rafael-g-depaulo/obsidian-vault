@@ -5,17 +5,21 @@ TAGS:
 - #recovery
 - #sacred
 - #no
--trickery 
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Prayer of Healing
 *2nd Circle*
 ___
-- **Casting time:** 10 Minutes
-- **Range:** 30 feet
-- **Components:** V
-- **Duration:** Instantaneous
+CAST_TIME: 10 Minutes
+RANGE: 30 feet
+COMPONENTS_TEMP_NOT_USED: V
+DURATION: Instantaneous
 
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **+2 PM:** aumenta a cura em 1d8
-- **+2 PM:** aumenta o número de alvos em 2
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +2 PM | aumenta a cura em 1d8 |
+| +2 PM | aumenta o número de alvos em 2 |

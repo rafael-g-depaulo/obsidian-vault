@@ -2,9 +2,9 @@ INCORRECT_FORMAT_SPELL
 ### Contagion
 *5th Circle*
 ___
-- **Casting time:** 1 Action
-- **Range:** Touch
-- **Duration:** 7 days
+CAST_TIME: 1 Action
+RANGE: Touch
+DURATION: 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
 

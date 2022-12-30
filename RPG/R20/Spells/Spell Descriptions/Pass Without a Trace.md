@@ -10,9 +10,9 @@ INCORRECT_FORMAT_SPELL
 ### Pass Without a Trace
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: pessoal
+DURATION: concentração.
 
 A veil of shadows and silence radiates from you, masking you and your companions from detection.
 

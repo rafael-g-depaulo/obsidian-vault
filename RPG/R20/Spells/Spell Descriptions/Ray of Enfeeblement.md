@@ -10,10 +10,10 @@ INCORRECT_FORMAT_SPELL
 ### Ray of Enfeeblement
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 15sqr
-- **Alvo:** 1 criatura
-- **Duração:** imediata.
+CAST_TIME: padrão
+RANGE: 15sqr
+TARGET: 1 criatura
+DURATION: imediata.
 
 A black beam of enervating energy springs from your finger toward a creature within range.  
 

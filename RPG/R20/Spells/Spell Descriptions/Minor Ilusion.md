@@ -7,10 +7,10 @@ INCORRECT_FORMAT_SPELL
 ### Minor Ilusion
 *Truque*
 ___
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** cena.
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: cena.
 
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
   

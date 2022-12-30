@@ -14,10 +14,10 @@ INCORRECT_FORMAT_SPELL
 ### Enhance Ability
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** toque
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: toque
+TARGET: 1 criatura
+DURATION: concentração.
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.  
 - Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.  
@@ -27,4 +27,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 - Fox’s Cunning. The target has advantage on Intelligence checks.  
 - Owl’s Wisdom. The target has advantage on Wisdom checks.  
 
-- **+2PM:** aumente o número de alvos em 1
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +2PM | aumente o número de alvos em 1 |

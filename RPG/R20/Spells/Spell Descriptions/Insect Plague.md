@@ -2,10 +2,10 @@ INCORRECT_FORMAT_SPELL
 ### Insect Plague
 *5th Circle*
 ___
-- **Casting time:** 1 Action
-- **Range:** 300 feet
-- **Components:** a few grains of sugar, some kernels of grain, and a smear of fat
-- **Duration:** Concentration
+CAST_TIME: 1 Action
+RANGE: 300 feet
+COMPONENTS_TEMP_NOT_USED: a few grains of sugar, some kernels of grain, and a smear of fat
+DURATION: Concentration
 
 Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
 

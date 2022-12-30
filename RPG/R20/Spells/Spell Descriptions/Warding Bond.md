@@ -10,10 +10,10 @@ INCORRECT_FORMAT_SPELL
 ### Warding Bond
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** toque
-- **Alvo:** 1 criatura
-- **Duração:** cena.
+CAST_TIME: padrão
+RANGE: toque
+TARGET: 1 criatura
+DURATION: cena.
 
 This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
   

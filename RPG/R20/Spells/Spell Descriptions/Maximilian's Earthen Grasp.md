@@ -9,10 +9,10 @@ INCORRECT_FORMAT_SPELL
 ### Maximilian's Earthen Grasp
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** cena.
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: cena.
 
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
 
@@ -22,4 +22,7 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +3PM | increase all damage by +1d6 |

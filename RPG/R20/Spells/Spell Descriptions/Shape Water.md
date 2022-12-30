@@ -9,10 +9,10 @@ INCORRECT_FORMAT_SPELL
 ### Shape Water
 *Truque*
 ___
-- **Execução:** padrão
-- **Alcance:** 6sqp
-- **Alvo:** área de 1sqr
-- **Duração:** imediato ou cena.
+CAST_TIME: padrão
+RANGE: 6sqp
+TARGET: área de 1sqr
+DURATION: imediato ou cena.
 
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:  
   

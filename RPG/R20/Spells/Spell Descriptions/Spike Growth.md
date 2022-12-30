@@ -9,10 +9,10 @@ INCORRECT_FORMAT_SPELL
 ### Spike Growth
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 30sqr
-- **Alvo:** quadrado de lado 4sqr
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: 30sqr
+TARGET: quadrado de lado 4sqr
+DURATION: concentração.
 
 The ground in the radius centered twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.  
   

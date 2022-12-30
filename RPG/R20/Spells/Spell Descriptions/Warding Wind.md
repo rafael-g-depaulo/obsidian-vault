@@ -11,9 +11,9 @@ INCORRECT_FORMAT_SPELL
 ### Warding Wind
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: pessoal
+DURATION: concentração.
 
 A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.  
 The wind has the following effects:  

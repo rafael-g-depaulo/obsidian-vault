@@ -2,9 +2,9 @@ INCORRECT_FORMAT_SPELL
 ### Heal
 *6th Circle*
 ___
-- **Casting time:** 1 Action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+CAST_TIME: 1 Action
+RANGE: 60 feet
+DURATION: Instantaneous
 
 Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 50 hit points. The spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead. 
 

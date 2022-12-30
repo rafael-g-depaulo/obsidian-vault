@@ -9,10 +9,10 @@ INCORRECT_FORMAT_SPELL
 ### Message
 *Truque*
 ___
-- **Execução:** padrão
-- **Alcance:** 60sqr
-- **Alvo:** 1 criatura
-- **Duração:** 1 rodada.
+CAST_TIME: padrão
+RANGE: 60sqr
+TARGET: 1 criatura
+DURATION: 1 rodada.
 
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.  
   

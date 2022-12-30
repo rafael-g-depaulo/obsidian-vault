@@ -10,10 +10,10 @@ INCORRECT_FORMAT_SPELL
 ### Hideous Laughter
 *1º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: concentração.
 
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
   

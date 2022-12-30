@@ -11,10 +11,10 @@ INCORRECT_FORMAT_SPELL
 ### Control Flames
 *Truque*
 ___
-- **Execução:** padrão
-- **Alcance:** 12sqr
-- **Alvo:** 1 criatura
-- **Duração:** imediato ou 1 hora.
+CAST_TIME: padrão
+RANGE: 12sqr
+TARGET: 1 criatura
+DURATION: imediato ou 1 hora.
 
 You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:  
 - You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.  

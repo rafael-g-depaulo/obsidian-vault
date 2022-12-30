@@ -12,10 +12,10 @@ INCORRECT_FORMAT_SPELL
 ### Crown of Madness
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 20sqr
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: 20sqr
+TARGET: 1 criatura
+DURATION: concentração.
 
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
 While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
@@ -24,5 +24,8 @@ The charmed target must use its action before moving on each of its turns to mak
   
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
-- **+1PM:** the target also takes 1d8 psychic damage at the start of their turns
-- **+2PM:** increase the damage by +1d8
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +1PM | the target also takes 1d8 psychic damage at the start of their turns |
+| +2PM | increase the damage by +1d8 |

@@ -11,10 +11,13 @@ INCORRECT_FORMAT_SPELL
 ### Divine Favor
 *1º Círculo*
 ___
-- **Execução:** Movimento
-- **Alcance:** pessoal
-- **Duração:** concentração.
+CAST_TIME: Movimento
+RANGE: pessoal
+DURATION: concentração.
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
 
-- **+2PM:** +1d6 damage
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +2PM | +1d6 damage |

@@ -5,15 +5,18 @@ _XXº Círculo_
 
 ---
 
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** imediata.
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: imediata.
 
 Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+| +1 PM | Upgrade 1. |
+| +3 PM | Upgrade 2. |
 
 # Heroism
 

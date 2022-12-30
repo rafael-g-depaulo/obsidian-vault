@@ -11,10 +11,10 @@ INCORRECT_FORMAT_SPELL
 ### Enlarge/Reduce
 *2º Círculo*
 ___
-- **Execução:** padrão
-- **Alcance:** 6sqr
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: concentração.
 
 TODO: comparar com a versão do t20 e decidir qual usar
 
