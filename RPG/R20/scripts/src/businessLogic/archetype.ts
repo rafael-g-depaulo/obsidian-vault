@@ -1,6 +1,6 @@
 import { pad } from '../arrayUtils'
-import { getNumber, getString, getStringArr, Macro } from '../macros/types'
-import { parseMarkdownTable } from '../stringOutputUtils'
+import { getNumber, getString, Macro } from '../macros/types'
+import { joinFeatures, parseFeatures, parseMultiFeatures } from './features'
 
 export interface Archetype {
   name: string
@@ -11,32 +11,6 @@ export interface Archetype {
   features: string[][]
   multi_features: string[][]
   wide: boolean
-}
-
-const joinFeatures = (...features: string[][][]) =>
-  features.reduce((acc, cur) =>
-    acc.map((levelFeatures, i) => [...levelFeatures, ...cur[i]])
-  )
-
-export const parseFeatures = (featuresMarkdown: string) => {
-  const featuresArray = parseMarkdownTable(getString(featuresMarkdown) ?? '')
-    .map(([level, features]) => [parseInt(level), features.split(',')] as const)
-    .reduce<string[][]>((acc, [level, features]) => {
-      acc[level - 1] ??= []
-      acc[level - 1] = [...acc[level - 1], ...features]
-      return acc
-    }, [])
-
-  return pad(featuresArray, 20, [])
-}
-export const parseMultiFeatures = (multiFeaturesMarkdown: string) => {
-  const featuresArray = parseMarkdownTable(multiFeaturesMarkdown, true).map(
-    row => row.slice(1)
-  )
-
-  if (featuresArray.every(row => row.length === 1 && row[0] === ''))
-    return pad([], 21, [])
-  return pad(featuresArray, 21, [])
 }
 
 const makeASIFeatures = (ASI_levels: number[]) => {

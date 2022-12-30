@@ -1,6 +1,6 @@
 import { pad } from '../arrayUtils'
 import { getString, getStringArr, Macro } from '../macros/types'
-import { parseMultiFeatures } from './archetype'
+import { parseMultiFeatures } from './features'
 
 export interface Class {
   archetype: string
