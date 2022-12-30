@@ -1,8 +1,11 @@
 ### Spell Name
-*XXº Círculo*
-___
+
+_XXº Círculo_
+
+---
+
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
 
@@ -10,7 +13,7 @@ Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
 - **+1 PM:** Upgrade 1.
 - **+3 PM:** Upgrade 2.
-A Elemental Evil spell
+  A Elemental Evil spell
 
 Transmutation
 
@@ -18,7 +21,7 @@ Level: **Cantrip**
 Casting time: **1 Action**  
 Range: **30 feet**  
 Components: **V, S**  
-Duration: **Instantaneous**  
+Duration: **Instantaneous**
 
 ---
 

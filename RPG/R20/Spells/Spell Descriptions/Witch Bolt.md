@@ -1,8 +1,11 @@
 ### Witch Bolt
-*1º Círculo*
-___
+
+_1º Círculo_
+
+---
+
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
 
@@ -10,7 +13,9 @@ Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
 - **+1 PM:** Upgrade 1.
 - **+3 PM:** Upgrade 2.
-#   
+
+#
+
 Witch Bolt
 
 Evocation
@@ -19,7 +24,7 @@ Level: **1**
 Casting time: **1 Action**  
 Range: **30 feet**  
 Components: **V, S, M (a twig from a tree that has been struck by lightning)**  
-Duration: **Concentration, up to 1 minute**  
+Duration: **Concentration, up to 1 minute**
 
 ---
 

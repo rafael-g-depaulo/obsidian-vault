@@ -1,8 +1,11 @@
 ### Spell Name Template
-*XXº Círculo*
-___
+
+_XXº Círculo_
+
+---
+
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
 
@@ -10,7 +13,9 @@ Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
 - **+1 PM:** Upgrade 1.
 - **+3 PM:** Upgrade 2.
-#   
+
+#
+
 See invisibility
 
 Divination
@@ -19,7 +24,7 @@ Level: **2**
 Casting time: **1 Action**  
 Range: **Self**  
 Components: **V, S, M (a pinch of talc and a small sprinkling of powdered silver)**  
-Duration: **1 hour**  
+Duration: **1 hour**
 
 ---
 

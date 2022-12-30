@@ -1,8 +1,11 @@
 ### Spell Name Template
-*XXº Círculo*
-___
+
+_XXº Círculo_
+
+---
+
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
 
@@ -19,7 +22,7 @@ Level: **2**
 Casting time: **1 Action**  
 Range: **120 feet**  
 Components: **V, S**  
-Duration: **Concentration, up to 10 minutes**  
+Duration: **Concentration, up to 10 minutes**
 
 ---
 

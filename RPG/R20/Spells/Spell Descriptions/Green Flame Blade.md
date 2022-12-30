@@ -1,8 +1,11 @@
 ### Spell Name
-*XXº Círculo*
-___
+
+_XXº Círculo_
+
+---
+
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
 
@@ -10,12 +13,12 @@ Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
 - **+1 PM:** Upgrade 1.
 - **+3 PM:** Upgrade 2.
-  
+
 Level: **Cantrip**  
 Casting time: **1 Action**  
 Range: **Touch**  
 Components: **V, S**  
-Duration: **Concentration, up to 1 minute**  
+Duration: **Concentration, up to 1 minute**
 
 ---
 
