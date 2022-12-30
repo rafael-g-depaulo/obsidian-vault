@@ -23,17 +23,13 @@ const getSaves = (saves: string[]) =>
   `**Resistências:** ${saves.map(a => getAttbName(a as Attb)).join(', ')}.`
 
 const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
-  const features = pad(classDefinition.features, 20, '')
+  const features = classDefinition.features
     .map((levelFeatures, i) => {
       const featuresForLevel: string[] = levelFeatures
-        .split(', ')
         .filter(feat => feat !== '')
-      if (i > 0)
-        return [
-          `${classDefinition.name} Feat`,
-          ...featuresForLevel,
-          ...archetype.features[i],
-        ]
+        .concat(archetype.features[i])
+
+      if (i > 0) return [`${classDefinition.name} Feat`, ...featuresForLevel]
       return featuresForLevel
     })
     .map(featuresListForLevel => featuresListForLevel.join(', '))

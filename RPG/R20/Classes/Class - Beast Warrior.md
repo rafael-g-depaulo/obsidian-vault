@@ -6,26 +6,16 @@ SAVES:
 - SEN
 
 FEATURES:
-1. Rage (+2)
-2. 
-3. Defesa Animal
-4. 
-5. 
-6. 
-7. Rage (+3)
-8. Wild Senses (3)
-9. 
-10. 
-11. Rage (+4)
-12. 
-13. Wild Senses (4)
-14. 
-15. 
-16. Rage (+5)
-17. 
-18. Wild Senses (5)
-19. 
-20. 
+| LEVEL | FEATURE         |
+| ----- | --------------- |
+| 1     | Rage (+2)       |
+| 3     | Defesa Animal   |
+| 7     | Rage (+3)       |
+| 8     | Wild Senses (3) |
+| 11    | Rage (+4)       |
+| 13    | Wild Senses (4) |
+| 16    | Rage (+5)       |
+| 18    | Wild Senses (5)                |
 
 MULTI_FEATURES:
 | Level | Savage Attack |

@@ -6,26 +6,10 @@ SAVES:
 - INT
 
 FEATURES:
-1. Sneak Attack
-2. 
-3. Cunning Action
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+| LEVEL | FEATURE        |
+| ----- | -------------- |
+| 1     | Sneak Attack   |
+| 3     | Cunning Action | 
 
 MULTI_FEATURES:
 | Level | Sneak Attack | 

@@ -15,7 +15,7 @@
 ##### Alquimist (WIP)
 | Level | Proficiency Bonus | Features |
 | :---: | :---------------: | :------- | 
-| 1st | +1 |  |
+| 1st | +1 | Make Concoction? |
 | 2nd | +1 | Alquimist (WIP) Feat, Expertise |
 | 3rd | +2 | Alquimist (WIP) Feat |
 | 4th | +2 | Alquimist (WIP) Feat, Attribute Score Improvement |

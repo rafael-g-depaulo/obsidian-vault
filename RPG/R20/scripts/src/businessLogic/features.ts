@@ -9,7 +9,10 @@ export const joinFeatures = (...features: string[][][]) =>
 
 export const parseFeatures = (featuresMarkdown: string) => {
   const featuresArray = parseMarkdownTable(getString(featuresMarkdown) ?? '')
-    .map(([level, features]) => [parseInt(level), features.split(',')] as const)
+    .map(
+      ([level, features]) =>
+        [parseInt(level), features.split(',').map(f => f.trim())] as const
+    )
     .reduce<string[][]>((acc, [level, features]) => {
       acc[level - 1] ??= []
       acc[level - 1] = [...acc[level - 1], ...features]
@@ -18,6 +21,7 @@ export const parseFeatures = (featuresMarkdown: string) => {
 
   return pad(featuresArray, 20, [])
 }
+
 export const parseMultiFeatures = (multiFeaturesMarkdown: string) => {
   const featuresArray = parseMarkdownTable(multiFeaturesMarkdown, true).map(
     row => row.slice(1)

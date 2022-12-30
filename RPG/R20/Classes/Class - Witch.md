@@ -8,26 +8,10 @@ MP_ATTB: PRE
 SPELLCASTING_ATTB: PRE
 
 FEATURES:
-1. Hex
-2. Witch's Focus
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+| LEVEL | FEATURE       |
+| ----- | ------------- |
+| 1     | Hex           |
+| 2     | Witch's Focus | 
 
 MULTI_FEATURES:
 | Level | Witch's Focus |

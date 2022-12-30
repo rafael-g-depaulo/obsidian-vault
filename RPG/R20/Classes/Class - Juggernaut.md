@@ -6,26 +6,10 @@ SAVES:
 - CON
 
 FEATURES:
-1. Raise Guard, Guts
-2. Powerful Strike
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+| LEVEL | FEATURE           |
+| ----- | ----------------- |
+| 1     | Raise Guard, Guts |
+| 2     | Powerful Strike   |
 
 WIDE: true
 MULTI_FEATURES:

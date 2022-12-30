@@ -6,26 +6,10 @@ SAVES:
 - PRE
 
 FEATURES:
-1. Smite
-2. Lay on Hands
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+| LEVEL | FEATURE      |
+| ----- | ------------ |
+| 1     | Smite        |
+| 2     | Lay on Hands | 
 
 WIDE: true
 MULTI_FEATURES:

@@ -1,6 +1,6 @@
 import { pad } from '../arrayUtils'
 import { getString, getStringArr, Macro } from '../macros/types'
-import { parseMultiFeatures } from './features'
+import { parseFeatures, parseMultiFeatures } from './features'
 
 export interface Class {
   archetype: string
@@ -9,7 +9,7 @@ export interface Class {
   saves: string[]
   mpAttribute?: string
   spellcastingAttb?: string
-  features: string[]
+  features: string[][]
   multi_features: string[][]
   wide?: boolean
 }
@@ -17,7 +17,7 @@ export interface Class {
 export const parseClass = (classMacro: Macro): Class => ({
   archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
   equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
-  features: getStringArr(classMacro.items.FEATURES),
+  features: parseFeatures(getString(classMacro.items.FEATURES) ?? ''),
   multi_features: pad(
     parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
     21,
