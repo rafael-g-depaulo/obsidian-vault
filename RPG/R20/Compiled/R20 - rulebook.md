@@ -1068,7 +1068,54 @@ List of spells available for a Spelgard to learn.
 
 ##  Spells
 
+### Cantrip
+- [[Acid Splash]]
+- [[Blade Ward]]
+- [[Eldritch Blast]]
+- [[Fire Bolt]]
+- [[Green Flame Blade]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Sword Burst]]
+- [[Word of Radiance]]
 
+### 1st Circle
+- [[Arma Mágica]]
+- [[Armor of Agathys]]
+- [[Bless]]
+- [[Burning Hands]]
+- [[Bênção]]
+- [[Chaos Bolt]]
+- [[Compelled Duel]]
+- [[Concentração de Combate]]
+- [[Curar Ferimentos]]
+- [[Detect Poison and Disease]]
+- [[Divine Favor]]
+- [[Escudo]]
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Healing Word]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Primor Atlético]]
+- [[Ray of Sickness]]
+- [[Searing Smite]]
+- [[Thunderous Smite]]
+- [[Toque Chocante]]
+- [[Witch Bolt]]
+- [[Zephyr Strike]]
+
+### 2nd Circle
+- [[Aid]]
+- [[Continual Flame]]
+- [[Enhance Ability]]
+- [[Enlarge Reduce]]
+- [[Lesser Restoration]]
+- [[Prayer of Healing]]
+- [[Spider Climb]]
+- [[Warding Bond]]
 
 {{pageNumber,auto}}
 \page
@@ -2025,16 +2072,14 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 
 ### Considering:
 
-- maybe remove summon from wild group. only do it after a concrete example shows up
-- maybe separate curse into 2 different tags if the need arises
+- maybe separate curse into 2 different tags if the need arises (considering... sounds like maybe a good idea)
 - remove physical tags. hasn't been an example yet of it being useful
 - maybe add a tag specifically for self combat buffs?
+- maybe remove summon from wild group. only do it after a concrete example shows up
 
 ### Tag descriptions
 
 1. arcane: (general magic stuff. grease, prestidigitation, tiny hut and shit)
-
-by nature:
 
 - #occult
   - #curse (debuf)
@@ -2052,7 +2097,7 @@ by nature:
   - #ilusion
   - #divination (also all communication stuff)
   - #enchantment
-  - maybe add a "sound/word" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
+  - maybe add a "sound/word/speech" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
 - #thaumaturgy (general attack stuff + defense and time magic)
   - #chronomancy
   - #evocation

@@ -131,7 +131,8 @@ EXCLUDE_TAGS:
 - trickery
 - necromancy
 - plant
+- ilusion
 - summon
-MIN_LEVEL: 10
+MIN_LEVEL: 0
 MAX_LEVEL: 2
 }}
