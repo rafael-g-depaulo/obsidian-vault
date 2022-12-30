@@ -1,4 +1,8 @@
-#spell #wind #nature
+TAGS:
+- #spell
+- #wind
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Despedaçar
 *1º Círculo*

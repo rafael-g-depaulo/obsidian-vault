@@ -1,4 +1,10 @@
-#spell #wild #summon #enchantment #trickery 
+TAGS:
+- #spell
+- #wild
+- #summon
+- #enchantment
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Caminhos da Natureza
 *1º Círculo*

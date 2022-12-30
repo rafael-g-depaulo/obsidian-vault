@@ -1,4 +1,12 @@
-#spell #wind #nature #cold #elemental #creation #arcane
+TAGS:
+- #spell
+- #wind
+- #nature
+- #cold
+- #elemental
+- #creation
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Sopro das Uivantes
 *3º Círculo*

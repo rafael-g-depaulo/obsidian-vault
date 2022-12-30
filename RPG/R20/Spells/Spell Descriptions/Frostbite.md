@@ -1,4 +1,12 @@
-#spell #curse #elemental #cold #unholy #curse #occult 
+TAGS:
+- #spell
+- #curse
+- #elemental
+- #cold
+- #unholy
+- #curse
+- #occult
+
 INCORRECT_FORMAT_SPELL
 ### Frostbite
 *Truque*

@@ -1,4 +1,10 @@
-#spell #transmutation #wind #arcane #no-thaumaturgy #nature 
+TAGS:
+- #spell
+- #transmutation
+- #wind
+- #arcane
+- #no
+-thaumaturgy #nature 
 INCORRECT_FORMAT_SPELL
 ### Feather Fall
 *1º Círculo*

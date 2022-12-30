@@ -1,4 +1,12 @@
-#spell #necrotic #decay #feral #wild #unholy #occult
+TAGS:
+- #spell
+- #necrotic
+- #decay
+- #feral
+- #wild
+- #unholy
+- #occult
+
 INCORRECT_FORMAT_SPELL
 ### Toque Vampírico
 *3º Círculo*

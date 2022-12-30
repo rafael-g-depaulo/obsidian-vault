@@ -1,4 +1,9 @@
-#spell #abjuration #warmagic #thaumaturgy
+TAGS:
+- #spell
+- #abjuration
+- #warmagic
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Blade Ward
 *Truque*

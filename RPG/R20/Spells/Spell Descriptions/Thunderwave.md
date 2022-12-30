@@ -1,4 +1,11 @@
-#spell #transmutation #arcane #elemental #wind #nature 
+TAGS:
+- #spell
+- #transmutation
+- #arcane
+- #elemental
+- #wind
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Thunderwave
 *1º Círculo*

@@ -1,4 +1,10 @@
-#spell #earth #creation #arcane #nature
+TAGS:
+- #spell
+- #earth
+- #creation
+- #arcane
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Maximilian's Earthen Grasp
 *2º Círculo*

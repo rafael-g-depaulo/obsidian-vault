@@ -1,4 +1,10 @@
-#spell #recovery #sacred #speech #no-trickery
+TAGS:
+- #spell
+- #recovery
+- #sacred
+- #speech
+- #no
+-trickery
 INCORRECT_FORMAT_SPELL
 ### Healing Word
 *1º Círculo*

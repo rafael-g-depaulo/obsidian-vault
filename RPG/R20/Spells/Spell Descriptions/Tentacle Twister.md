@@ -1,4 +1,10 @@
-#spell #occult #unholy #summon #wild
+TAGS:
+- #spell
+- #occult
+- #unholy
+- #summon
+- #wild
+
 INCORRECT_FORMAT_SPELL
 ### Tentacle Twister
 *1º Círculo*

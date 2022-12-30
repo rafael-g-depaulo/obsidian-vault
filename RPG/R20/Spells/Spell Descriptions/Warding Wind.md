@@ -1,4 +1,12 @@
-#spell #wind #nature #abjuration #thaumaturgy #transmutation #arcane 
+TAGS:
+- #spell
+- #wind
+- #nature
+- #abjuration
+- #thaumaturgy
+- #transmutation
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Warding Wind
 *2º Círculo*

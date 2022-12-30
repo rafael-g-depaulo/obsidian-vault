@@ -1,4 +1,11 @@
-#spell #abjuration #warmagic #boost #sacred #thaumaturgy
+TAGS:
+- #spell
+- #abjuration
+- #warmagic
+- #boost
+- #sacred
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Warding Bond
 *2º Círculo*

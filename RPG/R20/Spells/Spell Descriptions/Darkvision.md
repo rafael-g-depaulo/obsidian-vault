@@ -1,4 +1,12 @@
-#spell #holy #divination #transmutation #sacred #arcane #boost
+TAGS:
+- #spell
+- #holy
+- #divination
+- #transmutation
+- #sacred
+- #arcane
+- #boost
+
 INCORRECT_FORMAT_SPELL
 ### Darkvision
 *2º Círculo*

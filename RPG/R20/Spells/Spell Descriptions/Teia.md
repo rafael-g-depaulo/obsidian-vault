@@ -1,4 +1,10 @@
-#spell #arcane #creation #feral #wild 
+TAGS:
+- #spell
+- #arcane
+- #creation
+- #feral
+- #wild
+
 INCORRECT_FORMAT_SPELL
 ### Teia
 *1º Círculo*

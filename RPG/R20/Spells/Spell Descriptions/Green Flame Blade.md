@@ -1,4 +1,10 @@
-#spell #warmagic #thaumaturgy #fire #elemental 
+TAGS:
+- #spell
+- #warmagic
+- #thaumaturgy
+- #fire
+- #elemental
+
 INCORRECT_FORMAT_SPELL
 ### Green Flame Blade
 *Truque*

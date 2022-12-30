@@ -1,4 +1,8 @@
-#spell #wild #feral
+TAGS:
+- #spell
+- #wild
+- #feral
+
 INCORRECT_FORMAT_SPELL
 ### Primal Savagery
 *Cantrip (Truque)

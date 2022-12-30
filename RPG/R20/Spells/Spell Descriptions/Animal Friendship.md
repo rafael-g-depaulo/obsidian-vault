@@ -1,4 +1,10 @@
-#spell #wild #feral #enchantment #trickery 
+TAGS:
+- #spell
+- #wild
+- #feral
+- #enchantment
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Animal Friendship
 *1º Círculo*

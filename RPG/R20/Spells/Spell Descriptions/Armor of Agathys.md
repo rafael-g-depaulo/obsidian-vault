@@ -1,4 +1,13 @@
-#spell #cold #elemental #abjuration #warmagic #creation #arcane #thaumaturgy
+TAGS:
+- #spell
+- #cold
+- #elemental
+- #abjuration
+- #warmagic
+- #creation
+- #arcane
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Armor of Agathys
 *1º Círculo*

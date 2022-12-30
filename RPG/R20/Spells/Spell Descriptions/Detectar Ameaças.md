@@ -1,4 +1,12 @@
-#spell #divination #feral #wild #warmagic #thaumaturgy #arcane 
+TAGS:
+- #spell
+- #divination
+- #feral
+- #wild
+- #warmagic
+- #thaumaturgy
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Detectar Ameaças
 *1º Círculo*

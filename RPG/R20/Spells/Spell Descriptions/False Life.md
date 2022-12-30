@@ -1,4 +1,11 @@
-#spell #occult #abjuration #necromancy #thaumaturgy #arcane  
+TAGS:
+- #spell
+- #occult
+- #abjuration
+- #necromancy
+- #thaumaturgy
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### False Life
 *1º Círculo*

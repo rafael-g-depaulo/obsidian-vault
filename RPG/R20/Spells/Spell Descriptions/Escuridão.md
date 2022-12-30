@@ -1,4 +1,10 @@
-#spell #occult #unholy #trickery #ilusion
+TAGS:
+- #spell
+- #occult
+- #unholy
+- #trickery
+- #ilusion
+
 INCORRECT_FORMAT_SPELL
 ### Escuridão
 *1º Círculo*

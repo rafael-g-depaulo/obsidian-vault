@@ -1,4 +1,9 @@
-#spell #energy #evocation #thaumaturgy 
+TAGS:
+- #spell
+- #energy
+- #evocation
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Energy Blast
 *Truque*

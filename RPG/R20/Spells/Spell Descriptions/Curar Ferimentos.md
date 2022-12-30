@@ -1,4 +1,8 @@
-#spell #recovery #sacred
+TAGS:
+- #spell
+- #recovery
+- #sacred
+
 
 INCORRECT_FORMAT_SPELL
 ### Curar Ferimentos

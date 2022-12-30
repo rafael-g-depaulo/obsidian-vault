@@ -1,4 +1,10 @@
-#spell #lighning #elemental #transmutation #arcane 
+TAGS:
+- #spell
+- #lighning
+- #elemental
+- #transmutation
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Lightning Lure
 *Truque*

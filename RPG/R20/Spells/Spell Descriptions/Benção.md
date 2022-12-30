@@ -1,4 +1,10 @@
-#spell #boost #sacred #speech #no-trickery 
+TAGS:
+- #spell
+- #boost
+- #sacred
+- #speech
+- #no
+-trickery 
 INCORRECT_FORMAT_SPELL
 ### Benção
 *1st Circle*

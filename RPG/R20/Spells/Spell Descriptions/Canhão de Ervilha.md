@@ -1,4 +1,9 @@
-#spell #summon #plant #wild
+TAGS:
+- #spell
+- #summon
+- #plant
+- #wild
+
 INCORRECT_FORMAT_SPELL
 ### Canhão de Ervilha
 *1º Círculo*

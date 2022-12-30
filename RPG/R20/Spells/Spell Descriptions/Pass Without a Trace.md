@@ -1,4 +1,11 @@
-#spell #abjuration #thaumaturgy #ilusion #trickery #wild 
+TAGS:
+- #spell
+- #abjuration
+- #thaumaturgy
+- #ilusion
+- #trickery
+- #wild
+
 INCORRECT_FORMAT_SPELL
 ### Pass Without a Trace
 *2º Círculo*

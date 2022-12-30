@@ -1,4 +1,10 @@
-#spell #curse #trickery #enchantment #occult 
+TAGS:
+- #spell
+- #curse
+- #trickery
+- #enchantment
+- #occult
+
 INCORRECT_FORMAT_SPELL
 ### Cause Fear
 *1º Círculo*

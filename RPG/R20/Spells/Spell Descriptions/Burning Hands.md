@@ -1,4 +1,10 @@
-#spell #fire #elemental #evocation #thaumaturgy
+TAGS:
+- #spell
+- #fire
+- #elemental
+- #evocation
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Burning Hands
 *1º Círculo*

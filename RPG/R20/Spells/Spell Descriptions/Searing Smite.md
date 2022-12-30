@@ -1,4 +1,10 @@
-#spell #fire #elemental #warmagic #thaumaturgy 
+TAGS:
+- #spell
+- #fire
+- #elemental
+- #warmagic
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Searing Smite
 *1º Círculo*

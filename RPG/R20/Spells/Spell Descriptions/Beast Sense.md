@@ -1,4 +1,10 @@
-#spell #wild #feral #divination #arcane 
+TAGS:
+- #spell
+- #wild
+- #feral
+- #divination
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Beast Sense
 *2º Círculo*

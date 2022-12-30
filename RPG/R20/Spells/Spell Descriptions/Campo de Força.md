@@ -1,4 +1,11 @@
-#spell #abjuration #thaumaturgy #boost #sacred #warmagic 
+TAGS:
+- #spell
+- #abjuration
+- #thaumaturgy
+- #boost
+- #sacred
+- #warmagic
+
 INCORRECT_FORMAT_SPELL
 ### Campo de Força
 *3º Círculo*

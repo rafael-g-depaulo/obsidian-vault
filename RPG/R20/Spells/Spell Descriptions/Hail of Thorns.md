@@ -1,4 +1,10 @@
-#spell #warmagic #plant #wild #thaumaturgy 
+TAGS:
+- #spell
+- #warmagic
+- #plant
+- #wild
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Hail of Thorns
 *1º Círculo*

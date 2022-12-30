@@ -1,4 +1,10 @@
-#spell #holy #recovery #sacred #holy
+TAGS:
+- #spell
+- #holy
+- #recovery
+- #sacred
+- #holy
+
 INCORRECT_FORMAT_SPELL
 ### Lesser Restoration
 *2nd Circle*

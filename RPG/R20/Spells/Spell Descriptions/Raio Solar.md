@@ -1,4 +1,8 @@
-#spell #holy #sacred
+TAGS:
+- #spell
+- #holy
+- #sacred
+
 INCORRECT_FORMAT_SPELL
 ### Raio Solar
 *3º Círculo*

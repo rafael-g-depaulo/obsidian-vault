@@ -1,4 +1,10 @@
-#spell #creation #warmagic #thaumaturgy #arcane 
+TAGS:
+- #spell
+- #creation
+- #warmagic
+- #thaumaturgy
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Sword Burst
 *Truque*

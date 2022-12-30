@@ -1,4 +1,10 @@
-#spell #wind #nature #transmutation #arcane
+TAGS:
+- #spell
+- #wind
+- #nature
+- #transmutation
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Thunderclap
 *Truque*

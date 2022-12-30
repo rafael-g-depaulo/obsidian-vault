@@ -1,4 +1,14 @@
-#spell #holy #trickery #ilusion #evocation #thaumaturgy #creation #arcane #sacred 
+TAGS:
+- #spell
+- #holy
+- #trickery
+- #ilusion
+- #evocation
+- #thaumaturgy
+- #creation
+- #arcane
+- #sacred
+
 INCORRECT_FORMAT_SPELL
 ### Luz
 *1º Círculo*

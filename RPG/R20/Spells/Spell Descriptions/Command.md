@@ -1,4 +1,11 @@
-#spell #enchantment #speech #trickery #curse #occult 
+TAGS:
+- #spell
+- #enchantment
+- #speech
+- #trickery
+- #curse
+- #occult
+
 INCORRECT_FORMAT_SPELL
 ### Command
 *1º Círculo*

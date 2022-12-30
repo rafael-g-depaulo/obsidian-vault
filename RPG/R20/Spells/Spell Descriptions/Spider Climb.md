@@ -1,4 +1,14 @@
-#spell #feral #transmutation #wild #arcane #earth #nature #boost #no-sacred 
+TAGS:
+- #spell
+- #feral
+- #transmutation
+- #wild
+- #arcane
+- #earth
+- #nature
+- #boost
+- #no
+-sacred 
 INCORRECT_FORMAT_SPELL
 ### Spider Climb
 *2º Círculo*

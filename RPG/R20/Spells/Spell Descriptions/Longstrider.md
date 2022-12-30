@@ -1,4 +1,9 @@
-#spell #boost #sacred #thaumaturgy 
+TAGS:
+- #spell
+- #boost
+- #sacred
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Longstrider
 *1º Círculo*

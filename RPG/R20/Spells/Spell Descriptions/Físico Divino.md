@@ -1,4 +1,12 @@
-#spell #boost #sacred #transmutation #thaumaturgy #warmagic #arcane 
+TAGS:
+- #spell
+- #boost
+- #sacred
+- #transmutation
+- #thaumaturgy
+- #warmagic
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Físico Divino
 *3º Círculo*

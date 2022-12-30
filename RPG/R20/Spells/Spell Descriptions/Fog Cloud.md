@@ -1,4 +1,14 @@
-#spell #unholy #occult #summon #wild #creation #arcane #wind #nature
+TAGS:
+- #spell
+- #unholy
+- #occult
+- #summon
+- #wild
+- #creation
+- #arcane
+- #wind
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Fog Cloud
 *1º Círculo*

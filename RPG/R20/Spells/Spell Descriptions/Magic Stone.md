@@ -1,4 +1,8 @@
-#spell #transmutation #arcane
+TAGS:
+- #spell
+- #transmutation
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Magic Stone
 *Cantrip (Truque)*

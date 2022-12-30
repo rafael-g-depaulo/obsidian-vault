@@ -1,4 +1,9 @@
-#spell #plant #wild #summon
+TAGS:
+- #spell
+- #plant
+- #wild
+- #summon
+
 INCORRECT_FORMAT_SPELL
 ###  Goodberry
 *1º Círculo*

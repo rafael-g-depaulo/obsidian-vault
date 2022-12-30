@@ -1,4 +1,8 @@
-#spell #ilusion #trickery 
+TAGS:
+- #spell
+- #ilusion
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Minor Ilusion
 *Truque*

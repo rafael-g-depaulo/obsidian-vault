@@ -1,4 +1,10 @@
-#spell #transmutation #arcane #water #nature 
+TAGS:
+- #spell
+- #transmutation
+- #arcane
+- #water
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Shape Water
 *Truque*

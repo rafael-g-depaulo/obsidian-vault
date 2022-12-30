@@ -1,4 +1,14 @@
-#spell #curse #unholy #trickery #occult #psyquic #energy #occult #speech 
+TAGS:
+- #spell
+- #curse
+- #unholy
+- #trickery
+- #occult
+- #psyquic
+- #energy
+- #occult
+- #speech
+
 INCORRECT_FORMAT_SPELL
 ### Dissonant Whispers
 *1º Círculo*

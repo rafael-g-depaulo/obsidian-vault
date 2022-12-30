@@ -1,4 +1,12 @@
-#spell #fire #summon #wild #transmutation #arcane #elemental 
+TAGS:
+- #spell
+- #fire
+- #summon
+- #wild
+- #transmutation
+- #arcane
+- #elemental
+
 INCORRECT_FORMAT_SPELL
 ### Create Bonfire
 *Truque*

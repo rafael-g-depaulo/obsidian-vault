@@ -1,4 +1,10 @@
-#spell #unholy #occult #necrotic #decay
+TAGS:
+- #spell
+- #unholy
+- #occult
+- #necrotic
+- #decay
+
 INCORRECT_FORMAT_SPELL
 ### Infligir Ferimentos
 *1º Círculo*

@@ -1,4 +1,11 @@
-#spell #speech #holy #recovery #sacred #no-trickery 
+TAGS:
+- #spell
+- #speech
+- #holy
+- #recovery
+- #sacred
+- #no
+-trickery 
 INCORRECT_FORMAT_SPELL
 ### Prayer of Healing
 *2nd Circle*

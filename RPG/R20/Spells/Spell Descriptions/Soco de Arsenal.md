@@ -1,4 +1,10 @@
-#spell #summon #wild #wind #nature 
+TAGS:
+- #spell
+- #summon
+- #wild
+- #wind
+- #nature
+
 INCORRECT_FORMAT_SPELL
 ### Soco de Arsenal
 *3º Círculo*

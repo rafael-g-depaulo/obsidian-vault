@@ -1,4 +1,10 @@
-#spell #enchantment #trickery #boost #sacred 
+TAGS:
+- #spell
+- #enchantment
+- #trickery
+- #boost
+- #sacred
+
 INCORRECT_FORMAT_SPELL
 ### Calm Emotions
 *2º Círculo*

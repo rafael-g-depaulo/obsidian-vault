@@ -1,4 +1,12 @@
-#spell #curse #occult #fire #elemental #speech  #trickery
+TAGS:
+- #spell
+- #curse
+- #occult
+- #fire
+- #elemental
+- #speech
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Hellish Rebuke
 *1º Círculo*

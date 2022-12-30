@@ -1,4 +1,11 @@
-#spell #curse #occult #unholy #trickery #enchantment 
+TAGS:
+- #spell
+- #curse
+- #occult
+- #unholy
+- #trickery
+- #enchantment
+
 INCORRECT_FORMAT_SPELL
 ### Ray of Enfeeblement
 *2º Círculo*

@@ -1,4 +1,8 @@
-#spell #boost #no-sacred #thaumaturgy #warmagic
+TAGS:
+- #spell
+- #boost
+- #no
+-sacred #thaumaturgy #warmagic
 INCORRECT_FORMAT_SPELL
 ### Concentração de Combate
 *1º Círculo*

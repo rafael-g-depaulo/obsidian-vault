@@ -1,4 +1,9 @@
-#spell #plant #wild #trickery 
+TAGS:
+- #spell
+- #plant
+- #wild
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Entangle
 *1º Círculo*

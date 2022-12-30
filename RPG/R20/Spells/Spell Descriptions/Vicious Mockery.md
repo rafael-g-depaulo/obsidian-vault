@@ -1,4 +1,12 @@
-#spell #trickery #occult #curse #psyquic #energy #speech 
+TAGS:
+- #spell
+- #trickery
+- #occult
+- #curse
+- #psyquic
+- #energy
+- #speech
+
 INCORRECT_FORMAT_SPELL
 ### Vicious Mockery
 *Truque*

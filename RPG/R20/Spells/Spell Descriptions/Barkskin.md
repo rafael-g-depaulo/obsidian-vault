@@ -1,4 +1,13 @@
-#spell #plant #wild #boost #sacred #abjuration #thaumaturgy #warmagic 
+TAGS:
+- #spell
+- #plant
+- #wild
+- #boost
+- #sacred
+- #abjuration
+- #thaumaturgy
+- #warmagic
+
 INCORRECT_FORMAT_SPELL
 ### Barkskin
 *2º Círculo*

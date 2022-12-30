@@ -1,4 +1,12 @@
-#spell #feral #divination #arcane #enchantment #wild #trickery 
+TAGS:
+- #spell
+- #feral
+- #divination
+- #arcane
+- #enchantment
+- #wild
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Beast Bont
 *1º Círculo*

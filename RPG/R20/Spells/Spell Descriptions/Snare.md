@@ -1,4 +1,11 @@
-#spell #trickery #ilusion #ilusion #curse #occult 
+TAGS:
+- #spell
+- #trickery
+- #ilusion
+- #ilusion
+- #curse
+- #occult
+
 INCORRECT_FORMAT_SPELL
 ### Snare
 *1º Círculo*

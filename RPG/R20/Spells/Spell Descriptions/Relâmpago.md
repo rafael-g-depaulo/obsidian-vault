@@ -1,4 +1,10 @@
-#spell #lighning #elemental #evocation #thaumaturgy
+TAGS:
+- #spell
+- #lighning
+- #elemental
+- #evocation
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Relâmpago
 *3º Círculo*

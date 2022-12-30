@@ -1,4 +1,10 @@
-#spell #divination #arcane #speech #trickery  
+TAGS:
+- #spell
+- #divination
+- #arcane
+- #speech
+- #trickery
+
 INCORRECT_FORMAT_SPELL
 ### Message
 *Truque*

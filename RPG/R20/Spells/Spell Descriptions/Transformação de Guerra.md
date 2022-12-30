@@ -1,4 +1,11 @@
-#spell #boost #sacred #arcane #abjuration #thaumaturgy 
+TAGS:
+- #spell
+- #boost
+- #sacred
+- #arcane
+- #abjuration
+- #thaumaturgy
+
 INCORRECT_FORMAT_SPELL
 ### Transformação de Guerra
 *5º Círculo*

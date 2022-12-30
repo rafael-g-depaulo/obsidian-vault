@@ -1,4 +1,10 @@
-#spell #divination #boost #sacred #arcane 
+TAGS:
+- #spell
+- #divination
+- #boost
+- #sacred
+- #arcane
+
 INCORRECT_FORMAT_SPELL
 ### Guidance
 *Cantrip*

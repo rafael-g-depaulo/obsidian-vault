@@ -1,4 +1,15 @@
-#spell #occult #evocation #elemental #fire #lighning #cold #thaumaturgy #psyquic #energy 
+TAGS:
+- #spell
+- #occult
+- #evocation
+- #elemental
+- #fire
+- #lighning
+- #cold
+- #thaumaturgy
+- #psyquic
+- #energy
+
 INCORRECT_FORMAT_SPELL
 ### Chaos Bolt
 *1º Círculo*
