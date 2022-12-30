@@ -4,9 +4,14 @@
 - [[Acid Splash]]
 - [[Blade Ward]]
 - [[Booming Blade]]
+- [[Lightning Lure]]
 - [[Magic Stone]]
 - [[Poison Spray]]
+- [[Shape Water]]
+- [[Shillelagh]]
+- [[Sword Burst]]
 - [[Thorn Whip]]
+- [[Thunderclap]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
@@ -34,6 +39,8 @@
 - [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
+- [[Hideous Laughter]]
+- [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
@@ -51,6 +58,8 @@
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Spike Growth]]
+- [[Sugestion]]
 - [[Warding Wind]]
 - [[Web]]
 
@@ -110,20 +119,22 @@ Choose a beast that you can see within range. It must see and hear you. If the b
 
 
 ### Área Escorregadia
-  <div class="spell-tags">arcane creation</div>
+  <div class="spell-tags">arcane creation trickery water nature</div>
 
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
-- **Alvo:** quadrado de 3m ou 1 objeto;
+- **Alvo:** quadrado de 2sqr ou 1 objeto;
 - **Duração:** cena;
 - **Resistência:** Dex.
 
 ___
 Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
+
 Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
 
 - **+1 PM:** aumenta a área em +1 quadrado de 1,5m.
+- **+2PM:** a área conta como terreno difícil
 - **+2 PM:** muda a CD dos testes para 15.
 - **+5 PM:** muda a CD dos testes para 20.
 
@@ -589,6 +600,21 @@ A creature of your choice that you can see within range regains hit points equal
 - **+3 PM:** muda o casting para reação
 
 
+### Hideous Laughter
+  <div class="spell-tags">enchantment trickery curse occult</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
+  
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
+
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -599,6 +625,38 @@ A creature of your choice that you can see within range regains hit points equal
 
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+
+### Lightning Lure
+  <div class="spell-tags">lighning elemental transmutation arcane</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 3sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
+The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you. 
+
+- **+2PM:** increase damage by +1d8
+
+{{pageNumber,auto}}
+\page
+### Magic Missile
+  <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 30sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
+
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar)
 
 
 ### Magic Stone
@@ -630,8 +688,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+1 PM:** aumenta o alcanse em 1 passo
 - **+2 PM:** aumenta a cura em 1d4
 - **+2 PM:** aumenta o número de alvos em 2
-{{pageNumber,auto}}
-\page
+
 ### Maximilian's Earthen Grasp
   <div class="spell-tags">earth creation arcane nature</div>
 
@@ -651,7 +708,8 @@ To break out, the restrained target can make a Strength check against your spell
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 - **+3PM:** increase all damage by +1d6
-
+{{pageNumber,auto}}
+\page
 ### Poison Spray
   <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -697,8 +755,7 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -710,6 +767,44 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
+{{pageNumber,auto}}
+\page
+### Shape Water
+  <div class="spell-tags">transmutation arcane water nature</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 6sqp;
+- **Alvo:** área de 1sqr;
+- **Duração:** imediato ou cena..
+
+___
+You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:  
+  
+• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.  
+  
+• You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.  
+  
+• You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
+  
+• You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+
+If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+
+### Shillelagh
+  <div class="spell-tags">warmagic no-arcane plant wild</div>
+
+*Cantrip*
+- **Execução:** movimento;
+- **Alcance:** toque;
+- **Alvo:** 1 arma de madeira;
+- **Duração:** cena..
+
+___
+The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
+For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
+
 
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
@@ -744,7 +839,8 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
 
-
+{{pageNumber,auto}}
+\page
 ### Sopro das Uivantes
   <div class="spell-tags">wind nature cold elemental creation arcane</div>
 
@@ -760,6 +856,55 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 - **+2 PM:** aumenta o dano de frio em +2d6.
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas.
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo.
+
+
+### Spike Growth
+  <div class="spell-tags">plant wild creation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** 30sqr;
+- **Alvo:** quadrado de lado 4sqr;
+- **Duração:** concentração..
+
+___
+The ground in the radius centered twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.  
+  
+The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
+
+
+### Sugestion
+  <div class="spell-tags">enchantment trickery</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.  
+  
+The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.  
+  
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t preformed.  
+  
+If you or any of your companions damage the target, the spell ends.
+
+
+### Sword Burst
+  <div class="spell-tags">creation arcane warmagic thaumaturgy</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** raio de 1sqr centrado em você;
+- **Duração:** imediata..
+
+___
+You create a momentary circle of spectral blades that sweep around you.  
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage. 
+
+- **+2PM:** increase the damage by +1d6
 
 {{pageNumber,auto}}
 \page
@@ -796,6 +941,21 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+1PM:** +2 to hit.
 
 
+### Thunderclap
+  <div class="spell-tags">wind nature transmutation arcane</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** raio de 1sqr centrado em você;
+- **Duração:** imediata..
+
+___
+You create a burst of thunderous sound, which can be heard 100 feet away.  
+Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.  
+
+- **+2PM:** increase the damage by 1d6
+
+
 ### Thunderous Smite
   <div class="spell-tags">warmagic water nature arcane</div>
 
@@ -807,7 +967,8 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 ___
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-
+{{pageNumber,auto}}
+\page
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy elemental</div>
 
@@ -823,8 +984,7 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 - **+2PM:** increse the size of the cube by 1sqr.
 - **+1PM:** increase the damage by 1d6.
 
-{{pageNumber,auto}}
-\page
+
 ### Toque Chocante
   <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic arcane</div>
 
@@ -879,7 +1039,8 @@ The wind has the following effects:
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
 
-
+{{pageNumber,auto}}
+\page
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 

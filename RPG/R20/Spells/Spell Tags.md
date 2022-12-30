@@ -35,6 +35,7 @@ by nature:
   - #ilusion
   - #divination (also all communication stuff)
   - #enchantment
+  - maybe add a "sound/word" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
 - #thaumaturgy (general attack stuff + defense and time magic)
   - #chronomancy
   - #evocation

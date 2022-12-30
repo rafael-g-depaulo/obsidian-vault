@@ -97,39 +97,16 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 
 - **Explosão Espiritual**. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
 
+- **Conhecimento de Combate.** Você aprende 2 magias de spellgard a sua escolha
+
+- **Combatente Arcano.** Você consegue aprender truques. Aprenda 1 truque de Spelgard.
+
+- **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre.
+
 ### Spell List
 
 List of spells available for a Spelgard to learn.
 
 ##  Spells
 
-### 1st Circle
-- [[Arma Mágica]]
-- [[Armor of Agathys]]
-- [[Bless]]
-- [[Burning Hands]]
-- [[Bênção]]
-- [[Chaos Bolt]]
-- [[Compelled Duel]]
-- [[Concentração de Combate]]
-- [[Curar Ferimentos]]
-- [[Detect Poison and Disease]]
-- [[Divine Favor]]
-- [[Escudo]]
-- [[Explosão de chamas]]
-- [[Guiding Bolt]]
-- [[Healing Word]]
-- [[Primor Atlético]]
-- [[Ray of Sickness]]
-- [[Thunderous Smite]]
-- [[Toque Chocante]]
-- [[Zephyr Strike]]
 
-### 2nd Circle
-- [[Aid]]
-- [[Continual Flame]]
-- [[Enhance Ability]]
-- [[Enlarge Reduce]]
-- [[Lesser Restoration]]
-- [[Prayer of Healing]]
-- [[Warding Bond]]

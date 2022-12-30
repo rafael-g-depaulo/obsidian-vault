@@ -104,7 +104,10 @@ Spell List:
 - [[Chill Touch]]
 - [[Control Flames]]
 - [[Frostbite]]
+- [[Infestation]]
+- [[Minor Ilusion]]
 - [[Toll the Dead]]
+- [[Vicious Mockery]]
 
 ### 1st Circle
 - [[Bane]]
@@ -118,6 +121,8 @@ Spell List:
 - [[False Life]]
 - [[Fog Cloud]]
 - [[Healing Word]]
+- [[Hellish Rebuke]]
+- [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Luz]]
@@ -133,6 +138,7 @@ Spell List:
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
+- [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
 

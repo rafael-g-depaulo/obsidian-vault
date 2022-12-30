@@ -96,9 +96,14 @@ List of spells available for a Plantomancer to learn.
 - [[Acid Splash]]
 - [[Blade Ward]]
 - [[Booming Blade]]
+- [[Lightning Lure]]
 - [[Magic Stone]]
 - [[Poison Spray]]
+- [[Shape Water]]
+- [[Shillelagh]]
+- [[Sword Burst]]
 - [[Thorn Whip]]
+- [[Thunderclap]]
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
@@ -126,6 +131,8 @@ List of spells available for a Plantomancer to learn.
 - [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
+- [[Hideous Laughter]]
+- [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Teia]]
@@ -143,6 +150,8 @@ List of spells available for a Plantomancer to learn.
 - [[Maximilian's Earthen Grasp]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Spike Growth]]
+- [[Sugestion]]
 - [[Warding Wind]]
 - [[Web]]
 

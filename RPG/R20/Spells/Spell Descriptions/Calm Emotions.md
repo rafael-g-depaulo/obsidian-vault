@@ -1,3 +1,4 @@
+#spell #enchantment #trickery #boost #sacred 
 ### Calm Emotions
 *2º Círculo*
 ___

@@ -1,31 +1,11 @@
-### Spell Name
-*XXº Círculo*
+#spell #warmagic #no-arcane #plant #wild 
+### Shillelagh
+*Truque*
 ___
-- **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
-- **Alvo:** 1 criatura
-- **Duração:** concentração.
-
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
-#   
-Shillelagh
-
-Transmutation
-
-Level: **Cantrip**  
-Casting time: **1 Bonus Action**  
-Range: **Touch**  
-Components: **V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)**  
-Duration: **1 minute**  
-
----
+- **Execução:** movimento
+- **Alcance:** toque
+- **Alvo:** 1 arma de madeira
+- **Duração:** cena.
 
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
-
----
-
-Page: 275 Players Handbook

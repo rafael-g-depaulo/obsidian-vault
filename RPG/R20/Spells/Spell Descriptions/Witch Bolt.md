@@ -1,5 +1,5 @@
-### Spell Name Template
-*XXº Círculo*
+### Witch Bolt
+*1º Círculo*
 ___
 - **Execução:** padrão
 - **Alcance:** 9m (6 quadrados de 1,5m)

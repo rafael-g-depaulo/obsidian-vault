@@ -1,27 +1,11 @@
-### Spell Name
-*XXº Círculo*
+#spell #ilusion #trickery 
+### Minor Ilusion
+*Truque*
 ___
 - **Execução:** padrão
-- **Alcance:** 9m (6 quadrados de 1,5m)
+- **Alcance:** 6sqr
 - **Alvo:** 1 criatura
-- **Duração:** concentração.
-
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
-
-# Minor Illusion
-
-Illusion
-
-Level: **Cantrip**  
-Casting time: **1 Action**  
-Range: **30 feet**  
-Components: **S, M (a bit of fleece)**  
-Duration: **1 minute**  
-
----
+- **Duração:** cena.
 
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
   
@@ -30,11 +14,3 @@ If you create a sound, its volume can range from a whisper to a scream. It can b
 If you create an image of an object such as a chair, muddy footprints, or a small chest it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.  
   
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
-
----
-
-Page: 260 Players Handbook
-
----
-
-A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell

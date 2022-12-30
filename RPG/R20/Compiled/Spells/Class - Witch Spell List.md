@@ -5,7 +5,10 @@
 - [[Chill Touch]]
 - [[Control Flames]]
 - [[Frostbite]]
+- [[Infestation]]
+- [[Minor Ilusion]]
 - [[Toll the Dead]]
+- [[Vicious Mockery]]
 
 ### 1st Circle
 - [[Bane]]
@@ -19,6 +22,8 @@
 - [[False Life]]
 - [[Fog Cloud]]
 - [[Healing Word]]
+- [[Hellish Rebuke]]
+- [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Luz]]
@@ -34,6 +39,7 @@
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Lesser Restoration]]
+- [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
 
@@ -395,6 +401,38 @@ A creature of your choice that you can see within range regains hit points equal
 - **+3 PM:** muda o casting para reação
 
 
+### Hellish Rebuke
+  <div class="spell-tags">curse occult fire elemental</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 30sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+Reaction: you are being damaged by a creature within range of you that you can see.  
+  
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+
+- **+2PM:** increase the damage by +1d10
+
+
+### Hideous Laughter
+  <div class="spell-tags">enchantment trickery curse occult</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** concentração..
+
+___
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
+  
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
+
+
 ### Imagem Espelhada
   <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -409,6 +447,21 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 
 - **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2).
 - **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo. 
+{{pageNumber,auto}}
+\page
+### Infestation
+  <div class="spell-tags">summon wild unholy occult</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.  
+
+- **+1PM:** increases the damage by 1d6 (limitado por círculo máximo)
 
 ### Infligir Ferimentos
   <div class="spell-tags">unholy occult necrotic decay</div>
@@ -445,8 +498,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+3 PM:** muda a duração para cena. Requer 5º círculo.
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo.
 - **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -458,7 +510,8 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 ### Life Transference
   <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -504,6 +557,25 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+1 PM:** aumenta o alcanse em 1 passo
 - **+2 PM:** aumenta a cura em 1d4
 - **+2 PM:** aumenta o número de alvos em 2
+
+### Minor Ilusion
+  <div class="spell-tags">ilusion trickery</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 6sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
+  
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.  
+  
+If you create an image of an object such as a chair, muddy footprints, or a small chest it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.  
+  
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
 {{pageNumber,auto}}
 \page
 ### Oração
@@ -522,6 +594,20 @@ ___
 - **+2 PM:** aumenta as penalidades em –1.
 - **+7 PM:** muda o alcance para médio. Requer 5º círculo.
 - **+12 PM:** muda a duração para cena. Requer 7º círculo
+
+
+### Pass Without a Trace
+  <div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** pessoal;
+- **Duração:** concentração..
+
+___
+A veil of shadows and silence radiates from you, masking you and your companions from detection.
+
+For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Stealth checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
 
 ### Perdição
@@ -554,7 +640,8 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-
+{{pageNumber,auto}}
+\page
 ### Ray of Enfeeblement
   <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
@@ -571,8 +658,7 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -611,7 +697,8 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 ___
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-
+{{pageNumber,auto}}
+\page
 ### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
@@ -631,8 +718,7 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
 
-{{pageNumber,auto}}
-\page
+
 ### Tentacle Twister
   <div class="spell-tags">occult unholy summon wild</div>
 
@@ -680,3 +766,20 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia.
 - **+2 PM:** aumenta o dano em +2d6.
 - **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo.
+{{pageNumber,auto}}
+\page
+### Vicious Mockery
+  <div class="spell-tags">trickery occult curse psyquic energy</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 9sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** imediata..
+
+___
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo)
+
