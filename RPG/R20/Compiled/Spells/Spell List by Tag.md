@@ -31,8 +31,10 @@
 - [[Booming Blade]]
 - [[Create Bonfire]]
 - [[Green Flame Blade]]
+- [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
+- [[Message]]
 - [[Shape Water]]
 - [[Sword Burst]]
 - [[Thorn Whip]]
@@ -40,6 +42,7 @@
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Beast Bond]]
 - [[Catapult]]
 - [[Compelled Duel]]
 - [[Concentração de Combate]]
@@ -62,6 +65,7 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Continual Flame]]
 - [[Darkvision]]
@@ -683,8 +687,6 @@
 ### Cantrip
 - [[Booming Blade]]
 - [[Control Flames]]
-- [[Guidance]]
-- [[Message]]
 - [[Minor Ilusion]]
 - [[Vicious Mockery]]
 ### 1st Circle
@@ -695,7 +697,6 @@
 - [[Charm Person]]
 - [[Command]]
 - [[Controlar Plantas]]
-- [[Detectar Ameaças]]
 - [[Dissonant Whispers]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -709,11 +710,9 @@
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 ### 2nd Circle
-- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Calm Emotions]]
 - [[Crown of Madness]]
-- [[Darkvision]]
 - [[Earthbind]]
 - [[Heat Metal]]
 - [[Pass Without a Trace]]

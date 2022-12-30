@@ -1,4 +1,4 @@
-#spell #unholy #holy #divination #transmutation #occult #sacred #arcane #trickery #boost
+#spell #unholy #holy #divination #transmutation #occult #sacred #arcane #boost
 ### Darkvision
 *2º Círculo*
 ___

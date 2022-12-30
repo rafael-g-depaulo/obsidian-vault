@@ -437,6 +437,7 @@ List of spells available for a Plantomancer to learn.
 - [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
+- [[Message]]
 - [[Poison Spray]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -482,6 +483,7 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
@@ -701,6 +703,7 @@ List of spells available for a Spelgard to learn.
 - [[Eldritch Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
+- [[Guidance]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
@@ -718,6 +721,7 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
@@ -736,6 +740,7 @@ List of spells available for a Spelgard to learn.
 ### 2nd Circle
 - [[Aid]]
 - [[Continual Flame]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]

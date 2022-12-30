@@ -6,6 +6,7 @@
 - [[Eldritch Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
+- [[Guidance]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
@@ -23,6 +24,7 @@
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
@@ -41,6 +43,7 @@
 ### 2nd Circle
 - [[Aid]]
 - [[Continual Flame]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
@@ -273,6 +276,23 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
 
+### Darkvision
+  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** Toque;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You touch a willing creature to grant it the ability to see in the dark.  
+For the duration, that creature has darkvision out to a range of 12sqr (18m).
+
+- **+2 PM:** +1 alvo
+- **+1 PM:** +4sqr (+6m).
+
+
 ### Detect Poison and Disease
   <div class="spell-tags">sacred holy recovery</div>
 
@@ -284,6 +304,23 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
+### Detectar Ameaças
+  <div class="spell-tags">divination feral wild arcane warmagic</div>
+
+*1st Circle*
+- **Execução:** padrão;
+- **Alcance:** pessoal;
+- **Duração:** instantânea..
+
+___
+Você percebe a presença e a localização de criaturas inamistosas ou hostis na área, mesmo através de barreiras físicas.
+
+- **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos.
+- **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora.
+- **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas.
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo.
+{{pageNumber,auto}}
+\page
 ### Divine Favor
   <div class="spell-tags">warmagic holy sacred radiant energy arcane</div>
 
@@ -314,8 +351,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha
 - **+3 PM:** você lança +1 raio contra o alvo principal
 
-{{pageNumber,auto}}
-\page
+
 ### Enhance Ability
   <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild arcane thaumaturgy</div>
 
@@ -358,7 +394,8 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-
+{{pageNumber,auto}}
+\page
 ### Escudo
   <div class="spell-tags">boost sacred abjuration arcane thaumaturgy warmagic</div>
 
@@ -393,8 +430,7 @@ Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às
 - **+1 PM:** aumenta o ano em +1d6.
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice).
 
-{{pageNumber,auto}}
-\page
+
 ### Fire Bolt
   <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -422,6 +458,20 @@ ___
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
 
 - **+3PM:** increase both damages by +1d8
+
+{{pageNumber,auto}}
+\page
+### Guidance
+  <div class="spell-tags">divination boost sacred arcane</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** toque;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
 
 ### Guiding Bolt
@@ -454,8 +504,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-{{pageNumber,auto}}
-\page
+
 ### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -467,7 +516,8 @@ A creature of your choice that you can see within range regains hit points equal
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 ### Longstrider
   <div class="spell-tags">boost sacred chronomancy thaumaturgy</div>
 
@@ -511,8 +561,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar)
 
-{{pageNumber,auto}}
-\page
+
 ### Poison Spray
   <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -526,7 +575,8 @@ You extend your hand toward a creature you can see within range and project a pu
 
 - **+2 PM:** Aumenta o dano em 1d12.
 
-
+{{pageNumber,auto}}
+\page
 ### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
@@ -574,8 +624,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8
 
-{{pageNumber,auto}}
-\page
+
 ### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -587,7 +636,8 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-
+{{pageNumber,auto}}
+\page
 ### Resistance
   <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -629,8 +679,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 ___
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-{{pageNumber,auto}}
-\page
+
 ### Sword Burst
   <div class="spell-tags">creation arcane warmagic thaumaturgy</div>
 
@@ -645,7 +694,8 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 - **+2PM:** increase the damage by +1d6
 
-
+{{pageNumber,auto}}
+\page
 ### Thunderous Smite
   <div class="spell-tags">warmagic water nature arcane</div>
 
@@ -692,8 +742,7 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 ### Witch Bolt
   <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
 
@@ -709,7 +758,8 @@ Make a ranged spell attack against that creature. On a hit, the target takes 1d1
 
 - **+2PM:** increase the initial damage by +1d12
 
-
+{{pageNumber,auto}}
+\page
 ### Word of Radiance
   <div class="spell-tags">holy sacred radiant energy</div>
 

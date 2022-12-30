@@ -249,7 +249,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 
 ### Darkvision
-  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane trickery boost</div>
+  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
 
 *2nd Circle*
 - **Execução:** padrão;

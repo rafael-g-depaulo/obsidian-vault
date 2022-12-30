@@ -810,6 +810,7 @@ List of spells available for a Plantomancer to learn.
 - [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
+- [[Message]]
 - [[Poison Spray]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -855,6 +856,7 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
@@ -1074,6 +1076,7 @@ List of spells available for a Spelgard to learn.
 - [[Eldritch Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
+- [[Guidance]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
@@ -1091,6 +1094,7 @@ List of spells available for a Spelgard to learn.
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
+- [[Detectar Ameaças]]
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
@@ -1109,6 +1113,7 @@ List of spells available for a Spelgard to learn.
 ### 2nd Circle
 - [[Aid]]
 - [[Continual Flame]]
+- [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge Reduce]]
 - [[Lesser Restoration]]
@@ -2092,9 +2097,9 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #transmutation
   - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
+  - #divination (also all communication stuff)
 - #trickery
   - #ilusion
-  - #divination (also all communication stuff)
   - #enchantment
   - maybe add a "sound/word/speech" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
 - #thaumaturgy (general attack stuff + defense and time magic)
@@ -2425,7 +2430,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 - **+3PM:** increase the number of targets by 1
 
 ### Beast Bond
-  <div class="spell-tags">feral divination enchantment wild trickery</div>
+  <div class="spell-tags">feral divination arcane enchantment wild trickery</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -2440,7 +2445,7 @@ You establish a telepathic link with one beast you touch that is friendly to you
 
 
 ### Beast Sense
-  <div class="spell-tags">wild feral divination trickery</div>
+  <div class="spell-tags">wild feral divination arcane</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -2881,7 +2886,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 {{pageNumber,auto}}
 \page
 ### Darkvision
-  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane trickery boost</div>
+  <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
 
 *2nd Circle*
 - **Execução:** padrão;
@@ -2929,7 +2934,7 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ### Detectar Ameaças
-  <div class="spell-tags">divination feral wild trickery arcane warmagic</div>
+  <div class="spell-tags">divination feral wild arcane warmagic</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -3293,7 +3298,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 
 ### Guidance
-  <div class="spell-tags">divination boost sacred trickery</div>
+  <div class="spell-tags">divination boost sacred arcane</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -3303,6 +3308,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 ___
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+
 
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire elemental warmagic arcane</div>
@@ -3641,7 +3647,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 - **+3PM:** increase all damage by +1d6
 
 ### Message
-  <div class="spell-tags">divination trickery</div>
+  <div class="spell-tags">divination arcane</div>
 
 *Cantrip*
 - **Execução:** padrão;

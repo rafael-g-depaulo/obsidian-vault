@@ -1,4 +1,4 @@
-#spell #divination #boost #sacred #trickery 
+#spell #divination #boost #sacred #arcane 
 ### Guidance
 *Cantrip*
 ___

@@ -98,6 +98,7 @@ List of spells available for a Plantomancer to learn.
 - [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
+- [[Message]]
 - [[Poison Spray]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -143,6 +144,7 @@ List of spells available for a Plantomancer to learn.
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]

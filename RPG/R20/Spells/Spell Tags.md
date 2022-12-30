@@ -29,9 +29,9 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #transmutation
   - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
   - #creation
+  - #divination (also all communication stuff)
 - #trickery
   - #ilusion
-  - #divination (also all communication stuff)
   - #enchantment
   - maybe add a "sound/word/speech" thing here? a lot of them i've been just grouping into wind but idk... it would also give me a good excuse to bump divination to arcane. then warmagic could maybe go to thaumaturgy? then chronomancy would prolly vanish
 - #thaumaturgy (general attack stuff + defense and time magic)

@@ -6,6 +6,7 @@
 - [[Booming Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
+- [[Message]]
 - [[Poison Spray]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -51,6 +52,7 @@
 - [[Área Escorregadia]]
 
 ### 2nd Circle
+- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
@@ -158,7 +160,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 
 ### Beast Bond
-  <div class="spell-tags">feral divination enchantment wild trickery</div>
+  <div class="spell-tags">feral divination arcane enchantment wild trickery</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -172,6 +174,19 @@ You establish a telepathic link with one beast you touch that is friendly to you
 - **+2PM:** increase the maximum intelligence by +1
 
 
+### Beast Sense
+  <div class="spell-tags">wild feral divination arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão;
+- **Alcance:** toque;
+- **Alvo:** 1 criatura;
+- **Duração:** cena..
+
+___
+You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.
+
+
 ### Blade Ward
   <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
@@ -183,7 +198,8 @@ You establish a telepathic link with one beast you touch that is friendly to you
 ___
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-
+{{pageNumber,auto}}
+\page
 ### Blindness Deafness
   <div class="spell-tags">curse transmutation trickery occult arcane</div>
 
@@ -198,8 +214,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - **+3PM:** target an additional creature.
 
-{{pageNumber,auto}}
-\page
+
 ### Booming Blade
   <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
 
@@ -247,7 +262,8 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo.
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo.
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo.
-
+{{pageNumber,auto}}
+\page
 ### Catapult
   <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -262,8 +278,7 @@ Choose one object weighing 1 to 5 pounds within range that isn’t being worn or
 
 - **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb
 
-{{pageNumber,auto}}
-\page
+
 ### Cause Fear
   <div class="spell-tags">curse trickery enchantment occult</div>
 
@@ -314,7 +329,8 @@ The target must succeed on a Wisdom saving throw or follow the command on its ne
 
 - **+2PM:** target an additional creature
 
-
+{{pageNumber,auto}}
+\page
 ### Compelled Duel
   <div class="spell-tags">warmagic holy enchantment no-trickery sacred arcane</div>
 
@@ -332,8 +348,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 - **+XPM:** you gain an offensive buff against the target
 - **+XPM:** both you and the target have +# movement speed when running towards eachother
 
-{{pageNumber,auto}}
-\page
+
 ### Controlar Plantas
   <div class="spell-tags">plant wild enchantment trickery</div>
 
@@ -390,7 +405,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+2 PM:** muda o alcance para curto.
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
-
+{{pageNumber,auto}}
+\page
 ### Detect Poison and Disease
   <div class="spell-tags">sacred holy recovery</div>
 
@@ -401,10 +417,9 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-{{pageNumber,auto}}
-\page
+
 ### Detectar Ameaças
-  <div class="spell-tags">divination feral wild trickery arcane warmagic</div>
+  <div class="spell-tags">divination feral wild arcane warmagic</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -446,7 +461,8 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 
 - **+2PM:** increase the damage by +1d6
 - **+3PM:** increase the radius by 1sqr
-
+{{pageNumber,auto}}
+\page
 ### Earthbind
   <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
@@ -459,8 +475,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 ___
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 ### Enfeitiçar
   <div class="spell-tags">enchantment trickery</div>
 
@@ -513,7 +528,8 @@ ___
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
 
 - **+1PM:** aumenta +1d4 nos PV temporários
-
+{{pageNumber,auto}}
+\page
 ### Feather Fall
   <div class="spell-tags">transmutation wind chronomancy arcane no-thaumaturgy nature</div>
 
@@ -526,8 +542,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 ___
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-{{pageNumber,auto}}
-\page
+
 ### Flecha Ácida
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -570,7 +585,8 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 
 - **+1 PM:** Increase the number of berries by 2.
 
-
+{{pageNumber,auto}}
+\page
 ### Hail of Thorns
   <div class="spell-tags">warmagic plant wild no-arcane</div>
 
@@ -583,8 +599,7 @@ ___
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 - **+2PM:** aumenta o dano em 1d10
-{{pageNumber,auto}}
-\page
+
 ### Healing Word
   <div class="spell-tags">recovery sacred wind nature</div>
 
@@ -626,7 +641,8 @@ At the end of each of its turns, and each time it takes damage, the target can m
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 ### Lightning Lure
   <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -642,8 +658,7 @@ The target must succeed on a Strength saving throw or be pulled up to 10 feet in
 
 - **+2PM:** increase damage by +1d8
 
-{{pageNumber,auto}}
-\page
+
 ### Magic Missile
   <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
 
@@ -688,7 +703,8 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+1 PM:** aumenta o alcanse em 1 passo
 - **+2 PM:** aumenta a cura em 1d4
 - **+2 PM:** aumenta o número de alvos em 2
-
+{{pageNumber,auto}}
+\page
 ### Maximilian's Earthen Grasp
   <div class="spell-tags">earth creation arcane nature</div>
 
@@ -708,8 +724,22 @@ To break out, the restrained target can make a Strength check against your spell
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 - **+3PM:** increase all damage by +1d6
-{{pageNumber,auto}}
-\page
+
+### Message
+  <div class="spell-tags">divination arcane</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** 60sqr;
+- **Alvo:** 1 criatura;
+- **Duração:** 1 rodada..
+
+___
+You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.  
+  
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+
+
 ### Poison Spray
   <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -738,7 +768,8 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-
+{{pageNumber,auto}}
+\page
 ### Ray of Enfeeblement
   <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
@@ -767,8 +798,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-{{pageNumber,auto}}
-\page
+
 ### Shape Water
   <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -805,7 +835,8 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-
+{{pageNumber,auto}}
+\page
 ### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -839,8 +870,7 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m.
 - **+5 PM:** muda o tipo do dano para essência.
 
-{{pageNumber,auto}}
-\page
+
 ### Sopro das Uivantes
   <div class="spell-tags">wind nature cold elemental creation arcane</div>
 
@@ -872,7 +902,8 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-
+{{pageNumber,auto}}
+\page
 ### Sugestion
   <div class="spell-tags">enchantment trickery</div>
 
@@ -906,8 +937,7 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 - **+2PM:** increase the damage by +1d6
 
-{{pageNumber,auto}}
-\page
+
 ### Teia
   <div class="spell-tags">arcane creation feral wild</div>
 
@@ -940,7 +970,8 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 - **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-
+{{pageNumber,auto}}
+\page
 ### Thunderclap
   <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -967,8 +998,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 ___
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-{{pageNumber,auto}}
-\page
+
 ### Thunderwave
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy elemental</div>
 
@@ -1002,7 +1032,8 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 - **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia.
 - **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área
 
-
+{{pageNumber,auto}}
+\page
 ### Tranquilidade
   <div class="spell-tags">enchantment trickery</div>
 
@@ -1039,8 +1070,7 @@ The wind has the following effects:
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
 
-{{pageNumber,auto}}
-\page
+
 ### Web
   <div class="spell-tags">feral wild trickery creation arcane</div>
 
