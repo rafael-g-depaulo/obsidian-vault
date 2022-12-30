@@ -1,4 +1,5 @@
 #spell #summon #wild #unholy #occult 
+INCORRECT_FORMAT_SPELL
 ### Infestation
 *Truque*
 ___

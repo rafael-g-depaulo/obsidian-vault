@@ -1,4 +1,5 @@
 #spell #energy #evocation #thaumaturgy 
+INCORRECT_FORMAT_SPELL
 ### Energy Blast
 *Truque*
 ___

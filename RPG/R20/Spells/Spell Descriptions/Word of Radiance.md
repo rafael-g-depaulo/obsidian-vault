@@ -1,4 +1,5 @@
 #spell #holy #sacred #radiant #energy #speech #no-trickery
+INCORRECT_FORMAT_SPELL
 ### Word of Radiance
 *Truque*
 ___

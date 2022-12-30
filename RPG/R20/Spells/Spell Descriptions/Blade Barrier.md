@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Blade Barrier
 *6th Circle*
 ___

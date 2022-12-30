@@ -1,4 +1,5 @@
 #spell #transmutation #arcane #fire #elemental #trickery 
+INCORRECT_FORMAT_SPELL
 ### Heat Metal
 *2º Círculo*
 ___

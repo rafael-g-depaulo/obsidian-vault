@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Desintegrar
 *7º Círculo*
 ___

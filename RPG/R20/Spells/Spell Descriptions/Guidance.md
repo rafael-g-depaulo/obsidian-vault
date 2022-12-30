@@ -1,4 +1,5 @@
 #spell #divination #boost #sacred #arcane 
+INCORRECT_FORMAT_SPELL
 ### Guidance
 *Cantrip*
 ___

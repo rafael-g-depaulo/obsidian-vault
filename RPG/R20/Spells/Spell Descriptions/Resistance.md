@@ -1,4 +1,5 @@
 #spell #abjuration #thaumaturgy #boost #sacred 
+INCORRECT_FORMAT_SPELL
 ### Resistance
 *Truque*
 ___

@@ -1,4 +1,5 @@
 #spell #unholy #occult #feral #wild #necromancy #necrotic #decay #recovery #no-sacred
+INCORRECT_FORMAT_SPELL
 ### Life Transference
 *3rd Circle*
 ___

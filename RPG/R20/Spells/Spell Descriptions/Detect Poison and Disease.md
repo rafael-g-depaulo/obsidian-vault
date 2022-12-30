@@ -1,4 +1,5 @@
 #spell #sacred #holy #recovery
+INCORRECT_FORMAT_SPELL
 ### Detect Poison and Disease (Ritual)
 *1º Círculo*
 ___

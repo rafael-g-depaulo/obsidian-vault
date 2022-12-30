@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Holy Weapon
 *5th Circle*
 ___

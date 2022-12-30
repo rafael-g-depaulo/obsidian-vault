@@ -1,4 +1,5 @@
 #spell #trickery 
+INCORRECT_FORMAT_SPELL
 ### Mage Hand
 *1º Círculo*
 ___

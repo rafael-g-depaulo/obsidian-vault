@@ -1,4 +1,5 @@
 #spell #ilusion #trickery 
+INCORRECT_FORMAT_SPELL
 ### Invisibilidade
 *3º Círculo*
 ___

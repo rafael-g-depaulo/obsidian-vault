@@ -1,4 +1,5 @@
 #spell #plant #wild #creation #arcane 
+INCORRECT_FORMAT_SPELL
 ### Spike Growth
 *2º Círculo*
 ___

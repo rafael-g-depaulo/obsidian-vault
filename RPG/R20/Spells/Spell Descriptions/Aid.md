@@ -1,4 +1,5 @@
 #spell #boost #sacred
+INCORRECT_FORMAT_SPELL
 ### Aid
 *2nd Circle*
 ___

@@ -1,4 +1,5 @@
 #spell #warmagic #energy #force #thaumaturgy #boost #no-sacred #wind #nature
+INCORRECT_FORMAT_SPELL
 ### Zephyr Strike
 *1º Círculo*
 ___

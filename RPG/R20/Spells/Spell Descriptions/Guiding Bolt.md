@@ -1,4 +1,5 @@
 #spell #holy #sacred #fire #elemental #warmagic #thaumaturgy 
+INCORRECT_FORMAT_SPELL
 ### Guiding Bolt
 *1st Circle*
 ___

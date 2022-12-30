@@ -1,4 +1,5 @@
 #spell #creation #arcane #evocation #thaumaturgy #energy #force
+INCORRECT_FORMAT_SPELL
 ### Magic Missile
 *1º Círculo*
 ___

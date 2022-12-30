@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Potência Divina**
 *5º Círculo*
 ___

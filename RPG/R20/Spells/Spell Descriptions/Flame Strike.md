@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Flame Strike
 *5th Circle*
 ___

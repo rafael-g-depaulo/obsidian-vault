@@ -1,4 +1,5 @@
 #spell #poison #decay #evocation #thaumaturgy
+INCORRECT_FORMAT_SPELL
 ### Poison Spray
 *Truque (Cantrip)*
 ___

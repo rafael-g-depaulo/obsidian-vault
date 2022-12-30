@@ -1,4 +1,5 @@
 #spell #boost #sacred #abjuration #thaumaturgy #warmagic
+INCORRECT_FORMAT_SPELL
 ### Escudo
 *1º Círculo*
 ___

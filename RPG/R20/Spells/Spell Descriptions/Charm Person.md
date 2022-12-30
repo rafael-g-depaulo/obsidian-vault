@@ -1,4 +1,5 @@
 #spell #enchantment #trickery 
+INCORRECT_FORMAT_SPELL
 ### Charm Person
 *1º Círculo*
 ___

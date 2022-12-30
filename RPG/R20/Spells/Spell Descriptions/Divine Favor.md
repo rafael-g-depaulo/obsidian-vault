@@ -1,4 +1,5 @@
 #spell #warmagic #holy #sacred #radiant #energy #thaumaturgy 
+INCORRECT_FORMAT_SPELL
 ### Divine Favor
 *1º Círculo*
 ___

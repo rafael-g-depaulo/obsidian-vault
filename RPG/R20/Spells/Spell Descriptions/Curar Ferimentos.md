@@ -1,5 +1,6 @@
 #spell #recovery #sacred
 
+INCORRECT_FORMAT_SPELL
 ### Curar Ferimentos
 *1º Círculo*
 ___

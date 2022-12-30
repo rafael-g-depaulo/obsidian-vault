@@ -1,4 +1,5 @@
 #spell #curse #occult #enchantment #trickery 
+INCORRECT_FORMAT_SPELL
 ### Sleep
 *1º Círculo*
 ___

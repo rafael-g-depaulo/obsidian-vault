@@ -1,4 +1,5 @@
 #spell #abjuration #thaumaturgy #boost #sacred 
+INCORRECT_FORMAT_SPELL
 ### Mage Armor
 *1º Círculo*
 ___

@@ -1,4 +1,5 @@
 #spell #wind #nature #abjuration #thaumaturgy #transmutation #arcane 
+INCORRECT_FORMAT_SPELL
 ### Warding Wind
 *2º Círculo*
 ___
@@ -13,4 +14,3 @@ The wind has the following effects:
 - The area is difficult terrain for creatures other than you.  
 - The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.  
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-

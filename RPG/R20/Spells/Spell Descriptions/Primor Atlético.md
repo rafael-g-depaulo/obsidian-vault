@@ -1,4 +1,5 @@
 #spell #boost #sacred #thaumaturgy #warmagic 
+INCORRECT_FORMAT_SPELL
 ### Primor Atlético
 *1º Círculo*
 ___

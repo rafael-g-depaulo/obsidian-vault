@@ -1,4 +1,5 @@
 #spell #warmagic #wind #nature #thaumaturgy
+INCORRECT_FORMAT_SPELL
 ### Thunderous Smite
 *1º Círculo*
 ___

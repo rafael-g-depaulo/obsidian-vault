@@ -1,4 +1,5 @@
 #spell #warmagic #thaumaturgy #plant #wild 
+INCORRECT_FORMAT_SPELL
 ### Shillelagh
 *Truque*
 ___

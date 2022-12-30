@@ -1,4 +1,5 @@
 #spell #boost #sacred #warmagic #thaumaturgy
+INCORRECT_FORMAT_SPELL
 ### Arma Mágica
 *1º Círculo*
 ___

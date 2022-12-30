@@ -1,4 +1,5 @@
 #spell #holy #recovery #sacred #holy
+INCORRECT_FORMAT_SPELL
 ### Lesser Restoration
 *2nd Circle*
 ___

@@ -1,4 +1,5 @@
 #spell #lighning #elemental #evocation #thaumaturgy #warmagic
+INCORRECT_FORMAT_SPELL
 ### Toque Chocante
 *1º Círculo*
 ___

@@ -1,4 +1,5 @@
 #spell #lighning #elemental #thaumaturgy #evocation
+INCORRECT_FORMAT_SPELL
 ### Witch Bolt
 _1º Círculo_
 ___

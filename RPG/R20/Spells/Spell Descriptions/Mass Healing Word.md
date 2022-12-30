@@ -1,4 +1,5 @@
 #spell #recovery #sacred #speech #no-trickery 
+INCORRECT_FORMAT_SPELL
 ### Mass Healing Word
 *3rd Circle*
 ___

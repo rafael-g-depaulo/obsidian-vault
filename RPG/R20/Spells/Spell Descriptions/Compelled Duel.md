@@ -1,4 +1,5 @@
 #spell #warmagic #holy #enchantment #no-trickery #sacred #thaumaturgy 
+INCORRECT_FORMAT_SPELL
 ### Compelled Duel
 *1º Círculo*
 ___

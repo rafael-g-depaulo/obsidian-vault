@@ -1,4 +1,5 @@
 #spell #plant #wild #enchantment #trickery 
+INCORRECT_FORMAT_SPELL
 ### Controlar Plantas
 *1º Círculo*
 ___

@@ -1,4 +1,5 @@
 #spell #ilusion #trickery 
+INCORRECT_FORMAT_SPELL
 ### Camuflagem ilusória
 *3º Círculo*
 ___

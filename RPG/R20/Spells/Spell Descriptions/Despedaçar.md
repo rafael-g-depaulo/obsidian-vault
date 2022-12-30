@@ -1,4 +1,5 @@
 #spell #wind #nature
+INCORRECT_FORMAT_SPELL
 ### Despedaçar
 *1º Círculo*
 ___

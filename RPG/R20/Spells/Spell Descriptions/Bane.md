@@ -1,4 +1,5 @@
 #spell #curse #occult
+INCORRECT_FORMAT_SPELL
 ### Bane
 *1st Circle*
 ___

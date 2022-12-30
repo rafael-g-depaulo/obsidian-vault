@@ -1,4 +1,5 @@
 #spell #curse #no-occult #evocation #cold #thaumaturgy #elemental 
+INCORRECT_FORMAT_SPELL
 ### Ray of Frost
 *Truque*
 ___

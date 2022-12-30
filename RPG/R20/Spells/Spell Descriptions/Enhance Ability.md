@@ -1,4 +1,5 @@
 #spell #transmutation #abjuration #warmagic #boost #feral  #sacred #wild #thaumaturgy #arcane 
+INCORRECT_FORMAT_SPELL
 ### Enhance Ability
 *2º Círculo*
 ___

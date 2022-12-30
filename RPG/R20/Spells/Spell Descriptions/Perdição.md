@@ -1,4 +1,5 @@
 #spell #curse #occult
+INCORRECT_FORMAT_SPELL
 ### Perdição
 *1º Círculo*
 ___

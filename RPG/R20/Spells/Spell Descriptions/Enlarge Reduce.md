@@ -1,4 +1,5 @@
 #spell #transmutation #boost #sacred #warmagic #thaumaturgy #arcane 
+INCORRECT_FORMAT_SPELL
 ### Enlarge/Reduce
 *2º Círculo*
 ___

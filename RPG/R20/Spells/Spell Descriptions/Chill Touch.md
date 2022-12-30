@@ -1,4 +1,5 @@
 #spell #cold #elemental #unholy #occult
+INCORRECT_FORMAT_SPELL
 ### Chill Touch
 *Truque (cantrip)*
 ___

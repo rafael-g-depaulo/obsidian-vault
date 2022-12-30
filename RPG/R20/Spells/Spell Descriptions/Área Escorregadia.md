@@ -1,4 +1,5 @@
 #spell #arcane #creation #trickery #water #nature
+INCORRECT_FORMAT_SPELL
 ### Área Escorregadia
 *1º Círculo*
 ___

@@ -1,4 +1,5 @@
 #spell #transmutation #arcane #water #nature 
+INCORRECT_FORMAT_SPELL
 ### Shape Water
 *Truque*
 ___

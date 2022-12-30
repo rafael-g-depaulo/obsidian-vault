@@ -1,4 +1,5 @@
 #spell #earth #nature #wind #enchantment #curse #occult #trickery  
+INCORRECT_FORMAT_SPELL
 ### Earthbind
 *2º Círculo*
 ___

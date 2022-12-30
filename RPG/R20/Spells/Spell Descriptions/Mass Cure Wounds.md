@@ -1,3 +1,4 @@
+INCORRECT_FORMAT_SPELL
 ### Mass Cure Wounds
 *5th Circle*
 ___

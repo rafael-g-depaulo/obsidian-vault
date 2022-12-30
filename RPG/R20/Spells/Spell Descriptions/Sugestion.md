@@ -1,4 +1,5 @@
 #spell #enchantment #trickery 
+INCORRECT_FORMAT_SPELL
 ### Sugestion
 *2º Círculo*
 ___

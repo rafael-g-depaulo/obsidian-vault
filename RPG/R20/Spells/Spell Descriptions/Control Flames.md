@@ -1,4 +1,5 @@
 #spell #evocation #fire #ilusion #trickery #thaumaturgy #elemental 
+INCORRECT_FORMAT_SPELL
 ### Control Flames
 *Truque*
 ___

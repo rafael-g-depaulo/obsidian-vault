@@ -1,4 +1,5 @@
 #spell #creation #fire #thaumaturgy #evocation #arcane #elemental #thaumaturgy 
+INCORRECT_FORMAT_SPELL
 ### Continual Flame
 *2º Círculo*
 ___

@@ -1,4 +1,5 @@
 #spell #enchantment #curse #unholy #trickery #occult #psyquic #energy 
+INCORRECT_FORMAT_SPELL
 ### Crown of Madness
 *2º Círculo*
 ___

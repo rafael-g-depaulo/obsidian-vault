@@ -1,4 +1,5 @@
 #spell #transmutation #earth #nature #arcane 
+INCORRECT_FORMAT_SPELL
 ### Catapult
 *1º Círculo*
 ___

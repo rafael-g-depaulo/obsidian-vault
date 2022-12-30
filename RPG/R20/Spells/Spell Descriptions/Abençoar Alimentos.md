@@ -1,4 +1,5 @@
 #spell #holy #sacred #plant #no-wild
+INCORRECT_FORMAT_SPELL
 ### Abençoar Alimentos
 *1º Círculo*
 ___

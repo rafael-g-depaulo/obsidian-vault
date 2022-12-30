@@ -1,4 +1,5 @@
 #spell #earth #nature #transmutation #arcane 
+INCORRECT_FORMAT_SPELL
 ### Earth Tremor
 *1º Círculo*
 ___

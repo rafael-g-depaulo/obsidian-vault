@@ -1,4 +1,5 @@
 #spell #enchantment #trickery 
+INCORRECT_FORMAT_SPELL
 ### Enfeitiçar
 *1º Círculo*
 ___

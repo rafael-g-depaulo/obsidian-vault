@@ -1,4 +1,5 @@
 #spell #sacred #boost #occult #curse #enchantment #trickery #speech 
+INCORRECT_FORMAT_SPELL
 ### Oração
 *3º Círculo*
 ___
