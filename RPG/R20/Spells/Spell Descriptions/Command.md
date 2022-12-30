@@ -1,4 +1,4 @@
-#spell #enchantment #trickery #curse #occult 
+#spell #enchantment #speech #trickery #curse #occult 
 ### Command
 *1º Círculo*
 ___

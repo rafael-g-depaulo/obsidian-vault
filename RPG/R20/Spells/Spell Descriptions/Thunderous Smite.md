@@ -1,4 +1,4 @@
-#spell #warmagic #water #nature #thaumaturgy 
+#spell #warmagic #wind #nature #thaumaturgy
 ### Thunderous Smite
 *1º Círculo*
 ___

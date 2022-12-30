@@ -1,4 +1,4 @@
-#spell #wind #nature #sacred #boost #occult #curse #enchantment #trickery 
+#spell #sacred #boost #occult #curse #enchantment #trickery #speech 
 ### Oração
 *3º Círculo*
 ___

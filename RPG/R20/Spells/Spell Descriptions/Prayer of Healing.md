@@ -1,4 +1,4 @@
-#spell #wind #nature #holy #recovery #sacred
+#spell #speech #holy #recovery #sacred #no-trickery 
 ### Prayer of Healing
 *2nd Circle*
 ___

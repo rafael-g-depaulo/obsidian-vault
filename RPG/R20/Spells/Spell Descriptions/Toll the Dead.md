@@ -1,4 +1,4 @@
-#spell #occult #unholy #decay #necrotic
+#spell #occult #unholy #decay #necrotic #wind #no-nature
 ### Toll the Dead
 *Cantrip*
 ___

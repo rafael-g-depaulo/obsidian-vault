@@ -1,4 +1,4 @@
-#spell #enchantment #trickery #curse #occult 
+#spell #enchantment #trickery #curse #occult #speech 
 ### Hideous Laughter
 *1º Círculo*
 ___

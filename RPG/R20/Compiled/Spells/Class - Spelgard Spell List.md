@@ -16,9 +16,8 @@
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
-- [[Bless]]
+- [[Benção]]
 - [[Burning Hands]]
-- [[Bênção]]
 - [[Chaos Bolt]]
 - [[Compelled Duel]]
 - [[Concentração de Combate]]
@@ -118,36 +117,8 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 {{pageNumber,auto}}
 \page
-### Bênção
-  <div class="spell-tags">boost sacred</div>
-
-*1st Circle*
-- **Execução:** padrão;
-- **Alcance:** 6sqr;
-- **Alvo:** criaturas escolhidas;
-- **Duração:** concentração.
-
-___
-Abençoa os alvos, que recebem +1 em testes de ataque e rolagens de dano. Bênção anula Perdição.
-
-- **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia.
-- **+2 PM:** aumenta os bônus em +1
-
-
-### Blade Ward
-  <div class="spell-tags">abjuration warmagic thaumaturgy</div>
-
-*Cantrip*
-- **Execução:** padrão;
-- **Alcance:** pessoal;
-- **Duração:** 1 rodada..
-
-___
-You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
-
-
-### Bless
-  <div class="spell-tags">boost sacred</div>
+### Benção
+  <div class="spell-tags">boost sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Action;
@@ -161,6 +132,19 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+2 PM:** aumenta o número de dados de auxílio em +1.
 - **+3 PM:** muda o tipo dos dados de auxílio para d6.
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo
+- **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia.
+
+
+### Blade Ward
+  <div class="spell-tags">abjuration warmagic thaumaturgy</div>
+
+*Cantrip*
+- **Execução:** padrão;
+- **Alcance:** pessoal;
+- **Duração:** 1 rodada..
+
+___
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
 
 ### Burning Hands
@@ -180,8 +164,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 - **+1 PM:** dano +1d6.
 - **+2PM:** aumenta o tamanho do cone em +1sqr
 
-{{pageNumber,auto}}
-\page
+
 ### Chaos Bolt
   <div class="spell-tags">occult unholy evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
@@ -209,7 +192,8 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 - **+1PM:** aumenta o dano em 1d6
 
-
+{{pageNumber,auto}}
+\page
 ### Compelled Duel
   <div class="spell-tags">warmagic holy enchantment no-trickery sacred thaumaturgy</div>
 
@@ -257,8 +241,7 @@ ___
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
 The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-{{pageNumber,auto}}
-\page
+
 ### Curar Ferimentos
   <div class="spell-tags">recovery sacred</div>
 
@@ -276,7 +259,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+2 PM:** muda o alcance para curto.
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
-
+{{pageNumber,auto}}
+\page
 ### Darkvision
   <div class="spell-tags">unholy holy divination transmutation occult sacred arcane boost</div>
 
@@ -320,8 +304,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora.
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas.
 - **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo.
-{{pageNumber,auto}}
-\page
+
 ### Divine Favor
   <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
@@ -335,7 +318,8 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 - **+2PM:** +1d6 damage
 
-
+{{pageNumber,auto}}
+\page
 ### Eldritch Blast
   <div class="spell-tags">energy evocation thaumaturgy</div>
 
@@ -395,8 +379,7 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-{{pageNumber,auto}}
-\page
+
 ### Escudo
   <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -415,7 +398,8 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo. 
 - **+3 PM:** muda a duração para 1 dia. Requer 2º círculo.
 
-
+{{pageNumber,auto}}
+\page
 ### Explosão de chamas
   <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -460,8 +444,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 - **+3PM:** increase both damages by +1d8
 
-{{pageNumber,auto}}
-\page
+
 ### Guidance
   <div class="spell-tags">divination boost sacred arcane</div>
 
@@ -474,7 +457,8 @@ As part of the action used to cast this spell, you must make a melee attack with
 ___
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-
+{{pageNumber,auto}}
+\page
 ### Guiding Bolt
   <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
 
@@ -492,7 +476,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 
 
 ### Healing Word
-  <div class="spell-tags">recovery sacred wind nature</div>
+  <div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Movement Action;
@@ -517,8 +501,7 @@ A creature of your choice that you can see within range regains hit points equal
 ___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-{{pageNumber,auto}}
-\page
+
 ### Longstrider
   <div class="spell-tags">boost sacred thaumaturgy</div>
 
@@ -534,7 +517,8 @@ You touch a creature. The target’s speed increases by 2sqr until the spell end
 - **+1PM:** increase the movement speed by another +1sqr
 - **+1PM:** increase the target by +1
 
-
+{{pageNumber,auto}}
+\page
 ### Mage Armor
   <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -576,10 +560,9 @@ You extend your hand toward a creature you can see within range and project a pu
 
 - **+2 PM:** Aumenta o dano em 1d12.
 
-{{pageNumber,auto}}
-\page
+
 ### Prayer of Healing
-  <div class="spell-tags">wind nature holy recovery sacred</div>
+  <div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
 *2nd Circle*
 - **Execução:** 10 Minutes;
@@ -592,7 +575,8 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-
+{{pageNumber,auto}}
+\page
 ### Primor Atlético
   <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
 
@@ -637,8 +621,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
-{{pageNumber,auto}}
-\page
+
 ### Resistance
   <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -652,7 +635,8 @@ ___
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
 
-
+{{pageNumber,auto}}
+\page
 ### Searing Smite
   <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 
@@ -695,10 +679,9 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 - **+2PM:** increase the damage by +1d6
 
-{{pageNumber,auto}}
-\page
+
 ### Thunderous Smite
-  <div class="spell-tags">warmagic water nature thaumaturgy</div>
+  <div class="spell-tags">warmagic wind nature thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento;
@@ -708,7 +691,8 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 ___
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-
+{{pageNumber,auto}}
+\page
 ### Toque Chocante
   <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
 
@@ -759,10 +743,9 @@ Make a ranged spell attack against that creature. On a hit, the target takes 1d1
 
 - **+2PM:** increase the initial damage by +1d12
 
-{{pageNumber,auto}}
-\page
+
 ### Word of Radiance
-  <div class="spell-tags">holy sacred radiant energy</div>
+  <div class="spell-tags">holy sacred radiant energy speech no-trickery</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -775,7 +758,8 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 - **+1PM:** increase the damage by +1d6
 
-
+{{pageNumber,auto}}
+\page
 ### Zephyr Strike
   <div class="spell-tags">warmagic energy force thaumaturgy boost no-sacred wind nature</div>
 

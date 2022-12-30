@@ -1,4 +1,4 @@
-#spell #holy #sacred #radiant #energy
+#spell #holy #sacred #radiant #energy #speech #no-trickery
 ### Word of Radiance
 *Truque*
 ___

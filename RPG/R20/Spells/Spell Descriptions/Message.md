@@ -1,4 +1,4 @@
-#spell #divination #arcane
+#spell #divination #arcane #speech #trickery  
 ### Message
 *Truque*
 ___

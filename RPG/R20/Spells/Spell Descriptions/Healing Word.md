@@ -1,4 +1,4 @@
-#spell #recovery #sacred #wind #nature
+#spell #recovery #sacred #speech #no-trickery
 ### Healing Word
 *1º Círculo*
 ___

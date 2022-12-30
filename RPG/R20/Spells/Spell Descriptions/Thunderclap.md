@@ -1,4 +1,4 @@
-#spell #wind #nature #transmutation #arcane 
+#spell #wind #nature #transmutation #arcane
 ### Thunderclap
 *Truque*
 ___

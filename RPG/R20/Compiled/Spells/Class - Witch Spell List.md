@@ -171,7 +171,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 
 
 ### Command
-  <div class="spell-tags">enchantment trickery curse occult</div>
+  <div class="spell-tags">enchantment speech trickery curse occult</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -278,7 +278,7 @@ ___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 ### Dissonant Whispers
-  <div class="spell-tags">ilusion curse unholy trickery occult psyquic energy occult</div>
+  <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -387,7 +387,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 {{pageNumber,auto}}
 \page
 ### Healing Word
-  <div class="spell-tags">recovery sacred wind nature</div>
+  <div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Movement Action;
@@ -402,7 +402,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 
 ### Hellish Rebuke
-  <div class="spell-tags">curse occult fire elemental</div>
+  <div class="spell-tags">curse occult fire elemental speech trickery</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -419,7 +419,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 
 ### Hideous Laughter
-  <div class="spell-tags">enchantment trickery curse occult</div>
+  <div class="spell-tags">enchantment trickery curse occult speech</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -544,7 +544,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 
 
 ### Mass Healing Word
-  <div class="spell-tags">recovery sacred wind nature</div>
+  <div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *3rd Circle*
 - **Execução:** 1 Movement Action;
@@ -579,7 +579,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 {{pageNumber,auto}}
 \page
 ### Oração
-  <div class="spell-tags">wind nature sacred boost occult curse enchantment trickery</div>
+  <div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
 
 *3rd Circle*
 - **Execução:** padrão;
@@ -627,7 +627,7 @@ Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Pe
 
 
 ### Prayer of Healing
-  <div class="spell-tags">wind nature holy recovery sacred</div>
+  <div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
 *2nd Circle*
 - **Execução:** 10 Minutes;
@@ -737,7 +737,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 
 
 ### Toll the Dead
-  <div class="spell-tags">occult unholy decay necrotic</div>
+  <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
 *Cantrip*
 - **Execução:** 1 Action;
@@ -769,7 +769,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 {{pageNumber,auto}}
 \page
 ### Vicious Mockery
-  <div class="spell-tags">trickery occult curse psyquic energy</div>
+  <div class="spell-tags">trickery occult curse psyquic energy speech</div>
 
 *Cantrip*
 - **Execução:** padrão;

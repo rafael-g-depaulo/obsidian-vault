@@ -1,4 +1,4 @@
-#spell #curse #occult #fire #elemental 
+#spell #curse #occult #fire #elemental #speech  #trickery
 ### Hellish Rebuke
 *1º Círculo*
 ___

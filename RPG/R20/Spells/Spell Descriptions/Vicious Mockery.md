@@ -1,4 +1,4 @@
-#spell #trickery #occult  #curse #psyquic #energy 
+#spell #trickery #occult #curse #psyquic #energy #speech 
 ### Vicious Mockery
 *Truque*
 ___

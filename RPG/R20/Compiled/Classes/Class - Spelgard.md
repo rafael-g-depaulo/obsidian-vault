@@ -125,9 +125,8 @@ List of spells available for a Spelgard to learn.
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
-- [[Bless]]
+- [[Benção]]
 - [[Burning Hands]]
-- [[Bênção]]
 - [[Chaos Bolt]]
 - [[Compelled Duel]]
 - [[Concentração de Combate]]

@@ -1,4 +1,4 @@
-#spell #transmutation #arcane #lighning #wind #nature #no-energy #elemental 
+#spell #transmutation #arcane #elemental #wind #nature 
 ### Thunderwave
 *1º Círculo*
 ___

@@ -1,4 +1,4 @@
-#spell #recovery #sacred #wind #nature 
+#spell #recovery #sacred #speech #no-trickery 
 ### Mass Healing Word
 *3rd Circle*
 ___

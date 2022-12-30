@@ -79,8 +79,7 @@
 - [[Resistance]]
 ### 1st Circle
 - [[Arma Mágica]]
-- [[Bless]]
-- [[Bênção]]
+- [[Benção]]
 - [[Concentração de Combate]]
 - [[Escudo]]
 - [[Longstrider]]
@@ -345,7 +344,6 @@
 - [[Control Flames]]
 - [[Minor Ilusion]]
 ### 1st Circle
-- [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Luz]]
@@ -362,7 +360,6 @@
 - [[Lightning Lure]]
 ### 1st Circle
 - [[Chaos Bolt]]
-- [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 3rd Circle
@@ -379,7 +376,6 @@
 - [[Earth Tremor]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
-- [[Healing Word]]
 - [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Zephyr Strike]]
@@ -387,12 +383,9 @@
 ### 2nd Circle
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
-- [[Prayer of Healing]]
 - [[Spider Climb]]
 - [[Warding Wind]]
 ### 3rd Circle
-- [[Mass Healing Word]]
-- [[Oração]]
 - [[Sopro das Uivantes]]
 
 ## Necromancy Spells
@@ -410,9 +403,9 @@
 - [[Life Transference]]
 - [[Toque Vampírico]]
 
-## No-energy Spells
-### 1st Circle
-- [[Thunderwave]]
+## No-nature Spells
+### Cantrip
+- [[Toll the Dead]]
 
 ## No-occult Spells
 ### Cantrip
@@ -432,8 +425,16 @@
 - [[Feather Fall]]
 
 ## No-trickery Spells
+### Cantrip
+- [[Word of Radiance]]
 ### 1st Circle
+- [[Benção]]
 - [[Compelled Duel]]
+- [[Healing Word]]
+### 2nd Circle
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Mass Healing Word]]
 
 ## No-wild Spells
 ### 1st Circle
@@ -534,8 +535,7 @@
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Arma Mágica]]
-- [[Bless]]
-- [[Bênção]]
+- [[Benção]]
 - [[Compelled Duel]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease]]
@@ -565,6 +565,24 @@
 - [[Raio Solar]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+
+## Speech Spells
+### Cantrip
+- [[Message]]
+- [[Vicious Mockery]]
+- [[Word of Radiance]]
+### 1st Circle
+- [[Benção]]
+- [[Command]]
+- [[Dissonant Whispers]]
+- [[Healing Word]]
+- [[Hellish Rebuke]]
+- [[Hideous Laughter]]
+### 2nd Circle
+- [[Prayer of Healing]]
+### 3rd Circle
+- [[Mass Healing Word]]
+- [[Oração]]
 
 ## Summon Spells
 ### Cantrip
@@ -667,6 +685,7 @@
 ### Cantrip
 - [[Booming Blade]]
 - [[Control Flames]]
+- [[Message]]
 - [[Minor Ilusion]]
 - [[Vicious Mockery]]
 ### 1st Circle
@@ -681,6 +700,7 @@
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escuridão]]
+- [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Luz]]
@@ -761,7 +781,6 @@
 ### Cantrip
 - [[Shape Water]]
 ### 1st Circle
-- [[Thunderous Smite]]
 - [[Área Escorregadia]]
 
 ## Wild Spells
@@ -801,18 +820,16 @@
 ### Cantrip
 - [[Booming Blade]]
 - [[Thunderclap]]
+- [[Toll the Dead]]
 ### 1st Circle
 - [[Despedaçar]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
-- [[Healing Word]]
+- [[Thunderous Smite]]
 - [[Thunderwave]]
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
-- [[Prayer of Healing]]
 - [[Warding Wind]]
 ### 3rd Circle
-- [[Mass Healing Word]]
-- [[Oração]]
 - [[Sopro das Uivantes]]

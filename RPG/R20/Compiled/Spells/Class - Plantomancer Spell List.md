@@ -292,7 +292,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 
 ### Command
-  <div class="spell-tags">enchantment trickery curse occult</div>
+  <div class="spell-tags">enchantment speech trickery curse occult</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -568,7 +568,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 - **+2PM:** aumenta o dano em 1d10
 
 ### Healing Word
-  <div class="spell-tags">recovery sacred wind nature</div>
+  <div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Movement Action;
@@ -584,7 +584,7 @@ A creature of your choice that you can see within range regains hit points equal
 {{pageNumber,auto}}
 \page
 ### Hideous Laughter
-  <div class="spell-tags">enchantment trickery curse occult</div>
+  <div class="spell-tags">enchantment trickery curse occult speech</div>
 
 *1st Circle*
 - **Execução:** padrão;
@@ -658,7 +658,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+1 PM:** Increase the number of pebbles by 1.
 
 ### Mass Healing Word
-  <div class="spell-tags">recovery sacred wind nature</div>
+  <div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *3rd Circle*
 - **Execução:** 1 Movement Action;
@@ -693,7 +693,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 - **+3PM:** increase all damage by +1d6
 
 ### Message
-  <div class="spell-tags">divination arcane</div>
+  <div class="spell-tags">divination arcane speech trickery</div>
 
 *Cantrip*
 - **Execução:** padrão;
@@ -723,7 +723,7 @@ You extend your hand toward a creature you can see within range and project a pu
 
 
 ### Prayer of Healing
-  <div class="spell-tags">wind nature holy recovery sacred</div>
+  <div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
 *2nd Circle*
 - **Execução:** 10 Minutes;
@@ -955,7 +955,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 
 ### Thunderwave
-  <div class="spell-tags">transmutation arcane lighning wind nature no-energy elemental</div>
+  <div class="spell-tags">transmutation arcane elemental wind nature</div>
 
 *1st Circle*
 - **Execução:** 1 Action;
