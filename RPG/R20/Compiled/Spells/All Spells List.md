@@ -10,6 +10,7 @@
 - [[Eldritch Blast]]
 - [[Fire Bolt]]
 - [[Frostbite]]
+- [[Green Flame Blade]]
 - [[Guidance]]
 - [[Infestation]]
 - [[Lightning Lure]]
@@ -89,6 +90,7 @@
 - [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Tranquilidade]]
+- [[Witch Bolt]]
 - [[Zephyr Strike]]
 - [[Área Escorregadia]]
 
@@ -163,7 +165,6 @@
 - [[Cloud of Daggers]]
 - [[Enthrall]]
 - [[Flaming Sphere]]
-- [[Green Flame Blade]]
 - [[Gust]]
 - [[Healing Spirit]]
 - [[Heroism]]
@@ -178,4 +179,3 @@
 - [[Silence]]
 - [[Silent Image]]
 - [[Snowball Swarm]]
-- [[Witch Bolt]]

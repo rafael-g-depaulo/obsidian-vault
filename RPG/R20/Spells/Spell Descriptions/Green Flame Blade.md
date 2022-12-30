@@ -1,25 +1,11 @@
-### Spell Name
-
-_XXº Círculo_
-
----
-
+#spell #warmagic #arcane #fire #elemental 
+### Green Flame Blade
+_Truque_
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura
-- **Duração:** concentração.
+- **Duração:** imediata.
 
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
 
-- **+1 PM:** Upgrade 1.
-- **+3 PM:** Upgrade 2.
-
-Level: **Cantrip**  
-Casting time: **1 Action**  
-Range: **Touch**  
-Components: **V, S**  
-Duration: **Concentration, up to 1 minute**
-
----
-
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+- **+3PM:** increase both damages by +1d8

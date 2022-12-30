@@ -30,6 +30,7 @@
 - [[Blade Ward]]
 - [[Booming Blade]]
 - [[Create Bonfire]]
+- [[Green Flame Blade]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
 - [[Shape Water]]
@@ -218,6 +219,7 @@
 - [[Create Bonfire]]
 - [[Fire Bolt]]
 - [[Frostbite]]
+- [[Green Flame Blade]]
 - [[Lightning Lure]]
 - [[Ray of Frost]]
 ### 1st Circle
@@ -230,6 +232,7 @@
 - [[Searing Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 2nd Circle
 - [[Continual Flame]]
 - [[Heat Metal]]
@@ -290,6 +293,7 @@
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 2nd Circle
 - [[Continual Flame]]
 ### 3rd Circle
@@ -318,6 +322,7 @@
 - [[Control Flames]]
 - [[Create Bonfire]]
 - [[Fire Bolt]]
+- [[Green Flame Blade]]
 ### 1st Circle
 - [[Burning Hands]]
 - [[Chaos Bolt]]
@@ -376,6 +381,7 @@
 - [[Chaos Bolt]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 3rd Circle
 - [[Relâmpago]]
 
@@ -625,6 +631,7 @@
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 2nd Circle
 - [[Continual Flame]]
 - [[Continual Flame]]
@@ -738,6 +745,7 @@
 ### Cantrip
 - [[Blade Ward]]
 - [[Booming Blade]]
+- [[Green Flame Blade]]
 - [[Shillelagh]]
 - [[Sword Burst]]
 ### 1st Circle

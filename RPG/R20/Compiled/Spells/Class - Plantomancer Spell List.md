@@ -1,7 +1,6 @@
 ## Plantomancer Spells
 
 ### Cantrip
-
 - [[Acid Splash]]
 - [[Blade Ward]]
 - [[Booming Blade]]
@@ -15,7 +14,6 @@
 - [[Thunderclap]]
 
 ### 1st Circle
-
 - [[Abençoar Alimentos]]
 - [[Animal Friendship]]
 - [[Armor of Agathys]]
@@ -53,7 +51,6 @@
 - [[Área Escorregadia]]
 
 ### 2nd Circle
-
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
@@ -67,83 +64,66 @@
 - [[Web]]
 
 ### 3rd Circle
-
 - [[Flecha Ácida]]
 - [[Mass Healing Word]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
 
 ## Spell Descriptions
-
 ### Abençoar Alimentos
-
   <div class="spell-tags">holy sacred plant no-wild</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** alimento para 1 criatura;
 - **Duração:** cena..
 
----
-
+___
 Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna um alimento sujo, estragado ou envenenado próprio para consumo. Além disso, se for consumido até o final da duração, o alimento oferece 5 PV temporários ou 1 PM temporário (além de quaisquer bônus que já oferecesse). Bônus de alimentação duram um dia e cada personagem só pode receber um bônus de alimentação por dia. Truque: o alimento é purificado (não causa nenhum efeito nocivo se estava estragado ou envenenado), mas não oferece bônus ao ser consumido.
 
 - **+1 PM:** aumenta o número de alvos em +1.
 - **+1 PM:** muda a duração para permanente, o alvo para 1 frasco com água e adiciona componente material (pó de prata no valor de T$ 5). Em vez do normal, cria um frasco de água benta.
 
 ### Acid Splash
-
   <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão.;
 - **Alcance:** 6sqr.;
 - **Alvo:** 1 criatura.;
 - **Duração:** instantânea..
 
----
-
-You hurl a bubble of acid.  
-Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
-
-- **+1 PM:** Aumenta o dano em 1d6 (limitado pelo círculo máximo de magia que você tem).
-- **+3 PM:** Muda o alcance para 18m.
+___
+DESCRIPTION_NOT_FOUND
 
 ### Animal Friendship
-
   <div class="spell-tags">wild feral enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 12sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** 24 horas..
 
----
-
+___
 This spell lets you convince a beast that you mean it no harm.  
 Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
 
 - **+2PM:** you can affect one additional beast for each slot level above 1st.
 
-### Área Escorregadia
 
+### Área Escorregadia
   <div class="spell-tags">arcane creation trickery water nature</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** quadrado de 2sqr ou 1 objeto;
 - **Duração:** cena;
 - **Resistência:** Dex.
 
----
-
+___
 Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
 
 Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
@@ -155,19 +135,15 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 
 {{pageNumber,auto}}
 \page
-
 ### Armor of Agathys
-
   <div class="spell-tags">cold elemental abjuration warmagic arcane thaumaturgy</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** pessoal;
 - **Duração:** cena..
 
----
-
+___
 A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear.
 
 You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
@@ -175,85 +151,73 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 - **+1PM:** aumenta os PV temporários em 5
 - **+1PM:** aumenta o dano em 5
 
-### Beast Bond
 
+### Beast Bond
   <div class="spell-tags">feral divination enchantment wild trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** cena (1h)..
 
----
-
+___
 You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
 
 - **+2PM:** increase the maximum intelligence by +1
 
-### Blade Ward
 
+### Blade Ward
   <div class="spell-tags">abjuration warmagic thaumaturgy arcane</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** pessoal;
 - **Duração:** 1 rodada..
 
----
-
+___
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
 
-### Blindness Deafness
 
+### Blindness Deafness
   <div class="spell-tags">curse transmutation trickery occult arcane</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** cena..
 
----
-
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
+___
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends. 
 
 - **+3PM:** target an additional creature.
 
 {{pageNumber,auto}}
 \page
-
 ### Booming Blade
-
   <div class="spell-tags">warmagic wind trickery curse occult arcane nature</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alvo:** pessoal;
 - **Duração:** imediata..
 
----
-
+___
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.  
 On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
-This spell's damage increases when you reach higher levels.
+This spell's damage increases when you reach higher levels. 
+
 
 ### Caminhos da Natureza
-
   <div class="spell-tags">wild summon enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Duração:** 1 dia..
 
----
-
+___
 Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As criaturas afetadas recebem deslocamento +3m e ignoram penalidades por terreno difícil em terrenos naturais.
 
 - **+0 PM**: muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
@@ -261,19 +225,16 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+2 PM**: aumenta o bônus de deslocamento em +3m.
 
 ### Canhão de Ervilha
-
   <div class="spell-tags">summon plant wild</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 criatura ou objeto mundano Pequeno;
 - **Duração:** instantânea;
 - **Resistência:** Fortitude parcial ou Reflexos anula..
 
----
-
+___
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 - **+2 PM:** aumenta o dano em +1d8+2.
@@ -283,98 +244,84 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo.
 
 ### Catapult
-
   <div class="spell-tags">transmutation earth nature arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** imediata..
 
----
-
-Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.
+___
+Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.  
 
 - **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb
 
 {{pageNumber,auto}}
 \page
-
 ### Cause Fear
-
   <div class="spell-tags">curse trickery enchantment occult</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 12sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
----
-
+___
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 - **+2PM:** target one additional creature
 
-### Charm Person
 
+### Charm Person
   <div class="spell-tags">enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** cena..
 
----
-
+___
 You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
 - **+2PM**: target one additional creature.
 
-### Command
 
+### Command
   <div class="spell-tags">enchantment trickery curse occult</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** 1 rodada..
 
----
-
+___
 You speak a one-word command to a creature you can see within range.  
-The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.
-
-- **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
-- **Drop** The target drops whatever it is holding and then ends its turn.
-- **Flee** The target spends its turn moving away from you by the fastest available means.
-- **Grovel** The target falls prone and then ends its turn.
-- **Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
+The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.  
+- **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.  
+- **Drop** The target drops whatever it is holding and then ends its turn.  
+- **Flee** The target spends its turn moving away from you by the fastest available means.  
+- **Grovel** The target falls prone and then ends its turn.  
+- **Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air. 
 
 - **+2PM:** target an additional creature
 
-### Compelled Duel
 
+### Compelled Duel
   <div class="spell-tags">warmagic holy enchantment no-trickery sacred arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** movimento;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** cena..
 
----
-
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.
-
+___
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.  
+  
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
 - **+XPM:** you gain an offensive buff against the target
@@ -382,20 +329,16 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 {{pageNumber,auto}}
 \page
-
 ### Controlar Plantas
-
   <div class="spell-tags">plant wild enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Duração:** cena;
 - **Resistência:** Dex..
 
----
-
+___
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador.
@@ -404,42 +347,37 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis.
 - **+2 PM:** muda o alcance para pessoal, a área para alvo (você) e a resistência para nenhuma. Em vez do normal, você consegue se comunicar com plantas, que começam com atitude prestativa em relação a você. Além disso, você pode fazer testes de Diplomacia com plantas. Em geral, plantas têm uma percepção limitada de seus arredores e normalmente fornecem respostas simplórias.
 
-### Crown of Madness
 
+### Crown of Madness
   <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
----
-
+___
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
-While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
-
-The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
-
+While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
+  
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.  
+  
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns
 - **+2PM:** increase the damage by +1d8
 
 ### Curar Ferimentos
-
   <div class="spell-tags">recovery sacred</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea..
 
----
-
+___
 Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura tocada. Como mortos-vivos usam energia egativa, esta magia causa dano de luz a eles (Vontade reduz à metade). Curar Ferimentos anula Infligir Ferimentos. Truque: em vez do normal, estabiliza uma criatura. Truque: muda o alvo para 1 morto- vivo. Em vez do normal, causa 1d8 pontos de dano de luz (Vontade reduz à metade).
 
 - **+1 PM:** aumenta a cura em +1d8+1.
@@ -447,34 +385,28 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+2 PM:** muda o alcance para curto.
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
 
-### Detect Poison and Disease
 
+### Detect Poison and Disease
   <div class="spell-tags">sacred holy recovery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** Self;
 - **Duração:** 10 minutes.
 
----
-
+___
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 {{pageNumber,auto}}
 \page
-
 ### Detectar Ameaças
-
   <div class="spell-tags">divination feral wild trickery arcane warmagic</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** pessoal;
 - **Duração:** instantânea..
 
----
-
+___
 Você percebe a presença e a localização de criaturas inamistosas ou hostis na área, mesmo através de barreiras físicas.
 
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos.
@@ -483,90 +415,76 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo.
 
 ### Divine Favor
-
   <div class="spell-tags">warmagic holy sacred radiant energy arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** Movimento;
 - **Alcance:** pessoal;
 - **Duração:** concentração..
 
----
-
+___
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
 
 - **+2PM:** +1d6 damage
 
-### Earth Tremor
 
+### Earth Tremor
   <div class="spell-tags">earth nature transmutation arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** Self (2sqr radius);
 - **Duração:** Instantaneous.
 
----
-
+___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 - **+2PM:** increase the damage by +1d6
 - **+3PM:** increase the radius by 1sqr
 
 ### Earthbind
-
   <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 30sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
----
-
+___
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
 {{pageNumber,auto}}
 \page
-
 ### Enfeitiçar
-
   <div class="spell-tags">enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 humanoide;
 - **Duração:** concentração;
 - **Resistência:** PRE anula.
 
----
-
+___
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
 - **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar.
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo.
 - **+5 PM:** afeta todos os alvos dentro do alcance.
 
-### Entangle
 
+### Entangle
   <div class="spell-tags">plant wild trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 10sqr ;
 - **Alvo:** quadrado de lado 4sqr com centro no ponto escolhido;
 - **Duração:** concentração.;
 - **Resistência:** Força.
 
----
-
+___
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
 into difficult terrain.
 
@@ -577,224 +495,189 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta a CD em 1.
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr.
 
-### False Life
 
+### False Life
   <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** pessoal;
 - **Duração:** cena..
 
----
-
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+___
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
 
 - **+1PM:** aumenta +1d4 nos PV temporários
 
 ### Feather Fall
-
   <div class="spell-tags">transmutation wind chronomancy arcane no-thaumaturgy nature</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** reação;
 - **Alcance:** 12sqr;
 - **Alvo:** 1-5 criaturas;
 - **Duração:** 1 minuto..
 
----
-
+___
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
 {{pageNumber,auto}}
 \page
-
 ### Flecha Ácida
-
   <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
-_3rd Circle_
-
+*3rd Circle*
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura ou objeto;
 - **Duração:** instantânea;
 - **Resistência:** Reflexos parcial..
 
----
-
+___
 Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
 - **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus.
 - **+2 PM:** aumenta a redução na Defesa em 1.
 - **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6.
 
-### Fog Cloud
 
+### Fog Cloud
   <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** 20sqr;
 - **Duração:** Concentration.
 
----
-
+___
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
 ### Goodberry
-
   <div class="spell-tags">plant wild summon</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** toque;
 - **Duração:** instantâneo..
 
----
-
+___
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
 - **+1 PM:** Increase the number of berries by 2.
 
-### Hail of Thorns
 
+### Hail of Thorns
   <div class="spell-tags">warmagic plant wild no-arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** livre (durante um ataque a distância);
 - **Alcance:** pessoal;
 - **Duração:** imediata..
 
----
-
+___
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
 
 - **+2PM:** aumenta o dano em 1d10
-  {{pageNumber,auto}}
-  \page
-
+{{pageNumber,auto}}
+\page
 ### Healing Word
-
   <div class="spell-tags">recovery sacred wind nature</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Movement Action;
 - **Alcance:** 60 feet;
 - **Duração:** Instantaneous.
 
----
-
+___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4
 - **+3 PM:** muda o casting para reação
 
-### Hideous Laughter
 
+### Hideous Laughter
   <div class="spell-tags">enchantment trickery curse occult</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
----
-
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.
-
+___
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
+  
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 
-### Lesser Restoration
 
+### Lesser Restoration
   <div class="spell-tags">holy recovery sacred holy</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** 1 Action;
 - **Alcance:** Touch;
 - **Duração:** Instantaneous.
 
----
-
+___
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-### Lightning Lure
 
+### Lightning Lure
   <div class="spell-tags">lighning elemental transmutation arcane</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** 3sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** imediata..
 
----
-
+___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
-The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
+The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you. 
 
 - **+2PM:** increase damage by +1d8
 
 {{pageNumber,auto}}
 \page
-
 ### Magic Missile
-
   <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** 30sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** imediata..
 
----
-
+___
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar)
 
-### Magic Stone
 
+### Magic Stone
   <div class="spell-tags">transmutation arcane</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** toque;
 - **Alvo:** 1 a 3 pedras pequenas;
 - **Duração:** cena..
 
----
-
+___
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 - **+3 PM:** Increase the damage by 1d6.
 - **+1 PM:** Increase the number of pebbles by 1.
 
 ### Mass Healing Word
-
   <div class="spell-tags">recovery sacred wind nature</div>
 
-_3rd Circle_
-
+*3rd Circle*
 - **Execução:** 1 Movement Action;
 - **Alcance:** 30 feet;
 - **Duração:** Instantaneous.
 
----
-
+___
 As you call out words of restoration equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+1 PM:** aumenta o alcanse em 1 passo
@@ -802,169 +685,147 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+2 PM:** aumenta o número de alvos em 2
 
 ### Maximilian's Earthen Grasp
-
   <div class="spell-tags">earth creation arcane nature</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** cena..
 
----
-
+___
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
 
 As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.
+To break out, the restrained target can make a Strength check against your spell save DC. On a success, the target escapes and is no longer restrained by the hand.  
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
 - **+3PM:** increase all damage by +1d6
-  {{pageNumber,auto}}
-  \page
-
+{{pageNumber,auto}}
+\page
 ### Poison Spray
-
   <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** 1 Action;
 - **Alcance:** 2sqr;
 - **Duração:** Instantaneous.
 
----
-
+___
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
 - **+2 PM:** Aumenta o dano em 1d12.
 
-### Prayer of Healing
 
+### Prayer of Healing
   <div class="spell-tags">wind nature holy recovery sacred</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** 10 Minutes;
 - **Alcance:** 30 feet;
 - **Duração:** Instantaneous.
 
----
-
+___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8
 - **+2 PM:** aumenta o número de alvos em 2
 
-### Ray of Enfeeblement
 
+### Ray of Enfeeblement
   <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 15sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** imediata..
 
----
+___
+A black beam of enervating energy springs from your finger toward a creature within range.  
 
-A black beam of enervating energy springs from your finger toward a creature within range.
-
-Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.
-
+Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.  
+  
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-### Ray of Sickness
 
+### Ray of Sickness
   <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** 60 feet;
 - **Duração:** Instantaneous.
 
----
-
+___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 {{pageNumber,auto}}
 \page
-
 ### Shape Water
-
   <div class="spell-tags">transmutation arcane water nature</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** 6sqp;
 - **Alvo:** área de 1sqr;
 - **Duração:** imediato ou cena..
 
----
-
-You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
-
-• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
-
-• You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-
+___
+You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:  
+  
+• You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.  
+  
+• You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.  
+  
 • You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-
+  
 • You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-### Shillelagh
 
+### Shillelagh
   <div class="spell-tags">warmagic no-arcane plant wild</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** movimento;
 - **Alcance:** toque;
 - **Alvo:** 1 arma de madeira;
 - **Duração:** cena..
 
----
-
+___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-### Sleep
 
+### Sleep
   <div class="spell-tags">curse occult enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** 90 feet;
 - **Duração:** 1 minute.
 
----
-
+___
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
 - **+1PM:** Add +1d8 to the dice rolled.
 
-### Soco de Arsenal
 
+### Soco de Arsenal
   <div class="spell-tags">arcane creation unholy summon wild occult</div>
 
-_3rd Circle_
-
+*3rd Circle*
 - **Execução:** padrão;
 - **Alcance:** 20sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea;
 - **Resistência:** Fortitude reduz à metade..
 
----
+___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
@@ -975,207 +836,179 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 
 {{pageNumber,auto}}
 \page
-
 ### Sopro das Uivantes
-
   <div class="spell-tags">wind nature cold elemental creation arcane</div>
 
-_3rd Circle_
-
+*3rd Circle*
 - **Execução:** padrão;
 - **Alcance:** 4sqr;
 - **Duração:** instantânea;
 - **Resistência:** Fortitude parcial..
 
----
-
+___
 Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à metade). Criaturas de tamanho Médio ou menor que falhem na resistência são empurradas 6m na direção oposta. Se houver uma parede ou outro objeto sólido (mas não uma criatura) no caminho, a criatura para de se mover, mas sofre 1d6 pontos de dano de impacto.
 
 - **+2 PM:** aumenta o dano de frio em +2d6.
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas.
 - **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo.
 
-### Spike Growth
 
+### Spike Growth
   <div class="spell-tags">plant wild creation arcane</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 30sqr;
 - **Alvo:** quadrado de lado 4sqr;
 - **Duração:** concentração..
 
----
-
-The ground in the radius centered twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
-
+___
+The ground in the radius centered twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.  
+  
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-### Sugestion
 
+### Sugestion
   <div class="spell-tags">enchantment trickery</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 6sqr;
 - **Alvo:** 1 criatura;
 - **Duração:** concentração..
 
----
-
-You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.
-
-The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
-
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t preformed.
-
+___
+You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can’t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.  
+  
+The target must make a Wisdom saving throw. On a failed save, it purses the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.  
+  
+You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn’t met before the spell expires, the activity isn’t preformed.  
+  
 If you or any of your companions damage the target, the spell ends.
 
-### Sword Burst
 
+### Sword Burst
   <div class="spell-tags">creation arcane warmagic thaumaturgy</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** raio de 1sqr centrado em você;
 - **Duração:** imediata..
 
----
-
+___
 You create a momentary circle of spectral blades that sweep around you.  
-Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage. 
 
 - **+2PM:** increase the damage by +1d6
 
 {{pageNumber,auto}}
 \page
-
 ### Teia
-
   <div class="spell-tags">arcane creation feral wild</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Duração:** cena;
 - **Resistência:** Dex.
 
----
-
+___
 Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer criatura na área que falhar na resistência fica enredada. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. A área ocupada por Teia é terreno difícil. A Teia é inflamável. Qualquer ataque que cause dano de fogo destrói as teias por onde passar, libertando as criaturas enredadas mas deixando-as em chamas (veja Condições, no Apêndice).
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis.
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo.
 - **+2 PM:** aumenta a área em +1 cubo de 1,5m.
 
-### Thorn Whip
 
+### Thorn Whip
   <div class="spell-tags">wild plant summon creation arcane</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** 3m (2 quadrados de 1,5m);
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea..
 
----
-
+___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **+2 PM:** Increase damage by +2d6.
+- **+2 PM:** Increase damage by +2d6. 
 - **+1PM:** +2 to hit.
 
-### Thunderclap
 
+### Thunderclap
   <div class="spell-tags">wind nature transmutation arcane</div>
 
-_Cantrip_
-
+*Cantrip*
 - **Execução:** padrão;
 - **Alcance:** raio de 1sqr centrado em você;
 - **Duração:** imediata..
 
----
-
+___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
-Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
+Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.  
 
 - **+2PM:** increase the damage by 1d6
 
-### Thunderous Smite
 
+### Thunderous Smite
   <div class="spell-tags">warmagic water nature arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** movimento;
 - **Alcance:** pessoal;
 - **Duração:** 1 rodada..
 
----
-
+___
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
 {{pageNumber,auto}}
 \page
-
 ### Thunderwave
-
   <div class="spell-tags">transmutation arcane lighning wind nature no-energy elemental</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** 1 Action;
 - **Alcance:** Self (3sqr cube);
 - **Duração:** Instantaneous.
 
----
-
+___
 A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr.
 - **+1PM:** increase the damage by 1d6.
 
-### Toque Chocante
 
+### Toque Chocante
   <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic arcane</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** toque;
 - **Alvo:** 1 criatura;
 - **Duração:** instantânea;
 - **Crítico:** 20/2x.
 
----
-
+___
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
 - **+1 PM:** aumenta o dano em 1d8+1.
 - **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia.
 - **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área
 
-### Tranquilidade
 
+### Tranquilidade
   <div class="spell-tags">enchantment trickery</div>
 
-_1st Circle_
-
+*1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
 - **Alvo:** 1 animal ou humanoide;
 - **Duração:** cena;
 - **Resistência:** Vontade parcial..
 
----
-
+___
 Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitude mudada para indiferente e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior, de acordo com o mestre).
 
 - **+1 PM:** muda o alvo para 1 criatura.
@@ -1184,43 +1017,37 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
 
 ### Warding Wind
-
   <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** pessoal;
 - **Duração:** concentração..
 
----
-
+___
 A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.  
-The wind has the following effects:
-
-- It deafens you and other creatures in its area.
-- It extinguishes unprotected flames in its area that are torch-sized or smaller.
-- The area is difficult terrain for creatures other than you.
-- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.
+The wind has the following effects:  
+- It deafens you and other creatures in its area.  
+- It extinguishes unprotected flames in its area that are torch-sized or smaller.  
+- The area is difficult terrain for creatures other than you.  
+- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.  
 - It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+
 
 {{pageNumber,auto}}
 \page
-
 ### Web
-
   <div class="spell-tags">feral wild trickery creation arcane</div>
 
-_2nd Circle_
-
+*2nd Circle*
 - **Execução:** padrão;
 - **Alcance:** 12sqr;
 - **Duração:** cena..
 
----
-
+___
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area. If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
 Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free. A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+
