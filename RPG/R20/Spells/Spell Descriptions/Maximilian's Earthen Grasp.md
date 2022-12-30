@@ -1,3 +1,5 @@
+{{spell-definition "Maximilian's Earthen Grasp"
+
 TAGS:
 - #spell
 - #earth
@@ -5,15 +7,13 @@ TAGS:
 - #arcane
 - #nature
 
-INCORRECT_FORMAT_SPELL
-### Maximilian's Earthen Grasp
-*2º Círculo*
-___
+LEVEL: 2
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura
 DURATION: cena.
 
+DESCRIPTION:
 You choose a 5-foot-square unoccupied space on the ground that you can see within range. A Medium hand made from compacted soil rises there and reaches for one creature you can see within 5 feet of it. The target must make a Strength saving throw. On a failed save, the target takes 2d6 bludgeoning damage and is restrained for the spell’s duration.
 
 As an action, you can cause the hand to crush the restrained target, who must make a Strength saving throw. It takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.
@@ -26,3 +26,4 @@ INCREASES:
 | cost | description |
 | ---- | ----------- |
 | +3PM | increase all damage by +1d6 |
+}}

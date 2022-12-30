@@ -1,3 +1,5 @@
+{{spell-definition "Shape Water"
+
 TAGS:
 - #spell
 - #transmutation
@@ -5,15 +7,14 @@ TAGS:
 - #water
 - #nature
 
-INCORRECT_FORMAT_SPELL
-### Shape Water
-*Truque*
-___
+LEVEL: 0
+
 CAST_TIME: padrão
 RANGE: 6sqp
 TARGET: área de 1sqr
 DURATION: imediato ou cena.
 
+DESCRIPTION:
 You choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:  
   
 • You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.  

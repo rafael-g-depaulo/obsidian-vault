@@ -1,3 +1,5 @@
+{{spell-definition "Soco de Arsenal"
+
 TAGS:
 - #spell
 - #summon
@@ -5,10 +7,7 @@ TAGS:
 - #wind
 - #nature
 
-INCORRECT_FORMAT_SPELL
-### Soco de Arsenal
-*3º Círculo*
-___
+LEVEL: 3
 CAST_TIME: padrão
 RANGE: 20sqr
 TARGET: 1 criatura
@@ -25,3 +24,4 @@ INCREASES:
 | +2 PM | aumenta o dano em +1d6. |
 | +4 PM | aumenta a distância do efeito de empurrar em +3m. |
 | +5 PM | muda o tipo do dano para essência. |
+}}

@@ -1,3 +1,5 @@
+{{spell-definition "Enlarge/Reduce"
+
 TAGS:
 - #spell
 - #transmutation
@@ -7,10 +9,7 @@ TAGS:
 - #thaumaturgy
 - #arcane
 
-INCORRECT_FORMAT_SPELL
-### Enlarge/Reduce
-*2º Círculo*
-___
+LEVEL: 2
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura
@@ -18,6 +17,7 @@ DURATION: concentração.
 
 TODO: comparar com a versão do t20 e decidir qual usar
 
+DESCRIPTION:
 You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
   
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  

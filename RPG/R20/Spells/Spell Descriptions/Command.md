@@ -1,3 +1,5 @@
+{{spell-definition "Command"
+
 TAGS:
 - #spell
 - #enchantment
@@ -6,15 +8,13 @@ TAGS:
 - #curse
 - #occult
 
-INCORRECT_FORMAT_SPELL
-### Command
-*1º Círculo*
-___
+LEVEL: 1
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura
 DURATION: 1 rodada.
 
+DESCRIPTION:
 You speak a one-word command to a creature you can see within range.  
 The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn’t understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can’t follow your command, the spell ends.  
 - **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.  
@@ -27,3 +27,4 @@ INCREASES:
 | cost | description |
 | ---- | ----------- |
 | +2PM | target an additional creature |
+}}

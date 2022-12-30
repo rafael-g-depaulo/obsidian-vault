@@ -1,3 +1,5 @@
+{{spell-definition "Calm Emotions"
+
 TAGS:
 - #spell
 - #enchantment
@@ -5,15 +7,13 @@ TAGS:
 - #boost
 - #sacred
 
-INCORRECT_FORMAT_SPELL
-### Calm Emotions
-*2º Círculo*
-___
+LEVEL: 2
 CAST_TIME: padrão
 RANGE: 12sqr
 TARGET: 1 criatura
 DURATION: concentração.
 
+DESCRIPTION:
 You attempt to suppress strong emotions in a group of people.  
 Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.  
   

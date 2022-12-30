@@ -1,11 +1,11 @@
 INCORRECT_FORMAT_SPELL
 ### Contagion
-*5th Circle*
-___
+LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: Touch
 DURATION: 7 days
 
+DESCRIPTION:
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
 
 At the end of each of the target’s turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends.

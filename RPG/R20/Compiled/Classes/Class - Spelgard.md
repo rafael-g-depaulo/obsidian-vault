@@ -111,3 +111,33 @@ List of spells available for a Spelgard to learn.
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Green Flame Blade]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Sword Burst]]
+- [[Witch Bolt]]
+
+### 1st Circle
+- [[Arma Mágica]]
+- [[Armor of Agathys]]
+- [[Burning Hands]]
+- [[Chaos Bolt]]
+- [[Concentração de Combate]]
+- [[Curar Ferimentos]]
+- [[Detectar Ameaças]]
+- [[Divine Favor]]
+- [[Escudo]]
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Longstrider]]
+- [[Magic Missile]]
+- [[Primor Atlético]]
+- [[Searing Smite]]
+- [[Toque Chocante]]
+
+### 2nd Circle
+- [[Aid]]
+- [[Darkvision]]
+- [[Enhance Ability]]

@@ -99,4 +99,42 @@ Spell List:
 
 ##  Spells
 
+### Cantrip
+- [[Chill Touch]]
+- [[Frostbite]]
+- [[Infestation]]
+- [[Ray of Frost]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
 
+### 1st Circle
+- [[Bane]]
+- [[Cause Fear]]
+- [[Chaos Bolt]]
+- [[Command]]
+- [[Curar Ferimentos]]
+- [[Dissonant Whispers]]
+- [[Escuridão]]
+- [[False Life]]
+- [[Healing Word]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Luz]]
+- [[Perdição]]
+- [[Sleep]]
+- [[Tentacle Twister]]
+
+### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Prayer of Healing]]
+
+### 3rd Circle
+- [[Camuflagem ilusória]]
+- [[Flecha Ácida]]
+- [[Invisibilidade]]
+- [[Life Transference]]
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Toque Vampírico]]

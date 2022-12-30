@@ -1,3 +1,5 @@
+{{spell-definition "Crown of Madness"
+
 TAGS:
 - #spell
 - #enchantment
@@ -8,15 +10,13 @@ TAGS:
 - #psyquic
 - #energy
 
-INCORRECT_FORMAT_SPELL
-### Crown of Madness
-*2º Círculo*
-___
+LEVEL: 2
 CAST_TIME: padrão
 RANGE: 20sqr
 TARGET: 1 criatura
 DURATION: concentração.
 
+DESCRIPTION:
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
 While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
   
@@ -29,3 +29,4 @@ INCREASES:
 | ---- | ----------- |
 | +1PM | the target also takes 1d8 psychic damage at the start of their turns |
 | +2PM | increase the damage by +1d8 |
+}}

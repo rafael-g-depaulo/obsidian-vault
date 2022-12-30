@@ -10,6 +10,7 @@ RANGE: 6sqr
 TARGET: 1 criatura
 DURATION: concentração.
 
+DESCRIPTION:
 Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
 
 INCREASES:

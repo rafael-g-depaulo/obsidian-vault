@@ -1,19 +1,19 @@
+{{spell-definition "Canhão de Ervilha"
+
 TAGS:
 - #spell
 - #summon
 - #plant
 - #wild
 
-INCORRECT_FORMAT_SPELL
-### Canhão de Ervilha
-*1º Círculo*
-___
+LEVEL: 1
 CAST_TIME: padrão
 RANGE: curto;
 TARGET: 1 criatura ou objeto mundano Pequeno;
 DURATION: instantânea;
 RESISTANCE: Fortitude parcial ou Reflexos anula.
 
+DESCRIPTION:
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 INCREASES:
@@ -24,3 +24,4 @@ INCREASES:
 | +5 PM | muda o alvo para objeto mundano Grande. Requer 3º círculo. |
 | +9 PM | muda o alvo para objeto mundano Enorme. Requer 4º círculo. |
 | +14 PM | muda o alvo para objeto mundano Colossal. Requer 5º círculo. |
+}}

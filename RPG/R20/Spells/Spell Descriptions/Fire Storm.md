@@ -1,11 +1,11 @@
 INCORRECT_FORMAT_SPELL
 ### Fire Storm
-*7th Circle*
-___
+LEVEL: 7
 CAST_TIME: 1 Action
 RANGE: 150 feet
 DURATION: Instantaneous
 
+DESCRIPTION:
 A storm made up of sheets of roaring flame appears in a location you choose within range.
 The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make Dexterity saving throw. It takes 5d10 fire damage on a failed save, or half as much damage on a successful one.
 

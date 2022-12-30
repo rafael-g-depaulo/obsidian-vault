@@ -1,17 +1,18 @@
+{{spell-definition "Minor Ilusion"
+
 TAGS:
 - #spell
 - #ilusion
 - #trickery
 
-INCORRECT_FORMAT_SPELL
-### Minor Ilusion
-*Truque*
-___
+LEVEL: 0
+
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura
 DURATION: cena.
 
+DESCRIPTION:
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
   
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.  

@@ -1,19 +1,19 @@
+{{spell-definition "Entangle"
+
 TAGS:
 - #spell
 - #plant
 - #wild
 - #trickery
 
-INCORRECT_FORMAT_SPELL
-### Entangle
-*1º Círculo*
-___
+LEVEL: 1
 CAST_TIME: padrão
 RANGE: 10sqr 
 TARGET: quadrado de lado 4sqr com centro no ponto escolhido
 DURATION: concentração.
 RESISTANCE: Força
 
+DESCRIPTION:
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
 into difficult terrain.
 
@@ -26,3 +26,4 @@ INCREASES:
 | ---- | ----------- |
 | +2 PM | Aumenta a CD em 1. |
 | +2 PM | Aumenta o tamanho do quadrado em 1sqr. |
+}}

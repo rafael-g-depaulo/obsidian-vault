@@ -1,3 +1,5 @@
+{{spell-definition "Control Flames"
+
 TAGS:
 - #spell
 - #evocation
@@ -7,15 +9,14 @@ TAGS:
 - #thaumaturgy
 - #elemental
 
-INCORRECT_FORMAT_SPELL
-### Control Flames
-*Truque*
-___
+LEVEL: 0
+
 CAST_TIME: padrão
 RANGE: 12sqr
 TARGET: 1 criatura
 DURATION: imediato ou 1 hora.
 
+DESCRIPTION:
 You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:  
 - You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.  
 - You instantaneously extinguish the flames within the cube.  

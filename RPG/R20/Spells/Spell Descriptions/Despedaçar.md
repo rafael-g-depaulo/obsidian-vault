@@ -1,18 +1,18 @@
+{{spell-definition "Despedaçar"
+
 TAGS:
 - #spell
 - #wind
 - #nature
 
-INCORRECT_FORMAT_SPELL
-### Despedaçar
-*1º Círculo*
-___
+LEVEL: 1
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura ou objeto mundano Pequeno
 DURATION: instantânea
 RESISTANCE: Fortitude parcial ou Reflexos anula.
 
+DESCRIPTION:
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento).  onstrutos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
 INCREASES:
@@ -23,3 +23,4 @@ INCREASES:
 | +5 PM | muda o alvo para objeto mundano Grande. Requer 5º círculo. |
 | +9 PM | muda o alvo para objeto mundano Enorme. Requer 7º círculo. |
 | +14 PM | muda o alvo para  bjeto mundano Colossal. Requer 9º círculo.  |
+}}

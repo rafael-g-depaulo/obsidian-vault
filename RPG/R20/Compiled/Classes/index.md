@@ -433,6 +433,53 @@ List of spells available for a Plantomancer to learn.
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Lightning Lure]]
+- [[Magic Stone]]
+- [[Poison Spray]]
+- [[Sword Burst]]
+- [[Thorn Whip]]
+- [[Thunderclap]]
+
+### 1st Circle
+- [[Abençoar Alimentos]]
+- [[Animal Friendship]]
+- [[Armor of Agathys]]
+- [[Beast Bont]]
+- [[Canhão de Ervilha]]
+- [[Catapult]]
+- [[Cause Fear]]
+- [[Compelled Duel]]
+- [[Controlar Plantas]]
+- [[Curar Ferimentos]]
+- [[Detectar Ameaças]]
+- [[Earth Tremor]]
+- [[Enfeitiçar]]
+- [[Entangle]]
+- [[Escudo]]
+- [[False Life]]
+- [[ Goodberry]]
+- [[Hail of Thorns]]
+- [[Magic Missile]]
+- [[Sleep]]
+- [[Teia]]
+- [[Thunderwave]]
+- [[Tranquilidade]]
+- [[Área Escorregadia]]
+
+### 2nd Circle
+- [[Barkskin]]
+- [[Beast Sense]]
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Darkvision]]
+- [[Enhance Ability]]
+- [[Maximilian's Earthen Grasp]]
+
+### 3rd Circle
+- [[Campo de Força]]
+- [[Flecha Ácida]]
+- [[Físico Divino]]
+- [[Sopro das Uivantes]]
 
 {{pageNumber,auto}}
 \page
@@ -631,6 +678,36 @@ List of spells available for a Spelgard to learn.
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Green Flame Blade]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Sword Burst]]
+- [[Witch Bolt]]
+
+### 1st Circle
+- [[Arma Mágica]]
+- [[Armor of Agathys]]
+- [[Burning Hands]]
+- [[Chaos Bolt]]
+- [[Concentração de Combate]]
+- [[Curar Ferimentos]]
+- [[Detectar Ameaças]]
+- [[Divine Favor]]
+- [[Escudo]]
+- [[Explosão de chamas]]
+- [[Guiding Bolt]]
+- [[Longstrider]]
+- [[Magic Missile]]
+- [[Primor Atlético]]
+- [[Searing Smite]]
+- [[Toque Chocante]]
+
+### 2nd Circle
+- [[Aid]]
+- [[Darkvision]]
+- [[Enhance Ability]]
 
 {{pageNumber,auto}}
 \page
@@ -847,4 +924,42 @@ Spell List:
 
 ##  Spells
 
+### Cantrip
+- [[Chill Touch]]
+- [[Frostbite]]
+- [[Infestation]]
+- [[Ray of Frost]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
 
+### 1st Circle
+- [[Bane]]
+- [[Cause Fear]]
+- [[Chaos Bolt]]
+- [[Command]]
+- [[Curar Ferimentos]]
+- [[Dissonant Whispers]]
+- [[Escuridão]]
+- [[False Life]]
+- [[Healing Word]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Luz]]
+- [[Perdição]]
+- [[Sleep]]
+- [[Tentacle Twister]]
+
+### 2nd Circle
+- [[Blindness Deafness]]
+- [[Crown of Madness]]
+- [[Prayer of Healing]]
+
+### 3rd Circle
+- [[Camuflagem ilusória]]
+- [[Flecha Ácida]]
+- [[Invisibilidade]]
+- [[Life Transference]]
+- [[Mass Healing Word]]
+- [[Oração]]
+- [[Toque Vampírico]]

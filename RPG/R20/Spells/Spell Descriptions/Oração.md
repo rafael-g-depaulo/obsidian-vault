@@ -1,3 +1,5 @@
+{{spell-definition "Oração"
+
 TAGS:
 - #spell
 - #sacred
@@ -8,10 +10,7 @@ TAGS:
 - #trickery
 - #speech
 
-INCORRECT_FORMAT_SPELL
-### Oração
-*3º Círculo*
-___
+LEVEL: 3
 CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: todas as criaturas (veja texto)
@@ -26,3 +25,4 @@ INCREASES:
 | +2 PM | aumenta as penalidades em –1. |
 | +7 PM | muda o alcance para médio. Requer 5º círculo. |
 | +12 PM | muda a duração para cena. Requer 7º círculo |
+}}
