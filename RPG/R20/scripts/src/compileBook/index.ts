@@ -15,6 +15,7 @@ import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
+import { replaceSpellDefinition } from './replaceSpellDefinition'
 
 export type CompileRulesDeps = {
   currentFolder: string
@@ -39,6 +40,7 @@ export const processContent = (deps: CompileRulesDeps) =>
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1,
     replaceGlobalSpellList(deps),
+    replaceSpellDefinition,
     replacePageBreakMacro,
     removeArchetypeDefinition
   )
