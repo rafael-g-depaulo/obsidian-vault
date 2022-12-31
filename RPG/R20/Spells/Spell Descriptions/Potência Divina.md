@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Potência Divina**
 LEVEL: 5
 CAST_TIME: padrão

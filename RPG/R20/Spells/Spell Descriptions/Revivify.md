@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Revivify
 LEVEL: 3
 CAST_TIME: 1 Action

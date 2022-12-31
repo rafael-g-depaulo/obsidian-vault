@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Spell Name Template
 
 _XXº Círculo_

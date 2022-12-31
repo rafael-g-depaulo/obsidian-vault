@@ -19,7 +19,6 @@
 - [[Thunderclap]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
-- [[Witch Bolt]]
 - [[Word of Radiance]]
 
 ### 1st Circle
@@ -51,7 +50,7 @@
 - [[Escuridão]]
 - [[Explosão de chamas]]
 - [[False Life]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Healing Word]]
@@ -71,6 +70,7 @@
 - [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Tranquilidade]]
+- [[Witch Bolt]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle

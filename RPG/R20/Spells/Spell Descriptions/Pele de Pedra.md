@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Pele de Pedra
 LEVEL: 5
 CAST_TIME: padrão

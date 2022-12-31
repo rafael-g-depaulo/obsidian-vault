@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Holy Weapon
 LEVEL: 5
 CAST_TIME: 1 Movement Action

@@ -7,7 +7,7 @@ TAGS:
 - #thaumaturgy
 - #evocation
 
-_1º Círculo_
+LEVEL: 1
 
 CAST_TIME: padrão
 RANGE: 6sqr

@@ -6,7 +6,6 @@ TAGS:
 - #no
 - #thaumaturgy
 - #nature 
-INCORRECT_FORMAT_SPELL
 ### Feather Fall
 LEVEL: 1
 CAST_TIME: reação

@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Greater Restoration
 LEVEL: 5
 CAST_TIME: 1 Action

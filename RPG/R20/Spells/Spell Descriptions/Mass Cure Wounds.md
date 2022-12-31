@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Mass Cure Wounds
 LEVEL: 5
 CAST_TIME: 1 Action

@@ -5,8 +5,7 @@ TAGS:
 - #wild
 - #feral
 
-*Cantrip (Truque)
-
+LEVEL: 0
 CAST_TIME: padrão
 RANGE: Pessoal
 TARGET: Pessoal.

@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Hold Person
 LEVEL: 2
 CAST_TIME: padrão

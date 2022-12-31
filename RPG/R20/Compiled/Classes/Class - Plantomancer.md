@@ -118,7 +118,7 @@ List of spells available for a Plantomancer to learn.
 - [[Entangle]]
 - [[Escudo]]
 - [[False Life]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Magic Missile]]
 - [[Sleep]]

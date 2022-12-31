@@ -117,7 +117,6 @@ List of spells available for a Spelgard to learn.
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Sword Burst]]
-- [[Witch Bolt]]
 
 ### 1st Circle
 - [[Arma Mágica]]
@@ -136,6 +135,7 @@ List of spells available for a Spelgard to learn.
 - [[Primor Atlético]]
 - [[Searing Smite]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 
 ### 2nd Circle
 - [[Aid]]

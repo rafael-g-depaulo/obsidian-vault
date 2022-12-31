@@ -26,7 +26,7 @@
 - [[Entangle]]
 - [[Escudo]]
 - [[False Life]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Magic Missile]]
 - [[Sleep]]
@@ -51,18 +51,6 @@
 - [[Sopro das Uivantes]]
 
 ## Spell Descriptions
-
-###  Goodberry
-<div class="spell-tags">plant wild summon</div>
-*1st Circle*
-- **Execução:** padrão
-- **Alcance:** toque
-- **Duração:** instantâneo.
-___
-
-Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
-
-- **cost:** description.
 
 ### Abençoar Alimentos
 <div class="spell-tags">holy sacred plant no wild</div>
@@ -105,8 +93,7 @@ ___
 This spell lets you convince a beast that you mean it no harm.  
 Choose a beast that you can see within range. It must see and hear you. If the beast’s Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell’s duration. If you or one of your companions harms the target, the spell ends.
 
-- **+2PM:** you can affect one additional beast for each slot level above 1st..{{pageNumber,auto}}
-\page
+- **+2PM:** you can affect one additional beast for each slot level above 1st..
 
 ### Área Escorregadia
 <div class="spell-tags">arcane creation trickery water nature</div>
@@ -125,7 +112,8 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 - **+1 PM:** aumenta a área em +1 quadrado de 1,5m..
 - **+2PM:** a área conta como terreno difícil.
 - **+2 PM:** muda a CD dos testes para 15..
-- **+5 PM:** muda a CD dos testes para 20..
+- **+5 PM:** muda a CD dos testes para 20..{{pageNumber,auto}}
+\page
 
 ### Armor of Agathys
 <div class="spell-tags">cold elemental abjuration warmagic creation arcane thaumaturgy</div>
@@ -167,8 +155,7 @@ ___
 
 You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast’s Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.
 
-- **+2PM:** increase the maximum intelligence by +1.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the maximum intelligence by +1.
 
 ### Beast Sense
 <div class="spell-tags">wild feral divination arcane</div>
@@ -181,7 +168,8 @@ ___
 
 You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Blindness Deafness
 <div class="spell-tags">curse transmutation trickery occult arcane</div>
@@ -221,8 +209,7 @@ ___
 
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Catapult
 <div class="spell-tags">transmutation earth nature arcane</div>
@@ -235,7 +222,8 @@ ___
 
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.
 
-- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.
+- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.{{pageNumber,auto}}
+\page
 
 ### Cause Fear
 <div class="spell-tags">curse trickery enchantment occult</div>
@@ -275,8 +263,7 @@ ___
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
@@ -289,7 +276,8 @@ ___
 
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
@@ -334,8 +322,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
 
 ### Earth Tremor
 <div class="spell-tags">earth nature transmutation arcane</div>
@@ -347,7 +334,8 @@ ___
 
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Enfeitiçar
 <div class="spell-tags">enchantment trickery</div>
@@ -394,8 +382,7 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 When the spell ends, the conjured plants wilt away.
 
 - **+2 PM:** Aumenta a CD em 1..
-- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..{{pageNumber,auto}}
-\page
+- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..
 
 ### Escudo
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
@@ -412,7 +399,8 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância..
 - **+2 PM:** aumenta o bônus na Defesa em +1..
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo..
-- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..{{pageNumber,auto}}
+\page
 
 ### False Life
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
@@ -455,7 +443,19 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 
 - **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
 - **+2 PM:** aumenta a redução na Defesa em 1..
-- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..{{pageNumber,auto}}
+- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..
+
+### Goodberry
+<div class="spell-tags">plant wild summon</div>
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Duração:** instantâneo.
+___
+
+Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+
+- **+1 PM:** Increase the number of berries by 2..{{pageNumber,auto}}
 \page
 
 ### Hail of Thorns

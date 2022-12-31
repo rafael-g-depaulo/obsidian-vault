@@ -157,7 +157,6 @@
 - [[Green Flame Blade]]
 - [[Lightning Lure]]
 - [[Ray of Frost]]
-- [[Witch Bolt]]
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Burning Hands]]
@@ -168,6 +167,7 @@
 - [[Searing Smite]]
 - [[Thunderwave]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 2nd Circle
 - [[Heat Metal]]
 ### 3rd Circle
@@ -210,7 +210,6 @@
 - [[Fire Bolt]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
-- [[Witch Bolt]]
 ### 1st Circle
 - [[Burning Hands]]
 - [[Chaos Bolt]]
@@ -218,6 +217,7 @@
 - [[Luz]]
 - [[Magic Missile]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Relâmpago]]
@@ -283,10 +283,10 @@
 ## Lighning Spells
 ### Cantrip
 - [[Lightning Lure]]
-- [[Witch Bolt]]
 ### 1st Circle
 - [[Chaos Bolt]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 3rd Circle
 - [[Relâmpago]]
 
@@ -377,7 +377,7 @@
 - [[Canhão de Ervilha]]
 - [[Controlar Plantas]]
 - [[Entangle]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Hail of Thorns]]
 ### 2nd Circle
 - [[Barkskin]]
@@ -467,7 +467,7 @@
 - [[Thorn Whip]]
 ### 1st Circle
 - [[Canhão de Ervilha]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Tentacle Twister]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
@@ -481,7 +481,6 @@
 - [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Sword Burst]]
-- [[Witch Bolt]]
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
@@ -503,6 +502,7 @@
 - [[Primor Atlético]]
 - [[Searing Smite]]
 - [[Toque Chocante]]
+- [[Witch Bolt]]
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
@@ -511,6 +511,7 @@
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Relâmpago]]
+- [[Soco de Arsenal]]
 ### 5th Circle
 - [[Transformação de Guerra]]
 
@@ -607,6 +608,7 @@
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
+- [[Soco de Arsenal]]
 
 ## Water Spells
 ### 1st Circle
@@ -626,7 +628,7 @@
 - [[Controlar Plantas]]
 - [[Detectar Ameaças]]
 - [[Entangle]]
-- [[ Goodberry]]
+- [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Teia]]
 - [[Tentacle Twister]]

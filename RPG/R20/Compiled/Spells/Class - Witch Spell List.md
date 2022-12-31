@@ -364,7 +364,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **Duração:** sustentada
 ___
 
-
+Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de dano, e todos os seus inimigos no alcance sofrem –2 em testes de perícia e rolagens de dano. Esses bônus e penalidades são cumulativos com outras magias.
 
 - **+2 PM:** aumenta os bônus em +1..
 - **+2 PM:** aumenta as penalidades em –1..
@@ -444,6 +444,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 *Cantrip*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
+- **Alvo:** 1 criatura
 - **Duração:** Instantaneous
 ___
 

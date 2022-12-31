@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Blade Barrier
 LEVEL: 6
 CAST_TIME: 1 Action

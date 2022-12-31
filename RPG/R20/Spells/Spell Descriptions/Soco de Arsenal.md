@@ -6,6 +6,8 @@ TAGS:
 - #wild
 - #wind
 - #nature
+- #warmagic 
+- #thaumaturgy 
 
 LEVEL: 3
 CAST_TIME: padrão
@@ -14,7 +16,7 @@ TARGET: 1 criatura
 DURATION: instantânea
 RESISTANCE: Fortitude reduz à metade.
 
-
+DESCRIPTION:
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
 INCREASES:

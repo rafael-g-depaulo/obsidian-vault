@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Heroísmo
 LEVEL: 5
 CAST_TIME: padrão

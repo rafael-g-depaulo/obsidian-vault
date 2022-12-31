@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Manto do Cruzado
 LEVEL: 7
 CAST_TIME: padrão

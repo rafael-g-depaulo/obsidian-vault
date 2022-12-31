@@ -1,4 +1,3 @@
-INCORRECT_FORMAT_SPELL
 ### Regenerate
 LEVEL: 7
 CAST_TIME: 1 Minute

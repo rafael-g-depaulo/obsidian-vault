@@ -1,4 +1,4 @@
-{{spell-definition " Goodberry"
+{{spell-definition "Goodberry"
 
 TAGS:
 - #spell
