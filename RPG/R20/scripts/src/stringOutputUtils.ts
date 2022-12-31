@@ -18,3 +18,7 @@ export const parseMarkdownTable = (
   if (withHeader) return [rowsArr[0], ...rowsArr.slice(2)]
   return rowsArr.slice(2)
 }
+
+export const removeExtension = (file: string) =>
+  file.match(/(?<fileWithoutExtension>.+)\.\w+/)?.groups
+    ?.fileWithoutExtension ?? file

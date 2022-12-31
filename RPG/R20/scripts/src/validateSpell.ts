@@ -12,15 +12,15 @@ export const validadeSpell =
   })
 
 export const validateSpells =
-  (deps: ErrorCheckerDeps) => (_spells: Spell[]) => {
-    const { spells, errors } = _spells
+  (deps: ErrorCheckerDeps) => (parsed: ValidatedSpells) => {
+    const { spells, errors } = parsed.spells
       .map(validadeSpell(deps))
       .reduce<{ spells: Spell[]; errors: SpellError[] }>(
         (acc, { errors, spell }) => ({
           spells: !spell ? acc.spells : [...acc.spells, spell],
           errors: [...acc.errors, ...errors],
         }),
-        { spells: [], errors: [] }
+        { spells: [], errors: parsed.errors }
       )
 
     return { spells, errors }

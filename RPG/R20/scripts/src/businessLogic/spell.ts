@@ -1,4 +1,5 @@
-import { getString, getStringArr, Macro } from '../macros/types'
+import { spellError, SpellError } from '../error'
+import { getString, Macro } from '../macros/types'
 import { parseMarkdownTable, spellLevelStr } from '../stringOutputUtils'
 import { getTags } from '../tags'
 
@@ -25,6 +26,20 @@ export interface Spell {
   description: string
 }
 
+// export type SpellSyntaxValidation = { macro: Macro; errors: SpellError[] }
+export type ValidatedSpell = { spell: Spell; errors: SpellError[] }
+export type ValidatedSpells = { spells: Spell[]; errors: SpellError[] }
+export const joinErrorsStart: ValidatedSpells = {
+  errors: [],
+  spells: [],
+}
+export const joinErrors = (
+  acc: ValidatedSpells,
+  { errors, spell }: ValidatedSpell
+): ValidatedSpells => {
+  return { errors: [...acc.errors, ...errors], spells: [...acc.spells, spell] }
+}
+
 const SpellItemLabelName: { [k in SpellDescriptionItems]: string } = {
   castTime: 'Execução',
   range: 'Alcance',
@@ -40,23 +55,88 @@ const parseIncreases = (content: string): SpellIncrease[] =>
     description,
   }))
 
-export const parseSpell = (spellMacro: Macro): Spell => {
-  return {
-    name: spellMacro.argument ?? 'SPELL_NAME_MISSING',
-    level: parseInt(getString(spellMacro.items.LEVEL) ?? '0'),
-    tags: getTags(getString(spellMacro.items.TAGS) ?? ''),
-    items: {
-      castTime: getString(spellMacro.items.CAST_TIME),
-      range: getString(spellMacro.items.RANGE),
-      target: getString(spellMacro.items.TARGET),
-      duration: getString(spellMacro.items.DURATION),
-      crit: getString(spellMacro.items.CRIT),
-      resistance: getString(spellMacro.items.RESISTANCE),
-    },
+const validateSpellSyntax = (macro: Macro): SpellError[] => {
+  const errors: SpellError[] = []
 
-    increases: parseIncreases(getString(spellMacro.items.INCREASES) ?? ''),
-    description: getString(spellMacro.items.DESCRIPTION)?.trim() ?? '',
-  }
+  if (!macro.argument)
+    errors.push(
+      spellError('Spell Definition Syntax', 'Spell missing name argument')
+    )
+
+  if (!macro.items.LEVEL)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "LEVEL" item`,
+        macro.argument
+      )
+    )
+  if (!macro.items.TAGS)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "TAGS" item`,
+        macro.argument
+      )
+    )
+  if (!macro.items.CAST_TIME)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "CAST_TIME" item`,
+        macro.argument
+      )
+    )
+  if (!macro.items.DURATION)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "DURATION" item`,
+        macro.argument
+      )
+    )
+  if (!macro.items.RANGE)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "RANGE" item`,
+        macro.argument
+      )
+    )
+  if (!macro.items.DESCRIPTION)
+    errors.push(
+      spellError(
+        'Spell Definition Syntax',
+        `Missing "DESCRIPTION" item`,
+        macro.argument
+      )
+    )
+
+  return errors
+}
+
+export const parseSpell = (spellMacro: Macro): Spell => ({
+  name: spellMacro.argument ?? 'SPELL_NAME_MISSING',
+  level: parseInt(getString(spellMacro.items.LEVEL) ?? '0'),
+  tags: getTags(getString(spellMacro.items.TAGS) ?? ''),
+  items: {
+    castTime: getString(spellMacro.items.CAST_TIME),
+    range: getString(spellMacro.items.RANGE),
+    target: getString(spellMacro.items.TARGET),
+    duration: getString(spellMacro.items.DURATION),
+    crit: getString(spellMacro.items.CRIT),
+    resistance: getString(spellMacro.items.RESISTANCE),
+  },
+
+  increases: parseIncreases(getString(spellMacro.items.INCREASES) ?? ''),
+  description: getString(spellMacro.items.DESCRIPTION)?.trim() ?? '',
+})
+
+export const createSpell = (spellMacro: Macro): ValidatedSpell => {
+  const errors = validateSpellSyntax(spellMacro)
+  const spell = parseSpell(spellMacro)
+
+  return { spell, errors }
 }
 
 const filterSpellItem = (
@@ -71,7 +151,6 @@ const spellItemsString = (items: Spell['items']) =>
     .join('')
 
 export const spellString = (spell: Spell) =>
-  // spell.tags.map(t => `#${t}`).join(' ') +
   `\n### ${spell.name}\n` +
   `<div class="spell-tags">${spell.tags
     .filter(tag => tag !== 'spell')

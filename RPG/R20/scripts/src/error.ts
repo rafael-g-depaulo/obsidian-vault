@@ -8,28 +8,29 @@ import { ValidatedSpells } from './validateSpell'
 import { join } from 'path'
 
 // types
-export type SpellError = { spell: Spell; message: string; kind: string }
+export type SpellError = { spellname?: string; message: string; kind: string }
 type ErrorCheck = (spell: Spell) => SpellError[] | SpellError | null
 export type ErrorParser = (spell: Spell) => SpellError[]
+export const isSpellError = (a: any): a is SpellError => a && a.kind
 
 // factories
-const spellError = (
-  spell: Spell,
+export const spellError = (
   kind: string,
-  message: string
+  message: string,
+  spellname?: string
 ): SpellError => ({
   message,
   kind,
-  spell,
+  spellname,
 })
 
 // error parsers
 const hasSpellOrWipTag: ErrorCheck = spell =>
   !spell.tags.includes('wip') && !spell.tags.includes('spell')
     ? spellError(
-        spell,
         'Spell Tag',
-        `Spell should have either "wip" or "spell" tag`
+        `Spell should have either "wip" or "spell" tag`,
+        spell.name
       )
     : null
 
@@ -65,9 +66,9 @@ const obeysTagGroupHierarchy =
       )
       .map(({ group, tag }) =>
         spellError(
-          spell,
           'Tag Group Hierarchy',
-          `Spell has tag "${tag}" but is missing it's group tag "${group}" (or you can add "#no-${group}")`
+          `Spell has tag "${tag}" but is missing it's group tag "${group}" (or you can add "#no-${group}")`,
+          spell.name
         )
       )
   }
@@ -88,7 +89,7 @@ export const getErrorsWithSpell = ({
   createErrorCheckerThing(hasSpellOrWipTag, obeysTagGroupHierarchy(hierarchy))
 
 const writeOutError = (error: SpellError) =>
-  `- [[${error.spell.name}]] ${error.message}`
+  `- [[${error.spellname}]] ${error.message}`
 export const writeOutErrors = (errors: SpellError[]): string =>
   `# Compiling Errors\nHere's a list of all of the errors found.\n\n` +
   Object.entries(groupBy((e: SpellError) => e.kind)(errors))
@@ -111,3 +112,4 @@ export const dealWithErrors =
 
     return spells
   }
+export const ignoreSpellErrors = ({ spells }: ValidatedSpells) => spells

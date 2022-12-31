@@ -35,8 +35,8 @@ const rulebookFile = 'R20 - rulebook.md'
 // clean results
 const cleanResults = async () =>
   Promise.all([
-    // await cleanFolder(CompiledFolder),
-    // await cleanFolder(CompiledSpelllistsFolder),
+    await cleanFolder(CompiledFolder),
+    await cleanFolder(CompiledSpelllistsFolder),
   ])
 
 interface Content {
@@ -56,7 +56,7 @@ const parseContent = async () => {
   const allSpells = await readSpells(SpellDescriptionsFolder)
     .then(validateSpells({ tagGroups }))
     .then(dealWithErrors(CompiledFolder, errorsFile))
-  // .then(({ spells }) => spells) // if not using "dealWithErrors" uncomment this line
+  // .then(ignoreErrors) // if not using "dealWithErrors" uncomment this line
 
   // create spell lists for classes
   const classFilenames = await listFiles(ClassesFolder)

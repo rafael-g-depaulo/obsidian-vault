@@ -3,6 +3,7 @@ import {
   makeSpellDescriptionsListString,
   makeSpellListString,
 } from '../businessLogic/spellList'
+import { ignoreSpellErrors } from '../error'
 import { searchPathRecursively } from '../file'
 import { searchMacro } from '../macros/parseMacro'
 import { replaceMacro } from '../macros/replaceMacro'
@@ -20,6 +21,7 @@ export const replaceGlobalSpellList =
           spellsFolder ?? Promise.reject('Folder not found' + spellsFolder)
       )
       .then(readSpells)
+      .then(ignoreSpellErrors)
       .then(filterWipSpells)
       .then(allSpells => {
         return asyncPipe(
