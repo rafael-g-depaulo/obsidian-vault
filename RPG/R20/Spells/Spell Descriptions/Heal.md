@@ -1,4 +1,4 @@
-### Heal
+{{spell-definition "Heal"
 LEVEL: 6
 CAST_TIME: 1 Action
 RANGE: 60 feet

@@ -1,9 +1,12 @@
 ## Witch Spells
 
 ### Cantrip
+- [[Booming Blade]]
 - [[Chill Touch]]
+- [[Control Flames]]
 - [[Frostbite]]
 - [[Infestation]]
+- [[Minor Ilusion]]
 - [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
@@ -14,22 +17,32 @@
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
+- [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[False Life]]
+- [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]
+- [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Luz]]
 - [[Perdição]]
+- [[Ray of Sickness]]
 - [[Sleep]]
+- [[Snare]]
 - [[Tentacle Twister]]
 
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
+- [[Earthbind]]
+- [[Hold Person]]
+- [[Lesser Restoration]]
+- [[Pass Without a Trace]]
 - [[Prayer of Healing]]
+- [[Ray of Enfeeblement]]
 
 ### 3rd Circle
 - [[Camuflagem ilusória]]
@@ -67,6 +80,20 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - **cost:** description.
 
+### Booming Blade
+<div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alvo:** pessoal
+- **Duração:** imediata.
+___
+
+As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.  
+On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
+This spell's damage increases when you reach higher levels.
+
+
+
 ### Camuflagem ilusória
 <div class="spell-tags">ilusion trickery</div>
 *3rd Circle*
@@ -78,7 +105,8 @@ ___
 
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Cause Fear
 <div class="spell-tags">curse trickery enchantment occult</div>
@@ -91,8 +119,7 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -129,9 +156,23 @@ You create a ghostly, skeletal hand in the space of a creature within range.
 - **Duração:** 1 rodada.
 ___
 
-You speak a one-word command to a creature you can see within range.
+**Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you..**Drop** The target drops whatever it is holding and then ends its turn..**Flee** The target spends its turn moving away from you by the fastest available means..**Grovel** The target falls prone and then ends its turn..**Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-- **cost:** description.
+- **+2PM:** target an additional creature.{{pageNumber,auto}}
+\page
+
+### Control Flames
+<div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** 1 criatura
+- **Duração:** imediato ou 1 hora.
+___
+
+You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location..You instantaneously extinguish the flames within the cube..You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour..You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.
+
+
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
@@ -144,8 +185,7 @@ ___
 
 One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
@@ -163,6 +203,19 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+2 PM:** muda o alcance para curto..
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
+### Detect Poison and Disease (Ritual)
+<div class="spell-tags">sacred holy recovery</div>
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** Self
+- **Duração:** 10 minutes
+___
+
+For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+{{pageNumber,auto}}
+\page
+
 ### Dissonant Whispers
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
 *1st Circle*
@@ -175,6 +228,19 @@ ___
 You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.
 
 - **cost:** description.
+
+### Earthbind
+<div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 30sqr
+- **Alvo:** 1 criatura
+- **Duração:** concentração.
+___
+
+Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
+
+
 
 ### Escuridão
 <div class="spell-tags">occult unholy trickery ilusion</div>
@@ -223,6 +289,18 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no 
 - **+2 PM:** aumenta a redução na Defesa em 1..
 - **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..
 
+### Fog Cloud
+<div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** 20sqr
+- **Duração:** Concentration
+___
+
+You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+
+
 ### Frostbite
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
 *Cantrip*
@@ -246,7 +324,8 @@ ___
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Hellish Rebuke
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
@@ -259,8 +338,36 @@ ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.
 
-- **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the damage by +1d10.
+
+### Hideous Laughter
+<div class="spell-tags">enchantment trickery curse occult speech</div>
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** concentração.
+___
+
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.  
+  
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
+
+
+
+### Hold Person
+<div class="spell-tags">enchantment trickery arcane curse occult</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 15sqr
+- **Alvo:** 1 criatura
+- **Duração:** concentração.
+___
+
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
+
+- **+1PM:** aumenta o alcance em +5sqr.
+- **+3PM:** aumenta o número de alvos em +1.
 
 ### Imagem Espelhada
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
@@ -273,7 +380,8 @@ ___
 
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Infestation
 <div class="spell-tags">summon wild unholy occult</div>
@@ -313,7 +421,19 @@ ___
 
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
 
-- **cost:** description.{{pageNumber,auto}}
+- **cost:** description.
+
+### Lesser Restoration
+<div class="spell-tags">holy recovery sacred holy</div>
+*2nd Circle*
+- **Execução:** 1 Action
+- **Alcance:** Touch
+- **Duração:** Instantaneous
+___
+
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+{{pageNumber,auto}}
 \page
 
 ### Life Transference
@@ -355,6 +475,26 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 - **+2 PM:** aumenta a cura em 1d4.
 - **+2 PM:** aumenta o número de alvos em 2.
 
+### Minor Ilusion
+<div class="spell-tags">ilusion trickery</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.  
+  
+If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.  
+  
+If you create an image of an object such as a chair, muddy footprints, or a small chest it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.  
+  
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+
+{{pageNumber,auto}}
+\page
+
 ### Oração
 <div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
 *3rd Circle*
@@ -369,8 +509,21 @@ Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de 
 - **+2 PM:** aumenta os bônus em +1..
 - **+2 PM:** aumenta as penalidades em –1..
 - **+7 PM:** muda o alcance para médio. Requer 5º círculo..
-- **+12 PM:** muda a duração para cena. Requer 7º círculo.{{pageNumber,auto}}
-\page
+- **+12 PM:** muda a duração para cena. Requer 7º círculo.
+
+### Pass Without a Trace
+<div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** concentração.
+___
+
+A veil of shadows and silence radiates from you, masking you and your companions from detection.
+
+For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Stealth checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
+
+
 
 ### Perdição
 <div class="spell-tags">curse occult</div>
@@ -396,7 +549,25 @@ ___
 
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
+
+### Ray of Enfeeblement
+<div class="spell-tags">curse occult unholy trickery enchantment</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 15sqr
+- **Alvo:** 1 criatura
+- **Duração:** imediata.
+___
+
+A black beam of enervating energy springs from your finger toward a creature within range.  
+
+Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.  
+  
+At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
+
+
 
 ### Ray of Frost
 <div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
@@ -411,6 +582,19 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.
 
+### Ray of Sickness
+<div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** 60 feet
+- **Duração:** Instantaneous
+___
+
+A ray of sickening greenish energy lashes out toward a creature within range.
+Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
+
+
+
 ### Sleep
 <div class="spell-tags">curse occult enchantment trickery</div>
 *1st Circle*
@@ -423,6 +607,19 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 - **cost:** description.{{pageNumber,auto}}
 \page
+
+### Snare
+<div class="spell-tags">trickery ilusion ilusion curse occult</div>
+*1st Circle*
+- **Execução:** 1 minuto
+- **Alcance:** Toque
+- **Alvo:** Quadrado 1,5mx1,5m no chão
+- **Duração:** 8 Horas.
+___
+
+As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
+
+
 
 ### Tentacle Twister
 <div class="spell-tags">occult unholy summon wild</div>
@@ -466,7 +663,8 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Vicious Mockery
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>

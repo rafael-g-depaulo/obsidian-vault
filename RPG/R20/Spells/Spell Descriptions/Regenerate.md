@@ -1,4 +1,4 @@
-### Regenerate
+{{spell-definition "Regenerate"
 LEVEL: 7
 CAST_TIME: 1 Minute
 RANGE: Touch

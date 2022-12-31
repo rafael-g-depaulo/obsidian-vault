@@ -1,4 +1,4 @@
-### Revivify
+{{spell-definition "Revivify"
 LEVEL: 3
 CAST_TIME: 1 Action
 RANGE: Touch

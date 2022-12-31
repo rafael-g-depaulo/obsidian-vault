@@ -1,4 +1,4 @@
-### Pele de Pedra
+{{spell-   definition "Pele de Pedra"
 LEVEL: 5
 CAST_TIME: padrão
 RANGE: pessoal

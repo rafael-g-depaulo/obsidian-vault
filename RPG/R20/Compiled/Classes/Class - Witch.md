@@ -100,9 +100,12 @@ Spell List:
 ##  Spells
 
 ### Cantrip
+- [[Booming Blade]]
 - [[Chill Touch]]
+- [[Control Flames]]
 - [[Frostbite]]
 - [[Infestation]]
+- [[Minor Ilusion]]
 - [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
@@ -113,22 +116,32 @@ Spell List:
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
+- [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
 - [[False Life]]
+- [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]
+- [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Luz]]
 - [[Perdição]]
+- [[Ray of Sickness]]
 - [[Sleep]]
+- [[Snare]]
 - [[Tentacle Twister]]
 
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
+- [[Earthbind]]
+- [[Hold Person]]
+- [[Lesser Restoration]]
+- [[Pass Without a Trace]]
 - [[Prayer of Healing]]
+- [[Ray of Enfeeblement]]
 
 ### 3rd Circle
 - [[Camuflagem ilusória]]

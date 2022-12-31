@@ -1,23 +1,4 @@
-### Spell Name Template
 
-_XXº Círculo_
-
----
-
-CAST_TIME: padrão
-RANGE: 6sqr
-TARGET: 1 criatura
-DURATION: imediata.
-
-DESCRIPTION:
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-INCREASES:
-| cost | description |
-| ---- | ----------- |
-| +1 PM | Upgrade 1. |
-| +3 PM | Upgrade 2. |
-}}
 
 # Silence (Ritual)
 

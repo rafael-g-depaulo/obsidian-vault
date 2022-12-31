@@ -26,3 +26,5 @@ You choose an area of water that you can see within range and that fits within a
 • You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+}}

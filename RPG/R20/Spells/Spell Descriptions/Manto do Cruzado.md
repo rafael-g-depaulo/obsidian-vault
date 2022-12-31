@@ -1,4 +1,4 @@
-### Manto do Cruzado
+{{spell-definition "Manto do Cruzado"
 LEVEL: 7
 CAST_TIME: padrão
 RANGE: pessoal

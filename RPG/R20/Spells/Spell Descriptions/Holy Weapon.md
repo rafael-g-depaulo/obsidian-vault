@@ -1,4 +1,4 @@
-### Holy Weapon
+{{spell-definition "Holy Weapon"
 LEVEL: 5
 CAST_TIME: 1 Movement Action
 RANGE: Touch

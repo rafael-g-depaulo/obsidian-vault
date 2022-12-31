@@ -2,11 +2,14 @@
 
 ### Cantrip
 - [[Acid Splash]]
+- [[Blade Ward]]
 - [[Energy Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
+- [[Guidance]]
 - [[Poison Spray]]
 - [[Ray of Frost]]
+- [[Resistance]]
 - [[Sword Burst]]
 
 ### 1st Circle
@@ -16,22 +19,32 @@
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
+- [[Detect Poison and Disease (Ritual)]]
 - [[Detectar Ameaças]]
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
 - [[Longstrider]]
+- [[Mage Armor]]
 - [[Magic Missile]]
 - [[Primor Atlético]]
+- [[Ray of Sickness]]
 - [[Searing Smite]]
+- [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
+- [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
+- [[Enlarge/Reduce]]
+- [[Lesser Restoration]]
+- [[Spider Climb]]
+- [[Warding Bond]]
 
 ## Spell Descriptions
 
@@ -92,6 +105,18 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
 \page
 
+### Blade Ward
+<div class="spell-tags">abjuration warmagic thaumaturgy</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** 1 rodada.
+___
+
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+
+
+
 ### Burning Hands
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 *1st Circle*
@@ -129,7 +154,23 @@ ___
 
 Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
 
-- **cost:** description.
+- **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo..
+- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo..{{pageNumber,auto}}
+\page
+
+### Continual Flame
+<div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** indeterminada (até ser destruída).
+___
+
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
+The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
+
+
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
@@ -145,8 +186,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
 ### Darkvision
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
@@ -160,6 +200,19 @@ ___
 You touch a willing creature to grant it the ability to see in the dark.
 
 - **cost:** description.
+
+### Detect Poison and Disease (Ritual)
+<div class="spell-tags">sacred holy recovery</div>
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** Self
+- **Duração:** 10 minutes
+___
+
+For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+{{pageNumber,auto}}
+\page
 
 ### Detectar Ameaças
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
@@ -200,8 +253,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -214,7 +266,29 @@ ___
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
+
+### Enlarge/Reduce
+<div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** concentração.
+___
+
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
+  
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
+  
+**Enlarge**   
+The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
+  
+**Reduce**   
+The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
+
+
 
 ### Escudo
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
@@ -275,6 +349,19 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 - **cost:** description.
 
+### Guidance
+<div class="spell-tags">divination boost sacred arcane</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+
+
+
 ### Guiding Bolt
 <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
 *1st Circle*
@@ -286,6 +373,19 @@ ___
 A flash of light streaks toward a creature of your choice within range.
 
 - **cost:** description.
+
+### Lesser Restoration
+<div class="spell-tags">holy recovery sacred holy</div>
+*2nd Circle*
+- **Execução:** 1 Action
+- **Alcance:** Touch
+- **Duração:** Instantaneous
+___
+
+You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+{{pageNumber,auto}}
+\page
 
 ### Longstrider
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -300,6 +400,19 @@ You touch a creature. The target’s speed increases by 2sqr until the spell end
 
 - **cost:** description.
 
+### Mage Armor
+<div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** Toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
+
+
+
 ### Magic Missile
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
 *1st Circle*
@@ -311,8 +424,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Poison Spray
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -324,7 +436,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Primor Atlético
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -355,6 +468,33 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.
 
+### Ray of Sickness
+<div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** 60 feet
+- **Duração:** Instantaneous
+___
+
+A ray of sickening greenish energy lashes out toward a creature within range.
+Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
+
+
+
+### Resistance
+<div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
+
+{{pageNumber,auto}}
+\page
+
 ### Searing Smite
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 *1st Circle*
@@ -367,8 +507,20 @@ The next time you hit a creature with a melee weapon attack during the spell’s
   
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-- **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
-\page
+- **+1PM:** aumente o dano inicial em +1d6.
+
+### Spider Climb
+<div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+
+
 
 ### Sword Burst
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -381,6 +533,19 @@ ___
 You create a momentary circle of spectral blades that sweep around you.
 
 - **cost:** description.
+
+### Thunderous Smite
+<div class="spell-tags">warmagic wind nature thaumaturgy</div>
+*1st Circle*
+- **Execução:** movimento
+- **Alcance:** pessoal
+- **Duração:** 1 rodada.
+___
+
+The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+
+{{pageNumber,auto}}
+\page
 
 ### Toque Chocante
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -396,6 +561,23 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 
 - **cost:** description.
 
+### Warding Bond
+<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+
+
+
 ### Witch Bolt
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
 *1st Circle*
@@ -409,3 +591,17 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
 - **+2PM:** increase the initial damage by +1d12.
+
+### Zephyr Strike
+<div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
+*1st Circle*
+- **Execução:** movimento
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** concentração.
+___
+
+You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
+

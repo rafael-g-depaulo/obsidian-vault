@@ -1,4 +1,4 @@
-### Potência Divina**
+{{spell   -definition "Potência Divina"
 LEVEL: 5
 CAST_TIME: padrão
 RANGE: pessoal

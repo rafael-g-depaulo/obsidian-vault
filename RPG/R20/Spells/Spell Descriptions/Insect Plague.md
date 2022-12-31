@@ -1,4 +1,4 @@
-### Insect Plague
+{{spell-definition "Insect Plague"
 LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: 300 feet

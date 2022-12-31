@@ -1,4 +1,4 @@
-### Blade Barrier
+{{spell  -definition "Blade Barrier"
 LEVEL: 6
 CAST_TIME: 1 Action
 RANGE: 90 feet

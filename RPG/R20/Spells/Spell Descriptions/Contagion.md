@@ -1,4 +1,4 @@
-### Contagion
+{{spell-definition "Contagion"
 LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: Touch

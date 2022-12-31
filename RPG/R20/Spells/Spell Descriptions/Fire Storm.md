@@ -1,4 +1,4 @@
-### Fire Storm
+{{spell-definition "Fire Storm"
 LEVEL: 7
 CAST_TIME: 1 Action
 RANGE: 150 feet

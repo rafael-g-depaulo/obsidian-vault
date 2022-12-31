@@ -1,8 +1,3 @@
-### Spell Name Template
-
-_XXº Círculo_
-
----
 
 CAST_TIME: padrão
 RANGE: 6sqr

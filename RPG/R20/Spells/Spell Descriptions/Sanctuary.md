@@ -1,22 +1,4 @@
-### Spell Name
 
-_XXº Círculo_
-
----
-
-CAST_TIME: padrão
-RANGE: 6sqr
-TARGET: 1 criatura
-DURATION: concentração.
-
-DESCRIPTION:
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-INCREASES:
-| cost | description |
-| ---- | ----------- |
-| +1 PM | Upgrade 1. |
-| +3 PM | Upgrade 2. |
 }}
 
 #

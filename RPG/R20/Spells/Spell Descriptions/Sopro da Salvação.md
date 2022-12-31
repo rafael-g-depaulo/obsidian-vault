@@ -1,4 +1,4 @@
-### Sopro da Salvação
+{{spell   -definition "Sopro da Salvação"
 LEVEL: 5
 CAST_TIME: padrão
 RANGE: pessoal

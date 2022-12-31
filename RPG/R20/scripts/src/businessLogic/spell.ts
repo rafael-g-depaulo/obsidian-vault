@@ -95,14 +95,6 @@ const validateSpellSyntax = (macro: Macro): SpellError[] => {
         macro.argument
       )
     )
-  if (!macro.items.RANGE)
-    errors.push(
-      spellError(
-        'Spell Definition Syntax',
-        `Missing "RANGE" item`,
-        macro.argument
-      )
-    )
   if (!macro.items.DESCRIPTION)
     errors.push(
       spellError(

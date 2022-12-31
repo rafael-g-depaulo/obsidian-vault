@@ -1,4 +1,4 @@
-### Mass Cure Wounds
+{{spell-definition "Mass Cure Wounds"
 LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: 60 feet

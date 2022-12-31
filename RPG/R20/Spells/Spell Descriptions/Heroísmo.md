@@ -1,4 +1,4 @@
-### Heroísmo
+{{spell-   definition "Heroísmo"
 LEVEL: 5
 CAST_TIME: padrão
 RANGE: toque

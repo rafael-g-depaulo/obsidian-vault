@@ -1,4 +1,5 @@
-### Desintegrar
+{{spell-  definition "Desintegrar"
+
 LEVEL: 7
 CAST_TIME: padrão
 RANGE: 20sqr

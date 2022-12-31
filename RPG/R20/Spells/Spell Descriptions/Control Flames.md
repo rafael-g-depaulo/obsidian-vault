@@ -23,3 +23,5 @@ You choose a nonmagical flame that you can see within range and that fits within
 - You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.  
 - You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.  
 If you cast this spell multiple times, you can have up to three non-instantaneous flames.
+
+}}

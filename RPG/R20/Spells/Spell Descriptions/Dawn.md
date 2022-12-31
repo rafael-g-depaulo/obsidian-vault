@@ -1,4 +1,4 @@
-### Dawn
+{{spell-definition "Dawn"
 LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: 60 feet
