@@ -61,6 +61,7 @@
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Ray of Enfeeblement]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
@@ -791,6 +792,18 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 
 
+### See invisibility
+<div class="spell-tags">divination arcane boost sacred</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** cena
+___
+
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+
+
+
 ### Shape Water
 <div class="spell-tags">transmutation arcane water nature</div>
 *Cantrip*
@@ -812,7 +825,8 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Shillelagh
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -826,8 +840,7 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sleep
 <div class="spell-tags">curse occult enchantment trickery</div>
@@ -868,7 +881,8 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Spike Growth
 <div class="spell-tags">plant wild creation arcane</div>
@@ -883,8 +897,7 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sugestion
 <div class="spell-tags">enchantment trickery</div>
@@ -931,7 +944,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
+\page
 
 ### Thorn Whip
 <div class="spell-tags">wild plant summon creation arcane</div>
@@ -945,8 +959,7 @@ ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
 - **+2 PM:** Increase damage by +2d6..
-- **+1PM:** +2 to hit..{{pageNumber,auto}}
-\page
+- **+1PM:** +2 to hit..
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -990,7 +1003,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -1007,8 +1021,7 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Warding Wind
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>

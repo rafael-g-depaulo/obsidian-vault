@@ -152,5 +152,6 @@ List of spells available for a Spelgard to learn.
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]

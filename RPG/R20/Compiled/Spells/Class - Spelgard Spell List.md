@@ -43,6 +43,7 @@
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
 
@@ -509,6 +510,18 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 - **+1PM:** aumente o dano inicial em +1d6.
 
+### See invisibility
+<div class="spell-tags">divination arcane boost sacred</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** cena
+___
+
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+
+
+
 ### Spider Climb
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
 *2nd Circle*
@@ -532,7 +545,8 @@ ___
 
 You create a momentary circle of spectral blades that sweep around you.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Thunderous Smite
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
@@ -544,8 +558,7 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Toque Chocante
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -590,7 +603,8 @@ ___
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
 Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
-- **+2PM:** increase the initial damage by +1d12.
+- **+2PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
+\page
 
 ### Zephyr Strike
 <div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>

@@ -492,6 +492,7 @@ List of spells available for a Plantomancer to learn.
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Ray of Enfeeblement]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
@@ -743,6 +744,7 @@ List of spells available for a Spelgard to learn.
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
 

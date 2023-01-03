@@ -865,6 +865,7 @@ List of spells available for a Plantomancer to learn.
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Ray of Enfeeblement]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
@@ -1116,6 +1117,7 @@ List of spells available for a Spelgard to learn.
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
 
@@ -2251,6 +2253,7 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
@@ -3687,6 +3690,19 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 - **+1PM:** aumente o dano inicial em +1d6.
 
+### See invisibility
+<div class="spell-tags">divination arcane boost sacred</div>
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** cena
+___
+
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+
+{{pageNumber,auto}}
+\page
+
 ### Shape Water
 <div class="spell-tags">transmutation arcane water nature</div>
 *Cantrip*
@@ -3708,8 +3724,7 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shillelagh
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -3748,7 +3763,8 @@ ___
 
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Soco de Arsenal
 <div class="spell-tags">summon wild wind nature warmagic thaumaturgy</div>
@@ -3765,8 +3781,7 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 - **+1 PM:** muda o alcance para pessoal, o alvo para você, a duração para cena e a resistência para nenhuma. Em vez do normal, seus ataques corpo a corpo passam a acertar inimigos distantes. Seu alcance natural aumenta em 3m; uma criatura Média pode atacar adversários a até 4,5m, por exemplo..
 - **+2 PM:** aumenta o dano em +1d6..
 - **+4 PM:** aumenta a distância do efeito de empurrar em +3m..
-- **+5 PM:** muda o tipo do dano para essência..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o tipo do dano para essência..
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -3810,7 +3825,8 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sugestion
 <div class="spell-tags">enchantment trickery</div>
@@ -3829,8 +3845,7 @@ You can also specify conditions that will trigger a special activity during the 
   
 If you or any of your companions damage the target, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sword Burst
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -3873,7 +3888,8 @@ You invoke the power of Hadar, the Dark Hunger.
 Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.
+- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
+\page
 
 ### Thorn Whip
 <div class="spell-tags">wild plant summon creation arcane</div>
@@ -3887,8 +3903,7 @@ ___
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
 - **+2 PM:** Increase damage by +2d6..
-- **+1PM:** +2 to hit..{{pageNumber,auto}}
-\page
+- **+1PM:** +2 to hit..
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -3927,7 +3942,8 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..
+- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
+\page
 
 ### Toll the Dead
 <div class="spell-tags">occult unholy decay necrotic wind no nature</div>
@@ -3940,8 +3956,7 @@ ___
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
-- **+3 PM:** increase the damage by 2 dice.{{pageNumber,auto}}
-\page
+- **+3 PM:** increase the damage by 2 dice.
 
 ### Toque Chocante
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -3988,7 +4003,8 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Transformação de Guerra
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
@@ -4002,8 +4018,7 @@ ___
 Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
 
 - **+2 PM:** aumenta os bônus na Defesa, testes de ataque e rolagens de dano corpo a corpo em +1, e os PV temporários em +10..
-- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..{{pageNumber,auto}}
-\page
+- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..
 
 ### Vicious Mockery
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
@@ -4045,7 +4060,8 @@ ___
 
 It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Web
 <div class="spell-tags">feral wild trickery creation arcane</div>
@@ -4061,8 +4077,7 @@ Each creature that starts its turn in the webs or that enters them during its tu
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Witch Bolt
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>

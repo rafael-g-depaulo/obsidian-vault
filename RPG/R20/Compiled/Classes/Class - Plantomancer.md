@@ -153,6 +153,7 @@ List of spells available for a Plantomancer to learn.
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Ray of Enfeeblement]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]

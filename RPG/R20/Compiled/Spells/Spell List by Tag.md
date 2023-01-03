@@ -60,6 +60,7 @@
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Maximilian's Earthen Grasp]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Warding Wind]]
@@ -92,6 +93,7 @@
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
 ### 3rd Circle
@@ -183,6 +185,7 @@
 ### 2nd Circle
 - [[Beast Sense]]
 - [[Darkvision]]
+- [[See invisibility]]
 
 ## Earth Spells
 ### 1st Circle
@@ -543,6 +546,7 @@
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
+- [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
 ### 3rd Circle

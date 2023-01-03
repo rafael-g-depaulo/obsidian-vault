@@ -24,24 +24,27 @@
 24. Inuyasha
 25. Love After World Domination
 26. Harley Quin S3
-27. The Ancient Magus' Bride
-28. Moriarty the Patriot
-29. Scooby Doo Mistery Inc.
-30. Do It Yourself
-31. Engage Kiss (maybe? kinda NSFW but at least looks cool)
-32. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
-33. Maya and the Three
-34. Devils' Line (vampire romance stuff)
-35. inu-oh
-36. Three Below
-37. The Hollow
-38. Carmen Sandiego
-39. Kid Cosmic
-40. Seis Manos
-41. That one that was called "13" or something i don't remember
-42. Bluelock
-43. Final Space
-44. the Eminence in Shadow (satire edgy isekai)
-45. Akiba MAid War
-46. Wendel & Wild
-47. To Be Hero X
+27. pantheon
+28. The Ancient Magus' Bride
+29. Moriarty the Patriot
+30. Scooby Doo Mistery Inc.
+31. Do It Yourself
+32. Engage Kiss (maybe? kinda NSFW but at least looks cool)
+33. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
+34. Maya and the Three
+35. Devils' Line (vampire romance stuff)
+36. inu-oh
+37. Three Below
+38. The Hollow
+39. Carmen Sandiego
+40. Kid Cosmic
+41. Seis Manos
+42. That one that was called "13" or something i don't remember
+43. Bluelock
+44. Final Space
+45. the Eminence in Shadow (satire edgy isekai)
+46. Akiba MAid War
+47. Wendel & Wild
+48. To Be Hero X
+
+Em setembro eu vi em outro projeto uma notificação sobre o fim da hospedagem gratuita de servidores e 

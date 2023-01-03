@@ -31,7 +31,6 @@ Here's a list of all of the errors found.
 - [[Regenerate]] Spell doesn't have {{spell-defitinition}} macro
 - [[Revivify]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sanctuary]] Spell doesn't have {{spell-defitinition}} macro
-- [[See Invisibility]] Spell doesn't have {{spell-defitinition}} macro
 - [[Shadow Blade]] Spell doesn't have {{spell-defitinition}} macro
 - [[Shatter]] Spell doesn't have {{spell-defitinition}} macro
 - [[Silence]] Spell doesn't have {{spell-defitinition}} macro

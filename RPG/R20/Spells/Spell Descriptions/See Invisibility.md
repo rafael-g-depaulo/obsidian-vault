@@ -1,39 +1,16 @@
-
+{{spell-definition "See invisibility"
+LEVEL: 2
 CAST_TIME: padrão
-RANGE: 6sqr
-TARGET: 1 criatura
-DURATION: concentração.
+RANGE: pessoal
+DURATION: cena
+TAGS:
+- #spell 
+- #divination 
+- #arcane 
+- #boost 
+- #sacred 
 
 DESCRIPTION:
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-INCREASES:
-| cost | description |
-| ---- | ----------- |
-| +1 PM | Upgrade 1. |
-| +3 PM | Upgrade 2. |
-}}
-
-#
-
-See invisibility
-
-Divination
-
-Level: **2**  
-Casting time: **1 Action**  
-Range: **Self**  
-Components: **V, S, M (a pinch of talc and a small sprinkling of powdered silver)**  
-Duration: **1 hour**
-
----
-
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
----
-
-Page: 274 Players Handbook
-
----
-
-A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+}}
