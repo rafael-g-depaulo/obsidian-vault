@@ -1,5 +1,4 @@
 1. The Faraway Paladin (isekai garbage prolly)
-2. Chainsaw Man
 3. Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
 4. Dance Dance Danceur
 5. Primal
@@ -40,11 +39,8 @@
 40. Kid Cosmic
 41. Seis Manos
 42. That one that was called "13" or something i don't remember
-43. Bluelock
 44. Final Space
 45. the Eminence in Shadow (satire edgy isekai)
 46. Akiba MAid War
 47. Wendel & Wild
 48. To Be Hero X
-
-Em setembro eu vi em outro projeto uma notificação sobre o fim da hospedagem gratuita de servidores e 
