@@ -17,7 +17,7 @@
 18. The Executioner and Her Way of Life
 19. Birdie Wing: Golf Girls' Story
 20. Bee and Puppycat
-21. Tanya te Evil Movie
+21. Tanya the Evil Movie
 22. Final Space
 23. Kengan Ashura
 24. Inuyasha

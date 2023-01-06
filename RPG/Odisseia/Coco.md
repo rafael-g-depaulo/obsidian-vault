@@ -26,7 +26,7 @@ Astúcia 5
 | Arrombamento   | 2      | 5        | 7     |
 
 ## Equipamento
-- Pistola
+- Pistola normal
 - Sniper Lazer
 - bracelete nanorefletor
 - 3 granadas de plasma
