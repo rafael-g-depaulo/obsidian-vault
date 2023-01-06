@@ -62,3 +62,9 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #slashing
   - #bludgeoning
   - #piercing
+
+
+idea for counterspell cycle:
+occult -> sacred -> occult
+thaumaturgy -> trickery -> arcane -> thaumaturgy
+nature -> elemental -> wild -> nature
