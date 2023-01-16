@@ -30,15 +30,12 @@ Azorrague Cromático:
   violet    Toviel  (she)   (Tovaid)    poison
 
 Escudo Metálico:
-
   Platinum:   Bahamut (Winter)  Wind            Bahanos
-
   Silver:     Artapa  (Spring)  Water   (she)   Artos
   Gold:       Gelnod  (Summer)  Fire            Gelnos
   Bronze:     Berzon  (Fall)    Earth           Bernos
 
 Tabula de Pedra:
-
   Hill:     Lhil      (she)   Lhiem     1   (Winter)
   Forest:   Trëfos            Tresem    2   (Winter)
   Fog:      Gôf               Gofem     3   (Spring)

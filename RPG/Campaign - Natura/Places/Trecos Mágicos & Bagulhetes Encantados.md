@@ -1,4 +1,4 @@
-Loja do [[Odrel]].
+Loja do [[RPG/Campaign - Natura/Characters/Odrel]].
 
 ## Inventory
 Itens mágicos no geral. Alguns ingredientes, mas mais pra construção de coisas não perecíveis.

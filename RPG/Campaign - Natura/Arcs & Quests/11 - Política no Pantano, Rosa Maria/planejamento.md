@@ -8,7 +8,7 @@ primeiro dia: players
 segundo dia: players depois rosa maria
 
 ## Rosa encounter
-[[Rosa Maria]]
+[[RPG/R20/Characters/NPCs/Rosa Maria]]
 
 ## Travel 2 days hard
 Pântano. CD 13

@@ -14,7 +14,7 @@ snails
 Floresta. CD 9
 
 ## Rosa encounter
-[[Rosa Maria]]
+[[RPG/R20/Characters/NPCs/Rosa Maria]]
 
 ## Travel 2 days hard
 Pântano. CD 13
