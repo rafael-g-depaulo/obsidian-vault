@@ -6,7 +6,9 @@
   "show_autocomplete_menu": true,
   "working_directory": "RPG/R20/scripts",
   "default_shells": {},
-  "environment_variable_path_augmentations": {},
+  "environment_variable_path_augmentations": {
+    "linux": "/home/ragan/.nvm/versions/node/v19.0.1/bin\n/home/ragan/.nvm/versions/node/v12.22.12/bin"
+  },
   "error_message_duration": 20,
   "notification_message_duration": 10,
   "execution_notification_mode": "disabled",
@@ -26,8 +28,8 @@
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
-        "stdout": "notification",
-        "stderr": "notification"
+        "stdout": "current-file-bottom",
+        "stderr": "current-file-bottom"
       },
       "output_wrappers": {
         "stdout": null,
