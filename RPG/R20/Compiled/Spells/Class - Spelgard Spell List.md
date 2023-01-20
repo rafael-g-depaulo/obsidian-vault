@@ -129,7 +129,10 @@ ___
 
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
-- **cost:** description.
+The fire ignites any flammable objects in the area that aren’t being worn or carried.
+
+- **+1 PM:** dano +1d6..
+- **+2PM:** aumenta o tamanho do cone em +1sqr.
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -141,6 +144,17 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
+
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
 
 
 
@@ -198,9 +212,11 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** cena.
 ___
 
-You touch a willing creature to grant it the ability to see in the dark.
+You touch a willing creature to grant it the ability to see in the dark.  
+For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
-- **cost:** description.
+- **+2 PM:** +1 alvo.
+- **+1 PM:** +4sqr (+6m)..
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
@@ -254,7 +270,9 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.
+- **+1 PM:** +2sqr alcance..
+- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
+- **+3 PM:** você lança +1 raio contra o alvo principal.
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -265,9 +283,9 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **Duração:** concentração.
 ___
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
+Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
 \page
 
 ### Enlarge/Reduce
@@ -348,7 +366,7 @@ ___
 
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
 
-- **cost:** description.
+- **+3PM:** increase both damages by +1d8.
 
 ### Guidance
 <div class="spell-tags">divination boost sacred arcane</div>
@@ -372,8 +390,10 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
+Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em +1d6.
+- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -399,7 +419,8 @@ ___
 
 You touch a creature. The target’s speed increases by 2sqr until the spell ends.
 
-- **cost:** description.
+- **+1PM:** increase the movement speed by another +1sqr.
+- **+1PM:** increase the target by +1.
 
 ### Mage Armor
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -425,7 +446,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **cost:** description.
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
 
 ### Poison Spray
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -437,7 +458,7 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
 \page
 
 ### Primor Atlético
@@ -543,9 +564,10 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 - **Duração:** imediata.
 ___
 
-You create a momentary circle of spectral blades that sweep around you.
+You create a momentary circle of spectral blades that sweep around you.  
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
 \page
 
 ### Thunderous Smite
@@ -572,7 +594,9 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em 1d8+1..
+- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
+- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>

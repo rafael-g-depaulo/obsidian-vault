@@ -219,7 +219,7 @@ ___
 
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
-- **cost:** description.
+- **+3PM:** target an additional creature..
 
 ### Calm Emotions
 <div class="spell-tags">enchantment trickery boost sacred</div>
@@ -264,7 +264,8 @@ ___
 
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
-- **cost:** description.
+- **+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe resistência 30 contra o próximo dano que sofrer até o fim do turno atual..
+- **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10..
 
 ### Canhão de Ervilha
 <div class="spell-tags">summon plant wild</div>
@@ -278,7 +279,11 @@ ___
 
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
-- **cost:** description.
+- **+2 PM:** aumenta o dano em +1d8+2..
+- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 2º círculo..
+- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo..
+- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo..
+- **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo..
 
 ### Catapult
 <div class="spell-tags">transmutation earth nature arcane</div>
@@ -304,7 +309,7 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
 
 ### Charm Person
@@ -329,9 +334,12 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 - **Duração:** cena.
 ___
 
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.  
+  
+The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-- **cost:** description.
+- **+XPM:** you gain an offensive buff against the target.
+- **+XPM:** both you and the target have +# movement speed when running towards eachother.
 
 ### Controlar Plantas
 <div class="spell-tags">plant wild enchantment trickery</div>
@@ -345,7 +353,7 @@ ___
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
-- **cost:** description.
+- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
@@ -356,9 +364,15 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Duração:** concentração.
 ___
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
+  
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.  
+  
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
 \page
 
 ### Curar Ferimentos
@@ -386,9 +400,11 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** cena.
 ___
 
-You touch a willing creature to grant it the ability to see in the dark.
+You touch a willing creature to grant it the ability to see in the dark.  
+For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
-- **cost:** description.
+- **+2 PM:** +1 alvo.
+- **+1 PM:** +4sqr (+6m)..
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
@@ -429,7 +445,8 @@ ___
 
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d6.
+- **+3PM:** increase the radius by 1sqr.
 
 ### Earthbind
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
@@ -456,7 +473,9 @@ ___
 
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
-- **cost:** description.
+- **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar..
+- **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
+- **+5 PM:** afeta todos os alvos dentro do alcance..
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -467,9 +486,9 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **Duração:** concentração.
 ___
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
+Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
 \page
 
 ### Enlarge/Reduce
@@ -540,7 +559,7 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
 \page
 
 ### Feather Fall
@@ -673,9 +692,10 @@ You touch a creature and can end either one disease or one condition afflicting 
 - **Duração:** imediata.
 ___
 
-You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
+The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **cost:** description.
+- **+2PM:** increase damage by +1d8.
 
 ### Mage Armor
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -701,7 +721,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
 
 ### Magic Stone
@@ -715,7 +735,8 @@ ___
 
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
-- **cost:** description.
+- **+3 PM:** Increase the damage by 1d6..
+- **+1 PM:** Increase the number of pebbles by 1..
 
 ### Maximilian's Earthen Grasp
 <div class="spell-tags">earth creation arcane nature</div>
@@ -746,7 +767,7 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **cost:** description.
+- **+2 PM:** Aumenta o dano em 1d12..
 
 ### Ray of Enfeeblement
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -852,7 +873,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **cost:** description.
+- **+1PM:** Add +1d8 to the dice rolled..
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -926,9 +947,10 @@ If you or any of your companions damage the target, the spell ends.
 - **Duração:** imediata.
 ___
 
-You create a momentary circle of spectral blades that sweep around you.
+You create a momentary circle of spectral blades that sweep around you.  
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d6.
 
 ### Teia
 <div class="spell-tags">arcane creation feral wild</div>

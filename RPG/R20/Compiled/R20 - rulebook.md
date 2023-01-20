@@ -2132,6 +2132,12 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #piercing
 
 
+idea for counterspell cycle:
+occult -> sacred -> occult
+thaumaturgy -> trickery -> arcane -> thaumaturgy
+nature -> elemental -> wild -> nature
+
+
 {{pageNumber,auto}}
 \page
 # Spell List
@@ -2481,7 +2487,7 @@ ___
 
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
-- **cost:** description.
+- **+3PM:** target an additional creature..
 
 ### Booming Blade
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
@@ -2508,7 +2514,10 @@ ___
 
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
-- **cost:** description.{{pageNumber,auto}}
+The fire ignites any flammable objects in the area that aren’t being worn or carried.
+
+- **+1 PM:** dano +1d6..
+- **+2PM:** aumenta o tamanho do cone em +1sqr.{{pageNumber,auto}}
 \page
 
 ### Calm Emotions
@@ -2553,7 +2562,8 @@ ___
 
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
-- **cost:** description.
+- **+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe resistência 30 contra o próximo dano que sofrer até o fim do turno atual..
+- **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10..
 
 ### Camuflagem ilusória
 <div class="spell-tags">ilusion trickery</div>
@@ -2566,7 +2576,8 @@ ___
 
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+3 PM:** a imagem do alvo fica mais distorcida, oferecendo camuflagem total..
+- **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo..{{pageNumber,auto}}
 \page
 
 ### Canhão de Ervilha
@@ -2581,7 +2592,11 @@ ___
 
 Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
 
-- **cost:** description.
+- **+2 PM:** aumenta o dano em +1d8+2..
+- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 2º círculo..
+- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 3º círculo..
+- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo..
+- **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo..
 
 ### Catapult
 <div class="spell-tags">transmutation earth nature arcane</div>
@@ -2607,7 +2622,7 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **cost:** description.
+- **+2PM:** target one additional creature.
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -2619,6 +2634,17 @@ You awaken the sense of mortality in one creature you can see within range. A co
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
+
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
 
 {{pageNumber,auto}}
 \page
@@ -2645,9 +2671,10 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 - **Duração:** concentração.
 ___
 
-You create a ghostly, skeletal hand in the space of a creature within range.
+You create a ghostly, skeletal hand in the space of a creature within range.  
+Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
 
-- **cost:** description.
+- **+2 PM:** Increase the damage by 1d6..
 
 ### Command
 <div class="spell-tags">enchantment speech trickery curse occult</div>
@@ -2671,9 +2698,12 @@ ___
 - **Duração:** cena.
 ___
 
-You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.
+You attempt to compel a creature into a duel. One creature that you can see within range must make a Wisdom saving throw. On a failed save, the creature is drawn to you, compelled by your divine demand. For the duration, it has disadvantage on attack rolls against creatures other than you, and must make a Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this spell doesn’t restrict the target’s movement for that turn.  
+  
+The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+XPM:** you gain an offensive buff against the target.
+- **+XPM:** both you and the target have +# movement speed when running towards eachother.{{pageNumber,auto}}
 \page
 
 ### Concentração de Combate
@@ -2729,7 +2759,7 @@ ___
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
-- **cost:** description.{{pageNumber,auto}}
+- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
 
 ### Create Bonfire
@@ -2741,9 +2771,10 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Duração:** concentration.
 ___
 
-You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.
+You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire’s space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire’s space for the first time on a turn or ends its turn there.  
+The bonfire ignites flammable objects in its area that aren’t being worn or carried.
 
-- **cost:** description.
+- **+2PM:** increase damage by +1d8.
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
@@ -2754,9 +2785,15 @@ You create a bonfire on ground that you can see within range. Until the spell en
 - **Duração:** concentração.
 ___
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
+  
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.  
+  
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
-- **cost:** description.
+- **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
+- **+2PM:** increase the damage by +1d8.
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
@@ -2783,9 +2820,11 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **Duração:** cena.
 ___
 
-You touch a willing creature to grant it the ability to see in the dark.
+You touch a willing creature to grant it the ability to see in the dark.  
+For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** +1 alvo.
+- **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
 \page
 
 ### Despedaçar
@@ -2843,9 +2882,11 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **Duração:** imediata.
 ___
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.  
 
-- **cost:** description.{{pageNumber,auto}}
+The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction , if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
+
+- **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
 
 ### Divine Favor
@@ -2870,7 +2911,8 @@ ___
 
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d6.
+- **+3PM:** increase the radius by 1sqr.
 
 ### Earthbind
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
@@ -2896,7 +2938,9 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1 PM:** +2sqr alcance..
+- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
+- **+3 PM:** você lança +1 raio contra o alvo principal.{{pageNumber,auto}}
 \page
 
 ### Enfeitiçar
@@ -2911,7 +2955,9 @@ ___
 
 Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu controle, mas percebe suas palavras e ações da maneira mais favorável possível. Você recebe um bônus de +10 em testes de Diplomacia com a vítima. Um alvo hostil ou que esteja envolvido em um combate recebe +5 em seu teste de resistência. Se você ou seus aliados tomarem qualquer ação hostil contra o alvo, a magia é dissipada e o alvo retorna à atitude que tinha antes (ou piorada, de acordo com o mestre).
 
-- **cost:** description.
+- **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar..
+- **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
+- **+5 PM:** afeta todos os alvos dentro do alcance..
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -2922,9 +2968,9 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **Duração:** concentração.
 ___
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects: the target gains the effect until the spell ends.
+Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **cost:** description.
+- **+2PM:** aumente o número de alvos em 1.
 
 ### Enlarge/Reduce
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
@@ -3028,7 +3074,7 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
 \page
 
 ### Feather Fall
@@ -3112,7 +3158,7 @@ ___
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
-- **cost:** description.
+- **+2PM:** aumente o dano em 1d6.
 
 ### Goodberry
 <div class="spell-tags">plant wild summon</div>
@@ -3137,7 +3183,7 @@ ___
 
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+3PM:** increase both damages by +1d8.{{pageNumber,auto}}
 \page
 
 ### Guidance
@@ -3162,8 +3208,10 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
+Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em +1d6.
+- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
 
 ### Hail of Thorns
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
@@ -3187,7 +3235,8 @@ ___
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** aumenta a cura em 1d4.
+- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
 
 ### Heat Metal
@@ -3199,9 +3248,11 @@ A creature of your choice that you can see within range regains hit points equal
 - **Duração:** concentração.
 ___
 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, every creature touching it takes damage again at the start of your turn.
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, every creature touching it takes damage again at the start of your turn.  
 
-- **cost:** description.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+
+- **+2PM:** the damage increases by +1d8.
 
 ### Hellish Rebuke
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
@@ -3257,7 +3308,8 @@ ___
 
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
-- **cost:** description.
+- **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2)..
+- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..
 
 ### Infestation
 <div class="spell-tags">summon wild unholy occult</div>
@@ -3270,7 +3322,7 @@ ___
 
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
-- **cost:** description.
+- **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).
 
 ### Infligir Ferimentos
 <div class="spell-tags">unholy occult necrotic decay</div>
@@ -3284,7 +3336,10 @@ ___
 
 Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano necrótico (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
 
-- **cost:** description.
+- **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
+- **+2 PM:** aumenta o dano em 1d8+1..
+- **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
 ### Invisibilidade
 <div class="spell-tags">ilusion trickery</div>
@@ -3297,7 +3352,10 @@ ___
 
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura ou 1 objeto..
+- **+3 PM:** muda a duração para cena. Requer 5º círculo..
+- **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
+- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..{{pageNumber,auto}}
 \page
 
 ### Lesser Restoration
@@ -3333,9 +3391,10 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 - **Duração:** imediata.
 ___
 
-You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.
+You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
+The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **cost:** description.
+- **+2PM:** increase damage by +1d8.
 
 ### Longstrider
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -3348,7 +3407,8 @@ ___
 
 You touch a creature. The target’s speed increases by 2sqr until the spell ends.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** increase the movement speed by another +1sqr.
+- **+1PM:** increase the target by +1.{{pageNumber,auto}}
 \page
 
 ### Luz
@@ -3362,7 +3422,9 @@ ___
 
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
 
-- **cost:** description.
+- **+1 PM:** aumenta a área iluminada em +3m de raio..
+- **+2 PM:** muda a duração para 1 dia..
+- **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..
 
 ### Mage Armor
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -3405,7 +3467,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
 
 ### Magic Stone
@@ -3419,7 +3481,8 @@ ___
 
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 60 feet. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
-- **cost:** description.
+- **+3 PM:** Increase the damage by 1d6..
+- **+1 PM:** Increase the number of pebbles by 1..
 
 ### Mass Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
@@ -3544,7 +3607,7 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **cost:** description.
+- **+2 PM:** Aumenta o dano em 1d12..
 
 ### Prayer of Healing
 <div class="spell-tags">speech holy recovery sacred no trickery</div>
@@ -3556,7 +3619,8 @@ ___
 
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.
+- **+2 PM:** aumenta a cura em 1d8.
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Primal Savagery
 <div class="spell-tags">wild feral</div>
@@ -3750,7 +3814,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **cost:** description.
+- **+1PM:** Add +1d8 to the dice rolled..
 
 ### Snare
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
@@ -3855,9 +3919,10 @@ If you or any of your companions damage the target, the spell ends.
 - **Duração:** imediata.
 ___
 
-You create a momentary circle of spectral blades that sweep around you.
+You create a momentary circle of spectral blades that sweep around you.  
+Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d6.
 
 ### Teia
 <div class="spell-tags">arcane creation feral wild</div>
@@ -3970,7 +4035,9 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em 1d8+1..
+- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
+- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -4029,9 +4096,10 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 - **Duração:** imediata.
 ___
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **cost:** description.
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -4104,7 +4172,7 @@ ___
 
 You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
-- **cost:** description.
+- **+1PM:** increase the damage by +1d6.
 
 ### Zephyr Strike
 <div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>

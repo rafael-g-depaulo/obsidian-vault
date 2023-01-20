@@ -20,7 +20,7 @@
     {
       "id": "7bx1y1i90e",
       "platform_specific_commands": {
-        "default": "yarn compile"
+        "default": "yarn compile && echo 'Compiled!'"
       },
       "shells": {},
       "alias": "compile R20",
@@ -28,8 +28,8 @@
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
-        "stdout": "current-file-bottom",
-        "stderr": "current-file-bottom"
+        "stdout": "notification",
+        "stderr": "notification"
       },
       "output_wrappers": {
         "stdout": null,

@@ -78,7 +78,7 @@ ___
 
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
-- **cost:** description.
+- **+3PM:** target an additional creature..
 
 ### Booming Blade
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
@@ -105,7 +105,8 @@ ___
 
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+3 PM:** a imagem do alvo fica mais distorcida, oferecendo camuflagem total..
+- **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo..{{pageNumber,auto}}
 \page
 
 ### Cause Fear
@@ -119,7 +120,7 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **cost:** description.
+- **+2PM:** target one additional creature.
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -132,6 +133,17 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
+
 
 
 ### Chill Touch
@@ -143,9 +155,10 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 - **Duração:** concentração.
 ___
 
-You create a ghostly, skeletal hand in the space of a creature within range.
+You create a ghostly, skeletal hand in the space of a creature within range.  
+Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
 
-- **cost:** description.
+- **+2 PM:** Increase the damage by 1d6..
 
 ### Command
 <div class="spell-tags">enchantment speech trickery curse occult</div>
@@ -183,9 +196,15 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 - **Duração:** concentração.
 ___
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration.  
+While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.  
+  
+The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.  
+  
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
-- **cost:** description.
+- **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
+- **+2PM:** increase the damage by +1d8.
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
@@ -225,9 +244,11 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 - **Duração:** imediata.
 ___
 
-You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.
+You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain.  
 
-- **cost:** description.
+The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction , if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
+
+- **+2PM:** +1d6 dmg.
 
 ### Earthbind
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
@@ -270,7 +291,7 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
 \page
 
 ### Flecha Ácida
@@ -312,7 +333,7 @@ ___
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
-- **cost:** description.
+- **+2PM:** aumente o dano em 1d6.
 
 ### Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
@@ -324,7 +345,8 @@ ___
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** aumenta a cura em 1d4.
+- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
 
 ### Hellish Rebuke
@@ -380,7 +402,8 @@ ___
 
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2)..
+- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..{{pageNumber,auto}}
 \page
 
 ### Infestation
@@ -394,7 +417,7 @@ ___
 
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
-- **cost:** description.
+- **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).
 
 ### Infligir Ferimentos
 <div class="spell-tags">unholy occult necrotic decay</div>
@@ -408,7 +431,10 @@ ___
 
 Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano necrótico (ou curando 2d8+2 PV, se for um morto-vivo). Infligir Ferimentos anula Curar Ferimentos.
 
-- **cost:** description.
+- **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
+- **+2 PM:** aumenta o dano em 1d8+1..
+- **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
 ### Invisibilidade
 <div class="spell-tags">ilusion trickery</div>
@@ -421,7 +447,10 @@ ___
 
 O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e +20 em testes de Furtividade. Como o normal, criaturas que não possam vê-lo ficam desprevenidas contra seus ataques. A magia termina se o alvo faz um ataque ou usa uma habilidade hostil. Ações contra objetos livres não dissipam a Invisibilidade (você pode tocar ou apanhar objetos que não estejam sendo segurados por outras criaturas). Causar dano indiretamente — por exemplo, acendendo o pavio de um barril de pólvora que vai detonar mais tarde — não é considerado um ataque. Objetos soltos pelo alvo voltam a ser visíveis e objetos apanhados por ele ficam invisíveis. Uma luz transportada pelo alvo nunca fica invisível (mesmo que sua fonte seja). Qualquer parte de um item carregado que se estenda além de seu alcance corpo a corpo natural se torna visível.
 
-- **cost:** description.
+- **+1 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura ou 1 objeto..
+- **+3 PM:** muda a duração para cena. Requer 5º círculo..
+- **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
+- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -459,7 +488,9 @@ ___
 
 O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto pode ser guardado (em um bolso, por exemplo) para interromper a luz, que voltará a funcionar caso o objeto seja revelado. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la. Luz anula Escuridão.
 
-- **cost:** description.
+- **+1 PM:** aumenta a área iluminada em +3m de raio..
+- **+2 PM:** muda a duração para 1 dia..
+- **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..
 
 ### Mass Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
@@ -549,7 +580,8 @@ ___
 
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2 PM:** aumenta a cura em 1d8.
+- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
 \page
 
 ### Ray of Enfeeblement
@@ -605,7 +637,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
 \page
 
 ### Snare
@@ -675,6 +707,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 - **Duração:** imediata.
 ___
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range.
+You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
+If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **cost:** description.
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
