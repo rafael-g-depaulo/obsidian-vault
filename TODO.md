@@ -8,20 +8,21 @@ kanban-plugin: basic
 
 - [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
 - [ ] talk with gena about tcc
-- [ ] email prof fernanda
 - [ ] make plans for MC article
 - [ ] relatório macroeconomia
 - [ ] financeiro dezembro
+- [ ] explore compiladores teams stuff
 
 
 ## doing
 
-- [ ] resolver cobrança sindesei
 
 
 ## done
 
 - [ ] sheet financeiro
+- [ ] resolver cobrança sindesei
+- [ ] email prof fernanda
 
 
 ***
