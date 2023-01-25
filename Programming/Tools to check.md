@@ -80,3 +80,6 @@ Here is how to monitor Microservices using Grafana. It renders two versions of s
 
 -   **_Grafana cloud_** — Users can send data to Grafana cloud dashboards. Grafana Cloud Logs, Grafana Cloud Metrics, and Grafana Cloud Traces are some of the solutions offered by Google cloud.
 -   **_Grafana Enterprise stack_** — It provides support for metrics and logs with Grafana installed within the infrastructure.
+
+## Automation 
+- Make (automates pipeline stuff like fucking magic. awesome)
