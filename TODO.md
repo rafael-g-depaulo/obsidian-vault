@@ -15,13 +15,13 @@ kanban-plugin: basic
 ## doing
 
 - [ ] financeiro dezembro
-- [ ] explore compiladores teams stuff
 
 
 ## done
 
 - [ ] enviar trab fp
 - [ ] pedir dinheiro crédito mãe
+- [ ] explore compiladores teams stuff
 
 
 ***
