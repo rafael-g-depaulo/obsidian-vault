@@ -37,6 +37,7 @@ const cleanResults = async () =>
   Promise.all([
     await cleanFolder(CompiledFolder),
     await cleanFolder(CompiledSpelllistsFolder),
+    await cleanFolder(CompiledClassesFolder),
   ])
 
 interface Content {
