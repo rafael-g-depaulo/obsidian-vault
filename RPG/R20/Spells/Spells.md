@@ -31,6 +31,8 @@ The maximum level of a spell a character can learn is given by the below table (
 | 19         | 9           | 7          |
 | 20         | 9           | 7          |
 
+![[Preparing Spells]]
+
 ## Casting Spells
 
 ### Casting while wearing armor

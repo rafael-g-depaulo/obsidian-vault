@@ -1,8 +1,5 @@
-- [ ] Add Defensive Duelist Feat
-- [ ] Add cunning action to rogue
-- [ ] Specialist Feats (Ex: hide as free action after de raspão)
 - [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)
-- [ ] pet system (allies from T20 with hitpoints, and can use feats to give them extra abilities. for every feat spent they gain more HP. uses player's MP to use abilities, and acts on player's turn)
+- [ ] pet system (allies from T20 with hitpoints, and can use feats to give them extra abilities. for every feat spent they gain more HP. uses player's MP to use abilities, and acts on player's turn. look up D&D lackeys for inspiration)
 - [ ] Write up spell preparation rules
 - [ ] Write up spell attack/save rules, with crit in mind
 - [ ] look into D&D smites for champion

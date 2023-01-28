@@ -18,7 +18,10 @@ If your character has the ability to do so, they can perform an attack of opport
 **Attack of Opportunity**: Reaction (An enemy leaves your melee range, 0MP): You can make an attack against the enemy immediately as they leave your melee range.
 
 ### Movement
-During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]])
+During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]]). 
+
+### Dash
+Any character can use their Major Action in combat to perform another movement action.
 
 ### Attack
 Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [[Maneuvers]]

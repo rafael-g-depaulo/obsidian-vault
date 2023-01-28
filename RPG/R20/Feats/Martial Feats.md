@@ -7,14 +7,7 @@
   - Climbing doesn’t halve your speed.
   - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
-**Defensive Duelist.** Prerequisite: Dexterity 13 or higher When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
-
-**Mobile.** You are exceptionally speedy and agile. You gain the following benefits:
-  - Your speed increases by 2 squares (10 feet).
-  - When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
-  - When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
-
-**Sentinel.** When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn.
+**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação (2PM): some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
 
 **Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
 

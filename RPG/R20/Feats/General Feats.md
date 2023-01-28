@@ -50,3 +50,11 @@
 
 **Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
 
+**Reflexos de Desvio.** Você pode se esconder como ação livre imediatamente após usar "**de Raspão**".
+
+**Liberdade de Movimento**. When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn. When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
+**Reflexos de Combate**. Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
+
+**Atraente**. Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
+
