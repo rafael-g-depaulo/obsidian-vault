@@ -51,6 +51,7 @@
 
 ### Acid Splash
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -66,6 +67,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 
 ### Aid
 <div class="spell-tags">boost sacred</div>
+
 *2nd Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -79,6 +81,7 @@ Choose up to three creatures within range. Each target’s hit point maximum and
 
 ### Arma Mágica
 <div class="spell-tags">boost sacred warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -92,6 +95,7 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 
 ### Armor of Agathys
 <div class="spell-tags">cold elemental abjuration warmagic creation arcane thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -108,6 +112,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 ### Blade Ward
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -120,6 +125,7 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ### Burning Hands
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** cone (3sqr)
@@ -136,6 +142,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -161,6 +168,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 ### Concentração de Combate
 <div class="spell-tags">boost no sacred thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** livre
 - **Alcance:** pessoal
@@ -176,6 +184,7 @@ Você amplia sua percepção, antecipando movimentos dos inimigos e achando brec
 
 ### Continual Flame
 <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -190,6 +199,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -206,6 +216,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ### Darkvision
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** Toque
@@ -221,6 +232,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** Self
@@ -234,6 +246,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ### Detectar Ameaças
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal;
@@ -250,6 +263,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 
 ### Divine Favor
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** Movimento
 - **Alcance:** pessoal
@@ -262,6 +276,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 ### Energy Blast
 <div class="spell-tags">energy evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -279,6 +294,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -293,6 +309,7 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 
 ### Enlarge/Reduce
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -314,6 +331,7 @@ The target’s size is halved in all dimensions, and its weight is reduced to on
 
 ### Escudo
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** reação
 - **Alcance:** pessoal
@@ -331,6 +349,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 
 ### Explosão de chamas
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 4sqr
@@ -346,6 +365,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 ### Fire Bolt
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -361,6 +381,7 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 ### Green Flame Blade
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -374,6 +395,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 ### Guidance
 <div class="spell-tags">divination boost sacred arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -387,6 +409,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Guiding Bolt
 <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -402,6 +425,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
+
 *2nd Circle*
 - **Execução:** 1 Action
 - **Alcance:** Touch
@@ -415,6 +439,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ### Longstrider
 <div class="spell-tags">boost sacred thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -429,6 +454,7 @@ You touch a creature. The target’s speed increases by 2sqr until the spell end
 
 ### Mage Armor
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** Toque
@@ -442,6 +468,7 @@ You touch a willing creature who isn’t wearing armor, and a protective magical
 
 ### Magic Missile
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -455,6 +482,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 ### Poison Spray
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** 1 Action
 - **Alcance:** 2sqr
@@ -468,6 +496,7 @@ You extend your hand toward a creature you can see within range and project a pu
 
 ### Primor Atlético
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -484,6 +513,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 
 ### Ray of Frost
 <div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -497,6 +527,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ### Ray of Sickness
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -510,6 +541,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ### Resistance
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -524,6 +556,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Searing Smite
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** pessoal
@@ -538,6 +571,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 ### See invisibility
 <div class="spell-tags">divination arcane boost sacred</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -550,6 +584,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 ### Spider Climb
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -563,6 +598,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ### Sword Burst
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** raio de 1sqr centrado em você
@@ -577,6 +613,7 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 ### Thunderous Smite
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** pessoal
@@ -589,6 +626,7 @@ The first time you hit with a melee weapon attack during this spell’s duration
 
 ### Toque Chocante
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -605,6 +643,7 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -622,6 +661,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 ### Witch Bolt
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -638,6 +678,7 @@ Make a ranged spell attack against that creature. On a hit, the target takes 1d1
 
 ### Zephyr Strike
 <div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** 6sqr

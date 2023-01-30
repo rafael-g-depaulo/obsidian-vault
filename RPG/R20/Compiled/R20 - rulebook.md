@@ -512,17 +512,13 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
-- **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod.
+- **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod. Pré-requisito: lv5 de Beast Warrior.
 
 - **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
 
 - **Powerful Savage Attacks**. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
 
 - **Alma de Bronze**. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
-
-- **Pele de Aço**. O bônus de Pele de Ferro aumenta para +5. Pré-requisitos: Pele de Ferro, 8º nível de Beast Warrior.
-
-- **Pele de Ferro**. Você recebe +2 na Defesa, mas apenas se não estiver usando armadura pesada.
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
@@ -540,7 +536,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Wild Rage: Owlbear**. Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
-- **Wild Rage: Direwolf**. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 1 (you crit on 19-20 instead of 20).
+- **Wild Rage: Direwolf**. Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20).
 
 - **Wild Rage: Sharkodile**. Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
 
@@ -2418,6 +2414,7 @@ nature -> elemental -> wild -> nature
 
 ### Abençoar Alimentos
 <div class="spell-tags">holy sacred plant no wild</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto;
@@ -2432,6 +2429,7 @@ Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna u
 
 ### Acid Splash
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -2447,6 +2445,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 
 ### Aid
 <div class="spell-tags">boost sacred</div>
+
 *2nd Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -2460,6 +2459,7 @@ Choose up to three creatures within range. Each target’s hit point maximum and
 
 ### Animal Friendship
 <div class="spell-tags">wild feral enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2475,6 +2475,7 @@ Choose a beast that you can see within range. It must see and hear you. If the b
 
 ### Área Escorregadia
 <div class="spell-tags">arcane creation trickery water nature</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto
@@ -2494,6 +2495,7 @@ Esta magia recobre uma superfície com uma substância gordurosa e escorregadia.
 
 ### Arma Mágica
 <div class="spell-tags">boost sacred warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2507,6 +2509,7 @@ A arma fornece um bônus de +1 nos testes de ataque e rolagens de dano e é cons
 
 ### Armor of Agathys
 <div class="spell-tags">cold elemental abjuration warmagic creation arcane thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -2522,6 +2525,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 
 ### Bane
 <div class="spell-tags">curse occult</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -2535,6 +2539,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ### Barkskin
 <div class="spell-tags">plant wild boost sacred abjuration thaumaturgy warmagic</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2549,6 +2554,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 
 ### Beast Bont
 <div class="spell-tags">feral divination arcane enchantment wild trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2562,6 +2568,7 @@ You establish a telepathic link with one beast you touch that is friendly to you
 
 ### Beast Sense
 <div class="spell-tags">wild feral divination arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2575,6 +2582,7 @@ You touch a willing beast. For the duration of the spell, you can use your actio
 
 ### Benção
 <div class="spell-tags">boost sacred speech no trickery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -2592,6 +2600,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 
 ### Blade Ward
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -2604,6 +2613,7 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ### Blindness Deafness
 <div class="spell-tags">curse transmutation trickery occult arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -2617,6 +2627,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 ### Booming Blade
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alvo:** pessoal
@@ -2631,6 +2642,7 @@ This spell's damage increases when you reach higher levels.
 
 ### Burning Hands
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** cone (3sqr)
@@ -2648,6 +2660,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 
 ### Calm Emotions
 <div class="spell-tags">enchantment trickery boost sacred</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2664,6 +2677,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 ### Caminhos da Natureza
 <div class="spell-tags">wild summon enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto;
@@ -2679,6 +2693,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 
 ### Campo de Força
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -2693,6 +2708,7 @@ Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporá
 
 ### Camuflagem ilusória
 <div class="spell-tags">ilusion trickery</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2708,6 +2724,7 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 
 ### Canhão de Ervilha
 <div class="spell-tags">summon plant wild</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto;
@@ -2726,6 +2743,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 
 ### Catapult
 <div class="spell-tags">transmutation earth nature arcane</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -2739,6 +2757,7 @@ Choose one object weighing 1 to 5 pounds within range that isn’t being worn or
 
 ### Cause Fear
 <div class="spell-tags">curse trickery enchantment occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2752,6 +2771,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2778,6 +2798,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 ### Charm Person
 <div class="spell-tags">enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -2791,6 +2812,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ### Chill Touch
 <div class="spell-tags">cold elemental unholy occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 18m (12 quadrados de 1,5m)
@@ -2805,6 +2827,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 
 ### Command
 <div class="spell-tags">enchantment speech trickery curse occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -2818,6 +2841,7 @@ ___
 
 ### Compelled Duel
 <div class="spell-tags">warmagic holy enchantment no trickery sacred thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** 6sqr
@@ -2835,6 +2859,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 
 ### Concentração de Combate
 <div class="spell-tags">boost no sacred thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** livre
 - **Alcance:** pessoal
@@ -2849,6 +2874,7 @@ Você amplia sua percepção, antecipando movimentos dos inimigos e achando brec
 
 ### Continual Flame
 <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2863,6 +2889,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 ### Control Flames
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2876,6 +2903,7 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 
 ### Controlar Plantas
 <div class="spell-tags">plant wild enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto;
@@ -2891,6 +2919,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 ### Create Bonfire
 <div class="spell-tags">fire summon wild transmutation arcane elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -2905,6 +2934,7 @@ The bonfire ignites flammable objects in its area that aren’t being worn or ca
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -2924,6 +2954,7 @@ On your subsequent turns, you must use your action to maintain control over the 
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -2940,6 +2971,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ### Darkvision
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** Toque
@@ -2956,6 +2988,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 ### Despedaçar
 <div class="spell-tags">wind nature arcane transmutation</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -2974,6 +3007,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** Self
@@ -2986,6 +3020,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ### Detectar Ameaças
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal;
@@ -3002,6 +3037,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 
 ### Dissonant Whispers
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -3018,6 +3054,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 ### Divine Favor
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** Movimento
 - **Alcance:** pessoal
@@ -3030,6 +3067,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 ### Earth Tremor
 <div class="spell-tags">earth nature transmutation arcane</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** Self (2sqr radius)
@@ -3043,6 +3081,7 @@ You cause a tremor in the ground in a 2sqr radius. Each creature other than you 
 
 ### Earthbind
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -3056,6 +3095,7 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 
 ### Energy Blast
 <div class="spell-tags">energy evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -3074,6 +3114,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 
 ### Enfeitiçar
 <div class="spell-tags">enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto
@@ -3090,6 +3131,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3103,6 +3145,7 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 
 ### Enlarge/Reduce
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3124,6 +3167,7 @@ The target’s size is halved in all dimensions, and its weight is reduced to on
 
 ### Entangle
 <div class="spell-tags">plant wild trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 10sqr 
@@ -3145,6 +3189,7 @@ When the spell ends, the conjured plants wilt away.
 
 ### Escudo
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** reação
 - **Alcance:** pessoal
@@ -3162,6 +3207,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 
 ### Escuridão
 <div class="spell-tags">occult unholy trickery ilusion</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3180,6 +3226,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 
 ### Explosão de chamas
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 4sqr
@@ -3195,6 +3242,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 ### False Life
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -3208,6 +3256,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 ### Feather Fall
 <div class="spell-tags">transmutation wind arcane no thaumaturgy nature</div>
+
 *1st Circle*
 - **Execução:** reação
 - **Alcance:** 12sqr
@@ -3221,6 +3270,7 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 
 ### Fire Bolt
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -3235,6 +3285,7 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 ### Físico Divino
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3250,6 +3301,7 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 
 ### Flecha Ácida
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -3268,6 +3320,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágic
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 20sqr
@@ -3280,6 +3333,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ### Frostbite
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3293,6 +3347,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 ### Goodberry
 <div class="spell-tags">plant wild summon</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3305,6 +3360,7 @@ Up to 10 berries appear in your hand and are infused with magic for the duration
 
 ### Green Flame Blade
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3319,6 +3375,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 ### Guidance
 <div class="spell-tags">divination boost sacred arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3332,6 +3389,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Guiding Bolt
 <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -3347,6 +3405,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 
 ### Hail of Thorns
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** livre (durante um ataque a distância)
 - **Alcance:** pessoal
@@ -3360,6 +3419,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 ### Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
+
 *1st Circle*
 - **Execução:** 1 Movement Action
 - **Alcance:** 60 feet
@@ -3374,6 +3434,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 ### Heat Metal
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 15sqr
@@ -3389,6 +3450,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ### Hellish Rebuke
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -3403,6 +3465,7 @@ Reaction: you are being damaged by a creature within range of you that you can s
 
 ### Hideous Laughter
 <div class="spell-tags">enchantment trickery curse occult speech</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3418,6 +3481,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ### Hold Person
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 15sqr
@@ -3433,6 +3497,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ### Imagem Espelhada
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -3447,6 +3512,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 
 ### Infestation
 <div class="spell-tags">summon wild unholy occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3460,6 +3526,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 
 ### Infligir Ferimentos
 <div class="spell-tags">unholy occult necrotic decay</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3477,6 +3544,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 
 ### Invisibilidade
 <div class="spell-tags">ilusion trickery</div>
+
 *3rd Circle*
 - **Execução:** livre
 - **Alcance:** pessoal
@@ -3494,6 +3562,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
+
 *2nd Circle*
 - **Execução:** 1 Action
 - **Alcance:** Touch
@@ -3506,6 +3575,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ### Life Transference
 <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no sacred</div>
+
 *3rd Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -3518,6 +3588,7 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 
 ### Lightning Lure
 <div class="spell-tags">lighning elemental transmutation arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 3sqr
@@ -3532,6 +3603,7 @@ The target must succeed on a Strength saving throw or be pulled up to 10 feet in
 
 ### Longstrider
 <div class="spell-tags">boost sacred thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3547,6 +3619,7 @@ You touch a creature. The target’s speed increases by 2sqr until the spell end
 
 ### Luz
 <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
+
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
@@ -3562,6 +3635,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 
 ### Mage Armor
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** Toque
@@ -3575,6 +3649,7 @@ You touch a willing creature who isn’t wearing armor, and a protective magical
 
 ### Mage Hand
 <div class="spell-tags">trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 9m (6 quadrados)
@@ -3592,6 +3667,7 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 ### Magic Missile
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -3606,6 +3682,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 ### Magic Stone
 <div class="spell-tags">transmutation arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3620,6 +3697,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 ### Mass Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
+
 *3rd Circle*
 - **Execução:** 1 Movement Action
 - **Alcance:** 30 feet
@@ -3634,6 +3712,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 
 ### Maximilian's Earthen Grasp
 <div class="spell-tags">earth creation arcane nature</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3653,6 +3732,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 ### Message
 <div class="spell-tags">divination arcane speech trickery</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 60sqr
@@ -3669,6 +3749,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 ### Minor Ilusion
 <div class="spell-tags">ilusion trickery</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3688,6 +3769,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ### Oração
 <div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3704,6 +3786,7 @@ Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de 
 
 ### Pass Without a Trace
 <div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -3718,6 +3801,7 @@ For the duration, each creature you choose within 30 feet of you (including you)
 
 ### Perdição
 <div class="spell-tags">curse occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -3733,6 +3817,7 @@ Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Pe
 
 ### Poison Spray
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** 1 Action
 - **Alcance:** 2sqr
@@ -3745,6 +3830,7 @@ You extend your hand toward a creature you can see within range and project a pu
 
 ### Prayer of Healing
 <div class="spell-tags">speech holy recovery sacred no trickery</div>
+
 *2nd Circle*
 - **Execução:** 10 Minutes
 - **Alcance:** 30 feet
@@ -3758,6 +3844,7 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 
 ### Primal Savagery
 <div class="spell-tags">wild feral</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** Pessoal
@@ -3771,6 +3858,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 ### Primor Atlético
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3788,6 +3876,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 
 ### Raio Solar
 <div class="spell-tags">holy sacred</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -3804,6 +3893,7 @@ Você canaliza uma poderosa rajada de energia positiva que ilumina o campo de ba
 
 ### Ray of Enfeeblement
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 15sqr
@@ -3821,6 +3911,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 ### Ray of Frost
 <div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -3834,6 +3925,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ### Ray of Sickness
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -3848,6 +3940,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ### Relâmpago
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -3863,6 +3956,7 @@ Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em t
 
 ### Resistance
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -3876,6 +3970,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Searing Smite
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** pessoal
@@ -3890,6 +3985,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 ### See invisibility
 <div class="spell-tags">divination arcane boost sacred</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -3903,6 +3999,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 ### Shape Water
 <div class="spell-tags">transmutation arcane water nature</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqp
@@ -3926,6 +4023,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 ### Shillelagh
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
+
 *Cantrip*
 - **Execução:** movimento
 - **Alcance:** toque
@@ -3940,6 +4038,7 @@ For the duration, you can use your spellcasting ability instead of Strength for 
 
 ### Sleep
 <div class="spell-tags">curse occult enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 90 feet
@@ -3952,6 +4051,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 ### Snare
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
+
 *1st Circle*
 - **Execução:** 1 minuto
 - **Alcance:** Toque
@@ -3966,6 +4066,7 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 
 ### Soco de Arsenal
 <div class="spell-tags">summon wild wind nature warmagic thaumaturgy</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -3983,6 +4084,7 @@ Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 4sqr
@@ -3999,6 +4101,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 ### Spider Climb
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -4012,6 +4115,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ### Spike Growth
 <div class="spell-tags">plant wild creation arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -4028,6 +4132,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ### Sugestion
 <div class="spell-tags">enchantment trickery</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -4047,6 +4152,7 @@ If you or any of your companions damage the target, the spell ends.
 
 ### Sword Burst
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** raio de 1sqr centrado em você
@@ -4060,6 +4166,7 @@ Each creature within range, other than you, must succeed on a Dexterity saving t
 
 ### Teia
 <div class="spell-tags">arcane creation feral wild</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto
@@ -4076,6 +4183,7 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 ### Tentacle Twister
 <div class="spell-tags">occult unholy summon wild</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 2sqr radius
@@ -4092,6 +4200,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 
 ### Thorn Whip
 <div class="spell-tags">wild plant summon creation arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 3m (2 quadrados de 1,5m)
@@ -4107,6 +4216,7 @@ You create a long, vine-like whip covered in thorns that lashes out at your comm
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** raio de 1sqr centrado em você
@@ -4120,6 +4230,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 ### Thunderous Smite
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** pessoal
@@ -4132,6 +4243,7 @@ The first time you hit with a melee weapon attack during this spell’s duration
 
 ### Thunderwave
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** Self (3sqr cube)
@@ -4147,6 +4259,7 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 
 ### Toll the Dead
 <div class="spell-tags">occult unholy decay necrotic wind no nature</div>
+
 *Cantrip*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -4160,6 +4273,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 ### Toque Chocante
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -4176,6 +4290,7 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -4192,6 +4307,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 ### Tranquilidade
 <div class="spell-tags">enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** curto;
@@ -4210,6 +4326,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 
 ### Transformação de Guerra
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
+
 *5th Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -4224,6 +4341,7 @@ Você se torna uma máquina de combate, ficando mais forte, rápido e resistente
 
 ### Vicious Mockery
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 9sqr
@@ -4238,6 +4356,7 @@ If the target can hear you (thought it need not understand you), it must succeed
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -4255,6 +4374,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 ### Warding Wind
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -4268,6 +4388,7 @@ It deafens you and other creatures in its area..It extinguishes unprotected flam
 
 ### Web
 <div class="spell-tags">feral wild trickery creation arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -4284,6 +4405,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 ### Witch Bolt
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -4299,6 +4421,7 @@ Make a ranged spell attack against that creature. On a hit, the target takes 1d1
 
 ### Word of Radiance
 <div class="spell-tags">holy sacred radiant energy speech no trickery</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** raio de 1sqr (centrado em você)
@@ -4312,6 +4435,7 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 
 ### Zephyr Strike
 <div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
+
 *1st Circle*
 - **Execução:** movimento
 - **Alcance:** 6sqr

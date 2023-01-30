@@ -147,7 +147,7 @@ export const spellString = (spell: Spell) =>
   `\n### ${spell.name}\n` +
   `<div class="spell-tags">${spell.tags
     .filter(tag => tag !== 'spell')
-    .join(' ')}</div>\n` +
+    .join(' ')}</div>\n\n` +
   `*${spellLevelStr(spell.level)}*\n` +
   spellItemsString(spell.items) +
   '___\n' +

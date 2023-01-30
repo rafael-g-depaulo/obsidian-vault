@@ -57,6 +57,7 @@
 
 ### Bane
 <div class="spell-tags">curse occult</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -69,6 +70,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ### Blindness Deafness
 <div class="spell-tags">curse transmutation trickery occult arcane</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -82,6 +84,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 ### Booming Blade
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alvo:** pessoal
@@ -96,6 +99,7 @@ This spell's damage increases when you reach higher levels.
 
 ### Camuflagem ilusória
 <div class="spell-tags">ilusion trickery</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -111,6 +115,7 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 
 ### Cause Fear
 <div class="spell-tags">curse trickery enchantment occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -124,6 +129,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 ### Chaos Bolt
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -149,6 +155,7 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 ### Chill Touch
 <div class="spell-tags">cold elemental unholy occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 18m (12 quadrados de 1,5m)
@@ -163,6 +170,7 @@ Make a ranged spell attack against the creature to assail it with the chill of t
 
 ### Command
 <div class="spell-tags">enchantment speech trickery curse occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -177,6 +185,7 @@ ___
 
 ### Control Flames
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -190,6 +199,7 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 
 ### Crown of Madness
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -209,6 +219,7 @@ On your subsequent turns, you must use your action to maintain control over the 
 
 ### Curar Ferimentos
 <div class="spell-tags">recovery sacred</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -225,6 +236,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** Self
@@ -238,6 +250,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ### Dissonant Whispers
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -253,6 +266,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 ### Earthbind
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -266,6 +280,7 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 
 ### Escuridão
 <div class="spell-tags">occult unholy trickery ilusion</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -284,6 +299,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 
 ### False Life
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -297,6 +313,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 ### Flecha Ácida
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 20sqr
@@ -314,6 +331,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágic
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 20sqr
@@ -326,6 +344,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ### Frostbite
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -339,6 +358,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 ### Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
+
 *1st Circle*
 - **Execução:** 1 Movement Action
 - **Alcance:** 60 feet
@@ -353,6 +373,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 ### Hellish Rebuke
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 30sqr
@@ -367,6 +388,7 @@ Reaction: you are being damaged by a creature within range of you that you can s
 
 ### Hideous Laughter
 <div class="spell-tags">enchantment trickery curse occult speech</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -382,6 +404,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ### Hold Person
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 15sqr
@@ -396,6 +419,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ### Imagem Espelhada
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -411,6 +435,7 @@ Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imita
 
 ### Infestation
 <div class="spell-tags">summon wild unholy occult</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -424,6 +449,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 
 ### Infligir Ferimentos
 <div class="spell-tags">unholy occult necrotic decay</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -441,6 +467,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 
 ### Invisibilidade
 <div class="spell-tags">ilusion trickery</div>
+
 *3rd Circle*
 - **Execução:** livre
 - **Alcance:** pessoal
@@ -457,6 +484,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
+
 *2nd Circle*
 - **Execução:** 1 Action
 - **Alcance:** Touch
@@ -470,6 +498,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ### Life Transference
 <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no sacred</div>
+
 *3rd Circle*
 - **Execução:** 1 Action
 - **Alcance:** 30 feet
@@ -482,6 +511,7 @@ You sacrifice some of your health to mend another creature’s injuries. You tak
 
 ### Luz
 <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
+
 *1st Circle*
 - **Execução:** padrão;
 - **Alcance:** curto;
@@ -497,6 +527,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 
 ### Mass Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
+
 *3rd Circle*
 - **Execução:** 1 Movement Action
 - **Alcance:** 30 feet
@@ -511,6 +542,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 
 ### Minor Ilusion
 <div class="spell-tags">ilusion trickery</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -531,6 +563,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ### Oração
 <div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -547,6 +580,7 @@ Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de 
 
 ### Pass Without a Trace
 <div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** pessoal
@@ -561,6 +595,7 @@ For the duration, each creature you choose within 30 feet of you (including you)
 
 ### Perdição
 <div class="spell-tags">curse occult</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
@@ -575,6 +610,7 @@ Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Pe
 
 ### Prayer of Healing
 <div class="spell-tags">speech holy recovery sacred no trickery</div>
+
 *2nd Circle*
 - **Execução:** 10 Minutes
 - **Alcance:** 30 feet
@@ -589,6 +625,7 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 
 ### Ray of Enfeeblement
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
+
 *2nd Circle*
 - **Execução:** padrão
 - **Alcance:** 15sqr
@@ -606,6 +643,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 ### Ray of Frost
 <div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 12sqr
@@ -619,6 +657,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ### Ray of Sickness
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -632,6 +671,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 
 ### Sleep
 <div class="spell-tags">curse occult enchantment trickery</div>
+
 *1st Circle*
 - **Execução:** 1 Action
 - **Alcance:** 90 feet
@@ -645,6 +685,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 ### Snare
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
+
 *1st Circle*
 - **Execução:** 1 minuto
 - **Alcance:** Toque
@@ -658,6 +699,7 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 
 ### Tentacle Twister
 <div class="spell-tags">occult unholy summon wild</div>
+
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 2sqr radius
@@ -673,6 +715,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 
 ### Toll the Dead
 <div class="spell-tags">occult unholy decay necrotic wind no nature</div>
+
 *Cantrip*
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
@@ -686,6 +729,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
+
 *3rd Circle*
 - **Execução:** padrão
 - **Alcance:** toque
@@ -703,6 +747,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 ### Vicious Mockery
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
+
 *Cantrip*
 - **Execução:** padrão
 - **Alcance:** 9sqr
