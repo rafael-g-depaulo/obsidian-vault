@@ -1,7 +1,4 @@
-- [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)
-- [ ] pet system (allies from T20 with hitpoints, and can use feats to give them extra abilities. for every feat spent they gain more HP. uses player's MP to use abilities, and acts on player's turn. look up D&D lackeys for inspiration)
-- [ ] Write up spell preparation rules
+- [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)]
 - [ ] Write up spell attack/save rules, with crit in mind
-- [ ] look into D&D smites for champion
 - [ ] think up counterspell (you can counterspell as a prepared action with a spell with at least 1 tag in common. there's a feat to be able to do it as a reaction)
-- [ ] add a section specifically about designing a class spell list
+- [ ] add size rules

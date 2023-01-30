@@ -1,6 +1,5 @@
-
 # Martial Feats
-
+{{}}
 **Athlete.** You have undergone extensive physical training to gain the following benefits:
   - Increase your Strength or Dexterity score by 1, to amaximum of 20.
   - When you are prone, standing up uses half of your movement.

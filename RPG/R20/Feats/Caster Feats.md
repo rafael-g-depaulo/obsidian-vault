@@ -1,4 +1,5 @@
 # Caster Feats
+{{}}
 **Celebrar Ritual.** Você pode lançar magias na forma de rituais. Isso dobra seu limite de PM, mas muda a execução para 1 hora (ou o dobro, o que for maior). Você gasta 2 moedas de ouro em incensos, oferendas etc. por PM do custo total. Após esse gasto, paga apenas metade do custo em PM da magia (após aplicar quaisquer outros efeitos de redução). *Pré-requisitos*: definir depois.
 
 **Escrever Pergaminho.** Você pode usar a perícia Ofício (escriba) para fabricar pergaminhos com magias que conheça. De acordo com o mestre, você pode usar outros objetos similares, como runas, tabuletas de argila etc. *Pré-requisitos*: treinado em Ofício (escriba).

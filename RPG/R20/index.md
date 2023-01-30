@@ -14,12 +14,18 @@
 
 ![[Proficiency]]
 
+![[RPG/R20/Feats/index]]
+
 ![[RPG/R20/Items/index]]
 
 ![[RPG/R20/Spells/index]]
 
 ![[RPG/R20/Paladins, Entities & Contracts/index]]
 
+![[Companions]]
+
 ![[Conditions]]
 
 ![[Rest]]
+
+![[Companions]]

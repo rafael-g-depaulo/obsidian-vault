@@ -1563,7 +1563,7 @@ Here's a list of origins:
 
 ### Brute
 **Attributes**: +2 STR, +1 CON, -1 SEN.
-**Tough it out!**: Can spend movement action and 1PM to gain +1 Guard for scene.
+**Tough it out!**: Can spend movement action and 1PM to gain +2 Guard for scene.
 
 ### Old Soul
 **Attributes**: CON +2, SEN +1, DEX -1.
@@ -1670,6 +1670,185 @@ T20's formula: floor(lv/2) + (2/4/7 depending on level)
   - lv1: 0, lv2-3 -> 1, lv4-5 -> 2, lv6-7 -> 3, lv8-9 -> 4, etc.
 
 R20's formula: ceil(lv/2)
+
+
+{{pageNumber,auto}}
+\page
+# General Feats
+{{}}
+**Proficiência.** Escolha uma proficiência: armas marciais, armas de fogo, armaduras pesadas ou escudos (se for proficiente em armas marciais, você também pode escolher armas exóticas). Você recebe essa proficiência. Você pode escolher este poder outras vezes para proficiências diferentes.
+
+**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
+
+**Vitalidade.** Você recebe +1 HP por nível de personagem. *Pré-requisito*: Con 13.
+
+**Vontade de Ferro.** Você recebe +1 PM para cada dois níveis de personagem. *Pré-requisito*: Sab 13.
+
+**Acrobático.** Você pode usar seu modificador de Destreza em vez de Força em testes de Atletismo. Além disso, terreno difícil não reduz seu deslocamento nem o impede de realizar investidas. *Pré-requisito*: Des 15.
+
+**Aparência Inofensiva.** A primeira criatura inteligente (Int 3 ou mais) que atacar você em uma cena deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Este poder só funciona uma vez por cena; independentemente de a criatura falhar ou não no teste, poderá atacá-lo nas rodadas seguintes. *Pré-requisito*: Car 13.
+
+**Atlético.** Você recebe +2 em Atletismo e +2sqr em seu deslocamento. *Pré-requisito*: For 15.
+
+**Atraente.** Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
+
+**Foco em Perícia.** Escolha uma perícia. Quando faz um teste dessa perícia, você pode gastar 1 PM para rolar dois dados e usar o melhor resultado. Você pode escolher este poder outras vezes para perícias diferentes. *Pré-requisito*: treinado na perícia escolhida.
+
+**Investigador.** Você recebe +2 em Investigação e soma seu bônus de Inteligência em Intuição. *Pré-requisito*: Int 13.
+
+**Sentidos Aguçados.** Você recebe +2 em Percepção, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem ou camuflagem total, pode rolar mais uma vez o dado da chance de falha. *Pré-requisitos*: SEN 13, treinado em Percepção.
+
+**Linguista.** Você aprende 2 línguas a sua escolha.
+
+**Proficiência com Armas Marciais.** Você ganha proficiência com armas marciais (e ganha proficiência com armas simples se não tem).
+
+**Proficiência com Armas Exóticas.** Você ganha proficiência com armas exóticas. *Pré-requisito*: Proficiência com Armas Marciais.
+
+**Lobo Solitário.** Você recebe +1 em testes de perícia e Defesa se estiver sem nenhum aliado em alcance curto (6sqr). Você não sofre penalidade por usar a perícia Cura em si mesmo.
+
+**Alert.** Always on the lookout for danger, you gain the following benefits:
+  - You gain a +3 bonus to initiative.
+  - You can’t be surprised while you are conscious.
+  - Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
+
+**Healer.** As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest. *Pré-requisitos*: definir depois
+
+**Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
+
+**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre). *Pré-requisito*: 14 Dex.
+
+**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
+
+**Reflexos de Desvio.** Você pode se esconder como ação livre imediatamente após usar "**de Raspão**".
+
+**Liberdade de Movimento**. When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn. When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
+**Reflexos de Combate**. Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
+
+**Atraente**. Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
+
+
+
+{{pageNumber,auto}}
+\page
+# Martial Feats
+{{}}
+**Athlete.** You have undergone extensive physical training to gain the following benefits:
+  - Increase your Strength or Dexterity score by 1, to amaximum of 20.
+  - When you are prone, standing up uses half of your movement.
+  - Climbing doesn’t halve your speed.
+  - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+
+**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação (2PM): some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
+
+**Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
+
+**Acuidade com Arma.** Quando usa uma arma leve de corpo a corpo ou uma arma de arremesso, você pode usar seu modificador de Destreza em vez de Força nos testes de ataque e rolagens de dano. *Pré-requisito*: Des 13.
+
+**Ataque Poderoso.** Declare que está usando este poder antes de fazer um ataque corpo a corpo. Você sofre –2 no teste de ataque, mas recebe +5 na rolagem de dano. *Pré-requisito*: For 13.
+
+**Arremesso Potente.** Quando usa uma arma de arremesso, você pode usar seu modificador de Força em vez de Destreza nos testes de ataque. Se você possuir o poder Ataque Poderoso, poderá usá-lo com armas de arremesso. *Pré-requisitos*: For 13, Estilo de Arremesso.
+
+**Ataque Pesado.** Quando faz um ataque corpo a corpo com uma arma de duas mãos, você pode pagar 1 PM. Se fizer isso e acertar o ataque, além do dano você faz uma manobra derrubar ou empurrar contra o alvo como uma ação livre (use o resultado do ataque como o teste de manobra). *Pré-requisito*: Estilo de Duas Mãos.
+
+**Estilo de Duas Mãos.** Se estiver usando uma arma corpo a corpo com as duas mãos, você recebe +5 nas rolagens de dano. Este poder não pode ser usado com armas leves. *Pré-requisitos*: For 15.
+
+**Estilo de Uma Arma.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados). *Pré-requisito*: treinado em Luta.
+
+**Ataque Preciso.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na margem de ameaça e +1 no multiplicador de crítico. *Pré-requisito*: Estilo de Uma Arma.
+
+**Estilo de Duas Armas.** Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se você possuir Ambidestria, não sofre essa penalidade. *Pré-requisito*: Des 15, treinado em Luta.
+
+**Arma Secundária grande.** Você pode usar duas armas de uma mão com o poder Estilo de Duas Armas. *Pré-requisito*: Estilo de Duas Armas.
+
+**Estilo de Arremesso.** Você pode sacar armas de arremesso como uma ação livre e recebe +2 nas rolagens de dano com elas.
+
+**Disparo Preciso.** Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.
+
+**Desarmar Aprimorado.** Você recebe +2 em testes de ataque para desarmar. Quando desarma uma criatura, pode gastar 1 PM para arremessar a arma dela para longe. Para definir onde a arma cai, role 1d8 para a direção (sendo “1” diretamente à sua frente, “2” à frente e à direita e assim por diante, em sentido horário) e 1d6 para a distância (medida em quadrados de 1,5m a partir da criatura desarmada). *Pré-requisito*: Combate Defensivo.
+
+**Foco em Arma.** Escolha uma arma. Você recebe +2 em testes de ataque com essa arma. Você pode escolher este poder outras vezes para armas diferentes. *Pré-requisito*: proficiência com a arma
+
+**Mira Apurada.** Você pode gastar uma ação de movimento para mirar. Se fizer isso, recebe +2 em testes de ataque e na margem de ameaça com ataques à distância até o fim do turno. *Pré-requisitos*: Sab 13, Disparo Preciso.
+
+**Sentinel.** When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn. Pre-requisite: Opportunity Attack
+
+
+{{pageNumber,auto}}
+\page
+# Caster Feats
+{{}}
+**Celebrar Ritual.** Você pode lançar magias na forma de rituais. Isso dobra seu limite de PM, mas muda a execução para 1 hora (ou o dobro, o que for maior). Você gasta 2 moedas de ouro em incensos, oferendas etc. por PM do custo total. Após esse gasto, paga apenas metade do custo em PM da magia (após aplicar quaisquer outros efeitos de redução). *Pré-requisitos*: definir depois.
+
+**Escrever Pergaminho.** Você pode usar a perícia Ofício (escriba) para fabricar pergaminhos com magias que conheça. De acordo com o mestre, você pode usar outros objetos similares, como runas, tabuletas de argila etc. *Pré-requisitos*: treinado em Ofício (escriba).
+
+**Foco em Magia.** Escolha uma magia. Seu custo diminui em –1 PM (cumulativo com outras reduções de custo). Você pode escolher este poder outras vezes para magias diferentes.
+
+**Magia Acelerada (Aprimoramento).** Muda a execução da magia para ação livre. Você só pode aplicar este aprimoramento em magias com execução de movimento, padrão ou completa e só pode lançar uma magia como ação livre por rodada. *Custo*: +4 PM. *Pré-requisito*: lançar magias de 2º círculo.
+
+**Magia Ampliada (Aprimoramento).** Aumenta o alcance da magia em um passo (de curto para médio, de médio para longo) ou dobra a área de efeito da magia. Por exemplo, uma Bola de Fogo ampliada tem seu alcance aumentado para longo ou sua área aumentada para 12m de raio. *Custo*: +2 PM.
+
+**Magia Discreta (Aprimoramento).** Você lança a magia sem gesticular e falar, usando apenas concentração. Isso permite lançar magias com as mãos presas, amordaçado etc. Também permite lançar magias arcanas usando armadura sem teste de Misticismo. Outros personagens só percebem que você lançou uma magia se passarem num teste de Misticismo (CD 20). *Custo*: +2 PM.
+
+**Magia Ilimitada.** Você soma seu modificador do atributo-chave no limite de PM que pode gastar numa magia.
+
+**Elemental Adept.** Choose one of the following damage types: acid, cold, fire, lightning, or thunder. Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2. You can select this feat multiple times. Each time you do so, you must choose a different damage type
+
+**Magia Pungente.** Quando lança uma magia, você pode pagar 1 PM para aumentar em +2 a CD para resistir a ela.
+
+**Escriba Arcano.** Você pode aprender magias copiando os textos de pergaminhos e grimórios de outros magos. Aprender uma magia dessa forma exige meio dia de trabalho e 100g em matérias-primas por círculo da magia. Assim, aprender uma magia de 4º círculo exige 2 dias de trabalho e o gasto de 400g. *Pré-requisitos*: +5 História.
+
+
+{{pageNumber,auto}}
+\page
+# Companion Feats
+{{}}
+OBS: See Companion rules.
+
+**Companion: Helper.** The companion gains the Help action.
+
+**Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency any skill their companion is proficient with when rolling them while adjacent to their companion.
+
+**Companion: Chonky.** The companion's size and maximum size increase by 1. The companion's maximum HP increases by 5 * their tier.
+
+**Companion: Defender.** The companion gains the Defend skill
+
+**Companion: Mobile.** The companion gains one of:
+- 10sqr movement speed
+- 15sqr swiming speed
+- 6sqr flying speed
+
+**Companion: Steed**. The companion's speed increases by 2sqr, and they can carry up to 2 characters of Medium or lower size. *Pre-requisite: Companion: Mobile*
+
+**Companion: Attack Initiate.** The companion gains the Simple Attack Skill (See Companion skills). Chose either slashing, piercing or bludgeoning damage for the attacks damage type.
+
+**Companion: Power Attack.** When making an attack, you can spend +1PM to add another dice to the damage (limited by half of the companion's tier). *Pre-requisite: Companion: Attack Initiate*.
+
+**Companion: Trick Attack.** When making an attack, you can spend 1PM to make a Combat Maneuver instead (see: combat maneuvers), or +3PM to make the normal attack and a Combat Maneuver. *Pre-requisite: Companion: Attack Initiate*.
+
+**Companion: Attack Specialist.** Build 2 Special Attacks (see: Special Attack companion skill). The Companion learns them. *Pre-requisite: Companion: Attack Initiate*.
+
+**Companion: Defensive.** The companion's Defense increases by 5, and their HP increases by 4 times it's tier.
+
+**Companion: Magic Initiate.** The companion can learn and cast cantrips. The companion learns 1 cantrip. The companion learns one spell they can cast at every Tier.
+
+**Companion: Advanced Magic.** The companion learns 1 new 1st circle spell, and gains access to new spell circles depending on their master's level. *Pre-requisite: Magic Iniciate*
+| Master Level | Companion Maximum Spell Circle |
+|:------------:|:------------------------------:|
+|     1-5      |               1                |
+|     6-9      |               2                |
+|    10-14     |               3                |
+|     15+      |               4                |
+
+**Companion: Master Magic.** The companion learns 1 new spell, and gains access to new spell circles depending on their master's level. *Pre-requisite: Advanced Magic*
+| Master Level | Companion Maximum Spell Circle |
+| :------------: |:------------------------------: |
+| 1-3          | 1                              |
+| 4-6          | 2                              |
+| 7-9          | 3                              |
+| 10-12        | 4                              |
+| 13-15        | 5                              |
+| 16+          | 6                              |
 
 
 {{pageNumber,auto}}
@@ -4220,6 +4399,110 @@ Every entity has a set of miracles their Paladins can perform with their help. A
 
 {{pageNumber,auto}}
 \page
+# Companions
+This is an optional rule. With this rule, a character can acquire and train a Companion to aid them in their adventures, growing stronger as they do.
+
+To gain a Companion the character must gain one or more **Companion: \_\_\_\_** Feats. (See: Companion Feats). The companion's **Tier** is equal to the ammount of **Companion: \_\_\_\_** Feats the companion's master has for that companion.
+
+During combat, the Companion acts on the same initiative as their master. The Companion has one move action. The Companion's master has the **Command** ability.
+
+**Command.** Movement: your Companion follows a simple order or performs one of their abilities of your choice.
+
+## Stats
+The Companion's maximum HP is calculated by:
+- **Player\_Level + (Companion\_Tier * Player\_SEN\_MOD)**
+
+The Companion has no MP, and uses their master's MP for their ability that cost MP.
+
+The Companion has Defense equal to:
+- **10 + Player\_Proficiency\_Bonus**
+
+When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency.
+
+The companion has 4sqr speed.
+
+The companion has proficiency with 2 skills of the DM's choice.
+
+Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
+
+Maximum Attributes
+| Master Level | Max Attribute Score |
+|:------------:|:-------------------:|
+|     1-3      |         14          |
+|     4-5      |         16          |
+|     6-7      |         18          |
+|     8-10     |         20          |
+|     11+      |         22          |
+
+The companion's size is small. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
+
+| Companion Tier | Companion Maximum Size |
+|:--------------:|:----------------------:|
+|       1        |         Small          |
+|       2        |         Medium         |
+|      3-5       |         Large          |
+|       6+       |          Huge          |
+
+## Companion death
+Companion death rules work the same as PC death rules (can be one-shot, have death saves). If a Companion dies then their master can in their next Full Reset (see: Rest rules) either catch a new Companion with the same stats or lose their **Companion: \_\_\_\_** and gain new Feats of their choice that they have access to.
+
+## Rest
+The Companion recovers as much HP as their master does whenever both of them rest.
+
+## Companion Skills
+This is a list of all companion skills
+
+**Simple Attack.** The companion attacks an enemy within melee range. This attack counts as a finesse attack (see: finesse weapons). *Pre-requisite: Companion: Attack Initiate*.
+
+The damage dice of the attack depends on the companion's tier:
+
+| Tier | Damage Dice |
+|:----:|:-----------:|
+|  1   |     1d6     |
+|  2   |     1d8     |
+|  3   |    1d10     |
+|  4+  |    1d12     |
+
+**Special Attack.** The companion attacks an enemy. The attack has either:
+
+|      Range       | Base Cost |
+|:----------------:|:---------:|
+| Melee 1sqr reach |   -1 PM   |
+| Melee 2sqr reach |   0 PM    |
+|   Ranged 4sqr    |   1 PM    |
+|    Line 6sqr     |   2 PM    |
+|    cone 4sqr     |   3 PM    |
+|   radius 4sqr    |   3 PM    |
+
+If it's a line, cone or radius then instead of an attack roll it becomes a DEX save with DC = 10 + player proficiency + Companion Tier. On save, the target ignores the damage.
+
+|     Damage Type     | Cost  |
+|:-------------------:|:-----:|
+|      physical       | +0 PM |
+|       poison        | +0 PM |
+|        acid         | +1 PM |
+| fire, ice, electric | +1 PM |
+
+| Damage Dice | Cost  |
+|:-----------:|:-----:|
+|      1      | -1 PM |
+|      2      | 0 PM  |
+|      3      | 1 PM  |
+|      4      | 2 PM  |
+|      5      | 4 PM  |
+
+{{pageNumber,auto}}
+\page
+
+**Cast Magic.** The companion casts one of the spells they know (MP Cost: 1 + the spells circle + the spells cost). *Pre-requisite: Companion: Magic Initiate*.
+
+**Help.** Give one character advantage on their next skill check, attack or saving throw.
+
+**Defend.** 1PM: add +3 to an adjacent character's Defense and saving throws. +1 PM to use as a reaction. *Pre-requisite: Companion: Defender*
+
+
+{{pageNumber,auto}}
+\page
 # Conditions
 
 ### Prone
@@ -4310,5 +4593,108 @@ Consult the table below to see how the rest affected the characters.
 | 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
 
+
+{{pageNumber,auto}}
+\page
+# Companions
+This is an optional rule. With this rule, a character can acquire and train a Companion to aid them in their adventures, growing stronger as they do.
+
+To gain a Companion the character must gain one or more **Companion: \_\_\_\_** Feats. (See: Companion Feats). The companion's **Tier** is equal to the ammount of **Companion: \_\_\_\_** Feats the companion's master has for that companion.
+
+During combat, the Companion acts on the same initiative as their master. The Companion has one move action. The Companion's master has the **Command** ability.
+
+**Command.** Movement: your Companion follows a simple order or performs one of their abilities of your choice.
+
+## Stats
+The Companion's maximum HP is calculated by:
+- **Player\_Level + (Companion\_Tier * Player\_SEN\_MOD)**
+
+The Companion has no MP, and uses their master's MP for their ability that cost MP.
+
+The Companion has Defense equal to:
+- **10 + Player\_Proficiency\_Bonus**
+
+When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency.
+
+The companion has 4sqr speed.
+
+The companion has proficiency with 2 skills of the DM's choice.
+
+Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
+
+Maximum Attributes
+| Master Level | Max Attribute Score |
+|:------------:|:-------------------:|
+|     1-3      |         14          |
+|     4-5      |         16          |
+|     6-7      |         18          |
+|     8-10     |         20          |
+|     11+      |         22          |
+
+The companion's size is small. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
+
+| Companion Tier | Companion Maximum Size |
+|:--------------:|:----------------------:|
+|       1        |         Small          |
+|       2        |         Medium         |
+|      3-5       |         Large          |
+|       6+       |          Huge          |
+
+## Companion death
+Companion death rules work the same as PC death rules (can be one-shot, have death saves). If a Companion dies then their master can in their next Full Reset (see: Rest rules) either catch a new Companion with the same stats or lose their **Companion: \_\_\_\_** and gain new Feats of their choice that they have access to.
+
+## Rest
+The Companion recovers as much HP as their master does whenever both of them rest.
+
+## Companion Skills
+This is a list of all companion skills
+
+**Simple Attack.** The companion attacks an enemy within melee range. This attack counts as a finesse attack (see: finesse weapons). *Pre-requisite: Companion: Attack Initiate*.
+
+The damage dice of the attack depends on the companion's tier:
+
+| Tier | Damage Dice |
+|:----:|:-----------:|
+|  1   |     1d6     |
+|  2   |     1d8     |
+|  3   |    1d10     |
+|  4+  |    1d12     |
+
+**Special Attack.** The companion attacks an enemy. The attack has either:
+
+|      Range       | Base Cost |
+|:----------------:|:---------:|
+| Melee 1sqr reach |   -1 PM   |
+| Melee 2sqr reach |   0 PM    |
+|   Ranged 4sqr    |   1 PM    |
+|    Line 6sqr     |   2 PM    |
+|    cone 4sqr     |   3 PM    |
+|   radius 4sqr    |   3 PM    |
+
+If it's a line, cone or radius then instead of an attack roll it becomes a DEX save with DC = 10 + player proficiency + Companion Tier. On save, the target ignores the damage.
+
+|     Damage Type     | Cost  |
+|:-------------------:|:-----:|
+|      physical       | +0 PM |
+|       poison        | +0 PM |
+|        acid         | +1 PM |
+| fire, ice, electric | +1 PM |
+
+| Damage Dice | Cost  |
+|:-----------:|:-----:|
+|      1      | -1 PM |
+|      2      | 0 PM  |
+|      3      | 1 PM  |
+|      4      | 2 PM  |
+|      5      | 4 PM  |
+
+{{pageNumber,auto}}
+\page
+
+**Cast Magic.** The companion casts one of the spells they know (MP Cost: 1 + the spells circle + the spells cost). *Pre-requisite: Companion: Magic Initiate*.
+
+**Help.** Give one character advantage on their next skill check, attack or saving throw.
+
+**Defend.** 1PM: add +3 to an adjacent character's Defense and saving throws. +1 PM to use as a reaction. *Pre-requisite: Companion: Defender*
 
 {{pageNumber,auto}}
