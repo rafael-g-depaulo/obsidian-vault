@@ -14,6 +14,7 @@ export const spellDescriptionItems = [
 export type SpellDescriptionItems = typeof spellDescriptionItems[number]
 
 type SpellIncrease = { cost: string; description: string }
+
 export interface Spell {
   name: string
   level: number

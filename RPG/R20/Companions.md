@@ -82,6 +82,7 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |        acid         | +1 PM |
 | fire, ice, electric | +1 PM |
 
+{{page-break}}
 | Damage Dice | Cost  |
 |:-----------:|:-----:|
 |      1      | -1 PM |
@@ -90,7 +91,6 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |      4      | 2 PM  |
 |      5      | 4 PM  |
 
-{{page-break}}
 **Cast Magic.** The companion casts one of the spells they know (MP Cost: 1 + the spells circle + the spells cost). *Pre-requisite: Companion: Magic Initiate*.
 
 **Help.** Give one character advantage on their next skill check, attack or saving throw.

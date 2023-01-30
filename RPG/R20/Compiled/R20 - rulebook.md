@@ -196,27 +196,27 @@ OBS: most likely this will need to change to 2 every levelup + INT mod every eve
 
 ##### Maximum Skill Bonus per level
 | Level | Max Skill Bonus |
-|:-----:|:--------------- |
-|   1   | +2              |
-|   2   | +3              |
-|   3   | +3              |
-|   4   | +4              |
-|   5   | +5              | 
-|   6   | +5              |
-|   7   | +7              |
-|   8   | +7              |
-|   9   | +7              |
-|  10   | +9              |
-|  11   | +9              |
-|  12   | +9              |
-|  13   | +12             |
-|  14   | +12             |
-|  15   | +12             |
-|  16   | +15             |
-|  17   | +15             |
-|  18   | +15             |
-|  19   | +15             |
-|  20   | +15             |
+|:-----:|:---------------:|
+|   1   |       +2        |
+|   2   |       +3        |
+|   3   |       +3        |
+|   4   |       +4        |
+|   5   |       +5        |
+|   6   |       +5        |
+|   7   |       +7        |
+|   8   |       +7        |
+|   9   |       +7        |
+|  10   |       +9        |
+|  11   |       +9        |
+|  12   |       +9        |
+|  13   |       +12       |
+|  14   |       +12       |
+|  15   |       +12       |
+|  16   |       +15       |
+|  17   |       +15       |
+|  18   |       +15       |
+|  19   |       +15       |
+|  20   |       +15       |
 
 
 ## Passive Skill Rolls
@@ -617,6 +617,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 }}
 
 - **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
+{{pageNumber,auto}}
+\page
 
 - **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
@@ -1161,48 +1163,6 @@ List of spells available for a Spelgard to learn.
 | 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
-{{pageNumber,auto}}
-\page
-# Warrior
-
-##### [[Archetype - Martial]]
-
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
-
-**Save Roll Proficiencies:** STR, DEX.
-
-\<div class='classTable'>
-
-##### Warrior
-
-| Level | Proficiency Bonus | Features                                  |
-| :---: | :---------------: | :---------------------------------------- |
-|  1st  |        +1         | Precise Strike +4                         |
-|  2nd  |        +1         | Warrior Feat, Action Surge                |
-|  3rd  |        +2         | Warrior Feat                              |
-|  4th  |        +2         | Warrior Feat, Attribute Score Improvement |
-|  5th  |        +3         | Warrior Feat, Extra Attack (1)            |
-|  6th  |        +3         | Warrior Feat, Attribute Score Improvement |
-|  7th  |        +4         | Warrior Feat, Precise Strike +8           |
-|  8th  |        +4         | Warrior Feat                              |
-|  9th  |        +5         | Warrior Feat, Attribute Score Improvement |
-| 10th  |        +5         | Warrior Feat                              |
-| 11th  |        +6         | Warrior Feat                              |
-| 12th  |        +6         | Warrior Feat, Attribute Score Improvement |
-| 13th  |        +7         | Warrior Feat, Precise Strike +12          |
-| 14th  |        +7         | Warrior Feat Action Surge (2)             |
-| 15th  |        +8         | Warrior Feat, Attribute Score Improvement |
-| 16th  |        +8         | Warrior Feat                              |
-| 17th  |        +9         | Warrior Feat, Attribute Score Improvement |
-| 18th  |        +9         | Warrior Feat, Precise Strike +16          |
-| 19th  |        +10        | Warrior Feat, Attribute Score Improvement |
-| 20th  |        +10        | Warrior Feat, Action Surge (3)            |
-
-\</div>
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
@@ -1308,6 +1268,8 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 - **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
 
 - **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
+{{pageNumber,auto}}
+\page
 
 - **Cursed Knowledge.** learn 2 hexes.
 
@@ -1457,14 +1419,14 @@ Unlike physical attacks, spell attacks in general don't add the caster's spellca
 
 Some spells use a spell save DC instead. For that, see the Save DC Section below.
 
-As there is no weapon involved, each spell has it's own critical information, that determines the extra damage it deals when it critically hits, and the range for it to critically strike.
+As there is no weapon involved, each spell has it's own critical information, that determines the extra {{pageNumber,auto}}
+\page
+ damage it deals when it critically hits, and the range for it to critically strike.
 
 #### Saves
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 
 - **8 + proficiency modifier + relevant attribute modifier**
-{{pageNumber,auto}}
-\page
 
 Example: Ynit, a level 6 Mage with 15 INT (their spellcasting attribute) would have a spell save DC of 8 + 3 + 2 = 13.
 
@@ -1533,11 +1495,9 @@ When a creature tries to move through a hostile creature's space, the mover can 
 With this option, a creature uses the special shove attack from the Player's Handbook to force a target to the side, rather than away. The attacker has disadvantage on its Strength (Athletics) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 #### TUMBLE
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
-
-{{pageNumber,auto}}
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity {{pageNumber,auto}}
 \page
-
+ (Acrobatics) check contested by the hostile creature's Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
 #### CLIMB ONTO A BIGGER CREATURE
 If one creature wants to jump onto another creature, it can do so by grappling. A Small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
@@ -1553,6 +1513,7 @@ A creature can use a weapon attack to knock a weapon or another item from a targ
 {{pageNumber,auto}}
 \page
 # Origins
+{{}}
 (Act in a similar way to races in other fantasy TTRPGs)
 
 Origins usually give +2, +1 and -1 to 3 attributes, and the equivalent of ~1 feats.
@@ -1805,9 +1766,6 @@ R20's formula: ceil(lv/2)
 {{pageNumber,auto}}
 \page
 # Companion Feats
-{{}}
-OBS: See Companion rules.
-
 **Companion: Helper.** The companion gains the Help action.
 
 **Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency any skill their companion is proficient with when rolling them while adjacent to their companion.
@@ -2206,6 +2164,8 @@ Some spells require you to maintain concentration in order to keep their magic a
 
 ## Spell levels
 Spells are divided into 9 levels and cantrips (0-level spells).
+{{pageNumber,auto}}
+\page
 
 | Spell Level | Base MP Cost |
 |:-----------:|:------------:|
@@ -2225,9 +2185,7 @@ All spells have one or more tags where they fit. The spell [[Toque Chocante]], f
 
 For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
 
-It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up {{pageNumber,auto}}
-\page
- the process of making a spell list, not to constrain your ideas in any way
+It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up the process of making a spell list, not to constrain your ideas in any way
 
 ## Flavor
 TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
@@ -2240,12 +2198,10 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 
 ## Tags
 
-list of tags:
 OBS: nothing stops spells from overlapping groups (e.g.: a spell can be wild, negative and arcane at once).
 OBS2: it's possible for a spell to belong to a group without belonging to one of it's sub-tags. ex: Mage hand isn't ilusion, divination or enchantment, but it's trickery
 
 ### Considering:
-
 - maybe separate curse into 2 different tags if the need arises (considering... sounds like maybe a good idea)
 - remove physical tags. hasn't been an example yet of it being useful
 - maybe add a tag specifically for self combat buffs?
@@ -4496,6 +4452,9 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |        acid         | +1 PM |
 | fire, ice, electric | +1 PM |
 
+{{pageNumber,auto}}
+\page
+
 | Damage Dice | Cost  |
 |:-----------:|:-----:|
 |      1      | -1 PM |
@@ -4503,9 +4462,6 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |      3      | 1 PM  |
 |      4      | 2 PM  |
 |      5      | 4 PM  |
-
-{{pageNumber,auto}}
-\page
 
 **Cast Magic.** The companion casts one of the spells they know (MP Cost: 1 + the spells circle + the spells cost). *Pre-requisite: Companion: Magic Initiate*.
 
@@ -4693,6 +4649,9 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |        acid         | +1 PM |
 | fire, ice, electric | +1 PM |
 
+{{pageNumber,auto}}
+\page
+
 | Damage Dice | Cost  |
 |:-----------:|:-----:|
 |      1      | -1 PM |
@@ -4700,9 +4659,6 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 |      3      | 1 PM  |
 |      4      | 2 PM  |
 |      5      | 4 PM  |
-
-{{pageNumber,auto}}
-\page
 
 **Cast Magic.** The companion casts one of the spells they know (MP Cost: 1 + the spells circle + the spells cost). *Pre-requisite: Companion: Magic Initiate*.
 

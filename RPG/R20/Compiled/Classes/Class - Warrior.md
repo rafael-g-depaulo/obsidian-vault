@@ -37,48 +37,6 @@
 | 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
-{{pageNumber,auto}}
-\page
-# Warrior
-
-##### [[Archetype - Martial]]
-
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
-
-**Save Roll Proficiencies:** STR, DEX.
-
-\<div class='classTable'>
-
-##### Warrior
-
-| Level | Proficiency Bonus | Features                                  |
-| :---: | :---------------: | :---------------------------------------- |
-|  1st  |        +1         | Precise Strike +4                         |
-|  2nd  |        +1         | Warrior Feat, Action Surge                |
-|  3rd  |        +2         | Warrior Feat                              |
-|  4th  |        +2         | Warrior Feat, Attribute Score Improvement |
-|  5th  |        +3         | Warrior Feat, Extra Attack (1)            |
-|  6th  |        +3         | Warrior Feat, Attribute Score Improvement |
-|  7th  |        +4         | Warrior Feat, Precise Strike +8           |
-|  8th  |        +4         | Warrior Feat                              |
-|  9th  |        +5         | Warrior Feat, Attribute Score Improvement |
-| 10th  |        +5         | Warrior Feat                              |
-| 11th  |        +6         | Warrior Feat                              |
-| 12th  |        +6         | Warrior Feat, Attribute Score Improvement |
-| 13th  |        +7         | Warrior Feat, Precise Strike +12          |
-| 14th  |        +7         | Warrior Feat Action Surge (2)             |
-| 15th  |        +8         | Warrior Feat, Attribute Score Improvement |
-| 16th  |        +8         | Warrior Feat                              |
-| 17th  |        +9         | Warrior Feat, Attribute Score Improvement |
-| 18th  |        +9         | Warrior Feat, Precise Strike +16          |
-| 19th  |        +10        | Warrior Feat, Attribute Score Improvement |
-| 20th  |        +10        | Warrior Feat, Action Surge (3)            |
-
-\</div>
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 

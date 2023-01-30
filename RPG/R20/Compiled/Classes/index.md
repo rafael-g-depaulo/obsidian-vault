@@ -244,6 +244,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 }}
 
 - **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
+{{pageNumber,auto}}
+\page
 
 - **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
@@ -788,48 +790,6 @@ List of spells available for a Spelgard to learn.
 | 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
-{{pageNumber,auto}}
-\page
-# Warrior
-
-##### [[Archetype - Martial]]
-
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 4 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor.
-
-**Save Roll Proficiencies:** STR, DEX.
-
-\<div class='classTable'>
-
-##### Warrior
-
-| Level | Proficiency Bonus | Features                                  |
-| :---: | :---------------: | :---------------------------------------- |
-|  1st  |        +1         | Precise Strike +4                         |
-|  2nd  |        +1         | Warrior Feat, Action Surge                |
-|  3rd  |        +2         | Warrior Feat                              |
-|  4th  |        +2         | Warrior Feat, Attribute Score Improvement |
-|  5th  |        +3         | Warrior Feat, Extra Attack (1)            |
-|  6th  |        +3         | Warrior Feat, Attribute Score Improvement |
-|  7th  |        +4         | Warrior Feat, Precise Strike +8           |
-|  8th  |        +4         | Warrior Feat                              |
-|  9th  |        +5         | Warrior Feat, Attribute Score Improvement |
-| 10th  |        +5         | Warrior Feat                              |
-| 11th  |        +6         | Warrior Feat                              |
-| 12th  |        +6         | Warrior Feat, Attribute Score Improvement |
-| 13th  |        +7         | Warrior Feat, Precise Strike +12          |
-| 14th  |        +7         | Warrior Feat Action Surge (2)             |
-| 15th  |        +8         | Warrior Feat, Attribute Score Improvement |
-| 16th  |        +8         | Warrior Feat                              |
-| 17th  |        +9         | Warrior Feat, Attribute Score Improvement |
-| 18th  |        +9         | Warrior Feat, Precise Strike +16          |
-| 19th  |        +10        | Warrior Feat, Attribute Score Improvement |
-| 20th  |        +10        | Warrior Feat, Action Surge (3)            |
-
-\</div>
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
@@ -935,6 +895,8 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 - **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
 
 - **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
+{{pageNumber,auto}}
+\page
 
 - **Cursed Knowledge.** learn 2 hexes.
 

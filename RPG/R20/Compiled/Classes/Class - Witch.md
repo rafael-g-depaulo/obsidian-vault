@@ -70,6 +70,8 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 - **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
 
 - **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
+{{pageNumber,auto}}
+\page
 
 - **Cursed Knowledge.** learn 2 hexes.
 

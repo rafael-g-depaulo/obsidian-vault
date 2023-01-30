@@ -1,4 +1,5 @@
 # Origins
+{{}}
 (Act in a similar way to races in other fantasy TTRPGs)
 
 Origins usually give +2, +1 and -1 to 3 attributes, and the equivalent of ~1 feats.

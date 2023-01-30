@@ -1,7 +1,4 @@
 # Companion Feats
-{{}}
-OBS: See Companion rules.
-
 **Companion: Helper.** The companion gains the Help action.
 
 **Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency any skill their companion is proficient with when rolling them while adjacent to their companion.
