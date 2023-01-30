@@ -45,7 +45,7 @@ The Companion recovers as much HP as their master does whenever both of them res
 ## Companion Skills
 This is a list of all companion skills
 
-**Simple Attack.** The companion attacks an enemy within melee range. *Pre-requisite: Companion: Attack*.
+**Simple Attack.** The companion attacks an enemy within melee range. *Pre-requisite: Companion: Attack Initiate*.
 
 The damage dice of the attack depends on the number of Companion Feats:
 
@@ -63,3 +63,4 @@ The damage dice of the attack depends on the number of Companion Feats:
 - range: 6sqr
 - damage type: fire, acid, poison
 
+**Cast Magic.** The companion casts one of the spells they know. *Pre-requisite: Companion: Magic Initiate*.

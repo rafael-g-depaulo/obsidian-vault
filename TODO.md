@@ -7,9 +7,9 @@ kanban-plugin: basic
 ## todo
 
 - [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
-- [ ] make plans for MC article
-- [ ] relatório macroeconomia
 - [ ] cobrar gena tcc
+- [ ] compiladores
+- [ ] AWS docker botar 1 (um) server pra rodar
 
 
 ## doing
@@ -22,6 +22,8 @@ kanban-plugin: basic
 - [ ] enviar trab fp
 - [ ] pedir dinheiro crédito mãe
 - [ ] explore compiladores teams stuff
+- [ ] relatório macroeconomia
+- [ ] make plans for MC article
 
 
 ***
