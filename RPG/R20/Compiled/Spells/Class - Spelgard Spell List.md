@@ -594,7 +594,7 @@ The first time you hit with a melee weapon attack during this spell’s duration
 - **Alcance:** toque
 - **Alvo:** 1 criatura
 - **Duração:** instantânea
-- **Crítico:** 20/2x
+- **Crítico:** 20/3x
 ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
@@ -627,6 +627,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
+- **Crítico:** 20/3x
 ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  

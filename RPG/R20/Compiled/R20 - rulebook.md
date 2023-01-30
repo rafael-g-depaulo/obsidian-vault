@@ -3897,7 +3897,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d8 po
 - **Alcance:** 20sqr
 - **Alvo:** linha
 - **Duração:** instantânea
-- **Resistência:** Reflexos reduz à metade.
+- **Resistência:** DEX.
 ___
 
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
@@ -4015,7 +4015,7 @@ As you cast this spell, you use the rope to create a circle with a 1sqr radius o
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura
 - **Duração:** instantânea
-- **Resistência:** Fortitude reduz à metade.
+- **Crítico:** 20/2x
 ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
@@ -4141,6 +4141,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **Alcance:** 3m (2 quadrados de 1,5m)
 - **Alvo:** 1 criatura
 - **Duração:** instantânea.
+- **Crítico:** 19/2x
 ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
@@ -4208,7 +4209,7 @@ You point at one creature you can see within range, and the sound of a dolorous 
 - **Alcance:** toque
 - **Alvo:** 1 criatura
 - **Duração:** instantânea
-- **Crítico:** 20/2x
+- **Crítico:** 20/3x
 ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
@@ -4332,6 +4333,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura
 - **Duração:** concentração.
+- **Crítico:** 20/3x
 ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  

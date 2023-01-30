@@ -12,7 +12,7 @@ CAST_TIME: padrão
 RANGE: 20sqr
 TARGET: linha
 DURATION: instantânea
-RESISTANCE: Reflexos reduz à metade.
+RESISTANCE: DEX.
 
 DESCRIPTION:
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.

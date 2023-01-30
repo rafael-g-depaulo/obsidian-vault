@@ -13,7 +13,7 @@ CAST_TIME: padrão
 RANGE: toque
 TARGET: 1 criatura
 DURATION: instantânea
-CRIT: 20/2x
+CRIT: 20/3x
 
 DESCRIPTION:
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.

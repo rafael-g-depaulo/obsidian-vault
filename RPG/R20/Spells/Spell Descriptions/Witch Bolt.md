@@ -13,6 +13,7 @@ CAST_TIME: padrão
 RANGE: 6sqr
 TARGET: 1 criatura
 DURATION: concentração.
+CRIT: 20/3x
 
 DESCRIPTION:
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  

@@ -14,7 +14,7 @@ CAST_TIME: padrão
 RANGE: 20sqr
 TARGET: 1 criatura
 DURATION: instantânea
-RESISTANCE: Fortitude reduz à metade.
+CRIT: 20/2x
 
 DESCRIPTION:
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).

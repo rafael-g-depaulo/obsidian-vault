@@ -14,6 +14,7 @@ CAST_TIME: padrão
 RANGE: 3m (2 quadrados de 1,5m)
 TARGET: 1 criatura
 DURATION: instantânea.
+CRIT: 19/2x
 
 DESCRIPTION:
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
