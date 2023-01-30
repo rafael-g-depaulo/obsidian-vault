@@ -40,6 +40,7 @@
 - [[Armor of Agathys]]
 - [[Beast Bont]]
 - [[Catapult]]
+- [[Despedaçar]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[False Life]]
@@ -659,6 +660,7 @@
 - [[Thunderclap]]
 ### 1st Circle
 - [[Catapult]]
+- [[Despedaçar]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
 - [[Thunderwave]]

@@ -141,6 +141,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 - **Alcance:** 12sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediato.
+- **Crítico:** 20/3x
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
@@ -266,6 +267,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura
 - **Duração:** instantânea.
+- **Crítico:** 20/2x
 ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
@@ -273,6 +275,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **+1 PM:** +2sqr alcance..
 - **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
 - **+3 PM:** você lança +1 raio contra o alvo principal.
+- **+2 PM:** margem de ameaça +2.
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -333,10 +336,10 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **Alcance:** 4sqr
 - **Alvo:** cone
 - **Duração:** instantânea
-- **Resistência:** Reflexos reduz à metade.
+- **Resistência:** DEX.
 ___
 
-Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1 bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela, ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
+Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
 - **+1 PM:** aumenta o ano em +1d6..
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..
@@ -348,6 +351,7 @@ Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às
 - **Alcance:** 12sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
+- **Crítico:** 20/2x
 ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
@@ -387,6 +391,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
 - **Duração:** 1 round
+- **Crítico:** 19/2x
 ___
 
 A flash of light streaks toward a creature of your choice within range.

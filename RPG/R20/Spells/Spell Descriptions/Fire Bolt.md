@@ -13,6 +13,7 @@ CAST_TIME: padrão
 RANGE: 12sqr
 TARGET: 1 criatura
 DURATION: imediata.
+CRIT: 20/2x
 
 DESCRIPTION:
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.

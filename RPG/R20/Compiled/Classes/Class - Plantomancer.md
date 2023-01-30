@@ -119,6 +119,7 @@ List of spells available for a Plantomancer to learn.
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
+- [[Despedaçar]]
 - [[Detect Poison and Disease (Ritual)]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]

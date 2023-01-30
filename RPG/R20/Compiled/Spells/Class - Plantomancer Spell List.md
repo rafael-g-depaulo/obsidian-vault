@@ -27,6 +27,7 @@
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
+- [[Despedaçar]]
 - [[Detect Poison and Disease (Ritual)]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
@@ -406,6 +407,24 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 - **+2 PM:** +1 alvo.
 - **+1 PM:** +4sqr (+6m)..
 
+### Despedaçar
+<div class="spell-tags">wind nature arcane transmutation</div>
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura ou objeto mundano Pequeno
+- **Duração:** instantânea
+- **Resistência:** CON.
+___
+
+Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
+
+- **+2 PM:** aumenta o  ano em +1d8+2..
+- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
+- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 5º círculo..
+- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
+- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
+
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
 *1st Circle*
@@ -416,7 +435,8 @@ ___
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Detectar Ameaças
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
@@ -432,8 +452,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
 
 ### Earth Tremor
 <div class="spell-tags">earth nature transmutation arcane</div>
@@ -475,7 +494,8 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 - **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar..
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
-- **+5 PM:** afeta todos os alvos dentro do alcance..
+- **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
+\page
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -488,8 +508,7 @@ ___
 
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
-\page
+- **+2PM:** aumente o número de alvos em 1.
 
 ### Enlarge/Reduce
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
@@ -547,7 +566,8 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância..
 - **+2 PM:** aumenta o bônus na Defesa em +1..
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo..
-- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..{{pageNumber,auto}}
+\page
 
 ### False Life
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
@@ -559,8 +579,7 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
-\page
+- **+1PM:** aumenta +1d4 nos PV temporários.
 
 ### Feather Fall
 <div class="spell-tags">transmutation wind arcane no thaumaturgy nature</div>
@@ -597,14 +616,16 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura ou objeto
 - **Duração:** instantânea
-- **Resistência:** Reflexos parcial.
+- **Crítico:** 18/2x
+- **Resistência:** CON.
 ___
 
-Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
+Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
 - **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
 - **+2 PM:** aumenta a redução na Defesa em 1..
-- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..
+- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..{{pageNumber,auto}}
+\page
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -616,8 +637,7 @@ ___
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Goodberry
 <div class="spell-tags">plant wild summon</div>
@@ -650,11 +670,13 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 - **Execução:** livre (durante um ataque a distância)
 - **Alcance:** pessoal
 - **Duração:** imediata.
+- **Crítico:** 2x
 ___
 
-The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **+2PM:** aumenta o dano em 1d10.
+- **+2PM:** aumenta o dano em 1d10.{{pageNumber,auto}}
+\page
 
 ### Hold Person
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
@@ -668,8 +690,7 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
-\page
+- **+3PM:** aumenta o número de alvos em +1.
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -708,7 +729,8 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Magic Missile
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -721,8 +743,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
 
 ### Magic Stone
 <div class="spell-tags">transmutation arcane</div>
@@ -767,7 +788,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..
+- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
+\page
 
 ### Ray of Enfeeblement
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -784,8 +806,7 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Ray of Sickness
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
@@ -823,7 +844,8 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Shape Water
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -846,8 +868,7 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shillelagh
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -889,7 +910,8 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Spider Climb
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
@@ -902,8 +924,7 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Spike Growth
 <div class="spell-tags">plant wild creation arcane</div>
@@ -950,7 +971,8 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Teia
 <div class="spell-tags">arcane creation feral wild</div>
@@ -966,8 +988,7 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
 
 ### Thorn Whip
 <div class="spell-tags">wild plant summon creation arcane</div>
@@ -1008,7 +1029,8 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..
+- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
+\page
 
 ### Tranquilidade
 <div class="spell-tags">enchantment trickery</div>
@@ -1025,8 +1047,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>

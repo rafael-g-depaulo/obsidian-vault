@@ -17,10 +17,11 @@ CAST_TIME: padrão
 RANGE: 20sqr
 TARGET: 1 criatura ou objeto
 DURATION: instantânea
-RESISTANCE: Reflexos parcial.
+RESISTANCE: CON.
+CRIT: 18/2x
 
 DESCRIPTION:
-Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
+Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
 INCREASES:
 | cost | description |

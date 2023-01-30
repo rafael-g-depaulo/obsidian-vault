@@ -25,6 +25,8 @@ Unlike physical attacks, spell attacks in general don't add the caster's spellca
 
 Some spells use a spell save DC instead. For that, see the Save DC Section below.
 
+As there is no weapon involved, each spell has it's own critical information, that determines the extra damage it deals when it critically hits, and the range for it to critically strike.
+
 #### Saves
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
 

@@ -17,6 +17,7 @@ CAST_TIME: padrão
 RANGE: 12sqr
 TARGET: 1 criatura
 DURATION: imediato.
+CRIT: 20/3x
 
 DESCRIPTION:
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.

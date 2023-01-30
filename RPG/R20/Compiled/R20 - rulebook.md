@@ -831,6 +831,7 @@ List of spells available for a Plantomancer to learn.
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
+- [[Despedaçar]]
 - [[Detect Poison and Disease (Ritual)]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
@@ -1455,6 +1456,8 @@ To make a spell attack you first roll to hit. The roll is determined by the foll
 Unlike physical attacks, spell attacks in general don't add the caster's spellcasting modifier to the damage roll.
 
 Some spells use a spell save DC instead. For that, see the Save DC Section below.
+
+As there is no weapon involved, each spell has it's own critical information, that determines the extra damage it deals when it critically hits, and the range for it to critically strike.
 
 #### Saves
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
@@ -2798,6 +2801,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 - **Alcance:** 12sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediato.
+- **Crítico:** 20/3x
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
@@ -2995,16 +2999,16 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 \page
 
 ### Despedaçar
-<div class="spell-tags">wind nature</div>
+<div class="spell-tags">wind nature arcane transmutation</div>
 *1st Circle*
 - **Execução:** padrão
 - **Alcance:** 6sqr
 - **Alvo:** 1 criatura ou objeto mundano Pequeno
 - **Duração:** instantânea
-- **Resistência:** Fortitude parcial ou Reflexos anula.
+- **Resistência:** CON.
 ___
 
-Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento).  onstrutos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
+Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
 - **+2 PM:** aumenta o  ano em +1d8+2..
 - **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
@@ -3101,13 +3105,15 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura
 - **Duração:** instantânea.
+- **Crítico:** 20/2x
 ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
 - **+1 PM:** +2sqr alcance..
 - **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
-- **+3 PM:** você lança +1 raio contra o alvo principal.{{pageNumber,auto}}
+- **+3 PM:** você lança +1 raio contra o alvo principal.
+- **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
 \page
 
 ### Enfeitiçar
@@ -3223,10 +3229,10 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **Alcance:** 4sqr
 - **Alvo:** cone
 - **Duração:** instantânea
-- **Resistência:** Reflexos reduz à metade.
+- **Resistência:** DEX.
 ___
 
-Um leque de chamas irrompe de suas mãos, ausando 2d6 pontos de dano de fogo às criaturas na área. Truque: muda o alcance para curto, a área para alvo de 1 bjeto e a resistência para Reflexos anula. Você gera uma pequena explosão que não causa dano mas pode acender uma vela, ocha ou fogueira. Também pode fazer um objeto inflamável com RD 0 (como uma corda ou pergaminho) ficar em chamas. Uma criatura em posse de um objeto pode evitar esse efeito se passar no teste de resistência.
+Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
 - **+1 PM:** aumenta o ano em +1d6..
 - **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..
@@ -3264,6 +3270,7 @@ Choose up to five falling creatures within range. A falling creature’s rate of
 - **Alcance:** 12sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
+- **Crítico:** 20/2x
 ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
@@ -3292,10 +3299,11 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 - **Alcance:** 20sqr
 - **Alvo:** 1 criatura ou objeto
 - **Duração:** instantânea
-- **Resistência:** Reflexos parcial.
+- **Crítico:** 18/2x
+- **Resistência:** CON.
 ___
 
-Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
+Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
 - **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
 - **+2 PM:** aumenta a redução na Defesa em 1..
@@ -3372,6 +3380,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 - **Execução:** 1 Action
 - **Alcance:** 60 feet
 - **Duração:** 1 round
+- **Crítico:** 19/2x
 ___
 
 A flash of light streaks toward a creature of your choice within range.
@@ -3386,9 +3395,10 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 - **Execução:** livre (durante um ataque a distância)
 - **Alcance:** pessoal
 - **Duração:** imediata.
+- **Crítico:** 2x
 ___
 
-The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one.
+The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
 - **+2PM:** aumenta o dano em 1d10.
 
@@ -3428,6 +3438,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 - **Alcance:** 30sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
+- **Resistência:** PRE
 ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.

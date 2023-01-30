@@ -13,6 +13,7 @@ LEVEL: 1
 CAST_TIME: 1 Action
 RANGE: 60 feet
 DURATION: 1 round
+CRIT: 19/2x
 
 DESCRIPTION:
 A flash of light streaks toward a creature of your choice within range.
