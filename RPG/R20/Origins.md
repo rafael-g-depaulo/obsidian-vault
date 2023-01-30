@@ -12,7 +12,7 @@ Here's a list of origins:
 
 ### Brute
 **Attributes**: +2 STR, +1 CON, -1 SEN.
-**Tough it out!**: Can spend movement action and 1PM to gain +1 Guard for scene.
+**Tough it out!**: Can spend movement action and 1PM to gain +2 Guard for scene.
 
 ### Old Soul
 **Attributes**: CON +2, SEN +1, DEX -1.
