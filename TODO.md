@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] cobrar gena tcc
 - [ ] compiladores
 - [ ] AWS docker botar 1 (um) server pra rodar
+- [ ] tirar prints LABFAZ thales
 
 
 ## doing

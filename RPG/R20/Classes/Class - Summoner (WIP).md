@@ -23,3 +23,10 @@ Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qua
 | d10  | Magia      |
 | ---- | ---------- |
 | 1-10 | Witch Bolt | 
+
+### 2º Círculo
+| d10  | Magia         |
+| ---- | ------------- |
+| 1-10 | Burning Hands | 
+
+PS: todas as magias são ofensivas/negativas.
