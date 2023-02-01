@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] tirar prints LABFAZ thales
 - [ ] falar edu adds
 - [ ] falar grupo matéria RPG
+- [ ] pesquisar emitRO e tal compiladores
 
 
 ## doing
