@@ -6,16 +6,17 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] financeiro dezembro
 - [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
 - [ ] cobrar gena tcc
-- [ ] compiladores
 - [ ] AWS docker botar 1 (um) server pra rodar
 - [ ] tirar prints LABFAZ thales
+- [ ] falar edu adds
+- [ ] falar grupo matéria RPG
 
 
 ## doing
 
-- [ ] financeiro dezembro
 
 
 ## done
@@ -25,6 +26,7 @@ kanban-plugin: basic
 - [ ] explore compiladores teams stuff
 - [ ] relatório macroeconomia
 - [ ] make plans for MC article
+- [ ] compiladores
 
 
 ***
