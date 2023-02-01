@@ -15,26 +15,26 @@
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+CON | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+CON | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+CON | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+CON | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+CON | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+CON | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+CON | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+CON | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+CON | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+CON | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+CON | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+CON | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+CON | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+CON | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+CON | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+CON | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+CON | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+CON | 5d8+5 |
+| 1st | +1 |  |
+| 2nd | +1 | Champion Feat |
+| 3rd | +2 | Champion Feat |
+| 4th | +2 | Champion Feat, Attribute Score Improvement |
+| 5th | +3 | Champion Feat, Extra Attack |
+| 6th | +3 | Champion Feat, Attribute Score Improvement |
+| 7th | +4 | Champion Feat |
+| 8th | +4 | Champion Feat |
+| 9th | +5 | Champion Feat, Attribute Score Improvement |
+| 10th | +5 | Champion Feat |
+| 11th | +6 | Champion Feat |
+| 12th | +6 | Champion Feat, Attribute Score Improvement |
+| 13th | +7 | Champion Feat |
+| 14th | +7 | Champion Feat |
+| 15th | +8 | Champion Feat, Attribute Score Improvement |
+| 16th | +8 | Champion Feat |
+| 17th | +9 | Champion Feat, Attribute Score Improvement |
+| 18th | +9 | Champion Feat |
+| 19th | +10 | Champion Feat, Attribute Score Improvement |
+| 20th | +10 | Champion Feat |
 }}
 
 

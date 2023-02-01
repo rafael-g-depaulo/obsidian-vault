@@ -37,3 +37,6 @@ Here's a list of all of the errors found.
 - [[Silent Image]] Spell doesn't have {{spell-defitinition}} macro
 - [[Snowball Swarm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sopro da Salvação]] Spell doesn't have {{spell-defitinition}} macro
+
+## Tag Group Hierarchy
+- [[Espelho do Pântano]] Spell has tag "divination" but is missing it's group tag "arcane" (or you can add "#no-arcane")

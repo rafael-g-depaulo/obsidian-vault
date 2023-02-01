@@ -153,17 +153,6 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
-| d8  | Damage Type |
-| --- | ----------- |
-| 1   | Acid        |
-| 2   | Cold        |
-| 3   | Fire        |
-| 4   | Force       |
-| 5   | Lightning   |
-| 6   | Poison      |
-| 7   | Psychic     |
-| 8   | Thunder     |
-
 
 
 ### Concentração de Combate
@@ -287,10 +276,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **+1 PM:** +2sqr alcance..
-- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
-- **+3 PM:** você lança +1 raio contra o alvo principal.
-- **+2 PM:** margem de ameaça +2.
+- **cost:** description.
 
 ### Enhance Ability
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -360,8 +346,7 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **+1 PM:** aumenta o ano em +1d6..
-- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..
+- **cost:** description.
 
 ### Fire Bolt
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -376,7 +361,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **+2PM:** aumente o dano em +1d10.{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### Green Flame Blade
@@ -418,10 +403,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **+1 PM:** aumenta o dano em +1d6.
-- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
+- **cost:** description.
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -637,9 +620,7 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **+1 PM:** aumenta o dano em 1d8+1..
-- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
-- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
+- **cost:** description.
 
 ### Warding Bond
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -670,10 +651,9 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 - **Crítico:** 20/3x
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
-Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
-- **+2PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### Zephyr Strike
@@ -687,6 +667,4 @@ Make a ranged spell attack against that creature. On a hit, the target takes 1d1
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
-
-Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 

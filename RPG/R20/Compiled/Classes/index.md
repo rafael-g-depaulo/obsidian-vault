@@ -100,26 +100,26 @@ Important tips:
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
-| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 10th | +5 | Beast Warrior Feat | 3d4+CON |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
-| 14th | +7 | Beast Warrior Feat | 4d4+CON |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
-| 20th | +10 | Beast Warrior Feat | 5d4+CON |
+| 1st | +1 |  |
+| 2nd | +1 | Beast Warrior Feat |
+| 3rd | +2 | Beast Warrior Feat |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Beast Warrior Feat, Extra Attack |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Beast Warrior Feat |
+| 8th | +4 | Beast Warrior Feat |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Beast Warrior Feat |
+| 11th | +6 | Beast Warrior Feat |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Beast Warrior Feat |
+| 14th | +7 | Beast Warrior Feat |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Beast Warrior Feat |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Beast Warrior Feat |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Beast Warrior Feat |
 }}
 
 
@@ -194,26 +194,26 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+CON | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+CON | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+CON | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+CON | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+CON | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+CON | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+CON | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+CON | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+CON | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+CON | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+CON | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+CON | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+CON | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+CON | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+CON | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+CON | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+CON | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+CON | 5d8+5 |
+| 1st | +1 |  |
+| 2nd | +1 | Champion Feat |
+| 3rd | +2 | Champion Feat |
+| 4th | +2 | Champion Feat, Attribute Score Improvement |
+| 5th | +3 | Champion Feat, Extra Attack |
+| 6th | +3 | Champion Feat, Attribute Score Improvement |
+| 7th | +4 | Champion Feat |
+| 8th | +4 | Champion Feat |
+| 9th | +5 | Champion Feat, Attribute Score Improvement |
+| 10th | +5 | Champion Feat |
+| 11th | +6 | Champion Feat |
+| 12th | +6 | Champion Feat, Attribute Score Improvement |
+| 13th | +7 | Champion Feat |
+| 14th | +7 | Champion Feat |
+| 15th | +8 | Champion Feat, Attribute Score Improvement |
+| 16th | +8 | Champion Feat |
+| 17th | +9 | Champion Feat, Attribute Score Improvement |
+| 18th | +9 | Champion Feat |
+| 19th | +10 | Champion Feat, Attribute Score Improvement |
+| 20th | +10 | Champion Feat |
 }}
 
 
@@ -764,26 +764,26 @@ List of spells available for a Spelgard to learn.
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
-| 2nd | +1 | Warrior Feat, Action Surge | +4 |
-| 3rd | +2 | Warrior Feat | +4 |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
-| 5th | +3 | Warrior Feat, Extra Attack | +4 |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
-| 7th | +4 | Warrior Feat | +8 |
-| 8th | +4 | Warrior Feat | +8 |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
-| 10th | +5 | Warrior Feat | +8 |
-| 11th | +6 | Warrior Feat | +8 |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
-| 13th | +7 | Warrior Feat | +12 |
-| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
-| 16th | +8 | Warrior Feat | +12 |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
-| 18th | +9 | Warrior Feat | +16 |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
+| 1st | +1 |  |
+| 2nd | +1 | Warrior Feat |
+| 3rd | +2 | Warrior Feat |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Warrior Feat, Extra Attack |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Warrior Feat |
+| 8th | +4 | Warrior Feat |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Warrior Feat |
+| 11th | +6 | Warrior Feat |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Warrior Feat |
+| 14th | +7 | Warrior Feat |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Warrior Feat |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Warrior Feat |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Warrior Feat |
 }}
 
 
@@ -836,26 +836,26 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
-| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
-| 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
-| 7th | +4 | Witch Feat | 3 | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
-| 9th | +5 | Witch Feat | 3 | 11 | 5 |
-| 10th | +5 | Witch Feat | 4 | 12 | 5 |
-| 11th | +6 | Witch Feat | 4 | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
-| 13th | +7 | Witch Feat | 4 | 15 | 7 |
-| 14th | +7 | Witch Feat | 5 | 16 | 7 |
-| 15th | +8 | Witch Feat | 5 | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
-| 17th | +9 | Witch Feat | 5 | 19 | 9 |
-| 18th | +9 | Witch Feat | 5 | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
-| 20th | +10 | Witch Feat | 5 | 22 | 9 |
+| 1st | +1 |  | 3 | 1 |
+| 2nd | +1 | Witch Feat | 4 | 1 |
+| 3rd | +2 | Witch Feat | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
+| 5th | +3 | Witch Feat | 7 | 3 |
+| 6th | +3 | Witch Feat | 8 | 3 |
+| 7th | +4 | Witch Feat | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
+| 9th | +5 | Witch Feat | 11 | 5 |
+| 10th | +5 | Witch Feat | 12 | 5 |
+| 11th | +6 | Witch Feat | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
+| 13th | +7 | Witch Feat | 15 | 7 |
+| 14th | +7 | Witch Feat | 16 | 7 |
+| 15th | +8 | Witch Feat | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
+| 17th | +9 | Witch Feat | 19 | 9 |
+| 18th | +9 | Witch Feat | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
+| 20th | +10 | Witch Feat | 22 | 9 |
 }}
 
 

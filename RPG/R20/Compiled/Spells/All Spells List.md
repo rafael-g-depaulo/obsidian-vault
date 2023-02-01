@@ -123,6 +123,7 @@
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Camuflagem ilusória]]
+- [[Espelho do Pântano]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Invisibilidade]]

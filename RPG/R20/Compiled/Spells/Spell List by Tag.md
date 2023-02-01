@@ -187,6 +187,8 @@
 - [[Beast Sense]]
 - [[Darkvision]]
 - [[See invisibility]]
+### 3rd Circle
+- [[Espelho do Pântano]]
 
 ## Earth Spells
 ### 1st Circle
@@ -590,6 +592,7 @@
 - [[Goodberry]]
 - [[Tentacle Twister]]
 ### 3rd Circle
+- [[Espelho do Pântano]]
 - [[Soco de Arsenal]]
 
 ## Thaumaturgy Spells
@@ -721,6 +724,7 @@
 - [[Web]]
 ### 3rd Circle
 - [[Camuflagem ilusória]]
+- [[Espelho do Pântano]]
 - [[Invisibilidade]]
 - [[Mass Healing Word]]
 - [[Oração]]
@@ -812,6 +816,7 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Espelho do Pântano]]
 - [[Life Transference]]
 - [[Soco de Arsenal]]
 - [[Toque Vampírico]]

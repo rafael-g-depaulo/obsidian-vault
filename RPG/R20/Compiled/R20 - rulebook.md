@@ -473,26 +473,26 @@ Important tips:
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
-| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 10th | +5 | Beast Warrior Feat | 3d4+CON |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
-| 14th | +7 | Beast Warrior Feat | 4d4+CON |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
-| 20th | +10 | Beast Warrior Feat | 5d4+CON |
+| 1st | +1 |  |
+| 2nd | +1 | Beast Warrior Feat |
+| 3rd | +2 | Beast Warrior Feat |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Beast Warrior Feat, Extra Attack |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Beast Warrior Feat |
+| 8th | +4 | Beast Warrior Feat |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Beast Warrior Feat |
+| 11th | +6 | Beast Warrior Feat |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Beast Warrior Feat |
+| 14th | +7 | Beast Warrior Feat |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Beast Warrior Feat |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Beast Warrior Feat |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Beast Warrior Feat |
 }}
 
 
@@ -567,26 +567,26 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+CON | 1d8+1 |
-| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+CON | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+CON | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+CON | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+CON | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+CON | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+CON | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+CON | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+CON | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+CON | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+CON | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+CON | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+CON | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+CON | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+CON | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+CON | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+CON | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+CON | 5d8+5 |
+| 1st | +1 |  |
+| 2nd | +1 | Champion Feat |
+| 3rd | +2 | Champion Feat |
+| 4th | +2 | Champion Feat, Attribute Score Improvement |
+| 5th | +3 | Champion Feat, Extra Attack |
+| 6th | +3 | Champion Feat, Attribute Score Improvement |
+| 7th | +4 | Champion Feat |
+| 8th | +4 | Champion Feat |
+| 9th | +5 | Champion Feat, Attribute Score Improvement |
+| 10th | +5 | Champion Feat |
+| 11th | +6 | Champion Feat |
+| 12th | +6 | Champion Feat, Attribute Score Improvement |
+| 13th | +7 | Champion Feat |
+| 14th | +7 | Champion Feat |
+| 15th | +8 | Champion Feat, Attribute Score Improvement |
+| 16th | +8 | Champion Feat |
+| 17th | +9 | Champion Feat, Attribute Score Improvement |
+| 18th | +9 | Champion Feat |
+| 19th | +10 | Champion Feat, Attribute Score Improvement |
+| 20th | +10 | Champion Feat |
 }}
 
 
@@ -1137,26 +1137,26 @@ List of spells available for a Spelgard to learn.
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
-| 2nd | +1 | Warrior Feat, Action Surge | +4 |
-| 3rd | +2 | Warrior Feat | +4 |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
-| 5th | +3 | Warrior Feat, Extra Attack | +4 |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
-| 7th | +4 | Warrior Feat | +8 |
-| 8th | +4 | Warrior Feat | +8 |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
-| 10th | +5 | Warrior Feat | +8 |
-| 11th | +6 | Warrior Feat | +8 |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
-| 13th | +7 | Warrior Feat | +12 |
-| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
-| 16th | +8 | Warrior Feat | +12 |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
-| 18th | +9 | Warrior Feat | +16 |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
+| 1st | +1 |  |
+| 2nd | +1 | Warrior Feat |
+| 3rd | +2 | Warrior Feat |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Warrior Feat, Extra Attack |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Warrior Feat |
+| 8th | +4 | Warrior Feat |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Warrior Feat |
+| 11th | +6 | Warrior Feat |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Warrior Feat |
+| 14th | +7 | Warrior Feat |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Warrior Feat |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Warrior Feat |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Warrior Feat |
 }}
 
 
@@ -1209,26 +1209,26 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
-| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
-| 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
-| 7th | +4 | Witch Feat | 3 | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
-| 9th | +5 | Witch Feat | 3 | 11 | 5 |
-| 10th | +5 | Witch Feat | 4 | 12 | 5 |
-| 11th | +6 | Witch Feat | 4 | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
-| 13th | +7 | Witch Feat | 4 | 15 | 7 |
-| 14th | +7 | Witch Feat | 5 | 16 | 7 |
-| 15th | +8 | Witch Feat | 5 | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
-| 17th | +9 | Witch Feat | 5 | 19 | 9 |
-| 18th | +9 | Witch Feat | 5 | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
-| 20th | +10 | Witch Feat | 5 | 22 | 9 |
+| 1st | +1 |  | 3 | 1 |
+| 2nd | +1 | Witch Feat | 4 | 1 |
+| 3rd | +2 | Witch Feat | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
+| 5th | +3 | Witch Feat | 7 | 3 |
+| 6th | +3 | Witch Feat | 8 | 3 |
+| 7th | +4 | Witch Feat | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
+| 9th | +5 | Witch Feat | 11 | 5 |
+| 10th | +5 | Witch Feat | 12 | 5 |
+| 11th | +6 | Witch Feat | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
+| 13th | +7 | Witch Feat | 15 | 7 |
+| 14th | +7 | Witch Feat | 16 | 7 |
+| 15th | +8 | Witch Feat | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
+| 17th | +9 | Witch Feat | 19 | 9 |
+| 18th | +9 | Witch Feat | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
+| 20th | +10 | Witch Feat | 22 | 9 |
 }}
 
 
@@ -2085,6 +2085,8 @@ Any sentient creature may attempt to cast a spell from a scroll.
 
 If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
 
+If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
+
 ## Learning a Spell from a Scroll
 A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
 
@@ -2392,6 +2394,7 @@ nature -> elemental -> wild -> nature
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Camuflagem ilusória]]
+- [[Espelho do Pântano]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
 - [[Invisibilidade]]
@@ -2730,10 +2733,10 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 - **Alcance:** curto;
 - **Alvo:** 1 criatura ou objeto mundano Pequeno;
 - **Duração:** instantânea;
-- **Resistência:** Fortitude parcial ou Reflexos anula.
+- **Resistência:** CON
 ___
 
-Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
+Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
 - **+2 PM:** aumenta o dano em +1d8+2..
 - **+2 PM:** muda o alvo para objeto mundano Médio. Requer 2º círculo..
@@ -2781,17 +2784,6 @@ You awaken the sense of mortality in one creature you can see within range. A co
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
-
-| d8  | Damage Type |
-| --- | ----------- |
-| 1   | Acid        |
-| 2   | Cold        |
-| 3   | Fire        |
-| 4   | Force       |
-| 5   | Lightning   |
-| 6   | Poison      |
-| 7   | Psychic     |
-| 8   | Thunder     |
 
 {{pageNumber,auto}}
 \page
@@ -2999,11 +2991,7 @@ ___
 
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
-- **+2 PM:** aumenta o  ano em +1d8+2..
-- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
-- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 5º círculo..
-- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
-- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
+- **cost:** description.
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
@@ -3106,10 +3094,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **+1 PM:** +2sqr alcance..
-- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
-- **+3 PM:** você lança +1 raio contra o alvo principal.
-- **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### Enfeitiçar
@@ -3224,6 +3209,20 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo..
 - **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..
 
+### Espelho do Pântano
+<div class="spell-tags">divination trickery summon wild</div>
+
+*3rd Circle*
+- **Execução:** 10 minutos
+- **Alcance:** infinito
+- **Alvo:** 1 poça de água do pântano
+- **Duração:** cena.
+___
+
+Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto da pessoa escolhida uma superfície d'agua fica suja e vira um espelho do pântano. Imagens, sons e objetos pequenos não-mágicos podem ser passados pelo espelho.
+
+
+
 ### Explosão de chamas
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -3237,8 +3236,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **+1 PM:** aumenta o ano em +1d6..
-- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### False Life
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
@@ -3251,8 +3250,7 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
-\page
+- **+1PM:** aumenta +1d4 nos PV temporários.
 
 ### Feather Fall
 <div class="spell-tags">transmutation wind arcane no thaumaturgy nature</div>
@@ -3281,7 +3279,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **+2PM:** aumente o dano em +1d10.
+- **cost:** description.
 
 ### Físico Divino
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -3297,7 +3295,8 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 
 - **+3 PM:** em vez do normal, o alvo recebe +4 nos três atributos físicos. Requer 5º círculo..
 - **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas..
-- **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..
+- **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..{{pageNumber,auto}}
+\page
 
 ### Flecha Ácida
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
@@ -3313,10 +3312,7 @@ ___
 
 Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
-- **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
-- **+2 PM:** aumenta a redução na Defesa em 1..
-- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -3356,7 +3352,8 @@ ___
 
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-- **+1 PM:** Increase the number of berries by 2..
+- **+1 PM:** Increase the number of berries by 2..{{pageNumber,auto}}
+\page
 
 ### Green Flame Blade
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
@@ -3370,8 +3367,7 @@ ___
 
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and green fire leaps from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell's damage increases when you reach higher levels.
 
-- **+3PM:** increase both damages by +1d8.{{pageNumber,auto}}
-\page
+- **+3PM:** increase both damages by +1d8.
 
 ### Guidance
 <div class="spell-tags">divination boost sacred arcane</div>
@@ -3398,10 +3394,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **+1 PM:** aumenta o dano em +1d6.
-- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
+- **cost:** description.
 
 ### Hail of Thorns
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
@@ -3415,7 +3409,8 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **+2PM:** aumenta o dano em 1d10.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Healing Word
 <div class="spell-tags">recovery sacred speech no trickery</div>
@@ -3429,8 +3424,7 @@ ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
-\page
+- **+3 PM:** muda o casting para reação.
 
 ### Heat Metal
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
@@ -3461,7 +3455,7 @@ ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.
 
-- **+2PM:** increase the damage by +1d10.
+- **cost:** description.
 
 ### Hideous Laughter
 <div class="spell-tags">enchantment trickery curse occult speech</div>
@@ -3477,7 +3471,8 @@ A creature of your choice that you can see within range perceives everything as 
   
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Hold Person
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
@@ -3492,8 +3487,7 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
-\page
+- **+3PM:** aumenta o número de alvos em +1.
 
 ### Imagem Espelhada
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
@@ -3540,7 +3534,8 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
 - **+2 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Invisibilidade
 <div class="spell-tags">ilusion trickery</div>
@@ -3557,8 +3552,7 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura ou 1 objeto..
 - **+3 PM:** muda a duração para cena. Requer 5º círculo..
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
-- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..{{pageNumber,auto}}
-\page
+- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..
 
 ### Lesser Restoration
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -3599,7 +3593,8 @@ ___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
 The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **+2PM:** increase damage by +1d8.
+- **+2PM:** increase damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Longstrider
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -3614,8 +3609,7 @@ ___
 You touch a creature. The target’s speed increases by 2sqr until the spell ends.
 
 - **+1PM:** increase the movement speed by another +1sqr.
-- **+1PM:** increase the target by +1.{{pageNumber,auto}}
-\page
+- **+1PM:** increase the target by +1.
 
 ### Luz
 <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
@@ -3663,7 +3657,8 @@ The hand lasts for the duration or until you dismiss it as an action. The hand v
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 - **+X PM:** Torna a mão invisível.
-- **+Y PM:** Aumenta a carga máxima em X kilos.
+- **+Y PM:** Aumenta a carga máxima em X kilos.{{pageNumber,auto}}
+\page
 
 ### Magic Missile
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -3677,8 +3672,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
 
 ### Magic Stone
 <div class="spell-tags">transmutation arcane</div>
@@ -3728,7 +3722,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.
+- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Message
 <div class="spell-tags">divination arcane speech trickery</div>
@@ -3744,8 +3739,7 @@ You point your finger toward a creature within range and whisper a message. The 
   
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Minor Ilusion
 <div class="spell-tags">ilusion trickery</div>
@@ -3797,7 +3791,8 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Stealth checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Perdição
 <div class="spell-tags">curse occult</div>
@@ -3812,8 +3807,7 @@ ___
 
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
-- **+2 PM:** aumenta as penalidades em –1.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta as penalidades em –1.
 
 ### Poison Spray
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -3850,11 +3844,14 @@ Up to 3 creatures of your choice that you can see within range each regain hit p
 - **Alcance:** Pessoal
 - **Alvo:** Pessoal.
 - **Duração:** instantânea.
+- **Crítico:** 19/2x
 ___
 
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d8 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 - **+2 PM:** +1d8 acid damage..
+- **+1 PM:** +1 margem de ameaça..{{pageNumber,auto}}
+\page
 
 ### Primor Atlético
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -3871,8 +3868,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
 
 ### Raio Solar
 <div class="spell-tags">holy sacred</div>
@@ -3921,7 +3917,8 @@ ___
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-- **+2PM:** increase the damage by +1d8.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Ray of Sickness
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
@@ -3935,8 +3932,7 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Relâmpago
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
@@ -3951,8 +3947,7 @@ ___
 
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
-- **+2 PM:** aumenta o dano em +2d6..
-- **+3 PM:** muda a área para alvo (criaturas escolhidas). Em vez do normal, você dispara vários relâmpagos, um para cada alvo escolhido, causando 6d6 pontos de dano de eletricidade. Requer 5º círculo..
+- **cost:** description.
 
 ### Resistance
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -3981,7 +3976,8 @@ The next time you hit a creature with a melee weapon attack during the spell’s
   
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-- **+1PM:** aumente o dano inicial em +1d6.
+- **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
+\page
 
 ### See invisibility
 <div class="spell-tags">divination arcane boost sacred</div>
@@ -3994,8 +3990,7 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shape Water
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -4047,7 +4042,8 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..
+- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
+\page
 
 ### Snare
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
@@ -4061,8 +4057,7 @@ ___
 
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Soco de Arsenal
 <div class="spell-tags">summon wild wind nature warmagic thaumaturgy</div>
@@ -4077,10 +4072,7 @@ ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
-- **+1 PM:** muda o alcance para pessoal, o alvo para você, a duração para cena e a resistência para nenhuma. Em vez do normal, seus ataques corpo a corpo passam a acertar inimigos distantes. Seu alcance natural aumenta em 3m; uma criatura Média pode atacar adversários a até 4,5m, por exemplo..
-- **+2 PM:** aumenta o dano em +1d6..
-- **+4 PM:** aumenta a distância do efeito de empurrar em +3m..
-- **+5 PM:** muda o tipo do dano para essência..
+- **cost:** description.
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -4111,7 +4103,8 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Spike Growth
 <div class="spell-tags">plant wild creation arcane</div>
@@ -4127,8 +4120,7 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sugestion
 <div class="spell-tags">enchantment trickery</div>
@@ -4179,7 +4171,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
+\page
 
 ### Tentacle Twister
 <div class="spell-tags">occult unholy summon wild</div>
@@ -4195,8 +4188,7 @@ You invoke the power of Hadar, the Dark Hunger.
 Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
-\page
+- **+3PM:** increase the radius by 1sqr.
 
 ### Thorn Whip
 <div class="spell-tags">wild plant summon creation arcane</div>
@@ -4211,8 +4203,7 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **+2 PM:** Increase damage by +2d6..
-- **+1PM:** +2 to hit..
+- **cost:** description.
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -4239,7 +4230,8 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Thunderwave
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
@@ -4254,8 +4246,7 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
-\page
+- **+1PM:** increase the damage by 1d6..
 
 ### Toll the Dead
 <div class="spell-tags">occult unholy decay necrotic wind no nature</div>
@@ -4284,9 +4275,7 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **+1 PM:** aumenta o dano em 1d8+1..
-- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
-- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
+- **cost:** description.
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -4303,7 +4292,8 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Tranquilidade
 <div class="spell-tags">enchantment trickery</div>
@@ -4321,8 +4311,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
 
 ### Transformação de Guerra
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
@@ -4370,7 +4359,8 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Warding Wind
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
@@ -4383,8 +4373,7 @@ ___
 
 It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Web
 <div class="spell-tags">feral wild trickery creation arcane</div>
@@ -4414,10 +4403,9 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 - **Crítico:** 20/3x
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
-Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
-- **+2PM:** increase the initial damage by +1d12.
+- **cost:** description.
 
 ### Word of Radiance
 <div class="spell-tags">holy sacred radiant energy speech no trickery</div>
@@ -4431,7 +4419,8 @@ ___
 
 You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
-- **+1PM:** increase the damage by +1d6.
+- **+1PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Zephyr Strike
 <div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
@@ -4444,8 +4433,6 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
-
-Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
 
 
