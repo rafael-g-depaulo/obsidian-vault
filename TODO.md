@@ -21,18 +21,18 @@ kanban-plugin: basic
 
 ## done
 
-- [ ] enviar trab fp
-- [ ] pedir dinheiro crédito mãe
-- [ ] explore compiladores teams stuff
-- [ ] relatório macroeconomia
-- [ ] make plans for MC article
-- [ ] compiladores
 
 
 ***
 
 ## Archive
 
+- [ ] enviar trab fp
+- [ ] pedir dinheiro crédito mãe
+- [ ] explore compiladores teams stuff
+- [ ] relatório macroeconomia
+- [ ] make plans for MC article
+- [ ] compiladores
 - [ ] sheet financeiro
 - [ ] resolver cobrança sindesei
 - [ ] email prof fernanda
