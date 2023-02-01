@@ -11,10 +11,10 @@ CAST_TIME: padrão
 RANGE: curto;
 TARGET: 1 criatura ou objeto mundano Pequeno;
 DURATION: instantânea;
-RESISTANCE: Fortitude parcial ou Reflexos anula.
+RESISTANCE: CON
 
 DESCRIPTION:
-Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (Fortitude reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído (Reflexos anula).
+Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
 INCREASES:
 | cost | description |

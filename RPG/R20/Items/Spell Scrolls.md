@@ -12,6 +12,8 @@ Any sentient creature may attempt to cast a spell from a scroll.
 
 If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
 
+If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
+
 ## Learning a Spell from a Scroll
 A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
 
