@@ -91,7 +91,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Weakened.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on.
 
-- **Hex: Slowed.** The target has their movement speed halved.
+- **Hex: Slowed.** The target has their movement speed halved.  
 
 - **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
 
