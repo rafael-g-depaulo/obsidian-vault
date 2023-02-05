@@ -8,12 +8,11 @@ kanban-plugin: basic
 
 - [ ] financeiro dezembro
 - [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
-- [ ] cobrar gena tcc
 - [ ] AWS docker botar 1 (um) server pra rodar
-- [ ] tirar prints LABFAZ thales [restore dump to docker psql](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database)
 - [ ] falar edu adds
 - [ ] pesquisar emitRO e tal compiladores
 - [ ] SI checar trabalhos dos grupos no moodle
+- [ ] R20 simplificar rest
 
 
 ## doing
@@ -23,6 +22,8 @@ kanban-plugin: basic
 ## done
 
 - [ ] falar grupo matéria RPG
+- [ ] tirar prints LABFAZ thales [restore dump to docker psql](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database)
+- [ ] cobrar gena tcc
 
 
 ***

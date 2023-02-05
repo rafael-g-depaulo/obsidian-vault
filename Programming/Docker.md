@@ -2,6 +2,23 @@
 
 ## CLI
 ### Build Image
+```bash
+docker image build . -f ./path/to/dockerfile -t name-of-image
+```
+
+### Run container based on image
+```bash
+docker container run --name container-name -d --rm -p host_port:container_port image-name
+```
+
+To stop, just run `docker container stop container_name`
+
+| flag | description                                                                              |
+| ---- | ---------------------------------------------------------------------------------------- |
+| -d   | detach                                                                                   |
+| -p   | publish a port                                                                           |
+| -P   | publish ALL ports                                                                        |
+| --rm | remove container when stopped/exited                                                     |
 
 ## Running in WSL2
 In WSL2 there's a common problem when trying to access a server from the windows host.

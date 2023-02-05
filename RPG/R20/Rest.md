@@ -13,15 +13,11 @@ Food, firewood, water... to properly rest, a party needs to expend some resource
 ## How to recover
 When the party decides to rest, they set up camp for the night.
 
-### Base Level and Rest CR
-The DM chooses the base condition for the rest, which may be Bad, Normal or even worse. Chose a base condition level for the situation. That number can be a negative or positive one, with 1 being normal, and the lesser the number, the worse the condition is.
-
-The DM also chooses secretly the CR of the rest, considering the location, time, weather and other adverse conditions that may apply.
-
-Recommendation for CR: 15 - (5* base level of rest)
+### Difficulty and Rest CR
+The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 0 being a favorable and easy condition, and the higher the number, the more harsh the conditions (recommended 0-2 range for inexperienced adventurers, and to never go above 3).
 
 ### Expending Resources
-When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the level of the recovery. 
+When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the condition of the recovery. 
 
 **Experiment with different prices**
 | amount spent per person | bonus |
@@ -34,21 +30,29 @@ When resting, expending more or less resources has an effect on the quality of t
 | 150 silver              | +3    |
 
 ### Skills
-A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). 
+A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC for this roll is:
+- **5 + (5 \* difficulty)**
 
-The character then rolls a skill check against the Rest CR chosen by the DM. If they pass it, the Rest Level is increased by 1. For every 5 above the CR, the level is increased by another 1 point.
+If they pass the check, their rest condition improves by 1. For every 5 above the CR, it improves by +1.
 
 ### Result
-Do the following calculation to find out the level of the rest:
+Do the following calculation to find out the condition of the rest:
 
-rest condition level = base level + resource bonus + skill bonus
+rest condition level = resource bonus + skill bonus - difficulty
 
 Consult the table below to see how the rest affected the characters.
 
-| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                   |
-| ----- | --------------------- | ----------- | ----------- | -------- | ------------------------------------------- |
-| <=0   | Bad Condition         | 0           | level/2     | 5 hours  | DC 10-5\*condition CON save or gain 1 level |
-| 1     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                            |
-| 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
-| 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
-| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
+| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                     |
+| ----- | --------------------- | ----------- | ----------- | -------- | --------------------------------------------- |
+| <0    | Bad Condition         | 0           | level/2     | 5 hours  | DC 10 + 5\*condition CON save or gain 1 level |
+| 0     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                              |
+| 1     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                             | 
+| 2     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                             |
+| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                                |
+
+## Skipping a Rest
+When skipping a Rest, a character needs to roll a CON or PRE saving throw with DC equal to:
+- **15 + 5 \* # of consecutive days not having slept** 
+(1st day: 15, 2nd -> 20, 3rd -> 25,...)
+
+If they fail the character gains 1 level of exaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exaustion levels)
