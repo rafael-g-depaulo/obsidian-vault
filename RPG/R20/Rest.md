@@ -7,8 +7,8 @@ An adventuring character recovers HP and MP mainly through resting. There are 5 
 - **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
 - **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
 
-## Mantimentos/Rations
-Food, firewood, water... to properly rest, a party needs to expend some resources. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
+## Provisions
+Food, firewood, water... to properly rest, a party needs to expend some provisions. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
 
 ## How to recover
 When the party decides to rest, they set up camp for the night.
@@ -16,10 +16,9 @@ When the party decides to rest, they set up camp for the night.
 ### Difficulty and Rest CR
 The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 0 being a favorable and easy condition, and the higher the number, the more harsh the conditions (recommended 0-2 range for inexperienced adventurers, and to never go above 3).
 
-### Expending Resources
+### Expending Provisions
 When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the condition of the recovery. 
 
-**Experiment with different prices**
 | amount spent per person | bonus |
 | ----------------------- | ----- |
 | 0                       | -3    |
