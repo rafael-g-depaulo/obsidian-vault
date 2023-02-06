@@ -188,11 +188,9 @@ It's recommended that the DM encourage the player's creativity and ingenuity, an
 Whether the character is allowed to roll a different skill is always at the DM's discretion.
 
 ### Skill Bonus & Skill Points
-When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2 + their Inteligence Modifier** (min 2) every levelup after that.
+When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2** every even levelup and **2 + their Inteligence Modifier** (min 2) every odd level up.
 
 A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
-
-OBS: most likely this will need to change to 2 every levelup + INT mod every even level up
 
 ##### Maximum Skill Bonus per level
 | Level | Max Skill Bonus |
@@ -473,26 +471,26 @@ Important tips:
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 |  |
-| 2nd | +1 | Beast Warrior Feat |
-| 3rd | +2 | Beast Warrior Feat |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Beast Warrior Feat, Extra Attack |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement |
-| 7th | +4 | Beast Warrior Feat |
-| 8th | +4 | Beast Warrior Feat |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Beast Warrior Feat |
-| 11th | +6 | Beast Warrior Feat |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Beast Warrior Feat |
-| 14th | +7 | Beast Warrior Feat |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Beast Warrior Feat |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Beast Warrior Feat |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Beast Warrior Feat |
+| 1st | +1 | Rage (+2) | - |
+| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
+| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 10th | +5 | Beast Warrior Feat | 3d4+CON |
+| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
+| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
+| 14th | +7 | Beast Warrior Feat | 4d4+CON |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
+| 20th | +10 | Beast Warrior Feat | 5d4+CON |
 }}
 
 
@@ -567,26 +565,26 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 |  |
-| 2nd | +1 | Champion Feat |
-| 3rd | +2 | Champion Feat |
-| 4th | +2 | Champion Feat, Attribute Score Improvement |
-| 5th | +3 | Champion Feat, Extra Attack |
-| 6th | +3 | Champion Feat, Attribute Score Improvement |
-| 7th | +4 | Champion Feat |
-| 8th | +4 | Champion Feat |
-| 9th | +5 | Champion Feat, Attribute Score Improvement |
-| 10th | +5 | Champion Feat |
-| 11th | +6 | Champion Feat |
-| 12th | +6 | Champion Feat, Attribute Score Improvement |
-| 13th | +7 | Champion Feat |
-| 14th | +7 | Champion Feat |
-| 15th | +8 | Champion Feat, Attribute Score Improvement |
-| 16th | +8 | Champion Feat |
-| 17th | +9 | Champion Feat, Attribute Score Improvement |
-| 18th | +9 | Champion Feat |
-| 19th | +10 | Champion Feat, Attribute Score Improvement |
-| 20th | +10 | Champion Feat |
+| 1st | +1 | Smite | 1d6+CON | 1d8+1 |
+| 2nd | +1 | Champion Feat, Lay on Hands | 1d6+CON | 1d8+1 |
+| 3rd | +2 | Champion Feat | 1d6+CON | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+CON | 1d8+1 |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+CON | 1d8+1 |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+CON | 1d8+1 |
+| 7th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
+| 8th | +4 | Champion Feat | 2d6+CON | 2d8+2 |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+CON | 2d8+2 |
+| 10th | +5 | Champion Feat | 3d6+CON | 3d8+3 |
+| 11th | +6 | Champion Feat | 3d6+CON | 3d8+3 |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+CON | 3d8+3 |
+| 13th | +7 | Champion Feat | 4d6+CON | 3d8+3 |
+| 14th | +7 | Champion Feat | 4d6+CON | 4d8+4 |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+CON | 4d8+4 |
+| 16th | +8 | Champion Feat | 4d6+CON | 4d8+4 |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+CON | 4d8+4 |
+| 18th | +9 | Champion Feat | 5d6+CON | 5d8+5 |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+CON | 5d8+5 |
+| 20th | +10 | Champion Feat | 5d6+CON | 5d8+5 |
 }}
 
 
@@ -674,7 +672,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - **"Tragam o próximo"**. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
 
-- **"A Melhor Defesa..."**. (Guarda Alta) Ação de Movimento (2PM): Você perde todos os PV temporários da guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
+- **"A Melhor Defesa..."**. (Guarda Alta) Ação de Movimento (1 PM): Você abaixa a guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
 
 - **Crítico Fortificador**. Quando acertar um ataque crítico, você ganha +2 Guts.
 
@@ -683,8 +681,10 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 - **Crítico Poderoso**. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
 
 - **Golpe Brutal**. (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
+
 {{pageNumber,auto}}
 \page
+
 
 - **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
 
@@ -698,7 +698,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
   
 - **Defesa Intocável**. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
 
-- **Defesa Impregnável**. (Guarda Alta) Você pode gastar 2PM e somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impregnável**. (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
 
 - **Defesa Inabalável**. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
 
@@ -1137,26 +1137,26 @@ List of spells available for a Spelgard to learn.
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 |  |
-| 2nd | +1 | Warrior Feat |
-| 3rd | +2 | Warrior Feat |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Warrior Feat, Extra Attack |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement |
-| 7th | +4 | Warrior Feat |
-| 8th | +4 | Warrior Feat |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Warrior Feat |
-| 11th | +6 | Warrior Feat |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Warrior Feat |
-| 14th | +7 | Warrior Feat |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Warrior Feat |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Warrior Feat |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Warrior Feat |
+| 1st | +1 | Precise Strike | +4 |
+| 2nd | +1 | Warrior Feat, Action Surge | +4 |
+| 3rd | +2 | Warrior Feat | +4 |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
+| 5th | +3 | Warrior Feat, Extra Attack | +4 |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
+| 7th | +4 | Warrior Feat | +8 |
+| 8th | +4 | Warrior Feat | +8 |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
+| 10th | +5 | Warrior Feat | +8 |
+| 11th | +6 | Warrior Feat | +8 |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
+| 13th | +7 | Warrior Feat | +12 |
+| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
+| 16th | +8 | Warrior Feat | +12 |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
+| 18th | +9 | Warrior Feat | +16 |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
+| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
 
@@ -1209,26 +1209,26 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 |  | 3 | 1 |
-| 2nd | +1 | Witch Feat | 4 | 1 |
-| 3rd | +2 | Witch Feat | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
-| 5th | +3 | Witch Feat | 7 | 3 |
-| 6th | +3 | Witch Feat | 8 | 3 |
-| 7th | +4 | Witch Feat | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
-| 9th | +5 | Witch Feat | 11 | 5 |
-| 10th | +5 | Witch Feat | 12 | 5 |
-| 11th | +6 | Witch Feat | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
-| 13th | +7 | Witch Feat | 15 | 7 |
-| 14th | +7 | Witch Feat | 16 | 7 |
-| 15th | +8 | Witch Feat | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
-| 17th | +9 | Witch Feat | 19 | 9 |
-| 18th | +9 | Witch Feat | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
-| 20th | +10 | Witch Feat | 22 | 9 |
+| 1st | +1 | Hex | - | 3 | 1 |
+| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
+| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
+| 5th | +3 | Witch Feat | 2 | 7 | 3 |
+| 6th | +3 | Witch Feat | 3 | 8 | 3 |
+| 7th | +4 | Witch Feat | 3 | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
+| 9th | +5 | Witch Feat | 3 | 11 | 5 |
+| 10th | +5 | Witch Feat | 4 | 12 | 5 |
+| 11th | +6 | Witch Feat | 4 | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
+| 13th | +7 | Witch Feat | 4 | 15 | 7 |
+| 14th | +7 | Witch Feat | 5 | 16 | 7 |
+| 15th | +8 | Witch Feat | 5 | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
+| 17th | +9 | Witch Feat | 5 | 19 | 9 |
+| 18th | +9 | Witch Feat | 5 | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
+| 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
 
@@ -1287,7 +1287,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Weakened.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on.
 
-- **Hex: Slowed.** The target has their movement speed halved.
+- **Hex: Slowed.** The target has their movement speed halved.  
 
 - **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
 
@@ -2785,6 +2785,17 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
+
 {{pageNumber,auto}}
 \page
 
@@ -2991,7 +3002,11 @@ ___
 
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
-- **cost:** description.
+- **+2 PM:** aumenta o  ano em +1d8+2..
+- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
+- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 5º círculo..
+- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
+- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
@@ -3094,7 +3109,10 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1 PM:** +2sqr alcance..
+- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
+- **+3 PM:** você lança +1 raio contra o alvo principal.
+- **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
 \page
 
 ### Enfeitiçar
@@ -3236,7 +3254,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
+- **+1 PM:** aumenta o ano em +1d6..
+- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..{{pageNumber,auto}}
 \page
 
 ### False Life
@@ -3279,7 +3298,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **cost:** description.
+- **+2PM:** aumente o dano em +1d10.
 
 ### Físico Divino
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -3312,7 +3331,9 @@ ___
 
 Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
-- **cost:** description.
+- **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
+- **+2 PM:** aumenta a redução na Defesa em 1..
+- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -3394,8 +3415,10 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
+Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em +1d6.
+- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
 
 ### Hail of Thorns
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
@@ -3409,7 +3432,7 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **cost:** description.{{pageNumber,auto}}
+- **+2PM:** aumenta o dano em 1d10.{{pageNumber,auto}}
 \page
 
 ### Healing Word
@@ -3455,7 +3478,7 @@ ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d10.
 
 ### Hideous Laughter
 <div class="spell-tags">enchantment trickery curse occult speech</div>
@@ -3947,7 +3970,8 @@ ___
 
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
-- **cost:** description.
+- **+2 PM:** aumenta o dano em +2d6..
+- **+3 PM:** muda a área para alvo (criaturas escolhidas). Em vez do normal, você dispara vários relâmpagos, um para cada alvo escolhido, causando 6d6 pontos de dano de eletricidade. Requer 5º círculo..
 
 ### Resistance
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -4072,7 +4096,10 @@ ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
-- **cost:** description.
+- **+1 PM:** muda o alcance para pessoal, o alvo para você, a duração para cena e a resistência para nenhuma. Em vez do normal, seus ataques corpo a corpo passam a acertar inimigos distantes. Seu alcance natural aumenta em 3m; uma criatura Média pode atacar adversários a até 4,5m, por exemplo..
+- **+2 PM:** aumenta o dano em +1d6..
+- **+4 PM:** aumenta a distância do efeito de empurrar em +3m..
+- **+5 PM:** muda o tipo do dano para essência..
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -4203,7 +4230,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **+2 PM:** Increase damage by +2d6..
+- **+1PM:** +2 to hit..
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -4275,7 +4303,9 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **cost:** description.
+- **+1 PM:** aumenta o dano em 1d8+1..
+- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
+- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -4403,9 +4433,10 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 - **Crítico:** 20/3x
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
+Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
-- **cost:** description.
+- **+2PM:** increase the initial damage by +1d12.
 
 ### Word of Radiance
 <div class="spell-tags">holy sacred radiant energy speech no trickery</div>
@@ -4433,6 +4464,8 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
 
 
@@ -4619,31 +4652,20 @@ The target is Grappled, and the grapple’s escape DC equals **8 + your Strength
 {{pageNumber,auto}}
 \page
 # Rest & Recovery
-An adventuring character recovers HP and MP mainly through resting. There are 5 different kinds of resting conditions:
+An adventuring character recovers HP and MP mainly through resting.
 
-- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
-- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a nightwatch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
-- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
-- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
-- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
-
-## Mantimentos/Rations
-Food, firewood, water... to properly rest, a party needs to expend some resources. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
+## Provisions
+Food, firewood, water... to properly rest, a party needs to expend some provisions. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
 
 ## How to recover
 When the party decides to rest, they set up camp for the night.
 
-### Base Level and Rest CR
-The DM chooses the base condition for the rest, which may be Bad, Normal or even worse. Chose a base condition level for the situation. That number can be a negative or positive one, with 1 being normal, and the lesser the number, the worse the condition is.
+### Difficulty and Rest CR
+The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 0 being a favorable and easy condition, and the higher the number, the more harsh the conditions (recommended 0-2 range for inexperienced adventurers, and to never go above 3).
 
-The DM also chooses secretly the CR of the rest, considering the location, time, weather and other adverse conditions that may apply.
+### Expending Provisions
+When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the condition of the recovery. 
 
-Recommendation for CR: 15 - (5* base level of rest)
-
-### Expending Resources
-When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the level of the recovery. 
-
-**Experiment with different prices**
 | amount spent per person | bonus |
 | ----------------------- | ----- |
 | 0                       | -3    |
@@ -4654,24 +4676,39 @@ When resting, expending more or less resources has an effect on the quality of t
 | 150 silver              | +3    |
 
 ### Skills
-A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). 
+A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC for this roll is:
+- **5 + (5 \* difficulty)**
 
-The character then rolls a skill check against the Rest CR chosen by the DM. If they pass it, the Rest Level is increased by 1. For every 5 above the CR, the level is increased by another 1 point.
+If they pass the check, their rest condition improves by 1. For every 5 above the CR, it improves by +1.
 
 ### Result
-Do the following calculation to find out the level of the rest:
+Do the following calculation to find out the condition of the rest:
 
-rest condition level = base level + resource bonus + skill bonus
+rest condition level = resource bonus + skill bonus - difficulty
 
 Consult the table below to see how the rest affected the characters.
 
-| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                   |
-| ----- | --------------------- | ----------- | ----------- | -------- | ------------------------------------------- |
-| <=0   | Bad Condition         | 0           | level/2     | 5 hours  | DC 10-5\*condition CON save or gain 1 level |
-| 1     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                            |
-| 2     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                           |
-| 3     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                           |
-| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                              |
+| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                     |
+| ----- | --------------------- | ----------- | ----------- | -------- | --------------------------------------------- |
+| <0    | Bad Condition         | 0           | level/2     | 5 hours  | DC 10 + 5\*condition CON save or gain 1 level |
+| 0     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                              |
+| 1     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                             | 
+| 2     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                             |
+| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                                |
+
+#### Descriptions and examples of resting conditions
+- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
+- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a nightwatch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
+- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
+
+## Skipping a Rest
+When skipping a Rest, a character needs to roll a CON or PRE saving throw with DC equal to:
+- **15 + 5 \* \# of consecutive days not having slept** 
+(1st day: 15, 2nd -> 20, 3rd -> 25,...)
+
+If they fail the character gains 1 level of exaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exaustion levels)
 
 
 {{pageNumber,auto}}
