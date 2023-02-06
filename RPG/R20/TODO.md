@@ -1,4 +1,3 @@
 - [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)]
-- [ ] Write up spell attack/save rules, with crit in mind
 - [ ] think up counterspell (you can counterspell as a prepared action with a spell with at least 1 tag in common. there's a feat to be able to do it as a reaction)
 - [ ] add size rules
