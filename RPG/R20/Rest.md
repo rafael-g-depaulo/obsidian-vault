@@ -1,11 +1,5 @@
 # Rest & Recovery
-An adventuring character recovers HP and MP mainly through resting. There are 5 different kinds of resting conditions:
-
-- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
-- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a nightwatch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
-- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
-- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
-- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
+An adventuring character recovers HP and MP mainly through resting.
 
 ## Provisions
 Food, firewood, water... to properly rest, a party needs to expend some provisions. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
@@ -49,9 +43,16 @@ Consult the table below to see how the rest affected the characters.
 | 2     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                             |
 | -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                                |
 
+#### Descriptions and examples of resting conditions
+- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
+- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a nightwatch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
+- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
+
 ## Skipping a Rest
 When skipping a Rest, a character needs to roll a CON or PRE saving throw with DC equal to:
-- **15 + 5 \* # of consecutive days not having slept** 
+- **15 + 5 \* \# of consecutive days not having slept** 
 (1st day: 15, 2nd -> 20, 3rd -> 25,...)
 
 If they fail the character gains 1 level of exaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exaustion levels)
