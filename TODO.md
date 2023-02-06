@@ -9,6 +9,8 @@ kanban-plugin: basic
 - [ ] pesquisar emitRO e tal compiladores
 - [ ] financeiro janeiro
 - [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
+- [ ] comprar areia de gato
+- [ ] começar strahd tradução T20 (cap 4)
 
 
 ## doing
