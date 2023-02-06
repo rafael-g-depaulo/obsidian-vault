@@ -6,13 +6,9 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] financeiro dezembro
-- [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
-- [ ] AWS docker botar 1 (um) server pra rodar
-- [ ] falar edu adds
 - [ ] pesquisar emitRO e tal compiladores
-- [ ] SI checar trabalhos dos grupos no moodle
-- [ ] R20 simplificar rest
+- [ ] financeiro janeiro
+- [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
 
 
 ## doing
@@ -21,15 +17,21 @@ kanban-plugin: basic
 
 ## done
 
-- [ ] falar grupo matéria RPG
-- [ ] tirar prints LABFAZ thales [restore dump to docker psql](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database)
-- [ ] cobrar gena tcc
 
 
 ***
 
 ## Archive
 
+- [ ] falar grupo matéria RPG
+- [ ] tirar prints LABFAZ thales [restore dump to docker psql](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database)
+- [ ] cobrar gena tcc
+- [ ] falar edu adds
+- [ ] AWS docker botar 1 (um) server pra rodar
+- [ ] R20 simplificar rest
+- [ ] marcar psicológico (pelo menos 4 preços). 200-1k faixa de preço
+- [ ] SI checar trabalhos dos grupos no moodle
+- [ ] financeiro dezembro
 - [ ] enviar trab fp
 - [ ] pedir dinheiro crédito mãe
 - [ ] explore compiladores teams stuff
