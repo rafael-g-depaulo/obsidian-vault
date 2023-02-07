@@ -1,0 +1,25 @@
+
+- Cidade 1 lalala
+	- zumbi
+- Valaki
+	- Enxame de ratos
+	- guarda
+	- plebeu
+	- cultista
+	- fanático do culto
+	- homem corvo
+	- enxame de corvos
+	- guarda
+	- arcano
+	- mastife
+	- invocador (maligno e não-maligno)
+	- assassino
+	- fantasma
+	- sacerdota
+	- esqueleto
+	- diabrete
+	- tigre de dente de sabre
+	- vampire spawn
+	- bandit captain
+	- bandit
+- Velho Moedor de Ossos
