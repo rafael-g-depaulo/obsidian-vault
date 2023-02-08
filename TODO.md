@@ -6,31 +6,33 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] pesquisar emitRO e tal compiladores (estuda a porra do código do ludens)
 - [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
-- [ ] começar strahd tradução T20 (cap 4)
-- [ ] si notas
-- [ ] marcar natura
 - [ ] marcar strahd
-- [ ] cap 3 strahd
+- [ ] mandar nota grupo SI
+
 
 ## doing
 
 - [ ] financeiro janeiro
+- [ ] começar strahd tradução T20 (cap 4)
+- [ ] marcar natura
 
 
 ## done
 
-- [ ] conversar adds
-- [ ] comprar areia de gato
-- [ ] mandar call de marcar natura
-- [ ] si checar códigp
 
 
 ***
 
 ## Archive
 
+- [ ] conversar adds
+- [ ] comprar areia de gato
+- [ ] mandar call de marcar natura
+- [ ] si checar códigp
+- [ ] cap 3 strahd
+- [ ] si notas
+- [ ] pesquisar emitRO e tal compiladores (estuda a porra do código do ludens)
 - [ ] falar grupo matéria RPG
 - [ ] tirar prints LABFAZ thales [restore dump to docker psql](https://stackoverflow.com/questions/24718706/backup-restore-a-dockerized-postgresql-database)
 - [ ] cobrar gena tcc
