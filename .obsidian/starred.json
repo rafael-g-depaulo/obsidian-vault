@@ -9,6 +9,11 @@
       "type": "file",
       "title": "TODO",
       "path": "TODO.md"
+    },
+    {
+      "type": "file",
+      "title": "R20 - rulebook",
+      "path": "RPG/R20/Compiled/R20 - rulebook.md"
     }
   ]
 }

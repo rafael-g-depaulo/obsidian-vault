@@ -471,26 +471,26 @@ Important tips:
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
-| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
-| 10th | +5 | Beast Warrior Feat | 3d4+CON |
-| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
-| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
-| 14th | +7 | Beast Warrior Feat | 4d4+CON |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
-| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
-| 20th | +10 | Beast Warrior Feat | 5d4+CON |
+| 1st | +1 |  |
+| 2nd | +1 | Beast Warrior Feat |
+| 3rd | +2 | Beast Warrior Feat |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Beast Warrior Feat, Extra Attack |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Beast Warrior Feat |
+| 8th | +4 | Beast Warrior Feat |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Beast Warrior Feat |
+| 11th | +6 | Beast Warrior Feat |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Beast Warrior Feat |
+| 14th | +7 | Beast Warrior Feat |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Beast Warrior Feat |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Beast Warrior Feat |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Beast Warrior Feat |
 }}
 
 
@@ -818,9 +818,7 @@ List of spells available for a Plantomancer to learn.
 
 ### 1st Circle
 - [[Abençoar Alimentos]]
-- [[Animal Friendship]]
 - [[Armor of Agathys]]
-- [[Beast Bont]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
@@ -831,7 +829,6 @@ List of spells available for a Plantomancer to learn.
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
 - [[Detect Poison and Disease (Ritual)]]
-- [[Detectar Ameaças]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -845,32 +842,27 @@ List of spells available for a Plantomancer to learn.
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
-- [[Teia]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
 ### 2nd Circle
 - [[Barkskin]]
-- [[Beast Sense]]
 - [[Blindness Deafness]]
 - [[Calm Emotions]]
 - [[Crown of Madness]]
 - [[Darkvision]]
 - [[Earthbind]]
-- [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
-- [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
 - [[Warding Bond]]
 - [[Warding Wind]]
-- [[Web]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -1137,26 +1129,26 @@ List of spells available for a Spelgard to learn.
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
-| 2nd | +1 | Warrior Feat, Action Surge | +4 |
-| 3rd | +2 | Warrior Feat | +4 |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
-| 5th | +3 | Warrior Feat, Extra Attack | +4 |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
-| 7th | +4 | Warrior Feat | +8 |
-| 8th | +4 | Warrior Feat | +8 |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
-| 10th | +5 | Warrior Feat | +8 |
-| 11th | +6 | Warrior Feat | +8 |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
-| 13th | +7 | Warrior Feat | +12 |
-| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
-| 16th | +8 | Warrior Feat | +12 |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
-| 18th | +9 | Warrior Feat | +16 |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
+| 1st | +1 |  |
+| 2nd | +1 | Warrior Feat |
+| 3rd | +2 | Warrior Feat |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement |
+| 5th | +3 | Warrior Feat, Extra Attack |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement |
+| 7th | +4 | Warrior Feat |
+| 8th | +4 | Warrior Feat |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement |
+| 10th | +5 | Warrior Feat |
+| 11th | +6 | Warrior Feat |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement |
+| 13th | +7 | Warrior Feat |
+| 14th | +7 | Warrior Feat |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement |
+| 16th | +8 | Warrior Feat |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement |
+| 18th | +9 | Warrior Feat |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement |
+| 20th | +10 | Warrior Feat |
 }}
 
 
@@ -1209,26 +1201,26 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
-| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
-| 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
-| 7th | +4 | Witch Feat | 3 | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
-| 9th | +5 | Witch Feat | 3 | 11 | 5 |
-| 10th | +5 | Witch Feat | 4 | 12 | 5 |
-| 11th | +6 | Witch Feat | 4 | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
-| 13th | +7 | Witch Feat | 4 | 15 | 7 |
-| 14th | +7 | Witch Feat | 5 | 16 | 7 |
-| 15th | +8 | Witch Feat | 5 | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
-| 17th | +9 | Witch Feat | 5 | 19 | 9 |
-| 18th | +9 | Witch Feat | 5 | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
-| 20th | +10 | Witch Feat | 5 | 22 | 9 |
+| 1st | +1 |  | 3 | 1 |
+| 2nd | +1 | Witch Feat | 4 | 1 |
+| 3rd | +2 | Witch Feat | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
+| 5th | +3 | Witch Feat | 7 | 3 |
+| 6th | +3 | Witch Feat | 8 | 3 |
+| 7th | +4 | Witch Feat | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
+| 9th | +5 | Witch Feat | 11 | 5 |
+| 10th | +5 | Witch Feat | 12 | 5 |
+| 11th | +6 | Witch Feat | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
+| 13th | +7 | Witch Feat | 15 | 7 |
+| 14th | +7 | Witch Feat | 16 | 7 |
+| 15th | +8 | Witch Feat | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
+| 17th | +9 | Witch Feat | 19 | 9 |
+| 18th | +9 | Witch Feat | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
+| 20th | +10 | Witch Feat | 22 | 9 |
 }}
 
 
@@ -1347,6 +1339,7 @@ Spell List:
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Toque Vampírico]]
+
 
 
 {{pageNumber,auto}}
@@ -2785,17 +2778,6 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
-| d8  | Damage Type |
-| --- | ----------- |
-| 1   | Acid        |
-| 2   | Cold        |
-| 3   | Fire        |
-| 4   | Force       |
-| 5   | Lightning   |
-| 6   | Poison      |
-| 7   | Psychic     |
-| 8   | Thunder     |
-
 {{pageNumber,auto}}
 \page
 
@@ -3002,11 +2984,7 @@ ___
 
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
-- **+2 PM:** aumenta o  ano em +1d8+2..
-- **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
-- **+5 PM:** muda o alvo para objeto mundano Grande. Requer 5º círculo..
-- **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
-- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
+- **cost:** description.
 
 ### Detect Poison and Disease (Ritual)
 <div class="spell-tags">sacred holy recovery</div>
@@ -3109,10 +3087,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **+1 PM:** +2sqr alcance..
-- **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
-- **+3 PM:** você lança +1 raio contra o alvo principal.
-- **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### Enfeitiçar
@@ -3254,8 +3229,7 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **+1 PM:** aumenta o ano em +1d6..
-- **+1 PM:** muda a resistência para Reflexos parcial. Se passar, a criatura reduz o dano à metade; se falhar, ica em chamas (veja Condições, no Apêndice)..{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### False Life
@@ -3298,7 +3272,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **+2PM:** aumente o dano em +1d10.
+- **cost:** description.
 
 ### Físico Divino
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -3331,9 +3305,7 @@ ___
 
 Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
-- **+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item ode ser consertado, restaurando seu bônus..
-- **+2 PM:** aumenta a redução na Defesa em 1..
-- **+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6..
+- **cost:** description.
 
 ### Fog Cloud
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -3415,10 +3387,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ___
 
 A flash of light streaks toward a creature of your choice within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-- **+1 PM:** aumenta o dano em +1d6.
-- **+3 PM:** o alvo faz um teste de XXXXX. se falhar, fica cego por 1 turno..
+- **cost:** description.
 
 ### Hail of Thorns
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
@@ -3432,7 +3402,7 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **+2PM:** aumenta o dano em 1d10.{{pageNumber,auto}}
+- **cost:** description.{{pageNumber,auto}}
 \page
 
 ### Healing Word
@@ -3478,7 +3448,7 @@ ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.
 
-- **+2PM:** increase the damage by +1d10.
+- **cost:** description.
 
 ### Hideous Laughter
 <div class="spell-tags">enchantment trickery curse occult speech</div>
@@ -3970,8 +3940,7 @@ ___
 
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
-- **+2 PM:** aumenta o dano em +2d6..
-- **+3 PM:** muda a área para alvo (criaturas escolhidas). Em vez do normal, você dispara vários relâmpagos, um para cada alvo escolhido, causando 6d6 pontos de dano de eletricidade. Requer 5º círculo..
+- **cost:** description.
 
 ### Resistance
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -4096,10 +4065,7 @@ ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
-- **+1 PM:** muda o alcance para pessoal, o alvo para você, a duração para cena e a resistência para nenhuma. Em vez do normal, seus ataques corpo a corpo passam a acertar inimigos distantes. Seu alcance natural aumenta em 3m; uma criatura Média pode atacar adversários a até 4,5m, por exemplo..
-- **+2 PM:** aumenta o dano em +1d6..
-- **+4 PM:** aumenta a distância do efeito de empurrar em +3m..
-- **+5 PM:** muda o tipo do dano para essência..
+- **cost:** description.
 
 ### Sopro das Uivantes
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -4230,8 +4196,7 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **+2 PM:** Increase damage by +2d6..
-- **+1PM:** +2 to hit..
+- **cost:** description.
 
 ### Thunderclap
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -4303,9 +4268,7 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **+1 PM:** aumenta o dano em 1d8+1..
-- **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
-- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
+- **cost:** description.
 
 ### Toque Vampírico
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -4433,10 +4396,9 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 - **Crítico:** 20/3x
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.  
-Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
-- **+2PM:** increase the initial damage by +1d12.
+- **cost:** description.
 
 ### Word of Radiance
 <div class="spell-tags">holy sacred radiant energy speech no trickery</div>
@@ -4464,8 +4426,6 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
-
-Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
 
 
@@ -4508,6 +4468,16 @@ Just as upholding their Entity's values and working towards their mission can he
 
 ## Miracles
 Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mecanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
+
+### Spells as Miracles
+Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc.
+
+### Miracle casting attribute
+Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
+
+### Miracle DC
+The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
+
 
 
 {{pageNumber,auto}}

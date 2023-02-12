@@ -15,26 +15,26 @@
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
-| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
-| 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
-| 7th | +4 | Witch Feat | 3 | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
-| 9th | +5 | Witch Feat | 3 | 11 | 5 |
-| 10th | +5 | Witch Feat | 4 | 12 | 5 |
-| 11th | +6 | Witch Feat | 4 | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
-| 13th | +7 | Witch Feat | 4 | 15 | 7 |
-| 14th | +7 | Witch Feat | 5 | 16 | 7 |
-| 15th | +8 | Witch Feat | 5 | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
-| 17th | +9 | Witch Feat | 5 | 19 | 9 |
-| 18th | +9 | Witch Feat | 5 | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
-| 20th | +10 | Witch Feat | 5 | 22 | 9 |
+| 1st | +1 |  | 3 | 1 |
+| 2nd | +1 | Witch Feat | 4 | 1 |
+| 3rd | +2 | Witch Feat | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
+| 5th | +3 | Witch Feat | 7 | 3 |
+| 6th | +3 | Witch Feat | 8 | 3 |
+| 7th | +4 | Witch Feat | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
+| 9th | +5 | Witch Feat | 11 | 5 |
+| 10th | +5 | Witch Feat | 12 | 5 |
+| 11th | +6 | Witch Feat | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
+| 13th | +7 | Witch Feat | 15 | 7 |
+| 14th | +7 | Witch Feat | 16 | 7 |
+| 15th | +8 | Witch Feat | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
+| 17th | +9 | Witch Feat | 19 | 9 |
+| 18th | +9 | Witch Feat | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
+| 20th | +10 | Witch Feat | 22 | 9 |
 }}
 
 
@@ -153,3 +153,4 @@ Spell List:
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Toque Vampírico]]
+

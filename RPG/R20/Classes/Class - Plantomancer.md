@@ -99,6 +99,7 @@ EXCLUDE_TAGS:
 - necrotic
 - ilusion
 - speech
+- feral
 
 MAX_LEVEL: 3
 }}
