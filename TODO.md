@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
 - [ ] marcar strahd
 
 
@@ -14,18 +13,19 @@ kanban-plugin: basic
 
 - [ ] financeiro janeiro
 - [ ] começar strahd tradução T20 (cap 4)
-- [ ] marcar natura
 
 
 ## done
 
-- [ ] mandar nota grupo SI
 
 
 ***
 
 ## Archive
 
+- [ ] mandar nota grupo SI
+- [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
+- [ ] marcar natura
 - [ ] conversar adds
 - [ ] comprar areia de gato
 - [ ] mandar call de marcar natura
