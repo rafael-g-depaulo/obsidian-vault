@@ -34,4 +34,6 @@ Astúcia 5
 
 escudo 5
 
-insanidade 2
+insanidade 3
+
+com insanidade 3: 
