@@ -1,4 +1,4 @@
 - [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)]
 - [ ] think up counterspell (you can counterspell as a prepared action with a spell with at least 1 tag in common. there's a feat to be able to do it as a reaction)
 - [ ] add size rules
-- [ ] Add healing spir
+- [ ] Add healing spirit
