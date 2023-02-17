@@ -1,0 +1,1 @@
+Mermaid is a cool tool thing to make diagrams. it has integration with obsidian so it's really practical
