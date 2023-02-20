@@ -11,10 +11,10 @@ sequenceDiagram
 
     Frontend1->>BFF1: GET /courses
     BFF1->>Backend: GET /courses?fields=a&b&c
-    Frontend2->>BFF2: GET /courses
-    BFF2->>Backend: GET /courses?fields=a&y&z
     Backend->>BFF1: courses
     BFF1->>Frontend1: courses
+    Frontend2->>BFF2: GET /courses
+    BFF2->>Backend: GET /courses?fields=a&y&z
     Backend->>BFF2: courses
     BFF2->>Frontend2: courses
 ```
