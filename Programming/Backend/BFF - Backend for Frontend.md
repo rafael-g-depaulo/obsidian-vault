@@ -1,6 +1,5 @@
-Mermaid is a cool tool thing to make diagrams. it has integration with obsidian so it's really practical.
+Idea: have a middleware backend for every frontend you have, that works as a cleaner and nicer interface for the real backend services
 
-Ex: sequence diagram:
 ```mermaid
 
 sequenceDiagram
@@ -17,5 +16,5 @@ sequenceDiagram
     Backend->>BFF1: courses
     BFF1->>Frontend1: courses
     Backend->>BFF2: courses
-    BFF1->>Frontend2: courses
+    BFF2->>Frontend2: courses
 ```
