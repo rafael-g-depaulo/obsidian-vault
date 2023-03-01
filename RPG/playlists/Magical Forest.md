@@ -1,2 +1,5 @@
 - [Enchanted Forest - Music & Ambience ✨🌲🧚🏻](https://www.youtube.com/watch?v=XxEhuSJF780)
 - [Moonsong](https://www.youtube.com/watch?v=ubaGR4gUX3k)
+- [Swamp Sounds at Night - Frogs, Crickets, Light Rain, Forest Nature Sounds](https://www.youtube.com/watch?v=ih4_1FyVjaY)
+- [Dark Swamp | Exploration Ambience](https://www.youtube.com/watch?v=kzBx8TWcrG4)
+- [swamp music playlist](https://www.youtube.com/watch?v=wCPWkVTpzUA&list=PLvN6RN5OwB8hqWFI0K2yzmEoS8i71Tl3D)

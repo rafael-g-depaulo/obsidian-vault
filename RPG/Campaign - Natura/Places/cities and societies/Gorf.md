@@ -10,7 +10,6 @@ Gorf é o reinos dos bullywugs da árvore, um dos 3 grandes reinados da ávore, 
 - General Girno
 - Shaman Lingo
 
-
 ## Tesouros
 scrolls escritos em cascas de árvores vivas no pântano
 
