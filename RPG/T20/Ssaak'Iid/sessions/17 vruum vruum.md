@@ -12,4 +12,4 @@ essa marionete estava cuidando da taverna
 achamos essa garota no bar tbm. o kenshin foi dar em cima dela
 ![[Pasted image 20230301210317.png]]
 
-kenshin vai num encontro com ela. GG. a gente zomba do povo do "rage against humans" e compra briga com ele.
+kenshin vai num encontro com ela. GG. a gente zomba do povo do "rage against the people" e compra briga com ele.
