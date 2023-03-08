@@ -15,26 +15,26 @@
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 |  |
-| 2nd | +1 | Warrior Feat |
-| 3rd | +2 | Warrior Feat |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Warrior Feat, Extra Attack |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement |
-| 7th | +4 | Warrior Feat |
-| 8th | +4 | Warrior Feat |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Warrior Feat |
-| 11th | +6 | Warrior Feat |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Warrior Feat |
-| 14th | +7 | Warrior Feat |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Warrior Feat |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Warrior Feat |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Warrior Feat |
+| 1st | +1 | Precise Strike | +4 |
+| 2nd | +1 | Warrior Feat, Action Surge | +4 |
+| 3rd | +2 | Warrior Feat | +4 |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
+| 5th | +3 | Warrior Feat, Extra Attack | +4 |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
+| 7th | +4 | Warrior Feat | +8 |
+| 8th | +4 | Warrior Feat | +8 |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
+| 10th | +5 | Warrior Feat | +8 |
+| 11th | +6 | Warrior Feat | +8 |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
+| 13th | +7 | Warrior Feat | +12 |
+| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
+| 16th | +8 | Warrior Feat | +12 |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
+| 18th | +9 | Warrior Feat | +16 |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
+| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
 

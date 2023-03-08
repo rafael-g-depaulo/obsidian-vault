@@ -31,8 +31,253 @@
 }}
 
 
+\page
+
+{{toc,wide
+# Table Of Contents
+
+- ### [{{ R20}}{{ 1}}](#p1)
+- ### [{{ Attributes}}{{ 5}}](#p5)
+  - #### [{{ Description}}{{ 5}}](#p5)
+    - [{{ Physical Attributes}}{{ 5}}](#p5)
+    - [{{ Mental Attributes}}{{ 5}}](#p5)
+  - #### [{{ Determining Base Attribute Scores}}{{ 5}}](#p5)
+    - [{{ Rolling (discouraged)}}{{ 5}}](#p5)
+    - [{{ Score buy}}{{ 5}}](#p5)
+    - [{{ Standard array}}{{ 5}}](#p5)
+  - #### [{{ Modifiers}}{{ 5}}](#p5)
+  - #### [{{ Effects}}{{ 5}}](#p5)
+- ### [{{ Skills & Skill Checks}}{{ 6}}](#p6)
+  - #### [{{ Skills:}}{{ 6}}](#p6)
+    - [{{ Physical Stuff}}{{ 6}}](#p6)
+    - [{{ Perceiving Stuff}}{{ 6}}](#p6)
+    - [{{ Convincing Others}}{{ 6}}](#p6)
+    - [{{ Finding/Remembering/Acquiring information}}{{ 6}}](#p6)
+    - [{{ Miscellaneous}}{{ 6}}](#p6)
+    - [{{ Rest}}{{ 6}}](#p6)
+    - [{{ Tools}}{{ 6}}](#p6)
+  - #### [{{ Skill Checks}}{{ 6}}](#p6)
+    - [{{ Using a different attribute for a skill check}}{{ 6}}](#p6)
+    - [{{ Using a different skill for a skill check}}{{ 6}}](#p6)
+    - [{{ Skill Bonus & Skill Points}}{{ 7}}](#p7)
+  - #### [{{ Passive Skill Rolls}}{{ 7}}](#p7)
+- ### [{{ Archetypes}}{{ 8}}](#p8)
+  - #### [{{ Caster}}{{ 8}}](#p8)
+    - [{{ Hit Points (HP) & Mana Points (MP)}}{{ 8}}](#p8)
+    - [{{ Attribute Score Increase}}{{ 8}}](#p8)
+    - [{{ Feats}}{{ 8}}](#p8)
+    - [{{ Spells}}{{ 8}}](#p8)
+  - #### [{{ Off-Caster}}{{ 8}}](#p8)
+    - [{{ Hit Points (HP) & Mana Points (MP)}}{{ 8}}](#p8)
+    - [{{ Attribute Score Increase}}{{ 8}}](#p8)
+    - [{{ Feats}}{{ 8}}](#p8)
+    - [{{ Attacks}}{{ 8}}](#p8)
+    - [{{ Spells}}{{ 8}}](#p8)
+  - #### [{{ Specialist}}{{ 9}}](#p9)
+    - [{{ Hit Points (HP) & Mana Points (MP)}}{{ 9}}](#p9)
+    - [{{ Attribute Score Increase}}{{ 9}}](#p9)
+    - [{{ Feats}}{{ 9}}](#p9)
+    - [{{ Expertise}}{{ 9}}](#p9)
+    - [{{ Attacks}}{{ 9}}](#p9)
+    - [{{ Spells}}{{ 9}}](#p9)
+  - #### [{{ Martial}}{{ 9}}](#p9)
+    - [{{ Hit Points (HP) & Mana Points (MP)}}{{ 9}}](#p9)
+    - [{{ Attribute Score Increase}}{{ 9}}](#p9)
+    - [{{ Feats}}{{ 9}}](#p9)
+    - [{{ Attacks}}{{ 9}}](#p9)
+- ### [{{ Classes}}{{ 10}}](#p10)
+  - #### [{{ List of Classes}}{{ 10}}](#p10)
+    - [{{ Rogue}}{{ 10}}](#p10)
+    - [{{ Fighter}}{{ 10}}](#p10)
+    - [{{ Beast Warrior}}{{ 10}}](#p10)
+    - [{{ Juggernaut}}{{ 10}}](#p10)
+    - [{{ Battle Mage}}{{ 10}}](#p10)
+    - [{{ Champion}}{{ 10}}](#p10)
+    - [{{ Enhancer (Off-caster) (WIP)}}{{ 10}}](#p10)
+    - [{{ Symbiote (Martial) (WIP)}}{{ 10}}](#p10)
+    - [{{ Beast Master (Off-Caster? really complicated) (WIP)}}{{ 10}}](#p10)
+    - [{{ Medium/Summoner (WIP)}}{{ 10}}](#p10)
+    - [{{ Bard (WIP)}}{{ 10}}](#p10)
+    - [{{ Witch}}{{ 10}}](#p10)
+    - [{{ Werebeast}}{{ 10}}](#p10)
+  - #### [{{ Creating a Class}}{{ 10}}](#p10)
+    - [{{ Recommended levels to add class features by archetype}}{{ 11}}](#p11)
+- ### [{{ Beast Warrior (Martial)}}{{ 12}}](#p12)
+  - [{{ Beast Warrior Feats}}{{ 12}}](#p12)
+- ### [{{ Champion (Martial)}}{{ 14}}](#p14)
+  - [{{ Champion Feats}}{{ 14}}](#p14)
+- ### [{{ Juggernaut (Martial)}}{{ 16}}](#p16)
+  - [{{ Juggernaut Feats}}{{ 16}}](#p16)
+- ### [{{ Plantomancer (Caster)}}{{ 18}}](#p18)
+  - [{{ Plantomancer Feats}}{{ 18}}](#p18)
+  - [{{ Spell List}}{{ 19}}](#p19)
+  - #### [{{  Spells}}{{ 19}}](#p19)
+    - [{{ Cantrip}}{{ 19}}](#p19)
+    - [{{ 1st Circle}}{{ 19}}](#p19)
+    - [{{ 2nd Circle}}{{ 19}}](#p19)
+    - [{{ 3rd Circle}}{{ 20}}](#p20)
+- ### [{{ Rogue (Specialist)}}{{ 21}}](#p21)
+  - [{{ Rogue Feats}}{{ 21}}](#p21)
+- ### [{{ Spelgard (Off-Caster)}}{{ 23}}](#p23)
+  - [{{ Spelgard Feats}}{{ 23}}](#p23)
+  - [{{ Spell List}}{{ 24}}](#p24)
+  - #### [{{  Spells}}{{ 24}}](#p24)
+    - [{{ Cantrip}}{{ 24}}](#p24)
+    - [{{ 1st Circle}}{{ 24}}](#p24)
+    - [{{ 2nd Circle}}{{ 24}}](#p24)
+- ### [{{ Warrior (Martial)}}{{ 25}}](#p25)
+  - [{{ Warrior Feats}}{{ 25}}](#p25)
+	
+}}
 {{pageNumber,auto}}
 \page
+{{toc,wide
+# Table Of Contents
+- ### [{{ Witch (Caster)}}{{ 26}}](#p26)
+  - [{{ Witch Feats}}{{ 26}}](#p26)
+  - [{{ Hex List:}}{{ 27}}](#p27)
+  - #### [{{  Spells}}{{ 27}}](#p27)
+    - [{{ Cantrip}}{{ 27}}](#p27)
+    - [{{ 1st Circle}}{{ 27}}](#p27)
+    - [{{ 2nd Circle}}{{ 27}}](#p27)
+    - [{{ 3rd Circle}}{{ 27}}](#p27)
+- ### [{{ Combat}}{{ 28}}](#p28)
+  - #### [{{ Round}}{{ 28}}](#p28)
+  - #### [{{ Combat Actions}}{{ 28}}](#p28)
+    - [{{ Endurance}}{{ 28}}](#p28)
+    - [{{ Uncanny Dodge}}{{ 28}}](#p28)
+    - [{{ Attack of Opportunity}}{{ 28}}](#p28)
+    - [{{ Movement}}{{ 28}}](#p28)
+    - [{{ Dash}}{{ 28}}](#p28)
+    - [{{ Attack}}{{ 28}}](#p28)
+  - #### [{{ Attacking and Defending}}{{ 28}}](#p28)
+    - [{{ Attacking}}{{ 28}}](#p28)
+    - [{{ Defending Against an Attack, Spell or Ability}}{{ 29}}](#p29)
+  - #### [{{ Movement}}{{ 29}}](#p29)
+  - #### [{{ Maneuvers}}{{ 29}}](#p29)
+    - [{{ Grappling}}{{ 29}}](#p29)
+  - #### [{{ Manobras}}{{ 29}}](#p29)
+    - [{{ Derrubar}}{{ 29}}](#p29)
+    - [{{ Empurrar}}{{ 29}}](#p29)
+- ### [{{ Origins}}{{ 31}}](#p31)
+  - #### [{{ Origin Lists}}{{ 31}}](#p31)
+    - [{{ Generalist}}{{ 31}}](#p31)
+    - [{{ Brute}}{{ 31}}](#p31)
+    - [{{ Old Soul}}{{ 31}}](#p31)
+    - [{{ Tinkerer}}{{ 31}}](#p31)
+    - [{{ Student}}{{ 31}}](#p31)
+    - [{{ Animal Friend}}{{ 31}}](#p31)
+    - [{{ Initiate}}{{ 31}}](#p31)
+    - [{{ Loner}}{{ 31}}](#p31)
+    - [{{ Schemer}}{{ 31}}](#p31)
+    - [{{ Nature Explorer}}{{ 31}}](#p31)
+    - [{{ Researcher}}{{ 31}}](#p31)
+    - [{{ Gladiator}}{{ 31}}](#p31)
+    - [{{ Merchant}}{{ 31}}](#p31)
+    - [{{ Shunned}}{{ 31}}](#p31)
+    - [{{ Dropout}}{{ 31}}](#p31)
+- ### [{{ Proficiency}}{{ 32}}](#p32)
+- ### [{{ General Feats}}{{ 33}}](#p33)
+- ### [{{ Martial Feats}}{{ 34}}](#p34)
+- ### [{{ Caster Feats}}{{ 35}}](#p35)
+- ### [{{ Companion Feats}}{{ 36}}](#p36)
+- ### [{{ Equipment}}{{ 37}}](#p37)
+  - #### [{{ Simple Weapons}}{{ 37}}](#p37)
+  - #### [{{ Martial Weapons}}{{ 37}}](#p37)
+  - #### [{{ Armor}}{{ 37}}](#p37)
+- ### [{{ Consumable Items}}{{ 39}}](#p39)
+  - #### [{{ Potions}}{{ 39}}](#p39)
+  - #### [{{ Poisons}}{{ 39}}](#p39)
+- ### [{{ Magic Items}}{{ 40}}](#p40)
+  - [{{ MAGIC ITEM RARITY}}{{ 40}}](#p40)
+  - [{{ Magic item list}}{{ 40}}](#p40)
+  - [{{ Mochila de Carga (Bag of Holding)}}{{ 40}}](#p40)
+  - [{{ Chapéu do Estilo}}{{ 40}}](#p40)
+  - [{{ Enciclopédia do Biólogo Sumido}}{{ 40}}](#p40)
+- ### [{{ Runes}}{{ 41}}](#p41)
+- ### [{{ Crafting}}{{ 42}}](#p42)
+  - #### [{{ Crafting Roll}}{{ 42}}](#p42)
+  - #### [{{ Crafting Materials (Took mostly from D&D)}}{{ 42}}](#p42)
+- ### [{{ Spell Scrolls}}{{ 43}}](#p43)
+  - #### [{{ Casting a Spell from a Scroll}}{{ 43}}](#p43)
+  - #### [{{ Learning a Spell from a Scroll}}{{ 43}}](#p43)
+  - #### [{{ Creating Spell Scrolls}}{{ 43}}](#p43)
+  - #### [{{ Buying Spell Scrolls}}{{ 43}}](#p43)
+- ### [{{ Spells}}{{ 44}}](#p44)
+  - #### [{{ Learning Spells}}{{ 44}}](#p44)
+  - #### [{{ Prepared vs. Learned Spells}}{{ 44}}](#p44)
+    - [{{ Preparing Spells}}{{ 44}}](#p44)
+    - [{{ Casting a Non-Prepared Spell}}{{ 44}}](#p44)
+  - #### [{{ Casting Spells}}{{ 44}}](#p44)
+    - [{{ Casting while wearing armor}}{{ 44}}](#p44)
+    - [{{ Concentration}}{{ 44}}](#p44)
+  - #### [{{ Spell levels}}{{ 44}}](#p44)
+  - #### [{{ Spell Tags}}{{ 45}}](#p45)
+  - #### [{{ Flavor}}{{ 45}}](#p45)
+- ### [{{ Spell Tags}}{{ 46}}](#p46)
+  - #### [{{ Tags}}{{ 46}}](#p46)
+    - [{{ Considering:}}{{ 46}}](#p46)
+    - [{{ Tag descriptions}}{{ 46}}](#p46)
+	
+}}
+{{pageNumber,auto}}
+\page
+{{toc,wide
+# Table Of Contents
+- ### [{{ Spell List}}{{ 47}}](#p47)
+  - #### [{{ All Spells}}{{ 47}}](#p47)
+    - [{{ Cantrip}}{{ 47}}](#p47)
+    - [{{ 1st Circle}}{{ 47}}](#p47)
+    - [{{ 2nd Circle}}{{ 47}}](#p47)
+    - [{{ 3rd Circle}}{{ 48}}](#p48)
+    - [{{ 5th Circle}}{{ 48}}](#p48)
+- ### [{{ Spells}}{{ 49}}](#p49)
+- ### [{{ Contracts, Paladins & Entities}}{{ 82}}](#p82)
+  - #### [{{ Paladins}}{{ 82}}](#p82)
+  - #### [{{ Contract}}{{ 82}}](#p82)
+  - #### [{{ Favor}}{{ 82}}](#p82)
+    - [{{ "The Mana Tax"}}{{ 82}}](#p82)
+    - [{{ Working towards their Mission}}{{ 82}}](#p82)
+    - [{{ Upholding the Entity's values}}{{ 82}}](#p82)
+  - #### [{{ Losing Favor}}{{ 82}}](#p82)
+  - #### [{{ Miracles}}{{ 82}}](#p82)
+    - [{{ Spells as Miracles}}{{ 82}}](#p82)
+    - [{{ Miracle casting attribute}}{{ 82}}](#p82)
+    - [{{ Miracle DC}}{{ 82}}](#p82)
+- ### [{{ Companions}}{{ 83}}](#p83)
+  - #### [{{ Stats}}{{ 83}}](#p83)
+  - #### [{{ Companion death}}{{ 83}}](#p83)
+  - #### [{{ Rest}}{{ 83}}](#p83)
+  - #### [{{ Companion Skills}}{{ 83}}](#p83)
+- ### [{{ Conditions}}{{ 85}}](#p85)
+  - [{{ Prone}}{{ 85}}](#p85)
+  - [{{ Burning}}{{ 85}}](#p85)
+  - [{{ Frightened}}{{ 85}}](#p85)
+  - [{{ Paralyzed}}{{ 85}}](#p85)
+  - [{{ Charmed}}{{ 85}}](#p85)
+  - [{{ Blinded}}{{ 85}}](#p85)
+  - #### [{{ Light and vision}}{{ 85}}](#p85)
+  - #### [{{ Grapple}}{{ 85}}](#p85)
+- ### [{{ Rest & Recovery}}{{ 86}}](#p86)
+  - #### [{{ Provisions}}{{ 86}}](#p86)
+  - #### [{{ How to recover}}{{ 86}}](#p86)
+    - [{{ Difficulty and Rest CR}}{{ 86}}](#p86)
+    - [{{ Expending Provisions}}{{ 86}}](#p86)
+    - [{{ Skills}}{{ 86}}](#p86)
+    - [{{ Result}}{{ 86}}](#p86)
+  - #### [{{ Skipping a Rest}}{{ 86}}](#p86)
+- ### [{{ Companions}}{{ 87}}](#p87)
+  - #### [{{ Stats}}{{ 87}}](#p87)
+  - #### [{{ Companion death}}{{ 87}}](#p87)
+  - #### [{{ Rest}}{{ 87}}](#p87)
+  - #### [{{ Companion Skills}}{{ 87}}](#p87)
+}}
+
+
+
+{{pageNumber,auto}}
+\page
+
 # Attributes
 
 ## Description
@@ -702,7 +947,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - **Defesa Inabalável**. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
 
-- **Defesa Impermeável** (Guarda Alta) (Um aliado adjacente é atacado) Reação: Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impermeável** (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
 
 - **Defesa Indestrutível**. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
 
@@ -849,6 +1094,9 @@ List of spells available for a Plantomancer to learn.
 ### 2nd Circle
 - [[Barkskin]]
 - [[Blindness Deafness]]
+{{pageNumber,auto}}
+\page
+
 - [[Calm Emotions]]
 - [[Crown of Madness]]
 - [[Darkvision]]
@@ -1061,8 +1309,6 @@ Movement (2PM): For 2 turns (until the end of your second next turn), you and al
 
 ### Spell List
 
-List of spells available for a Spelgard to learn.
-
 ##  Spells
 
 ### Cantrip
@@ -1129,26 +1375,26 @@ List of spells available for a Spelgard to learn.
 ##### Warrior
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 |  |
-| 2nd | +1 | Warrior Feat |
-| 3rd | +2 | Warrior Feat |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Warrior Feat, Extra Attack |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement |
-| 7th | +4 | Warrior Feat |
-| 8th | +4 | Warrior Feat |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Warrior Feat |
-| 11th | +6 | Warrior Feat |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Warrior Feat |
-| 14th | +7 | Warrior Feat |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Warrior Feat |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Warrior Feat |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Warrior Feat |
+| 1st | +1 | Precise Strike | +4 |
+| 2nd | +1 | Warrior Feat, Action Surge | +4 |
+| 3rd | +2 | Warrior Feat | +4 |
+| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
+| 5th | +3 | Warrior Feat, Extra Attack | +4 |
+| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
+| 7th | +4 | Warrior Feat | +8 |
+| 8th | +4 | Warrior Feat | +8 |
+| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
+| 10th | +5 | Warrior Feat | +8 |
+| 11th | +6 | Warrior Feat | +8 |
+| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
+| 13th | +7 | Warrior Feat | +12 |
+| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
+| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
+| 16th | +8 | Warrior Feat | +12 |
+| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
+| 18th | +9 | Warrior Feat | +16 |
+| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
+| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
 }}
 
 
@@ -1201,26 +1447,26 @@ Begining at level 2, every time you gain a level in Warrior you gain a Warrior F
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 |  | 3 | 1 |
-| 2nd | +1 | Witch Feat | 4 | 1 |
-| 3rd | +2 | Witch Feat | 5 | 2 |
-| 4th | +2 | Witch Feat, Attribute Score Improvement | 6 | 2 |
-| 5th | +3 | Witch Feat | 7 | 3 |
-| 6th | +3 | Witch Feat | 8 | 3 |
-| 7th | +4 | Witch Feat | 9 | 4 |
-| 8th | +4 | Witch Feat, Attribute Score Improvement | 10 | 4 |
-| 9th | +5 | Witch Feat | 11 | 5 |
-| 10th | +5 | Witch Feat | 12 | 5 |
-| 11th | +6 | Witch Feat | 13 | 6 |
-| 12th | +6 | Witch Feat, Attribute Score Improvement | 14 | 6 |
-| 13th | +7 | Witch Feat | 15 | 7 |
-| 14th | +7 | Witch Feat | 16 | 7 |
-| 15th | +8 | Witch Feat | 17 | 8 |
-| 16th | +8 | Witch Feat, Attribute Score Improvement | 18 | 8 |
-| 17th | +9 | Witch Feat | 19 | 9 |
-| 18th | +9 | Witch Feat | 20 | 9 |
-| 19th | +10 | Witch Feat, Attribute Score Improvement | 21 | 9 |
-| 20th | +10 | Witch Feat | 22 | 9 |
+| 1st | +1 | Hex | - | 3 | 1 |
+| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
+| 3rd | +2 | Witch Feat | 2 | 5 | 2 |
+| 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
+| 5th | +3 | Witch Feat | 2 | 7 | 3 |
+| 6th | +3 | Witch Feat | 3 | 8 | 3 |
+| 7th | +4 | Witch Feat | 3 | 9 | 4 |
+| 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
+| 9th | +5 | Witch Feat | 3 | 11 | 5 |
+| 10th | +5 | Witch Feat | 4 | 12 | 5 |
+| 11th | +6 | Witch Feat | 4 | 13 | 6 |
+| 12th | +6 | Witch Feat, Attribute Score Improvement | 4 | 14 | 6 |
+| 13th | +7 | Witch Feat | 4 | 15 | 7 |
+| 14th | +7 | Witch Feat | 5 | 16 | 7 |
+| 15th | +8 | Witch Feat | 5 | 17 | 8 |
+| 16th | +8 | Witch Feat, Attribute Score Improvement | 5 | 18 | 8 |
+| 17th | +9 | Witch Feat | 5 | 19 | 9 |
+| 18th | +9 | Witch Feat | 5 | 20 | 9 |
+| 19th | +10 | Witch Feat, Attribute Score Improvement | 5 | 21 | 9 |
+| 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
 
@@ -2258,7 +2504,8 @@ nature -> elemental -> wild -> nature
 {{pageNumber,auto}}
 \page
 # Spell List
-. Global list of all spells, divided by circle:
+{{}}
+Global list of all spells, divided by circle:
 
 
 
@@ -2372,6 +2619,10 @@ nature -> elemental -> wild -> nature
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
+{{pageNumber,auto}}
+\page
+
+
 - [[Maximilian's Earthen Grasp]]
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
@@ -3157,13 +3408,16 @@ ___
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area
 into difficult terrain.
 
+{{pageNumber,auto}}
+\page
+
+
 A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 
 When the spell ends, the conjured plants wilt away.
 
-- **+2 PM:** Aumenta a CD em 1..
-- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..{{pageNumber,auto}}
-\page
+- **+2 PM:** Aumenta a CD em 1.
+- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr.
 
 ### Escudo
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
