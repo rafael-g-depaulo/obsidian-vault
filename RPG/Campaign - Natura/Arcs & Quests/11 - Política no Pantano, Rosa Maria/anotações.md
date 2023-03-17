@@ -24,11 +24,6 @@ CR 14
 | kaiser   | 13 -> 0  | -1        | 0    |
 | lumb     | 12 -> 0  | 0         | 0    | 
 
-dia 4 de viagem:
-- zyggs vÊ uma pedra enorme
-- kaiser tira ela do caminho
-- sucesso
-
 ouviram grito de ajuda
 
 rosa maria + planta rolou
