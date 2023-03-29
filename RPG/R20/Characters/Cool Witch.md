@@ -1,7 +1,7 @@
-# John McName
+# Cool Witch
 ## Stats
 ___
-Level 88 class (archetype)
+Level 2 [[Compiled/Classes/Class - Witch]] (archetype)
 ___
 **HP**: 88/88
 {{width:30px}}

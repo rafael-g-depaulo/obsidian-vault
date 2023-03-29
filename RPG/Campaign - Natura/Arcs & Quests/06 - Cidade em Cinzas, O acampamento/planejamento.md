@@ -3,7 +3,6 @@ encontram [[Fifinia Missilira Ticente]] e [[Hefca]] numa reunião pós-batalha.
 
 no futuro **(não agora, perto da hora de partir)** os players vão ter um encontro com Odrel
 
-
 receberam uma declaração de guerra, com a seguinte mensagem:
 
 > Os peles secas profanam o pântano.

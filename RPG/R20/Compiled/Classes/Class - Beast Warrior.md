@@ -15,26 +15,26 @@
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 |  |
-| 2nd | +1 | Beast Warrior Feat |
-| 3rd | +2 | Beast Warrior Feat |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement |
-| 5th | +3 | Beast Warrior Feat, Extra Attack |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement |
-| 7th | +4 | Beast Warrior Feat |
-| 8th | +4 | Beast Warrior Feat |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement |
-| 10th | +5 | Beast Warrior Feat |
-| 11th | +6 | Beast Warrior Feat |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement |
-| 13th | +7 | Beast Warrior Feat |
-| 14th | +7 | Beast Warrior Feat |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement |
-| 16th | +8 | Beast Warrior Feat |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement |
-| 18th | +9 | Beast Warrior Feat |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement |
-| 20th | +10 | Beast Warrior Feat |
+| 1st | +1 | Rage (+2) | - |
+| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
+| 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
+| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 7th | +4 | Beast Warrior Feat, Rage (+3) | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Wild Senses (3) | 2d4+CON |
+| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | 2d4+CON |
+| 10th | +5 | Beast Warrior Feat | 3d4+CON |
+| 11th | +6 | Beast Warrior Feat, Rage (+4) | 3d4+CON |
+| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | 3d4+CON |
+| 13th | +7 | Beast Warrior Feat, Wild Senses (4) | 3d4+CON |
+| 14th | +7 | Beast Warrior Feat | 4d4+CON |
+| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 16th | +8 | Beast Warrior Feat, Rage (+5) | 4d4+CON |
+| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | 4d4+CON |
+| 18th | +9 | Beast Warrior Feat, Wild Senses (5) | 5d4+CON |
+| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | 5d4+CON |
+| 20th | +10 | Beast Warrior Feat | 5d4+CON |
 }}
 
 
