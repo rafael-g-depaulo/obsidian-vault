@@ -39,8 +39,6 @@
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
 
-**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre). *Pré-requisito*: 14 Dex.
-
 **Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
 
 **Reflexos de Desvio.** Você pode se esconder como ação livre imediatamente após usar "**de Raspão**".
