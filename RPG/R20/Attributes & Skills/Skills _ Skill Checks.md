@@ -78,7 +78,7 @@ Whether the character is allowed to roll a different skill is always at the DM's
 When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2** every even levelup and **2 + their Inteligence Modifier** (min 2) every odd level up.
 
 A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
-
+9+2i
 ##### Maximum Skill Bonus per level
 | Level | Max Skill Bonus |
 |:-----:|:---------------:|
