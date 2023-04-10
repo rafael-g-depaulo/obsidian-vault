@@ -1,0 +1,11 @@
+| Nome                       | símbolo/fórmula                                                                                                                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| média real da população    | $\mu$                                                                                                                                                                             |
+| média da amostra           | $\bar{x}$                                                                                                                                                                         |
+| Desvio Padrão real         | $\sigma$                                                                                                                                                                          |
+| Estimador do Desvio Padrão | $$\begin{equation}\begin{split}\hat{\sigma} = \cases{\sigma, \text{se } \sigma \textit{ é conhecido} \\s, \text{se } \sigma \textit{ não é conhecido}}\end{split}\end{equation}$$ |
+| Variância Real             | $\sigma^2$                                                                                                                                                                        |
+| Variância da Amostra       | $$Var(\bar{x}) = \frac{\sigma^2}{n}$$                                                                                                                                             |
+| Desvio Padrão Real         | $$DesvioPadrao(\bar{x}) = \frac{\sigma}{\sqrt{n}}$$                                                                                                                               |
+| desvio padrão da amostra   | $$s = \frac{1}{n-1}\sum^{n}_{i=1}(x_i-\bar{x})^2$$                                                                                                                                |
+| Centro da Normal           | $$P(-z < Z < z) = 2*P(Z < z) - 1$$                                                                                                                                                |
