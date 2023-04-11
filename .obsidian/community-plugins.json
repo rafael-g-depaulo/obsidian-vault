@@ -4,5 +4,11 @@
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-outliner",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "obsidian-advanced-slides",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin",
+  "mousewheel-image-zoom",
+  "omnisearch",
+  "url-into-selection"
 ]
