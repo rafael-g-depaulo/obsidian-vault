@@ -42,5 +42,14 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

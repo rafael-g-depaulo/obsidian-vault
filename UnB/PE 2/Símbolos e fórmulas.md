@@ -9,3 +9,5 @@
 | Desvio Padrão Real         | $$DesvioPadrao(\bar{x}) = \frac{\sigma}{\sqrt{n}}$$                                                                                                                               |
 | desvio padrão da amostra   | $$s = \frac{1}{n-1}\sum^{n}_{i=1}(x_i-\bar{x})^2$$                                                                                                                                |
 | Centro da Normal           | $$P(-z < Z < z) = 2*P(Z < z) - 1$$                                                                                                                                                |
+| Intervalo de Confiança     | $$IC = x \pm z_{\alpha/2} * \frac{\sigma}{\sqrt{n}}$$                                                                                                                                                                            |
+| Z?                         | $$z_x = qnorm(1 - x)$$                                                                                                                                                                                  |

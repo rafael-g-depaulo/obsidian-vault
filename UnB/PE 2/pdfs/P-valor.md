@@ -1,0 +1,1 @@
+pra calcular o p-valor faça $P[N(0, 1) > z_{obs}]$. Ou seja, calcule a probabilidade da distribuição normal acima do z observado (**1 - pnorm() no r**)
