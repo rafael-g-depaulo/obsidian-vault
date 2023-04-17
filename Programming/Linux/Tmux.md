@@ -36,3 +36,9 @@ or just `tmux` works too
 Like vim with the leader, tmux uses a prefix key that you need to press before it's shortcuts. By default the prefix key is `<C-b>` (ctrl+b).
 
 **OBS: I'll use \<P> to denote prefix when talking about tmux shortcuts** 
+
+## Configuration
+took things mostly from [this article](https://dev.to/iggredible/useful-tmux-configuration-examples-k3g)
+
+## Plugins
+i'm using [TPM](https://github.com/tmux-plugins/tpm) to manage plugins. to install plugins, run `<P> + I`.

@@ -23,3 +23,4 @@
 
 
 
+# TODO: estudar t.test no R. parece ser mega roubado
