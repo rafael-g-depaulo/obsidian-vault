@@ -28,6 +28,13 @@ que é conhecido como a média padronizada ou como a estatística t, terá à di
 ## R
 [documentação](https://www.geeksforgeeks.org/a-guide-to-dt-qt-pt-rt-in-r/)
 
+```R
+> qt(1-(alpha/2),graus_liberdade)
+```
+
+Ex: (alpha = 5%, 37 graus de liberdade)
+![[Pasted image 20230417114520.png]]
+
 ## Exemplo
 ![[Pasted image 20230412123018.png]]
 ![[Pasted image 20230412123033.png]]
