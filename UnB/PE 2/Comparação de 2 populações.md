@@ -20,6 +20,8 @@ z_{obs} = \frac{(\overline{x}_b - \overline{x}_a) - d_0}{\sqrt{Var(X_a - X_b)}} 
 \end{split}
 \end{equation}
 $$
+
+
 ![[Pasted image 20230417110830.png]]
 
 
@@ -104,3 +106,5 @@ t_{obs} = \frac{(\bar{X}_a - \bar{X}_b) - d_0}{S_c\sqrt{\frac{1}{n_a} + \frac{1}
 \end{equation}
 $$
 ![[Pasted image 20230417113912.png]]
+
+## Comparação de duas proporções
