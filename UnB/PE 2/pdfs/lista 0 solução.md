@@ -252,3 +252,4 @@ p_{value} = 1 - pnorm(z_{obs}) = 1 - pnorm(2.087) = 0.018
 \end{split}
 \end{equation}
 $$
+## 10

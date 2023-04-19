@@ -6,8 +6,7 @@
 | Estimativa do erro padrão da média | $$s = s_{amostra}/\sqrt{n}$$ |
 
 sources:
-	- [esse slide da unifap](https://www2.unifap.br/herondino/files/2014/04/8-DISTRIBUI%C3%87%C3%83O-T-STUDENT.pdf)
-	- 
+- [esse slide da unifap](https://www2.unifap.br/herondino/files/2014/04/8-DISTRIBUI%C3%87%C3%83O-T-STUDENT.pdf)
 
 ## Variância da média
 Normalmente, a variância da população ($\sigma^2$) não é conhecida e não podemos usar a distribuição normal como a distribuição de referência para a média da amostra. Em vez disso, substituir e usar a distribuição t.
