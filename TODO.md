@@ -6,17 +6,20 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] marcar strahd
+- [ ] add https://www.tomshardware.com/how-to/fuzzy-search-linux to setup
+- [ ] go through old vimconfig and add stuff to lazyvim config
+- [ ] metade da lista 1 até quarta
 
 
 ## doing
 
-- [ ] financeiro janeiro
-- [ ] começar strahd tradução T20 (cap 4)
 
 
 ## done
 
+- [ ] financeiro janeiro
+- [ ] marcar strahd
+- [ ] começar strahd tradução T20 (cap 4)
 
 
 ***
