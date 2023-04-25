@@ -1,4 +1,3 @@
-
 encontram [[Fifinia Missilira Ticente]] e [[Hefca]] numa reunião pós-batalha. 
 
 no futuro **(não agora, perto da hora de partir)** os players vão ter um encontro com Odrel
@@ -28,7 +27,6 @@ kill count:
 - bullywug: 9
 total: 150 + 75 + 10 + 9 = 244 gold
 
-
 #### party
 kill count:
 - bullywug: 4
@@ -36,6 +34,5 @@ kill count:
 total: 30 gold + 40 silver
 
 ![[RPG/Campaign - Natura/Arcs & Quests/04 - Cidade em Chamas Reboot/planejamento#recompensa por ajudar]]
-
 
 ### 6 dias até viagem
