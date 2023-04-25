@@ -46,7 +46,14 @@ o IC de nível $100(1-\alpha)\%$ pra $\mu_a - \mu_b$ é:
 $$
 \begin{equation}
 \begin{split}
-IC = (\bar{x}_a - \bar{x}_b) \pm z_{\alpha/2}*Var(\bar{X}_a - \bar{X}_b)
+
+IC(\mu_a - \mu_b): (\bar{x}_a - \bar{x}_b) \pm z_{\alpha/2}*Var(\bar{X}_a - \bar{X}_b)
+
+\implies \\
+
+IC(\mu_a - \mu_b): (\bar{x}_a - \bar{x}_b) \pm z_{\alpha/2}*
+\sqrt{\frac{S^2_a}{n_a} + \frac{S^2_b}{n_b}}
+
 \end{split}
 \end{equation}
 $$
@@ -56,6 +63,10 @@ $$
 \begin{equation}
 \begin{split}
 z_{obs} = \frac{(\bar{x}_a - \bar{x}_b) - d_0}{Var(\bar{X}_a - \bar{X}_b)}
+\\ \\
+z_{obs} = \frac{(\bar{x}_a - \bar{x}_b) - d_0}{\sqrt{\frac{S^2_a}{n_a} + \frac{S^2_b}{n_b}}}
+
+
 \end{split}
 \end{equation}
 $$
