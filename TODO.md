@@ -9,6 +9,10 @@ kanban-plugin: basic
 - [ ] add https://www.tomshardware.com/how-to/fuzzy-search-linux to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] metade da lista 1 até quarta
+- [ ] config nvim to not hide dotfiles
+- [ ] mandar emails depto letras
+- [ ] pegar mapas no pinterest pra natura
+- [ ] falar com fê
 
 
 ## doing
@@ -17,15 +21,15 @@ kanban-plugin: basic
 
 ## done
 
-- [ ] financeiro janeiro
-- [ ] marcar strahd
-- [ ] começar strahd tradução T20 (cap 4)
 
 
 ***
 
 ## Archive
 
+- [ ] financeiro janeiro
+- [ ] marcar strahd
+- [ ] começar strahd tradução T20 (cap 4)
 - [ ] mandar nota grupo SI
 - [ ] aws watch [ECS 30min course](https://explore.skillbuilder.aws/learn/course/13597/play/60846/getting-started-with-amazon-elastic-container-service-v010100).<br><br>[24min yt](https://www.youtube.com/watch?v=_W2YeFfOvms)<br>[1h yt](https://www.youtube.com/watch?v=esISkPlnxL0)
 - [ ] marcar natura
