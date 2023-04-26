@@ -118,7 +118,7 @@ $$
 ### 2.4. pulando pq é discursiva
 
 ## 3. pulando por preguiça
-## 4. perguntar pro prof
+## 4. fazendo
 $$
 \begin{equation}
 \begin{split}
@@ -149,13 +149,20 @@ d_0 = 20 \\
 H_0: \mu_b-\mu_a \ge 20 \\
 H_a:\mu_b-\mu_a<20\\
 \text{rejeita } H_0 \iff z_{obs} > 2.326 \\
-\\
-z_{obs} = \frac{(\bar{x}_b - \bar{x}_a) - d_0}{\sqrt{\frac{S^2_b}{n_b} + \frac{S^2_a}{n_a}}}\\
-=\frac{19-20}{4}=-0.25
 \end{split}
 \end{equation}
 $$
-tá faltando um \*10 ali em cima pra ficar -2.5 mas eu não sei de onde ele tem que vir??? Perguntar pro prof hoje
+
+Aqui isso vira PE-1 porque é vira um caso de 1 população só. e o zobs a gente calcula com:
+
+$$
+\begin{equation}
+\begin{split}
+z_{obs}=\sqrt{n}\frac{\bar{x}-x_0}{s_x} \\
+= \sqrt{100}\frac{19-20}{4}=-10/4=-2.5
+\end{split}
+\end{equation}
+$$
 
 ### 4.2. Calcule p-valor
 ### 4.3. Construa um IC 99% para $\mu_b-\mu_a$
@@ -172,15 +179,15 @@ x_b=50/100=0.50\\
 \end{equation}
 $$
 ### 5.1. Construa um IC 95% para $\mu_a-\mu_b$
-n grande
+
 $$
 \begin{equation}
 \begin{split}
 \alpha=0.05 \\
-IC(\mu_a - \mu_b): (\bar{x}_a - \bar{x}_b) \pm z_{\alpha/2}*
-\sqrt{\frac{S^2_a}{n_a} + \frac{S^2_b}{n_b}}\\
-
-
+s_a,s_b\text{ desconhecidas} \implies
+IC = (\bar{x}_a - \bar{x}_b) \pm t_{\alpha/2} \sqrt{\frac{1}{n_a} + \frac{1}{n_b}}\\
+IC=0.15 \pm  qt(\alpha/2, n_a+n_b-2)*\sqrt{0.02}
+\\=
 
 \end{split}
 \end{equation}
