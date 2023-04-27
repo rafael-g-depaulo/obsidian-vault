@@ -40,5 +40,18 @@ Like vim with the leader, tmux uses a prefix key that you need to press before i
 ## Configuration
 took things mostly from [this article](https://dev.to/iggredible/useful-tmux-configuration-examples-k3g)
 
+## Copy mode
+i'm learning to use copy mode from [this article](https://dev.to/iggredible/the-easy-way-to-copy-text-in-tmux-319g#:~:text=To%20enter%20the%20copy%20mode,around%20using%20vim%20navigation%20keys.)
+
 ## Plugins
 i'm using [TPM](https://github.com/tmux-plugins/tpm) to manage plugins. to install plugins, run `<P> + I`.
+
+[tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) looks to be an interesting plugin for saving a tmux session
+
+[tmux-open](https://github.com/tmux-plugins/tmux-open) holy shit this is awesome. when having something selected on tmux:
+- `o` -> open file/folder/link (opens link in browser 😮)
+- `ctrl+o` -> open in editor (vim)
+- `shift+s` -> search (google)
+
+## Tmuxinator
+tmuxinator is a really cool tool to make template sessions (saved as yml files) and start them instantly. i like it a lot.
