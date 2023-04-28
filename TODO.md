@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] pegar mapas no pinterest pra natura
 - [ ] falar com fê
-- [ ] look into shyaml for yaml parsin in bash (pip install shyaml)
+- [ ] look into shyaml for yaml parsin in bash ([yq](https://github.com/mikefarah/yq#readme) seem to be an alternative)
 - [ ] prova pe2
 
 
