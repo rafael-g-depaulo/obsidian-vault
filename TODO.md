@@ -13,6 +13,7 @@ kanban-plugin: basic
 - [ ] mandar emails depto letras
 - [ ] pegar mapas no pinterest pra natura
 - [ ] falar com fê
+- [ ] look into shyaml for yaml parsin in bash (pip install shyaml)
 
 
 ## doing
