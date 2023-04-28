@@ -8,20 +8,23 @@ kanban-plugin: basic
 
 - [ ] add https://www.tomshardware.com/how-to/fuzzy-search-linux to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] metade da lista 1 até quarta
-- [ ] config nvim to not hide dotfiles
-- [ ] mandar emails depto letras
 - [ ] pegar mapas no pinterest pra natura
 - [ ] falar com fê
 - [ ] look into shyaml for yaml parsin in bash (pip install shyaml)
+- [ ] prova pe2
 
 
 ## doing
 
+- [ ] ativar notif do canal sig
+- [ ] metade da lista 1 até quarta
+- [ ] mandar emails depto letras
 
 
 ## done
 
+- [ ] responder sig
+- [ ] config nvim to not hide dotfiles
 
 
 ***
