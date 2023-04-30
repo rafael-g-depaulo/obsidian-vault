@@ -34,6 +34,24 @@ que é conhecido como a média padronizada ou como a estatística t, terá à di
 Ex: (alpha = 5%, 37 graus de liberdade)
 ![[Pasted image 20230417114520.png]]
 
+## IC
+$$
+\begin{equation}
+\begin{split}
+IC = \bar{x} \pm t_{\alpha/2,\ n-1}*\frac{s}{\sqrt{n}}
+\end{split}
+\end{equation}
+$$
+
+## Teste de hipótese
+$$
+\begin{equation}
+\begin{split}
+H_0: \mu > \mu_0 \implies \text{Rejeita $H_0$ se } \sqrt{n}\frac{\bar{x}-\mu_0}{S} \\
+\end{split}
+\end{equation}
+$$
+
 ## Exemplo
 ![[Pasted image 20230412123018.png]]
 ![[Pasted image 20230412123033.png]]

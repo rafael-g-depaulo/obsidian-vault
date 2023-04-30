@@ -16,13 +16,13 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] ativar notif do canal sig
 - [ ] metade da lista 1 até quarta
 - [ ] mandar emails depto letras
 
 
 ## done
 
+- [ ] ativar notif do canal sig
 - [ ] responder sig
 - [ ] config nvim to not hide dotfiles
 

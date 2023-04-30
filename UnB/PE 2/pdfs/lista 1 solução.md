@@ -184,16 +184,32 @@ $$
 \begin{equation}
 \begin{split}
 \alpha=0.05 \\
+%\hat{p}= 0.65/0.50 = 0.325\\
+\hat{p}= 0.15\\
 s_a,s_b\text{ desconhecidas} \implies
-IC = (\bar{x}_a - \bar{x}_b) \pm t_{\alpha/2} \sqrt{\frac{1}{n_a} + \frac{1}{n_b}}\\
-IC=0.15 \pm  qt(\alpha/2, n_a+n_b-2)*\sqrt{0.02}
-\\=
+IC = \hat{p} \pm z_{\alpha/2}\sqrt{\hat{p}(1-\hat{p})/n} \\
+IC = 0.15 \pm 1.960*\sqrt{0.15*0.85/200} \\
+%IC= 0.325 \pm 0.062
 
+IC=
 \end{split}
 \end{equation}
 $$
 
 ### 5.2. Com NS=5%, Teste se $H_a:\mu_a-\mu_b>0$ ($d_0=0$)
+$$
+\begin{equation}
+\begin{split}
+H_0: \mu_a- \mu_b \le 0 \\
+H_a: \mu_a  - \mu_b > 0\\
+d_0 = 0\\
+\alpha=0.05 \\
+\\
+\text{rejeita }H_a \iff z_{obs} > z_\alpha \\
+\\
+\end{split}
+\end{equation}
+$$
 
 ## 7.
 ![[Pasted image 20230426111711.png]]
@@ -209,7 +225,11 @@ n=15 \text{ (graus de liberdade)}
 \end{equation}
 $$
 ### 8.1. Calcule $P(U<6.262)$ e $P(U>27.488)$
+pchisq(6.262, 15) e 1-pchisq(27.488, 15)
+
+
 ### 8.2. Calcule a e b t.q. $P(U<a)=P(U>b)=0.05$
+qchisq(0.05, 15) e qchisq(0.95, 15)
 
 ## 10. 
 $$
@@ -223,6 +243,22 @@ s=0.067\\
 $$
 
 ### 10.1 Calcule IC para $\mu$ e $\sigma$ ($\alpha=0.10$)
+$$
+\begin{equation}
+\begin{split}
+IC (\sigma) = \frac{s^2(n-1)}{\chi^2_{n-1;\ \alpha/2}} < \sigma^2 < \frac{s^2(n-1)}{\chi^2_{n-1;\ 1-\alpha/2}} \\
+
+IC (\mu) = \bar{x} \pm z_{\alpha/2}\frac{\sigma}{\sqrt{n}} \\
+\\
+IC (\sigma^2) = 0.0084 < \sigma^2 < 0.0028 \\
+IC (\sigma) = 0.0918 < \sigma < 0.0531 \\
+\\
+IC (\mu) = 0.182 \pm 1.644*0.067/\sqrt{20} \\
+= 0.182 \pm 0.024
+
+\end{split}
+\end{equation}
+$$
 
 ## 11.
 $$

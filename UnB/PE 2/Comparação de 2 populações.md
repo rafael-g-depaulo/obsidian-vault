@@ -118,4 +118,5 @@ t_{obs} = \frac{(\bar{X}_a - \bar{X}_b) - d_0}{S_c\sqrt{\frac{1}{n_a} + \frac{1}
 $$
 ![[Pasted image 20230417113912.png]]
 
-## Comparação de duas proporções
+## Inferência para proporções
+![[Pasted image 20230430175534.png]]
