@@ -1,11 +1,9 @@
 # Função Qui^2 ($\chi ^2$)
-## Resumo
 ## R
-Talvez seja q e não p. tenho que confirmar depois
 $$
 \begin{equation}
 \begin{split}
-\chi^2_{n;\ \alpha}=\texttt{pchisqr($\alpha$, n)}
+\chi^2_{n;\ \alpha}=\texttt{qchisqr($\alpha$, n)}
 \end{split}
 \end{equation}
 $$
