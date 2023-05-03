@@ -10,27 +10,30 @@ kanban-plugin: basic
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] pegar mapas no pinterest pra natura
 - [ ] falar com fê
-- [ ] look into shyaml for yaml parsin in bash ([yq](https://github.com/mikefarah/yq#readme) seem to be an alternative)
-- [ ] prova pe2
+- [ ] checar email
+- [ ] write up yq in obsidian
+- [ ] notas de aula PE2
 
 
 ## doing
 
-- [ ] metade da lista 1 até quarta
-- [ ] mandar emails depto letras
 
 
 ## done
 
-- [ ] ativar notif do canal sig
-- [ ] responder sig
-- [ ] config nvim to not hide dotfiles
 
 
 ***
 
 ## Archive
 
+- [ ] ativar notif do canal sig
+- [ ] mandar emails depto letras
+- [ ] metade da lista 1 até quarta
+- [ ] responder sig
+- [ ] config nvim to not hide dotfiles
+- [ ] prova pe2
+- [ ] look into shyaml for yaml parsin in bash ([yq](https://github.com/mikefarah/yq#readme) seem to be an alternative)
 - [ ] financeiro janeiro
 - [ ] marcar strahd
 - [ ] começar strahd tradução T20 (cap 4)
