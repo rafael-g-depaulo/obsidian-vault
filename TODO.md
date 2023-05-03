@@ -15,6 +15,8 @@ kanban-plugin: basic
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup (and also research how to global yarn installs)
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
 - [ ] checar aws
+- [ ] add toggle-comment to vimconfig
+- [ ] add `<leader>pv` to vimconfig
 
 
 ## doing
