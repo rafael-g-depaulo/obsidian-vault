@@ -19,7 +19,6 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] falar com fê
 - [ ] PE transcribe Análise da variância
 
 
@@ -27,6 +26,7 @@ kanban-plugin: basic
 
 - [ ] checar email
 - [ ] notas de aula PE2
+- [ ] falar com fê
 
 
 ***

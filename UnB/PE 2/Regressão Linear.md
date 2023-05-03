@@ -15,8 +15,15 @@ E(Y|X=x)=g(x) \text{ (valor esperado de Y t.q. $X=x$)} \\
 \end{equation}
 $$
 
-## Estimação de $\alpha$ ($\hat\alpha$) e $\beta$ ($\hat\beta$)
-
+## Estimador de $\sigma$ ($\hat\sigma$)
+$$
+\begin{equation}
+\begin{split}
+\hat\sigma=
+\end{split}
+\end{equation}
+$$
+## Estimador de $\alpha$ ($\hat\alpha$) e $\beta$ ($\hat\beta$)
 $$
 \begin{equation}
 \begin{split}
@@ -32,7 +39,6 @@ $$
 \end{split}
 \end{equation}
 $$
-
 
 ## IC
 
