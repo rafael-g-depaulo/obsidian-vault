@@ -61,6 +61,7 @@ https://twitter.com/sketch
 
 ## CLI
 - rg (search file contents of folder?)
+- [git gud](https://github.com/GitGud-org/GitGud)
 
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e

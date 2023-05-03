@@ -13,6 +13,10 @@ kanban-plugin: basic
 - [ ] checar email
 - [ ] write up yq in obsidian
 - [ ] notas de aula PE2
+- [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
+- [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
+- [ ] add [emma](https://github.com/maticzav/emma-cli) to setup (and also research how to global yarn installs)
+- [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
 
 
 ## doing
