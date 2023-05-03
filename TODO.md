@@ -20,6 +20,7 @@ kanban-plugin: basic
 ## doing
 
 - [ ] falar com fê
+- [ ] PE transcribe Análise da variância
 
 
 ## done
