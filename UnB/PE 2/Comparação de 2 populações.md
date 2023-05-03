@@ -1,5 +1,5 @@
 ## Notas de aula
-- [[01 comparacao de medias e proporcoes.pdf]]
+- [[01.1 - comparacao de medias e proporcoes.pdf]]
 
 ## Amostras independentes
 

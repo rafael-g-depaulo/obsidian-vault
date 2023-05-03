@@ -9,22 +9,23 @@ kanban-plugin: basic
 - [ ] add https://www.tomshardware.com/how-to/fuzzy-search-linux to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] pegar mapas no pinterest pra natura
-- [ ] falar com fê
-- [ ] checar email
 - [ ] write up yq in obsidian
-- [ ] notas de aula PE2
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup (and also research how to global yarn installs)
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
+- [ ] checar aws
 
 
 ## doing
 
+- [ ] falar com fê
 
 
 ## done
 
+- [ ] checar email
+- [ ] notas de aula PE2
 
 
 ***
