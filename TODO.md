@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] checar aws
 - [ ] add toggle-comment to vimconfig
 - [ ] add `<leader>pv` to vimconfig
+- [ ] add nvim keymap for `:let @/ = ""` (clears search)
 
 
 ## doing
