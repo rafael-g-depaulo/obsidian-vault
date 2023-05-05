@@ -20,6 +20,9 @@ kanban-plugin: basic
 - [ ] add nvim keymap for `:let @/ = ""` (clears search)
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
 - [ ] nvim add keybing to swith tabs
+- [ ] add type peeking ts symbols to nvim
+- [ ] kitty open link
+- [ ] checar negócio thales AWS
 
 
 ## doing
