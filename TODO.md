@@ -18,6 +18,8 @@ kanban-plugin: basic
 - [ ] add toggle-comment to vimconfig
 - [ ] add `<leader>pv` to vimconfig
 - [ ] add nvim keymap for `:let @/ = ""` (clears search)
+- [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
+- [ ] nvim add keybing to swith tabs
 
 
 ## doing
