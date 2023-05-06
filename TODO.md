@@ -6,33 +6,34 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] add https://www.tomshardware.com/how-to/fuzzy-search-linux to setup
+- [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] pegar mapas no pinterest pra natura
-- [ ] write up yq in obsidian
+- [ ] write up yq in obsidian and add it to setup
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
-- [ ] add [emma](https://github.com/maticzav/emma-cli) to setup (and also research how to global yarn installs)
+- [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
-- [ ] checar aws
-- [ ] add toggle-comment to vimconfig
-- [ ] add `<leader>pv` to vimconfig
 - [ ] add nvim keymap for `:let @/ = ""` (clears search)
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
 - [ ] nvim add keybing to swith tabs
 - [ ] add type peeking ts symbols to nvim
-- [ ] kitty open link
-- [ ] checar negócio thales AWS
 - [ ] cobrar sig
 - [ ] buy duolingo test
 
 
 ## doing
 
+- [ ] pegar mapas no pinterest pra natura
+- [ ] comprar chaleira
+- [ ] checar aws
 
 
 ## done
 
+- [ ] checar negócio thales AWS
+- [ ] kitty open link
+- [ ] add toggle-comment to vimconfig
+- [ ] add `<leader>pv` to vimconfig
 
 
 ***

@@ -12,7 +12,8 @@ https://vitest.dev/
 https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
 
 ## Apps
-[cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
+- [cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
+- giflex (record desktop gifs)
 
 ## Extensions
 [tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)
@@ -34,6 +35,7 @@ https://twitter.com/sketch
 - rg (search file contents of folder?)
 - [git gud](https://github.com/GitGud-org/GitGud)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- fkill (fuzzy kill runninc procceses)
 
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
