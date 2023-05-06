@@ -23,24 +23,28 @@ kanban-plugin: basic
 - [ ] add type peeking ts symbols to nvim
 - [ ] kitty open link
 - [ ] checar negócio thales AWS
+- [ ] cobrar sig
+- [ ] buy duolingo test
 
 
 ## doing
 
-- [ ] PE transcribe Análise da variância
 
 
 ## done
 
-- [ ] checar email
-- [ ] notas de aula PE2
-- [ ] falar com fê
 
 
 ***
 
 ## Archive
 
+- [ ] checar email
+- [ ] notas de aula PE2
+- [ ] falar com fê
+- [ ] add `<leader>pv` to vimconfig
+- [ ] add toggle-comment to vimconfig
+- [ ] PE transcribe Análise da variância
 - [ ] ativar notif do canal sig
 - [ ] mandar emails depto letras
 - [ ] metade da lista 1 até quarta
