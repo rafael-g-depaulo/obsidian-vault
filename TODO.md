@@ -19,17 +19,18 @@ kanban-plugin: basic
 - [ ] add type peeking ts symbols to nvim
 - [ ] cobrar sig
 - [ ] buy duolingo test
+- [ ] Add onefetch to setup
 
 
 ## doing
 
 - [ ] pegar mapas no pinterest pra natura
-- [ ] comprar chaleira
 - [ ] checar aws
 
 
 ## done
 
+- [ ] comprar chaleira
 - [ ] checar negócio thales AWS
 - [ ] kitty open link
 - [ ] add toggle-comment to vimconfig

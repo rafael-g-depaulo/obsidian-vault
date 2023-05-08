@@ -35,7 +35,7 @@ https://twitter.com/sketch
 - rg (search file contents of folder?)
 - [git gud](https://github.com/GitGud-org/GitGud)
 - [lazygit](https://github.com/jesseduffield/lazygit)
-- fkill (fuzzy kill runninc procceses)
+- [fkill](https://github.com/snapcrafters/fkill) (fuzzy kill runninc procceses)
 
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
