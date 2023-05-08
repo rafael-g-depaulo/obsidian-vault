@@ -21,6 +21,10 @@ kanban-plugin: basic
 - [ ] cobrar sig
 - [ ] buy duolingo test
 - [ ] Add onefetch to setup
+- [ ] kitty open link
+- [ ] checar negócio thales AWS
+- [ ] buy duolingo test
+- [ ] tmux add up/down speed/usage
 
 
 ## doing
@@ -38,6 +42,7 @@ kanban-plugin: basic
 - [ ] kitty open link
 - [ ] add toggle-comment to vimconfig
 - [ ] add `<leader>pv` to vimconfig
+- [ ] cobrar sig
 
 
 ***
