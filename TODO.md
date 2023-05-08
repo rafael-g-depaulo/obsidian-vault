@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] write up yq in obsidian and add it to setup
+- [ ] pegar mapas no pinterest pra natura
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
@@ -26,6 +27,8 @@ kanban-plugin: basic
 
 - [ ] pegar mapas no pinterest pra natura
 - [ ] checar aws
+- [ ] write up yq in obsidian
+- [ ] análise estatística de duolingo
 
 
 ## done
