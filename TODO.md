@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] write up yq in obsidian and add it to setup
 - [ ] pegar mapas no pinterest pra natura
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
@@ -18,37 +17,37 @@ kanban-plugin: basic
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
 - [ ] nvim add keybing to swith tabs
 - [ ] add type peeking ts symbols to nvim
-- [ ] cobrar sig
 - [ ] buy duolingo test
 - [ ] Add onefetch to setup
-- [ ] kitty open link
-- [ ] checar negócio thales AWS
-- [ ] buy duolingo test
 - [ ] tmux add up/down speed/usage
 
 
 ## doing
 
+- [ ] write up yq in obsidian and add it to setup
 - [ ] pegar mapas no pinterest pra natura
 - [ ] checar aws
-- [ ] write up yq in obsidian
-- [ ] análise estatística de duolingo
+- [ ] buy duolingo test
 
 
 ## done
 
-- [ ] comprar chaleira
-- [ ] checar negócio thales AWS
-- [ ] kitty open link
-- [ ] add toggle-comment to vimconfig
-- [ ] add `<leader>pv` to vimconfig
-- [ ] cobrar sig
 
 
 ***
 
 ## Archive
 
+- [ ] kitty open link
+- [ ] write up yq in obsidian
+- [ ] análise estatística de duolingo
+- [ ] cobrar sig
+- [ ] comprar chaleira
+- [ ] checar negócio thales AWS
+- [ ] kitty open link
+- [ ] add toggle-comment to vimconfig
+- [ ] add `<leader>pv` to vimconfig
+- [ ] cobrar sig
 - [ ] checar email
 - [ ] notas de aula PE2
 - [ ] falar com fê
@@ -97,9 +96,10 @@ kanban-plugin: basic
 - [ ] make char for one shot
 - [ ] preparar monitoria SI
 - [ ] make one change in AWS
+- [x] 2023-05-08 12:17 checar negócio thales AWS
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","max-archive-size":500,"show-checkboxes":true,"hide-tags-in-title":false,"archive-with-date":true,"date-picker-week-start":1}
 ```
 %%
