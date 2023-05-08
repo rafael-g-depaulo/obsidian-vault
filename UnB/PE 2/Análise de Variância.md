@@ -60,4 +60,23 @@ F=\frac{SQ_{trat}*I(J-1)}{SQ_{erro}*(I-1)} \sim F_{I-1,\ I(J-1)} \text{ (sob $H_
 $$
 
 ## Quadrados Médios
-provavelmente inútil para os exercícios/prova
+| Definição                    | Fórmula                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Quadrado médio do tratamento | $$\begin{equation}\begin{split}QM_{trat}= \frac{J}{I-1}\sum_i (\bar{y}_{i,\cdot} - \bar{y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$  |
+| Quadrado médio do erro       | $$\begin{equation}\begin{split}QM_{erro}= \frac{1}{I(J-1)}\sum_i\sum_j (\bar{y}_{i,j} - \bar{y}_{i,\cdot})^2 \\\end{split}\end{equation}$$ |
+| F observado                  | $$\begin{equation}\begin{split}F_{obs}=\frac{QM_{trat}}{QM_{erro}} \sim F_{I-1, I(J-1), \alpha}\\\end{split}\end{equation}$$               |
+
+## Comparar tratamentos $i$ e $i'$
+
+$$
+\begin{equation}
+\begin{split}
+\text{quase lá:}\\
+t_{obs}=\frac{\bar{y}_{i,\cdot}- \bar{y}_{i',\cdot} - (\mu_i - \mu_{i'})}{\sqrt{QM_{erro}}\sqrt{2/J}} \sim T_{I(J-1)} \\
+\\
+\text{e para comparar as médias de forma geral, estude a distribuição de} \\
+\frac{max(\bar{y}_{i,\cdot}) - min(\bar{y}_{i,\cdot})}{\sqrt{QM_{erro}}\sqrt{2/J}} \\
+\end{split}
+\end{equation}
+$$
+

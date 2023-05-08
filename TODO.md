@@ -20,6 +20,7 @@ kanban-plugin: basic
 - [ ] buy duolingo test
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
+- [ ] add simple terminal game
 
 
 ## doing
@@ -28,10 +29,12 @@ kanban-plugin: basic
 - [ ] pegar mapas no pinterest pra natura
 - [ ] checar aws
 - [ ] buy duolingo test
+- [ ] checar aws anasha
 
 
 ## done
 
+- [ ] checar prova PE
 
 
 ***
