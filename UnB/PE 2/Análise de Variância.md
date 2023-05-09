@@ -75,8 +75,18 @@ $$
 t_{obs}=\frac{\bar{y}_{i,\cdot}- \bar{y}_{i',\cdot} - (\mu_i - \mu_{i'})}{\sqrt{QM_{erro}}\sqrt{2/J}} \sim T_{I(J-1)} \\
 \\
 \text{e para comparar as médias de forma geral, estude a distribuição de} \\
-\frac{max(\bar{y}_{i,\cdot}) - min(\bar{y}_{i,\cdot})}{\sqrt{QM_{erro}}\sqrt{2/J}} \\
+\frac{max(\bar{y}_{i,\cdot}) - min(\bar{y}_{i,\cdot})}{\sqrt{QM_{erro}}\sqrt{2/J}} \text{ que é uma distribuição de studentized rank} \\
 \end{split}
 \end{equation}
 $$
 
+No IC (tem 1 pra cada tratamento) tem que ver se o 0 tá dentro do IC. fórmula:
+$$
+\begin{equation}
+\begin{split}
+IC (i \ne i') = \bar{y}_{i,\cdot} - \bar{y}_{i',\cdot} \pm T_{\alpha/2,\ I,\ I(J-1)}\sqrt{QM_{erro}}\sqrt{2/J} 
+\end{split}
+\end{equation}
+$$
+
+No R é `TukeyHSD`

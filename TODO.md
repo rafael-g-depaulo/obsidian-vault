@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
 - [ ] add simple terminal game
+- [ ] <C-S-l> Bitwarden atalho fazer artigo
 
 
 ## doing
@@ -30,6 +31,8 @@ kanban-plugin: basic
 - [ ] checar aws
 - [ ] buy duolingo test
 - [ ] checar aws anasha
+- [ ] tomato R stuff pe2
+- [ ] confirmar sig reunião 15
 
 
 ## done
