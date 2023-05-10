@@ -17,27 +17,28 @@ kanban-plugin: basic
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
 - [ ] nvim add keybing to swith tabs
 - [ ] add type peeking ts symbols to nvim
-- [ ] buy duolingo test
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
 - [ ] add simple terminal game
 - [ ] <C-S-l> Bitwarden atalho fazer artigo
+- [ ] vim keybinding if on rightmost panel send command tmux go to right panel
+- [ ] mermaid lógica diagrama
 
 
 ## doing
 
-- [ ] write up yq in obsidian and add it to setup
 - [ ] pegar mapas no pinterest pra natura
 - [ ] checar aws
 - [ ] buy duolingo test
-- [ ] checar aws anasha
 - [ ] tomato R stuff pe2
-- [ ] confirmar sig reunião 15
 
 
 ## done
 
 - [ ] checar prova PE
+- [ ] write up yq in obsidian and add it to setup
+- [ ] checar aws anasha
+- [ ] confirmar sig reunião 15
 
 
 ***
