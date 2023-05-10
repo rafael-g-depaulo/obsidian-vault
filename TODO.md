@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] <C-S-l> Bitwarden atalho fazer artigo
 - [ ] vim keybinding if on rightmost panel send command tmux go to right panel
 - [ ] mermaid lógica diagrama
+- [ ] gitkraken article/setup
 
 
 ## doing
@@ -31,6 +32,7 @@ kanban-plugin: basic
 - [ ] checar aws
 - [ ] buy duolingo test
 - [ ] tomato R stuff pe2
+- [ ] lista pe montar equações
 
 
 ## done

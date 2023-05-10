@@ -20,6 +20,9 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 [JSON Crack](https://jsoncrack.com/), for web and vscode
 [Rome](https://rome.tools/), a general linter made by the yarn/babel creator
 
+## Front
+- [loki](https://github.com/oblador/loki) (cli tool to run storybook in a cool headless way)
+
 ## General Use
 ### Antivirus
 [https://www.malwarebytes.com/](https://www.malwarebytes.com/)
