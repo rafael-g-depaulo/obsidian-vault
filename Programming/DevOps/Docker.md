@@ -1,4 +1,9 @@
 # Docker
+## Install
+Apparently there's this awesome script that just installs docker on any system??
+```sh
+curl -sSfL get.docker.com | bash
+```
 
 ## CLI
 ### Build Image

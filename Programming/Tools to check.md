@@ -37,6 +37,7 @@ https://twitter.com/penpotapp
 https://twitter.com/sketch
 
 ## CLI
+Apps:
 - [nnn](https://github.com/jarun/nnn) fucking amazing file explorer
 	- [fff](https://github.com/dylanaraps/fff) may be an alternative?? look into vim integration for both
 	- [broot](https://dystroy.org/broot/) seems to be a complement/alternative
@@ -50,6 +51,12 @@ https://twitter.com/sketch
 - [git gud](https://github.com/GitGud-org/GitGud)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [fkill](https://github.com/snapcrafters/fkill) (fuzzy kill runninc procceses)
+- [portal](https://github.com/SpatiumPortae/portal) cool way to send files. downside is both need to have portal installed
+
+Curated lists:
+- https://github.com/agarrharr/awesome-cli-apps
+- https://github.com/toolleeo/cli-apps
+- https://github.com/rothgar/awesome-tuis
 
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
