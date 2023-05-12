@@ -8,7 +8,6 @@ kanban-plugin: basic
 
 - [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] pegar mapas no pinterest pra natura
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
@@ -37,9 +36,6 @@ kanban-plugin: basic
 
 ## done
 
-- [x] add simple terminal game
-- [x] vim keybinding if on rightmost panel send command tmux go to right panel
-- [x] vim/tmux movement
 
 
 ***
@@ -109,6 +105,9 @@ kanban-plugin: basic
 - [x] 2023-05-12 02:19 write up yq in obsidian and add it to setup
 - [x] 2023-05-12 02:19 checar aws anasha
 - [x] 2023-05-12 02:19 confirmar sig reunião 15
+- [x] 2023-05-12 13:09 add simple terminal game
+- [x] 2023-05-12 13:09 vim keybinding if on rightmost panel send command tmux go to right panel
+- [x] 2023-05-12 13:09 vim/tmux movement
 
 %% kanban:settings
 ```

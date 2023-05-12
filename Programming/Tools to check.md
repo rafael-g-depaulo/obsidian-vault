@@ -15,6 +15,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 - [screenkey](https://www.thregr.org/~wavexx/software/screenkey/) (show keys pressed on screen)
 - [cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
 - giflex (record desktop gifs)
+- [proton mail](https://medium.com/illumination/gmail-is-dead-and-something-new-is-replacing-it-bc3623a11fbe)
 
 ## Extensions
 [tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)
@@ -57,47 +58,20 @@ https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91da
 https://www.vaultproject.io/, which i got from this article: https://dev.to/gregorygaines/stop-using-env-files-now-kp0
 
 ### Logs
-#### **Grafana**
-[**Grafana**](https://grafana.com/) is popular open-source analytics and interactive visualization web layer that provides charts, graphs and alerts for the web on being supported by compatible data sources. It also supports many different storage backends for time-series data.
-
-It allows DevOps teams to query, visualize, analyze and understand metrics no matter where they are stored. With Grafana, enterprises can create, explore, and share dashboards with teams to view and measure app performance.
-
-Grafana provides plugins, dashboards, alerts, and different user-level access for monitoring Microservices applications and for gauging their health status.
-
-Here is how to monitor Microservices using Grafana. It renders two versions of services that include,
-
--   **_Grafana cloud_** — Users can send data to Grafana cloud dashboards. Grafana Cloud Logs, Grafana Cloud Metrics, and Grafana Cloud Traces are some of the solutions offered by Google cloud.
--   **_Grafana Enterprise stack_** — It provides support for metrics and logs with Grafana installed within the infrastructure.
+- [[Programming/Graphana|Graphana]]
 
 ## Automation 
 - Make (automates pipeline stuff like fucking magic. awesome)
 
 ## unorganized stuff
-- https://responsively.app/
-
-  - test responsivity and shit
-
-https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tools-that-you-should-know-in-2022-76efa7fa711d - many stuff, including react three fiber, a cool lib to deal with 3js in react
-
-- https://www.gitbook.com/
-
-  - cool looking docs tool
-
-- https://github.com/streamich/react-use
-
-  - cool hooks lib for react
-
+- https://responsively.app (test responsivity and shit)
+- [many stuff, including react three fiber, a cool lib to deal with 3js in react](https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tools-that-you-should-know-in-2022-76efa7fa711d)
+- https://www.gitbook.com/ cool looking docs tool
+- https://github.com/streamich/react-use cool hooks lib for react
 - Railway deploypu
-
-[argo](https://argoproj.github.io/workflows/#:~:text=Argo%20Workflows%20is%20an%20open,the%20workflow%20is%20a%20container.). k8s CI/CD pipeline?
-
-https://keystonejs.com/ powerful CMS that uses prisma
-
+- [argo](https://argoproj.github.io/workflows/#:~:text=Argo%20Workflows%20is%20an%20open,the%20workflow%20is%20a%20container.). k8s CI/CD pipeline?
+- https://keystonejs.com/ powerful CMS that uses prisma
 - [infracost](https://www.tabnews.com.br/themarkwill/prevendo-custo-de-arquitetura-terraform) ferramenta de estimativa de custo de infra usando terraform
-
 - [fastify](https://www.fastify.io/) node api framework
 - [koa](https://koajs.com/) nodejs api library made by the express guys
-
 - [auto-animate](https://auto-animate.formkit.com/) auto animate JS stuff
-
-- [proton mail](https://medium.com/illumination/gmail-is-dead-and-something-new-is-replacing-it-bc3623a11fbe)
