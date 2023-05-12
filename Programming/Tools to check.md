@@ -35,6 +35,15 @@ https://twitter.com/penpotapp
 https://twitter.com/sketch
 
 ## CLI
+- [nnn](https://github.com/jarun/nnn) fucking amazing file explorer
+	- [fff](https://github.com/dylanaraps/fff) may be an alternative?? look into vim integration for both
+	- [broot](https://dystroy.org/broot/) seems to be a complement/alternative
+- fzf
+	- complementary: [sysz](https://github.com/joehillen/sysz)
+- [bashtop](https://github.com/aristocratos/bashtop) (task manager)
+- [ctop](https://github.com/bcicen/ctop) (top-like for containers)
+- [dockly](https://github.com/lirantal/dockly) (docker container manager)
+	- [dry](https://github.com/moncho/dry) seems to be an alternative
 - rg (search file contents of folder?)
 - [git gud](https://github.com/GitGud-org/GitGud)
 - [lazygit](https://github.com/jesseduffield/lazygit)
