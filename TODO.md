@@ -19,9 +19,7 @@ kanban-plugin: basic
 - [ ] add type peeking ts symbols to nvim
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
-- [ ] add simple terminal game
 - [ ] <C-S-l> Bitwarden atalho fazer artigo
-- [ ] vim keybinding if on rightmost panel send command tmux go to right panel
 - [ ] mermaid lógica diagrama
 - [ ] gitkraken article/setup
 
@@ -33,14 +31,15 @@ kanban-plugin: basic
 - [ ] buy duolingo test
 - [ ] tomato R stuff pe2
 - [ ] lista pe montar equações
+- [ ] net adicionar ponto
+- [ ] mitologia server google cloud
 
 
 ## done
 
-- [ ] checar prova PE
-- [ ] write up yq in obsidian and add it to setup
-- [ ] checar aws anasha
-- [ ] confirmar sig reunião 15
+- [x] add simple terminal game
+- [x] vim keybinding if on rightmost panel send command tmux go to right panel
+- [x] vim/tmux movement
 
 
 ***
@@ -106,6 +105,10 @@ kanban-plugin: basic
 - [ ] preparar monitoria SI
 - [ ] make one change in AWS
 - [x] 2023-05-08 12:17 checar negócio thales AWS
+- [x] 2023-05-12 02:19 checar prova PE
+- [x] 2023-05-12 02:19 write up yq in obsidian and add it to setup
+- [x] 2023-05-12 02:19 checar aws anasha
+- [x] 2023-05-12 02:19 confirmar sig reunião 15
 
 %% kanban:settings
 ```

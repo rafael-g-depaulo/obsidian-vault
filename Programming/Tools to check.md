@@ -12,6 +12,7 @@ https://vitest.dev/
 https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
 
 ## Apps
+- [screenkey](https://www.thregr.org/~wavexx/software/screenkey/) (show keys pressed on screen)
 - [cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
 - giflex (record desktop gifs)
 
