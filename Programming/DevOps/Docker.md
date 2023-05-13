@@ -25,6 +25,11 @@ To stop, just run `docker container stop container_name`
 | -P   | publish ALL ports                                                                        |
 | --rm | remove container when stopped/exited                                                     |
 
+## Utils
+- [dockly](https://github.com/lirantal/dockly) (docker container manager)
+	- [dry](https://github.com/moncho/dry) seems to be an alternative
+- [ctop](https://github.com/bcicen/ctop) (top-like for containers)
+
 ## Running in WSL2
 In WSL2 there's a common problem when trying to access a server from the windows host.
 

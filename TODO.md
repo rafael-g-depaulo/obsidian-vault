@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## todo
 
 - [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
+- [ ] checar aws
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
@@ -26,16 +27,16 @@ kanban-plugin: basic
 ## doing
 
 - [ ] pegar mapas no pinterest pra natura
-- [ ] checar aws
-- [ ] buy duolingo test
-- [ ] tomato R stuff pe2
-- [ ] lista pe montar equações
 - [ ] net adicionar ponto
+- [ ] buy duolingo test
 - [ ] mitologia server google cloud
+- [ ] lista PE começar (pelo menos 1 completa. fazer artigos)
 
 
 ## done
 
+- [ ] tomato R stuff pe2
+- [ ] lista pe montar equações
 
 
 ***
