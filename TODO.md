@@ -22,15 +22,16 @@ kanban-plugin: basic
 - [ ] <C-S-l> Bitwarden atalho fazer artigo
 - [ ] mermaid lógica diagrama
 - [ ] gitkraken article/setup
+- [ ] add pygments to setup
 
 
 ## doing
 
-- [ ] pegar mapas no pinterest pra natura
-- [ ] net adicionar ponto
-- [ ] buy duolingo test
 - [ ] mitologia server google cloud
 - [ ] lista PE começar (pelo menos 1 completa. fazer artigos)
+- [ ] buy duolingo test
+- [ ] pegar mapas no pinterest pra natura
+- [ ] net adicionar ponto
 
 
 ## done

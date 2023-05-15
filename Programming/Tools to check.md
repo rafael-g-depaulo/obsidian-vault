@@ -16,6 +16,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 - [cool looking SQL client](https://terminalroot.com.br/2022/08/instale-esse-cliente-sql-que-tem-uma-interface-moderna.html?fbclid=IwAR2Z_lq9hbj9wZoeeCI2fn9dO0Xm6uXNZ4IdFmuXr7nuQomdTLtlHuGdnN0)
 - giflex (record desktop gifs)
 - [proton mail](https://medium.com/illumination/gmail-is-dead-and-something-new-is-replacing-it-bc3623a11fbe)
+- evernote/geeknote?
 
 ## Extensions
 [tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)
