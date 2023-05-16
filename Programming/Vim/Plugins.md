@@ -15,3 +15,6 @@ A lot of these are taken from [this article](https://dev.to/craftzdog/my-neovim-
 ## Git
 - [git.nvim](https://github.com/dinhhuy258/git.nvim)
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+
+## Search
+- Telescope is fucking amazing (OBS: needsa ripgrep installed on system)

@@ -4,9 +4,12 @@ kanban-plugin: basic
 
 ---
 
-## todo
+## backlog
 
+- [ ] practice test (quinta)
+- [ ] take test (domingo)
 - [ ] checar aws
+- [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
@@ -18,31 +21,25 @@ kanban-plugin: basic
 - [ ] add type peeking ts symbols to nvim
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
-- [ ] mermaid lógica diagrama
 - [ ] gitkraken article/setup
 - [ ] add pygments to setup
 - [ ] mitologia botar gcloud na conta da anasha
-- [ ] mitologia trocar cloudflare e desligar heroku
+
+
+## todo
+
 
 
 ## doing
 
 - [ ] practice terça
-- [ ] practice test (quinta)
-- [ ] take test (domingo)
-- [ ] net adicionar ponto
-- [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] pegar mapas no pinterest pra natura
+- [ ] net adicionar ponto
 
 
 ## done
 
-- [x] buy duolingo test
-- [x] lista PE começar (pelo menos 1 completa. fazer artigos)
-- [x] mitologia server google cloud
-- [x] tomato R stuff pe2
-- [x] lista pe montar equações
-- [x] <C-S-l> Bitwarden atalho fazer artigo
+- [x] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 
 
 ***
@@ -115,6 +112,12 @@ kanban-plugin: basic
 - [x] 2023-05-12 13:09 add simple terminal game
 - [x] 2023-05-12 13:09 vim keybinding if on rightmost panel send command tmux go to right panel
 - [x] 2023-05-12 13:09 vim/tmux movement
+- [x] 2023-05-16 12:10 buy duolingo test
+- [x] 2023-05-16 12:10 lista PE começar (pelo menos 1 completa. fazer artigos)
+- [x] 2023-05-16 12:10 mitologia server google cloud
+- [x] 2023-05-16 12:10 tomato R stuff pe2
+- [x] 2023-05-16 12:10 lista pe montar equações
+- [x] 2023-05-16 12:10 <C-S-l> Bitwarden atalho fazer artigo
 
 %% kanban:settings
 ```
