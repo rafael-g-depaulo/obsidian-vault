@@ -14,8 +14,8 @@ $$
 
 ## Tratamentos são iguais?
 1. Anote $J$ (Observações) e $I$ (tratamentos)
-2. Calcular $SQ_{trat}$ e $SQ_{err}$
-3. Calcule $f_{obs}$ (fórmula abaixo)
+2. Calcular $SQ_{trat}$ (ou $QM_{trat}$) e $SQ_{err}$ (ou $QM_{err}$)
+3. Calcule $f_{obs}$ (fórmula no fim da página)
 4. Calcule $F_{I-1,\ I(J-1),\ \alpha}$  (`qf(1-a, I-1, I*(J-1))` no R)
 5. Se o F do passo acima > $f_{obs}$ => não rejeita $H_0$
 
@@ -24,6 +24,8 @@ P valor disso no R é:
 1 - pf(Fobs, I-1, I(J-1))
 ```
 
+## Resumo
+![[Pasted image 20230516111914.png]]
 
 ## Estimar $\sigma^2$
 | Definição                           | Fórumula                                                                                                                          |
