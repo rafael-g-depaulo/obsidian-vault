@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 - [ ] checar aws
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
@@ -19,7 +18,6 @@ kanban-plugin: basic
 - [ ] add type peeking ts symbols to nvim
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
-- [ ] <C-S-l> Bitwarden atalho fazer artigo
 - [ ] mermaid lógica diagrama
 - [ ] gitkraken article/setup
 - [ ] add pygments to setup
@@ -29,17 +27,22 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] lista PE começar (pelo menos 1 completa. fazer artigos)
-- [ ] buy duolingo test
-- [ ] pegar mapas no pinterest pra natura
+- [ ] practice terça
+- [ ] practice test (quinta)
+- [ ] take test (domingo)
 - [ ] net adicionar ponto
+- [ ] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
+- [ ] pegar mapas no pinterest pra natura
 
 
 ## done
 
-- [ ] mitologia server google cloud
-- [ ] tomato R stuff pe2
-- [ ] lista pe montar equações
+- [x] buy duolingo test
+- [x] lista PE começar (pelo menos 1 completa. fazer artigos)
+- [x] mitologia server google cloud
+- [x] tomato R stuff pe2
+- [x] lista pe montar equações
+- [x] <C-S-l> Bitwarden atalho fazer artigo
 
 
 ***
