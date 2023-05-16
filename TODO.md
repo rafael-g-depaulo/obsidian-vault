@@ -23,11 +23,12 @@ kanban-plugin: basic
 - [ ] mermaid lógica diagrama
 - [ ] gitkraken article/setup
 - [ ] add pygments to setup
+- [ ] mitologia botar gcloud na conta da anasha
+- [ ] mitologia trocar cloudflare e desligar heroku
 
 
 ## doing
 
-- [ ] mitologia server google cloud
 - [ ] lista PE começar (pelo menos 1 completa. fazer artigos)
 - [ ] buy duolingo test
 - [ ] pegar mapas no pinterest pra natura
@@ -36,6 +37,7 @@ kanban-plugin: basic
 
 ## done
 
+- [ ] mitologia server google cloud
 - [ ] tomato R stuff pe2
 - [ ] lista pe montar equações
 

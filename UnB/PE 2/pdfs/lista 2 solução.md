@@ -15,6 +15,20 @@ H_0:\not\exists_{x, y} (\mu_x \ne \mu_y)\\
 \end{equation}
 $$
 
+$$
+\begin{equation}
+\begin{split}
+f_{obs}=\frac{SQ_{trat}*I(J-1)}{SQ_{erro}*(I-1)}=\frac{8.07*5*5}{25.33*4} \\
+=1.9912 \\
+\\
+F_{4,\ 25,\ 0.10}=2.184 \\
+F_{4,\ 25,\ 0.10} > f_{obs} \implies \text{não rejeita $H_0$}\\
+\\
+p_{valor}= P(F_{4,\ 25} > f_{obs}) = 0.127
+\end{split}
+\end{equation}
+$$
+
 ## 2.
 ![[Pasted image 20230513102049.png]]
 

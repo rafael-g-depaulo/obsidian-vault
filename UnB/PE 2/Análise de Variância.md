@@ -12,8 +12,20 @@ s_i^2= \sum_i\sum_j (y_{ij} - \bar{y}_{\cdot,\cdot})^2 \text{ copiei errado, é 
 \end{equation}
 $$
 
-## Estimar $\sigma^2$
+## Tratamentos são iguais?
+1. Anote $J$ (Observações) e $I$ (tratamentos)
+2. Calcular $SQ_{trat}$ e $SQ_{err}$
+3. Calcule $f_{obs}$ (fórmula abaixo)
+4. Calcule $F_{I-1,\ I(J-1),\ \alpha}$  (`qf(1-a, I-1, I*(J-1))` no R)
+5. Se o F do passo acima > $f_{obs}$ => não rejeita $H_0$
 
+P valor disso no R é:
+```R
+1 - pf(Fobs, I-1, I(J-1))
+```
+
+
+## Estimar $\sigma^2$
 | Definição                           | Fórumula                                                                                                                          |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Sob $H_0$                           | $$\begin{equation}\begin{split}\hat\sigma^2=\frac{1}{IJ-1}\sum_i\sum_j(y_{ij}-\bar{y}_{\cdot,\cdot})^2\end{split}\end{equation}$$ |
@@ -52,19 +64,18 @@ SQ_{total}=SQ_{trat}+SQ_{erro} \\
 \frac{1}{\sigma^2}SQ_{erro}\sim \chi^2_{I(J-1)} \\
 
 \frac{1}{\sigma^2}SQ_{trat}\sim \chi^2_{I-1} \\
-\\
-F=\frac{SQ_{trat}*I(J-1)}{SQ_{erro}*(I-1)} \sim F_{I-1,\ I(J-1)} \text{ (sob $H_0$)}
 
 \end{split}
 \end{equation}
 $$
 
 ## Quadrados Médios
-| Definição                    | Fórmula                                                                                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Quadrado médio do tratamento | $$\begin{equation}\begin{split}QM_{trat}= \frac{J}{I-1}\sum_i (\bar{y}_{i,\cdot} - \bar{y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$  |
-| Quadrado médio do erro       | $$\begin{equation}\begin{split}QM_{erro}= \frac{1}{I(J-1)}\sum_i\sum_j (\bar{y}_{i,j} - \bar{y}_{i,\cdot})^2 \\\end{split}\end{equation}$$ |
-| F observado                  | $$\begin{equation}\begin{split}F_{obs}=\frac{QM_{trat}}{QM_{erro}} \sim F_{I-1, I(J-1), \alpha}\\\end{split}\end{equation}$$               |
+| Definição                                 | Fórmula                                                                                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Quadrado médio do tratamento              | $$\begin{equation}\begin{split}QM_{trat}= \frac{J}{I-1}\sum_i (\bar{y}_{i,\cdot} - \bar{y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$  |
+| Quadrado médio do erro                    | $$\begin{equation}\begin{split}QM_{erro}= \frac{1}{I(J-1)}\sum_i\sum_j (\bar{y}_{i,j} - \bar{y}_{i,\cdot})^2 \\\end{split}\end{equation}$$ |
+| F observado                               | $$\begin{equation}\begin{split}F_{obs}=\frac{QM_{trat}}{QM_{erro}} \sim F_{I-1, I(J-1), \alpha}\\\end{split}\end{equation}$$               |
+| F observado (equivalente a formula acima) | $$F=\frac{SQ_{trat}*I(J-1)}{SQ_{erro}*(I-1)} \sim F_{I-1,\ I(J-1)} \text{ (sob $H_0$)}$$                                                                                                                                           |
 
 ## Comparar tratamentos $i$ e $i'$
 
