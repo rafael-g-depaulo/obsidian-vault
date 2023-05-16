@@ -39,7 +39,6 @@ kanban-plugin: basic
 
 ## done
 
-- [x] add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 
 
 ***
@@ -118,6 +117,7 @@ kanban-plugin: basic
 - [x] 2023-05-16 12:10 tomato R stuff pe2
 - [x] 2023-05-16 12:10 lista pe montar equações
 - [x] 2023-05-16 12:10 <C-S-l> Bitwarden atalho fazer artigo
+- [x] 2023-05-16 12:40 add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
 
 %% kanban:settings
 ```
