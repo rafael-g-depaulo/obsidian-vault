@@ -19,7 +19,7 @@ $$
 $$
 \begin{equation}
 \begin{split}
-\hat\sigma=
+\hat\sigma=\frac{1}{n-2}\sum_i(y_i-\hat\alpha -\hat\beta x_i)^2
 \end{split}
 \end{equation}
 $$
@@ -27,7 +27,7 @@ $$
 $$
 \begin{equation}
 \begin{split}
-\hat\alpha=
+\hat\alpha=\bar{y} -\hat\beta\bar{x}
 \end{split}
 \end{equation}
 $$
@@ -35,7 +35,7 @@ $$
 $$
 \begin{equation}
 \begin{split}
-\hat\beta=
+\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{(x_i-\bar{x})^2}
 \end{split}
 \end{equation}
 $$
@@ -45,7 +45,7 @@ $$
 $$
 \begin{equation}
 \begin{split}
-IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt\sum^n_{i=1}(x_i-\bar{x})^2}
+IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{\sum^n_{i=1}(x_i-\bar{x})^2}}
 \end{split}
 \end{equation}
 $$

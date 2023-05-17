@@ -11,27 +11,29 @@ kanban-plugin: basic
 - [ ] checar aws
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) to setup
+- [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) or [speed-test](https://github.com/sindresorhus/speed-test) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
-- [ ] add nvim keymap for `:let @/ = ""` (clears search)
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
 - [ ] nvim add keybing to swith tabs
 - [ ] add type peeking ts symbols to nvim
 - [ ] Add onefetch to setup
 - [ ] tmux add up/down speed/usage
 - [ ] gitkraken article/setup
-- [ ] add pygments to setup
 - [ ] mitologia botar gcloud na conta da anasha
+- [ ] add delta to setup/article
 
 
 ## todo
 
+- [ ] add pygments to setup
+- [ ] upgrade devopness account
 
 
 ## doing
 
+- [ ] falar com David
 - [ ] practice terça
 - [ ] pegar mapas no pinterest pra natura
 - [ ] net adicionar ponto
@@ -39,6 +41,7 @@ kanban-plugin: basic
 
 ## done
 
+- [x] add nvim keymap for `:let @/ = ""` (clears search)
 
 
 ***
