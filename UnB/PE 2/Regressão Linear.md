@@ -1,25 +1,10 @@
 [[03 - regressão linear simples.pdf|Notas de aula]]
 
-## Ideia
-Modelar a relação entre 2 variáveis aleatórias X e Y
-
-## Modelo
-Valor Esperado:
-$$
-\begin{equation}
-\begin{split}
-E(Y|X=x)=g(x) \text{ (valor esperado de Y t.q. $X=x$)} \\
-\\
-\epsilon=Y-g(x) \text{ (erro)} \\
-\end{split}
-\end{equation}
-$$
-
 ## Estimador de $\sigma$ ($\hat\sigma$)
 $$
 \begin{equation}
 \begin{split}
-\hat\sigma=\frac{1}{n-2}\sum_i(y_i-\hat\alpha -\hat\beta x_i)^2
+\hat\sigma^2=\frac{1}{n-2}\sum_i(y_i-\hat\alpha -\hat\beta x_i)^2
 \end{split}
 \end{equation}
 $$
@@ -28,37 +13,26 @@ $$
 \begin{equation}
 \begin{split}
 \hat\alpha=\bar{y} -\hat\beta\bar{x}
-\end{split}
-\end{equation}
-$$
-
-$$
-\begin{equation}
-\begin{split}
+\\
+\\
 \hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{(x_i-\bar{x})^2}
 \end{split}
 \end{equation}
 $$
 
 ## IC
-
 $$
 \begin{equation}
 \begin{split}
 IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{\sum^n_{i=1}(x_i-\bar{x})^2}}
-\end{split}
-\end{equation}
-$$
-$$
-\begin{equation}
-\begin{split}
+\\
+\\
 IC(\alpha): \hat\alpha\ \pm t_{n-2,\ a/2}\hat\sigma \sqrt\frac{\sum^n_{i=1}x_i^2}{n\sum^n_{i=1}(x_i-\bar{x})^2}
 \end{split}
 \end{equation}
 $$
 
 ## Teste de Hipótese ($t_{obs}$) e p-valor
-
 ### $t_{obs}$
 $$
 \begin{equation}
@@ -73,7 +47,6 @@ $$
 \end{split}
 \end{equation}
 $$
-
 ### p-valor
 $$
 \begin{equation}
@@ -121,6 +94,22 @@ $$
 \begin{equation}
 \begin{split}
 \hat\sigma^2 = \frac{(n-2)\hat\sigma^2}{\sigma^2} \sim \chi^2_{n-2}
+\end{split}
+\end{equation}
+$$
+
+## Intro/motivação
+### Ideia
+Modelar a relação entre 2 variáveis aleatórias X e Y
+
+### Modelo
+Valor Esperado:
+$$
+\begin{equation}
+\begin{split}
+E(Y|X=x)=g(x) \text{ (valor esperado de Y t.q. $X=x$)} \\
+\\
+\epsilon=Y-g(x) \text{ (erro)} \\
 \end{split}
 \end{equation}
 $$
