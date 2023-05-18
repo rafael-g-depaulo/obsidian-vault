@@ -28,13 +28,13 @@ kanban-plugin: basic
 ## todo
 
 - [ ] add pygments to setup
-- [ ] upgrade devopness account
+- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
 
 
 ## doing
 
+- [ ] upgrade devopness account
 - [ ] falar com David
-- [ ] practice terça
 - [ ] pegar mapas no pinterest pra natura
 - [ ] net adicionar ponto
 
@@ -42,6 +42,7 @@ kanban-plugin: basic
 ## done
 
 - [x] add nvim keymap for `:let @/ = ""` (clears search)
+- [x] practice terça
 
 
 ***
