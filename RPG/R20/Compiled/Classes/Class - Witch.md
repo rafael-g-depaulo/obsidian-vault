@@ -97,6 +97,8 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
 
+## Witch's Brews
+
 Spell List:
 
 ##  Spells

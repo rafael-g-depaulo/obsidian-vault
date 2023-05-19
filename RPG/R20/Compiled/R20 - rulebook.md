@@ -1283,6 +1283,8 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
 
+## Witch's Brews
+
 Spell List:
 
 ##  Spells
@@ -1667,8 +1669,6 @@ R20's formula: ceil(lv/2)
 **Healer.** As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest. *Pré-requisitos*: definir depois
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
-
-**Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre). *Pré-requisito*: 14 Dex.
 
 **Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
 
