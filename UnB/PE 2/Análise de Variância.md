@@ -54,8 +54,8 @@ $$
 | Definição                                     | Fórmula                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Soma de Quadrados corrigidos pela média       | $$\begin{equation}\begin{split}SQ_{tot}=\sum_i\sum_j(Y_{i,j} - \overline{Y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$     |
-| Soma de quadrados explicada pelos tratamentos | $$\begin{equation}\begin{split}SQ_{trat}=J\sum_i(\overline{Y}_{i,j}-Y_{i,\cdot})^2=(J-1)\sum_iS_i^2\end{split}\end{equation}$$ |
-| Soma de quadrados do erro                     | $$\begin{equation}\begin{split}SQ_{erro}=\sum_j\sum_i(\overline{y}_{i,j}-\overline{y}_{i,\cdot})^2\end{split}\end{equation}$$                                                                                                                               |
+| Soma de quadrados explicada pelos tratamentos | $$\begin{equation}\begin{split}SQ_{trat}=J\sum_i(\overline{Y}_{i,j}-Y_{i,\cdot})^2=J\sum_i(\overline{Y}_{i,\cdot} - \overline{Y}_{\cdot,\cdot})^2\end{split}\end{equation}$$ |
+| Soma de quadrados do erro                     | $$\begin{equation}\begin{split}SQ_{erro}=\sum_j\sum_i(\overline{y}_{i,j}-\overline{y}_{i,\cdot})^2=(J-1)\sum_iS_i^2\end{split}\end{equation}$$                                                                                                                               |
 
 ### Observações importantes
 $$
@@ -78,7 +78,7 @@ $$
 | Quadrado médio do erro                    | $$\begin{equation}\begin{split}QM_{erro}= \frac{1}{I(J-1)}\sum_i\sum_j (\bar{y}_{i,j} - \bar{y}_{i,\cdot})^2 \\\end{split}\end{equation}$$ |
 | F observado                               | $$\begin{equation}\begin{split}F_{obs}=\frac{QM_{trat}}{QM_{erro}} \sim F_{I-1, I(J-1), \alpha}\\\end{split}\end{equation}$$               |
 | F observado (equivalente a formula acima) | $$F=\frac{SQ_{trat}*I(J-1)}{SQ_{erro}*(I-1)} \sim F_{I-1,\ I(J-1)} \text{ (sob $H_0$)}$$                                                                                                                                           |
-
+|p-valor| $$p_{valor}=P(F_{I-1, I(J-1), \alpha} > F_{obs}) \text{ "\texttt{1-pf(Fobs, I-1, I*(J-1))}" no R)}$$|
 ## Comparar tratamentos $i$ e $i'$
 
 $$
