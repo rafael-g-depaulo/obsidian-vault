@@ -961,6 +961,7 @@ Spell List:
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Wither and Bloom ]]
 
 ### 3rd Circle
 - [[Camuflagem ilusória]]

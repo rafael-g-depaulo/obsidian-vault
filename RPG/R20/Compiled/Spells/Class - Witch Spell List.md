@@ -43,6 +43,7 @@
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Wither and Bloom ]]
 
 ### 3rd Circle
 - [[Camuflagem ilusória]]
@@ -746,3 +747,21 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 - **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
+
+### Wither and Bloom 
+<div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** ponto (raio de 2sqr)
+- **Duração:** imediata
+- **Resistência:** CON
+___
+
+You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
+
+In addition, one creature of your choice in that area can regain HP equal to their level.
+
+- **+2PM:** Aumente o dano em +1d6.
+- **+2PM:** Escolha uma criatura a mais para recuperar HP.

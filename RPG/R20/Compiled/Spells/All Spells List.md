@@ -119,6 +119,7 @@
 - [[Warding Bond]]
 - [[Warding Wind]]
 - [[Web]]
+- [[Wither and Bloom ]]
 
 ### 3rd Circle
 - [[Campo de Força]]

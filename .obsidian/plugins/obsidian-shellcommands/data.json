@@ -20,7 +20,7 @@
     {
       "id": "7bx1y1i90e",
       "platform_specific_commands": {
-        "default": "yarn compile && echo 'Compiled!'"
+        "default": "source ~/.nvm/nvm.sh && nvm use && yarn compile && echo 'Compiled!'"
       },
       "shells": {},
       "alias": "compile R20",
