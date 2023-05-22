@@ -10,23 +10,29 @@ rola 1d6:
 - 3-5: primeiro círculo
 - 1-2: truque
 
-Para cada PM gasto na invocação aumente o círculo rolado em um.
-
-Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
+Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
 
 ### Truque
-| d10  | Magia        |
-| ---- | ------------ |
-| 1-10 | Energy Blast |
+| d10  | Magia          |
+| ---- | -------------- |
+| 1-3  | Energy Blast   |
+| 4-8  | Chilling Touch |
+| 9-10 | Firebolt       | 
 
 ### 1º Círculo
-| d10  | Magia      |
-| ---- | ---------- |
-| 1-10 | Witch Bolt | 
-
-### 2º Círculo
 | d10  | Magia         |
 | ---- | ------------- |
-| 1-10 | Burning Hands | 
+| 1-3  | Bane          |
+| 4-6  | Magic Missile |
+| 7-8  | Sleep         |
+| 9-10 | Witch Bolt    |
 
-PS: todas as magias são ofensivas/negativas.
+### 2º Círculo
+| d10  | Magia                      |
+| ---- | -------------------------- |
+| 1-2  | Scorching Ray              |
+| 3-4  | Hold Person                |
+| 5-7  | Maximilian's Earthen Grasp |
+| 8-10 | Wither and Bloom           |
+
+PS: todas as magias são ofensivas/negativas/neutras, assim o personagem pode só mirar em inimigos e ter confiança que não vai curar/buffar um inimigo

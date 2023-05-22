@@ -9,7 +9,6 @@ kanban-plugin: basic
 - [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
 - [ ] net adicionar ponto
 - [ ] checar aws
-- [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) or [speed-test](https://github.com/sindresorhus/speed-test) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
@@ -31,8 +30,21 @@ kanban-plugin: basic
 - [ ] add pygments to setup
 - [ ] classe david
 - [ ] deus david (falar com nay)
+- [ ] mitologia trocar cloudflare e desligar heroku
+- [ ] mitologia testar gcloud gerenciado em vez de manual
 - [ ] deus david (MVP)
 - [ ] deus liberdade moisés
+- [ ] classe dancer moisés
+- [ ] feats werebeast
+- [ ] add tashas mind wip spell
+- [ ] add snow storm spell
+- [ ] add shatter (prolly already added)
+- [ ] add scorching ray
+- [ ] add binding ice
+- [ ] add moonbeam
+- [ ] add flame blade
+- [ ] add dust devil
+- [ ] add cordon of arrows
 
 
 ## doing

@@ -1,4 +1,4 @@
-{{class-definition "Werebeast (WIP)"
+{{class-definition "Werebeast"
 ARCHETYPE: Specialist
 EQUIPMENT_PROFICIENCIES: Light armor and light weapons.
 SAVES:
