@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## backlog
 
-- [ ] practice test (quinta)
-- [ ] take test (domingo)
+- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
+- [ ] net adicionar ponto
 - [ ] checar aws
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] go through old vimconfig and add stuff to lazyvim config
@@ -27,20 +27,24 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] take test (domingo)
 - [ ] add pygments to setup
-- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
+- [ ] classe david
+- [ ] deus david (falar com nay)
+- [ ] deus david (MVP)
+- [ ] deus liberdade moisés
 
 
 ## doing
 
-- [ ] upgrade devopness account
-- [ ] falar com David
 - [ ] pegar mapas no pinterest pra natura
-- [ ] net adicionar ponto
 
 
 ## done
 
+- [ ] upgrade devopness account
+- [ ] falar com David
+- [ ] practice test (quinta)
 - [x] add nvim keymap for `:let @/ = ""` (clears search)
 - [x] practice terça
 
