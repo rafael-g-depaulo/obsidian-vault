@@ -23,3 +23,4 @@
 **NAME_HERE.** Ação: Camuflagem/buff stealth pela cena.
 
 Magias potenciais pra pegar:
+- 

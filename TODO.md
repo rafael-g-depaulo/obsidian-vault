@@ -43,14 +43,14 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] deus david (MVP)
-- [ ] deus liberdade moisés
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
 
 
 ## done
 
+- [x] deus liberdade moisés
+- [x] deus david (MVP)
 - [x] botar psiquiatra remarcado no calendário
 - [x] classe david
 - [x] rework rest R20
