@@ -21,3 +21,5 @@
 **NAME_HERE.** Ação (mobimento??): Causar medo.
 
 **NAME_HERE.** Ação: Camuflagem/buff stealth pela cena.
+
+Magias potenciais pra pegar:
