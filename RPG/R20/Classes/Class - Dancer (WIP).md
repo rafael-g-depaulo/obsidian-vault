@@ -74,6 +74,7 @@ Ideas:
 	- ally buff? (move speed + other stuff)
 	- huge dmg to single target
 	- dance through enemies and damage them
+	- Gain an additional movement
 	- investida
 	- 3 steps: 1 attack (free action, repeatable, can be used mid movement)
 		- **Dança do Enxame**. Gaste um múltiplo de 3 **Passos de Vento**. Você pode realizar esse número de ataques a mais como ação livre nesse turno.
