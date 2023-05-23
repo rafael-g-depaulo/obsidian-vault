@@ -47,14 +47,14 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] botar psiquiatra remarcado no calendário
-- [ ] rework rest R20
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
 
 
 ## done
 
+- [x] botar psiquiatra remarcado no calendário
+- [x] rework rest R20
 - [x] pegar mapas no pinterest pra natura
 - [x] arranjar carregador ou note
 - [x] resultado análise

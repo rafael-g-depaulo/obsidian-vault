@@ -3,6 +3,12 @@
 ### Prone
 Prone target has movement speed halved, -2 defense against melee attacks and +2 against ranged ones. Standing up from prone takes a movement action. A prone target can once per turn attempt to stand up as a free action, if they pass a DC 14 Acrobatics test
 
+## Exhaustion
+For every level of exhaustion (up to 10) a character has, they have:
+- -1 to all d20 rolls
+- -1 all of their Save DCs
+If a character reaches 11th level of exhaustion, they die.
+
 ### Burning
 Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.
 

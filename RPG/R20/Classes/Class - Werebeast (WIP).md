@@ -78,7 +78,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 - **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana.
 - **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial.
 - **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice**: Você ganha um bonus de +3\*PM gasto.
-- **Purificar Linha Sanguínea.** Ação Completa (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena. *Pré-requisito:* 8º level de Werebeast. 
+- **Purificar Linha Sanguínea.** Ação Completa (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão. *Pré-requisito:* 8º level de Werebeast. 
 
 %%
 Feat ideas:
