@@ -59,7 +59,6 @@ If you lose your temporary hit points, you revert back to your human form. You c
 Begining at level 2, every time you gain a level in Werebeast you gain a Werebeast Feat. You may instead of a Werebeast feat take a Martial or General Feat of your choice.
 
 - **NOME.** Human form: Sua defesa aumenta em +2.
-- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice**: Você ganha um bonus de +3\*PM gasto.
 - **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça. 
 - **Garras Enormes.** Aumente o multiplicador de crítico dos seus ataques em forma bestial em 1.
 - **NOME.** Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso.
@@ -84,6 +83,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 - **Garras Mortais.** Seus ataques na forma bestial tem +2 de margem de ameaça. *Pré-requisito:* Garras Precisas, 5º lvl de Werebeast. 
 - **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana.
 - **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial.
+- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice**: Você ganha um bonus de +3\*PM gasto.
 - **Purificar Linha Sanguínea.** Ação Completa (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena. *Pré-requisito:* 8º level de Werebeast. 
 
 
