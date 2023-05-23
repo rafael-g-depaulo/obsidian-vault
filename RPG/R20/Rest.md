@@ -11,37 +11,36 @@ When the party decides to rest, they set up camp for the night.
 The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 0 being a favorable and easy condition, and the higher the number, the more harsh the conditions (recommended 0-2 range for inexperienced adventurers, and to never go above 3).
 
 ### Expending Provisions
-When resting, expending more or less resources has an effect on the quality of the teams' sleep. This is how the amount of resources spent affects the condition of the recovery. 
+When resting, expending more or less resources has an effect on the quality of the teams' sleep. This reduces the CD for your rest.
 
-| amount spent per person | bonus |
-| ----------------------- | ----- |
-| 0                       | -3    |
-| 2 silver                | -1    |
-| 5 silver                | 0     |
-| 20 silver               | +1    |
-| 50 silver               | +2    |
-| 150 silver              | +3    |
+| amount spent per person | CD Difference |
+| ----------------------- | ------------- |
+| 0                       | -3            |
+| 2 silver                | -1            |
+| 5 silver                | 0             |
+| 20 silver               | +1            |
+| 50 silver               | +2            |
+| 150 silver              | +3            |
 
 ### Skills
-A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC for this roll is:
-- **5 + (5 \* difficulty)**
+A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
 
-If they pass the check, their rest condition improves by 1. For every 5 above the CR, it improves by +1.
+If they pass the check, all who eat their cooking receive a +2 bonus on this rest. For every 5 above the CD, increase that by +2.
 
 ### Result
 Do the following calculation to find out the condition of the rest:
 
-rest condition level = resource bonus + skill bonus - difficulty
-
 Consult the table below to see how the rest affected the characters.
 
-| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion                                     |
-| ----- | --------------------- | ----------- | ----------- | -------- | --------------------------------------------- |
-| <0    | Bad Condition         | 0           | level/2     | 5 hours  | DC 10 + 5\*condition CON save or gain 1 level |
-| 0     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level                              |
-| 1     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels                             | 
-| 2     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels                             |
-| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers                                |
+| Level | Condition             | HP Recovery | MP Recovery | Duration | Exaustion         |
+| ----- | --------------------- | ----------- | ----------- | -------- | ----------------- |
+| <0    | Bad Condition         | 0           | level/2     | 5 hours  | See below         |
+| 0     | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
+| 1     | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
+| 2     | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
+| -     | Full Reset            | 100%        | 100%        | 1 week   | fully recovers    | 
+
+**Bad Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exaustion. Gain +1 level for every 5 below the CD.
 
 #### Descriptions and examples of resting conditions
 - **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.

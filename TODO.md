@@ -47,19 +47,19 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] pegar mapas no pinterest pra natura
-- [ ] arranjar carregador ou note
 - [ ] botar psiquiatra remarcado no calendário
-- [ ] resultado análise
+- [ ] rework rest R20
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
-- [ ] rework rest R20
 
 
 ## done
 
-- [ ] dados contador
-- [ ] deus david (falar com nay)
+- [x] pegar mapas no pinterest pra natura
+- [x] arranjar carregador ou note
+- [x] resultado análise
+- [x] dados contador
+- [x] deus david (falar com nay)
 
 
 ***
