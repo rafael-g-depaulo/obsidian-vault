@@ -25,3 +25,4 @@
 
 - [ ] Combinar com Nay se vai ser descanso gritty ou não
 - [ ] Combinar com Nay se vai ter mantimentos ou não
+- [ ] Combinar com Nay se vai ter Spooky House ou não
