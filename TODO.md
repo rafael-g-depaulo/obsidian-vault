@@ -26,10 +26,8 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] take test (domingo)
 - [ ] add pygments to setup
 - [ ] classe david
-- [ ] deus david (falar com nay)
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
 - [ ] deus david (MVP)
@@ -49,16 +47,18 @@ kanban-plugin: basic
 
 ## doing
 
+- [ ] dados contador
 - [ ] pegar mapas no pinterest pra natura
+- [ ] resultado análise
+- [ ] rodar ragic. convidar sig
+- [ ] take test (domingo)
+- [ ] arranjar carregador ou note
+- [ ] botar psiquiatra remarcado no calendário
 
 
 ## done
 
-- [ ] upgrade devopness account
-- [ ] falar com David
-- [ ] practice test (quinta)
-- [x] add nvim keymap for `:let @/ = ""` (clears search)
-- [x] practice terça
+- [ ] deus david (falar com nay)
 
 
 ***
@@ -138,6 +138,11 @@ kanban-plugin: basic
 - [x] 2023-05-16 12:10 lista pe montar equações
 - [x] 2023-05-16 12:10 <C-S-l> Bitwarden atalho fazer artigo
 - [x] 2023-05-16 12:40 add [fzf integration](https://www.tomshardware.com/how-to/fuzzy-search-linux)to setup
+- [x] 2023-05-23 10:18 upgrade devopness account
+- [x] 2023-05-23 10:18 falar com David
+- [x] 2023-05-23 10:18 practice test (quinta)
+- [x] 2023-05-23 10:18 add nvim keymap for `:let @/ = ""` (clears search)
+- [x] 2023-05-23 10:18 practice terça
 
 %% kanban:settings
 ```
