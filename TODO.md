@@ -27,13 +27,9 @@ kanban-plugin: basic
 ## todo
 
 - [ ] add pygments to setup
-- [ ] classe david
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
-- [ ] deus david (MVP)
-- [ ] deus liberdade moisés
 - [ ] classe dancer moisés
-- [ ] feats werebeast
 - [ ] add tashas mind wip spell
 - [ ] add snow storm spell
 - [ ] add shatter (prolly already added)
@@ -47,6 +43,8 @@ kanban-plugin: basic
 
 ## doing
 
+- [ ] deus david (MVP)
+- [ ] deus liberdade moisés
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
 
@@ -54,7 +52,9 @@ kanban-plugin: basic
 ## done
 
 - [x] botar psiquiatra remarcado no calendário
+- [x] classe david
 - [x] rework rest R20
+- [x] feats werebeast
 - [x] pegar mapas no pinterest pra natura
 - [x] arranjar carregador ou note
 - [x] resultado análise
