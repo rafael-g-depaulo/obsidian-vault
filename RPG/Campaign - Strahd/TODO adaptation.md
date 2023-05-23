@@ -22,3 +22,6 @@
 	- bandit captain
 	- bandit
 - Velho Moedor de Ossos
+
+- [ ] Combinar com Nay se vai ser descanso gritty ou não
+- [ ] Combinar com Nay se vai ter mantimentos ou não
