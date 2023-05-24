@@ -1,7 +1,5 @@
-## NOME_HERE
-- Trebily
-- Refe
-- Libros? n é anagrama mas funciona eu acho
+## Auvetre
+Deus da liberdade, de controle do próprio destino, da luta contra os opressores em nome dos oprimidos.
 
 ### Values
 - Autonomia

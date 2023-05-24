@@ -13,5 +13,9 @@
   "newFileLocation": "current",
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
-  "vimMode": false
+  "vimMode": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ]
 }

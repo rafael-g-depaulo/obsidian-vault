@@ -38,13 +38,18 @@ MULTI_FEATURES:
 | 20th  |               |
 }}
 
+## Alternativa 1 (a mesma que eu te mostrei antes)
 **Golpe Ritmico.** Ação Padrão (1PM): realize um ataque melee com vantagem. Se acertar, ele dá +PRE+1d4 de dano. Você ganha 2 passos de vento. every 4 levels +2PM for +1d4, +2 steps. (probably either remove adv or increase MP cost by 1)
 
-ideias alternativas/adicionais: 
-- gastar passos de vento dá dano no próximo ataque
-- a skill básica aumenta defesa em vez de dar dano
-
 **Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível) e se mover um número de quadrados adicional igual ao número de passos gastos.
+
+## Alternativa 2 (estou tendendo pra cá)
+**Ritmo de Batalha.** (1x turno) Ação Livre: Você ganha 2 **Passos de Vento**.
+**Passos de vento.** *mesmo da alternativa 1* + "Quando você gasta passos de vento seu próximo ataque dá +1d4 de dano pra cada **Passo de Vento** usado"
+
+## Alternativa 3 (talvez buffar levemente se for usar)
+**Ritmo de Batalha.** (1x turno) Ação Livre (1PM): Você ganha 2 **Passos de Vento**.
+**Passos de vento.** *mesmo da alternativa 2* + "Quando você gasta passos de vento seu próximo ataque tem +PRE no acerto (só 1x, não stacka com # de passos usados)"
 
 **Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -57,6 +62,7 @@ main mechanic:
 
 Ideas:
 - roll performance to get buffs
+- Ganha steps ao usar esquiva
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
 - gain PRE steps on initiative
