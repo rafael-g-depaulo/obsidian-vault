@@ -45,9 +45,9 @@ MULTI_FEATURES:
 
 **Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
 
-**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
+**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +3 (+2 se usando armadura) Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
 
-**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +2 Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
+**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
@@ -59,6 +59,7 @@ Feat Ideas:
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
 - pode gastar steps sem se mover
+- reaction: attack on being missed (maybe just add as a specialist feat)
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative

@@ -11,7 +11,7 @@ Below is a list of all classes and a brief description of their abilities.
 sneak attack
 
 ### Fighter
-[[Class - Warrior]]
+[[Class - Fighter]]
 Extra Attack(2-3). Action surge
 
 ### Beast Warrior
@@ -22,7 +22,7 @@ Beastly Rage. Savage Attack
 [[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
 
-### Battle Mage
+### Spelgard
 [[Class - Spelgard]]
 Spiritual Weapon. Lay on Hands
 
@@ -30,25 +30,24 @@ Spiritual Weapon. Lay on Hands
 [[Class - Champion]]
 Smite! Lay on Hands
 
+### Symbiote (Martial probably, or maybe off-caster) (WIP)
+Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
+
 ### Enhancer (Off-caster) (WIP)
 off-caster who fights and can apply temporary buffs that make them hit harder and stronger. This could also be implemented as a Martial archetype, but i think it would be cooler as an Enhancer.
 
-### Symbiote (Martial) (WIP)
-Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
-
 ### Beast Master (Off-Caster? really complicated) (WIP)
-Can summon and control low CR animals.
+Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 
-### Medium/Summoner (WIP)
-Can spend some time channeling and roll to see what comes out (who's available to be summoned). doesn't actually have long-term summons, it's just usual black magic.
-
-### Bard (WIP)
+### Bard (Off-Caster)
 Inspiration (flat bonus or dice? AoE or single target?). off-caster
 
 ### Witch
+[[RPG/R20/Classes/Class - Witch|Class - Witch]]
 A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
 
 ### Werebeast
+[[RPG/R20/Classes/Class - Werebeast|Class - Werebeast]]
 has the ability to transform into a wild, untamed beast form, witch flips it's physical and mental abilities and gaining an array of special skills.
 
 ## Creating a Class
@@ -305,6 +304,7 @@ Feat Ideas:
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
 - pode gastar steps sem se mover
+- reaction: attack on being missed (maybe just add as a specialist feat)
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
@@ -360,6 +360,79 @@ O estilo de luta se baseia principalmente no movimento. As habilidades de combat
 ### Classificação
 A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Alguns acrobatas incorporam danças e movimentos que catalizam magias, outros acrobatas aproveitam da sua agilidade para desferir golpes letais com armas leves. Outros até aproveitam de sua característica provocatória para proteger aliados.
 
+
+
+{{pageNumber,auto}}
+\page
+# Fighter (Martial)
+
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
+
+**MP**: 3 per level.
+
+**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor..
+
+**Resistências:** Strength, Dexterity.
+
+{{classTable,decoration,frame
+##### Fighter
+| Level | Proficiency Bonus | Features |Precise Strike | 
+| :---: | :---------------: | :------- | :----: |
+| 1st | +1 | Precise Strike | +4 |
+| 2nd | +1 | Fighter Feat, Action Surge | +4 |
+| 3rd | +2 | Fighter Feat | +4 |
+| 4th | +2 | Fighter Feat, Attribute Score Improvement | +4 |
+| 5th | +3 | Fighter Feat, Extra Attack | +4 |
+| 6th | +3 | Fighter Feat, Attribute Score Improvement | +4 |
+| 7th | +4 | Fighter Feat | +8 |
+| 8th | +4 | Fighter Feat | +8 |
+| 9th | +5 | Fighter Feat, Attribute Score Improvement | +8 |
+| 10th | +5 | Fighter Feat | +8 |
+| 11th | +6 | Fighter Feat | +8 |
+| 12th | +6 | Fighter Feat, Attribute Score Improvement | +8 |
+| 13th | +7 | Fighter Feat | +12 |
+| 14th | +7 | Fighter Feat, Action Surge (2) | +12 |
+| 15th | +8 | Fighter Feat, Attribute Score Improvement | +12 |
+| 16th | +8 | Fighter Feat | +12 |
+| 17th | +9 | Fighter Feat, Attribute Score Improvement | +16 |
+| 18th | +9 | Fighter Feat | +16 |
+| 19th | +10 | Fighter Feat, Attribute Score Improvement | +16 |
+| 20th | +10 | Fighter Feat, Action Surge (3) | +16 |
+}}
+
+
+**PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
+
+**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
+
+### Fighter Feats
+
+Begining at level 2, every time you gain a level in Fighter you gain a Fighter Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
+
+- **Ambidestria**. Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de a
+
+- **Arqueiro**. Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 13.
+
+- **Bater e Correr**. Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.
+
+- **Destruidor**. Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 13
+
+- **Esgrimista**. Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Int 13.
+
+- **Golpe de Raspão**. Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque.
+
+- **Golpe Demolidor**. Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele.
+
+- **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
+
+- **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
+
+- **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
+
+- **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
+
+- **Valentão**. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
 
 {{pageNumber,auto}}
 \page
@@ -856,78 +929,6 @@ List of spells available for a Spelgard to learn.
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
-
-{{pageNumber,auto}}
-\page
-# Warrior (Martial)
-
-<style>.page#p1:after{ display:none; }</style>
-**HP**: You start at 1st level with 18 (+CON mod.) maximum hit points, and gain an extra 5 (+CON mod.) per level.
-
-**MP**: 3 per level.
-
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor..
-
-**Resistências:** Strength, Dexterity.
-
-{{classTable,decoration,frame
-##### Warrior
-| Level | Proficiency Bonus | Features |Precise Strike | 
-| :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
-| 2nd | +1 | Warrior Feat, Action Surge | +4 |
-| 3rd | +2 | Warrior Feat | +4 |
-| 4th | +2 | Warrior Feat, Attribute Score Improvement | +4 |
-| 5th | +3 | Warrior Feat, Extra Attack | +4 |
-| 6th | +3 | Warrior Feat, Attribute Score Improvement | +4 |
-| 7th | +4 | Warrior Feat | +8 |
-| 8th | +4 | Warrior Feat | +8 |
-| 9th | +5 | Warrior Feat, Attribute Score Improvement | +8 |
-| 10th | +5 | Warrior Feat | +8 |
-| 11th | +6 | Warrior Feat | +8 |
-| 12th | +6 | Warrior Feat, Attribute Score Improvement | +8 |
-| 13th | +7 | Warrior Feat | +12 |
-| 14th | +7 | Warrior Feat, Action Surge (2) | +12 |
-| 15th | +8 | Warrior Feat, Attribute Score Improvement | +12 |
-| 16th | +8 | Warrior Feat | +12 |
-| 17th | +9 | Warrior Feat, Attribute Score Improvement | +16 |
-| 18th | +9 | Warrior Feat | +16 |
-| 19th | +10 | Warrior Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Warrior Feat, Action Surge (3) | +16 |
-}}
-
-
-**PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
-
-**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
-
-### Warrior Feats
-
-Begining at level 2, every time you gain a level in Warrior you gain a Warrior Feat. You may instead of a Warrior feat take a Martial or General Feat of your choice.
-
-- **Ambidestria**. Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de a
-
-- **Arqueiro**. Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 13.
-
-- **Bater e Correr**. Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.
-
-- **Destruidor**. Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 13
-
-- **Esgrimista**. Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Int 13.
-
-- **Golpe de Raspão**. Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque.
-
-- **Golpe Demolidor**. Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele.
-
-- **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
-
-- **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
-
-- **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
-
-- **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
-
-- **Valentão**. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
 
 {{pageNumber,auto}}
 \page

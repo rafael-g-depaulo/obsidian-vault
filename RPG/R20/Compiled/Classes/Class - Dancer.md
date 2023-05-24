@@ -58,6 +58,7 @@ Feat Ideas:
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
 - pode gastar steps sem se mover
+- reaction: attack on being missed (maybe just add as a specialist feat)
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
@@ -112,4 +113,5 @@ O estilo de luta se baseia principalmente no movimento. As habilidades de combat
 
 ### Classificação
 A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Alguns acrobatas incorporam danças e movimentos que catalizam magias, outros acrobatas aproveitam da sua agilidade para desferir golpes letais com armas leves. Outros até aproveitam de sua característica provocatória para proteger aliados.
+
 
