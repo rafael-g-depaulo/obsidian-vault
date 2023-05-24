@@ -7,33 +7,35 @@ SAVES:
 - PRE
 
 FEATURES:
-| LEVEL | FEATURE         |
-| ----- | --------------- |
-| 1     | Rage (+2)       |
+
+| LEVEL | FEATURE   |
+| ----- | --------- |
+| 1     | Rage (+2) |
 
 MULTI_FEATURES:
+
 | Level | Savage Attack |
 | ----- | ------------- |
 | 1st   | -             |
-| 2nd   |        |
-| 3rd   |        |
-| 4th   |        |
-| 5th   |        |
-| 6th   |        |
-| 7th   |        |
-| 8th   |        |
-| 9th   |        |
-| 10th  |        |
-| 11th  |        |
-| 12th  |        |
-| 13th  |        |
-| 14th  |        |
-| 15th  |        |
-| 16th  |        |
-| 17th  |        |
-| 18th  |        |
-| 19th  |        |
-| 20th  |        |
+| 2nd   |               |
+| 3rd   |               |
+| 4th   |               |
+| 5th   |               |
+| 6th   |               |
+| 7th   |               |
+| 8th   |               |
+| 9th   |               |
+| 10th  |               |
+| 11th  |               |
+| 12th  |               |
+| 13th  |               |
+| 14th  |               |
+| 15th  |               |
+| 16th  |               |
+| 17th  |               |
+| 18th  |               |
+| 19th  |               |
+| 20th  |               |
 }}
 
 **Golpe Ritmico.** Ação Padrão (1PM): realize um ataque melee com vantagem. Se acertar, ele dá +PRE+1d4 de dano. Você ganha 2 passos de vento. every 4 levels +2PM for +1d4, +2 steps. (probably either remove adv or increase MP cost by 1)
