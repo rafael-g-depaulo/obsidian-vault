@@ -18,9 +18,13 @@
 
 **NAME_HERE.** Ação: Health steal long range.
 
-**NAME_HERE.** Ação (mobimento??): Causar medo.
+**NAME_HERE.** Ação (movimento??): Causar medo.
 
 **NAME_HERE.** Ação: Camuflagem/buff stealth pela cena.
+
+**NAME_HERE.** Ação: Hold enemies in place.
+
+**NAME_HERE.** Ação: alguma coisa de veneno?
 
 Magias potenciais pra pegar:
 - 

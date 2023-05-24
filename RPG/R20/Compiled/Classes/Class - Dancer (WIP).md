@@ -13,52 +13,53 @@
 
 {{classTable,decoration,frame
 ##### Dancer
-| Level | Proficiency Bonus | Features |Savage Attack | 
+| Level | Proficiency Bonus | Features |Ritmo de Batalha | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Dancer Feat, Expertise |  |
-| 3rd | +2 | Dancer Feat |  |
-| 4th | +2 | Dancer Feat, Attribute Score Improvement |  |
-| 5th | +3 | Dancer Feat |  |
-| 6th | +3 | Dancer Feat, Attribute Score Improvement |  |
-| 7th | +4 | Dancer Feat |  |
-| 8th | +4 | Dancer Feat, Attribute Score Improvement |  |
-| 9th | +5 | Dancer Feat |  |
-| 10th | +5 | Dancer Feat, Attribute Score Improvement |  |
-| 11th | +6 | Dancer Feat |  |
-| 12th | +6 | Dancer Feat, Attribute Score Improvement |  |
-| 13th | +7 | Dancer Feat |  |
-| 14th | +7 | Dancer Feat |  |
-| 15th | +8 | Dancer Feat, Attribute Score Improvement |  |
-| 16th | +8 | Dancer Feat |  |
-| 17th | +9 | Dancer Feat, Attribute Score Improvement |  |
-| 18th | +9 | Dancer Feat |  |
-| 19th | +10 | Dancer Feat, Attribute Score Improvement |  |
-| 20th | +10 | Dancer Feat |  |
+| 1st | +1 | Ritmo de Batalha, Passos de Vento | 2 |
+| 2nd | +1 | Dancer Feat, Expertise | 2 |
+| 3rd | +2 | Dancer Feat | 3 |
+| 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
+| 5th | +3 | Dancer Feat | 4 |
+| 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
+| 7th | +4 | Dancer Feat | 5 |
+| 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |
+| 9th | +5 | Dancer Feat | 6 |
+| 10th | +5 | Dancer Feat, Attribute Score Improvement | 6 |
+| 11th | +6 | Dancer Feat | 7 |
+| 12th | +6 | Dancer Feat, Attribute Score Improvement | 7 |
+| 13th | +7 | Dancer Feat | 8 |
+| 14th | +7 | Dancer Feat | 8 |
+| 15th | +8 | Dancer Feat, Attribute Score Improvement | 9 |
+| 16th | +8 | Dancer Feat | 9 |
+| 17th | +9 | Dancer Feat, Attribute Score Improvement | 10 |
+| 18th | +9 | Dancer Feat | 10 |
+| 19th | +10 | Dancer Feat, Attribute Score Improvement | 11 |
+| 20th | +10 | Dancer Feat | 11 |
 }}
 
 
-**Golpe Ritmico.** Ação Padrão (1PM): realize um ataque melee com vantagem. Se acertar, ele dá +PRE+1d4 de dano. Você ganha 2 passos de vento. every 4 levels +2PM for +1d4, +2 steps. (probably either remove adv or increase MP cost by 1)
+**Ritmo de Batalha.** (1x turno) Ação Livre: Você ganha 2 **Passos de Vento**. A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
-**Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível) e se mover um número de quadrados adicional igual ao número de passos gastos.
+**Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque dá +1d4 de dano pra cada **Passo de Vento** usado
 
 **Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-main mechanic:
-- do XXXXX to gain "steps"
-	- steps can be spent to move better
-	- steps can be spent on special moves
-	- steps can be spent to use skills that use Movement Actions as a Free Action
-	- steps can make attacks better and/or many attacks
+## Aditional mechanics
+- need at least 1 **STRONG** defensive option
+	- +AC vs. +Dodge vs. +temp HP. (think dodge)
 
 Ideas:
 - roll performance to get buffs
+- Ganha steps ao usar esquiva
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
+- pode gastar steps sem se mover
 - gain PRE steps on initiative
+- steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
-- bonus to social rolls.
+- bonus to social rollss
 - steps + other stuff on "de raspão"
+- +PRE to dodge
 - gain extra elemental dmg (duration? or scene?)
 - dont provoke opportunity attacks with movement
 - scale movement with level
@@ -68,18 +69,25 @@ Ideas:
 - increase AC temporarily
 	- if you spent steps, gain +AC equal to steps spent until next turn
 	- +AC if moved this turn
+- transform INT/SEN resist to PRE resist
 - gain adv on resist rolls??? prolly not
+- transform STR/CON resist to DEX resist? prolly not
 
 - special skills: dance of blank
 	- temp HP
+	- temp MP (maybe fuse with above?)
 	- ally heal?
 	- ally buff? (move speed + other stuff)
+		- **Dança da Inspiração.** Ação (2PM, 2+ Passos). Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno.
+		- **Dança da Velocidade.** Ação (2 Passos)
 	- huge dmg to single target
 	- dance through enemies and damage them
-	- Gain an additional movement
+	- whirlwind attack (on future levels can increase radius)
+	- Gain an additional steps
+		- **Dança do Vento.** Ação (2PM): Ganhe 4 **Passos do Vento**.
 	- investida
 	- 3 steps: 1 attack (free action, repeatable, can be used mid movement)
-		- **Dança do Enxame**. Gaste um múltiplo de 3 **Passos de Vento**. Você pode realizar esse número de ataques a mais como ação livre nesse turno.
+		- **Dança do Enxame**. Ação (Gaste um múltiplo de 3 **Passos de Vento** + 2MP). Você pode realizar esse número de ataques a mais como ação livre nesse turno.
 
 ### Conceito
 Acrobatas são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.
@@ -88,3 +96,4 @@ O estilo de luta se baseia principalmente no movimento. As habilidades de combat
 
 ### Classificação
 A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Alguns acrobatas incorporam danças e movimentos que catalizam magias, outros acrobatas aproveitam da sua agilidade para desferir golpes letais com armas leves. Outros até aproveitam de sua característica provocatória para proteger aliados.
+

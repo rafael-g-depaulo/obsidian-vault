@@ -10,7 +10,6 @@ kanban-plugin: basic
 - [ ] net adicionar ponto
 - [ ] checar aws
 - [ ] go through old vimconfig and add stuff to lazyvim config
-- [ ] add [fast-cli](https://github.com/sindresorhus/fast-cli) or [speed-test](https://github.com/sindresorhus/speed-test) to setup
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
@@ -22,14 +21,14 @@ kanban-plugin: basic
 - [ ] gitkraken article/setup
 - [ ] mitologia botar gcloud na conta da anasha
 - [ ] add delta to setup/article
+- [ ] kitty move cursos with mouse click
+- [ ] kitty open file in editor [useful??](https://github.com/kovidgoyal/kitty/discussions/5731)
 
 
 ## todo
 
-- [ ] add pygments to setup
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
-- [ ] classe dancer moisés
 - [ ] add tashas mind wip spell
 - [ ] add snow storm spell
 - [ ] add shatter (prolly already added)
@@ -39,27 +38,19 @@ kanban-plugin: basic
 - [ ] add flame blade
 - [ ] add dust devil
 - [ ] add cordon of arrows
+- [ ] lambrar mari sessão 0
 
 
 ## doing
 
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
+- [ ] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
 
 
 ## done
 
-- [x] deus liberdade moisés
-- [x] deus david (MVP)
-- [x] botar psiquiatra remarcado no calendário
-- [x] classe david
-- [x] rework rest R20
-- [x] feats werebeast
-- [x] pegar mapas no pinterest pra natura
-- [x] arranjar carregador ou note
-- [x] resultado análise
-- [x] dados contador
-- [x] deus david (falar com nay)
+- [x] add pygments to setup
 
 
 ***
@@ -144,6 +135,18 @@ kanban-plugin: basic
 - [x] 2023-05-23 10:18 practice test (quinta)
 - [x] 2023-05-23 10:18 add nvim keymap for `:let @/ = ""` (clears search)
 - [x] 2023-05-23 10:18 practice terça
+- [x] 2023-05-24 12:06 classe dancer moisés
+- [x] 2023-05-24 12:06 deus liberdade moisés
+- [x] 2023-05-24 12:06 deus david (MVP)
+- [x] 2023-05-24 12:06 botar psiquiatra remarcado no calendário
+- [x] 2023-05-24 12:06 classe david
+- [x] 2023-05-24 12:06 rework rest R20
+- [x] 2023-05-24 12:06 feats werebeast
+- [x] 2023-05-24 12:06 pegar mapas no pinterest pra natura
+- [x] 2023-05-24 12:06 arranjar carregador ou note
+- [x] 2023-05-24 12:06 resultado análise
+- [x] 2023-05-24 12:06 dados contador
+- [x] 2023-05-24 12:06 deus david (falar com nay)
 
 %% kanban:settings
 ```

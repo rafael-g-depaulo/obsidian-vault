@@ -516,8 +516,8 @@ List of spells available for a Plantomancer to learn.
 ##### Rogue
 | Level | Proficiency Bonus | Features |Sneak Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Sneak Attack | 1d6 |
-| 2nd | +1 | Rogue Feat, Expertise | 1d6 |
+| 1st | +1 | Sneak Attack | 2d6 |
+| 2nd | +1 | Rogue Feat, Expertise | 2d6 |
 | 3rd | +2 | Rogue Feat, Cunning Action | 3d6 |
 | 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 |
 | 5th | +3 | Rogue Feat | 4d6 |

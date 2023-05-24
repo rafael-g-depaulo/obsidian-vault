@@ -9,13 +9,13 @@ FEATURES:
 | LEVEL | FEATURE        |
 | ----- | -------------- |
 | 1     | Sneak Attack   |
-| 3     | Cunning Action | 
+| 3     | Cunning Action |
 
 MULTI_FEATURES:
 | Level | Sneak Attack | 
 | ----- | ------------ |
-| 1st   | 1d6          |
-| 2nd   | 1d6          |
+| 1st   | 2d6          |
+| 2nd   | 2d6          |
 | 3rd   | 3d6          |
 | 4th   | 3d6          |
 | 5th   | 4d6          |
