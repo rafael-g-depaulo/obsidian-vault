@@ -50,28 +50,7 @@ MULTI_FEATURES:
 **DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +2 Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
 
 ### Dancer Feats
-Beggining at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
-
-{{class-note "Danças Marciais"
-
-Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
-
-Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
-maybe add option to upcast?
-
-}}
-- **Dança da Restauração.** Escolha um aliado que consegue ver. ele recupera PRE+1d4 de HP. (maybe remove, just keep temp HP one. Add scaling and stuff?)
-- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha move speed (and/or dodge?) pela cena e dá burst de move speed pra aliado(s)
-- **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
-- **Dança do Vento.** Ganhe 4 **Passos do Vento**.
-- **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
-
-- outras danças
-	- temp HP (area)
-	- temp MP (self)
-	- dance through enemies and damage them
-	- whirlwind attack (on future levels can increase radius)
+Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
 Feat Ideas:
 - roll performance to get buffs
@@ -99,6 +78,29 @@ Feat Ideas:
 - gain adv on resist rolls??? prolly not
 - transform STR/CON resist to DEX resist? prolly not
 - +PM to dance as movement action
+
+{{page-break}}
+
+{{class-note "Danças Marciais"
+
+Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
+
+Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
+maybe add option to upcast?
+
+}}
+- **Dança da Restauração.** Escolha um aliado que consegue ver. ele recupera PRE+1d4 de HP. (maybe remove, just keep temp HP one. Add scaling and stuff?)
+- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
+- **Dança da Velocidade.** ganha move speed (and/or dodge?) pela cena e dá burst de move speed pra aliado(s)
+- **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
+- **Dança do Vento.** Ganhe 4 **Passos do Vento**.
+- **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
+
+#### outras danças:
+- temp HP (area)
+- temp MP (self)
+- dance through enemies and damage them
+- whirlwind attack (on future levels can increase radius)
 
 
 ### Conceito
