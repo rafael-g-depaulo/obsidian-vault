@@ -377,32 +377,27 @@ classes are always from one of the archetypes, and add additional abilities that
 ## List of Classes
 Below is a list of all classes and a brief description of their abilities.
 
-### Rogue
-[[Class - Rogue]]
-sneak attack
-
-### Fighter
+### Martial Classes
+#### Fighter
 [[Class - Fighter]]
-Extra Attack(2-3). Action surge
+Action surge. Powerful Strike (flat bonus to hit/dmg)
 
-### Beast Warrior
+#### Beast Warrior
 [[Class - Beast Warrior]]
 Beastly Rage. Savage Attack
 
-### Juggernaut
+#### Juggernaut
 [[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
-
-### Spelgard
-[[Class - Spelgard]]
-Spiritual Weapon. Lay on Hands
 
 ### Champion
 [[Class - Champion]]
 Smite! Lay on Hands
 
-### Symbiote (Martial probably, or maybe off-caster) (WIP)
-Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
+## Off-Caster Classes
+### Spelgard
+[[Class - Spelgard]]
+Spiritual Weapon. Lay on Hands
 
 ### Enhancer (Off-caster) (WIP)
 off-caster who fights and can apply temporary buffs that make them hit harder and stronger. This could also be implemented as a Martial archetype, but i think it would be cooler as an Enhancer.
@@ -410,16 +405,43 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 ### Beast Master (Off-Caster? really complicated) (WIP)
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 
-### Bard (Off-Caster)
+### Bard (Off-Caster) (WIP)
 Inspiration (flat bonus or dice? AoE or single target?). off-caster
 
+### Caster Classes
 ### Witch
 [[RPG/R20/Classes/Class - Witch|Class - Witch]]
 A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
 
-### Werebeast
+#### Summoner
+[[RPG/R20/Classes/Class - Summoner (WIP)|Class - Summoner (WIP)]]
+
+#### Plantomancer
+[[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
+
+#### Wordsmith (WIP)
+Creates spells at will with magic radicals and afixes
+
+### Specialist Classes
+#### Rogue
+[[Class - Rogue]]
+sneak attack
+
+#### Werebeast
 [[RPG/R20/Classes/Class - Werebeast|Class - Werebeast]]
 has the ability to transform into a wild, untamed beast form, witch flips it's physical and mental abilities and gaining an array of special skills.
+
+#### Dancer
+[[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
+Dance around the battlefield, dodge, buff and deal dmg
+
+#### Alquimist
+[[RPG/R20/Classes/Class - Alquimist (WIP)|Class - Alquimist (WIP)]]
+
+### Probably cut off
+### Symbiote (Martial probably, or maybe off-caster) (WIP)
+Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
+
 
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
@@ -435,7 +457,7 @@ has the ability to transform into a wild, untamed beast form, witch flips it's p
 \page
 
 8. Now think of additional interesting new features and modifications to existing features that play to the class' **Theme**. Observe that while the **Core Mechanic** always has a combat effect, these mechanics don't necessarily have to all have to be obviously useful in combat (though most of them should have some in-combat use). This is a good place to think up of possible variations and specializations within members of the class. Add those as class feats.
-	1. **Feat Groups:** In this effort of reinforcing class identity, it's interesting to think of a unique feat template and naming scheme, and apply that to create some different feats for the class, different from the singular feats created previously. Example: Plantomancer's **Herbomancy: \[Blank\]**, Spellgard's **Aura of \[Blank\]** and Beast Warrior's **Wild Rage: \[Blank\]**. It's recommended to have between 1 and 2 Feat groups per class.
+	1. **Feat Groups:** In this effort of reinforcing class identity, it's interesting to think of a unique feat template and naming scheme, and apply that to create some different feats for the class, different from the singular feats created previously. Example: Plantomancer's **Herbomancy: \[Blank\]**, Spellgard's **Aura of \[Blank\]** and Beast Warrior's **Wild Rage: \[Blank\]**. It's recommended to have between 0 and 1 Feat groups per class.
 
 ### Recommended levels to add class features by archetype
 | Archetype  | Core Feature | Auxiliary Feature | Mid-Game Feature |
@@ -661,9 +683,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
 
-**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
+**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +3 (+2 se usando armadura) Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
 
-**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +2 Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
+**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
