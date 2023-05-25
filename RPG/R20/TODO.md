@@ -1,4 +1,5 @@
-- [ ] Fix up simple weapons (i forgot what this means. probably rebalancing, but idk if they're currently too strong or too weak lol)]
 - [ ] think up counterspell (you can counterspell as a prepared action with a spell with at least 1 tag in common. there's a feat to be able to do it as a reaction)
 - [ ] add size rules
 - [ ] Add healing spirit
+- [ ] addapt [dust devil](https://5e.tools/spells.html#dust%20devil_xge,flstlevel:2=1,floplevel:extend,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1,flopdamage%20type:extend)(a lot of cool stuff there)
+- [ ] add [dragon's breath](https://5e.tools/spells.html#dragon's%20breath_xge,flstlevel:2=1,floplevel:extend,flstdamage%20type:acid=1~bludgeoning=1~cold=1~fire=1~force=1~lightning=1~necrotic=1~piercing=1~poison=1~psychic=1~radiant=1~slashing=1~thunder=1,flopdamage%20type:extend)

@@ -150,13 +150,17 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
+- [[Binding Ice]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
+- [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]

@@ -1065,9 +1065,11 @@ List of spells available for a Plantomancer to learn.
 - [[Earthbind]]
 - [[Enlarge/Reduce]]
 - [[Explosão Sonora]]
+- [[Flechas Sentinelas]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
 - [[Spike Growth]]
@@ -1317,13 +1319,17 @@ List of spells available for a Spelgard to learn.
 
 ### 2nd Circle
 - [[Aid]]
+- [[Binding Ice]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
+- [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
@@ -2606,6 +2612,7 @@ nature -> elemental -> wild -> nature
 - [[Aid]]
 - [[Barkskin]]
 - [[Beast Sense]]
+- [[Binding Ice]]
 - [[Blindness Deafness]]
 - [[Calm Emotions]]
 - [[Continual Flame]]
@@ -2615,13 +2622,17 @@ nature -> elemental -> wild -> nature
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Explosão Sonora]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
@@ -2840,6 +2851,20 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..{{pageNumber,auto}}
 \page
 
+### Binding Ice (2 MP)
+<div class="spell-tags">cold elemental thaumaturgy evocation</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** self (cone 6sqr)
+- **Duração:** imediata
+- **Resistência:** CON
+___
+
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
+
+- **+1PM:** +1d8 dano.
+
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
@@ -2880,7 +2905,8 @@ As part of the action used to cast this spell, you must make a melee attack with
 On a hit, the target suffers the attack's normal effects, and it becomes sheathed in booming energy until the start of your next turn. If the target willingly moves be- fore then, it immediately takes 1d8 thunder damage, and the spell ends.  
 This spell's damage increases when you reach higher levels.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Burning Hands (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -2897,8 +2923,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
 - **+1 PM:** dano +1d6..
-- **+2PM:** aumenta o tamanho do cone em +1sqr.{{pageNumber,auto}}
-\page
+- **+2PM:** aumenta o tamanho do cone em +1sqr.
 
 ### Calm Emotions (2 MP)
 <div class="spell-tags">enchantment trickery boost sacred</div>
@@ -2946,7 +2971,8 @@ ___
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração.
 
 - **+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe resistência 30 contra o próximo dano que sofrer até o fim do turno atual..
-- **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10..
+- **+1 PM:** aumenta os PV temporários em +5 ou a resistência a dano em +10..{{pageNumber,auto}}
+\page
 
 ### Camuflagem ilusória (3 MP)
 <div class="spell-tags">ilusion trickery</div>
@@ -2961,8 +2987,7 @@ ___
 O alvo fica com sua imagem nublada, como se vista através de um líquido, recebendo os efeitos de camuflagem.
 
 - **+3 PM:** a imagem do alvo fica mais distorcida, oferecendo camuflagem total..
-- **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo..{{pageNumber,auto}}
-\page
+- **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo..
 
 ### Canhão de Ervilha (1 MP)
 <div class="spell-tags">summon plant wild</div>
@@ -3009,7 +3034,8 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **+2PM:** target one additional creature.
+- **+2PM:** target one additional creature.{{pageNumber,auto}}
+\page
 
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -3024,8 +3050,7 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Charm Person (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -3068,7 +3093,8 @@ ___
 
 **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you..**Drop** The target drops whatever it is holding and then ends its turn..**Flee** The target spends its turn moving away from you by the fastest available means..**Grovel** The target falls prone and then ends its turn..**Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-- **+2PM:** target an additional creature.
+- **+2PM:** target an additional creature.{{pageNumber,auto}}
+\page
 
 ### Compelled Duel (1 MP)
 <div class="spell-tags">warmagic holy enchantment trickery sacred thaumaturgy</div>
@@ -3085,8 +3111,7 @@ You attempt to compel a creature into a duel. One creature that you can see with
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
 - **+XPM:** you gain an offensive buff against the target.
-- **+XPM:** both you and the target have +# movement speed when running towards eachother.{{pageNumber,auto}}
-\page
+- **+XPM:** both you and the target have +# movement speed when running towards eachother.
 
 ### Concentração de Combate (1 MP)
 <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
@@ -3130,7 +3155,8 @@ ___
 
 You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location..You instantaneously extinguish the flames within the cube..You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour..You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Controlar Plantas (1 MP)
 <div class="spell-tags">plant wild enchantment trickery</div>
@@ -3145,8 +3171,7 @@ ___
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
-- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
-\page
+- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Create Bonfire (0 MP)
 <div class="spell-tags">fire summon wild transmutation arcane elemental</div>
@@ -3198,7 +3223,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Darkvision (2 MP)
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
@@ -3214,8 +3240,7 @@ You touch a willing creature to grant it the ability to see in the dark.
 For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 - **+2 PM:** +1 alvo.
-- **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
-\page
+- **+1 PM:** +4sqr (+6m)..
 
 ### Despedaçar (1 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
@@ -3264,7 +3289,8 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Dissonant Whispers (1 MP)
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
@@ -3280,8 +3306,7 @@ You whisper a discordant melody that only one creature of your choice within ran
 
 The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction , if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
 
-- **+2PM:** +1d6 dmg.{{pageNumber,auto}}
-\page
+- **+2PM:** +1d6 dmg.
 
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
@@ -3322,7 +3347,8 @@ ___
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
@@ -3337,8 +3363,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Enfeitiçar (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -3391,7 +3416,8 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-
+{{pageNumber,auto}}
+\page
 
 ### Entangle (1 MP)
 <div class="spell-tags">plant wild trickery</div>
@@ -3412,8 +3438,7 @@ A creature in the area when you cast the spell must succeed on a Strength saving
 When the spell ends, the conjured plants wilt away.
 
 - **+2 PM:** Aumenta a CD em 1..
-- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..{{pageNumber,auto}}
-\page
+- **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..
 
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
@@ -3464,7 +3489,8 @@ ___
 
 Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto da pessoa escolhida uma superfície d'agua fica suja e vira um espelho do pântano. Imagens, sons e objetos pequenos não-mágicos podem ser passados pelo espelho.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -3479,8 +3505,7 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
@@ -3523,7 +3548,8 @@ ___
 
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Fire Bolt (0 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -3538,8 +3564,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Físico Divino (3 MP)
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -3557,6 +3582,26 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 - **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas..
 - **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..
 
+### Flame Blade (2 MP)
+<div class="spell-tags">elemental fire warmagic thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** Movimento
+- **Alcance:** Self
+- **Duração:** Concentração
+- **Crítico:** 19/2x
+___
+
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+
+You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 4d6 fire damage.
+
+The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+- **+2PM:** +1d6 dano.
+- **+2PM:** +1 acerto com ataque com a espada.
+- **+2PM:** +1 margem de ameaça.
+
 ### Flecha Ácida (3 MP)
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -3571,7 +3616,23 @@ ___
 
 Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
+
+### Flechas Sentinelas (2 MP)
+<div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 1sqr
+- **Alvo:** círculo de diâmetro 1sqr
+- **Duração:** 8 horas/cena
+- **Resistência:** DEX
+___
+
+You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
+
+- **+1PM:** +1 flecha.
 
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -3598,8 +3659,7 @@ ___
 
 You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.
 
-- **+2PM:** aumente o dano em 1d6.{{pageNumber,auto}}
-\page
+- **+2PM:** aumente o dano em 1d6.
 
 ### Goodberry (1 MP)
 <div class="spell-tags">plant wild summon</div>
@@ -3612,7 +3672,8 @@ ___
 
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-- **+1 PM:** Increase the number of berries by 2..
+- **+1 PM:** Increase the number of berries by 2..{{pageNumber,auto}}
+\page
 
 ### Green Flame Blade (0 MP)
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
@@ -3654,8 +3715,7 @@ ___
 
 A flash of light streaks toward a creature of your choice within range.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Hail of Thorns (1 MP)
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
@@ -3669,7 +3729,8 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
@@ -3714,8 +3775,7 @@ ___
 
 Reaction: you are being damaged by a creature within range of you that you can see.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Hideous Laughter (1 MP)
 <div class="spell-tags">enchantment trickery curse occult speech</div>
@@ -3731,7 +3791,8 @@ A creature of your choice that you can see within range perceives everything as 
   
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
@@ -3775,8 +3836,7 @@ ___
 
 You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a d4 for the direction: 1., north; 2, south; 3, east; or 4, west. This movement doesn’t provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move.
 
-- **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).{{pageNumber,auto}}
-\page
+- **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).
 
 ### Infligir Ferimentos (1 MP)
 <div class="spell-tags">unholy occult necrotic decay</div>
@@ -3794,7 +3854,8 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
 - **+2 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Invisibilidade (3 MP)
 <div class="spell-tags">ilusion trickery</div>
@@ -3837,8 +3898,7 @@ ___
 
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
 
-- **+1 PM:** aumenta o dano em 1d8.{{pageNumber,auto}}
-\page
+- **+1 PM:** aumenta o dano em 1d8.
 
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
@@ -3853,7 +3913,8 @@ ___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
 The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **+2PM:** increase damage by +1d8.
+- **+2PM:** increase damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -3898,8 +3959,7 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Mage Hand (1 MP)
 <div class="spell-tags">trickery</div>
@@ -3917,7 +3977,8 @@ The hand lasts for the duration or until you dismiss it as an action. The hand v
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 - **+X PM:** Torna a mão invisível.
-- **+Y PM:** Aumenta a carga máxima em X kilos.
+- **+Y PM:** Aumenta a carga máxima em X kilos.{{pageNumber,auto}}
+\page
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -3961,8 +4022,7 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 
 - **+1 PM:** aumenta o alcanse em 1 passo.
 - **+2 PM:** aumenta a cura em 1d4.
-- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Maximilian's Earthen Grasp (2 MP)
 <div class="spell-tags">earth creation arcane nature</div>
@@ -3982,7 +4042,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.
+- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
@@ -3999,6 +4060,21 @@ You point your finger toward a creature within range and whisper a message. The 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
 
+
+### Mind Whip (2 MP)
+<div class="spell-tags">trickery enchantment energy psyquic</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 18sqr
+- **Alvo:** 1 criatura
+- **Duração:** 1 rodada
+- **Resistência:** INT
+___
+
+You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
+
+- **+1:** +1d6.
 
 ### Minor Ilusion (0 MP)
 <div class="spell-tags">ilusion trickery</div>
@@ -4223,6 +4299,24 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 {{pageNumber,auto}}
 \page
 
+### Scorching Ray (2 MP)
+<div class="spell-tags">evocation thaumaturgy elemental fire</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** criaturas dentro do alcance que você pode ver
+- **Duração:** imediata
+- **Crítico:** 20/2x
+___
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+
+Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+
+- **+2PM:** +1 raio.
+- **+4PM:** +1d6 por raio.
+
 ### Searing Smite (1 MP)
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 
@@ -4273,7 +4367,8 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Shillelagh (0 MP)
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -4288,8 +4383,7 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
@@ -4331,7 +4425,8 @@ ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -4348,8 +4443,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
 
 ### Spider Climb (2 MP)
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no-sacred</div>
@@ -4399,7 +4493,8 @@ You can also specify conditions that will trigger a special activity during the 
   
 If you or any of your companions damage the target, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -4413,8 +4508,7 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the damage by +1d6.
 
 ### Teia (1 MP)
 <div class="spell-tags">arcane creation feral wild</div>
@@ -4462,7 +4556,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -4476,8 +4571,7 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the damage by 1d6.
 
 ### Thunderous Smite (1 MP)
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
@@ -4519,7 +4613,8 @@ ___
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
-- **+3 PM:** increase the damage by 2 dice.
+- **+3 PM:** increase the damage by 2 dice.{{pageNumber,auto}}
+\page
 
 ### Toque Chocante (1 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -4534,8 +4629,7 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Toque Vampírico (3 MP)
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -4585,7 +4679,8 @@ ___
 Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
 
 - **+2 PM:** aumenta os bônus na Defesa, testes de ataque e rolagens de dano corpo a corpo em +1, e os PV temporários em +10..
-- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..
+- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..{{pageNumber,auto}}
+\page
 
 ### Vicious Mockery (0 MP)
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
@@ -4600,8 +4695,7 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
-\page
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
 
 ### Warding Bond (2 MP)
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -4649,7 +4743,8 @@ Each creature that starts its turn in the webs or that enters them during its tu
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
@@ -4664,8 +4759,7 @@ ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Word of Radiance (0 MP)
 <div class="spell-tags">holy sacred radiant energy speech no-trickery</div>

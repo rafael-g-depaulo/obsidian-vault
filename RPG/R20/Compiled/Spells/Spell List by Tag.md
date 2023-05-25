@@ -59,6 +59,7 @@
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Explosão Sonora]]
+- [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Maximilian's Earthen Grasp]]
@@ -113,6 +114,8 @@
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Chaos Bolt]]
+### 2nd Circle
+- [[Binding Ice]]
 ### 3rd Circle
 - [[Sopro das Uivantes]]
 
@@ -225,8 +228,11 @@
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 2nd Circle
+- [[Binding Ice]]
 - [[Continual Flame]]
+- [[Flame Blade]]
 - [[Heat Metal]]
+- [[Scorching Ray]]
 ### 3rd Circle
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
@@ -250,6 +256,7 @@
 - [[Crown of Madness]]
 - [[Earthbind]]
 - [[Hold Person]]
+- [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[Sugestion]]
 ### 3rd Circle
@@ -268,6 +275,7 @@
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Crown of Madness]]
+- [[Mind Whip]]
 - [[Moonbeam]]
 
 ## Evocation Spells
@@ -288,7 +296,9 @@
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 2nd Circle
+- [[Binding Ice]]
 - [[Continual Flame]]
+- [[Scorching Ray]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Relâmpago]]
@@ -326,7 +336,9 @@
 - [[Searing Smite]]
 ### 2nd Circle
 - [[Continual Flame]]
+- [[Flame Blade]]
 - [[Heat Metal]]
+- [[Scorching Ray]]
 
 ## Force Spells
 ### 1st Circle
@@ -520,6 +532,7 @@
 - [[Dissonant Whispers]]
 ### 2nd Circle
 - [[Crown of Madness]]
+- [[Mind Whip]]
 
 ## Radiant Spells
 ### Cantrip
@@ -659,11 +672,15 @@
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Binding Ice]]
 - [[Continual Flame]]
 - [[Continual Flame]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Pass Without a Trace]]
+- [[Scorching Ray]]
 - [[Warding Bond]]
 - [[Warding Wind]]
 ### 3rd Circle
@@ -694,6 +711,7 @@
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Explosão Sonora]]
+- [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Spider Climb]]
 - [[Warding Wind]]
@@ -736,6 +754,7 @@
 - [[Earthbind]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Mind Whip]]
 - [[Pass Without a Trace]]
 - [[Ray of Enfeeblement]]
 - [[Sugestion]]
@@ -792,6 +811,8 @@
 - [[Barkskin]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Warding Bond]]
 ### 3rd Circle
 - [[Campo de Força]]

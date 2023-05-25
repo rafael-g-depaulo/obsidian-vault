@@ -41,13 +41,17 @@
 
 ### 2nd Circle
 - [[Aid]]
+- [[Binding Ice]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Flame Blade]]
+- [[Flechas Sentinelas]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
+- [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
@@ -132,6 +136,20 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..
 
+### Binding Ice (2 MP)
+<div class="spell-tags">cold elemental thaumaturgy evocation</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** self (cone 6sqr)
+- **Duração:** imediata
+- **Resistência:** CON
+___
+
+A burst of cold energy emanates from you in a 30-foot cone. Each creature in that area must make a Constitution saving throw. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
+
+- **+1PM:** +1d8 dano.
+
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
@@ -160,7 +178,8 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
 - **+1 PM:** dano +1d6..
-- **+2PM:** aumenta o tamanho do cone em +1sqr.
+- **+2PM:** aumenta o tamanho do cone em +1sqr.{{pageNumber,auto}}
+\page
 
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -175,8 +194,7 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Concentração de Combate (1 MP)
 <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
@@ -223,7 +241,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Darkvision (2 MP)
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
@@ -239,8 +258,7 @@ You touch a willing creature to grant it the ability to see in the dark.
 For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 - **+2 PM:** +1 alvo.
-- **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
-\page
+- **+1 PM:** +4sqr (+6m)..
 
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
@@ -283,7 +301,8 @@ ___
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
 
-- **+2PM:** +1d6 damage.
+- **+2PM:** +1d6 damage.{{pageNumber,auto}}
+\page
 
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
@@ -298,8 +317,7 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Enhance Ability (2 MP)
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -353,7 +371,8 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância..
 - **+2 PM:** aumenta o bônus na Defesa em +1..
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo..
-- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..{{pageNumber,auto}}
+\page
 
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -368,8 +387,7 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Fire Bolt (0 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -385,6 +403,42 @@ ___
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
 - **cost:** description.
+
+### Flame Blade (2 MP)
+<div class="spell-tags">elemental fire warmagic thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** Movimento
+- **Alcance:** Self
+- **Duração:** Concentração
+- **Crítico:** 19/2x
+___
+
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+
+You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 4d6 fire damage.
+
+The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+- **+2PM:** +1d6 dano.
+- **+2PM:** +1 acerto com ataque com a espada.
+- **+2PM:** +1 margem de ameaça.
+
+### Flechas Sentinelas (2 MP)
+<div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 1sqr
+- **Alvo:** círculo de diâmetro 1sqr
+- **Duração:** 8 horas/cena
+- **Resistência:** DEX
+___
+
+You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
+
+- **+1PM:** +1 flecha.{{pageNumber,auto}}
+\page
 
 ### Green Flame Blade (0 MP)
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
@@ -426,8 +480,7 @@ ___
 
 A flash of light streaks toward a creature of your choice within range.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
@@ -441,7 +494,8 @@ ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.
+- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
+\page
 
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -483,8 +537,7 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -498,7 +551,8 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
+\page
 
 ### Moonbeam (2 MP)
 <div class="spell-tags">wild energy radiant holy sacred</div>
@@ -546,8 +600,7 @@ ___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
-- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -564,7 +617,8 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
@@ -606,7 +660,25 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
+
+
+### Scorching Ray (2 MP)
+<div class="spell-tags">evocation thaumaturgy elemental fire</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** criaturas dentro do alcance que você pode ver
+- **Duração:** imediata
+- **Crítico:** 20/2x
+___
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+
+Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+
+- **+2PM:** +1 raio.
+- **+4PM:** +1d6 por raio.{{pageNumber,auto}}
 \page
 
 ### Searing Smite (1 MP)

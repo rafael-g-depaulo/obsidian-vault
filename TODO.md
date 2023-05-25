@@ -30,17 +30,16 @@ kanban-plugin: basic
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
 - [ ] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
-- [ ] add dust devil
 
 
 ## doing
 
 - [ ] rodar ragic. convidar sig
-- [ ] add cordon of arrows
 
 
 ## done
 
+- [ ] add cordon of arrows
 - [ ] add flame blade
 - [ ] add binding ice
 - [ ] add scorching ray
