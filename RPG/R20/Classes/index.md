@@ -27,7 +27,7 @@ Smite! Lay on Hands
 Spiritual Weapon. Lay on Hands
 
 #### Enhancer (TBI)
-off-caster who fights and can apply temporary buffs that make them hit harder and stronger.
+off-caster who fights and can apply temporary buffs that make them hit harder and stronger. add random elemental damage to attack after spell cast.
 
 #### Blood Mage (TBI)
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
