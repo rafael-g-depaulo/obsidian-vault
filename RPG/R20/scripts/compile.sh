@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# maybe add a test to see if nvm is loaded first?
-source ~/.nvm/nvm.sh
+command -v nvm &>/dev/null || source ~/.nvm/nvm.sh
 
 nvm use &>/dev/null
 yarn compile &>/dev/null
