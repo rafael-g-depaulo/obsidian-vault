@@ -3,8 +3,7 @@
 TAGS:
 - #spell
 - #boost
-- #no
-- #sacred
+- #no-sacred
 - #thaumaturgy
 - #warmagic
 

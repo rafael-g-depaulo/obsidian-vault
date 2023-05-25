@@ -9,8 +9,7 @@ TAGS:
 - #earth
 - #nature
 - #boost
-- #no
-- #sacred
+- #no-sacred
 
 LEVEL: 2
 CAST_TIME: padrão

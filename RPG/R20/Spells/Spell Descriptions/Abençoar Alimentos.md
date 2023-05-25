@@ -4,8 +4,8 @@ TAGS:
 - #spell
 - #holy
 - #sacred
-- #plant
-- #no
+- #plant 
+- #feral
 - #wild
 
 LEVEL: 1

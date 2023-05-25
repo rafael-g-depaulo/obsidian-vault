@@ -110,7 +110,6 @@ Spell List:
 - [[Frostbite]]
 - [[Infestation]]
 - [[Minor Ilusion]]
-- [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
 

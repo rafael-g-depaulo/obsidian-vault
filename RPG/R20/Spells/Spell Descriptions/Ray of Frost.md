@@ -3,8 +3,7 @@
 TAGS:
 - #spell
 - #curse
-- #no
-- #occult
+- #no-occult
 - #evocation
 - #cold
 - #thaumaturgy

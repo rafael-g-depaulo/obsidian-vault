@@ -11,10 +11,12 @@
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
+- [[Word of Radiance]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Benção]]
 - [[Burning Hands]]
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
@@ -25,6 +27,7 @@
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
@@ -44,6 +47,7 @@
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
+- [[Prayer of Healing]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
@@ -111,6 +115,23 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
 \page
 
+### Benção (1 MP)
+<div class="spell-tags">boost sacred speech no-trickery</div>
+
+*1st Circle*
+- **Execução:** 1 Action
+- **Alcance:** 30 feet
+- **Duração:** cena
+___
+
+You bless up to three creatures of your choice within range. Each target gains a d4. Whenever a target makes an attack roll or a saving throw before the spell ends, the target spend that d4 and add the number rolled to the attack roll or saving throw.
+
+- **+2 PM:** aumenta o número de alvos em 1.
+- **+2 PM:** aumenta o número de dados de auxílio em +1..
+- **+3 PM:** muda o tipo dos dados de auxílio para d6..
+- **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
+- **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..
+
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
@@ -154,10 +175,11 @@ ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Concentração de Combate (1 MP)
-<div class="spell-tags">boost no sacred thaumaturgy warmagic</div>
+<div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** livre
@@ -169,8 +191,7 @@ ___
 Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
 
 - **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo..
-- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo..
 
 ### Continual Flame (2 MP)
 <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
@@ -218,7 +239,8 @@ You touch a willing creature to grant it the ability to see in the dark.
 For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 - **+2 PM:** +1 alvo.
-- **+1 PM:** +4sqr (+6m)..
+- **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
+\page
 
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
@@ -231,8 +253,7 @@ ___
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Detectar Ameaças (1 MP)
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
@@ -277,7 +298,8 @@ ___
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 radiant damage.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Enhance Ability (2 MP)
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
@@ -291,8 +313,7 @@ ___
 
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
-\page
+- **+2PM:** aumente o número de alvos em 1.
 
 ### Enlarge/Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
@@ -347,7 +368,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Fire Bolt (0 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -362,8 +384,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Green Flame Blade (0 MP)
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
@@ -405,7 +426,22 @@ ___
 
 A flash of light streaks toward a creature of your choice within range.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
+
+### Healing Word (1 MP)
+<div class="spell-tags">recovery sacred speech no-trickery</div>
+
+*1st Circle*
+- **Execução:** 1 Movement Action
+- **Alcance:** 60 feet
+- **Duração:** Instantaneous
+___
+
+A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+- **+2 PM:** aumenta a cura em 1d4.
+- **+3 PM:** muda o casting para reação.
 
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -418,8 +454,7 @@ ___
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -448,7 +483,8 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -483,8 +519,7 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use a movement action to move the beam up to 60 feet in any direction.
 
-- **+2:** aumente o dano em +1d10.{{pageNumber,auto}}
-\page
+- **+2:** aumente o dano em +1d10.
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -498,6 +533,21 @@ ___
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
 - **+2 PM:** Aumenta o dano em 1d12..
+
+### Prayer of Healing (2 MP)
+<div class="spell-tags">speech holy recovery sacred no-trickery</div>
+
+*2nd Circle*
+- **Execução:** 10 Minutes
+- **Alcance:** 30 feet
+- **Duração:** Instantaneous
+___
+
+Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+- **+2 PM:** aumenta a cura em 1d8.
+- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
+\page
 
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -517,7 +567,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
 
 ### Ray of Frost (0 MP)
-<div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
+<div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
 
 *Cantrip*
 - **Execução:** padrão
@@ -542,8 +592,7 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -557,7 +606,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Searing Smite (1 MP)
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
@@ -588,7 +638,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 
 ### Spider Climb (2 MP)
-<div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
+<div class="spell-tags">feral transmutation wild arcane earth nature boost no-sacred</div>
 
 *2nd Circle*
 - **Execução:** padrão
@@ -599,8 +649,7 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -614,7 +663,8 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Thunderous Smite (1 MP)
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
@@ -660,8 +710,7 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
@@ -676,10 +725,25 @@ ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
+
+### Word of Radiance (0 MP)
+<div class="spell-tags">holy sacred radiant energy speech no-trickery</div>
+
+*Cantrip*
+- **Execução:** padrão
+- **Alcance:** raio de 1sqr (centrado em você)
+- **Alvo:** 1 criatura
+- **Duração:** imediata.
+___
+
+You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
+
+- **+1PM:** increase the damage by +1d6.
 
 ### Zephyr Strike (1 MP)
-<div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
+<div class="spell-tags">warmagic energy force thaumaturgy boost no-sacred wind nature</div>
 
 *1st Circle*
 - **Execução:** movimento
@@ -689,4 +753,6 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 

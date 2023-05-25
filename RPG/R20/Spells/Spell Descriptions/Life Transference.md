@@ -10,8 +10,7 @@ TAGS:
 - #necrotic
 - #decay
 - #recovery
-- #no
-- #sacred
+- #no-sacred
 
 LEVEL: 3
 CAST_TIME: 1 Action

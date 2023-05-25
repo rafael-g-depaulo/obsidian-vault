@@ -15,7 +15,6 @@
 - [[Thunderclap]]
 
 ### 1st Circle
-- [[Abençoar Alimentos]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
@@ -71,21 +70,6 @@
 
 ## Spell Descriptions
 
-### Abençoar Alimentos (1 MP)
-<div class="spell-tags">holy sacred plant no wild</div>
-
-*1st Circle*
-- **Execução:** padrão
-- **Alcance:** curto;
-- **Alvo:** alimento para 1 criatura;
-- **Duração:** cena.
-___
-
-Você purifica e abençoa uma porção de comida ou dose de bebida. Isso torna um alimento sujo, estragado ou envenenado próprio para consumo. Além disso, se for consumido até o final da duração, o alimento oferece 5 PV temporários ou 1 PM temporário (além de quaisquer bônus que já oferecesse). Bônus de alimentação duram um dia e cada personagem só pode receber um bônus de alimentação por dia. Truque: o alimento é purificado (não causa nenhum efeito nocivo se estava estragado ou envenenado), mas não oferece bônus ao ser consumido.
-
-- **+1 PM:** aumenta o número de alvos em +1..
-- **+1 PM:** muda a duração para permanente, o alvo para 1 frasco com água e adiciona componente material (pó de prata no valor de T$ 5). Em vez do normal, cria um frasco de água benta..
-
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -136,8 +120,7 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
 
 - **+1PM:** aumenta os PV temporários em 5.
-- **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
-\page
+- **+1PM:** aumenta o dano em 5.
 
 ### Barkskin (2 MP)
 <div class="spell-tags">plant wild boost sacred abjuration thaumaturgy warmagic</div>
@@ -152,7 +135,8 @@ ___
 You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s Defense can’t be less than 16, regardless of what kind of armor it is wearing.
 
 - **+2PM:** increase the minimum Defense by +1.
-- **+3PM:** increase the number of targets by 1.
+- **+3PM:** increase the number of targets by 1.{{pageNumber,auto}}
+\page
 
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
@@ -196,8 +180,7 @@ Each humanoid in a 20-foot-radius sphere centered on a point you choose within r
   
 Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Caminhos da Natureza (1 MP)
 <div class="spell-tags">wild summon enchantment trickery</div>
@@ -213,7 +196,8 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 
 - **+0 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
 - **+1 PM:** além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
-- **+2 PM:** aumenta o bônus de deslocamento em +3m.
+- **+2 PM:** aumenta o bônus de deslocamento em +3m.{{pageNumber,auto}}
+\page
 
 ### Campo de Força (3 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
@@ -261,8 +245,7 @@ ___
 
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.
 
-- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.{{pageNumber,auto}}
-\page
+- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.
 
 ### Cause Fear (1 MP)
 <div class="spell-tags">curse trickery enchantment occult</div>
@@ -276,7 +259,8 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **+2PM:** target one additional creature.
+- **+2PM:** target one additional creature.{{pageNumber,auto}}
+\page
 
 ### Charm Person (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -293,7 +277,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 - **+2PM:** target one additional creature.
 
 ### Compelled Duel (1 MP)
-<div class="spell-tags">warmagic holy enchantment no trickery sacred thaumaturgy</div>
+<div class="spell-tags">warmagic holy enchantment trickery sacred thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento
@@ -322,8 +306,7 @@ ___
 
 Esta magia só pode ser lançada em uma área com vegetação. As plantas se enroscam nas criaturas da área. Aquelas que falharem na resistência ficam enredadas. Uma vítima pode se libertar com uma ação padrão e um teste de Acrobacia ou Atletismo. Além disso, a área é considerada terreno difícil. No início de seus turnos, a vegetação tenta enredar novamente qualquer criatura na área, exigindo um novo teste de Reflexos.
 
-- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
-\page
+- **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Crown of Madness (2 MP)
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
@@ -343,7 +326,8 @@ The charmed target must use its action before moving on each of its turns to mak
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
-- **+2PM:** increase the damage by +1d8.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Curar Ferimentos (1 MP)
 <div class="spell-tags">recovery sacred</div>
@@ -395,8 +379,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 - **+2 PM:** muda o alvo para objeto mundano Médio. Requer 3º círculo..
 - **+5 PM:** muda o alvo para objeto mundano Grande. Requer 5º círculo..
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
-- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..{{pageNumber,auto}}
-\page
+- **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
 
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
@@ -409,7 +392,8 @@ ___
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Earth Tremor (1 MP)
 <div class="spell-tags">earth nature transmutation arcane</div>
@@ -454,8 +438,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 - **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar..
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
-- **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
-\page
+- **+5 PM:** afeta todos os alvos dentro do alcance..
 
 ### Enlarge/Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
@@ -477,7 +460,8 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-
+{{pageNumber,auto}}
+\page
 
 ### Entangle (1 MP)
 <div class="spell-tags">plant wild trickery</div>
@@ -532,8 +516,7 @@ ___
 Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no ponto escolhido). Todas as criaturas nessa área devem passar em um teste de resistência, ou tomam 3d8 dano de impacto (quem passar toma metade do dano). Criaturas inorgânicas e objetos são vulneráveis a esse dano (dano dobrado).
 
 - **+2 PM:** aumenta o  ano em +1d8..
-- **+2 PM:** aumenta diâmetro da explosão em 1sqr..{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta diâmetro da explosão em 1sqr..
 
 ### False Life (1 MP)
 <div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
@@ -546,10 +529,11 @@ ___
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-- **+1PM:** aumenta +1d4 nos PV temporários.
+- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
+\page
 
 ### Feather Fall (1 MP)
-<div class="spell-tags">transmutation wind arcane no thaumaturgy nature</div>
+<div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
 *1st Circle*
 - **Execução:** reação
@@ -592,8 +576,7 @@ ___
 
 Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágico). Se falhar no teste de resistência, o alvo ambém fica coberto por um muco corrosivo durante duas rodadas, sofrendo mais 2d6 de dano de ácido no início de seus turnos. Se lançada contra um objeto livre (que não esteja em posse de uma criatura) a agia causa dano dobrado e ignora a RD do objeto.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -606,7 +589,8 @@ ___
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Goodberry (1 MP)
 <div class="spell-tags">plant wild summon</div>
@@ -647,8 +631,7 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
@@ -663,7 +646,8 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.
+- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
+\page
 
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -705,8 +689,7 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -720,7 +703,8 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
+\page
 
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
@@ -768,8 +752,7 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
-\page
+- **+2 PM:** Aumenta o dano em 1d12..
 
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -787,7 +770,8 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
@@ -828,8 +812,7 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -853,7 +836,8 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Shillelagh (0 MP)
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -898,8 +882,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
 
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
@@ -915,7 +898,8 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -964,8 +948,7 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -979,7 +962,8 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.
+- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
+\page
 
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
@@ -1030,8 +1014,7 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Warding Wind (2 MP)
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>

@@ -120,10 +120,12 @@ List of spells available for a Spelgard to learn.
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
+- [[Word of Radiance]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Benção]]
 - [[Burning Hands]]
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
@@ -134,6 +136,7 @@ List of spells available for a Spelgard to learn.
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
@@ -153,6 +156,7 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
+- [[Prayer of Healing]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]

@@ -5,7 +5,6 @@ TAGS:
 - #warmagic
 - #holy
 - #enchantment
-- #no
 - #trickery
 - #sacred
 - #thaumaturgy

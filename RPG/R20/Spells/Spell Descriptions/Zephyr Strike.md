@@ -7,8 +7,7 @@ TAGS:
 - #force
 - #thaumaturgy
 - #boost
-- #no
-- #sacred
+- #no-sacred
 - #wind
 - #nature
 

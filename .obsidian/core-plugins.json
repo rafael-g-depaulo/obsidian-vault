@@ -8,6 +8,7 @@
   "outgoing-link",
   "tag-pane",
   "page-preview",
+  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
@@ -15,5 +16,6 @@
   "bookmarks",
   "markdown-importer",
   "word-count",
+  "audio-recorder",
   "file-recovery"
 ]

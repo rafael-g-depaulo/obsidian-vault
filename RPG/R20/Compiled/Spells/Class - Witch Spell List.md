@@ -7,7 +7,6 @@
 - [[Frostbite]]
 - [[Infestation]]
 - [[Minor Ilusion]]
-- [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
 
@@ -345,7 +344,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 - **+2PM:** aumente o dano em 1d6.
 
 ### Healing Word (1 MP)
-<div class="spell-tags">recovery sacred speech no trickery</div>
+<div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Movement Action
@@ -485,7 +484,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 \page
 
 ### Life Transference (3 MP)
-<div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no sacred</div>
+<div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
 *3rd Circle*
 - **Execução:** 1 Action
@@ -514,7 +513,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 - **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..
 
 ### Mass Healing Word (3 MP)
-<div class="spell-tags">recovery sacred speech no trickery</div>
+<div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *3rd Circle*
 - **Execução:** 1 Movement Action
@@ -597,7 +596,7 @@ Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Pe
 - **+2 PM:** aumenta as penalidades em –1.
 
 ### Prayer of Healing (2 MP)
-<div class="spell-tags">speech holy recovery sacred no trickery</div>
+<div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
 *2nd Circle*
 - **Execução:** 10 Minutes
@@ -629,20 +628,6 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 
 
-### Ray of Frost (0 MP)
-<div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
-
-*Cantrip*
-- **Execução:** padrão
-- **Alcance:** 12sqr
-- **Alvo:** 1 criatura
-- **Duração:** imediata.
-___
-
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
-
-- **+2PM:** increase the damage by +1d8.
-
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -668,8 +653,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
-\page
+- **+1PM:** Add +1d8 to the dice rolled..
 
 ### Snare (1 MP)
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
@@ -683,7 +667,8 @@ ___
 
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Tentacle Twister (1 MP)
 <div class="spell-tags">occult unholy summon wild</div>
@@ -702,7 +687,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **+3PM:** increase the radius by 1sqr.
 
 ### Toll the Dead (0 MP)
-<div class="spell-tags">occult unholy decay necrotic wind no nature</div>
+<div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
 *Cantrip*
 - **Execução:** 1 Action
@@ -730,8 +715,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
 
 ### Vicious Mockery (0 MP)
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
@@ -746,7 +730,8 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
+\page
 
 ### Wither and Bloom  (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>

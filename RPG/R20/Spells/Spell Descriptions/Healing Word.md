@@ -5,8 +5,7 @@ TAGS:
 - #recovery
 - #sacred
 - #speech
-- #no
-- #trickery
+- #no-trickery
 
 LEVEL: 1
 CAST_TIME: 1 Movement Action

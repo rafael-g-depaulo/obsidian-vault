@@ -7,8 +7,7 @@ TAGS:
 - #decay
 - #necrotic
 - #wind
-- #no
-- #nature
+- #no-nature
 
 LEVEL: 0
 CAST_TIME: 1 Action

@@ -6,8 +6,7 @@ TAGS:
 - #holy
 - #recovery
 - #sacred
-- #no
-- #trickery
+- #no-trickery
 
 LEVEL: 2
 CAST_TIME: 10 Minutes

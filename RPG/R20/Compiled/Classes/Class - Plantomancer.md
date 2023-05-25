@@ -111,7 +111,6 @@ List of spells available for a Plantomancer to learn.
 - [[Thunderclap]]
 
 ### 1st Circle
-- [[Abençoar Alimentos]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]

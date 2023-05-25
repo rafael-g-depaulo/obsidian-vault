@@ -17,5 +17,8 @@
   "spellcheckLanguages": [
     "en-US",
     "pt-BR"
+  ],
+  "userIgnoreFilters": [
+    "RPG/R20/Compiled/"
   ]
 }

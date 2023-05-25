@@ -7,8 +7,7 @@ TAGS:
 - #radiant
 - #energy
 - #speech
-- #no
-- #trickery
+- #no-trickery
 
 LEVEL: 0
 

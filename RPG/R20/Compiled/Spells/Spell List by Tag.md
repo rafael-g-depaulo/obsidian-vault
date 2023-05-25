@@ -297,6 +297,7 @@
 ### Cantrip
 - [[Primal Savagery]]
 ### 1st Circle
+- [[Abençoar Alimentos]]
 - [[Animal Friendship]]
 - [[Beast Bont]]
 - [[Detectar Ameaças]]
@@ -382,7 +383,6 @@
 - [[Booming Blade]]
 - [[Shape Water]]
 - [[Thunderclap]]
-- [[Toll the Dead]]
 ### 1st Circle
 - [[Catapult]]
 - [[Despedaçar]]
@@ -420,24 +420,36 @@
 - [[Life Transference]]
 - [[Toque Vampírico]]
 
-## No Spells
+## No-nature Spells
+### Cantrip
+- [[Toll the Dead]]
+
+## No-occult Spells
 ### Cantrip
 - [[Ray of Frost]]
-- [[Toll the Dead]]
-- [[Word of Radiance]]
+
+## No-sacred Spells
 ### 1st Circle
-- [[Abençoar Alimentos]]
-- [[Benção]]
-- [[Compelled Duel]]
 - [[Concentração de Combate]]
-- [[Feather Fall]]
-- [[Healing Word]]
 - [[Zephyr Strike]]
 ### 2nd Circle
-- [[Prayer of Healing]]
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Life Transference]]
+
+## No-thaumaturgy Spells
+### 1st Circle
+- [[Feather Fall]]
+
+## No-trickery Spells
+### Cantrip
+- [[Word of Radiance]]
+### 1st Circle
+- [[Benção]]
+- [[Healing Word]]
+### 2nd Circle
+- [[Prayer of Healing]]
+### 3rd Circle
 - [[Mass Healing Word]]
 
 ## Occult Spells
@@ -446,7 +458,6 @@
 - [[Chill Touch]]
 - [[Frostbite]]
 - [[Infestation]]
-- [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
 ### 1st Circle
@@ -541,7 +552,6 @@
 - [[Arma Mágica]]
 - [[Benção]]
 - [[Compelled Duel]]
-- [[Concentração de Combate]]
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease (Ritual)]]
 - [[Divine Favor]]
@@ -552,7 +562,6 @@
 - [[Luz]]
 - [[Mage Armor]]
 - [[Primor Atlético]]
-- [[Zephyr Strike]]
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
@@ -564,13 +573,11 @@
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[See invisibility]]
-- [[Spider Climb]]
 - [[Warding Bond]]
 - [[Wither and Bloom ]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
-- [[Life Transference]]
 - [[Mass Healing Word]]
 - [[Oração]]
 - [[Raio Solar]]
@@ -636,7 +643,6 @@
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[False Life]]
-- [[Feather Fall]]
 - [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Imagem Espelhada]]
@@ -701,11 +707,9 @@
 - [[Message]]
 - [[Minor Ilusion]]
 - [[Vicious Mockery]]
-- [[Word of Radiance]]
 ### 1st Circle
 - [[Animal Friendship]]
 - [[Beast Bont]]
-- [[Benção]]
 - [[Caminhos da Natureza]]
 - [[Cause Fear]]
 - [[Charm Person]]
@@ -716,7 +720,6 @@
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escuridão]]
-- [[Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]
@@ -734,7 +737,6 @@
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Pass Without a Trace]]
-- [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
 - [[Sugestion]]
 - [[Web]]
@@ -742,7 +744,6 @@
 - [[Camuflagem ilusória]]
 - [[Espelho do Pântano]]
 - [[Invisibilidade]]
-- [[Mass Healing Word]]
 - [[Oração]]
 
 ## Unholy Spells

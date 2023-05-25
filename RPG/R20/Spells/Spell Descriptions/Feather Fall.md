@@ -5,8 +5,7 @@ TAGS:
 - #transmutation
 - #wind
 - #arcane
-- #no
-- #thaumaturgy
+- #no-thaumaturgy
 - #nature 
 
 LEVEL: 1

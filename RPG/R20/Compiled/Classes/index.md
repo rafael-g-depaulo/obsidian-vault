@@ -29,7 +29,7 @@ Smite! Lay on Hands
 Spiritual Weapon. Lay on Hands
 
 #### Enhancer (TBI)
-off-caster who fights and can apply temporary buffs that make them hit harder and stronger.
+off-caster who fights and can apply temporary buffs that make them hit harder and stronger. add random elemental damage to attack after spell cast.
 
 #### Blood Mage (TBI)
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
@@ -657,7 +657,6 @@ List of spells available for a Plantomancer to learn.
 - [[Thunderclap]]
 
 ### 1st Circle
-- [[Abençoar Alimentos]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
@@ -917,10 +916,12 @@ List of spells available for a Spelgard to learn.
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
+- [[Word of Radiance]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Benção]]
 - [[Burning Hands]]
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
@@ -931,6 +932,7 @@ List of spells available for a Spelgard to learn.
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
@@ -950,6 +952,7 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
+- [[Prayer of Healing]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
@@ -1159,7 +1162,6 @@ Spell List:
 - [[Frostbite]]
 - [[Infestation]]
 - [[Minor Ilusion]]
-- [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
 

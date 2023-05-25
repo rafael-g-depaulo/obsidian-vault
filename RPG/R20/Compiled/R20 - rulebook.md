@@ -400,7 +400,7 @@ Smite! Lay on Hands
 Spiritual Weapon. Lay on Hands
 
 #### Enhancer (TBI)
-off-caster who fights and can apply temporary buffs that make them hit harder and stronger.
+off-caster who fights and can apply temporary buffs that make them hit harder and stronger. add random elemental damage to attack after spell cast.
 
 #### Blood Mage (TBI)
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
@@ -1028,7 +1028,6 @@ List of spells available for a Plantomancer to learn.
 - [[Thunderclap]]
 
 ### 1st Circle
-- [[Abençoar Alimentos]]
 - [[Armor of Agathys]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
@@ -1288,10 +1287,12 @@ List of spells available for a Spelgard to learn.
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
+- [[Word of Radiance]]
 
 ### 1st Circle
 - [[Arma Mágica]]
 - [[Armor of Agathys]]
+- [[Benção]]
 - [[Burning Hands]]
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
@@ -1302,6 +1303,7 @@ List of spells available for a Spelgard to learn.
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
@@ -1321,6 +1323,7 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
+- [[Prayer of Healing]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]
@@ -1530,7 +1533,6 @@ Spell List:
 - [[Frostbite]]
 - [[Infestation]]
 - [[Minor Ilusion]]
-- [[Ray of Frost]]
 - [[Toll the Dead]]
 - [[Vicious Mockery]]
 
@@ -2653,7 +2655,7 @@ nature -> elemental -> wild -> nature
 . Here is a list of all spells, sorted alphabetically
 
 ### Abençoar Alimentos (1 MP)
-<div class="spell-tags">holy sacred plant no wild</div>
+<div class="spell-tags">holy sacred plant feral wild</div>
 
 *1st Circle*
 - **Execução:** padrão
@@ -2821,7 +2823,7 @@ You touch a willing beast. For the duration of the spell, you can use your actio
 
 
 ### Benção (1 MP)
-<div class="spell-tags">boost sacred speech no trickery</div>
+<div class="spell-tags">boost sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Action
@@ -3069,7 +3071,7 @@ ___
 - **+2PM:** target an additional creature.
 
 ### Compelled Duel (1 MP)
-<div class="spell-tags">warmagic holy enchantment no trickery sacred thaumaturgy</div>
+<div class="spell-tags">warmagic holy enchantment trickery sacred thaumaturgy</div>
 
 *1st Circle*
 - **Execução:** movimento
@@ -3087,7 +3089,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 \page
 
 ### Concentração de Combate (1 MP)
-<div class="spell-tags">boost no sacred thaumaturgy warmagic</div>
+<div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
 *1st Circle*
 - **Execução:** livre
@@ -3510,7 +3512,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 - **+1PM:** aumenta +1d4 nos PV temporários.
 
 ### Feather Fall (1 MP)
-<div class="spell-tags">transmutation wind arcane no thaumaturgy nature</div>
+<div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
 *1st Circle*
 - **Execução:** reação
@@ -3670,7 +3672,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 - **cost:** description.
 
 ### Healing Word (1 MP)
-<div class="spell-tags">recovery sacred speech no trickery</div>
+<div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *1st Circle*
 - **Execução:** 1 Movement Action
@@ -3825,7 +3827,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 
 ### Life Transference (3 MP)
-<div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no sacred</div>
+<div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
 *3rd Circle*
 - **Execução:** 1 Action
@@ -3947,7 +3949,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+1 PM:** Increase the number of pebbles by 1..
 
 ### Mass Healing Word (3 MP)
-<div class="spell-tags">recovery sacred speech no trickery</div>
+<div class="spell-tags">recovery sacred speech no-trickery</div>
 
 *3rd Circle*
 - **Execução:** 1 Movement Action
@@ -4080,7 +4082,7 @@ You extend your hand toward a creature you can see within range and project a pu
 - **+2 PM:** Aumenta o dano em 1d12..
 
 ### Prayer of Healing (2 MP)
-<div class="spell-tags">speech holy recovery sacred no trickery</div>
+<div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
 *2nd Circle*
 - **Execução:** 10 Minutes
@@ -4164,7 +4166,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 \page
 
 ### Ray of Frost (0 MP)
-<div class="spell-tags">curse no occult evocation cold thaumaturgy elemental</div>
+<div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
 
 *Cantrip*
 - **Execução:** padrão
@@ -4350,7 +4352,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 \page
 
 ### Spider Climb (2 MP)
-<div class="spell-tags">feral transmutation wild arcane earth nature boost no sacred</div>
+<div class="spell-tags">feral transmutation wild arcane earth nature boost no-sacred</div>
 
 *2nd Circle*
 - **Execução:** padrão
@@ -4506,7 +4508,7 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 - **+1PM:** increase the damage by 1d6..
 
 ### Toll the Dead (0 MP)
-<div class="spell-tags">occult unholy decay necrotic wind no nature</div>
+<div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
 *Cantrip*
 - **Execução:** 1 Action
@@ -4666,7 +4668,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 \page
 
 ### Word of Radiance (0 MP)
-<div class="spell-tags">holy sacred radiant energy speech no trickery</div>
+<div class="spell-tags">holy sacred radiant energy speech no-trickery</div>
 
 *Cantrip*
 - **Execução:** padrão
@@ -4680,7 +4682,7 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 - **+1PM:** increase the damage by +1d6.
 
 ### Zephyr Strike (1 MP)
-<div class="spell-tags">warmagic energy force thaumaturgy boost no sacred wind nature</div>
+<div class="spell-tags">warmagic energy force thaumaturgy boost no-sacred wind nature</div>
 
 *1st Circle*
 - **Execução:** movimento
@@ -4690,6 +4692,8 @@ You utter a divine word, and burning radiance erupts from you. Each creature of 
 ___
 
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
 
 
