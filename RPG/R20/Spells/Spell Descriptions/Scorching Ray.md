@@ -9,7 +9,7 @@ TAGS:
 - #spell 
 - #evocation 
 - #thaumaturgy 
-- #energy 
+- #elemental
 - #fire 
 
 DESCRIPTION:
