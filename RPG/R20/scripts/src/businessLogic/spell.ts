@@ -143,8 +143,23 @@ const spellItemsString = (items: Spell['items']) =>
     .map(([key, value]) => `- **${SpellItemLabelName[key]}:** ${value}\n`)
     .join('')
 
+export const SpellBaseCostDict: { [k: number]: number } = {
+  [0]: 0,
+  [1]: 1,
+  [2]: 2,
+  [3]: 3,
+  [4]: 4,
+  [5]: 6,
+  [6]: 8,
+  [7]: 10,
+  [8]: 12,
+  [9]: 15,
+}
+
+const spellBaseCost = (spell: Spell) => SpellBaseCostDict[spell.level] ?? -1
+
 export const spellString = (spell: Spell) =>
-  `\n### ${spell.name}\n` +
+  `\n### ${spell.name} (${spellBaseCost(spell)} MP)\n` +
   `<div class="spell-tags">${spell.tags
     .filter(tag => tag !== 'spell')
     .join(' ')}</div>\n\n` +

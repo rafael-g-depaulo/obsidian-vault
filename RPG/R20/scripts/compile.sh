@@ -4,6 +4,6 @@
 source ~/.nvm/nvm.sh
 
 nvm use &>/dev/null
-yarn compile
+yarn compile &>/dev/null
 
 echo 'Compiled!'

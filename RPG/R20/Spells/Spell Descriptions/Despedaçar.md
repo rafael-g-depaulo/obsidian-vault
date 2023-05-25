@@ -17,6 +17,8 @@ RESISTANCE: CON.
 DESCRIPTION:
 Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pontos de dano de impacto e fica atordoado por uma rodada (resistência reduz o dano à metade e evita o atordoamento). Construtos sofrem dano dobrado por essa magia. Se o alvo é um objeto, é destruído.
 
+TODO: transformar em magia de ataque, não resist.
+
 INCREASES:
 | cost | description |
 | ---- | ----------- |

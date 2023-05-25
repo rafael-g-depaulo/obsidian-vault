@@ -4,4 +4,6 @@
 
 ![[Caster Feats]]
 
+![[Specialist Feats]]
+
 ![[Companion Feats]]

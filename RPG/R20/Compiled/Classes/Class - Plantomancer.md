@@ -5,7 +5,7 @@
 <style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
-**MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain an extra 6 per level.
+**MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
 **Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
 
@@ -71,16 +71,20 @@ Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para cri
 
 Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
 
-As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
+As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
 
 - **Herbomancia: Troco Paredão**. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
-- **Herbomancia: Trepadeira da Batata de Aço**. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado.
+- **Herbomancia: Trepadeira da Batata de Aço**. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Crescimento Acelerado.
 
-- braço treinado. dobra o alcance das plantas que vc pode plantar.
+- **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- Raíz come-asfalto. você recebe +5 em testes de Natureza para Herbomancia.
+- **Tunnel pelo solo.** (1x turno) Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+
+- **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
+
+- **Raiz come-asfalto.** você recebe +5 em testes de Natureza para Herbomancia.
 
 - **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
@@ -144,6 +148,7 @@ List of spells available for a Plantomancer to learn.
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Enlarge/Reduce]]
+- [[Explosão Sonora]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]

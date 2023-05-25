@@ -19,26 +19,26 @@ Beastly Rage. Savage Attack
 [[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
 
-### Champion
+#### Champion
 [[Class - Champion]]
 Smite! Lay on Hands
 
-## Off-Caster Classes
-### Spelgard
+### Off-Caster Classes
+#### Spelgard
 [[Class - Spelgard]]
 Spiritual Weapon. Lay on Hands
 
-### Enhancer (Off-caster) (WIP)
-off-caster who fights and can apply temporary buffs that make them hit harder and stronger. This could also be implemented as a Martial archetype, but i think it would be cooler as an Enhancer.
+#### Enhancer (TBI)
+off-caster who fights and can apply temporary buffs that make them hit harder and stronger.
 
-### Beast Master (Off-Caster? really complicated) (WIP)
-Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
+#### Blood Mage (TBI)
+can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
 
-### Bard (Off-Caster) (WIP)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster
+#### Bard (TBI)
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [[RPG/R20/Compiled/Classes/multi-form changing guy|multi-form changing guy]]
 
 ### Caster Classes
-### Witch
+#### Witch
 [[RPG/R20/Classes/Class - Witch|Class - Witch]]
 A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
 
@@ -48,7 +48,7 @@ A caster with many curses and concentration effects, destroying enemies and supp
 #### Plantomancer
 [[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
 
-#### Wordsmith (WIP)
+#### Wordsmith (TBI)
 Creates spells at will with magic radicals and afixes
 
 ### Specialist Classes
@@ -64,12 +64,8 @@ has the ability to transform into a wild, untamed beast form, witch flips it's p
 [[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
 Dance around the battlefield, dodge, buff and deal dmg
 
-#### Alquimist
+#### Alquimist (WIP)
 [[RPG/R20/Classes/Class - Alquimist (WIP)|Class - Alquimist (WIP)]]
-
-### Probably cut off
-### Symbiote (Martial probably, or maybe off-caster) (WIP)
-Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
 
 
 ## Creating a Class
@@ -555,7 +551,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 <style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
-**MP**: You start at 1st level with 6 (+INT mod.) maximum MP, and gain an extra 6 per level.
+**MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
 **Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
 
@@ -621,16 +617,20 @@ Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para cri
 
 Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
 
-As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de INT de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
+As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
 
 - **Herbomancia: Troco Paredão**. 1PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 4,5m de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
-- **Herbomancia: Trepadeira da Batata de Aço**. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Cresimento Acelerado.
+- **Herbomancia: Trepadeira da Batata de Aço**. 2PM. A planta te protege como uma armadura, e toma dano por você. Dura 1 turno. Pré-requisitos: Crescimento Acelerado.
 
-- braço treinado. dobra o alcance das plantas que vc pode plantar.
+- **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- Raíz come-asfalto. você recebe +5 em testes de Natureza para Herbomancia.
+- **Tunnel pelo solo.** (1x turno) Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+
+- **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
+
+- **Raiz come-asfalto.** você recebe +5 em testes de Natureza para Herbomancia.
 
 - **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
@@ -694,6 +694,7 @@ List of spells available for a Plantomancer to learn.
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Enlarge/Reduce]]
+- [[Explosão Sonora]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Maximilian's Earthen Grasp]]
@@ -948,6 +949,7 @@ List of spells available for a Spelgard to learn.
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[Moonbeam]]
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Warding Bond]]

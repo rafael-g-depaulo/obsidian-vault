@@ -17,26 +17,26 @@ Beastly Rage. Savage Attack
 [[Class - Juggernaut]]
 Raise Guard. Powerful Strike.
 
-### Champion
+#### Champion
 [[Class - Champion]]
 Smite! Lay on Hands
 
-## Off-Caster Classes
-### Spelgard
+### Off-Caster Classes
+#### Spelgard
 [[Class - Spelgard]]
 Spiritual Weapon. Lay on Hands
 
-### Enhancer (Off-caster) (WIP)
-off-caster who fights and can apply temporary buffs that make them hit harder and stronger. This could also be implemented as a Martial archetype, but i think it would be cooler as an Enhancer.
+#### Enhancer (TBI)
+off-caster who fights and can apply temporary buffs that make them hit harder and stronger.
 
-### Beast Master (Off-Caster? really complicated) (WIP)
-Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
+#### Blood Mage (TBI)
+can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
 
-### Bard (Off-Caster) (WIP)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument.
+#### Bard (TBI)
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [[RPG/R20/Compiled/Classes/multi-form changing guy|multi-form changing guy]]
 
 ### Caster Classes
-### Witch
+#### Witch
 [[RPG/R20/Classes/Class - Witch|Class - Witch]]
 A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
 
@@ -46,7 +46,7 @@ A caster with many curses and concentration effects, destroying enemies and supp
 #### Plantomancer
 [[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
 
-#### Wordsmith (WIP)
+#### Wordsmith (TBI)
 Creates spells at will with magic radicals and afixes
 
 ### Specialist Classes
@@ -62,14 +62,17 @@ has the ability to transform into a wild, untamed beast form, witch flips it's p
 [[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
 Dance around the battlefield, dodge, buff and deal dmg
 
-#### Alquimist
+#### Alquimist (WIP)
 [[RPG/R20/Classes/Class - Alquimist (WIP)|Class - Alquimist (WIP)]]
 
+%%
 ### Probably cut off
-### Symbiote (Martial probably, or maybe off-caster) (WIP)
+#### Symbiote (Martial probably, or maybe off-caster) (WIP)
 Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
+#### Beast Master (or maybe Symbiote) (TBI)
+Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 
-
+%%
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)

@@ -1,8 +1,11 @@
 ## NOME_HERE
+God of forests, vengeance, the moon & the night.
+
 ### Values
 - Ruthlessness
 - Respect towards nature
 - Torture of the evil
+- Revenge
 
 ### Hates
 - Strahd.
@@ -27,4 +30,4 @@
 **NAME_HERE.** Ação: alguma coisa de veneno?
 
 Magias potenciais pra pegar:
-- 
+- Moonbeam claro

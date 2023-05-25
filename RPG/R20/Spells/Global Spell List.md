@@ -8,3 +8,10 @@
 # Spells
 . Here is a list of all spells, sorted alphabetically
 {{all-spells-descriptions}}
+
+%%
+Spells considering adapting:
+- color spray
+- alter self
+
+%%

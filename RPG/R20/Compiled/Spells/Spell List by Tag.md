@@ -58,6 +58,7 @@
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Explosão Sonora]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Maximilian's Earthen Grasp]]
@@ -267,6 +268,7 @@
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Crown of Madness]]
+- [[Moonbeam]]
 
 ## Evocation Spells
 ### Cantrip
@@ -344,6 +346,7 @@
 - [[Darkvision]]
 - [[Lesser Restoration]]
 - [[Lesser Restoration]]
+- [[Moonbeam]]
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Raio Solar]]
@@ -392,6 +395,7 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Earthbind]]
+- [[Explosão Sonora]]
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
 - [[Warding Wind]]
@@ -511,6 +515,8 @@
 - [[Word of Radiance]]
 ### 1st Circle
 - [[Divine Favor]]
+### 2nd Circle
+- [[Moonbeam]]
 
 ## Recovery Spells
 ### 1st Circle
@@ -555,6 +561,7 @@
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Lesser Restoration]]
+- [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[See invisibility]]
 - [[Spider Climb]]
@@ -680,6 +687,7 @@
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Explosão Sonora]]
 - [[Heat Metal]]
 - [[Spider Climb]]
 - [[Warding Wind]]
@@ -820,6 +828,7 @@
 - [[Barkskin]]
 - [[Beast Sense]]
 - [[Enhance Ability]]
+- [[Moonbeam]]
 - [[Pass Without a Trace]]
 - [[Spider Climb]]
 - [[Spike Growth]]
@@ -844,6 +853,7 @@
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
+- [[Explosão Sonora]]
 - [[Warding Wind]]
 ### 3rd Circle
 - [[Soco de Arsenal]]

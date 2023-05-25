@@ -29,27 +29,27 @@ kanban-plugin: basic
 
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
+- [ ] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
+- [ ] lambrar mari sessão 0
 - [ ] add tashas mind wip spell
 - [ ] add snow storm spell
-- [ ] add shatter (prolly already added)
 - [ ] add scorching ray
 - [ ] add binding ice
-- [ ] add moonbeam
 - [ ] add flame blade
 - [ ] add dust devil
 - [ ] add cordon of arrows
-- [ ] lambrar mari sessão 0
 
 
 ## doing
 
 - [ ] take test (domingo)
 - [ ] rodar ragic. convidar sig
-- [ ] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
 
 
 ## done
 
+- [x] add moonbeam
+- [x] add shatter (prolly already added)
 - [x] add pygments to setup
 
 

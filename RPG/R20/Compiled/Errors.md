@@ -42,4 +42,5 @@ Here's a list of all of the errors found.
 - [[Espelho do Pântano]] Spell has tag "divination" but is missing it's group tag "arcane" (or you can add "#no-arcane")
 
 ## Spell Tag
+- [[Moonbeam]] Spell should have either "wip" or "spell" tag
 - [[Wither and Bloom ]] Spell should have either "wip" or "spell" tag
