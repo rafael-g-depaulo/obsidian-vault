@@ -18,3 +18,12 @@ To set a default version:
 nvm alias default 20
 nvm use default
 ```
+
+## Global packages
+If you have global packages you want always installed in your node versions, add the packages you want to `$NVM_DIR/default-packages`. Example:
+```sh
+echo '# $NVM_DIR/default-packages
+create-react-app
+prettier-cli
+' > $NVM_DIR/default-packages
+```
