@@ -33,7 +33,7 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 
 ### Bard (Off-Caster) (WIP)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument.
 
 ### Caster Classes
 ### Witch
