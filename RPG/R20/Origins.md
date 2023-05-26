@@ -39,7 +39,7 @@ Here's a list of origins:
 
 ### Loner
 **Attributes**: +2 STR, +1 SEN, -1 PRE.
-**Lone wolf**: +1 DEF when you have no allies within short range of you.
+**Lone wolf**: +1 DEF when you have no allies within 6sqr of you.
 
 ### Schemer
 **Attributes**: +2 DEX, +1 PRE, -1 CON
@@ -69,7 +69,11 @@ You did a lot of arena fighting in your younger days. You might have gotten a bi
 **Intimidating**. +2 to intimidation.
 
 ### Dropout
-You went out and got yourself a propper education in a fancy shmancy school! Well... you tried, at least.
+You went out and got yourself a proper education in a fancy shmancy school! Well... you tried, at least.
 
 **Atributes**: +1 to 3 attributes except Intelligence.
 **Skills**: +2 to Intelligence based skill checks to recall information (some things stuck. Not many, but some).
+
+%% Ideas
+cum
+%%
