@@ -11,7 +11,7 @@ ___
 {{width:30px}}
 **Guard**: X
 ___
-**CD Skills**: XX
+**CD Habilidades**: XX
 ___
 **Bonus de Proficiência**: +2
 ___
@@ -50,39 +50,34 @@ ___
 - Botânica: X = +X
 
 #### Sensibilidade (+X):
-- Perception: X = +X
-- Empathy: X = +X
-- Insight: 1 = +3
-- Arcana: 0 = +2
-- Animal Handling: 0 = +2
+- Percepção: X = +X
+- Empatia: X = +X
+- Intuição: X = +X
+- Arcana: X = +X
+- Adestramento: X = +X
 
-#### Presence (+1):
-- Cooking: 0 = +1
-- Deception: 0 = +1
-- Intimidation: 0 = +1
-- Persuasion: 0 = +1
-- Performance: 0 = +1
+#### Presença (+X):
+- Cozinhar: X = +X
+- Enganação: X = +X
+- Intimidação: X = +X
+- Persuasão: X = +X
+- Performance: X = +X
 
-### Powers
-- **Magic defense, bitch.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados).
+### Poderes
+- **Poder 1.** Descrição aqui. Descrição aqui. Descrição aqui.
+- **Poder 2.** Descrição aqui. Descrição aqui. Descrição aqui.
 
-- **Dropout.** +2 to Intelligence based skill checks to recall information.
+### Habilidades
 
-### Abilities
+**TEST :** Movimento (2MP): AAAAAAAAAAAAA. AAAAAAAAAAAA. AAAAAAAAAAAA.
 
-**Endurance :** Movement (2MP): for the rest of the scene, all attack/skill damage you take that's equal or below your guard becomes 0.
+**TEST :** Ação (2MP): AAAAAAAAAAAAA. AAAAAAAAAAAA. AAAAAAAAAAAA.
 
-**Curar Pelas Mãos :** Action (1PM): touch one creature, and heal them for 1d8+1.
+### Attaques
+- **Maça**: +6 acerto. 1d6+3 impacto. 19/2x critico.
 
-**Arma Espiritual :** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
-
-**Inspirar Confiança :**  Sua presença faz as pessoas darem o melhor de si. Você pode gastar 2 PM para fazer um aliado em alcance curto rolar novamente um teste recém realizado. 
-
-### Attacks
-- **Maça**: +6 to hit. 1d6+3 impacto. 19/2x critical.
-
-### Equipment
-- **Chain Mail.** (Dodge: -2, Guard: 4). Armor Penalty: -4
+### Equipamento
+- **Chain Mail.** (Evazão: -2, Guard: 4). Armor Penalty: -4
 - **Mace.** 1d6 bludgeoning. crit: 19/2x
 
 ### Magias
