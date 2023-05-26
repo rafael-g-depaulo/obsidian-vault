@@ -61,6 +61,8 @@ Curated lists:
 
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
+- [Neon](https://neon.tech/) — Serverless, Fault-Tolerant, Branchable Postgres
+
 
 ### Secret Management
 https://www.vaultproject.io/, which i got from this article: https://dev.to/gregorygaines/stop-using-env-files-now-kp0

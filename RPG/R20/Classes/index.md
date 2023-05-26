@@ -41,7 +41,7 @@ Smite! Lay on Hands
 #### Spelgard
 [[Class - Spelgard]]
 ##### Description
-O equilíbrio absoluto de defesa
+O equilíbrio absoluto de proficiência marcial, magias de suporte e magias ofensivas. Spelgards são considerados "batalhões de um homem só", que se adaptam a qualquer grupo e situação, e se sentem confortáveis em
 
 ##### Mechanics
 Spiritual Weapon. Lay on Hands
