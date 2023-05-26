@@ -39,17 +39,6 @@ kanban-plugin: basic
 
 ## done
 
-- [ ] add cordon of arrows
-- [ ] add flame blade
-- [ ] add binding ice
-- [ ] add scorching ray
-- [ ] add tashas mind wip spell
-- [ ] add snow storm spell
-- [x] take test (domingo)
-- [x] add moonbeam
-- [x] add shatter (prolly already added)
-- [x] add pygments to setup
-- [x] lambrar mari sessão 0
 
 
 ***
@@ -146,6 +135,17 @@ kanban-plugin: basic
 - [x] 2023-05-24 12:06 resultado análise
 - [x] 2023-05-24 12:06 dados contador
 - [x] 2023-05-24 12:06 deus david (falar com nay)
+- [x] 2023-05-25 21:16 add cordon of arrows
+- [x] 2023-05-25 21:16 add flame blade
+- [x] 2023-05-25 21:16 add binding ice
+- [x] 2023-05-25 21:16 add scorching ray
+- [x] 2023-05-25 21:16 add tashas mind wip spell
+- [x] 2023-05-25 21:16 add snow storm spell
+- [x] 2023-05-25 21:16 take test (domingo)
+- [x] 2023-05-25 21:16 add moonbeam
+- [x] 2023-05-25 21:16 add shatter (prolly already added)
+- [x] 2023-05-25 21:16 add pygments to setup
+- [x] 2023-05-25 21:16 lambrar mari sessão 0
 
 %% kanban:settings
 ```
