@@ -42,10 +42,10 @@
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.
 
 | d6  | Efeito Positivo                                                                                         |
-| :-: | :------------------------------------------------------------------------------------------------------ |
+|:---:|:------------------------------------------------------------------------------------------------------- |
 |  1  | 2d4+INT PV                                                                                              |
 |  2  | +2sqr (3m) velocidade de movimento                                                                      |
-|  3  | +1 Defesa                                                                                               |
+|  3  | +1 Defesa pela cena                                                                                     |
 |  4  | +1d4 em rolagens de ataque e testes de resistência                                                      |
 |  5  | 1d4 PM temporários                                                                                      |
 |  6  | 50% de chance de perder sua ação de movimento ou ganhar uma ação padrão extra no início dos seus turnos |

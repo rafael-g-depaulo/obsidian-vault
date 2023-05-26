@@ -100,17 +100,28 @@ sneak attack
 #### Werebeast
 [[RPG/R20/Classes/Class - Werebeast|Class - Werebeast]]
 ##### Description
-Seja por sua linhagem sanguínea, maldição, magia, experimentação científica ou outro motivo misterioso,.
+Seja por sua linhagem sanguínea, maldição, magia, experimentação científica ou outro motivo misterioso, esses indivíduos tem essa estranha habilidade de transformar seu corpo em uma fera poderosa.
 
 ##### Mechanics
 Forma Bestial (transforma em uma besta forte e resistente).
+Corpo Aberrante (skills com efeitos diferentes na forma humana e de besta)
 
 #### Dancer
 [[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
-Dance around the battlefield, dodge, buff and deal dmg
+##### Description
+Dancers são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.
+
+##### Mechanics
+Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques físicos quando se movimenta)
 
 #### Alquimist (WIP)
 [[RPG/R20/Classes/Class - Alquimist (WIP)|Class - Alquimist (WIP)]]
+
+##### Description
+"Hey, toma um gole disso" -David, o Alquimista, prestes a curar seu aliado ou fazer seu oponente explodir em uma poça de gosma verde.
+
+##### Mechanics
+**Elixir Experimental.** (Spend PM, get potion with random positive effect.)
 
 %%
 ### Probably cut off
@@ -118,8 +129,8 @@ Dance around the battlefield, dodge, buff and deal dmg
 Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills) (adapted this into blood mage)
 #### Beast Master (or maybe Symbiote) (TBI)
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
-
 %%
+
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)
@@ -135,6 +146,7 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 	1. **Feat Groups:** In this effort of reinforcing class identity, it's interesting to think of a unique feat template and naming scheme, and apply that to create some different feats for the class, different from the singular feats created previously. Example: Plantomancer's **Herbomancy: \[Blank\]**, Spellgard's **Aura of \[Blank\]** and Beast Warrior's **Wild Rage: \[Blank\]**. It's recommended to have between 0 and 1 Feat groups per class.
 
 ### Recommended levels to add class features by archetype
+
 | Archetype  | Core Feature | Auxiliary Feature | Mid-Game Feature |
 | ---------- | ------------ | ----------------- | ---------------- |
 | Martial    | 1st          | 2nd               | 7th              |
