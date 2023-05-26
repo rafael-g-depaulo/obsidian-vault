@@ -17,8 +17,8 @@ ___
 \page
 
 <style>
-.page#p2{ text-align:center; counter-increment: none; }
-.page#p2:after{ display:none; }
+.page#p1{ text-align:center; counter-increment: none; }
+.page#p1:after{ display:none; }
 .page:nth-child(2n) .pageNumber { left: inherit !important; right: 2px !important; }
 .page:nth-child(2n+1) .pageNumber { right: inherit !important; left: 2px !important; }
 .page:nth-child(2n)::after { transform: scaleX(1); }
@@ -47,8 +47,8 @@ ___
 }}
 
 
+{{pageNumber,auto}}
 \page
-
 # Attributes
 
 ## Description
