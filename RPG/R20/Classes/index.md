@@ -41,7 +41,7 @@ Smite! Lay on Hands
 #### Spelgard
 [[Class - Spelgard]]
 ##### Description
-O equilíbrio absoluto de proficiência marcial, magias de suporte e magias ofensivas. Spelgards são considerados "batalhões de um homem só", que se adaptam a qualquer grupo e situação, e se sentem confortáveis em
+O equilíbrio absoluto de proficiência marcial, magias de suporte e magias ofensivas. Spelgards são considerados "batalhões de um homem só", que se adaptam a qualquer grupo e situação, e se sentem confortáveis em qualquer posição, seja em grupo ou agindo solo.
 
 ##### Mechanics
 Spiritual Weapon. Lay on Hands
@@ -58,10 +58,20 @@ Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substit
 ### Caster Classes
 #### Witch
 [[RPG/R20/Classes/Class - Witch|Class - Witch]]
-A caster with many curses and concentration effects, destroying enemies and supporting (and healing) allies, including the mysterious witch's brews.
+##### Description
+Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma presença absoluta e misteriosa, com poderes variados e domínios sobre a vida e morte.
+
+##### Mechanics
+Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
 #### Summoner
 [[RPG/R20/Classes/Class - Summoner (WIP)|Class - Summoner (WIP)]]
+
+##### Description
+"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
+
+##### Mechanics
+Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
 
 #### Plantomancer
 [[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
