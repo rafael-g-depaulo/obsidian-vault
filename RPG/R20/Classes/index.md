@@ -79,21 +79,31 @@ Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
 Controladores das plantas e das florestas, Plantomancers manipulam o campo de batalha, reconstruindo o terreno, atacando, defendendo e curando de todos os lados ao mesmo tempo com sua magia e suas plantas mágicas.
 
 ##### Mechanics
-Herbomancia ()
+Herbomancia (criação de plantas mágicas)
 
 #### Wordsmith (TBI)
-Avatares do arcano
+##### Description
+Avatares do arcano, Wordsmiths moldam e constroem magia dinamicamente para se adaptar a sua situação.
 
-Creates spells at will with magic radicals and afixes
+##### Mechanics
+NOME_PENDENTE (Creates spells at will with magic radicals and afixes)
 
 ### Specialist Classes
 #### Rogue
 [[Class - Rogue]]
+##### Description
+Sorrateiros e mortais, Ladinos tem ataques precisos e boa mobilidade, com grande capacidade para furtividade, veneno e trapaças.
+
+##### Mechanics
 sneak attack
 
 #### Werebeast
 [[RPG/R20/Classes/Class - Werebeast|Class - Werebeast]]
-has the ability to transform into a wild, untamed beast form, witch flips it's physical and mental abilities and gaining an array of special skills.
+##### Description
+Seja por sua linhagem sanguínea, maldição, magia, experimentação científica ou outro motivo misterioso,.
+
+##### Mechanics
+Forma Bestial (transforma em uma besta forte e resistente).
 
 #### Dancer
 [[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
