@@ -75,6 +75,9 @@ TODO TALK ABOUT REFLAVORING AND STUFF. USE PLANTOMANCER AS EXAMPLE
 
 %%
 ------ considering ------
+### Level 1 & 2
+check exported 5e.tools list in .json file in this folder
+
 ### Level 3
 - plant growth
 - speak with dead

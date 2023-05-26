@@ -7,7 +7,6 @@ Here's a list of all of the errors found.
 - [[Contagion]] Spell doesn't have {{spell-defitinition}} macro
 - [[Dawn]] Spell doesn't have {{spell-defitinition}} macro
 - [[Desintegrar]] Spell doesn't have {{spell-defitinition}} macro
-- [[Dragon's Breath]] Spell doesn't have {{spell-defitinition}} macro
 - [[Enthrall]] Spell doesn't have {{spell-defitinition}} macro
 - [[Fire Storm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Flame Strike]] Spell doesn't have {{spell-defitinition}} macro

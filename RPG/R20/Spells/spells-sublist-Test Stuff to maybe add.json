@@ -1,0 +1,227 @@
+{
+	"fileType": "spells-sublist",
+	"siteVersion": "1.181.2",
+	"name": "Test Stuff to maybe add",
+	"saveId": "1d3af444-f4de-468a-92de-aaa6be84494f",
+	"items": [
+		{
+			"h": "wristpocket_egw"
+		},
+		{
+			"h": "warding%20wind_xge"
+		},
+		{
+			"h": "warding%20bond_phb"
+		},
+		{
+			"h": "vortex%20warp_scc"
+		},
+		{
+			"h": "summon%20beast_tce"
+		},
+		{
+			"h": "suggestion_phb"
+		},
+		{
+			"h": "spider%20climb_phb"
+		},
+		{
+			"h": "skywrite_xge"
+		},
+		{
+			"h": "shadow%20blade_xge"
+		},
+		{
+			"h": "pyrotechnics_xge"
+		},
+		{
+			"h": "misty%20step_phb"
+		},
+		{
+			"h": "mirror%20image_phb"
+		},
+		{
+			"h": "invisibility_phb"
+		},
+		{
+			"h": "hold%20person_phb"
+		},
+		{
+			"h": "healing%20spirit_xge"
+		},
+		{
+			"h": "gentle%20repose_phb"
+		},
+		{
+			"h": "fortune's%20favor_egw"
+		},
+		{
+			"h": "flaming%20sphere_phb"
+		},
+		{
+			"h": "find%20traps_phb"
+		},
+		{
+			"h": "enthrall_phb"
+		},
+		{
+			"h": "enhance%20ability_phb"
+		},
+		{
+			"h": "crown%20of%20madness_phb"
+		},
+		{
+			"h": "cloud%20of%20daggers_phb"
+		},
+		{
+			"h": "calm%20emotions_phb"
+		},
+		{
+			"h": "blur_phb"
+		},
+		{
+			"h": "aganazzar's%20scorcher_xge"
+		},
+		{
+			"h": "tasha's%20hideous%20laughter_phb"
+		},
+		{
+			"h": "tasha's%20caustic%20brew_tce"
+		},
+		{
+			"h": "snare_xge"
+		},
+		{
+			"h": "sleep_phb"
+		},
+		{
+			"h": "ray%20of%20sickness_phb"
+		},
+		{
+			"h": "magnify%20gravity_egw"
+		},
+		{
+			"h": "jim's%20magic%20missile_ai"
+		},
+		{
+			"h": "inflict%20wounds_phb"
+		},
+		{
+			"h": "ice%20knife_xge"
+		},
+		{
+			"h": "heroism_phb"
+		},
+		{
+			"h": "hellish%20rebuke_phb"
+		},
+		{
+			"h": "hail%20of%20thorns_phb"
+		},
+		{
+			"h": "gift%20of%20alacrity_egw"
+		},
+		{
+			"h": "frost%20fingers_idrotf"
+		},
+		{
+			"h": "ensnaring%20strike_phb"
+		},
+		{
+			"h": "branding%20smite_phb"
+		},
+		{
+			"h": "wrathful%20smite_phb"
+		},
+		{
+			"h": "searing%20smite_phb"
+		},
+		{
+			"h": "divine%20favor_phb"
+		},
+		{
+			"h": "dissonant%20whispers_phb"
+		},
+		{
+			"h": "compelled%20duel_phb"
+		},
+		{
+			"h": "command_phb"
+		},
+		{
+			"h": "color%20spray_phb"
+		},
+		{
+			"h": "chromatic%20orb_phb"
+		},
+		{
+			"h": "charm%20person_phb"
+		},
+		{
+			"h": "chaos%20bolt_xge"
+		},
+		{
+			"h": "cause%20fear_xge"
+		},
+		{
+			"h": "catapult_xge"
+		},
+		{
+			"h": "arms%20of%20hadar_phb"
+		},
+		{
+			"h": "word%20of%20radiance_xge"
+		},
+		{
+			"h": "vicious%20mockery_phb"
+		},
+		{
+			"h": "thunderclap_xge"
+		},
+		{
+			"h": "sword%20burst_tce"
+		},
+		{
+			"h": "shocking%20grasp_phb"
+		},
+		{
+			"h": "sapping%20sting_egw"
+		},
+		{
+			"h": "sacred%20flame_phb"
+		},
+		{
+			"h": "ray%20of%20frost_phb"
+		},
+		{
+			"h": "minor%20illusion_phb"
+		},
+		{
+			"h": "mind%20sliver_tce"
+		},
+		{
+			"h": "message_phb"
+		},
+		{
+			"h": "lightning%20lure_tce"
+		},
+		{
+			"h": "infestation_xge"
+		},
+		{
+			"h": "green-flame%20blade_tce"
+		},
+		{
+			"h": "chill%20touch_phb"
+		}
+	],
+	"sources": [
+		"EGW",
+		"XGE",
+		"PHB",
+		"SCC",
+		"TCE",
+		"AI",
+		"IDRotF"
+	]
+}
