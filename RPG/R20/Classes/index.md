@@ -68,7 +68,7 @@ Dance around the battlefield, dodge, buff and deal dmg
 %%
 ### Probably cut off
 #### Symbiote (Martial probably, or maybe off-caster) (WIP)
-Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills)
+Can suck off energy from enemies or host (self-damage). uses a lot of MP for abilities (buffs, attacks, utility skills) (adapted this into blood mage)
 #### Beast Master (or maybe Symbiote) (TBI)
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 
