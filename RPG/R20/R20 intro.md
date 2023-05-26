@@ -1,3 +1,23 @@
+{{frontCover}}
+
+{{logo ![](/assets/naturalCritLogo.svg)}}
+
+# R20
+## Sistema Completo compatível com D&D 5e
+___
+
+{{banner HOMEBREW}}
+
+%%
+{{footnote
+  In a land of corruption, two cyberneticists and a dungeon delver search for freedom.
+}}
+%%
+
+![background image](https://i.imgur.com/IwHRrbF.jpg){position:absolute,bottom:0,left:0,height:100%}
+
+\page
+
 <style>
 .page#p1{ text-align:center; counter-increment: none; }
 .page#p1:after{ display:none; }

@@ -1,8 +1,24 @@
 
 
+{{frontCover}}
+
+{{logo ![](/assets/naturalCritLogo.svg)}}
+
+# R20
+## Sistema Completo compatível com D&D 5e
+___
+
+{{banner HOMEBREW}}
+
+
+
+![background image](https://i.imgur.com/IwHRrbF.jpg){position:absolute,bottom:0,left:0,height:100%}
+
+\page
+
 <style>
-.page#p1{ text-align:center; counter-increment: none; }
-.page#p1:after{ display:none; }
+.page#p2{ text-align:center; counter-increment: none; }
+.page#p2:after{ display:none; }
 .page:nth-child(2n) .pageNumber { left: inherit !important; right: 2px !important; }
 .page:nth-child(2n+1) .pageNumber { right: inherit !important; left: 2px !important; }
 .page:nth-child(2n)::after { transform: scaleX(1); }
@@ -31,8 +47,8 @@
 }}
 
 
-{{pageNumber,auto}}
 \page
+
 # Attributes
 
 ## Description
