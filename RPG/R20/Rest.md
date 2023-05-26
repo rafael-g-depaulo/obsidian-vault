@@ -8,7 +8,7 @@ Food, firewood, water... to properly rest, a party needs to expend some provisio
 When the party decides to rest, they set up camp for the night.
 
 ### Difficulty and Rest CR
-The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 0 being a favorable and easy condition, and the higher the number, the more harsh the conditions (recommended 0-2 range for inexperienced adventurers, and to never go above 3).
+The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 8 being a favorable and easy condition, and the higher the number, the more harsh the conditions.
 
 ### Expending Provisions
 When resting, expending more or less resources has an effect on the quality of the teams' sleep. This reduces the CD for your rest.
