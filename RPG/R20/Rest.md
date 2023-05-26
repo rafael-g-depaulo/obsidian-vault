@@ -13,7 +13,7 @@ The DM chooses the base difficulty for the rest. Chose a base condition level fo
 ### Expending Provisions
 When resting, expending more or less resources has an effect on the quality of the teams' sleep. This gives that character a bonus for their Survival Roll for the rest.
 
-| amount spent per person | CD Difference |
+| amount spent per person | Bonus to Roll |
 | ----------------------- | ------------- |
 | 0                       | -3            |
 | 2 silver                | -1            |
@@ -28,18 +28,26 @@ A character may attempt to use a skill to improve their rest condition (cooking 
 If they pass the check, all who eat their cooking receive a +2 bonus on this rest. For every 5 above the CD, increase that by +2.
 
 ### Result
-After expending provisions and optionally trying to improve the condition with a skill roll, all characters roll Survival against the Rest DC
+After expending provisions and optionally trying to improve the condition with a skill roll, all characters roll Survival against the Rest DC. The overall rest condition is determined as such:
+
+| Roll                 | Condition             |
+| -------------------- | --------------------- |
+| Failed               | Poor Condition        |
+| Passed               | Normal Condition      |
+| Passed by 5 or more  | Good Condition        |
+| Passed by 10 or more | Exceptional Condition |
+
 Consult the table below to see how the rest affected the characters.
 
 | Condition             | HP Recovery | MP Recovery | Duration | Exhaustion        |
 | --------------------- | ----------- | ----------- | -------- | ----------------- |
-| Bad Condition         | 0           | level/2     | 5 hours  | See below         |
+| Poor Condition         | 0           | level/2     | 5 hours  | See below         |
 | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
 | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
 | Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
 | Full Reset            | 100%        | 100%        | 1 week   | fully recovers    |
 
-**Bad Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
+**Poor Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
 
 #### Descriptions and examples of resting conditions
 - **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
@@ -53,4 +61,4 @@ When skipping a Rest, a character needs to roll a CON or PRE saving throw with D
 - **15 + 5 \* \# of consecutive days not having slept** 
 (1st day: 15, 2nd -> 20, 3rd -> 25,...)
 
-If they fail the character gains 1 level of exhaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exaustion levels)
+If they fail the character gains 1 level of exhaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exhaustion levels)

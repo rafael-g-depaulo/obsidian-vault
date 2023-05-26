@@ -75,8 +75,15 @@ Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
 
 #### Plantomancer
 [[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
+##### Description
+Controladores das plantas e das florestas, Plantomancers manipulam o campo de batalha, reconstruindo o terreno, atacando, defendendo e curando de todos os lados ao mesmo tempo com sua magia e suas plantas mágicas.
+
+##### Mechanics
+Herbomancia ()
 
 #### Wordsmith (TBI)
+Avatares do arcano
+
 Creates spells at will with magic radicals and afixes
 
 ### Specialist Classes
