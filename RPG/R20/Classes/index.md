@@ -66,7 +66,7 @@ Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa i
 
 #### Summoner
 [[RPG/R20/Classes/Class - Summoner (WIP)|Class - Summoner (WIP)]]
-
+{{page-break}}
 ##### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 
@@ -137,7 +137,7 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 	1. It's common that as you progress with refining the idea and basic design of a class to come back to this step and rethink if you'd like or not for it to use spells (or whatever you reflavor them as) as their main way of interacting with the world as their class.
 3. Think of 1 main mechanic (from now referred as the **Core Mechanic**) that character's from that class would use mainly to affect combat. This is the main way to express the **Theme**. Now express that Mechanic as a first level feature.
 	1. Example: Beast Warrior's Rage, Rogue's Sneak Attack, Champion's Smite, Plantomancer's Herbology, Werebeast's Bestial Transformation.
-4. Figure out what archetype works best with it's **Theme**
+4. Figure out what archetype works best with it's **Theme** {{page-break}}
 5. Think of a level-1 feature (almost always should be a skill that uses MP) to incorporate the main way that class expresses their **Theme**, and interacts with their **Core Mechanic**.
 6. Then, if the class isn't from the Caster Archetype: Think of another feature relating to the class' **Theme** (but not necessarily it's **Core Mechanic**), and add that either as a level 2 or 3 class feature.
 	1. In specific when designing Caster Classes it may make sense to add the class' **Core Mechanic** at a later level (such as with the Witch class' **Witch's Focus**). In that case this supplementary feature should be made, and added as a first level class feature.
