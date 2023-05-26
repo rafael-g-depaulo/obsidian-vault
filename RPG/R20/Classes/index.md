@@ -7,23 +7,43 @@ Below is a list of all classes and a brief description of their abilities.
 ### Martial Classes
 #### Fighter
 [[Class - Fighter]]
+##### Description
+Mestres do campo de batalha, com ações rápidas, precisas e poderosas. Os mestres absolutos de combate direto.
+
+##### Mechanics
 Action surge. Powerful Strike (flat bonus to hit/dmg)
 
 #### Beast Warrior
 [[Class - Beast Warrior]]
+##### Description
+Lutadores selvagens, com resistência inigualável. Guerreiros bestiais lutam sem nenhuma resguarda, ficando mais poderosos e imparáveis quanto mais dano eles recebem.
+
+##### Mechanics
 Beastly Rage. Savage Attack
 
 #### Juggernaut
 [[Class - Juggernaut]]
+##### Description
+"Eu sou Juggernaut, bitch" - Jonathan U. Gernaut, o primeiro Juggernaut. A fortaleza impenetrável no centro do combate, com poder absoluto e defesa ainda melhor.
+
+##### Mechanics
 Raise Guard. Powerful Strike.
 
 #### Champion
 [[Class - Champion]]
+##### Description
+O protagonista de toda batalha, que inspira aliados e amedronta inimigos. Campeões são o centro da atenção não porquê tratam lutas como espetáculos (tirando os que tratam luta como espetáculos), mas porquê sua presença e habilidade fascina todos que tem o privilégio de presenciar sua dominação total.
+
+##### Mechanics
 Smite! Lay on Hands
 
 ### Off-Caster Classes
 #### Spelgard
 [[Class - Spelgard]]
+##### Description
+O equilíbrio absoluto de defesa
+
+##### Mechanics
 Spiritual Weapon. Lay on Hands
 
 #### Enhancer (TBI)
