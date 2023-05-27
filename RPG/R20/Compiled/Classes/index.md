@@ -648,9 +648,12 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 **MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
-**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
+**Equipment Proficiencies:** Simple weapons..
 
 **Resistências:** Sensibility.
+
+**Spellcasting Attribute:** SEN.
+
 
 {{classTable,decoration,frame,wide
 ##### Plantomancer
@@ -903,6 +906,9 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 **Equipment Proficiencies:** Simple weapons and all kinds of armor..
 
 **Resistências:** Sensibility, Dexterity.
+
+**Spellcasting Attribute:** SEN.
+
 
 {{classTable,decoration,frame,wide
 ##### Spelgard
@@ -1163,6 +1169,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 **Equipment Proficiencies:** NONE.
 
 **Resistências:** Presence, Constituition.
+
+**Spellcasting Attribute:** PRE.
+
 
 {{classTable,decoration,frame,wide
 ##### Witch

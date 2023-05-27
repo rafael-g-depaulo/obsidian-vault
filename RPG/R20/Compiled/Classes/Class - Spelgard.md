@@ -11,6 +11,9 @@
 
 **Resistências:** Sensibility, Dexterity.
 
+**Spellcasting Attribute:** SEN.
+
+
 {{classTable,decoration,frame,wide
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 

@@ -102,5 +102,11 @@ export const generateClassDefinition = (
       }.\n\n` +
       `**Equipment Proficiencies:** ${classDefinition.equipProficiencies}.\n\n` +
       getSaves(classDefinition.saves) +
+      spellCastingModifier(classDefinition) +
       '\n\n' +
       makeClassTable(archetype, classDefinition)
+
+const spellCastingModifier = ({ spellcastingAttb }: Class) =>
+  !spellcastingAttb
+    ? ''
+    : `\n\n**Spellcasting Attribute:** ${spellcastingAttb}.\n`

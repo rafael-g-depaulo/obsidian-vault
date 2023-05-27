@@ -7,9 +7,12 @@
 
 **MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
-**Equipment Proficiencies:** Simple weapons, martial weapons. Light and medium armor.
+**Equipment Proficiencies:** Simple weapons..
 
 **Resistências:** Sensibility.
+
+**Spellcasting Attribute:** SEN.
+
 
 {{classTable,decoration,frame,wide
 ##### Plantomancer

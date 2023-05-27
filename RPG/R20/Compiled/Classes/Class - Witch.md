@@ -11,6 +11,9 @@
 
 **Resistências:** Presence, Constituition.
 
+**Spellcasting Attribute:** PRE.
+
+
 {{classTable,decoration,frame,wide
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 

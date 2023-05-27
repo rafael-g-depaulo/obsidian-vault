@@ -1,17 +1,19 @@
 {{class-definition "Plantomancer"
 ARCHETYPE: Caster
-EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons. Light and medium armor
+EQUIPMENT_PROFICIENCIES: Simple weapons.
 MP_ATTB: SEN
 SPELLCASTING_ATTB: SEN
 SAVES:
 - SEN
 
 FEATURES:
+
 | LEVEL | FEATURE        |
 | ----- | -------------- |
 | 1     | Summon Sapling | 
 
 MULTI_FEATURES:
+
 | Level | Magic Seed |
 | ----- |:----------:|
 | 1st   |     2      |
