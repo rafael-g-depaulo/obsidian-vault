@@ -118,7 +118,7 @@ Can suck off energy from enemies or host (self-damage). uses a lot of MP for abi
 #### Beast Master (or maybe Symbiote) (TBI)
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 %%
-
+{{wide
 ## Resumo e comparação das classes
 
 ##### Casters
@@ -160,7 +160,7 @@ ____
 | Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
 | Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
 | Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
-
+}}
 
 {{page-break}}
 

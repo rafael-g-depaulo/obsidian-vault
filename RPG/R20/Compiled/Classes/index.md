@@ -116,7 +116,7 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 **Elixir Experimental.** (Spend PM, get potion with random positive effect.)
 
 
-
+{{wide
 ## Resumo e comparação das classes
 
 ##### Casters
@@ -158,7 +158,7 @@ ____
 | Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
 | Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
 | Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
-
+}}
 
 {{pageNumber,auto}}
 \page
