@@ -6,7 +6,7 @@
 
 ![[Odrel]]
 
-
+%%
 ## Designer Only
 
 ### Comparing gods
@@ -24,3 +24,4 @@
 | Deep Sea fuckery   | Water          | Médio-Alto      | Médio           | Médio           | Alto       | Média-Alta  | -           |
 | Physical Strength  | Earth          | -               | Alto            | Alto            | -          | Média-Alta  | -           |
 
+%%
