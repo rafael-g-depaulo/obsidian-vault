@@ -59,12 +59,13 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
 #### Summoner
-{{page-break}}
 ##### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 
 ##### Mechanics
 Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
+
+{{page-break}}
 
 #### Plantomancer
 ##### Description
@@ -118,7 +119,7 @@ Can suck off energy from enemies or host (self-damage). uses a lot of MP for abi
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 %%
 
-## Resumo
+## Resumo e comparação das classes
 ### Casters
 
 | Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
@@ -155,13 +156,15 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 | Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
 | Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
 
+{{page-break}}
+
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)
 	1. It's common that as you progress with refining the idea and basic design of a class to come back to this step and rethink if you'd like or not for it to use spells (or whatever you reflavor them as) as their main way of interacting with the world as their class.
 3. Think of 1 main mechanic (from now referred as the **Core Mechanic**) that character's from that class would use mainly to affect combat. This is the main way to express the **Theme**. Now express that Mechanic as a first level feature.
 	1. Example: Beast Warrior's Rage, Rogue's Sneak Attack, Champion's Smite, Plantomancer's Herbology, Werebeast's Bestial Transformation.
-4. Figure out what archetype works best with it's **Theme** {{page-break}}
+4. Figure out what archetype works best with it's **Theme** 
 5. Think of a level-1 feature (almost always should be a skill that uses MP) to incorporate the main way that class expresses their **Theme**, and interacts with their **Core Mechanic**.
 6. Then, if the class isn't from the Caster Archetype: Think of another feature relating to the class' **Theme** (but not necessarily it's **Core Mechanic**), and add that either as a level 2 or 3 class feature.
 	1. In specific when designing Caster Classes it may make sense to add the class' **Core Mechanic** at a later level (such as with the Witch class' **Witch's Focus**). In that case this supplementary feature should be made, and added as a first level class feature.

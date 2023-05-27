@@ -8,7 +8,6 @@ Below is a list of all classes and a brief description of their abilities.
 
 ### Martial Classes
 #### Fighter
-[[Class - Fighter]]
 ##### Description
 Mestres do campo de batalha, com ações rápidas, precisas e poderosas. Os mestres absolutos de combate direto.
 
@@ -16,7 +15,6 @@ Mestres do campo de batalha, com ações rápidas, precisas e poderosas. Os mest
 Action surge. Powerful Strike (flat bonus to hit/dmg)
 
 #### Beast Warrior
-[[Class - Beast Warrior]]
 ##### Description
 Lutadores selvagens, com resistência inigualável. Guerreiros bestiais lutam sem nenhuma resguarda, ficando mais poderosos e imparáveis quanto mais dano eles recebem.
 
@@ -24,7 +22,6 @@ Lutadores selvagens, com resistência inigualável. Guerreiros bestiais lutam se
 Beastly Rage. Savage Attack
 
 #### Juggernaut
-[[Class - Juggernaut]]
 ##### Description
 "Eu sou Juggernaut, bitch" - Jonathan U. Gernaut, o primeiro Juggernaut. A fortaleza impenetrável no centro do combate, com poder absoluto e defesa ainda melhor.
 
@@ -32,7 +29,6 @@ Beastly Rage. Savage Attack
 Raise Guard. Powerful Strike.
 
 #### Champion
-[[Class - Champion]]
 ##### Description
 O protagonista de toda batalha, que inspira aliados e amedronta inimigos. Campeões são o centro da atenção não porquê tratam lutas como espetáculos (tirando os que tratam luta como espetáculos), mas porquê sua presença e habilidade fascina todos que tem o privilégio de presenciar sua dominação total.
 
@@ -41,7 +37,6 @@ Smite! Lay on Hands
 
 ### Off-Caster Classes
 #### Spelgard
-[[Class - Spelgard]]
 ##### Description
 O equilíbrio absoluto de proficiência marcial, magias de suporte e magias ofensivas. Spelgards são considerados "batalhões de um homem só", que se adaptam a qualquer grupo e situação, e se sentem confortáveis em qualquer posição, seja em grupo ou agindo solo.
 
@@ -59,7 +54,6 @@ Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substit
 
 ### Caster Classes
 #### Witch
-[[RPG/R20/Classes/Class - Witch|Class - Witch]]
 ##### Description
 Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma presença absoluta e misteriosa, com poderes variados e domínios sobre a vida e morte.
 
@@ -67,18 +61,17 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
 #### Summoner
-[[RPG/R20/Classes/Class - Summoner (WIP)|Class - Summoner (WIP)]]
-{{pageNumber,auto}}
-\page
-
 ##### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 
 ##### Mechanics
 Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
 
+{{pageNumber,auto}}
+\page
+
+
 #### Plantomancer
-[[RPG/R20/Classes/Class - Plantomancer|Class - Plantomancer]]
 ##### Description
 Controladores das plantas e das florestas, Plantomancers manipulam o campo de batalha, reconstruindo o terreno, atacando, defendendo e curando de todos os lados ao mesmo tempo com sua magia e suas plantas mágicas.
 
@@ -101,7 +94,6 @@ Sorrateiros e mortais, Ladinos tem ataques precisos e boa mobilidade, com grande
 sneak attack
 
 #### Werebeast
-[[RPG/R20/Classes/Class - Werebeast|Class - Werebeast]]
 ##### Description
 Seja por sua linhagem sanguínea, maldição, magia, experimentação científica ou outro motivo misterioso, esses indivíduos tem essa estranha habilidade de transformar seu corpo em uma fera poderosa.
 
@@ -110,7 +102,6 @@ Forma Bestial (transforma em uma besta forte e resistente).
 Corpo Aberrante (skills com efeitos diferentes na forma humana e de besta)
 
 #### Dancer
-[[RPG/R20/Classes/Class - Dancer|Class - Dancer]]
 ##### Description
 Dancers são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.
 
@@ -118,8 +109,6 @@ Dancers são, primeiramente, artistas. Suas habilidades são usadas para perform
 Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques físicos quando se movimenta)
 
 #### Alquimist (WIP)
-[[RPG/R20/Classes/Class - Alquimist (WIP)|Class - Alquimist (WIP)]]
-
 ##### Description
 "Hey, toma um gole disso" -David, o Alquimista, prestes a curar seu aliado ou fazer seu oponente explodir em uma poça de gosma verde.
 
@@ -128,7 +117,7 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 
 
 
-## Resumo
+## Resumo e comparação das classes
 ### Casters
 
 | Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
@@ -165,15 +154,17 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 | Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
 | Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
 
+{{pageNumber,auto}}
+\page
+
+
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)
 	1. It's common that as you progress with refining the idea and basic design of a class to come back to this step and rethink if you'd like or not for it to use spells (or whatever you reflavor them as) as their main way of interacting with the world as their class.
 3. Think of 1 main mechanic (from now referred as the **Core Mechanic**) that character's from that class would use mainly to affect combat. This is the main way to express the **Theme**. Now express that Mechanic as a first level feature.
 	1. Example: Beast Warrior's Rage, Rogue's Sneak Attack, Champion's Smite, Plantomancer's Herbology, Werebeast's Bestial Transformation.
-4. Figure out what archetype works best with it's **Theme** {{pageNumber,auto}}
-\page
-
+4. Figure out what archetype works best with it's **Theme** 
 5. Think of a level-1 feature (almost always should be a skill that uses MP) to incorporate the main way that class expresses their **Theme**, and interacts with their **Core Mechanic**.
 6. Then, if the class isn't from the Caster Archetype: Think of another feature relating to the class' **Theme** (but not necessarily it's **Core Mechanic**), and add that either as a level 2 or 3 class feature.
 	1. In specific when designing Caster Classes it may make sense to add the class' **Core Mechanic** at a later level (such as with the Witch class' **Witch's Focus**). In that case this supplementary feature should be made, and added as a first level class feature.
