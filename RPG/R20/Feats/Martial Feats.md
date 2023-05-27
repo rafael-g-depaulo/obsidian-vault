@@ -16,6 +16,8 @@
 
 **Arremesso Potente.** Quando usa uma arma de arremesso, você pode usar seu modificador de Força em vez de Destreza nos testes de ataque. Se você possuir o poder Ataque Poderoso, poderá usá-lo com armas de arremesso. *Pré-requisitos*: For 13, Estilo de Arremesso.
 
+**Foco na Simplicidade.** Você tem +2 margem de ameaça em ataques com armas simples.
+
 **Ataque Pesado.** Quando faz um ataque corpo a corpo com uma arma de duas mãos, você pode pagar 1 PM. Se fizer isso e acertar o ataque, além do dano você faz uma manobra derrubar ou empurrar contra o alvo como uma ação livre (use o resultado do ataque como o teste de manobra). *Pré-requisito*: Estilo de Duas Mãos.
 
 **Estilo de Duas Mãos.** Se estiver usando uma arma corpo a corpo com as duas mãos, você recebe +5 nas rolagens de dano. Este poder não pode ser usado com armas leves. *Pré-requisitos*: For 15.
