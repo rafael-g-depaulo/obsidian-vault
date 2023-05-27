@@ -5,3 +5,10 @@
 ![[Rosa Maria]]
 
 ![[Odrel]]
+
+
+## Designer Only
+
+### Comparing gods
+
+| God | Ofensive Magic | OfensiveBuffs
