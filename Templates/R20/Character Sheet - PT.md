@@ -1,15 +1,16 @@
 # Nome Personagem
+{{}}
 Level X Classe (Arquétipo)
 ___
 **HP**: XX/XX
 {{width:30px}}
 **MP**: XX/XX
 ___
-**Defense**: XX
+**Defesa**: XX
 ___
-**Dodge**: X
+**Evasão**: X
 {{width:30px}}
-**Guard**: X
+**Guarda**: X
 ___
 **CD Habilidades**: XX
 ___
