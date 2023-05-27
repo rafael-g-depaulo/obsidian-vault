@@ -122,39 +122,39 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 ## Resumo e comparação das classes
 ### Casters
 
-| Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-| ------------ | -------------------- | ----------- | ----------- | ----- | ------------------- |
-| Witch        | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Classe       | Foco em Concentração | Controle | Utilidade | Dano  | Cura  |
+| ------------ | -------------------- | -------- | --------- | ----- | ----- |
+| Witch        | +++++                | ++       | +++++     | +++   | +++++ |
+| Plantomancer | +                    | +++++    | ++++      | +++   | +++   | 
+| Wordsmith    | +                    | ++++     | ++        | +++++ | -     |
+| Summoner     | ++++                 | +        | +         | +++++ | -     |
 
 ### Off-Casters
 
-| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
-| ---------- | ----------- | ----------- | ----------- | -------------- | ----- |
-| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer   | Média       | Média       | Alta        | Média          | -     |
-| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Classe     | Defesa | Utilidade | Dano físico | Magia Ofensiva | Cura  |
+| ---------- | ------ | --------- | ----------- | -------------- | ----- |
+| Spelgard   | ++++   | ++++      | +++         | +              | +++   |
+| Enhancer   | +++    | +++       | +++++       | +++            | -     | 
+| Bard       | +      | +++++     | +           | +++++          | +++++ |
+| Blood Mage | ++     | ++        | ++++        | ++++           | +++   |
 
 ### Marciais
 
-| Classe        | Defesa      | Mobilidade | Utilidade | Cura              |
-| ------------- | ----------- | ---------- | --------- | ----------------- |
-| Fighter       | Média       | Média      | Média     | -                 |
-| Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
-| Juggernaut    | Alta        | Baixa      | Média     | -                 |
-| Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
+| Classe        | Defesa | Mobilidade | Utilidade | Cura               |
+| ------------- | ------ | ---------- | --------- | ------------------ |
+| Fighter       | +++    | +++        | +++       | -                  |
+| Beast Warrior | ++++   | ++++       | +         | +++++ (só própria) |
+| Juggernaut    | +++++  | +          | +++       | -                  |
+| Champion      | ++     | +++        | +++++     | ++++               |
 
 ### Specialists
 
-| Classe     | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-| ---------- | ----------- | --------------- | ---------- | ---------- | ---------- | ----- |
-| Ladino     | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     | 
-| Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Classe     | Dano Físico | Dano não-físico | Defesa | Mobilidade | Utilidade | Cura  |
+| ---------- | ----------- | --------------- | ------ | ---------- | --------- | ----- |
+| Ladino     | ++++        | +               | +++    | +++        | +++       | -     |
+| Dancer     | +++++       | -               | ++++   | +++++      | +         | -     |
+| Alquimista | -           | +++++           | +      | +          | +++++     | +++++ |
+| Werebeast  | +++         | +++             | +++    | ++++       | ++++      | +++   |
 
 {{page-break}}
 
