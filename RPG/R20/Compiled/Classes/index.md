@@ -94,7 +94,6 @@ NOME_PENDENTE (Creates spells at will with magic radicals and afixes)
 
 ### Specialist Classes
 #### Rogue
-[[Class - Rogue]]
 ##### Description
 Sorrateiros e mortais, Ladinos tem ataques precisos e boa mobilidade, com grande capacidade para furtividade, veneno e trapaças.
 
@@ -128,6 +127,43 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 **Elixir Experimental.** (Spend PM, get potion with random positive effect.)
 
 
+
+## Resumo
+### Casters
+
+| Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+| ------------ | -------------------- | ----------- | ----------- | ----- | ------------------- |
+| Witch        | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Summoner     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+
+### Off-Casters
+
+| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+| ---------- | ----------- | ----------- | ----------- | -------------- | ----- |
+| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer   | Média       | Média       | Alta        | Média          | -     |
+| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+
+### Marciais
+
+| Classe        | Defesa      | Mobilidade | Utilidade | Cura              |
+| ------------- | ----------- | ---------- | --------- | ----------------- |
+| Fighter       | Média       | Média      | Média     | -                 |
+| Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
+| Juggernaut    | Alta        | Baixa      | Média     | -                 |
+| Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
+
+### Specialists
+
+| Classe     | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+| ---------- | ----------- | --------------- | ---------- | ---------- | ---------- | ----- |
+| Ladino     | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     | 
+| Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
 
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
