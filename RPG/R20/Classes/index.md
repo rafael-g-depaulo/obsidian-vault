@@ -131,6 +131,38 @@ Can suck off energy from enemies or host (self-damage). uses a lot of MP for abi
 Can summon and control low CR animals. Probably kill it in favor of expanding the Companion system.
 %%
 
+## Resumo
+
+### Casters
+
+| Classe       | Concentração | Habilidades de Cura | Dano  |
+| ------------ | ------------ | ------------------- | ----- |
+| Witch        | Muita        | Muito               | Médio |
+| Plantomancer | Pouca        | Médio               | Médio |
+| Wordsmith    | Pouca        | -                   | Muito |
+| Summoner     | Média        | -                   | Muito |
+
+### Off-Casters
+
+| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+| ---------- | ----------- | ----------- | ----------- | -------------- | ----- |
+| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer   | Média       | Média       | Alta        | Média          | -     |
+| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+
+### Martials
+
+| Classe        | Defesa      | Mobilidade | Utilidade | Cura |
+| ------------- | ----------- | ---------- | --------- | ---- |
+| Fighter       | Média-Baixa |   Média         |           |      |
+| Beast Warrior | Média-Alta  | Alta           |           |      |
+| Juggernaut    | Alta        | Baixa           |           |      |
+| Champion      | Média-Baixa |      mn      |           |      |
+
+### Specialists
+
+
 ## Creating a Class
 1. Think of an interesting concept for what your class is and what Theme it plays to, what you want a character of that class to **feel like**, to whoever is playing it (from now referred as the class' **Theme**).
 2. Decide if that class needs access to magic or not (and thus if it should be a caster/off-caster or a martial/specialist)
