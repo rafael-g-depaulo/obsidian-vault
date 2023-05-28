@@ -15,16 +15,12 @@ Deus da liberdade, de controle do próprio destino, da luta contra os opressores
 ### Miracles
 **Remover Aflição.** Ação: Ação (2FP): Escolha uma criatura que pode ver em 6sqr, e remova uma condição negativa dela.
 
-**NAME_HERE.** Reação: Parar grapple. Dano no grappler.
+**Lbertar.** Reação (1FP): Escolha uma criatura que esteja agarrando outra. A criatura agarrando tem que resistir a um teste de PRE ou tomar 2d8 de dano psíquico e soltar a outra. Se falhar ela toma o dano mas não solta.
 
-**NAME_HERE.** Movimento? Ação?: Bonus de movimento pela cena.
+**Benção de Movimento.** Ação (2FP, concentração): Você e uma criatura que você toque tem +4sqr de movimento e não provocam ataque de oportunidade pela duração do milagre.
 
-**NAME_HERE.** (durante skill de dano) (1FP): Se você já sofreu dano nessa cena, todos os afetados pelo.
+**Destruir os Injustos.** (durante skill de dano) (1FP): Se você já sofreu dano nessa cena, todos os afetados pelo seu ataque que não tomaram dano na cena tomam +2d8 de dano.
 
-**NAME_HERE.** Ação: curar aliado downado. (SKILL CARA!)
+**Segunda Chance da Grandeza.** Ação (3FP): toque em um aliado inconsciente. Ele recupera 2d8+2 HP.
 
 **Proteção.** Reação (2FP): Use magia Escudo em você ou um aliado que possa ver em 6sqr.
-
-ehhhhh, ideias:
-- reação: bonus de CA temporário ranged
-- ação: bonus de CA cena (single target? self? multi-target?)

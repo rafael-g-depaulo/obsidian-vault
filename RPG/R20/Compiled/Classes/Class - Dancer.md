@@ -103,6 +103,7 @@ maybe add option to upcast?
 #### outras danças:
 - temp HP (area)
 - temp MP (self)
+- "Dança a Dois". Buffs pra um aliado e tal.
 - dance through enemies and damage them
 - whirlwind attack (on future levels can increase radius)
 
