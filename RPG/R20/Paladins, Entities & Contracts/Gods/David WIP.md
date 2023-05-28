@@ -15,17 +15,17 @@ God of forests, vengeance, the moon & the night.
 - Forgiveness
 
 ### Miracles
-**NAME_HERE.** Ação: Cura long range.
+**Sopro da Floresta.** Movimento (1FP): Use a magia **Healing Word**.
 
-**NAME_HERE.** Ação: Area spikes (dmg + difficult terrain)
+**Reclamação do Terreno.** Ação (2FP): Use a magia **Spike Growth**.
 
-**NAME_HERE.** Ação: Health steal long range.
+**Roubar Seiva.** Ação (2FP): Spell Attack (20/2x), 6sqr range. 2d6+SEN necrotic damage on a hit, and the user heals for half of the damage dealt. (+1 MP, +1FP): aumente o dano em 1d6
 
-**NAME_HERE.** Ação (movimento??): Causar medo.
+**Amedrontar.** Movimento (2FP): Use magia **Cause Fear**.
 
-**NAME_HERE.** Ação: Camuflagem/buff stealth pela cena.
+**Cobertura da Floresta.** Ação (3FP): Use magia **Pass Without a Trace**
 
-**NAME_HERE.** Ação: Hold enemies in place.
+**Amarras de Cipó.** Ação (3FP): Use a magia **Hold Person**.
 
 **NAME_HERE.** Ação: alguma coisa de veneno?
 
