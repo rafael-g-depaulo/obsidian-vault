@@ -13,15 +13,17 @@ Deus da liberdade, de controle do próprio destino, da luta contra os opressores
 - Manipulação e Enganação
 
 ### Miracles
-**NAME_HERE.** Ação: Remover debuff long range.
+**Remover Aflição.** Ação: Ação (2FP): Escolha uma criatura que pode ver em 6sqr, e remova uma condição negativa dela.
 
 **NAME_HERE.** Reação: Parar grapple. Dano no grappler.
 
 **NAME_HERE.** Movimento? Ação?: Bonus de movimento pela cena.
 
-**NAME_HERE.** (durante skill de dano): Dano adicional se o oponente tem mais HP que vc. (ideia é "o pequeno lutando contra o opressor". talvez usar tamanho como uma outra condição possível).
+**NAME_HERE.** (durante skill de dano) (1FP): Se você já sofreu dano nessa cena, todos os afetados pelo.
 
 **NAME_HERE.** Ação: curar aliado downado. (SKILL CARA!)
+
+**Proteção.** Reação (2FP): Use magia Escudo em você ou um aliado que possa ver em 6sqr.
 
 ehhhhh, ideias:
 - reação: bonus de CA temporário ranged
