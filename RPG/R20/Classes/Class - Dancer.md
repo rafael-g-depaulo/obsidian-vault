@@ -56,6 +56,7 @@ Feat Ideas:
 - roll performance to get buffs
 - +Dodge when no armor
 - Ganha steps ao usar esquiva
+- ganha ataque de oportunidade
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
 - pode gastar steps sem se mover
