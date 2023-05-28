@@ -79,6 +79,7 @@ Buuut... if you really want to do it, I recommend using either a "8, 16 and 4 ti
 You have 27 points to spend on your ability scores. The cost is shown in the table below.
 
 ##### Score buy
+
 | Score | Cost |
 |:-----:|:-----|
 | 8     | 0    |
@@ -96,6 +97,7 @@ You have 27 points to spend on your ability scores. The cost is shown in the tab
 ## Modifiers
 
 ##### Attribute score modifiers
+
 | Score | Modifier | Score | Modifier |
 |:-----:|:---------|:-----:|:---------|
 | 1     | -5       | 16-17 | +3       |
@@ -2181,6 +2183,7 @@ R20's formula: ceil(lv/2)
 \page
 # Equipment
 ## Simple Weapons
+
 | Melee Weapons  | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
 | Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |
@@ -2201,6 +2204,7 @@ R20's formula: ceil(lv/2)
 | Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
 
 ## Martial Weapons
+
 | Melee Weapons		 	| Damage 	| Crit 	| Properties       |
 |:-----------------:|:-------:|:-----:|:-----------------|
 | Battleaxe       	| 1d8    	|   - 	| light            |

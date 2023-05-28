@@ -1,5 +1,6 @@
 # Equipment
 ## Simple Weapons
+
 | Melee Weapons  | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
 | Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |
@@ -20,6 +21,7 @@
 | Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
 
 ## Martial Weapons
+
 | Melee Weapons		 	| Damage 	| Crit 	| Properties       |
 |:-----------------:|:-------:|:-----:|:-----------------|
 | Battleaxe       	| 1d8    	|   - 	| light            |

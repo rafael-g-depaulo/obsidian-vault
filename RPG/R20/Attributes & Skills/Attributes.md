@@ -28,6 +28,7 @@ Buuut... if you really want to do it, I recommend using either a "8, 16 and 4 ti
 You have 27 points to spend on your ability scores. The cost is shown in the table below.
 
 ##### Score buy
+
 | Score | Cost |
 |:-----:|:-----|
 | 8     | 0    |
@@ -45,6 +46,7 @@ You have 27 points to spend on your ability scores. The cost is shown in the tab
 ## Modifiers
 
 ##### Attribute score modifiers
+
 | Score | Modifier | Score | Modifier |
 |:-----:|:---------|:-----:|:---------|
 | 1     | -5       | 16-17 | +3       |
