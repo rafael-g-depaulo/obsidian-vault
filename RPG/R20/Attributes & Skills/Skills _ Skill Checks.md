@@ -67,6 +67,7 @@ Many situations allow for different ways for a character to achieve their goals,
 It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM choses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
 
 ##### DC for using a different skill for a task
+
 | Aditional Dificulty            | DC  |
 | ------------------------------ | --- |
 | about the same or a bit harder | +2  | 
@@ -78,8 +79,8 @@ Whether the character is allowed to roll a different skill is always at the DM's
 When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2** every even levelup and **2 + their Inteligence Modifier** (min 2) every odd level up.
 
 A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
-9+2i
 ##### Maximum Skill Bonus per level
+
 | Level | Max Skill Bonus |
 |:-----:|:---------------:|
 |   1   |       +2        |
@@ -102,3 +103,4 @@ A character's skill bonus for any given skill can only reach up to the maximum d
 |  18   |       +15       |
 |  19   |       +15       |
 |  20   |       +15       |
+
