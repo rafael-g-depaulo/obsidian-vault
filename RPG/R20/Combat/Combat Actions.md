@@ -8,7 +8,12 @@ OBS: the DM may rule that any specific instance of damage may or may not ignore 
 ### Uncanny Dodge
 Below is the definition of the Uncanny Dodge ability, that all characters can perform:
 
+%%
+English
 **Uncanny Dodge ("de Raspão"):** (when taking damage) Reaction (3PM): ignore the damage, and increase the cost of this by 3PM. You can't use Uncanny Dodge if it costs more than your **Dodge**.
+%%
+**"de Raspão".** (tomando dano) Reação (3PM): Ignore o dano, e aumente o custo dessa habilidade em +3PM pela cena. Você não pode usar **"de Raspão"** se custar mais que a sua **Evasão**.
+
 
 Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to attack them has to roll a 18 or higher to hit them), can use Uncanny Dodge up to 2 times per scene, and their Endurance allows them to shrug off attacks of 8 or less points of damage. If they use Endurance and take 3 attacks dealing 7, 14 and 5 damage, the first and third attacks have their damage reduced to 0.
 
