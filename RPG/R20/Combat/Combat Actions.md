@@ -14,7 +14,6 @@ English
 %%
 **"de Raspão".** (tomando dano) Reação (3PM): Ignore o dano, e aumente o custo dessa habilidade em +3PM pela cena. Você não pode usar **"de Raspão"** se custar mais que a sua **Evasão**.
 
-
 Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to attack them has to roll a 18 or higher to hit them), can use Uncanny Dodge up to 2 times per scene, and their Endurance allows them to shrug off attacks of 8 or less points of damage. If they use Endurance and take 3 attacks dealing 7, 14 and 5 damage, the first and third attacks have their damage reduced to 0.
 
 ### Attack of Opportunity
