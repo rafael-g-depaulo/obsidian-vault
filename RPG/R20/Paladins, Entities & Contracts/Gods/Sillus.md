@@ -1,5 +1,9 @@
-## NOME_HERE
+## Sillus
 God of forests, vengeance, the moon & the night.
+
+%%
+TODO: reescrever o lore/conceito pensando na conversa que tive com a Nay
+%%
 
 ### Values
 - Ruthlessness
