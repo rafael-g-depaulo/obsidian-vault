@@ -26,7 +26,7 @@ Here's a list of origins:
 
 ### Student
 **Attributes**: INT +2, DEX +1, CON -1.
-**Caffeine-feated soul**: +1 maximum MP per level.
+**Caffeine-powered soul**: +1 maximum MP per level.
 **Sorry, i wasn't paying attention**: -1 to Initiative rolls.
 
 ### Animal Friend
