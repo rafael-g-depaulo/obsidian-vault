@@ -7,14 +7,14 @@ ___
 **MP**: XX/XX
 ___
 **Defesa**: XX
-___
+{{width:30px}}
 **Evasão**: X
 {{width:30px}}
 **Guarda**: X
 ___
 **CD Habilidades**: XX
 ___
-**Bonus de Proficiência**: +2
+**Bonus de Proficiência**: +1
 ___
 **Proficiência em Resistências**: XXX, YYY
 ___
@@ -28,17 +28,17 @@ ___
 - **SEN**: XX (+XX)
 - **PRE**: XX (+XX)
 
-"\*" tem proficiência (+2 em testes de resistência)
+"\*" tem proficiência (+1 em testes de resistência)
 
 ### Skills:
 #### Força (+X):
 - Atletismo: X = +X
 
-#### Destreza (-X):
-- Acrobacia: X = -X
-- Iniciativa: X = -X
-- Furtividade: X = -X
-- Prestidigitação (Ladinagem): X = -X
+#### Destreza (+X):
+- Acrobacia: X = +X
+- Iniciativa: X = +X
+- Furtividade: X = +X
+- Prestidigitação (Ladinagem): X = +X
 
 #### Constituição (+X):
 - Sobrevivência: X = +X
