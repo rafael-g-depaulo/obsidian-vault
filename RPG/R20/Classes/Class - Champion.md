@@ -37,7 +37,9 @@ MULTI_FEATURES:
 | 20th  | 5d6+CON | 5d8+5        |
 }}
 
+%%
 ## TODO olhar para nobre do t20 e talvez fazer um rework de leve aqui
+%%
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
 
