@@ -39,6 +39,51 @@ MULTI_FEATURES:
 
 %%
 ## TODO olhar para nobre do t20 e talvez fazer um rework de leve aqui
+
+Estrategista. Você pode direcionar aliados em
+alcance curto. Gaste uma ação padrão e 1 PM por
+aliado que quiser direcionar (limitado pelo seu Ca-
+risma). No próximo turno do aliado, ele ganha uma
+ação de movimento. Pré-requisitos: Int 1, treinado em
+Guerra, 6º nível de nobre.
+
+General. Quando você usa o poder Estrategista,
+aliados direcionados recebem 1d4 PM temporários.
+Esses PM duram até o fim do turno do aliado e não
+podem ser usados em efeitos que concedam PM.
+Pré-requisitos: Estrategista, 12º nível de nobre.
+
+Inspirar Confiança. Sua presença faz as pessoas
+darem o melhor de si. Quando um aliado em alcance
+curto faz um teste, você pode gastar 2 PM para fazer
+com que ele possa rolar esse teste novamente.
+• Inspirar Glória. A presença de um nobre motiva
+as pessoas a realizarem grandes façanhas. Uma vez
+por rodada, você pode gastar 5 PM para fazer um
+aliado em alcance curto ganhar uma ação padrão
+adicional no próximo turno dele. Você só pode usar
+esta habilidade uma vez por cena em cada aliado.
+Pré-requisitos: Inspirar Confiança, 8º nível de nobre.
+
+• Liderar pelo Exemplo. Você pode gastar 2 PM para
+servir de inspiração. Até o início de seu próximo turno,
+sempre que você passar em um teste de perícia, aliados
+em alcance curto que fizerem um teste da mesma
+perícia podem usar o resultado do seu teste em vez de
+fazer o seu próprio. Pré-requisito: 6º nível de nobre.
+
+Palavras Afiadas. Você pode gastar uma ação
+padrão e 1 PM para fazer um teste de Diplomacia ou
+Intimidação oposto ao teste de Vontade de uma cria-
+tura inteligente (Int –3 ou maior) em alcance curto.
+Se vencer, você causa 2d6 pontos de dano psíquico
+não letal à criatura. Se perder, causa metade deste
+dano. Se a criatura for reduzida a 0 ou menos PV, em
+vez de cair inconsciente, ela se rende (se você usou
+Diplomacia) ou fica apavorada e foge de você da ma-
+neira mais eficiente possível (se usou Intimidação).
+A cada quatro níveis, você pode gastar +1 PM para
+aumentar o dano (veja a tabela da classe). Mental.
 %%
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
