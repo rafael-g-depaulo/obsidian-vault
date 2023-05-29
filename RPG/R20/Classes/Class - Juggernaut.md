@@ -15,31 +15,31 @@ FEATURES:
 WIDE: true
 MULTI_FEATURES:
 
-| Level | Max Guts | Golpe Poderoso |
-| ----- | -------- | -------------- |
-| 1st   | 2        | 1d10+STR            |
-| 2nd   | 3        | 1d10+STR            |
-| 3rd   | 4        | 1d10+STR            |
-| 4th   | 5        | 1d10+STR            |
-| 5th   | 6        | 2d10+STR            |
-| 6th   | 7        | 2d10+STR            |
-| 7th   | 8        | 2d10+STR            |
-| 8th   | 9        | 2d10+STR            |
-| 9th   | 0        | 3d10+STR            |
-| 10th  | 11       | 3d10+STR            |
-| 11th  | 12       | 3d10+STR            |
-| 12th  | 13       | 3d10+STR            |
-| 13th  | 14       | 4d10+STR            |
-| 14th  | 15       | 4d10+STR            |
-| 15th  | 16       | 4d10+STR            |
-| 16th  | 17       | 4d10+STR            |
-| 17th  | 18       | 5d10+STR            |
-| 18th  | 19       | 5d10+STR            |
-| 19th  | 20       | 5d10+STR            |
-| 20th  | 21       | 5d10+STR            |
+| Level | Levantar Guarda | Max Guts | Golpe Poderoso |
+| ----- | --------------- | -------- | -------------- |
+| 1st   | CON             | 2        | 1d10+STR       |
+| 2nd   | CON+1           | 3        | 1d10+STR       |
+| 3rd   | CON+1           | 4        | 1d10+STR       |
+| 4th   | CON+2           | 5        | 1d10+STR       |
+| 5th   | CON+2           | 6        | 2d10+STR       |
+| 6th   | CON+3           | 7        | 2d10+STR       |
+| 7th   | CON+3           | 8        | 2d10+STR       |
+| 8th   | CON+4           | 9        | 2d10+STR       |
+| 9th   | CON+4           | 10       | 3d10+STR       |
+| 10th  | CON+5           | 11       | 3d10+STR       |
+| 11th  | CON+5           | 12       | 3d10+STR       |
+| 12th  | CON+6           | 13       | 3d10+STR       |
+| 13th  | CON+6           | 14       | 4d10+STR       |
+| 14th  | CON+7           | 15       | 4d10+STR       |
+| 15th  | CON+7           | 16       | 4d10+STR       |
+| 16th  | CON+8           | 17       | 4d10+STR       |
+| 17th  | CON+8           | 18       | 5d10+STR       |
+| 18th  | CON+9           | 19       | 5d10+STR       |
+| 19th  | CON+9           | 20       | 5d10+STR       |
+| 20th  | CON+10          | 21       | 5d10+STR       |
 }}
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level/2 + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
@@ -73,7 +73,9 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - **Defesa Imbatível**. Enquanto estiver de Guarda Alta, você tem +2 Guard. Pré-requisito: Defesa Impenetrável.
 
-- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
+- **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre.
+
+- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda** (limitado pelo seu nível) .
 
 - **Defesa Implacável**. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
   

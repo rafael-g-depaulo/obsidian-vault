@@ -955,32 +955,32 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 
 {{classTable,decoration,frame,wide
 ##### Juggernaut
-| Level | Proficiency Bonus | Features |Max Guts | Golpe Poderoso | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Raise Guard, Guts | 2 | 1d10+STR |
-| 2nd | +1 | Juggernaut Feat, Powerful Strike | 3 | 1d10+STR |
-| 3rd | +2 | Juggernaut Feat | 4 | 1d10+STR |
-| 4th | +2 | Juggernaut Feat, Attribute Score Improvement | 5 | 1d10+STR |
-| 5th | +3 | Juggernaut Feat, Extra Attack | 6 | 2d10+STR |
-| 6th | +3 | Juggernaut Feat, Attribute Score Improvement | 7 | 2d10+STR |
-| 7th | +4 | Juggernaut Feat | 8 | 2d10+STR |
-| 8th | +4 | Juggernaut Feat | 9 | 2d10+STR |
-| 9th | +5 | Juggernaut Feat, Attribute Score Improvement | 0 | 3d10+STR |
-| 10th | +5 | Juggernaut Feat | 11 | 3d10+STR |
-| 11th | +6 | Juggernaut Feat | 12 | 3d10+STR |
-| 12th | +6 | Juggernaut Feat, Attribute Score Improvement | 13 | 3d10+STR |
-| 13th | +7 | Juggernaut Feat | 14 | 4d10+STR |
-| 14th | +7 | Juggernaut Feat | 15 | 4d10+STR |
-| 15th | +8 | Juggernaut Feat, Attribute Score Improvement | 16 | 4d10+STR |
-| 16th | +8 | Juggernaut Feat | 17 | 4d10+STR |
-| 17th | +9 | Juggernaut Feat, Attribute Score Improvement | 18 | 5d10+STR |
-| 18th | +9 | Juggernaut Feat | 19 | 5d10+STR |
-| 19th | +10 | Juggernaut Feat, Attribute Score Improvement | 20 | 5d10+STR |
-| 20th | +10 | Juggernaut Feat | 21 | 5d10+STR |
+| Level | Proficiency Bonus | Features |Levantar Guarda | Max Guts | Golpe Poderoso | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Raise Guard, Guts | CON | 2 | 1d10+STR |
+| 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
+| 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
+| 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
+| 5th | +3 | Juggernaut Feat, Extra Attack | CON+2 | 6 | 2d10+STR |
+| 6th | +3 | Juggernaut Feat, Attribute Score Improvement | CON+3 | 7 | 2d10+STR |
+| 7th | +4 | Juggernaut Feat | CON+3 | 8 | 2d10+STR |
+| 8th | +4 | Juggernaut Feat | CON+4 | 9 | 2d10+STR |
+| 9th | +5 | Juggernaut Feat, Attribute Score Improvement | CON+4 | 10 | 3d10+STR |
+| 10th | +5 | Juggernaut Feat | CON+5 | 11 | 3d10+STR |
+| 11th | +6 | Juggernaut Feat | CON+5 | 12 | 3d10+STR |
+| 12th | +6 | Juggernaut Feat, Attribute Score Improvement | CON+6 | 13 | 3d10+STR |
+| 13th | +7 | Juggernaut Feat | CON+6 | 14 | 4d10+STR |
+| 14th | +7 | Juggernaut Feat | CON+7 | 15 | 4d10+STR |
+| 15th | +8 | Juggernaut Feat, Attribute Score Improvement | CON+7 | 16 | 4d10+STR |
+| 16th | +8 | Juggernaut Feat | CON+8 | 17 | 4d10+STR |
+| 17th | +9 | Juggernaut Feat, Attribute Score Improvement | CON+8 | 18 | 5d10+STR |
+| 18th | +9 | Juggernaut Feat | CON+9 | 19 | 5d10+STR |
+| 19th | +10 | Juggernaut Feat, Attribute Score Improvement | CON+9 | 20 | 5d10+STR |
+| 20th | +10 | Juggernaut Feat | CON+10 | 21 | 5d10+STR |
 }}
 
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level/2 + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
@@ -1016,7 +1016,9 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 - **Defesa Imbatível**. Enquanto estiver de Guarda Alta, você tem +2 Guard. Pré-requisito: Defesa Impenetrável.
 
-- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda**.
+- **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre.
+
+- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda** (limitado pelo seu nível) .
 
 - **Defesa Implacável**. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
   
