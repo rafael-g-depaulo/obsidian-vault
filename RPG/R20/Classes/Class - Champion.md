@@ -44,8 +44,7 @@ Estrategista. Você pode direcionar aliados em
 alcance curto. Gaste uma ação padrão e 1 PM por
 aliado que quiser direcionar (limitado pelo seu Ca-
 risma). No próximo turno do aliado, ele ganha uma
-ação de movimento. Pré-requisitos: Int 1, treinado em
-Guerra, 6º nível de nobre.
+ação de movimento. Pré-requisitos: 6º nível de nobre.
 
 General. Quando você usa o poder Estrategista,
 aliados direcionados recebem 1d4 PM temporários.
@@ -86,9 +85,9 @@ A cada quatro níveis, você pode gastar +1 PM para
 aumentar o dano (veja a tabela da classe). Mental.
 %%
 
-**SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level respectively, you can spend +1PM to add another +1d6 to the damage.
+**SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
+**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level, you can spend +1PM to add another 1d8+1 to the healing.
 
 ### Champion Feats
 
