@@ -1,11 +1,12 @@
 {{class-definition "Juggernaut"
 ARCHETYPE: Martial
-EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons and all kinds of armor.
+EQUIPMENT_PROFICIENCIES: Simple weapons, martial weapons, medium and heavy armor.
 SAVES:
 - STR
 - CON
 
 FEATURES:
+
 | LEVEL | FEATURE           |
 | ----- | ----------------- |
 | 1     | Raise Guard, Guts |
@@ -13,6 +14,7 @@ FEATURES:
 
 WIDE: true
 MULTI_FEATURES:
+
 | Level | Max Guts | Golpe Poderoso |
 | ----- | -------- | -------------- |
 | 1st   | 2        | 1d10+STR            |
@@ -33,11 +35,11 @@ MULTI_FEATURES:
 | 16th  | 17       | 4d10+STR            |
 | 17th  | 18       | 5d10+STR            |
 | 18th  | 19       | 5d10+STR            |
-| 19th  | 10       | 5d10+STR            |
+| 19th  | 20       | 5d10+STR            |
 | 20th  | 21       | 5d10+STR            |
 }}
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level/2 + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 

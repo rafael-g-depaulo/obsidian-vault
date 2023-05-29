@@ -558,7 +558,7 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 
 **MP**: 3 per level.
 
-**Equipment Proficiencies:** Simple weapons, martial weapons and all kinds of armor..
+**Equipment Proficiencies:** Simple weapons, martial weapons, medium and heavy armor..
 
 **Resistências:** Strength, Constituition.
 
@@ -584,12 +584,12 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 | 16th | +8 | Juggernaut Feat | 17 | 4d10+STR |
 | 17th | +9 | Juggernaut Feat, Attribute Score Improvement | 18 | 5d10+STR |
 | 18th | +9 | Juggernaut Feat | 19 | 5d10+STR |
-| 19th | +10 | Juggernaut Feat, Attribute Score Improvement | 10 | 5d10+STR |
+| 19th | +10 | Juggernaut Feat, Attribute Score Improvement | 20 | 5d10+STR |
 | 20th | +10 | Juggernaut Feat | 21 | 5d10+STR |
 }}
 
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain your level/2 + CON mod. temporary HP (minimum 1), and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
