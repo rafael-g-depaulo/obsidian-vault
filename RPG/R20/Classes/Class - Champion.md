@@ -6,13 +6,15 @@ SAVES:
 - PRE
 
 FEATURES:
+
 | LEVEL | FEATURE      |
 | ----- | ------------ |
 | 1     | Smite        |
-| 2     | Lay on Hands | 
+| 2     | Lay on Hands |
 
 WIDE: true
 MULTI_FEATURES:
+
 | Level | Smite   | Lay on Hands |
 | ----- | ------- | ------------ |
 | 1st   | 1d6+CON | 1d8+1        |
