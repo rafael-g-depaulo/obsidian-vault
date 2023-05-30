@@ -124,22 +124,24 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 ##### Casters
 ____
 
-| Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch        | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Classe             | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Summoner           | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
 
-| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
-|:---------- |:----------- |:----------- |:----------- |:-------------- |:----- |
-| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer   | Média       | Média       | Alta        | Média          | -     |
-| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+|:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
+| Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer            | Média       | Média       | Alta        | Média          | -     |
+| Bard                | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage          | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
 ____
@@ -150,16 +152,19 @@ ____
 | Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
 | Juggernaut    | Alta        | Baixa      | Média     | -                 |
 | Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
+| Hunter (TBI)  | Baixa       | Alta       | Média     | Média             |
 
 ##### Specialists
 ____
 
-| Classe     | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:---------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino     | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     | 
-| Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Classe         | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+|:-------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
+| Ladino         | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
+| Dancer         | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista     | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Inventor (TBI) | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
+| Werebeast      | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+
 }}
 
 {{page-break}}
