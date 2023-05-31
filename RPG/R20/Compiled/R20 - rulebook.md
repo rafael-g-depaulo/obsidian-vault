@@ -513,22 +513,24 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 ##### Casters
 ____
 
-| Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch        | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Classe             | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Summoner           | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
 
-| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
-|:---------- |:----------- |:----------- |:----------- |:-------------- |:----- |
-| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer   | Média       | Média       | Alta        | Média          | -     |
-| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+|:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
+| Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer            | Média       | Média       | Alta        | Média          | -     |
+| Bard                | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage          | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
 ____
@@ -539,16 +541,20 @@ ____
 | Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
 | Juggernaut    | Alta        | Baixa      | Média     | -                 |
 | Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
+| Hunter (TBI)  | Baixa       | Alta       | Média     | Média             |
 
 ##### Specialists
 ____
 
-| Classe     | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:---------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino     | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     | 
-| Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Classe         | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+|:-------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
+| Ladino         | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
+| Dancer         | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista     | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Inventor (TBI) | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
+| Werebeast      | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Monge   (TBI)  | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
+
 }}
 
 {{pageNumber,auto}}
@@ -722,7 +728,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level, you can spend +1PM to add another 1d8+1 to the healing.
+**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
 
 ### Champion Feats
 
@@ -1100,7 +1106,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- **Planta Resistente**. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
+- **Planta Resistente**. Aumente o HP inicial das suas plantas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
 - **Planta Explosiva**. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
@@ -1123,7 +1129,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
 
-Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
+Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Botânica (CD 15, 20 ou 25, dependendo da dificuldade)
 
 As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
@@ -1138,7 +1144,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
-- **Raiz come-asfalto.** você recebe +5 em testes de Natureza para Herbomancia.
+- **Raiz come-asfalto.** você recebe +5 em testes de Botânica para Herbomancia.
 
 - **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
@@ -2020,6 +2026,8 @@ R20's formula: ceil(lv/2)
 # General Feats
 {{}}
 **Proficiência.** Escolha uma proficiência: armas marciais, armas de fogo, armaduras pesadas ou escudos (se for proficiente em armas marciais, você também pode escolher armas exóticas). Você recebe essa proficiência. Você pode escolher este poder outras vezes para proficiências diferentes.
+
+**AAAAAAAAA.** Ação: Ganhe CON + lv temp MP e +1 nível de exaustão.
 
 **Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 
@@ -5140,72 +5148,28 @@ Bright light lets most creatures see normally. Even gloomy days provide bright l
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[Battle Maneuvers]])
 
 
-{{pageNumber,auto}}
-\page
-# Rest & Recovery
-An adventuring character recovers HP and MP mainly through resting.
 
-## Provisions
-Food, firewood, water... to properly rest, a party needs to expend some provisions. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
-
-## How to recover
-When the party decides to rest, they set up camp for the night.
-
-### Difficulty and Rest CR
-The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 8 being a favorable and easy condition, and the higher the number, the more harsh the conditions.
-
-### Expending Provisions
-When resting, expending more or less resources has an effect on the quality of the teams' sleep. This gives that character a bonus for their Survival Roll for the rest.
-
-| amount spent per person | Bonus to Roll |
-| ----------------------- | ------------- |
-| 0                       | -3            |
-| 2 silver                | -1            |
-| 5 silver                | 0             |
-| 20 silver               | +1            |
-| 50 silver               | +2            |
-| 150 silver              | +3            |
-
-### Improving the condition
-A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
-
-If they pass the check, all who eat their cooking receive a +2 bonus on this rest. For every 5 above the CD, increase that by +2.
-
-### Result
-After expending provisions and optionally trying to improve the condition with a skill roll, all characters roll Survival against the Rest DC. The overall rest condition is determined as such:
-
-| Roll                 | Condition             |
-| -------------------- | --------------------- |
-| Failed               | Poor Condition        |
-| Passed               | Normal Condition      |
-| Passed by 5 or more  | Good Condition        |
-| Passed by 10 or more | Exceptional Condition |
-
-Consult the table below to see how the rest affected the characters.
-
-| Condition             | HP Recovery | MP Recovery | Duration | Exhaustion        |
-| --------------------- | ----------- | ----------- | -------- | ----------------- |
-| Poor Condition         | 0           | level/2     | 5 hours  | See below         |
-| Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
-| Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
-| Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
-| Full Reset            | 100%        | 100%        | 1 week   | fully recovers    |
-
-**Poor Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
-
-#### Descriptions and examples of resting conditions
-- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
-- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a night-watch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
-- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
-- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
-- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
-
-## Skipping a Rest
-When skipping a Rest, a character needs to roll a CON or PRE saving throw with DC equal to:
-- **15 + 5 \* \# of consecutive days not having slept** 
-(1st day: 15, 2nd -> 20, 3rd -> 25,...)
-
-If they fail the character gains 1 level of exhaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exhaustion levels)
+  |Atletismo, @{PC Template|skill_atletics}
+  |Acrobacia, @{PC Template|skill_acrobatics}
+  |Iniciativa, @{PC Template|skill_iniciative}
+  |Furtividade, @{PC Template|skill_stealth}
+  |Ladinagem, @{PC Template|skill_sleight}
+  |Sobrevivência, @{PC Template|skill_survival}
+  |Investigação, @{PC Template|skill_investigation}
+  |Lógica, @{PC Template|skill_logic}
+  |História, @{PC Template|skill_history}
+  |Medicina, @{PC Template|skill_medicine}
+  |Botânica, @{PC Template|skill_botanic}
+  |Percepção, @{PC Template|skill_perception}
+  |Empatia, @{PC Template|skill_empathy}
+  |Intuição, @{PC Template|skill_insight}
+  |Arcana, @{PC Template|skill_arcana}
+  |Adestramento, @{PC Template|skill_handling}
+  |Cozinhar, @{PC Template|skill_cooking}
+  |Enganação, @{PC Template|skill_deception}
+  |Intimidação, @{PC Template|skill_intimidation}
+  |Persuasão, @{PC Template|skill_persuasion}
+  |Performance, @{PC Template|skill_performance}
 
 
 {{pageNumber,auto}}

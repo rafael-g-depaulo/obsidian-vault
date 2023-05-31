@@ -122,22 +122,24 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 ##### Casters
 ____
 
-| Classe       | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch        | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Classe             | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Summoner           | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
 
-| Classe     | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
-|:---------- |:----------- |:----------- |:----------- |:-------------- |:----- |
-| Spelgard   | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer   | Média       | Média       | Alta        | Média          | -     |
-| Bard       | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+|:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
+| Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer            | Média       | Média       | Alta        | Média          | -     |
+| Bard                | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage          | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
 ____
@@ -148,16 +150,20 @@ ____
 | Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
 | Juggernaut    | Alta        | Baixa      | Média     | -                 |
 | Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
+| Hunter (TBI)  | Baixa       | Alta       | Média     | Média             |
 
 ##### Specialists
 ____
 
-| Classe     | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:---------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino     | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     | 
-| Dancer     | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Werebeast  | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Classe         | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+|:-------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
+| Ladino         | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
+| Dancer         | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista     | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Inventor (TBI) | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
+| Werebeast      | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Monge   (TBI)  | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
+
 }}
 
 {{pageNumber,auto}}
@@ -331,7 +337,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level, you can spend +1PM to add another 1d8+1 to the healing.
+**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
 
 ### Champion Feats
 
@@ -709,7 +715,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- **Planta Resistente**. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
+- **Planta Resistente**. Aumente o HP inicial das suas plantas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
 - **Planta Explosiva**. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
@@ -732,7 +738,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
 
-Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
+Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Botânica (CD 15, 20 ou 25, dependendo da dificuldade)
 
 As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
@@ -747,7 +753,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
-- **Raiz come-asfalto.** você recebe +5 em testes de Natureza para Herbomancia.
+- **Raiz come-asfalto.** você recebe +5 em testes de Botânica para Herbomancia.
 
 - **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
