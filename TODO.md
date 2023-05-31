@@ -7,8 +7,6 @@ kanban-plugin: basic
 ## backlog
 
 - [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
-- [ ] net adicionar ponto
-- [ ] checar aws
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
@@ -27,18 +25,21 @@ kanban-plugin: basic
 
 ## todo
 
+- [ ] net adicionar ponto
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
-- [ ] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
+- [ ] checar aws
 
 
 ## doing
 
-- [ ] rodar ragic. convidar sig
+- [ ] trancar lógica
 
 
 ## done
 
+- [x] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
+- [x] rodar ragic. convidar sig
 
 
 ***
