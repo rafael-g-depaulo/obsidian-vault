@@ -46,7 +46,7 @@ MULTI_FEATURES:
 
 Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- **Planta Resistente**. Aumenta o HP inicial das suas plantas em XX, e a defesa delas em XX.
+- **Planta Resistente**. Aumente o HP inicial das suas plantas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
 - **Planta Explosiva**. Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
@@ -65,7 +65,7 @@ Begining at level 2, every time you gain a level in Plantomancer you gain a Plan
 {{class-note "Herbomancia e Plantas Mágicas"
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
 
-Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Natureza (CD 15, 20 ou 25, dependendo da dificuldade)
+Habilidades de Herbomancia envolvem gastar uma ou mais sementes mágicas, uma quantidade de PM e uma ação de movimento ou padrão (sua escolha). Para fazer a Planta Mágica crescer você escolhe um lugar que consegue ver em alcance curto (9 quadrados). Se for um local natural a planta cresce automaticamente, mas se for inospício você tem que passar num teste de Botânica (CD 15, 20 ou 25, dependendo da dificuldade)
 
 As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
@@ -80,7 +80,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
-- **Raiz come-asfalto.** você recebe +5 em testes de Natureza para Herbomancia.
+- **Raiz come-asfalto.** você recebe +5 em testes de Botânica para Herbomancia.
 
 - **Se é verde faz bem**. Você ignora resistência a veneno e ácido de inimigos. Pré-requisitos: 4º nível de Plantomancer.
 
