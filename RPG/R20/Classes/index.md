@@ -157,14 +157,14 @@ ____
 ##### Specialists
 ____
 
-| Classe         | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:-------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino         | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
-| Dancer         | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista     | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Inventor (TBI) | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
-| Werebeast      | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
-| Monge   (TBI)  | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
+| Classe            | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+|:----------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
+| Ladino            | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
+| Dancer            | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista        | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Inventor (TBI)    | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
+| Werebeast         | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Pugilista   (TBI) | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
 
 }}
 
