@@ -4,6 +4,7 @@
 		{"type":"group","id":"fe7abf07214e43f7","x":-948,"y":130,"width":548,"height":759,"color":"4","label":"Envy"},
 		{"type":"group","id":"5a483b40c7e66caf","x":960,"y":0,"width":440,"height":889,"color":"6","label":"Pride"},
 		{"type":"group","id":"0a45b1df5626247a","x":160,"y":0,"width":430,"height":889,"color":"2","label":"Gluttony"},
+		{"type":"group","id":"3b8a2d5f5d5fe684","x":-674,"y":-1160,"width":430,"height":889,"color":"2","label":"Gluttony"},
 		{"type":"group","id":"f0f21f523dc24b67","x":-2060,"y":-1580,"width":440,"height":840,"label":"Basic"},
 		{"type":"file","file":"RPG/R20/Bestiary/Skeleton, Hand.md","id":"652fc862705ce61d","x":-2040,"y":-1560,"width":400,"height":240},
 		{"type":"file","file":"RPG/R20/Bestiary/Skeleton, Gnoll.md","id":"4f78c51632a06e10","x":-928,"y":433,"width":288,"height":247},
