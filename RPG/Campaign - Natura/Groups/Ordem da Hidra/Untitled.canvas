@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"271fa09be9e8fd0d","x":-900,"y":-400,"width":250,"height":60,"color":"3","type":"text","text":"Greed"}
+		{"id":"27fbfec32a58829a","x":127,"y":451,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, with weapons (should be stronger).md"},
+		{"type":"text","text":"Greed","id":"271fa09be9e8fd0d","x":-1925,"y":120,"width":250,"height":60,"color":"3"},
+		{"type":"file","file":"RPG/R20/Bestiary/Skeleton, Archer.md","id":"7d8463829cef6e39","x":-2000,"y":420,"width":400,"height":379},
+		{"type":"text","text":"Basic","id":"1e336597c88a3cd7","x":-1965,"y":-1698,"width":250,"height":60},
+		{"id":"6319c38a0734bcfa","x":-1080,"y":-480,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Bullywug.md"},
+		{"id":"f351d1735c2d75a6","x":-131,"y":-300,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Cat.md"},
+		{"id":"4f78c51632a06e10","x":-928,"y":276,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Gnoll.md"},
+		{"id":"652fc862705ce61d","x":-1272,"y":-583,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Hand.md"},
+		{"id":"b67abf477b6d37e9","x":-1566,"y":-792,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Head on Legs.md"},
+		{"id":"80b02bb9b1e3b32e","x":42,"y":-548,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Shield.md"},
+		{"id":"c7561fad7d76fd5b","x":-94,"y":-754,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Skull.md"},
+		{"id":"3aa989d3444e95f0","x":-544,"y":-733,"width":400,"height":400,"type":"file","file":"RPG/R20/Bestiary/Skeleton, Skull on Arm.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"342fb46f25bb9538","fromNode":"271fa09be9e8fd0d","fromSide":"bottom","toNode":"7d8463829cef6e39","toSide":"top"}
+	]
 }
