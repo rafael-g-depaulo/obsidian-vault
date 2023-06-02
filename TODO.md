@@ -33,11 +33,11 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] trancar lógica
 
 
 ## done
 
+- [x] trancar lógica
 - [x] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
 - [x] rodar ragic. convidar sig
 
