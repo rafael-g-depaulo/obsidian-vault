@@ -138,9 +138,9 @@ ____
 | Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
 |:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
 | Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer            | Média       | Média       | Alta        | Média          | -     |
-| Bard                | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage          | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Enhancer  (TBI)     | Média       | Média       | Alta        | Média          | -     |
+| Bard       (TBI)    | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage (TBI)    | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
 | Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
