@@ -35,7 +35,7 @@ Calculate with skills hitting 65%, and them spending (LVL + ceil(1/3 max)) MP
 ## To-Hit
 Calculate with common buffs
 
-To-Hit Modifier by archetype
+To-Hit Modifier by archetype (without proficiency)
 
 | Arch       | lv1 | lv2 | lv3 | lv4 | lv5 | lv6 | lv7 | lv8 | lv9 | lv10 | lv11 | lv12 | lv13 | lv14 | lv15 | lv16 | lv17 | lv18 | lv19 | lv20 |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -46,9 +46,9 @@ To-Hit Modifier by archetype
 
 | Char       | lv1 | lv2 | lv3 | lv4 | lv5 | lv6 | lv7 | lv8 | lv9 | lv10 | lv11 | lv12 | lv13 | lv14 | lv15 | lv16 | lv17 | lv18 | lv19 | lv20 |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Zambrota   | 3   | 5   |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
-| Kaiser     |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
-| Syril      |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
+| Zambrota   | 3   | 4   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 12   |      |      |      |      |      |      |      |      |      |      |
+| Kaiser     | 4   | 5   | 6   | 8   | 8   | 9   | 10  | 11  | 12  | 13   |      |      |      |      |      |      |      |      |      |      |
+| Syril      | 4   | 6   | 6   | 8   | 9   | 9   | 10  | 10  | 11  | 12     |      |      |      |      |      |      |      |      |      |      |
 | Off-Caster |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
 | Lumb       |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
 | Caster     |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |      |
