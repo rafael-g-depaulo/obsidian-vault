@@ -13,3 +13,6 @@ compare D&D and R20 PC AC and apply bonus if needed.
 
 # T20 sample characters
 take Natura chars as example first. generate more to end up with 2 of each archetype.
+
+## DPR
+| Char | lv1 |
