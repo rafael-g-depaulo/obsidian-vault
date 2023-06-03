@@ -8,34 +8,36 @@ MP_ATTB: SEN
 SPELLCASTING_ATTB: SEN
 
 FEATURES:
+
 | LEVEL | FEATURE          |
 | ----- | ---------------- |
 | 1     | Lay on Hands     |
 | 2     | Spiritual Weapon |
 
 MULTI_FEATURES:
+
 | Level | Spiritual Weapon | Lay on Hands |
 | ----- | ---------------- | ------------ |
 | 1st   | -                | 1d8+1        |
-| 2nd   | 1d8+SEN          | 1d8+1        |
-| 3rd   | 1d8+SEN          | 1d8+1        |
-| 4th   | 1d8+SEN          | 1d8+1        |
-| 5th   | 1d8+SEN          | 1d8+1        |
-| 6th   | 2d8+SEN          | 1d8+1        |
-| 7th   | 2d8+SEN          | 2d8+2        |
-| 8th   | 2d8+SEN          | 2d8+2        |
-| 9th   | 2d8+SEN          | 2d8+2        |
-| 10th  | 2d8+SEN          | 3d8+3        |
-| 11th  | 3d8+SEN          | 3d8+3        |
-| 12th  | 3d8+SEN          | 3d8+3        |
-| 13th  | 3d8+SEN          | 3d8+3        |
-| 14th  | 3d8+SEN          | 4d8+4        |
-| 15th  | 3d8+SEN          | 4d8+4        |
-| 16th  | 4d8+SEN          | 4d8+4        |
-| 17th  | 4d8+SEN          | 4d8+4        |
-| 18th  | 4d8+SEN          | 5d8+5        |
-| 19th  | 4d8+SEN          | 5d8+5        |
-| 20th  | 4d8+SEN          | 5d8+5        |
+| 2nd   | 2d8+SEN          | 1d8+1        |
+| 3rd   | 2d8+SEN          | 1d8+1        |
+| 4th   | 2d8+SEN          | 1d8+1        |
+| 5th   | 2d8+SEN          | 1d8+1        |
+| 6th   | 3d8+SEN          | 1d8+1        |
+| 7th   | 3d8+SEN          | 2d8+2        |
+| 8th   | 3d8+SEN          | 2d8+2        |
+| 9th   | 3d8+SEN          | 2d8+2        |
+| 10th  | 3d8+SEN          | 3d8+3        |
+| 11th  | 4d8+SEN          | 3d8+3        |
+| 12th  | 4d8+SEN          | 3d8+3        |
+| 13th  | 4d8+SEN          | 3d8+3        |
+| 14th  | 4d8+SEN          | 4d8+4        |
+| 15th  | 4d8+SEN          | 4d8+4        |
+| 16th  | 5d8+SEN          | 4d8+4        |
+| 17th  | 5d8+SEN          | 4d8+4        |
+| 18th  | 5d8+SEN          | 5d8+5        |
+| 19th  | 5d8+SEN          | 5d8+5        |
+| 20th  | 5d8+SEN          | 5d8+5        |
 }}
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
