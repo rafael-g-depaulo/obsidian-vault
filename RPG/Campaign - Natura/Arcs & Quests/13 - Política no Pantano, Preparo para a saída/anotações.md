@@ -1,0 +1,1 @@
+eles saem da reunião e se vem na capital
