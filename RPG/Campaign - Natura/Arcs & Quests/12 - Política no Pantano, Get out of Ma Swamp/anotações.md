@@ -12,6 +12,7 @@ conheceram o Krek (bullywug de pele azul). ele ajuda eles com uma canção que a
 no início da noite chegam no centro do reino de gorf
 
 descanso dificuldade 1 (CD 10)
+
 | char     | roll    | resources |
 | -------- | ------- | --------- |
 | zyggs    | 7 -> 0  | 0         |
