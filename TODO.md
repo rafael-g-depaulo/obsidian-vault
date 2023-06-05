@@ -33,6 +33,7 @@ kanban-plugin: basic
 - [ ] check-in tcc
 - [ ] review tcc
 - [ ] tamanho e enlarge/reduce R20
+- [ ] calculadora científica app
 
 
 ## doing
