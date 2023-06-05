@@ -28,7 +28,7 @@ $$
 \begin{equation}
 \begin{split}
 \chi^2_{obs}={\sum_i(x_i-n p_{oi})^2}* \frac{1}{np_{oi}} \\
-= \sum(f_{observada}-f_{esperada})^2 * 1/f_{esperada} \\
+= \sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\
 \end{split}
 \end{equation}
 $$
