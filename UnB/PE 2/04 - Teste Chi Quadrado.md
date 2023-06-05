@@ -39,7 +39,7 @@ Quando n grande a distribuição tente a $\chi_1$
 $$
 \begin{equation}
 \begin{split}
-\chi^2_{obs}\ \ \ \widetilde{n\ grande}\ \ \ \chi^2_{k-1} \\
+\chi^2_{obs}\ \ \ \widetilde{n\ grande}\ \ \ \chi^2_{k-1-(\text{\# de parametros estimados})} \\
 \text{Rejeita} H_0 \iff \chi^2_{obs}>\chi^2_{k-1, \alpha}
 \end{split}
 \end{equation}
