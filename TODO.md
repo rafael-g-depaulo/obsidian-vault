@@ -29,6 +29,10 @@ kanban-plugin: basic
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
 - [ ] checar aws
+- [ ] issues TCC
+- [ ] check-in tcc
+- [ ] review tcc
+- [ ] tamanho e enlarge/reduce R20
 
 
 ## doing
@@ -37,9 +41,6 @@ kanban-plugin: basic
 
 ## done
 
-- [x] trancar lógica
-- [x] ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
-- [x] rodar ragic. convidar sig
 
 
 ***
@@ -147,6 +148,9 @@ kanban-plugin: basic
 - [x] 2023-05-25 21:16 add shatter (prolly already added)
 - [x] 2023-05-25 21:16 add pygments to setup
 - [x] 2023-05-25 21:16 lambrar mari sessão 0
+- [x] 2023-06-05 11:04 trancar lógica
+- [x] 2023-06-05 11:04 ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
+- [x] 2023-06-05 11:04 rodar ragic. convidar sig
 
 %% kanban:settings
 ```
