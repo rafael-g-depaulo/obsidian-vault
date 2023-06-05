@@ -20,7 +20,15 @@ $$
 X=(X_1, ..., X_i) \sim Multinomial(n; p=(p_1,\ ...,p_i)), p_i \ge 0, \sum_i p_i=1 \\
 \\
 P(X_i=x_i (i = 1..k)) = n!*\prod_k\frac{p_i^{x_i}}{x_i!}\\
-
+\end{split}
+\end{equation}
+$$
+Divergência Chi Quadrado
+$$
+\begin{equation}
+\begin{split}
+\chi^2_{obs}={\sum_i(x_i-n p_{oi})^2}* \frac{1}{np_{oi}} \\
+= \sum(f_{observada}-f_{esperada})^2 * 1/f_{esperada} \\
 \end{split}
 \end{equation}
 $$
