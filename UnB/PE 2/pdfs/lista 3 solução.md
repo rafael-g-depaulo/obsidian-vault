@@ -12,6 +12,29 @@ n=20\\
 \end{equation}
 $$
 ### 1.1. Calcule MQ de $\alpha$ e $\beta$ e $\hat\sigma^2$
+$$
+\begin{equation}
+\begin{split}
+\hat\sigma^2=\frac{1}{n-2}\sum_i(y_i-\hat\alpha -\hat\beta x_i)^2\\
+\hat\alpha=\bar{y} -\hat\beta\bar{x}\\
+\\
+\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{(x_i-\bar{x})^2}\\
+\\
+\end{split}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+\begin{split}
+\hat\beta=\sum_i(x_iy_i-\bar{x}y_i-\bar{y}x_i+\bar{x}\bar{y})\\
+= \sum x_iy_i - n\bar{x}*\sum y_i - n\bar{y}*\sum{x_i} + n\bar{x}\bar{y}\\
+= \sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}\\
+= 9.10 + 2.52*51.59 + 51.59*2.52 -2.52*51.59/20 \\
+
+\end{split}
+\end{equation}
+$$
 ### 1.2. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)
 ### 1.3. Teste (NS 5%) $H_0: \beta=0$
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
