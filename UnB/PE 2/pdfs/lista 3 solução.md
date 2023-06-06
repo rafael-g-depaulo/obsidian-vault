@@ -34,9 +34,9 @@ Ha evidência para rejeitar a hipótese nula, já que p_valor <= alpha
 
 | Fonte de Variação | gl  | SQ  | QM  | F_obs |
 | ----------------- | --- | --- | --- | ----- |
-| Regressão         |     |     |     |       |
-| Resíduos          |     |     |     |       |
-| Total             | 21  |     |     |       |
+| Regressão         | 1   |     |     |       |
+| Resíduos          | 18  |     |     |       |
+| Total             | 20  |     |     |       |
 
 ## 2.
 ![[Pasted image 20230606105449.png]]
