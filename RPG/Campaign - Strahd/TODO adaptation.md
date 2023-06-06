@@ -29,12 +29,15 @@
 - Ragan
 	- combate
 	- mecânicas de rolagem fora de combate (skill checks, descansos, rolar tabelas de loot/encounters/eventos)
-	- preparo do roll20 (fichas (PC, inimigos), macros, handouts (loot, mensagens, cartas))
+	- preparo do roll20
+		- fichas (PC, inimigos)
+		- macros
+		- handouts (loot)
 	- NPCs
 - Nay
 	- músicas
 	- conhecimento geral do mundo
-	- preparo do roll20 (mapas)
+	- preparo handouts roll20 (mensagens, cartas)
 	- NPCs
 - Falta alocar
 	- descrição de local
