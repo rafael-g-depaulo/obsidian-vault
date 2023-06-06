@@ -22,6 +22,9 @@ $$
 
 ### 2.2. Quantos indivíduos foram observados?
 
-### 2.3. 
+### 2.3. Existe evidência que $\beta \ne 0$? Calcule p-valor (alpha=0.1)
 
-### 2.4.
+### 2.4. Calcule R²
+### 2.4. Sabendo que $\sum_i(x_i-\bar{x})^2=5.67$, calcule o calor absoluto de MQ $\hat\beta$ 
+
+## 3.
