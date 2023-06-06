@@ -28,3 +28,10 @@ $$
 ### 2.4. Sabendo que $\sum_i(x_i-\bar{x})^2=5.67$, calcule o calor absoluto de MQ $\hat\beta$ 
 
 ## 3.
+![[Pasted image 20230606112555.png]]
+
+### 3.1. Faça um gráfico de dispersão de vestibular e ira. ele sugere ue um modelo linear pode explicar o rendimento?
+
+### 3.2. Calcule MQ de $\alpha$ e $\beta$ e $\hat\sigma^2$.
+### 3.3. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)
+### 3.4. Teste (NS 5%) $H_0: \beta=0$
