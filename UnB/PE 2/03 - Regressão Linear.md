@@ -12,7 +12,7 @@
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $\sigma^2$ | $$\begin{equation}\begin{split}\hat\sigma^2=\frac{1}{n-2}\sum_i(y_i-\hat\alpha -\hat\beta x_i)^2\end{split}\end{equation}$$        |                                                                                                                                                                           |
 | $\alpha$   | $$\begin{equation}\begin{split}\hat\alpha=\bar{y} -\hat\beta\bar{x}\end{split}\end{equation}$$                                     | $$\begin{equation}\begin{split}IC(\alpha): \hat\alpha\ \pm t_{n-2,\ a/2}\hat\sigma \sqrt\frac{\sum^n_{i=1}x_i^2}{n\sum^n_{i=1}(x_i-\bar{x})^2}\end{split}\end{equation}$$ |
-| $\beta$    | $$\begin{equation}\begin{split}\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{\sum_i(x_i-\bar{x})^2}\end{split}\end{equation}$$ | $$\begin{equation}\begin{split}IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{\sum^n_{i=1}(x_i-\bar{x})^2}}\end{split}\end{equation}$$                   |
+| $\beta$    | $$\begin{equation}\begin{split}\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{\sum_i(x_i-\bar{x})^2}\end{split}\end{equation}$$ | $$\begin{equation}\begin{split}IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{n\sum(x_i-\bar{x})^2}}\end{split}\end{equation}$$                   |
 
 $$
 \sum(x_i-\bar{x})^2
@@ -33,8 +33,14 @@ sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - betahat*(sumxy - sumx*sumy/n)); sigma2h
 alpha=0.05
 alpha_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat*sumx2/(n*sumx2-sumx**2))
 IC_alpha=c(alphahat-alpha_radius, alphahat+alpha_radius); IC_alpha
-beta_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat/(sumx2-(sumx**2)/n))
+beta_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat/(n*sumx2-sumx**2))
 IC_beta=c(betahat-beta_radius, betahat+beta_radius); IC_beta
+```
+
+### R Tobs
+```R
+beta_0=0
+t_obs=(betahat - beta_0)/sqrt(sigma2hat)*sqrt(sumx2 - sumx^2/n); t_obs
 ```
 
 ### Alternativas

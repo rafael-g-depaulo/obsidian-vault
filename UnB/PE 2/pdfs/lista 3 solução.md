@@ -23,9 +23,10 @@ $$
 ![[Pasted image 20230606171844.png]]
 
 ### 1.2. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)
-
+![[Pasted image 20230606173145.png]]
 
 ### 1.3. Teste (NS 5%) $H_0: \beta=0$
+
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
 
 ## 2.

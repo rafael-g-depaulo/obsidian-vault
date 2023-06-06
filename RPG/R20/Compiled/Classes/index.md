@@ -136,9 +136,9 @@ ____
 | Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
 |:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
 | Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer            | Média       | Média       | Alta        | Média          | -     |
-| Bard                | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage          | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Enhancer  (TBI)     | Média       | Média       | Alta        | Média          | -     |
+| Bard       (TBI)    | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage (TBI)    | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
 | Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
@@ -155,14 +155,14 @@ ____
 ##### Specialists
 ____
 
-| Classe         | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:-------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino         | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
-| Dancer         | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista     | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Inventor (TBI) | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
-| Werebeast      | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
-| Monge   (TBI)  | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
+| Classe            | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
+|:----------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
+| Ladino            | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
+| Dancer            | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
+| Alquimista        | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
+| Inventor (TBI)    | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
+| Werebeast         | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
+| Pugilista   (TBI) | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
 
 }}
 
@@ -219,7 +219,7 @@ Important tips:
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
 | 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 2nd | +1 | Beast Warrior Feat, Savage Attack | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
 | 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
 | 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
@@ -245,7 +245,7 @@ Important tips:
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
-**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível). (lv3)
+**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
 **Wild Senses.** Choose 3 between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. Every 5 levels you can add another skill.
 
@@ -875,7 +875,7 @@ List of spells available for a Plantomancer to learn.
 }}
 
 
-**SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this damage increases by +1d6.
+**SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -940,25 +940,25 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
 | 1st | +1 | Lay on Hands | - | 1d8+1 | 1 | 1 |
-| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 1d8+SEN | 1d8+1 | 2 | 1 |
-| 3rd | +2 | Spelgard Feat | 1d8+SEN | 1d8+1 | 2 | 1 |
-| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 1d8+SEN | 1d8+1 | 3 | 1 |
-| 5th | +3 | Spelgard Feat, Attack of Opportunity | 1d8+SEN | 1d8+1 | 3 | 2 |
-| 6th | +3 | Spelgard Feat | 2d8+SEN | 1d8+1 | 4 | 2 |
-| 7th | +4 | Spelgard Feat, Extra Attack | 2d8+SEN | 2d8+2 | 4 | 2 |
-| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 5 | 3 |
-| 9th | +5 | Spelgard Feat | 2d8+SEN | 2d8+2 | 5 | 3 |
-| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 3d8+3 | 6 | 3 |
-| 11th | +6 | Spelgard Feat | 3d8+SEN | 3d8+3 | 6 | 4 |
-| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 7 | 4 |
-| 13th | +7 | Spelgard Feat | 3d8+SEN | 3d8+3 | 7 | 5 |
-| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 4d8+4 | 8 | 5 |
-| 15th | +8 | Spelgard Feat | 3d8+SEN | 4d8+4 | 8 | 6 |
-| 16th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 9 | 6 |
-| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 9 | 7 |
-| 18th | +9 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
-| 19th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
-| 20th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 11 | 7 |
+| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
+| 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 1d8+1 | 3 | 2 |
+| 6th | +3 | Spelgard Feat | 3d8+SEN | 1d8+1 | 4 | 2 |
+| 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 2d8+2 | 4 | 2 |
+| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 2d8+2 | 5 | 3 |
+| 9th | +5 | Spelgard Feat | 3d8+SEN | 2d8+2 | 5 | 3 |
+| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 6 | 3 |
+| 11th | +6 | Spelgard Feat | 4d8+SEN | 3d8+3 | 6 | 4 |
+| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 3d8+3 | 7 | 4 |
+| 13th | +7 | Spelgard Feat | 4d8+SEN | 3d8+3 | 7 | 5 |
+| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 8 | 5 |
+| 15th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 8 | 6 |
+| 16th | +8 | Spelgard Feat | 5d8+SEN | 4d8+4 | 9 | 6 |
+| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 5d8+SEN | 4d8+4 | 9 | 7 |
+| 18th | +9 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
+| 19th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
+| 20th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 11 | 7 |
 }}
 
 

@@ -16,7 +16,7 @@
 | Level | Proficiency Bonus | Features |Savage Attack | 
 | :---: | :---------------: | :------- | :----: |
 | 1st | +1 | Rage (+2) | - |
-| 2nd | +1 | Beast Warrior Feat | 1d4+CON |
+| 2nd | +1 | Beast Warrior Feat, Savage Attack | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | 1d4+CON |
 | 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | 1d4+CON |
 | 5th | +3 | Beast Warrior Feat, Extra Attack | 1d4+CON |
@@ -42,7 +42,7 @@
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
-**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível). (lv3)
+**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard, e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
 **Wild Senses.** Choose 3 between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. Every 5 levels you can add another skill.
 

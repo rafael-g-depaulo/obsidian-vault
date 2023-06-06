@@ -19,25 +19,25 @@
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
 | 1st | +1 | Lay on Hands | - | 1d8+1 | 1 | 1 |
-| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 1d8+SEN | 1d8+1 | 2 | 1 |
-| 3rd | +2 | Spelgard Feat | 1d8+SEN | 1d8+1 | 2 | 1 |
-| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 1d8+SEN | 1d8+1 | 3 | 1 |
-| 5th | +3 | Spelgard Feat, Attack of Opportunity | 1d8+SEN | 1d8+1 | 3 | 2 |
-| 6th | +3 | Spelgard Feat | 2d8+SEN | 1d8+1 | 4 | 2 |
-| 7th | +4 | Spelgard Feat, Extra Attack | 2d8+SEN | 2d8+2 | 4 | 2 |
-| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 5 | 3 |
-| 9th | +5 | Spelgard Feat | 2d8+SEN | 2d8+2 | 5 | 3 |
-| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 3d8+3 | 6 | 3 |
-| 11th | +6 | Spelgard Feat | 3d8+SEN | 3d8+3 | 6 | 4 |
-| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 7 | 4 |
-| 13th | +7 | Spelgard Feat | 3d8+SEN | 3d8+3 | 7 | 5 |
-| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 4d8+4 | 8 | 5 |
-| 15th | +8 | Spelgard Feat | 3d8+SEN | 4d8+4 | 8 | 6 |
-| 16th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 9 | 6 |
-| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 9 | 7 |
-| 18th | +9 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
-| 19th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 10 | 7 |
-| 20th | +10 | Spelgard Feat | 4d8+SEN | 5d8+5 | 11 | 7 |
+| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
+| 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 1d8+1 | 3 | 2 |
+| 6th | +3 | Spelgard Feat | 3d8+SEN | 1d8+1 | 4 | 2 |
+| 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 2d8+2 | 4 | 2 |
+| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 2d8+2 | 5 | 3 |
+| 9th | +5 | Spelgard Feat | 3d8+SEN | 2d8+2 | 5 | 3 |
+| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 6 | 3 |
+| 11th | +6 | Spelgard Feat | 4d8+SEN | 3d8+3 | 6 | 4 |
+| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 3d8+3 | 7 | 4 |
+| 13th | +7 | Spelgard Feat | 4d8+SEN | 3d8+3 | 7 | 5 |
+| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 8 | 5 |
+| 15th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 8 | 6 |
+| 16th | +8 | Spelgard Feat | 5d8+SEN | 4d8+4 | 9 | 6 |
+| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 5d8+SEN | 4d8+4 | 9 | 7 |
+| 18th | +9 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
+| 19th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
+| 20th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 11 | 7 |
 }}
 
 
