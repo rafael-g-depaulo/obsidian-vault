@@ -17,11 +17,15 @@
 ### R
 ```r
 beta=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2)
+alpha=sumy/n - beta*sumx/n
+sigma2=1/(n-2)*(sumy2 - sumy*sumy/n - beta*(sumxy - sumx*sumy/n))
 ```
 
 ### Alternativas
 - Beta
 	- $\frac{\sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}}{\sum x_i^2 -n\bar{x}^2}$
+- Sigma
+	- $\frac{\sum y_i^2 -\bar{y}\sum{y_i} -\hat\beta(\sum x_iy_i -n\bar{x}\bar{y})}{n-2} $
 
 
 ## Teste de Hipótese ($t_{obs}$) e p-valor
