@@ -26,8 +26,17 @@ $$
 ![[Pasted image 20230606173145.png]]
 
 ### 1.3. Teste (NS 5%) $H_0: \beta=0$
+![[Pasted image 20230606174750.png]]
+![[Pasted image 20230606175254.png]]
+Ha evidência para rejeitar a hipótese nula, já que p_valor <= alpha
 
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
+
+| Fonte de Variação | gl  | SQ  | QM  | F_obs |
+| ----------------- | --- | --- | --- | ----- |
+| Regressão         |     |     |     |       |
+| Resíduos          |     |     |     |       |
+| Total             | 21  |     |     |       |
 
 ## 2.
 ![[Pasted image 20230606105449.png]]

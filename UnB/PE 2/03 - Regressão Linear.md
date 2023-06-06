@@ -1,11 +1,5 @@
 [[03 - regressão linear simples.pdf|Notas de aula]]
 
-## Checar no R
-- lm
-	- usar `vel ~ 1 + dist`
-	- vel=y
-	- dist=beta
-
 ## Estimadores Mínimos Quadrados (MQ)
 
 | Var        | Estimador                                                                                                                          | IC                                                                                                                                                                        |
@@ -23,24 +17,25 @@ $$
 
 ### R Estimador
 ```r
-betahat=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2); betahat
-alphahat=sumy/n - betahat*sumx/n; alphahat
-sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - betahat*(sumxy - sumx*sumy/n)); sigma2hat
+beta_hat=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2); beta_hat
+alpha_hat=sumy/n - beta_hat*sumx/n; alpha_hat
+sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - beta_hat*(sumxy - sumx*sumy/n)); sigma2hat
 ```
 
 ### R IC
 ```r
 alpha=0.05
 alpha_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat*sumx2/(n*sumx2-sumx**2))
-IC_alpha=c(alphahat-alpha_radius, alphahat+alpha_radius); IC_alpha
+IC_alpha=c(alpha_hat-alpha_radius, alpha_hat+alpha_radius); IC_alpha
 beta_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat/(n*sumx2-sumx**2))
-IC_beta=c(betahat-beta_radius, betahat+beta_radius); IC_beta
+IC_beta=c(beta_hat-beta_radius, beta_hat+beta_radius); IC_beta
 ```
 
 ### R Tobs
 ```R
 beta_0=0
-t_obs=(betahat - beta_0)/sqrt(sigma2hat)*sqrt(sumx2 - sumx^2/n); t_obs
+t_obs=(beta_hat - beta_0)/sqrt(sigma2hat)*sqrt(n*sumx2 - sumx^2); t_obs
+p_value=2*(1-pt(t_obs, n-2)); p_value
 ```
 
 ### Alternativas
@@ -52,6 +47,7 @@ t_obs=(betahat - beta_0)/sqrt(sigma2hat)*sqrt(sumx2 - sumx^2/n); t_obs
 
 ## Teste de Hipótese ($t_{obs}$) e p-valor
 ### $t_{obs}$
+**APARENTEMENTE TEM QUE DIVIDIR POR $\sqrt {n}$ TAMBÉM, MAS NÃO SEI SE ONDE VEM ISSO** 
 $$
 \begin{equation}
 \begin{split}
@@ -71,7 +67,7 @@ $$
 \begin{equation}
 \begin{split}
 
-p_{valor}= 2 * P(T_{n-2} > |t_{obs}|) \text{( "\texttt{2 * qt(Tobs, n-2)}" no R. ou é pt??}
+p_{valor}= 2 * P(T_{n-2} > |t_{obs}|)
 \end{split}
 \end{equation}
 $$
@@ -86,6 +82,12 @@ Var(\hat\alpha)=\sigma^2\frac{\sum x_i^2}{n\sum(x_i-\bar{x})^2}
 \end{split}
 \end{equation}
 $$
+
+## Checar no R
+- lm
+	- usar `vel ~ 1 + dist`
+	- vel=y
+	- dist=beta
 
 ## Intro/motivação
 ### Ideia
