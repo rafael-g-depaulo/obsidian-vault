@@ -31,8 +31,8 @@ sigma2=1/(n-2)*(sumy2 - sumy*sumy/n - beta*(sumxy - sumx*sumy/n))
 ### R IC
 ```r
 old_alpha=0.05
-alpha_radius = qt(1-old_alpha/2, n-2)
-beta_radius = qt(1-old_alpha/2, n-2)*sigma2/(sumx2-n*(sumx**2))
+alpha_radius = qt(1-old_alpha/2, n-2)*sigma2*sqrt(sumx2/(n*sumx2-sumx**2))
+beta_radius = qt(1-old_alpha/2, n-2)*sigma2/sqrt(sumx2-(sumx**2)/n)
 ```
 
 ### Alternativas
