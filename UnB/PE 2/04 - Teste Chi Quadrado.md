@@ -35,7 +35,6 @@ $$
 
 Quando n grande a distribuição tente a $\chi_1$
 
-### Caso geral
 $$
 \begin{equation}
 \begin{split}
