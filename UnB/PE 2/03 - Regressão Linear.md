@@ -14,18 +14,30 @@
 | $\alpha$   | $$\begin{equation}\begin{split}\hat\alpha=\bar{y} -\hat\beta\bar{x}\end{split}\end{equation}$$                                     | $$\begin{equation}\begin{split}IC(\alpha): \hat\alpha\ \pm t_{n-2,\ a/2}\hat\sigma \sqrt\frac{\sum^n_{i=1}x_i^2}{n\sum^n_{i=1}(x_i-\bar{x})^2}\end{split}\end{equation}$$ |
 | $\beta$    | $$\begin{equation}\begin{split}\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{\sum_i(x_i-\bar{x})^2}\end{split}\end{equation}$$ | $$\begin{equation}\begin{split}IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{\sum^n_{i=1}(x_i-\bar{x})^2}}\end{split}\end{equation}$$                   |
 
-### R
+$$
+\sum(x_i-\bar{x})^2
+=\sum(x_i^2-2\bar{x}x_i+\bar{x}^2)
+=\sum x_i^2 -n\bar{x}^2
+=\sum x_i^2 -(\sum x_i)^2/n
+$$
+
+### R Estimador
 ```r
 beta=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2)
 alpha=sumy/n - beta*sumx/n
 sigma2=1/(n-2)*(sumy2 - sumy*sumy/n - beta*(sumxy - sumx*sumy/n))
 ```
 
+### R IC
+```r
+alpha_radius = t
+```
+
 ### Alternativas
 - Beta
 	- $\frac{\sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}}{\sum x_i^2 -n\bar{x}^2}$
 - Sigma
-	- $\frac{\sum y_i^2 -\bar{y}\sum{y_i} -\hat\beta(\sum x_iy_i -n\bar{x}\bar{y})}{n-2} $
+	- $\frac{\sum y_i^2 -\bar{y}\sum{y_i} -\hat\beta(\sum x_iy_i -n\bar{x}\bar{y})}{n-2}$
 
 
 ## Teste de Hipótese ($t_{obs}$) e p-valor

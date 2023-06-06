@@ -28,6 +28,7 @@ P valor disso no R é:
 ![[Pasted image 20230516111914.png]]
 
 ## Estimar $\sigma^2$
+
 | Definição                           | Fórumula                                                                                                                          |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Sob $H_0$                           | $$\begin{equation}\begin{split}\hat\sigma^2=\frac{1}{IJ-1}\sum_i\sum_j(y_{ij}-\bar{y}_{\cdot,\cdot})^2\end{split}\end{equation}$$ |
@@ -51,6 +52,7 @@ $$
 
 
 ## SQ (Soma de Quadrados)
+
 | Definição                                     | Fórmula                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Soma de Quadrados corrigidos pela média       | $$\begin{equation}\begin{split}SQ_{tot}=\sum_i\sum_j(Y_{i,j} - \overline{Y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$     |
@@ -72,6 +74,7 @@ SQ_{total}=SQ_{trat}+SQ_{erro} \\
 $$
 
 ## Quadrados Médios
+
 | Definição                                 | Fórmula                                                                                                                                    |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Quadrado médio do tratamento              | $$\begin{equation}\begin{split}QM_{trat}= \frac{J}{I-1}\sum_i (\bar{y}_{i,\cdot} - \bar{y}_{\cdot,\cdot})^2 \\\end{split}\end{equation}$$  |
