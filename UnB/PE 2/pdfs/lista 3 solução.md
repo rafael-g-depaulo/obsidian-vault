@@ -27,9 +27,9 @@ $$
 $$
 \begin{equation}
 \begin{split}
-\hat\beta=\sum_i(x_iy_i-\bar{x}y_i-\bar{y}x_i+\bar{x}\bar{y})\\
-= \sum x_iy_i - n\bar{x}*\sum y_i - n\bar{y}*\sum{x_i} + n\bar{x}\bar{y}\\
-= \sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}\\
+\hat\beta=\sum_i(x_iy_i-\bar{x}y_i-\bar{y}x_i+\bar{x}\bar{y})/\sum (x_i-\bar{x})^2\\
+= (\sum x_iy_i - n\bar{x}*\sum y_i - n\bar{y}*\sum{x_i} + n\bar{x}\bar{y})/\sum (x_i^2 -2x_i\bar{x} + \bar{x}^2)\\
+= \frac{\sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}}{\sum x_i^2 -(n\bar{x})^2}\\
 = 9.10 + 2.52*51.59 + 51.59*2.52 -2.52*51.59/20 \\
 
 \end{split}
