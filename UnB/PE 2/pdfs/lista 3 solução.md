@@ -35,3 +35,8 @@ $$
 ### 3.2. Calcule MQ de $\alpha$ e $\beta$ e $\hat\sigma^2$.
 ### 3.3. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)
 ### 3.4. Teste (NS 5%) $H_0: \beta=0$
+### 3.5. Construa tabela da análise de variância
+### 3.6. IC (95%) ira médio dos alunos com nota 70
+### 3.7. Intervalo de previsão IRA de um aluno com nota 70
+### Pulando 3.8-3.9 arbitrariamente
+
