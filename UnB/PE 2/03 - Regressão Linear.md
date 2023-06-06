@@ -23,16 +23,18 @@ $$
 
 ### R Estimador
 ```r
-betahat=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2)
-alphahat=sumy/n - betahat*sumx/n
-sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - betahat*(sumxy - sumx*sumy/n))
+betahat=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2); betahat
+alphahat=sumy/n - betahat*sumx/n; alphahat
+sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - betahat*(sumxy - sumx*sumy/n)); sigma2hat
 ```
 
 ### R IC
 ```r
 alpha=0.05
 alpha_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat*sumx2/(n*sumx2-sumx**2))
+IC_alpha=c(alphahat-alpha_radius, alphahat+alpha_radius); IC_alpha
 beta_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat/(sumx2-(sumx**2)/n))
+IC_beta=c(betahat-beta_radius, betahat+beta_radius); IC_beta
 ```
 
 ### Alternativas

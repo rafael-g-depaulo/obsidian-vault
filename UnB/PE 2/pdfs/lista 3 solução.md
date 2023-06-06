@@ -13,16 +13,17 @@ n=20\\
 $$
 ### 1.1. Calcule MQ de $\alpha$ e $\beta$ e $\hat\sigma^2$
 ![[Pasted image 20230606132506.png]]
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+### **APARENTEMENTE COM N=21 FUNCIONA, MAS NÃO ENTENDI PQ**
+![[Pasted image 20230606171844.png]]
 
 ### 1.2. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)
 
-$$
-\begin{equation}
-\begin{split}
-IC(\alpha): \hat\alpha\ \pm t_{n-2,\ a/2}\hat\sigma \sqrt\frac{\sum^n_{i=1}x_i^2}{n\sum_i(x_i-\bar{x})^2}
-\end{split}
-\end{equation}
-$$
 
 ### 1.3. Teste (NS 5%) $H_0: \beta=0$
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
