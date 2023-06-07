@@ -76,9 +76,26 @@ $$
 
 ### 3.1. Faça um gráfico de dispersão de vestibular e ira. ele sugere ue um modelo linear pode explicar o rendimento?
 ```R
+# data
 vest <- c(66,62,66,56,93,66,91,53,60,81,57,58,55,65,72,75,64,67,67,73)
 ira <- c(63.5,53.7,55.3,79.7,73.4,72.6,84.0,55.0,67.7,60.4,58.3,38.9,71.3,70.0,71.4,81.9,68.8,72.6,70.3,77.1)
+
+# AAAAAAAAAAAA
 n <- length(vest)
+conf <- 0.95
+tail <- (1+conf)/2
+
+# Gráfico de dispersão
+par(mfrow=c(1,1))
+plot(vest, ira)
+ajuste <- lm(ira ~ 1+vest)
+abline(ajuste) # inclue a reta de minimos quadrados no gráfico
+summary(ajuste)
+
+alpha_hat <- ajuste$coefficients[1]
+beta_hat <- ajuste$coefficients[2]
+sigma2_hat <- sum( (ira - (alpha_hat + beta_hat*vest))**2 / (n-2) )
+alpha_radius <- sqrt(sigma2_hat * sum(vest^2) / (n*sum((vest-mean(vest))**2)) )
 ```
 
 
