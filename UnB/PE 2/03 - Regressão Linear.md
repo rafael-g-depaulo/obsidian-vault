@@ -38,6 +38,23 @@ t_obs=(beta_hat - beta_0)/sqrt(sigma2hat)*sqrt(n*sumx2 - sumx^2); t_obs
 p_value=2*(1-pt(t_obs, n-2)); p_value
 ```
 
+### R ANOVA
+```r
+SQ_reg=betahat**2 * (sumx2 - sumx**2/n)
+SQ_tot=sumy2 - sumy**2/n
+SQ_res=SQ_tot - SQ_reg
+print("SQ_reg"); SQ_reg
+print("SQ_res"); SQ_res
+print("SQ_tot"); SQ_tot
+
+QM_reg=SQ_reg
+QM_res=SQ_res/(n-2)
+print("SQ_tot"); SQ_tot
+print("SQ_tot"); SQ_tot
+
+F_obs=QM_reg/QM_res;F_obs
+```
+
 ### Alternativas
 - Beta
 	- $\frac{\sum x_iy_i - 2n^2\bar{x}\bar{y} + n\bar{x}\bar{y}}{\sum x_i^2 -n\bar{x}^2}$

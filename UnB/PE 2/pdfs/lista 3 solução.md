@@ -32,11 +32,11 @@ Ha evidência para rejeitar a hipótese nula, já que p_valor <= alpha
 
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
 
-| Fonte de Variação | gl  | SQ  | QM  | F_obs |
-| ----------------- | --- | --- | --- | ----- |
-| Regressão         | 1   |     |     |       |
-| Resíduos          | 19  |     |     |       |
-| Total             | 20  |     |     |       |
+| Fonte de Variação | gl  | SQ       | QM       | F_obs |
+| ----------------- | --- | -------- | -------- | ----- |
+| Regressão         | 1   | 11.37334 | 11.37334 |       |
+| Resíduos          | 19  | 604.3672 |          |       |
+| Total             | 20  | 615.7406 |          |       |
 
 ## 2.
 ![[Pasted image 20230606105449.png]]
