@@ -63,17 +63,24 @@ R= SQ_reg/SQ_tot=0.072378
 $$
 \begin{equation}
 \begin{split}
-F_{obs}=t_{obs}^2=\beta^2\frac{\sum(x_i-\bar{x})^2}{\hat\sigma^2}\\
-\text{substituindo $F_{obs}$, $\sum(x_i-\bar{x})^2$ e $\$}
+F_{obs}=t_{obs}^2=\hat\beta^2\frac{\sum(x_i-\bar{x})^2}{\hat\sigma^2}\\
+\text{substituindo $F_{obs}=1.561$, $\sum(x_i-\bar{x})^2=5.67$ e $\hat\sigma^2=QM_{res}=68.4$:}\\
+1.561=\hat\beta^2*\frac{5.67}{68.4}\\
+\hat\beta^2=18.8311 \implies \hat\beta=4.3394
 \end{split}
 \end{equation}
 $$
-
 
 ## 3.
 ![[Pasted image 20230606112555.png]]
 
 ### 3.1. Faça um gráfico de dispersão de vestibular e ira. ele sugere ue um modelo linear pode explicar o rendimento?
+```R
+vest <- c(66,62,66,56,93,66,91,53,60,81,57,58,55,65,72,75,64,67,67,73)
+ira <- c(63.5,53.7,55.3,79.7,73.4,72.6,84.0,55.0,67.7,60.4,58.3,38.9,71.3,70.0,71.4,81.9,68.8,72.6,70.3,77.1)
+n <- length(vest)
+```
+
 
 ### 3.2. Calcule MQ de $\alpha$ e $\beta$ e $\hat\sigma^2$.
 ### 3.3. Calcule IC para $\alpha$ e $\beta$ e $\sigma^2$ (95%)

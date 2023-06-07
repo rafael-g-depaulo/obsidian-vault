@@ -73,6 +73,7 @@ print("R_sqr"); R_sqr
 $$
 \begin{equation}
 \begin{split}
+\sqrt{F_{obs}}=
 t_{obs}=
 \frac{\hat\beta-\beta_0}{\hat\sigma}
 \sqrt{\sum_{i=1}^n(x_i-\bar{x})^2}
