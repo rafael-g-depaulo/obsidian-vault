@@ -73,6 +73,9 @@ p_{valor}= 2 * P(T_{n-2} > |t_{obs}|)
 $$
 
 
+## Tabela de Análise de Variância
+![[Pasted image 20230607111647.png]]
+
 ## Provavelmetne inútil: Var
 $$
 \begin{equation}
