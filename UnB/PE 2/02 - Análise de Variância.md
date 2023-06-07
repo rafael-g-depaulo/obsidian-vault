@@ -21,7 +21,11 @@ $$
 
 P valor disso no R é:
 ```R
-1 - pf(Fobs, I-1, I(J-1))
+1 - pf(F_obs, I-1, I(J-1))
+```
+ou
+```R
+1 - pf(F_obs, gl_trat, gl_err)
 ```
 
 ## Resumo

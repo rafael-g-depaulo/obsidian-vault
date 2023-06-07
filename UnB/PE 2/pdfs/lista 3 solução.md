@@ -32,19 +32,29 @@ Ha evidência para rejeitar a hipótese nula, já que p_valor <= alpha
 
 #### 1.4. Construa tabela de análise de variâncie e calcule $R^2$
 
-| Fonte de Variação | gl  | SQ       | QM       | F_obs |
-| ----------------- | --- | -------- | -------- | ----- |
-| Regressão         | 1   | 11.37334 | 11.37334 |       |
-| Resíduos          | 19  | 604.3672 |          |       |
-| Total             | 20  | 615.7406 |          |       |
+| Fonte de Variação | gl  | SQ       | QM       | F_obs     |
+| ----------------- | --- | -------- | -------- | --------- |
+| Regressão         | 1   | 11.37334 | 11.37334 | 0.3595532 | 
+| Resíduos          | 19  | 604.3672 | 604.3672 |           |
+| Total             | 20  | 615.7406 |          |           |
 
+R²=0.01847099
 ## 2.
 ![[Pasted image 20230606105449.png]]
+
 ### 2.1. Calcule as variáveis
+a=1 (pq gl da regressão é sempre 1)
+b=SQ_tot-SQ_res = 106.74
+c=SQ_reg/gl_reg = 106.74
+d=QM_reg/QM_res = c/f = 1.560526
+e=gl_total - a = 20 
+f=SQ_res/gl_res = 68.4
 
 ### 2.2. Quantos indivíduos foram observados?
+n= gl_total + 1 = 22
 
 ### 2.3. Existe evidência que $\beta \ne 0$? Calcule p-valor (alpha=0.1)
+
 
 ### 2.4. Calcule R²
 ### 2.4. Sabendo que $\sum_i(x_i-\bar{x})^2=5.67$, calcule o calor absoluto de MQ $\hat\beta$ 

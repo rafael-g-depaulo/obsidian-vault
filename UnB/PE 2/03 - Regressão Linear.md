@@ -49,10 +49,14 @@ print("SQ_tot"); SQ_tot
 
 QM_reg=SQ_reg
 QM_res=SQ_res/(n-2)
-print("SQ_tot"); SQ_tot
-print("SQ_tot"); SQ_tot
+print("SQ_reg"); SQ_reg
+print("SQ_res"); SQ_res
 
-F_obs=QM_reg/QM_res;F_obs
+F_obs=QM_reg/QM_res
+print("F_obs"); F_obs
+
+R_sqr=SQ_reg/SQ_tot
+print("R_sqr"); R_sqr
 ```
 
 ### Alternativas
