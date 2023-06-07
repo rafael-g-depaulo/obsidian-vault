@@ -92,10 +92,14 @@ ajuste <- lm(ira ~ 1+vest)
 abline(ajuste) # inclue a reta de minimos quadrados no gráfico
 summary(ajuste)
 
+# Estimadires MQ
 alpha_hat <- ajuste$coefficients[1]
 beta_hat <- ajuste$coefficients[2]
 sigma2_hat <- sum( (ira - (alpha_hat + beta_hat*vest))**2 / (n-2) )
-alpha_radius <- sqrt(sigma2_hat * sum(vest^2) / (n*sum((vest-mean(vest))**2)) )
+
+# IC (s here means radius without the t component. we will multiply that later)
+alpha_s <- sqrt(sigma2_hat * sum(vest^2) / (n*sum((vest-mean(vest))**2)) )
+beta_s <- sqrt(sigma2_hat / sum( (vest - mean(vest))**2 ))
 ```
 
 

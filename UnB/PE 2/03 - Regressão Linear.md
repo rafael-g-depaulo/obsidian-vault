@@ -26,9 +26,9 @@ sigma2hat=1/(n-2)*(sumy2 - sumy*sumy/n - beta_hat*(sumxy - sumx*sumy/n)); sigma2
 ```r
 alpha=0.05
 alpha_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat*sumx2/(n*sumx2-sumx**2))
-IC_alpha=c(alpha_hat-alpha_radius, alpha_hat+alpha_radius); IC_alpha
+IC_alpha=c(-1, 1)*alpha_radius + alpha_hat; IC_alpha
 beta_radius = qt(1-alpha/2, n-2)*sqrt(sigma2hat/(n*sumx2-sumx**2))
-IC_beta=c(beta_hat-beta_radius, beta_hat+beta_radius); IC_beta
+IC_beta=c(-1, 1)*beta_radius + beta_hat; IC_beta
 ```
 
 ### R Tobs
