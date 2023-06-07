@@ -48,7 +48,8 @@ print("SQ_res"); SQ_res
 print("SQ_tot"); SQ_tot
 
 QM_reg=SQ_reg
-QM_res=SQ_res/(n-2)
+gl_res=n-2
+QM_res=SQ_res/gl_res
 print("SQ_reg"); SQ_reg
 print("SQ_res"); SQ_res
 
@@ -96,6 +97,18 @@ $$
 
 ## Tabela de Análise de Variância
 ![[Pasted image 20230607111647.png]]
+
+### Teste de hipótese
+Para calcular o $F_{gl\_REG, gl\_RES, \alpha}$, faça
+```R
+gl_res=n-2
+F_hip=qf(1-alpha, 1, gl_res); F_hip
+```
+E P-valor:
+```R
+gl_res=n-2
+p_valor=1-pf(F_obs, 1, gl_res); p_valor
+```
 
 ## Provavelmetne inútil: Var
 $$

@@ -54,10 +54,21 @@ f=SQ_res/gl_res = 68.4
 n= gl_total + 1 = 22
 
 ### 2.3. Existe evidência que $\beta \ne 0$? Calcule p-valor (alpha=0.1)
-
+p-valor do F_obs é ~0.226, que é acima do alpha. Portanto, não existe evidência que beta != 0
 
 ### 2.4. Calcule R²
-### 2.4. Sabendo que $\sum_i(x_i-\bar{x})^2=5.67$, calcule o calor absoluto de MQ $\hat\beta$ 
+R= SQ_reg/SQ_tot=0.072378
+
+### 2.5. Sabendo que $\sum_i(x_i-\bar{x})^2=5.67$, calcule o calor absoluto de MQ $\hat\beta$ 
+$$
+\begin{equation}
+\begin{split}
+F_{obs}=t_{obs}^2=\beta^2\frac{\sum(x_i-\bar{x})^2}{\hat\sigma^2}\\
+\text{substituindo $F_{obs}$, $\sum(x_i-\bar{x})^2$ e $\$}
+\end{split}
+\end{equation}
+$$
+
 
 ## 3.
 ![[Pasted image 20230606112555.png]]
