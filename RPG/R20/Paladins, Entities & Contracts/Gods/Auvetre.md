@@ -78,3 +78,7 @@ ele se refere aos seus paladinos como "colegas" pq na visão dele, eles não sã
 ele obviamente tem uma preferencia por pessoas boas até pelos ideais de ajudar o fraco e lutar contra o forte e insurreição contra a autoridade, mas ele ajuda também pessoas evil, desde q elas n desobedeçam isso. Afinal de contas mesmo com "ajudar o fraco e lutar contra o forte", ele ainda defende que a vida é sua e vc deve viver ela primeiramente para si
 
 mas n to conseguindo pensar num exemplo de uma pessoa evil q se encaixe nesse molde
+
+nas raras ocasiões em que as pessoas percebem q ele n tá de fato ajudando, vencem sua atribulação, e depois disso rejeitam a bênção de Auvetre com a mentalidade "eu não preciso de você, eu irei abrir meu caminho sozinho", esse é o tipo favorito do Auvetre
+
+pras outras pessoas q ele abençoa ele "ajuda elas a trilhar seu caminho", mas pra essas pessoas Auvetre faz algo especial, ele "dá a elas o poder de trilhar seu caminho sozinho"
