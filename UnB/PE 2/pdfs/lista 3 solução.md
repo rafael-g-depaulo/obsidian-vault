@@ -134,9 +134,37 @@ y_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*y_c_error
 ### 3.7. Intervalo de previsão IRA de um aluno com nota 70
 ### Pulando 3.8-3.9 arbitrariamente
 
-## 4.
+## 4-5 pulando arbitrariamente
 
+## 6.
+![[Pasted image 20230609180857.png]]
+```R
+renda = c(3,5,10,20,30,50,70,100,150,200)
+gasto = c(1.5,2,6,10,15,20,25,40,60,80)
+n = 10
+
+x = renda
+y = gasto
+
+sumx = sum(x)
+sumy = sum(y)
+sumxy = sum(y*x)
+sumx2 = sum(x^2)
+sumy2 = sum(y^2)
+
+```
 ### Calcule  $\alpha$ e $\beta$ e $\hat\sigma^2$.
+```R
+beta_hat=(n*sumxy - sumx*sumy)/(n*sumx2 - sumx**2); beta_hat
+alpha_hat=sumy/n - beta_hat*sumx/n; alpha_hat
+sigma2_hat=1/(n-2)*(sumy2 - sumy*sumy/n - beta_hat*(sumxy - sumx*sumy/n)); sigma2hat
+sigma_hat = sqrt(sigma2_hat)
+```
+![[Pasted image 20230609181434.png]]
+
 ### Existe evidência que $\beta \ne 0$? (NS 10%)
-### Existe evidência que $\beta \ne 0$? (NS 10%)
-### IC 90% para famílias com renda de 20
+
+### IC 90% de gasto para famílias com renda de 20
+### Previsão do gasto com alimentação para uma família com renda de 1000
+
+## 7.

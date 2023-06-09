@@ -34,7 +34,9 @@ IC_beta=c(-1, 1)*beta_radius + beta_hat; IC_beta
 ### R Tobs
 ```R
 beta_0=0
-t_obs=(beta_hat - beta_0)/sqrt(sigma2hat)*sqrt(n*sumx2 - sumx^2); t_obs
+t_obs=(beta_hat - beta_0)/sigma_hat*sqrt(sum((x - mean(x))**2)); t_obs
+# # or this works too
+# t_obs=(beta_hat - beta_0)/sqrt(sigma2hat)*sqrt(sumx2 - sumx^2/n); t_obs
 p_value=2*(1-pt(t_obs, n-2)); p_value
 ```
 
