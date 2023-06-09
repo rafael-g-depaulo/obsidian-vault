@@ -163,8 +163,28 @@ sigma_hat = sqrt(sigma2_hat)
 ![[Pasted image 20230609181434.png]]
 
 ### Existe evidência que $\beta \ne 0$? (NS 10%)
+![[Pasted image 20230609182334.png]]
+
+p value is fucking miniscule (way smaller than $\alpha=0.10$), so we reject H_0, and say that there is evidence
 
 ### IC 90% de gasto para famílias com renda de 20
+
+```R
+alpha=0.10
+x_c = 20 # value of x for which we want to get a IC(y)
+mu_c = alpha_hat + beta_hat*x_c # estimate point
+mu_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*sigma_hat*sqrt((x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n); mu_c_IC
+```
+![[Pasted image 20230609182517.png]]
+
 ### Previsão do gasto com alimentação para uma família com renda de 1000
 
-## 7.
+```R
+alpha=0.10
+x_c = 1000
+mu_c = alpha_hat + beta_hat*x_c # estimate point
+y_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*sigma_hat*sqrt(1 + (x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n); y_c_IC
+```
+![[Pasted image 20230609182731.png]]
+
+1000 vai muito além do que faz sentido considerando o dataset.

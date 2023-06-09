@@ -125,6 +125,7 @@ alpha=0.05
 x_c = 11111111 # value of x for which we want to get a IC(y)
 mu_c = alpha_hat + beta_hat*x_c # estimate point
 mu_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*sigma_hat*sqrt((x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n)
+y_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*sigma_hat*sqrt(1 + (x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n)
 ```
 
 ## Provavelmetne inútil: Var
