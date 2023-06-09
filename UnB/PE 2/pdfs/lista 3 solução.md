@@ -82,8 +82,8 @@ ira <- c(63.5,53.7,55.3,79.7,73.4,72.6,84.0,55.0,67.7,60.4,58.3,38.9,71.3,70.0,7
 
 # AAAAAAAAAAAA
 n <- length(vest)
-conf <- 0.95
-tail <- (1+conf)/2
+conf <- 0.95       # 1 - alpha
+tail <- (1+conf)/2 # ponto que marca a sessão da distribuição que fica pra fora do IC desejado
 
 # Gráfico de dispersão
 par(mfrow=c(1,1))
@@ -100,6 +100,12 @@ sigma2_hat <- sum( (ira - (alpha_hat + beta_hat*vest))**2 / (n-2) )
 # IC (s here means radius without the t component. we will multiply that later)
 alpha_s <- sqrt(sigma2_hat * sum(vest^2) / (n*sum((vest-mean(vest))**2)) )
 beta_s <- sqrt(sigma2_hat / sum( (vest - mean(vest))**2 ))
+
+alpha_IC <- alpha_hat + qt(c(1-tail, tail), n-2) * alpha_s
+beta_IC <- beta_hat + qt(c(1-tail, tail), n-2) * beta_s
+
+# p-valor
+p_value <- 2*(1-pt(2.187))
 ```
 
 
