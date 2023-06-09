@@ -113,16 +113,17 @@ p_valor=1-pf(F_obs, 1, gl_res); p_valor
 
 ## Previsão de média
 
-### Para a população
-$$\begin{equation}\begin{split}IC(\mu_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}\end{split}\end{equation}$$
-### Para um indivíduo
-$$
-\begin{equation}
-\begin{split}
-IC(y_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{1+\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}
-\end{split}
-\end{equation}
-$$
+| Nome              | Equação                                                                                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Para a população  | $$\begin{equation}\begin{split}IC(\mu_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}\end{split}\end{equation}$$ |
+| Para um indivíduo | $$\begin{equation}\begin{split}IC(y_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{1+\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}\end{split}\end{equation}$$ |
+No R:
+```R
+alpha=0.05
+x_c = 11111111 # value of x for which we want to get a IC(y)
+mu_c = alpha_hat + beta_hat*x_c # estimate point
+mu_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*sigma_hat*sqrt((x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n)
+```
 
 ## Provavelmetne inútil: Var
 $$

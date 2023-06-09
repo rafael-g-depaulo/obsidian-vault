@@ -100,12 +100,12 @@ beta_hat <- ajuste$coefficients[2]
 sigma2_hat <- sum( (y - (alpha_hat + beta_hat*x))**2 / (n-2) )
 sigma_hat <- sqrt(sigma2_hat)
 
-# IC (s here means radius without the t component. we will multiply that later)
-alpha_s <- sqrt(sigma2_hat * sum(x^2) / (n*sum((x-mean(x))**2)) )
-beta_s <- sqrt(sigma2_hat / sum( (x - mean(x))**2 ))
+# IC (error here means the error radius without the t component. we will multiply that later)
+alpha_error <- sqrt(sigma2_hat * sum(x^2) / (n*sum((x-mean(x))**2)) )
+beta_error <- sqrt(sigma2_hat / sum( (x - mean(x))**2 ))
 
-alpha_IC <- alpha_hat + qt(c(1-tail, tail), n-2) * alpha_s
-beta_IC <- beta_hat + qt(c(1-tail, tail), n-2) * beta_s
+alpha_IC <- alpha_hat + qt(c(1-tail, tail), n-2) * alpha_error
+beta_IC <- beta_hat + qt(c(1-tail, tail), n-2) * beta_error
 
 # F_obs e p-valor
 beta_0 = 0
@@ -113,8 +113,15 @@ F_obs <- (beta_hat-beta_0)/sigma_hat*sqrt(sum((vest - mean(vest))**2))
 p_value <- 2*(1-pt(F_obs, n-2))
 
 # Ira médio dos alunos com vest 70
+alpha = 0.05
+x_c = 70
+mu_c = alpha_hat + beta_hat*x_c # estimate point
+mu_c_error = sigma_hat*sqrt((x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n)
+mu_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*mu_c_error
 
 # Previsão de ira de um único aluno com vest 70
+y_c_error = sigma_hat*sqrt(1 + (x_c - mean(x))**2/sum((x-mean(x))**2) + 1/n)
+y_c_IC = mu_c + c(-1,1)*qt(1-alpha/2, n-2)*y_c_error
 
 ```
 
@@ -127,3 +134,9 @@ p_value <- 2*(1-pt(F_obs, n-2))
 ### 3.7. Intervalo de previsão IRA de um aluno com nota 70
 ### Pulando 3.8-3.9 arbitrariamente
 
+## 4.
+
+### Calcule  $\alpha$ e $\beta$ e $\hat\sigma^2$.
+### Existe evidência que $\beta \ne 0$? (NS 10%)
+### Existe evidência que $\beta \ne 0$? (NS 10%)
+### IC 90% para famílias com renda de 20
