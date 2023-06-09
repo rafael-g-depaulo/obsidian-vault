@@ -83,31 +83,34 @@ y = ira
 x = vest
 
 # AAAAAAAAAAAA
-n <- length(vest)
+n <- length(x)
 conf <- 0.95       # 1 - alpha
 tail <- (1+conf)/2 # ponto que marca a sessão da distribuição que fica pra fora do IC desejado
 
 # Gráfico de dispersão
 par(mfrow=c(1,1))
-plot(vest, ira)
-ajuste <- lm(ira ~ 1+vest)
+plot(x, y)
+ajuste <- lm(y ~ 1+x)
 abline(ajuste) # inclue a reta de minimos quadrados no gráfico
 summary(ajuste)
 
 # Estimadires MQ
 alpha_hat <- ajuste$coefficients[1]
 beta_hat <- ajuste$coefficients[2]
-sigma2_hat <- sum( (ira - (alpha_hat + beta_hat*vest))**2 / (n-2) )
+sigma2_hat <- sum( (y - (alpha_hat + beta_hat*x))**2 / (n-2) )
+sigma_hat <- sqrt(sigma2_hat)
 
 # IC (s here means radius without the t component. we will multiply that later)
-alpha_s <- sqrt(sigma2_hat * sum(vest^2) / (n*sum((vest-mean(vest))**2)) )
-beta_s <- sqrt(sigma2_hat / sum( (vest - mean(vest))**2 ))
+alpha_s <- sqrt(sigma2_hat * sum(x^2) / (n*sum((x-mean(x))**2)) )
+beta_s <- sqrt(sigma2_hat / sum( (x - mean(x))**2 ))
 
 alpha_IC <- alpha_hat + qt(c(1-tail, tail), n-2) * alpha_s
 beta_IC <- beta_hat + qt(c(1-tail, tail), n-2) * beta_s
 
-# p-valor
-p_value <- 2*(1-pt(2.187))
+# F_obs e p-valor
+beta_0 = 0
+F_obs <- (beta_hat-beta_0)/sigma_hat*sqrt(sum((vest - mean(vest))**2))
+p_value <- 2*(1-pt(F_obs, n-2))
 ```
 
 
