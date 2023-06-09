@@ -111,6 +111,11 @@ beta_IC <- beta_hat + qt(c(1-tail, tail), n-2) * beta_s
 beta_0 = 0
 F_obs <- (beta_hat-beta_0)/sigma_hat*sqrt(sum((vest - mean(vest))**2))
 p_value <- 2*(1-pt(F_obs, n-2))
+
+# Ira médio dos alunos com vest 70
+
+# Previsão de ira de um único aluno com vest 70
+
 ```
 
 

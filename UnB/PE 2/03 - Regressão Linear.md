@@ -111,6 +111,19 @@ gl_res=n-2
 p_valor=1-pf(F_obs, 1, gl_res); p_valor
 ```
 
+## Previsão de média
+
+### Para a população
+$$\begin{equation}\begin{split}IC(\mu_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}\end{split}\end{equation}$$
+### Para um indivíduo
+$$
+\begin{equation}
+\begin{split}
+IC(y_c)= \hat\mu_c \pm t_{\alpha/2,\ n-2}*\hat\sigma\sqrt{1+\frac{(x_c - \bar{x})^2}{\sum(x_i-\bar{x})^2} + \frac1n}
+\end{split}
+\end{equation}
+$$
+
 ## Provavelmetne inútil: Var
 $$
 \begin{equation}
