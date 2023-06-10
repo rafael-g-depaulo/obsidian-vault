@@ -1,0 +1,2 @@
+- [Spire RPG](https://rowanrookanddecard.com/spire-rpg/): punk religion-themed dark insurrection RPG with magic
+- [Goblin Quest](https://rowanrookanddecard.com/product/goblin-quest/): slapstick violence, fatal ineptitude, and the greatest adventure of your life.
