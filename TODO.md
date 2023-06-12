@@ -38,11 +38,11 @@ kanban-plugin: basic
 
 ## doing
 
-- [ ] lista PE 2até 3 completo
 
 
 ## done
 
+- [ ] lista PE 2até 3 completo
 
 
 ***
