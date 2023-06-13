@@ -22,6 +22,7 @@ Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to att
 If your character has the ability to do so, they can perform an attack of opportunity.
 
 **Attack of Opportunity**: Reaction (An enemy leaves your melee range, 0MP): You can make an attack against the enemy immediately as they leave your melee range.
+**Ataque de Oportunidade**: (Um inimigo sai do seu alcance corpo-a-corpo) Reação: Você realiza um ataque corpo-a-corpo contra esse inimigo.
 
 ### Movement
 During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]]). 
