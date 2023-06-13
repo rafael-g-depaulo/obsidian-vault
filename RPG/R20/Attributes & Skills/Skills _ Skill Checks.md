@@ -5,6 +5,41 @@ blablabla do this intro paragraph later.
 
 Description of skills below:
 
+%%
+## Considerando
+Jogar Arcana para INT e adicionar misticismo (separar "vibe" de conhecimento)
+%%
+
+## Skills by Attributes
+### Str
+#### Atletismo / Athletics
+### Dex
+#### Acrobacia / Acrobatics
+#### Iniciativa / Initiative
+#### Furtividade / Stealth
+#### Ladinagem / Sleight of Hand
+### Con
+#### Sobrevivência / Survival
+### Int
+#### Investigação / Investigation
+#### Lógica / Logic
+#### História / History
+#### Medicina / Medicine
+### Sen
+#### Percepção / Perception
+#### Empatia / Empathy
+#### Intuição / Insight
+#### Arcana / Arcana
+#### Natureza / Nature
+### Pre
+#### Adestramento / Animal Handling
+#### Cozinhar / Cooking
+#### Enganação / Deception
+#### Intimidação / Intimidation
+#### Persuasão / Persuasion
+#### Performance / Performance
+
+## Skills by group
 ### Physical Stuff
 #### Athletics (STR)
 #### Acrobatics (DEX)
@@ -16,7 +51,7 @@ See sudden movements. look for something in the distance. react to something
 #### Empathy (SEN)
 Understand someone's motivations or feelings about a subject
 #### Insight (SEN)
-Spider Sense. feel energy. percieve magic. identify magical items.
+Spider Sense. feel energy. perceive magic. identify magical items.
 
 ### Convincing Others
 #### Deception (PRE)

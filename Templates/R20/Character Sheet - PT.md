@@ -48,16 +48,16 @@ ___
 - Lógica: X = +X
 - História: X = +X
 - Medicina: X = +X
-- Botânica: X = +X
 
 #### Sensibilidade (+X):
 - Percepção: X = +X
 - Empatia: X = +X
 - Intuição: X = +X
 - Arcana: X = +X
-- Adestramento: X = +X
+- Natureza: X = +X
 
 #### Presença (+X):
+- Adestramento: X = +X
 - Cozinhar: X = +X
 - Enganação: X = +X
 - Intimidação: X = +X
