@@ -1,9 +1,11 @@
 ## Combat Actions
 
 ### Endurance
-**Endurance (Resistência):** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
+**Endurance (Ignorar Arranhões):** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
 
 OBS: the DM may rule that any specific instance of damage may or may not ignore Endurance depending on the situation, at their discretion.
+
+**Ignorar Arranhões:** Movimento (2PM): Pelo resto da cena, todo dano que você tomar igual ou inferior a sua **Guarda** é ignorado. **Ignorar Arranhões** não é aplicado em dano psíquico, "DoT" ou dano ambiental (estar em chamas, andar em ácido, sangramento, etc.)
 
 ### Uncanny Dodge
 Below is the definition of the Uncanny Dodge ability, that all characters can perform:
