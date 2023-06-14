@@ -54,7 +54,7 @@ $$
 \\
 \tilde{p}_{ij}=\tilde{p}_{i\cdot}\tilde{p}_{\cdot j}=\frac{n_{i\cdot}n_{\cdot j}}{n_{\cdot\cdot}^2} \text{($I + J - 2$ parametros livres)}\\
 \\
-\chi^2_{obs}=\sum_{i,j}n\frac{(\hat{p}_{ij} - \tilde{p}_{ij})^2}{\tilde{p}_{ij}}
+\chi^2_{obs}=\sum_{i,j}n\frac{(\hat{p}_{ij} - \tilde{p}_{ij})^2}{\tilde{p}_{ij}}=\sum_{i, j}\frac{(n_{ij}^{obs}-n_{ij}^{esp})^2}{n_{ij}^{esp}}
 \end{split}
 \end{equation}
 $$

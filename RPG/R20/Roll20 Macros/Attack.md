@@ -19,3 +19,11 @@ testar `[[ [[1+1]]d6 ]]`
 ```
 /w gm dano (crit + normal): [[ (( [[floor([[1d20cs>[[20-@{PC Template|wpn_margin}]] ]]/(20-@{PC Template|wpn_margin}))]]*(@{PC Template|wpn_mult}-1) + 1) * @{PC Template|wpn_dice})@{PC Template|wpn_dmg} ]]. acerto: $[[1]].
 ```
+
+```
+/w gm dano (crit + normal): [[ (( [[ceil(floor([[1d20cs>[[20-@{PC Template|wpn_margin}]] ]]/(20-@{PC Template|wpn_margin}))/100)]]*(@{PC Template|wpn_mult}-1) + 1) * @{PC Template|wpn_dice})@{PC Template|wpn_dmg} ]]. acerto: $[[1]]. is crit: $[[2]]
+```
+
+```
+/w gm dano (crit + normal): [[ (( [[ceil(floor([[1d20cs>[[20-@{PC Template|wpn_margin} + @{PC Template|STR} + @{PC Template|proficiency}]] + @{PC Template|STR} + @{PC Template|proficiency}]]/(20-@{PC Template|wpn_margin} + @{PC Template|STR} + @{PC Template|proficiency}))/100)]]*(@{PC Template|wpn_mult}-1) + 1) * @{PC Template|wpn_dice})@{PC Template|wpn_dmg} ]]. acerto: $[[1]]. is crit: $[[2]]
+```
