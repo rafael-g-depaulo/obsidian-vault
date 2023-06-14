@@ -1,3 +1,3 @@
 ```Roll20
-&{template:default} {{name=Test Attack}} {{acerto=[[ 1d20+@{PC Template|STR}+@{PC Template|proficiency}]]}} {{dano=[[1d6]]}}
+&{template:default} {{name=Test Attack}} {{acerto=[[ 1d20+@{selected_token|STR}+@{selected_token|proficiency}]]}} {{dano=[[ @{selected_token|weapon_dmg} + @{selected_token|STR} ]]}}
 ```
