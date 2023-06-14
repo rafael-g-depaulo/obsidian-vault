@@ -95,9 +95,9 @@ abline(ajuste) # inclue a reta de minimos quadrados no gráfico
 summary(ajuste)
 
 # Estimadires MQ
-alpha_hat <- ajuste$coefficients[1]
-beta_hat <- ajuste$coefficients[2]
-sigma2_hat <- sum( (y - (alpha_hat + beta_hat*x))**2 / (n-2) )
+alpha_hat <- ajuste$coefficients[1]; alpha_hat
+beta_hat <- ajuste$coefficients[2]; beta_hat
+sigma2_hat <- sum( (y - (alpha_hat + beta_hat*x))**2 / (n-2) ); sigma2_hat
 sigma_hat <- sqrt(sigma2_hat)
 
 # IC (error here means the error radius without the t component. we will multiply that later)
