@@ -44,3 +44,5 @@ $$
 \end{equation}
 $$
 
+
+## Teste de homogeniedade/independência

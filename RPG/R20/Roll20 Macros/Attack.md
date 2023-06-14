@@ -11,3 +11,7 @@ crit dmg: [[ [[floor([[1d20cs>10]]/10) * (3-1)]]d6 ]]. Dano normal: [[  1d6 ]]. 
 ```
 
 testar `[[ [[1+1]]d6 ]]`
+
+```
+/w gm crit dmg: [[ ([[floor([[1d20cs>10]]/10)]] * (3-1)*2)d6 ]]. Dano normal: [[  1d6 ]]. acerto: $[[0]]. deu crit? $[[1]]. dano total: ($[[2]]+$[[3]])
+```
