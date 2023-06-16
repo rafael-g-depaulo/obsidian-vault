@@ -134,6 +134,38 @@ blablabla do this intro paragraph later.
 
 Description of skills below:
 
+
+
+## Skills by Attributes
+### Str
+#### Atletismo / Athletics
+### Dex
+#### Acrobacia / Acrobatics
+#### Iniciativa / Initiative
+#### Furtividade / Stealth
+#### Ladinagem / Sleight of Hand
+### Con
+#### Sobrevivência / Survival
+### Int
+#### Investigação / Investigation
+#### Lógica / Logic
+#### História / History
+#### Medicina / Medicine
+### Sen
+#### Percepção / Perception
+#### Empatia / Empathy
+#### Intuição / Insight
+#### Arcana / Arcana
+#### Natureza / Nature
+### Pre
+#### Adestramento / Animal Handling
+#### Cozinhar / Cooking
+#### Enganação / Deception
+#### Intimidação / Intimidation
+#### Persuasão / Persuasion
+#### Performance / Performance
+
+## Skills by group
 ### Physical Stuff
 #### Athletics (STR)
 #### Acrobatics (DEX)
@@ -145,7 +177,7 @@ See sudden movements. look for something in the distance. react to something
 #### Empathy (SEN)
 Understand someone's motivations or feelings about a subject
 #### Insight (SEN)
-Spider Sense. feel energy. percieve magic. identify magical items.
+Spider Sense. feel energy. perceive magic. identify magical items.
 
 ### Convincing Others
 #### Deception (PRE)
@@ -1355,7 +1387,7 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
-**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
+**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8. **Either nerf damage or add concentration.**
 
 ---
 
@@ -1374,6 +1406,8 @@ Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard
 - **Defensive Spiritual Weapon**. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Spelgard.
 
 - **Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+
+**TODO: PODERES PARA AUMENTAR CRÍTICO DA ARMA ESPIRITUAL**
 
 - **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
 {{pageNumber,auto}}
@@ -1749,9 +1783,11 @@ For each round of combat (equivalent to ~6s of real time), each character takes 
 ## Combat Actions
 
 ### Endurance
-**Endurance (Resistência):** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
+**Endurance (Ignorar Arranhões):** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
 
 OBS: the DM may rule that any specific instance of damage may or may not ignore Endurance depending on the situation, at their discretion.
+
+**Ignorar Arranhões:** Movimento (2PM): Pelo resto da cena, todo dano que você tomar igual ou inferior a sua **Guarda** é ignorado. **Ignorar Arranhões** não é aplicado em dano psíquico, "DoT" ou dano ambiental (estar em chamas, andar em ácido, sangramento, etc.)
 
 ### Uncanny Dodge
 Below is the definition of the Uncanny Dodge ability, that all characters can perform:
@@ -1765,6 +1801,7 @@ Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to att
 If your character has the ability to do so, they can perform an attack of opportunity.
 
 **Attack of Opportunity**: Reaction (An enemy leaves your melee range, 0MP): You can make an attack against the enemy immediately as they leave your melee range.
+**Ataque de Oportunidade**: (Um inimigo sai do seu alcance corpo-a-corpo) Reação: Você realiza um ataque corpo-a-corpo contra esse inimigo.
 
 ### Movement
 During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]]). 
@@ -4741,7 +4778,7 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-
+- **+1PM:** Aumenta o dano inicial em +1d6.
 
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
