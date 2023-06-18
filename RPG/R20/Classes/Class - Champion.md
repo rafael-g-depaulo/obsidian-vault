@@ -17,13 +17,13 @@ MULTI_FEATURES:
 
 | Level | Smite   | Lay on Hands |
 | ----- | ------- | ------------ |
-| 1st   | 1d6+PRE | 1d8+1        |
+| 1st   | 1d6+PRE | -            | 
 | 2nd   | 1d6+PRE | 1d8+1        |
 | 3rd   | 1d6+PRE | 1d8+1        |
 | 4th   | 1d6+PRE | 1d8+1        |
 | 5th   | 2d6+PRE | 1d8+1        |
 | 6th   | 2d6+PRE | 1d8+1        |
-| 7th   | 2d6+PRE | 2d8+2        | 
+| 7th   | 2d6+PRE | 2d8+2        |
 | 8th   | 2d6+PRE | 2d8+2        |
 | 9th   | 3d6+PRE | 2d8+2        |
 | 10th  | 3d6+PRE | 3d8+3        |
