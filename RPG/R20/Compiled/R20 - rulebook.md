@@ -1558,9 +1558,11 @@ List of spells available for a Spelgard to learn.
 
 **Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1 **Wild Dice** + your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice Ammount, to increase that by 2 **Wild Dice**. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
 
-While on best form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
+While on beast form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
 
 While on your beast form, you switch your physical and mental attributes. Strength <-> Inteligence, Dexterity <-> Sensibility, Constitution <-> Presence.
+
+While on beast form, you add your proficiency modifier to guard and dodge.
 
 If you lose your temporary hit points, you revert back to your human form. You can also voluntarily turn back as a Movement Action.
 
