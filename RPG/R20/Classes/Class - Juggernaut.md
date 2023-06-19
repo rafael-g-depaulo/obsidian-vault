@@ -67,7 +67,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 {{page-break}}
 
-- **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[Battle Maneuvers#Derrubar]])
+- **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]])
 
 - **Golpe em Arco**. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
