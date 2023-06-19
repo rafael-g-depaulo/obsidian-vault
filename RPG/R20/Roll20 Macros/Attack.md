@@ -15,4 +15,4 @@
 
 
 
- ?{Golpe Poderoso?|Não,|1PM (+1d10+@{STR}),{{Golpe Poderoso=[[1d10+@{STR}[STR]]]}}} 
+ 
