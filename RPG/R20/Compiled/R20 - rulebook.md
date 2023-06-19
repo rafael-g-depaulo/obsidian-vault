@@ -735,7 +735,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+PRE | 1d8+1 |
+| 1st | +1 | Smite | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Lay on Hands | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
 | 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
