@@ -9,10 +9,3 @@
 ```
 [[ (( [[ceil(floor([[1d20cs>[[20-@{selected|wpn_margin}]] + @{selected|STR}[STR] + @{selected|proficiency}[prof]]]/(20-@{selected|wpn_margin} + @{selected|STR} + @{selected|proficiency}))/100)]]*(@{selected|wpn_mult}-1) + 1) * @{selected|wpn_dice})@{selected|wpn_dmg} + @{selected|STR}[STR] ]]
 ```
-
-
-
-
-
-
- 
