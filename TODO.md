@@ -6,12 +6,14 @@ kanban-plugin: basic
 
 ## backlog
 
-- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
 - [ ] go through old vimconfig and add stuff to lazyvim config
+- [ ] mitologia trocar cloudflare e desligar heroku
+- [ ] mitologia testar gcloud gerenciado em vez de manual
 - [ ] add [share-cli](https://github.com/marionebl/share-cli) to setup
 - [ ] add [emma](https://github.com/maticzav/emma-cli) to setup
 - [ ] add [gitgut](https://github.com/GitGud-org/GitGud) to setup
 - [ ] add [this article](https://alpha2phi.medium.com/neovim-for-beginners-lua-autocmd-and-keymap-functions-3bdfe0bebe42) to nvim docs
+- [ ] checar aws
 - [ ] nvim add keybing to swith tabs
 - [ ] add type peeking ts symbols to nvim
 - [ ] Add onefetch to setup
@@ -26,14 +28,9 @@ kanban-plugin: basic
 ## todo
 
 - [ ] net adicionar ponto
-- [ ] mitologia trocar cloudflare e desligar heroku
-- [ ] mitologia testar gcloud gerenciado em vez de manual
-- [ ] checar aws
-- [ ] issues TCC
-- [ ] check-in tcc
-- [ ] review tcc
 - [ ] tamanho e enlarge/reduce R20
 - [ ] calculadora científica app
+- [ ] tmux keybind new session
 
 
 ## doing
@@ -42,7 +39,11 @@ kanban-plugin: basic
 
 ## done
 
+- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
+- [ ] issues TCC
 - [ ] lista PE 2até 3 completo
+- [ ] check-in tcc
+- [ ] review tcc
 
 
 ***
