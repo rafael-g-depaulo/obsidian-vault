@@ -5,6 +5,7 @@ import { Spell } from '../businessLogic/spell'
 import { readFile } from '../file'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
 import { removeComments } from './removeComments'
+import { removeDevComments } from './removeDevComments'
 import {
   removeArchetypeDefinition,
   replaceClassDefinition,
@@ -32,6 +33,7 @@ export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
 export const processContent = (deps: CompileRulesDeps) =>
   asyncPipe(
     removeComments,
+    removeDevComments,
     makeLinksGlobal(deps.currentFolder),
     replaceLinks(deps),
     replaceClasses(deps),
