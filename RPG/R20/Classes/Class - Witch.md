@@ -85,7 +85,7 @@ By default, a Hex takes a movement action to cast, has a range of 9sqr, costs 0P
 
 Most Hexes also gain an additional effect for each other effect you're concentrating on.
 
-- **Hex: Frail.** The target has -1 Defense, and -1 for each other effect you're concentrating on.
+- **Hex: Frail.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* 
 
 - **Hex: Drain.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on.
 
