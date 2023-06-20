@@ -125,7 +125,7 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 | Perde próxima ação de movimento        |  3  |
 | Fica cego por 1 rodada\*                 |  4  |
 
-**\*:** 
+**\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 
 }}
 
