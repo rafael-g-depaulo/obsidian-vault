@@ -75,8 +75,6 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Tricky Spell**. (while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisite: 10th level witch
 
-TODO: give all the hexes some cool, gross descriptions and names. like they should make the target weird, slimy, neurotic and shit. really up the flavor of it
-
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
@@ -85,15 +83,15 @@ By default, a Hex takes a movement action to cast, has a range of 9sqr, costs 0P
 
 Most Hexes also gain an additional effect for each other effect you're concentrating on.
 
-- **Hex: Frail.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* Você 
+- **Hex: Ossos de gesso.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* As extremidades do alvo começam a tremer, ele fica pálido e perde o foco.
 
-- **Hex: Drain.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on.
+- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
 
-- **Hex: Weakened.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on.
+- **Hex: Anemia Arcana.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on. O alvo fica com profundas e escuras olheiras, seus músculos desinflam e suas juntas rangem com cada movimento tortuoso.
 
-- **Hex: Slowed.** The target has their movement speed halved.  
+- **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
-- **Hex: Fragile.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on.
+- **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
 
 ## Witch's Brews
 
