@@ -75,6 +75,24 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Tricky Spell**. (while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisite: 10th level witch
 
+%%
+Witche
+Positivo:
+1d6 cura
+1d4 pm temporário
++Velocidade de movimento
++CA
++Vantagem na próxima rolagem
++PRE na próxima resist
+
+Negativo:
+1d4 dano
+Desvantagem na próx iniciativa
+Não dá dano adicional no próx crtico
++++++
+***
+%%
+
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
