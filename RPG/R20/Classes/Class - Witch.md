@@ -75,23 +75,36 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Tricky Spell**. (while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisite: 10th level witch
 
-%%
-Witche
+{{dev-comment
+Witche's brews.
+
+diferenças entre isso e coisas do alquimista:
+- availability
+	- alquimista pode criar na hora
+	- bruxa pode comprar um número por dia
+- aplicação
+	- alquimista pode aplicar nos outros
+	- bruxa tem que dar e a pessoa tomar
+- efeitos
+	- bruxa só são imediatos ou duram 1 turno
+	- alquimista tem coisas com duração cena
+- acesso
+	- bruxa tem que comprar poderes pra poder começar a distribuir
+	- alquimista tem default
+
 Positivo:
 1d6 cura
 1d4 pm temporário
-+Velocidade de movimento
-+CA
-+Vantagem na próxima rolagem
-+PRE na próxima resist
++PRE de Velocidade de movimento e CA por 1 rodada
++PRE em rolagens de resistência e ataque por 1 rodada
 
 Negativo:
 1d4 dano
-Desvantagem na próx iniciativa
-Não dá dano adicional no próx crtico
-+++++
-***
-%%
+desvantagem em rolagens por 1 rodada
+perde próxima ação de movimento
+fica cego por 1 rodada (receber dano remove isso, ou pode remover como ação padrão)
+
+}}
 
 ### Hex List:
 
