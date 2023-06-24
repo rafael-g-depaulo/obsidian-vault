@@ -2,7 +2,7 @@
 
 ## Character Attack Skill
 ```
-&{template:default} {{name=Ataque (@{chatacter_name})}} #attack-STR {{acerto= $[[1]] }} {{dano=$[[3]] }}
+&{template:default} {{name=Ataque (@{character_name})}} #attack-STR {{acerto= $[[1]] }} {{dano=$[[3]] }}
 ```
 
 ### Attack-STR
