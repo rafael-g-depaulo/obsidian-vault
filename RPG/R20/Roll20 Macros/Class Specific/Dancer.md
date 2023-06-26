@@ -9,11 +9,7 @@ skill ganhar passos
 ```
 
 non-active skill 
+Add this as a ability, and call it at the end of the attack ability
 ```
-?{Passos de Vento?
-  |não,
-  |1 (+1d4 dano),  &rbrace;&rbrace; Passos de Vento (1)=[[1d4]] &rbrace;&rbrace;
-  |1 (+1d4 dano),  &rbrace;&rbrace; Passos de Vento (2)=[[2d4]] &rbrace;&rbrace;
-}
-
+?{Passos de Vento?|não,|1 (+1d4 dano),  &rbrace;&rbrace; Passos de Vento (1)=[[1d4]] &rbrace;&rbrace;|2 (+2d4 dano),  &lbrace;&lbrace; Passos de Vento (2)=[[2d4]] &rbrace;&rbrace;
 ```
