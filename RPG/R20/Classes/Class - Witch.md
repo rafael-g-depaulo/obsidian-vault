@@ -107,7 +107,7 @@ fica cego por 1 rodada (receber dano remove isso, ou pode remover como ação pa
 }}
 
 {{class-note "Poções Misteriosas"
-Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo.
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
 
 ##### Efeitos Exotéricos
 
@@ -115,8 +115,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 |:------------------------------------- |:---:|
 | Recebe 1d6 cura                       |  1  |
 | Recebe 1d4 MP temporário              |  2  |
-| +PRE velocidade de movimento e defesa |  3  |
-| +PRE rolagens de resistência e ataque |  4  |
+| +PRE rolagens de resistência e defesa |  3  |
+| +PRE velocidade de movimento e ataque |  4  |
 
 | Efeito Secundário                      | 1d4 |
 |:-------------------------------------- |:---:|
