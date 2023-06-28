@@ -49,7 +49,7 @@
 - [[Luz]]
 - [[Magic Missile]]
 - [[Teia]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Beast Sense]]
@@ -171,7 +171,7 @@
 ## Decay Spells
 ### Cantrip
 - [[Acid Splash]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Infligir Ferimentos]]
@@ -224,7 +224,7 @@
 - [[Guiding Bolt]]
 - [[Hellish Rebuke]]
 - [[Searing Smite]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 2nd Circle
@@ -284,7 +284,7 @@
 - [[Control Flames]]
 - [[Energy Blast]]
 - [[Fire Bolt]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Ray of Frost]]
 ### 1st Circle
 - [[Burning Hands]]
@@ -402,7 +402,7 @@
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Thunderous Smite]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
@@ -520,7 +520,7 @@
 
 ## Poison Spells
 ### Cantrip
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 ### 1st Circle
 - [[Ray of Sickness]]
 
@@ -639,7 +639,7 @@
 - [[Energy Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Shillelagh]]
@@ -704,7 +704,7 @@
 - [[Despedaçar]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Darkvision]]
@@ -871,7 +871,7 @@
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Thunderous Smite]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]

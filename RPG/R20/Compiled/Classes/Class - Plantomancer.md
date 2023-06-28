@@ -105,7 +105,7 @@ List of spells available for a Plantomancer to learn.
 - [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Resistance]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -138,7 +138,7 @@ List of spells available for a Plantomancer to learn.
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 

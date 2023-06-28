@@ -6,7 +6,7 @@
 - [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Resistance]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -39,7 +39,7 @@
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
-- [[Thunderwave]]
+- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 

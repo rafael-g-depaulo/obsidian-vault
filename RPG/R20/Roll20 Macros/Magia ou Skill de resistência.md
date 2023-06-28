@@ -1,5 +1,5 @@
 
 CD-XXXXXXXXXX:
 ```
-{{CD=[[8 + @{proficiency}[prof] + @{ATTB}[ATTB] ]]}}
+8+@{proficiency}[prof]+@{XXX}[XXX]
 ```

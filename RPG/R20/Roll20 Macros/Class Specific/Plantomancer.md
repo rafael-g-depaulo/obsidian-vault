@@ -1,6 +1,6 @@
 Herbomancy
 ```
-{{Execução=Movimento}} {{Alcance=9 quadrados}} {{HP=[[5+2*@{level}]]}} {{AC=[[14+@{SEN}]]}}
+{{Execução=Movimento}} {{Alcance=9 quadrados}} {{HP=[[5+2*@{level}]]}} {{Defesa=[[14+@{SEN}]]}}
 ```
 
 Plantar Muda

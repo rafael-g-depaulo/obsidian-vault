@@ -121,7 +121,7 @@ List of spells available for a Spelgard to learn.
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
 - [[Guidance]]
-- [[Poison Spray]]
+- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
