@@ -1,9 +1,11 @@
 ## Fórmulas importantes
 
-| Nome                            | Fórmula                                                                                                                           |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Multinomial $\chi^2_{obs}$      | $$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$ |
-| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-r;\alpha}$ ($r$: parametros estimados)                                               |
+| Nome                            | Fórmula                                                                                                                                        |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Multinomial $\chi^2_{obs}$      | $$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$              |
+| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-r;\alpha}$ ($r$: parametros estimados)                                                            |
+| Homogeniedade: sob H_0          | $$\tilde{p}_{ij}=\tilde{p}_{i\cdot}\tilde{p}_{\cdot j}=\frac{n_{i\cdot}n_{\cdot j}}{n_{\cdot\cdot}^2} \text{($I + J - 2$ parametros livres)}$$ | 
+
 
 ## Distribuição Multinomial
 $$
