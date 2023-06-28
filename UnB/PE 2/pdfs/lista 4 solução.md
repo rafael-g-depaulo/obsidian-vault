@@ -68,8 +68,24 @@ como p_valor = 0.0002 < 0.01 = NS, rejeitamos H_0
 
 ## 7. 
 ![[Pasted image 20230628084107.png|850]]
+```R
+J=2
+I=3
+GL=(J-1)*(I-1)
+freq_obs=c(50, 110, 40, 150, 42, 8)
+n=sum(freq_obs)
+p_hat = freq_obs/n
+p_dot1 = (freq_obs[1]+freq_obs[4])/n
+p_dot2 = (freq_obs[2]+freq_obs[5])/n
+p_dot3 = (freq_obs[3]+freq_obs[6])/n
 
+p_1dot = (freq_obs[1]+freq_obs[2]+freq_obs[3])/n
+p_2dot = (freq_obs[4]+freq_obs[5]+freq_obs[6])/n
 
+p_tilde = c(p_dot1*p_1dot,p_dot2*p_1dot,p_dot3*p_1dot,p_dot1*p_2dot,p_dot2*p_2dot,p_dot3*p_2dot)
+
+# p_hat
+```
 ## 8.
 ![[Pasted image 20230628084133.png|800]]
 

@@ -1,11 +1,12 @@
 ## Fórmulas importantes
 
-| Nome                            | Fórmula                                                                                                                                        |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Multinomial $\chi^2_{obs}$      | $$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$              |
-| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-r;\alpha}$ ($r$: parametros estimados)                                                            |
-| Homogeniedade: sob H_0          | $$\tilde{p}_{ij}=\tilde{p}_{i\cdot}\tilde{p}_{\cdot j}=\frac{n_{i\cdot}n_{\cdot j}}{n_{\cdot\cdot}^2} \text{($I + J - 2$ parametros livres)}$$ | 
-
+| Nome                            | Fórmula                                                                                                                           |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Multinomial $\chi^2_{obs}$      | $$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$ |
+| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-r;\alpha}$ ($r$: parametros estimados)                                               |
+| Homogeniedade: sob H_0          | $$\tilde{p}_{ij}=\tilde{p}_{i\cdot}\tilde{p}_{\cdot j}=\frac{n_{i\cdot}n_{\cdot j}}{n_{\cdot\cdot}^2}$$                           |
+| Homogeniedade: caso geral       | $$\hat{p}_{ij}=\frac{n_{ij}}{n_{\cdot\cdot}}$$                                                                                    |
+| Homogeniedade: $\chi^2_{obs}$   | $$\sum_{i,j}n\frac{(\hat{p}_{ij} - \tilde{p}_{ij})^2}{\tilde{p}_{ij}}$$                                                                 |
 
 ## Distribuição Multinomial
 $$
