@@ -17,23 +17,41 @@ p-valor abaixo de NS, então rejeita H_0
 ```R
 falhas <- c(0,1,2,3)
 motores <- c(24,10,12,4)
-n <- sum(motores)
+k <- length(falhas) # 4
+n <- sum(motores) # 50
 theta_hat = (0*24 + 1*10 + 2*12 + 3*4)/50 # 0.92
 theta_hat = sum(falhas*motores)/n #0.92
 
 f_obs = motores
-p_esp = e**(-theta_hat)
-```
-### 2.1. Teste a nível 5% H_0 que o número de falhas segue uma distribuição geométrica
+# para todos tirando o último usar poison.
+p_esp = exp(-theta_hat)*theta_hat**falhas/factorial(falhas)
+# para o último usar 1 - todos os anteriores
+p_esp[4] = 1 - sum(p_esp) + p_esp[4]
 
-### 2.2. Calcule p-valor
+f_esp = p_esp * n
+
+chi2_obs <- sum((f_esp - f_obs)^2/f_esp)
+p_valor <- 1-pchisq(chi2_obs, k-1-1) # r=-1 because we estimated theta
+
+chi2_obs # 6.273
+p_valor # 0.0434
+```
+
+### 2.1. Teste a nível 5% H_0 que o número de falhas segue uma distribuição geométrica
+o p-valor do teste é 0.043 < 0.05, então rejeitamos H_0
 
 ## 3.
 ![[Pasted image 20230628083441.png]]
 proporções populacionais são 0.177, 0.032, 0.734, 0.057
 
 ### 3.1. H_0 as proporções são iguais as do censo? NS 1%
-
+```R
+freq_obs <- c(57, 11, 330, 6)
+p_esp <- c(0.177, 0.032, 0.734, 0.057)
+n <- sum(freq_obs)
+k <- length(feq_obs)
+freq_esp
+```
 ## 4.
 ![[Pasted image 20230628083611.png|675]]
 ![[Pasted image 20230628083632.png|625]]
