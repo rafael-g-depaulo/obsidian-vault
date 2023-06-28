@@ -3,7 +3,7 @@
 | Nome                            | Fórmula                                                                                                                           |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Multinomial $\chi^2_{obs}$      | $$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$ |
-| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-XX;\alpha}$ (XX: parametros estimados)                                               |
+| Teste $H_0$: todos $p_i$ iguais | Rejeita $H_0 \iff \chi^2_{obs} > \chi^2_{k-1-r;\alpha}$ ($r$: parametros estimados)                                               |
 
 ## Distribuição Multinomial
 $$

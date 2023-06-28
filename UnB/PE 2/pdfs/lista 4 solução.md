@@ -14,7 +14,16 @@ p-valor abaixo de NS, então rejeita H_0
 
 ## 2.
 ![[Pasted image 20230628083232.png|600]]
+```R
+falhas <- c(0,1,2,3)
+motores <- c(24,10,12,4)
+n <- sum(motores)
+theta_hat = (0*24 + 1*10 + 2*12 + 3*4)/50 # 0.92
+theta_hat = sum(falhas*motores)/n #0.92
 
+f_obs = motores
+p_esp = e**(-theta_hat)
+```
 ### 2.1. Teste a nível 5% H_0 que o número de falhas segue uma distribuição geométrica
 
 ### 2.2. Calcule p-valor
