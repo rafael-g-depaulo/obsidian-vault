@@ -458,7 +458,7 @@
 - [[Word of Radiance]]
 ### 1st Circle
 - [[Benção]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 ### 2nd Circle
 - [[Prayer of Healing]]
 ### 3rd Circle
@@ -546,7 +546,7 @@
 ### 1st Circle
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease (Ritual)]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 ### 2nd Circle
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -570,7 +570,7 @@
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Guiding Bolt]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 - [[Longstrider]]
 - [[Luz]]
 - [[Mage Armor]]
@@ -606,7 +606,7 @@
 - [[Benção]]
 - [[Command]]
 - [[Dissonant Whispers]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 ### 2nd Circle

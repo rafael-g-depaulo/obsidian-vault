@@ -141,7 +141,7 @@ List of spells available for a Spelgard to learn.
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]

@@ -21,7 +21,7 @@
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]

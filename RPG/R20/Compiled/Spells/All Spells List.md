@@ -67,7 +67,7 @@
 - [[Goodberry]]
 - [[Guiding Bolt]]
 - [[Hail of Thorns]]
-- [[Healing Word]]
+- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]
