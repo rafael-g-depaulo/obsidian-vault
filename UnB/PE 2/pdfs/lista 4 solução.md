@@ -84,7 +84,12 @@ p_2dot = (freq_obs[4]+freq_obs[5]+freq_obs[6])/n
 
 p_tilde = c(p_dot1*p_1dot,p_dot2*p_1dot,p_dot3*p_1dot,p_dot1*p_2dot,p_dot2*p_2dot,p_dot3*p_2dot)
 
-# p_hat
+# p_hat:  0.125 0.275 0.100 0.375 0.105 0.020
+# p_tilde 0.25 0.19 0.06 0.25 0.19 0.06
+
+chi2_obs = n*sum((p_tilde-p_hat)**2/p_tilde)
+p_valor <- 1-pchisq(chi2_obs, GL)
+
 ```
 ## 8.
 ![[Pasted image 20230628084133.png|800]]
