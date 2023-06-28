@@ -50,8 +50,15 @@ freq_obs <- c(57, 11, 330, 6)
 p_esp <- c(0.177, 0.032, 0.734, 0.057)
 n <- sum(freq_obs)
 k <- length(feq_obs)
-freq_esp
+r <- 0 # parametros estimados
+freq_esp <- p_esp * n
+
+chi2_obs <- sum((freq_obs - freq_esp)**2/freq_esp) # 19.5987
+p_valor <- 1-pchisq(chi2_obs, k-1-r) # 0.000205
 ```
+
+como p_valor = 0.0002 < 0.01 = NS, rejeitamos H_0
+
 ## 4.
 ![[Pasted image 20230628083611.png|675]]
 ![[Pasted image 20230628083632.png|625]]
@@ -61,6 +68,7 @@ freq_esp
 
 ## 7. 
 ![[Pasted image 20230628084107.png|850]]
+
 
 ## 8.
 ![[Pasted image 20230628084133.png|800]]
