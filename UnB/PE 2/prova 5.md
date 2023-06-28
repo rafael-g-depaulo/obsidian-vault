@@ -16,10 +16,20 @@ p_valor = 1-pchisq(chi2_obs, 3)
 
 ## 2
 ![[Pasted image 20230628111013.png|1325]]
-
+```R
+x_count = c(0, 1, 2, 3, 4)
+freq_obs = c(20, 65, 80, 31, 4)
+n=200
+k=length(freq_obs)
+x_bar = sum(x_count*freq_obs)/n # 1.67
+p_hat = 1/4*x_bar # 0.4175
+p_esp = x_count
+```
 ## 3
 ![[Pasted image 20230628111149.png]]
-
+chi2_obs = 9.186156
+gl=(i-1)(j-1)=2\*2=4
+p_valor=0.056611
 ```R
 
 ```
