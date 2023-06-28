@@ -1,0 +1,3 @@
+```
+&{template:default} {{name=Cause Fear (@{character_name}, 1º círculo)}} ?{Alvos|1,0|2 (+2PM),2|3 (+4PM),4} {{custo=[[1+?{Alvos}[Alvos]]] PM}} {{Execução=Ação}} {{Alcance=12sqr}} {{Duração=Concentração}} {{Alvos=[[1+(?{Alvos}/2)[Alvos adicionais]]] criatura(s)}} {{Descrição=You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a PRE saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. }}
+```

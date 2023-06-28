@@ -12,7 +12,7 @@
 
 ### 1st Circle
 - [[Bane]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]

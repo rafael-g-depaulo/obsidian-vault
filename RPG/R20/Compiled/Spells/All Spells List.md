@@ -42,7 +42,7 @@
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Chaos Bolt]]
 - [[Charm Person]]
 - [[Command]]

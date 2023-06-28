@@ -1207,7 +1207,7 @@ List of spells available for a Plantomancer to learn.
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Charm Person]]
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
@@ -1729,7 +1729,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
@@ -2753,7 +2753,7 @@ nature -> elemental -> wild -> nature
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Chaos Bolt]]
 - [[Charm Person]]
 - [[Command]]

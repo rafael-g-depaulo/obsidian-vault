@@ -19,7 +19,7 @@
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[Cause Fear]]
+- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
 - [[Charm Person]]
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
