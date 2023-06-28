@@ -2,9 +2,15 @@
 Um dado foi lan¸cado n = 200 vezes obtendo-se 11 vezes a face “1”, 34 a “2”, 40 a
 “3”, 23 a “4”, 38 a “5” e 54 vezes a “6”.
 
-### 1.1. Teste (NS 5%) $H_0: pi=1/6, i\in [1,6]$.
-### 1.2. Calcule o p-valor
-
+### 1.1. Teste (NS 5%) $H_0: pi=1/6, i\in [1,6]$. calcule p-valor
+```R
+n = 200
+f_esp <- c(rep(n/6, 6))
+f_obs <- c(11, 34, 40, 23, 38, 54)
+chi2_obs <- sum((f_esp - f_obs)^2/f_esp) # 32.98
+p_valor <- 1-pchisqr(chi2_obs, 5) # 3.8e-6. 5 pq (k=6)-1
+```
+p-valor abaixo de NS, então rejeita H_0
 
 ## 2.
 ![[Pasted image 20230628083232.png|600]]
