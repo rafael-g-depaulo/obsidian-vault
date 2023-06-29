@@ -29,12 +29,13 @@ kanban-plugin: basic
 
 - [ ] net adicionar ponto
 - [ ] tamanho e enlarge/reduce R20
-- [ ] calculadora científica app
 - [ ] tmux keybind new session
 
 
 ## doing
 
+- [ ] REVISAR PROVA UNIDADE 3 PE2
+- [ ] calculadora científica app
 
 
 ## done

@@ -49,5 +49,13 @@ freq_obs = rbind(
 )
 n = sum(freq_obs)
 p_hat = freq_obs/n
-p_tilde = rowSums(freq_obs) %*% t(colSums(freq_obs))
+p_idot = rowSums(freq_obs) / n
+p_dotj = colSums(freq_obs) / n
+I = length(p_idot)
+J = length(p_dotj)
+p_tilde = p_idot %*% t(p_dotj)
+
+chi2_obs = n*sum( (p_tilde-p_hat)**2/p_tilde )
+GL=(I-1)*(J-1)
+p_valor = 1-pchisq(chi2_obs, GL)
 ```
