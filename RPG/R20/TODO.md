@@ -8,4 +8,5 @@
 - [ ] starting equipment
 - [ ] casting equipment (buff casters)
 - [ ] make crafting recipes necessary
+- [ ] add eclético from bardo t20 ass specialist feat
 
