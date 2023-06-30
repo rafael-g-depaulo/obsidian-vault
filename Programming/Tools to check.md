@@ -63,6 +63,7 @@ Curated lists:
 ## DevOps
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
 - [Neon](https://neon.tech/) — Serverless, Fault-Tolerant, Branchable Postgres
+- ngrok
 
 
 ### Secret Management
