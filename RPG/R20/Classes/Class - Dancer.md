@@ -12,6 +12,7 @@ FEATURES:
 | ----- | ---------------- |
 | 1     | Ritmo de Batalha |
 | 1     | Passos de Vento  |
+| 3     | Dança Ilusória   | 
 
 MULTI_FEATURES:
 
@@ -45,7 +46,7 @@ MULTI_FEATURES:
 
 **Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
 
-**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +3 (+2 se usando armadura) Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
+**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
 **UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
 
