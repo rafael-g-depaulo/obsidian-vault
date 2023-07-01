@@ -55,9 +55,12 @@ MULTI_FEATURES:
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
 Feat Ideas:
-- roll performance to get buffs
-- +Dodge when no armor
-- Ganha steps ao usar esquiva
+
+- *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
+- *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
+- *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
+- *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
+
 - ganha ataque de oportunidade e outras coisas interessantes com reação
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
@@ -66,7 +69,6 @@ Feat Ideas:
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
-- bonus to social rolls
 - steps + other stuff on "de raspão"
 - +PRE to dodge
 - gain extra elemental dmg (duration? or scene?)
