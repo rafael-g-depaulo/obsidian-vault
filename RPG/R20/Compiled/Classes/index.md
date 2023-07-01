@@ -397,11 +397,11 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 | :---: | :---------------: | :------- | :----: |
 | 1st | +1 | Ritmo de Batalha, Passos de Vento | 2 |
 | 2nd | +1 | Dancer Feat, Expertise | 2 |
-| 3rd | +2 | Dancer Feat | 3 |
+| 3rd | +2 | Dancer Feat, Dança Ilusória | 3 |
 | 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
 | 5th | +3 | Dancer Feat | 4 |
 | 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
-| 7th | +4 | Dancer Feat | 5 |
+| 7th | +4 | Dancer Feat, Confie na Estrela | 5 |
 | 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |
 | 9th | +5 | Dancer Feat | 6 |
 | 10th | +5 | Dancer Feat, Attribute Score Improvement | 6 |
@@ -424,17 +424,20 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
 
-**DEFENSIVE BASE FEATURE.** +Dodge when using steps. maybe something more (additional movespeed?). TEMP: +3 (+2 se usando armadura) Dodge até início do próximo turno na primeira vez que vc gastar passos no turno.
+**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
-**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
+**Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
 Feat Ideas:
-- roll performance to get buffs
-- +Dodge when no armor
-- Ganha steps ao usar esquiva
+
+- *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
+- *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
+- *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
+- *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
+
 - ganha ataque de oportunidade e outras coisas interessantes com reação
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
@@ -443,7 +446,6 @@ Feat Ideas:
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
-- bonus to social rollss
 - steps + other stuff on "de raspão"
 - +PRE to dodge
 - gain extra elemental dmg (duration? or scene?)
@@ -473,15 +475,16 @@ Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 *
 maybe add option to upcast?
 
 }}
-- **Dança da Restauração.** Escolha um aliado que consegue ver. ele recupera PRE+1d4 de HP. (maybe remove, just keep temp HP one. Add scaling and stuff?)
+- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
 - **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha move speed (and/or dodge?) pela cena e dá burst de move speed pra aliado(s)
+- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados 
 - **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
 - **Dança do Vento.** Ganhe 4 **Passos do Vento**.
 - **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
+- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada.
+- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
 
 #### outras danças:
-- temp HP (area)
 - temp MP (self)
 - "Dança a Dois". Buffs pra um aliado e tal.
 - dance through enemies and damage them
@@ -771,7 +774,7 @@ List of spells available for a Plantomancer to learn.
 - [[Guidance]]
 - [[Lightning Lure]]
 - [[Magic Stone]]
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 - [[Resistance]]
 - [[Shape Water]]
 - [[Shillelagh]]
@@ -784,7 +787,7 @@ List of spells available for a Plantomancer to learn.
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
 - [[Catapult]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Charm Person]]
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
@@ -804,7 +807,7 @@ List of spells available for a Plantomancer to learn.
 - [[Magic Missile]]
 - [[Ray of Sickness]]
 - [[Sleep]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 - [[Tranquilidade]]
 - [[Área Escorregadia]]
 
@@ -1042,7 +1045,7 @@ List of spells available for a Spelgard to learn.
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
 - [[Guidance]]
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Sword Burst]]
@@ -1062,7 +1065,7 @@ List of spells available for a Spelgard to learn.
 - [[Escudo]]
 - [[Explosão de chamas]]
 - [[Guiding Bolt]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
@@ -1270,6 +1273,30 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 
 
+{{note
+#### Poções Misteriosas
+
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
+
+##### Efeitos Exotéricos
+
+| Efeito Primário                       | 1d4 |
+|:------------------------------------- |:---:|
+| Recebe 1d6 cura                       |  1  |
+| Recebe 1d4 MP temporário              |  2  |
+| +PRE rolagens de resistência e defesa |  3  |
+| +PRE velocidade de movimento e ataque |  4  |
+
+| Efeito Secundário                      | 1d4 |
+|:-------------------------------------- |:---:|
+| Sofre 1d4 dano                         |  1  |
+| Desvantagem em rolagens por uma rodada |  2  |
+| Perde próxima ação de movimento        |  3  |
+| Fica cego por 1 rodada\*               |  4  |
+
+**\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
+}}
+
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
@@ -1280,7 +1307,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Ossos de gesso.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* As extremidades do alvo começam a tremer, ele fica pálido e perde o foco.
 
-- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
+- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
 
 - **Hex: Anemia Arcana.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on. O alvo fica com profundas e escuras olheiras, seus músculos desinflam e suas juntas rangem com cada movimento tortuoso.
 
@@ -1306,7 +1333,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
@@ -1315,7 +1342,7 @@ Spell List:
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]

@@ -12,7 +12,7 @@
 
 ### 1st Circle
 - [[Bane]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
@@ -21,7 +21,7 @@
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]

@@ -40,7 +40,7 @@
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
-**Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 2 **Wild Dice** + your Werebeast level temporary hit points. You can spend +1 PM, to increase that by 1 **Wild Dice** (you can only spend up to your maximum wild dice). (**TODO:** reword this, it's kinda verbose and confusing. the ideia is you start with 2, and can increase that up to your limit). You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
+**Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1 **Wild Dice** + your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice Ammount, to increase that by 2 **Wild Dice**. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
 
 While on beast form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
 
@@ -52,7 +52,7 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 **Monstruous Blood. Action (1PM+, up to your Wild Dice):** 
 - Human form: Choose an ally you can see within 6sqr of you. They recover 1 **Wild Dice** HP per PM spent.
-- Beast form: An enemy you can see must make a DEX saving throw or be hit with a shot of your corrosive blood. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.
+- Beast form: Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.
 
 **Saves.** All werebeast abilities that require the target to make a saving throw use your Human form Presence as the stat for the DC.
 

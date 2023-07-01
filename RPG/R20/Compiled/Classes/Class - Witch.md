@@ -82,6 +82,30 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 
 
+{{note
+#### Poções Misteriosas
+
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
+
+##### Efeitos Exotéricos
+
+| Efeito Primário                       | 1d4 |
+|:------------------------------------- |:---:|
+| Recebe 1d6 cura                       |  1  |
+| Recebe 1d4 MP temporário              |  2  |
+| +PRE rolagens de resistência e defesa |  3  |
+| +PRE velocidade de movimento e ataque |  4  |
+
+| Efeito Secundário                      | 1d4 |
+|:-------------------------------------- |:---:|
+| Sofre 1d4 dano                         |  1  |
+| Desvantagem em rolagens por uma rodada |  2  |
+| Perde próxima ação de movimento        |  3  |
+| Fica cego por 1 rodada\*               |  4  |
+
+**\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
+}}
+
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
@@ -92,7 +116,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Ossos de gesso.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* As extremidades do alvo começam a tremer, ele fica pálido e perde o foco.
 
-- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
+- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
 
 - **Hex: Anemia Arcana.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on. O alvo fica com profundas e escuras olheiras, seus músculos desinflam e suas juntas rangem com cada movimento tortuoso.
 
@@ -118,7 +142,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Curar Ferimentos]]
@@ -127,7 +151,7 @@ Spell List:
 - [[Escuridão]]
 - [[False Life]]
 - [[Fog Cloud]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]

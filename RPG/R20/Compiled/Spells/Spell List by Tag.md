@@ -49,7 +49,7 @@
 - [[Luz]]
 - [[Magic Missile]]
 - [[Teia]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Beast Sense]]
@@ -148,7 +148,7 @@
 - [[Vicious Mockery]]
 ### 1st Circle
 - [[Bane]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Command]]
 - [[Dissonant Whispers]]
 - [[Hellish Rebuke]]
@@ -171,7 +171,7 @@
 ## Decay Spells
 ### Cantrip
 - [[Acid Splash]]
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 - [[Toll the Dead]]
 ### 1st Circle
 - [[Infligir Ferimentos]]
@@ -224,7 +224,7 @@
 - [[Guiding Bolt]]
 - [[Hellish Rebuke]]
 - [[Searing Smite]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 2nd Circle
@@ -242,7 +242,7 @@
 - [[Animal Friendship]]
 - [[Beast Bont]]
 - [[Caminhos da Natureza]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Charm Person]]
 - [[Command]]
 - [[Compelled Duel]]
@@ -284,7 +284,7 @@
 - [[Control Flames]]
 - [[Energy Blast]]
 - [[Fire Bolt]]
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 - [[Ray of Frost]]
 ### 1st Circle
 - [[Burning Hands]]
@@ -402,7 +402,7 @@
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Thunderous Smite]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 - [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
@@ -458,7 +458,7 @@
 - [[Word of Radiance]]
 ### 1st Circle
 - [[Benção]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 ### 2nd Circle
 - [[Prayer of Healing]]
 ### 3rd Circle
@@ -474,7 +474,7 @@
 - [[Vicious Mockery]]
 ### 1st Circle
 - [[Bane]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
 - [[Dissonant Whispers]]
@@ -520,7 +520,7 @@
 
 ## Poison Spells
 ### Cantrip
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 ### 1st Circle
 - [[Ray of Sickness]]
 
@@ -546,7 +546,7 @@
 ### 1st Circle
 - [[Curar Ferimentos]]
 - [[Detect Poison and Disease (Ritual)]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 ### 2nd Circle
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
@@ -570,7 +570,7 @@
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Guiding Bolt]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Longstrider]]
 - [[Luz]]
 - [[Mage Armor]]
@@ -606,7 +606,7 @@
 - [[Benção]]
 - [[Command]]
 - [[Dissonant Whispers]]
-- [[RPG/R20/Spells/Spell Descriptions/Healing Word]]
+- [[Healing Word]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 ### 2nd Circle
@@ -639,7 +639,7 @@
 - [[Energy Blast]]
 - [[Fire Bolt]]
 - [[Green Flame Blade]]
-- [[RPG/R20/Spells/Spell Descriptions/Poison Spray]]
+- [[Poison Spray]]
 - [[Ray of Frost]]
 - [[Resistance]]
 - [[Shillelagh]]
@@ -704,7 +704,7 @@
 - [[Despedaçar]]
 - [[Earth Tremor]]
 - [[Feather Fall]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 ### 2nd Circle
 - [[Blindness Deafness]]
 - [[Darkvision]]
@@ -729,7 +729,7 @@
 - [[Animal Friendship]]
 - [[Beast Bont]]
 - [[Caminhos da Natureza]]
-- [[RPG/R20/Spells/Spell Descriptions/Cause Fear]]
+- [[Cause Fear]]
 - [[Charm Person]]
 - [[Command]]
 - [[Compelled Duel]]
@@ -871,7 +871,7 @@
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Thunderous Smite]]
-- [[RPG/R20/Spells/Spell Descriptions/Thunderwave]]
+- [[Thunderwave]]
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Earthbind]]
