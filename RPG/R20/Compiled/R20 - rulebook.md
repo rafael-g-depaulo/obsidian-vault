@@ -854,13 +854,12 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
-Feat Ideas:
-
 - *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
 - *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
 - *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
 - *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
+#### Feat Ideas
 - ganha ataque de oportunidade e outras coisas interessantes com reação
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
@@ -876,14 +875,6 @@ Feat Ideas:
 - scale movement with level
 	- add PRE to movement (default?)
 	- add DEX to movement (feat?)
-- move through people
-- increase AC temporarily
-	- if you spent steps, gain +AC equal to steps spent until next turn
-	- +AC if moved this turn
-- transform INT/SEN resist to PRE resist
-- gain adv on resist rolls??? prolly not
-- transform STR/CON resist to DEX resist? prolly not
-- +PM to dance as movement action
 
 {{pageNumber,auto}}
 \page
@@ -913,6 +904,15 @@ maybe add option to upcast?
 - dance through enemies and damage them
 - whirlwind attack (on future levels can increase radius)
 
+#### Feat ideas continuação
+- move through people
+- increase AC temporarily
+	- if you spent steps, gain +AC equal to steps spent until next turn
+	- +AC if moved this turn
+- transform INT/SEN resist to PRE resist
+- gain adv on resist rolls??? prolly not
+- transform STR/CON resist to DEX resist? prolly not
+- +PM to dance as movement action
 
 ### Conceito
 Acrobatas são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.

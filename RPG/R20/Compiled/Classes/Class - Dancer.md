@@ -51,13 +51,12 @@
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
-Feat Ideas:
-
 - *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
 - *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
 - *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
 - *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
+#### Feat Ideas
 - ganha ataque de oportunidade e outras coisas interessantes com reação
 - no damage on dex saves, half on fail.
 - gain steps on ally crit/enemy down
@@ -73,14 +72,6 @@ Feat Ideas:
 - scale movement with level
 	- add PRE to movement (default?)
 	- add DEX to movement (feat?)
-- move through people
-- increase AC temporarily
-	- if you spent steps, gain +AC equal to steps spent until next turn
-	- +AC if moved this turn
-- transform INT/SEN resist to PRE resist
-- gain adv on resist rolls??? prolly not
-- transform STR/CON resist to DEX resist? prolly not
-- +PM to dance as movement action
 
 {{pageNumber,auto}}
 \page
@@ -109,6 +100,26 @@ maybe add option to upcast?
 - "Dança a Dois". Buffs pra um aliado e tal.
 - dance through enemies and damage them
 - whirlwind attack (on future levels can increase radius)
+
+#### Feat ideas continuação
+- move through people
+- increase AC temporarily
+	- if you spent steps, gain +AC equal to steps spent until next turn
+	- +AC if moved this turn
+- transform INT/SEN resist to PRE resist
+- gain adv on resist rolls??? prolly not
+- transform STR/CON resist to DEX resist? prolly not
+- +PM to dance as movement action
+
+
+#### Feats de Especialista
+- *nome1*. De Raspão aumenta de custo em 2PM, não 3PM. Pré-requisito: nome2
+- *nome2*. Você ganha 2 PM temporários ao usar De Raspão
+- *nome*. Você pode gastar 1PM e fazer uma Ação Padrão imediatamente após usar de raspão. Pré-requisito: nome2
+- *nome.* (Você foi atacado e o ataque errou) reação: Faça um ataque contra o atacante.
+- *nome.* (1x/turno) livre 1PM: você não provoca ataques de oportunidade até o próximo turno
+- bonus to stealth?
+- *jack of all trades* 2PM: você pode usar seu INT em vez do seu bonus de skill (ex: se tem +1 STR, +2 atletismo e +4 INT, pode rolar +5 em vez de +3 em atletismo)
 
 
 ### Conceito
