@@ -17,6 +17,9 @@ Example: Molly, an 8th level character proficient with simple weapons and 15(+2)
 - Attack Roll: 1d20+6
 - Damage Roll: 1d4+2
 
+###### Dual Wielding
+If a character is holding 2 weapons and at least one of them has the light property they can make 2 attacks when using the attack action. they don't add their relevant attribute to the damage for the attack made with the second weapon.
+
 ##### Spell Attacks
 To make a spell attack you first roll to hit. The roll is determined by the following formula:
 - **1d20 + proficiency bonus + Spellcasting modifier**
