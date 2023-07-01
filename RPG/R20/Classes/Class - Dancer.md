@@ -66,7 +66,7 @@ Feat Ideas:
 - gain PRE steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
 - +PRE to initiative
-- bonus to social rollss
+- bonus to social rolls
 - steps + other stuff on "de raspão"
 - +PRE to dodge
 - gain extra elemental dmg (duration? or scene?)
@@ -99,10 +99,10 @@ maybe add option to upcast?
 - **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
 - **Dança do Vento.** Ganhe 4 **Passos do Vento**.
 - **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
-- **Dança do Trance.** Você Ganha +3 
+- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada.
+- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
 
 #### outras danças:
-- temp HP (area)
 - temp MP (self)
 - "Dança a Dois". Buffs pra um aliado e tal.
 - dance through enemies and damage them
