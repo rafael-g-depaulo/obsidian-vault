@@ -8,11 +8,12 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE          |
-| ----- | ---------------- |
-| 1     | Ritmo de Batalha |
-| 1     | Passos de Vento  |
-| 3     | Dança Ilusória   | 
+| LEVEL | FEATURE           |
+| ----- | ----------------- |
+| 1     | Ritmo de Batalha  |
+| 1     | Passos de Vento   |
+| 3     | Dança Ilusória    |
+| 7     | Confie na Estrela | 
 
 MULTI_FEATURES:
 
@@ -48,7 +49,7 @@ MULTI_FEATURES:
 
 **Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
-**UTILITY BASE FEATURE.** some performance bonus or something. probably something for social rolls too.
+**Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
@@ -92,12 +93,13 @@ Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 *
 maybe add option to upcast?
 
 }}
-- **Dança da Restauração.** Escolha um aliado que consegue ver. ele recupera PRE+1d4 de HP. (maybe remove, just keep temp HP one. Add scaling and stuff?)
+- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
 - **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha move speed (and/or dodge?) pela cena e dá burst de move speed pra aliado(s)
+- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados 
 - **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
 - **Dança do Vento.** Ganhe 4 **Passos do Vento**.
 - **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
+- **Dança do Trance.** Você Ganha +3 
 
 #### outras danças:
 - temp HP (area)
