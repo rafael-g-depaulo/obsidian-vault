@@ -30,6 +30,7 @@ kanban-plugin: basic
 - [ ] net adicionar ponto
 - [ ] tamanho e enlarge/reduce R20
 - [ ] tmux keybind new session
+- [ ] trocar senha gov.br
 
 
 ## doing
