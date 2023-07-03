@@ -27,8 +27,8 @@ na sessão 0:
 5. introduzir o grupo
 
 antes da sessão 1:
-1. montar o design das novas classes (R)
-2. montar as fichas dos personagens em 1x1 com os players (R)
-3. preparar assets (imagens, retratos, músicas, SFX) (R/N)
-4. preparar o roll20 (principalmente R)
-5. planejar a sessão
+- [x] montar o design das novas classes (R)
+- [ ] montar as fichas dos personagens em 1x1 com os players (R)
+- [ ] preparar assets (imagens, retratos, músicas, SFX) (R/N)
+- [ ] preparar o roll20 (principalmente R)
+- [ ] planejar a sessão
