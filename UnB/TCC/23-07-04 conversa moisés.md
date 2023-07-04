@@ -1,0 +1,11 @@
+Alinhar conceito da lib (implementação)
+
+![[Drawing 2023-07-04 20.05.02.excalidraw]]
+
+## Conceitos/nomes
+URL completa -> rota
+componente (blog e 23) -> segmentos
+árvore de roteamento -> árvore de segmentos que representa todas as rotas
+
+
+## Tipos de Segmento
