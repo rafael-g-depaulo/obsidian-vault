@@ -1,19 +1,20 @@
 # Equipment
 ## Simple Weapons
 
-| Melee Weapons  | Damage | Crit |            Properties            |
-|:--------------:|:------:|:----:|:--------------------------------:|
-| Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |
-| Unarmed Attack |   1d2  |   -  |                -                 |
-| Club           |   1d4  |   -  |              light               |
-| Greatclub      |   1d8  |   -  |             2-handed             |
-| Handaxe        |   1d6  |   -  |      light, thrown (20/60)       |
-| Javelin        |   1d6  |   -  |         thrown (30/120)          |
-| Light Hammer   |   1d4  |   -  |      light, thrown (20/60)       |
-| Mace           |   1d6  |  19  |                                  |
-| Quarterstaff   |   1d6  |   -  |         versatile (1d8)          |
-| Spear          |   1d6  |  x3  | Thrown (20/60), versatile (1d8)  |
-| Scythe         |   1d4  |  x4  |              light               |
+| Melee Weapons  | Damage | Crit |           Properties            |
+|:--------------:|:------:|:----:|:-------------------------------:|
+|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  |
+| Unarmed Attack |  1d2   |  -   |                -                |
+|      Club      |  1d4   |  -   |              light              |
+|   Greatclub    |  1d8   |  -   |            2-handed             |
+|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      |
+|    Javelin     |  1d6   |  -   |         thrown (30/120)         |
+|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      |
+|      Mace      |  1d6   |  19  |                                 |
+|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         |
+|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) |
+|     Scythe     |  1d4   |  x4  |             finesse             |
+|      Claw      |  1d4   |  19  |         light, finesse          | 
 
 | Ranged Weapons | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
@@ -40,12 +41,12 @@
 
 ## Armor
 
-| Light Armor                    | Dodge | Guard | Cost | STR | Penalty  |
-|--------------------------------|-------|-------|------|-----|----------|
-| Padded (Acolchoada)            | 2     | -1    |  10g | -   | 0        |
-| Leather (Couro)                | 3     | -2    |  50g | -   | 0        |
-| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0        |
-| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0        |
+| Light Armor                    | Dodge | Guard | Cost | STR | Penalty |
+| ------------------------------ | ----- | ----- | ---- | --- | ------- |
+| Padded (Acolchoada)            | 2     | 0     | 10g  | -   | 0       |
+| Leather (Couro)                | 3     | -2    | 50g  | -   | 0       |
+| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0       |
+| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0       |
 
 | Medium Armor                       | Dodge | Guard | Cost | STR | Penalty | 
 | ---------------------------------- | ----- | ----- | ---- | --- | ------- |
@@ -57,12 +58,12 @@
 | Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
 | Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
 
-| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty | Movement |
-| ------------------------------ | ----- | ----- | ------ | --- | ------- | -------- |
-| Ring mail                      | -1    | 2     | 30g    | 12  | -3      | 0        |
-| Chain mail                     | -2    | 3     | 75g    | 13  | -4      | 0        |
-| Splint                         | -3    | 4     | 200g   | 14  | -5      | -1sqr    |
-| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5      | -2sqr    |
+| Heavy Armor                    | Dodge | Guard | Cost   | STR | Movement |
+| ------------------------------ | ----- | ----- | ------ | --- | -------- |
+| Ring mail                      | -1    | 2     | 30g    | 12  | 0        |
+| Chain mail                     | -2    | 3     | 75g    | 13  | 0        |
+| Splint                         | -3    | 4     | 200g   | 14  | -1sqr    |
+| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -2sqr    |
 
 | Shield       | Dodge | Guard | Cost | STR | Penalty | 
 | ------------ | ----- | ----- | ---- | --- | ------- |
