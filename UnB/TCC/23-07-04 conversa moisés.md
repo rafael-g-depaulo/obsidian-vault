@@ -9,3 +9,7 @@ componente (blog e 23) -> segmentos
 
 
 ## Tipos de Segmento
+Segmento Link (rosa)
+Segmento Vazio (verde)
+Segmento Página (default, branco)
+Segmento Índice (azul)
