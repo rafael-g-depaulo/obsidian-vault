@@ -5,6 +5,8 @@ ___
 **HP**: XX/XX
 {{width:30px}}
 **MP**: XX/XX
+{{width:30px}}
+**FP**: XX/XX
 ___
 **Defesa**: XX
 {{width:30px}}
@@ -30,7 +32,7 @@ ___
 
 "\*" tem proficiência (+1 em testes de resistência)
 
-### Skills:
+### Skills: (total: 5+INT, max: 2)
 #### Força (+X):
 - Atletismo: X = +X
 
@@ -81,9 +83,13 @@ ___
 - **Chain Mail.** (Evasão: -2, Guarda: 4). Penalidade: -4
 - **Maça.** 1d6 impacto. crit: 19/2x
 
-### Magias
-- [{{ MAGIA 1 }}](#p14)
-- [{{ MAGIA 2 }}](#p8)
+### Magias (INT)
+- [MAGIA 1](#p14)
+- [MAGIA 2](#p8)
+
+### Milagres (PRE)
+- [MAGIA 1](#p14)
+- [MAGIA 2](#p8)
 
 ### Escolhas Criação Personagem
 #### Level 1
