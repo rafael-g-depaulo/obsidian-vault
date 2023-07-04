@@ -8,7 +8,7 @@
 **MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
 
 **Equipment Proficiencies:** NONE.
-
+**
 **Resistências:** Presence, Constituition.
 
 **Spellcasting Attribute:** PRE.
