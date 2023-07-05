@@ -124,47 +124,47 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 ##### Casters
 ____
 
-| Classe             | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch              | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer       | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith          | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner           | Alto                 | Baixo       | Baixa       | Alto  | -                   |
-| Chronomancer (TBI) | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
+| Classe             | need to Buff/Nerf?    | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ | --- |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              |     | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       |     | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          |     | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Summoner           |     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) |     | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
 
-| Classe              | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
-|:------------------- |:----------- |:----------- |:----------- |:-------------- |:----- |
-| Spelgard            | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
-| Enhancer  (TBI)     | Média       | Média       | Alta        | Média          | -     |
-| Bard       (TBI)    | Baixa       | Alta        | Baixa       | Alta           | Alta  |
-| Blood Mage (TBI)    | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
-| Ice/Fire dude (TBI) | Baixa       | Média       | Média       | Alta           | -     |
+| Classe              | need to Buff/Nerf? | Defesa      | Utilidade   | Dano físico | Magia Ofensiva | Cura  |
+|:------------------- | ------------------ |:----------- |:----------- |:----------- |:-------------- |:----- |
+| Spelgard            |                    | Média-Alta  | Média-Alta  | Média       | Baixa          | Média |
+| Enhancer  (TBI)     |                    | Média       | Média       | Alta        | Média          | -     |
+| Bard       (TBI)    |                    | Baixa       | Alta        | Baixa       | Alta           | Alta  |
+| Blood Mage (TBI)    |                    | Média-Baixa | Média-Baixa | Média-Alta  | Média-Alta     | Média |
+| Ice/Fire dude (TBI) |                    | Baixa       | Média       | Média       | Alta           | -     |
 
 ##### Marciais
 ____
 
-| Classe        | Defesa      | Mobilidade | Utilidade | Cura              |
-|:------------- |:----------- |:---------- |:--------- |:----------------- |
-| Fighter       | Média       | Média      | Média     | -                 |
-| Beast Warrior | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
-| Juggernaut    | Alta        | Baixa      | Média     | -                 |
-| Champion      | Média-Baixa | Média      | Alta      | Média-Alta        |
-| Hunter (TBI)  | Baixa       | Alta       | Média     | Média             |
+| Classe        | need to Buff/Nerf? | Defesa      | Mobilidade | Utilidade | Cura              |
+|:------------- | ------------------ |:----------- |:---------- |:--------- |:----------------- |
+| Fighter       | buff dmg           | Média       | Média      | Média     | -                 |
+| Beast Warrior | buff dmg?          | Média-Alta  | Média-Alta | Baixa     | Alta (só própria) |
+| Juggernaut    | maybe buff mana    | Alta        | Baixa      | Média     | -                 |
+| Champion      |                    | Média-Baixa | Média      | Alta      | Média-Alta        |
+| Hunter (TBI)  |                    | Baixa       | Alta       | Média     | Média             |
 
 ##### Specialists
 ____
 
-| Classe            | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade  | Cura  |
-|:----------------- |:----------- |:--------------- |:---------- |:---------- |:---------- |:----- |
-| Ladino            | Médio-Alto  | Baixo           | Média      | Média      | Média      | -     |
-| Dancer            | Alto        | -               | Média-Alta | Alta       | Baixa      | -     |
-| Alquimista        | -           | Alto            | Baixa      | Baixa      | Alta       | Alta  |
-| Inventor (TBI)    | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta | -     |
-| Werebeast         | Médio       | Médio           | Média      | Média-Alta | Média-Alta | Média |
-| Pugilista   (TBI) | Alto        | -               | Alta       | Média-Alta | Baixa      | -     |
+| Classe            | need to Buff/Nerf? | Dano Físico | Dano não-físico | Defesa     | Mobilidade | Utilidade   | Cura  |
+|:----------------- | ------------------ |:----------- |:--------------- |:---------- |:---------- |:----------- |:----- |
+| Ladino            |                    | Alto        | Baixo           | Média      | Baixa      | Média-Alta  | -     |
+| Dancer            |                    | Médio-Alto  | -               | Média-Alta | Alta       | Baixa       | -     |
+| Alquimista        |                    | -           | Alto            | Baixa      | Baixa      | Alta        | Alta  |
+| Inventor (TBI)    |                    | Médio-Baixo | Médio-Alto      | Média      | Baixa      | Média-Alta  | -     |
+| Werebeast         |                    | Médio       | Médio           | Média-Alta | Média      | Média-Baixa | Média |
+| Pugilista   (TBI) |                    | Alto        | -               | Alta       | Média-Alta | Baixa       | -     |
 
 }}
 
