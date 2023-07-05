@@ -1,0 +1,1 @@
+n=ndotdot é não-aleatório (tem um número definido)
