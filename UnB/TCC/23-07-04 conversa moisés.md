@@ -1,6 +1,6 @@
 Alinhar conceito da lib (implementação)
 
-![[Drawing 2023-07-04 20.05.02.excalidraw]]
+![[Drawing 2023-07-04 20.05.02.excalidraw|628]]
 
 ## Conceitos/nomes
 URL completa -> rota
