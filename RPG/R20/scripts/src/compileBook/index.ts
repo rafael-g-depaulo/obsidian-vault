@@ -16,6 +16,7 @@ import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
 import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
+import { replaceVerticalSpacers } from './replaceSpacers'
 import { replaceSpellDefinition } from './replaceSpellDefinition'
 
 export type CompileRulesDeps = {
@@ -44,5 +45,6 @@ export const processContent = (deps: CompileRulesDeps) =>
     replaceGlobalSpellList(deps),
     replaceSpellDefinition,
     replacePageBreakMacro,
+    replaceVerticalSpacers,
     removeArchetypeDefinition
   )

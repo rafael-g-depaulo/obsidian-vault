@@ -63,18 +63,21 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - **Gatuno**. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
 - **Capitalizar Distrações**. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
-  
+  {{page-break}}
 - **Mão na Boca**. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
 
 - **Mente Criminosa**. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
 
 - **Oportunismo**. Você recebe +2 em testes de ataque contra inimigos que já sofreram dano desde seu último turno.
-{{page-break}}
+
 - **Saqueador de Tumbas**. Você recebe +5 em testes de Investigação para encontrar armadilhas e em testes de Reflexos para evitá-las.
 
 - **Sombra**. Você recebe +2 em Furtividade. Além disso, pode se mover com seu deslocamento normal enquanto usa Furtividade sem sofrer penalidades no teste de perícia. Pré-requisito: DEX 15.
 
+%%
+removido pq cunning action foi adicionado como feat de especialista
 - **Velocidade Ladina**. Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional em seu turno. Pré-requisito: DEX 15.
+%%
 
 - **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
@@ -86,14 +89,20 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 - **CD Ataque Ardiloso:**  8 + proficiência + INT
 
+{{wide
+{{}}
+#### Ataque Ardiloso
+
 | Nome | Custo | Efeito                                                            | Resistência | Pre-requisitos |
 | ---- | ----- | ----------------------------------------------------------------- | ----------- | -------------- |
 |      | 3d6   | Sofre Stun até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
 |      | 2d6   | Cego até tomar dano.                                              | DEX         |                |
 |      | 1d6   | Lento  (velocidade/2)                                             | CON         |                |
 |      | 2d6   | Vulnerável (-2 defesa)                                            | DEX         | Ladino nível 6 |
-|      | 1d6   | Diminua a iniciativa em 5                                         | STR         |                |
+|      | 1d6   | Diminue a iniciativa em 5                                         | STR         |                |
 |      | 2d6   | Caído (Prone)                                                     | STR         |                |
-|      | 2d6   | Ganha 1 nível de Exaustão                                         | CON         | Ladino nível 8 | 
+|      | 2d6   | Ganha 1 nível de Exaustão                                         | CON         | Ladino nível 8 |
+|      | 1d6   | alguma coisa com veneno e itens alquímicos      (aplica de graça) | -           |                |
 
 \*OBS: "seu" aqui é o ladino, não o alvo
+}}
