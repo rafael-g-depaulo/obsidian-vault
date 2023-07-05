@@ -104,7 +104,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 | Mirar nos Olhos     | 2d6   | Cego até tomar dano.                                             | DEX         |                |
 | Cortar Tendões      | 1d6   | Lento  (velocidade/2)                                            | CON         |                |
 | Quebrar Armadura    | 2d6   | Vulnerável (-2 defesa)                                           | DEX         | Ladino nível 6 |
-| Distrair            | 1d6   | Diminue a iniciativa em 5                                        | STR         |                |
+| Distrair            | 1d6   | Diminui a iniciativa em 5                                        | STR         |                |
 | Tropeçar            | 2d6   | Caído (Prone)                                                    | STR         |                |
 | Sangramento Extremo | 2d6   | Ganha 1 nível de Exaustão                                        | CON         | Ladino nível 8 |
 | Lâmina Envenenada   | 1d6   | O ataque também aplica um item alquímico de sua escolha          | -           | INT 13         |
