@@ -15,34 +15,34 @@
 ##### Rogue
 | Level | Proficiency Bonus | Features |Sneak Attack | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Sneak Attack | 2d6 |
-| 2nd | +1 | Rogue Feat, Expertise | 2d6 |
+| 1st | +1 | Sneak Attack | 1d6 |
+| 2nd | +1 | Rogue Feat, Expertise | 1d6 |
 | 3rd | +2 | Rogue Feat, Cunning Action | 3d6 |
 | 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 |
-| 5th | +3 | Rogue Feat | 4d6 |
-| 6th | +3 | Rogue Feat, Attribute Score Improvement | 4d6 |
+| 5th | +3 | Rogue Feat | 3d6 |
+| 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 |
 | 7th | +4 | Rogue Feat | 5d6 |
 | 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 |
-| 9th | +5 | Rogue Feat | 6d6 |
-| 10th | +5 | Rogue Feat, Attribute Score Improvement | 6d6 |
+| 9th | +5 | Rogue Feat | 7d6 |
+| 10th | +5 | Rogue Feat, Attribute Score Improvement | 7d6 |
 | 11th | +6 | Rogue Feat | 7d6 |
-| 12th | +6 | Rogue Feat, Attribute Score Improvement | 7d6 |
-| 13th | +7 | Rogue Feat | 8d6 |
-| 14th | +7 | Rogue Feat | 8d6 |
-| 15th | +8 | Rogue Feat, Attribute Score Improvement | 9d6 |
-| 16th | +8 | Rogue Feat | 9d6 |
-| 17th | +9 | Rogue Feat, Attribute Score Improvement | 10d6 |
-| 18th | +9 | Rogue Feat | 10d6 |
-| 19th | +10 | Rogue Feat, Attribute Score Improvement | 11d6 |
-| 20th | +10 | Rogue Feat | 11d6 |
+| 12th | +6 | Rogue Feat, Attribute Score Improvement | 9d6 |
+| 13th | +7 | Rogue Feat | 9d6 |
+| 14th | +7 | Rogue Feat | 9d6 |
+| 15th | +8 | Rogue Feat, Attribute Score Improvement | 11d6 |
+| 16th | +8 | Rogue Feat | 11d6 |
+| 17th | +9 | Rogue Feat, Attribute Score Improvement | 11d6 |
+| 18th | +9 | Rogue Feat | 13d6 |
+| 19th | +10 | Rogue Feat, Attribute Score Improvement | 13d6 |
+| 20th | +10 | Rogue Feat | 13d6 |
 }}
 
 
-**SNEAK ATTACK.** Once per turn, you can deal an extra 2d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
+**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-**Cunning Action (Ação Ardilosa)**. (Once per turn) Free Action (1PM): You can Hide or Dash as a free action (see combat actions).
+**Ataque Ardiloso (Cunning Strike)**. can learn 2 cool attacks, and on sneak attacks can spend sneak attack dice to add effects to the attack. learn more at later levels (very few). can change on level up.
 
 ### Rogue Feats
 
