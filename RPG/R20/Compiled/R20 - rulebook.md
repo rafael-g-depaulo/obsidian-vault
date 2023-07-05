@@ -238,7 +238,7 @@ It's recommended that the DM encourage the player's creativity and ingenuity, an
 
 Whether the character is allowed to roll a different skill is always at the DM's discretion.
 
-### Skill Bonus & Skill Points
+## Skill Bonus & Skill Points
 When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2** every even levelup and **2 + their Inteligence Modifier** (min 2) every odd level up.
 
 A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
@@ -860,20 +860,18 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
 #### Feat Ideas
-- ganha ataque de oportunidade e outras coisas interessantes com reação
-- no damage on dex saves, half on fail.
+- ganha coisas com reação
+- no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
-- pode gastar steps sem se mover
-- reaction: attack on being missed (maybe just add as a specialist feat)
-- gain PRE steps on initiative
+- gain steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
-- +PRE to initiative
+- roll performance instead of initiative
 - steps + other stuff on "de raspão"
-- +PRE to dodge
+- +PRE to dodge 
 - gain extra elemental dmg (duration? or scene?)
-- dont provoke opportunity attacks with movement
+- dont provoke opportunity attacks with movement (move to specialist feat)
 - scale movement with level
-	- add PRE to movement (default?)
+	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
 
 {{pageNumber,auto}}
@@ -2283,19 +2281,20 @@ R20's formula: ceil(lv/2)
 # Equipment
 ## Simple Weapons
 
-| Melee Weapons  | Damage | Crit |            Properties            |
-|:--------------:|:------:|:----:|:--------------------------------:|
-| Dagger         |   1d4  |   -  |  finesse, light, thrown (20/60)  |
-| Unarmed Attack |   1d2  |   -  |                -                 |
-| Club           |   1d4  |   -  |              light               |
-| Greatclub      |   1d8  |   -  |             2-handed             |
-| Handaxe        |   1d6  |   -  |      light, thrown (20/60)       |
-| Javelin        |   1d6  |   -  |         thrown (30/120)          |
-| Light Hammer   |   1d4  |   -  |      light, thrown (20/60)       |
-| Mace           |   1d6  |  19  |                                  |
-| Quarterstaff   |   1d6  |   -  |         versatile (1d8)          |
-| Spear          |   1d6  |  x3  | Thrown (20/60), versatile (1d8)  |
-| Scythe         |   1d4  |  x4  |              light               |
+| Melee Weapons  | Damage | Crit |           Properties            |
+|:--------------:|:------:|:----:|:-------------------------------:|
+|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  |
+| Unarmed Attack |  1d2   |  -   |                -                |
+|      Club      |  1d4   |  -   |              light              |
+|   Greatclub    |  1d8   |  -   |            2-handed             |
+|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      |
+|    Javelin     |  1d6   |  -   |         thrown (30/120)         |
+|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      |
+|      Mace      |  1d6   |  19  |                                 |
+|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         |
+|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) |
+|     Scythe     |  1d4   |  x4  |             finesse             |
+|      Claw      |  1d4   |  19  |         light, finesse          | 
 
 | Ranged Weapons | Damage | Crit |            Properties            |
 |:--------------:|:------:|:----:|:--------------------------------:|
@@ -2322,12 +2321,12 @@ R20's formula: ceil(lv/2)
 
 ## Armor
 
-| Light Armor                    | Dodge | Guard | Cost | STR | Penalty  |
-|--------------------------------|-------|-------|------|-----|----------|
-| Padded (Acolchoada)            | 2     | -1    |  10g | -   | 0        |
-| Leather (Couro)                | 3     | -2    |  50g | -   | 0        |
-| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0        |
-| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0        |
+| Light Armor                    | Dodge | Guard | Cost | STR | Penalty |
+| ------------------------------ | ----- | ----- | ---- | --- | ------- |
+| Padded (Acolchoada)            | 2     | 0     | 10g  | -   | 0       |
+| Leather (Couro)                | 3     | -2    | 50g  | -   | 0       |
+| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0       |
+| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0       |
 
 | Medium Armor                       | Dodge | Guard | Cost | STR | Penalty | 
 | ---------------------------------- | ----- | ----- | ---- | --- | ------- |
@@ -2339,12 +2338,12 @@ R20's formula: ceil(lv/2)
 | Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
 | Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
 
-| Heavy Armor                    | Dodge | Guard | Cost   | STR | Penalty | Movement |
-| ------------------------------ | ----- | ----- | ------ | --- | ------- | -------- |
-| Ring mail                      | -1    | 2     | 30g    | 12  | -3      | 0        |
-| Chain mail                     | -2    | 3     | 75g    | 13  | -4      | 0        |
-| Splint                         | -3    | 4     | 200g   | 14  | -5      | -1sqr    |
-| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -5      | -2sqr    |
+| Heavy Armor                    | Dodge | Guard | Cost   | STR | Movement |
+| ------------------------------ | ----- | ----- | ------ | --- | -------- |
+| Ring mail                      | -1    | 2     | 30g    | 12  | 0        |
+| Chain mail                     | -2    | 3     | 75g    | 13  | 0        |
+| Splint                         | -3    | 4     | 200g   | 14  | -1sqr    |
+| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -2sqr    |
 
 | Shield       | Dodge | Guard | Cost | STR | Penalty | 
 | ------------ | ----- | ----- | ---- | --- | ------- |

@@ -8,7 +8,7 @@
 **MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
 
 **Equipment Proficiencies:** NONE.
-**
+
 **Resistências:** Presence, Constituition.
 
 **Spellcasting Attribute:** PRE.
@@ -86,8 +86,6 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 #### Poções Misteriosas
 
 Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
-
-Pensando em buffar os efeitos primários, dobrando HP e MP.
 
 ##### Efeitos Exotéricos
 

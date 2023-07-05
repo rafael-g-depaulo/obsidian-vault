@@ -57,20 +57,18 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
 #### Feat Ideas
-- ganha ataque de oportunidade e outras coisas interessantes com reação
-- no damage on dex saves, half on fail.
+- ganha coisas com reação
+- no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
-- pode gastar steps sem se mover
-- reaction: attack on being missed (maybe just add as a specialist feat)
-- gain PRE steps on initiative
+- gain steps on initiative
 - steps can be spent to use skills that use Movement Actions as a Free Action
-- +PRE to initiative
+- roll performance instead of initiative
 - steps + other stuff on "de raspão"
-- +PRE to dodge
+- +PRE to dodge 
 - gain extra elemental dmg (duration? or scene?)
-- dont provoke opportunity attacks with movement
+- dont provoke opportunity attacks with movement (move to specialist feat)
 - scale movement with level
-	- add PRE to movement (default?)
+	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
 
 {{pageNumber,auto}}
