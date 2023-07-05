@@ -1278,28 +1278,28 @@ List of spells available for a Plantomancer to learn.
 | :---: | :---------------: | :------- | :----: |
 | 1st | +1 | Sneak Attack | 1d6 |
 | 2nd | +1 | Rogue Feat, Expertise | 1d6 |
-| 3rd | +2 | Rogue Feat, Cunning Action | 3d6 |
-| 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 |
-| 5th | +3 | Rogue Feat | 3d6 |
-| 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 |
-| 7th | +4 | Rogue Feat | 5d6 |
-| 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 |
-| 9th | +5 | Rogue Feat | 7d6 |
-| 10th | +5 | Rogue Feat, Attribute Score Improvement | 7d6 |
-| 11th | +6 | Rogue Feat | 7d6 |
-| 12th | +6 | Rogue Feat, Attribute Score Improvement | 9d6 |
-| 13th | +7 | Rogue Feat | 9d6 |
-| 14th | +7 | Rogue Feat | 9d6 |
-| 15th | +8 | Rogue Feat, Attribute Score Improvement | 11d6 |
-| 16th | +8 | Rogue Feat | 11d6 |
-| 17th | +9 | Rogue Feat, Attribute Score Improvement | 11d6 |
-| 18th | +9 | Rogue Feat | 13d6 |
-| 19th | +10 | Rogue Feat, Attribute Score Improvement | 13d6 |
-| 20th | +10 | Rogue Feat | 13d6 |
+| 3rd | +2 | Rogue Feat, Cunning Action | 3d6 (1PM) |
+| 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 1PM) |
+| 5th | +3 | Rogue Feat | 3d6 1PM) |
+| 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) |
+| 7th | +4 | Rogue Feat | 5d6 (2PM) |
+| 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) |
+| 9th | +5 | Rogue Feat | 7d6 (3PM) |
+| 10th | +5 | Rogue Feat, Attribute Score Improvement | 7d6 (3PM) |
+| 11th | +6 | Rogue Feat | 7d6 (3PM) |
+| 12th | +6 | Rogue Feat, Attribute Score Improvement | 9d6 (4PM) |
+| 13th | +7 | Rogue Feat | 9d6 (4PM) |
+| 14th | +7 | Rogue Feat | 9d6 (4PM) |
+| 15th | +8 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) |
+| 16th | +8 | Rogue Feat | 11d6 (5PM) |
+| 17th | +9 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) |
+| 18th | +9 | Rogue Feat | 13d6 (6PM) |
+| 19th | +10 | Rogue Feat, Attribute Score Improvement | 13d6 (6PM) |
+| 20th | +10 | Rogue Feat | 13d6 (6PM) |
 }}
 
 
-**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
+**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -1342,6 +1342,24 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
 - **Veneno Potente**. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
+
+### Ataque Ardiloso
+
+A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
+
+- **CD Ataque Ardiloso:**  8 + proficiência + INT
+
+| Nome | Custo | Efeito                                                            | Resistência | Pre-requisitos |
+| ---- | ----- | ----------------------------------------------------------------- | ----------- | -------------- |
+|      | 3d6   | Sofre Stun até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
+|      | 2d6   | Cego até tomar dano.                                              | DEX         |                |
+|      | 1d6   | Lento  (velocidade/2)                                             | CON         |                |
+|      | 2d6   | Vulnerável (-2 defesa)                                            | DEX         | Ladino nível 6 |
+|      | 1d6   | Diminua a iniciativa em 5                                         | STR         |                |
+|      | 2d6   | Caído (Prone)                                                     | STR         |                |
+|      | 2d6   | Ganha 1 nível de Exaustão                                         | CON         | Ladino nível 8 | 
+
+\*OBS: "seu" aqui é o ladino, não o alvo
 
 {{pageNumber,auto}}
 \page
@@ -5185,11 +5203,14 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 ### Prone
 Prone target has movement speed halved, -2 defense against melee attacks and +2 against ranged ones. Standing up from prone takes a movement action. A prone target can once per turn attempt to stand up as a free action, if they pass a DC 14 Acrobatics test
 
-## Exhaustion
+### Exhaustion
 For every level of exhaustion (up to 10) a character has, they have:
 - -1 to all d20 rolls
 - -1 all of their Save DCs
 If a character reaches 11th level of exhaustion, they die.
+
+### Vulnerable
+-2 Defense.
 
 ### Burning
 Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.

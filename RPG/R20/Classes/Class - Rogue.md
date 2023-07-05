@@ -36,10 +36,9 @@ MULTI_FEATURES:
 | 18th  | 13d6 (6PM)   |
 | 19th  | 13d6 (6PM)   |
 | 20th  | 13d6 (6PM)   |
-
 }}
 
-**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM to increases the damage by +1d6.
+**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -83,16 +82,18 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 ### Ataque Ardiloso
 
-**TODO: reword later**
-
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
 
 - **CD Ataque Ardiloso:**  8 + proficiência + INT
 
-| Nome | Custo | Efeito                                                            | REsistência | Pre-requisitos |
+| Nome | Custo | Efeito                                                            | Resistência | Pre-requisitos |
 | ---- | ----- | ----------------------------------------------------------------- | ----------- | -------------- |
 |      | 3d6   | Sofre Stun até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
-|      |       | Cego até tomar dano.                                              |             |                |
-|      |       | Resistência CON                                                   | CON         |                |
+|      | 2d6   | Cego até tomar dano.                                              | DEX         |                |
+|      | 1d6   | Lento  (velocidade/2)                                             | CON         |                |
+|      | 2d6   | Vulnerável (-2 defesa)                                            | DEX         | Ladino nível 6 |
+|      | 1d6   | Diminua a iniciativa em 5                                         | STR         |                |
+|      | 2d6   | Caído (Prone)                                                     | STR         |                |
+|      | 2d6   | Ganha 1 nível de Exaustão                                         | CON         | Ladino nível 8 | 
 
-\*OBS: "seu" aqui é o ladino
+\*OBS: "seu" aqui é o ladino, não o alvo
