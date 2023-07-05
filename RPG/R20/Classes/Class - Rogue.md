@@ -17,30 +17,32 @@ MULTI_FEATURES:
 | Level | Sneak Attack |
 | ----- | ------------ |
 | 1st   | 1d6          |
-| 2nd   | 3d6          | 
+| 2nd   | 1d6          | 
 | 3rd   | 3d6          |
 | 4th   | 3d6          |
-| 5th   | 5d6          |
+| 5th   | 3d6          |
 | 6th   | 5d6          |
 | 7th   | 5d6          |
-| 8th   | 7d6          |
+| 8th   | 5d6          |
 | 9th   | 7d6          |
 | 10th  | 7d6          |
-| 11th  | 9d6          |
+| 11th  | 7d6          |
 | 12th  | 9d6          |
 | 13th  | 9d6          |
-| 14th  | 10d6         |
-| 15th  | 10d6         |
-| 16th  | 10d6         |
+| 14th  | 9d6          |
+| 15th  | 11d6         |
+| 16th  | 11d6         |
 | 17th  | 11d6         |
-| 18th  | 11d6         |
-| 19th  | 11d6         |
+| 18th  | 13d6         |
+| 19th  | 13d6         |
 | 20th  | 13d6         |
 }}
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+**Special Cool Attaks**. can learn 1/2 cool attacks.
 
 ### Rogue Feats
 
