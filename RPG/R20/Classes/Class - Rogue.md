@@ -80,3 +80,9 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 - **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
 - **Veneno Potente**. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
+
+### Ataque Ardiloso
+
+**TODO: reword later**
+
+A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos funcionam como ataques furtivos normais, mas com um custo de dados do ataque furtivo.  Alguns podem ter custos a mais.
