@@ -18,28 +18,28 @@ MULTI_FEATURES:
 | ----- | ------------ |
 | 1st   | 1d6          |
 | 2nd   | 1d6          |
-| 3rd   | 3d6          |
-| 4th   | 3d6          |
-| 5th   | 3d6          |
-| 6th   | 5d6          |
-| 7th   | 5d6          |
-| 8th   | 5d6          |
-| 9th   | 7d6          |
-| 10th  | 7d6          |
-| 11th  | 7d6          |
-| 12th  | 9d6          |
-| 13th  | 9d6          |
-| 14th  | 9d6          |
-| 15th  | 11d6         |
-| 16th  | 11d6         |
-| 17th  | 11d6         |
-| 18th  | 13d6         |
-| 19th  | 13d6         |
-| 20th  | 13d6         |
+| 3rd   | 3d6 (1PM)    | 
+| 4th   | 3d6 1PM)     |
+| 5th   | 3d6 1PM)     |
+| 6th   | 5d6 (2PM)    |
+| 7th   | 5d6 (2PM)    |
+| 8th   | 5d6 (2PM)    |
+| 9th   | 7d6 (3PM)    |
+| 10th  | 7d6 (3PM)    |
+| 11th  | 7d6 (3PM)    |
+| 12th  | 9d6 (4PM)    |
+| 13th  | 9d6 (4PM)    |
+| 14th  | 9d6 (4PM)    |
+| 15th  | 11d6 (5PM)   |
+| 16th  | 11d6 (5PM)   |
+| 17th  | 11d6 (5PM)   |
+| 18th  | 13d6 (6PM)   |
+| 19th  | 13d6 (6PM)   |
+| 20th  | 13d6 (6PM)   |
 
 }}
 
-**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM this dasmage increases by +1d6.
+**SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. At every odd level you can spend 1PM to increases the damage by +1d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -85,4 +85,14 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 **TODO: reword later**
 
-A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos funcionam como ataques furtivos normais, mas com um custo de dados do ataque furtivo.  Alguns podem ter custos a mais.
+A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
+
+- **CD Ataque Ardiloso:**  8 + proficiência + INT
+
+| Nome | Custo | Efeito                                                            | REsistência | Pre-requisitos |
+| ---- | ----- | ----------------------------------------------------------------- | ----------- | -------------- |
+|      | 3d6   | Sofre Stun até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
+|      |       | Cego até tomar dano.                                              |             |                |
+|      |       | Resistência CON                                                   | CON         |                |
+
+\*OBS: "seu" aqui é o ladino
