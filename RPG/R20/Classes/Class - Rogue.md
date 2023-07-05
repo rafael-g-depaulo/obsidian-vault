@@ -15,27 +15,28 @@ FEATURES:
 MULTI_FEATURES:
 
 | Level | Sneak Attack | Cunning Strike |
-| ----- | ------------ | - |
-| 1st   | 1d6          |  |
-| 2nd   | 1d6          |
-| 3rd   | 3d6 (1PM)    | 
-| 4th   | 3d6 1PM)     |
-| 5th   | 3d6 1PM)     |
-| 6th   | 5d6 (2PM)    |
-| 7th   | 5d6 (2PM)    |
-| 8th   | 5d6 (2PM)    |
-| 9th   | 7d6 (3PM)    |
-| 10th  | 7d6 (3PM)    |
-| 11th  | 7d6 (3PM)    |
-| 12th  | 9d6 (4PM)    |
-| 13th  | 9d6 (4PM)    |
-| 14th  | 9d6 (4PM)    |
-| 15th  | 11d6 (5PM)   |
-| 16th  | 11d6 (5PM)   |
-| 17th  | 11d6 (5PM)   |
-| 18th  | 13d6 (6PM)   |
-| 19th  | 13d6 (6PM)   |
-| 20th  | 13d6 (6PM)   |
+| ----- | ------------ | -------------- |
+| 1st   | 1d6          | -              |
+| 2nd   | 1d6          | -              |
+| 3rd   | 3d6 (1PM)    | 2              |
+| 4th   | 3d6 1PM)     | 2              |
+| 5th   | 3d6 1PM)     | 2              |
+| 6th   | 5d6 (2PM)    | 2              |
+| 7th   | 5d6 (2PM)    | 3              |
+| 8th   | 5d6 (2PM)    | 3              |
+| 9th   | 7d6 (3PM)    | 3              |
+| 10th  | 7d6 (3PM)    | 3              |
+| 11th  | 7d6 (3PM)    | 4              |
+| 12th  | 9d6 (4PM)    | 4              |
+| 13th  | 9d6 (4PM)    | 4              |
+| 14th  | 9d6 (4PM)    | 4              |
+| 15th  | 11d6 (5PM)   | 5              |
+| 16th  | 11d6 (5PM)   | 5              |
+| 17th  | 11d6 (5PM)   | 5              |
+| 18th  | 13d6 (6PM)   | 5              |
+| 19th  | 13d6 (6PM)   | 6              |
+| 20th  | 13d6 (6PM)   | 6              |
+
 }}
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
@@ -82,6 +83,10 @@ removido pq cunning action foi adicionado como feat de especialista
 - **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
 - **Veneno Potente**. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
+
+- **Ataque Ardiloso.** Você aprende 2 ataques ardilosos.
+
+- **Ardiloso ao Quadrado.** Você pode fazer 2 ataques ardilosos no mesmo ataque furtivo  (somando o custo dos 2).
 
 ### Ataque Ardiloso
 

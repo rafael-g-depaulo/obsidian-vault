@@ -13,28 +13,28 @@
 
 {{classTable,decoration,frame
 ##### Rogue
-| Level | Proficiency Bonus | Features |Sneak Attack | 
-| :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Sneak Attack | 1d6 |
-| 2nd | +1 | Rogue Feat, Expertise | 1d6 |
-| 3rd | +2 | Rogue Feat, Cunning Action | 3d6 (1PM) |
-| 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 1PM) |
-| 5th | +3 | Rogue Feat | 3d6 1PM) |
-| 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) |
-| 7th | +4 | Rogue Feat | 5d6 (2PM) |
-| 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) |
-| 9th | +5 | Rogue Feat | 7d6 (3PM) |
-| 10th | +5 | Rogue Feat, Attribute Score Improvement | 7d6 (3PM) |
-| 11th | +6 | Rogue Feat | 7d6 (3PM) |
-| 12th | +6 | Rogue Feat, Attribute Score Improvement | 9d6 (4PM) |
-| 13th | +7 | Rogue Feat | 9d6 (4PM) |
-| 14th | +7 | Rogue Feat | 9d6 (4PM) |
-| 15th | +8 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) |
-| 16th | +8 | Rogue Feat | 11d6 (5PM) |
-| 17th | +9 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) |
-| 18th | +9 | Rogue Feat | 13d6 (6PM) |
-| 19th | +10 | Rogue Feat, Attribute Score Improvement | 13d6 (6PM) |
-| 20th | +10 | Rogue Feat | 13d6 (6PM) |
+| Level | Proficiency Bonus | Features |Sneak Attack | Cunning Strike | 
+| :---: | :---------------: | :------- | :----: |:----: |
+| 1st | +1 | Sneak Attack | 1d6 | - |
+| 2nd | +1 | Rogue Feat, Expertise | 1d6 | - |
+| 3rd | +2 | Rogue Feat, Cunning Action | 3d6 (1PM) | 2 |
+| 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 1PM) | 2 |
+| 5th | +3 | Rogue Feat | 3d6 1PM) | 2 |
+| 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 2 |
+| 7th | +4 | Rogue Feat | 5d6 (2PM) | 3 |
+| 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 3 |
+| 9th | +5 | Rogue Feat | 7d6 (3PM) | 3 |
+| 10th | +5 | Rogue Feat, Attribute Score Improvement | 7d6 (3PM) | 3 |
+| 11th | +6 | Rogue Feat | 7d6 (3PM) | 4 |
+| 12th | +6 | Rogue Feat, Attribute Score Improvement | 9d6 (4PM) | 4 |
+| 13th | +7 | Rogue Feat | 9d6 (4PM) | 4 |
+| 14th | +7 | Rogue Feat | 9d6 (4PM) | 4 |
+| 15th | +8 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) | 5 |
+| 16th | +8 | Rogue Feat | 11d6 (5PM) | 5 |
+| 17th | +9 | Rogue Feat, Attribute Score Improvement | 11d6 (5PM) | 5 |
+| 18th | +9 | Rogue Feat | 13d6 (6PM) | 5 |
+| 19th | +10 | Rogue Feat, Attribute Score Improvement | 13d6 (6PM) | 6 |
+| 20th | +10 | Rogue Feat | 13d6 (6PM) | 6 |
 }}
 
 
@@ -42,7 +42,7 @@
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-**Ataque Ardiloso (Cunning Strike)**. can learn 2 cool attacks, and on sneak attacks can spend sneak attack dice to add effects to the attack. learn more at later levels (very few). can change on level up.
+**Ataque Ardiloso (Cunning Strike)**. No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro.
 
 ### Rogue Feats
 
@@ -82,6 +82,10 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - **Veneno Potente**. A CD para resistir aos venenos que você usa aumenta em +2 e esses venenos causam +1 ponto de dano por dado de dano. Pré-requisito: INT 15
 
+- **Ataque Ardiloso.** Você aprende 2 ataques ardilosos.
+
+- **Ardiloso ao Quadrado.** Você pode fazer 2 ataques ardilosos no mesmo ataque furtivo  (somando o custo dos 2).
+
 ### Ataque Ardiloso
 
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
@@ -89,19 +93,19 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 - **CD Ataque Ardiloso:**  8 + proficiência + INT
 
 {{wide
-{{vertical-spacer}}
+{{}}
 #### Ataque Ardiloso
 
-| Nome | Custo | Efeito                                                            | Resistência | Pre-requisitos |
-| ---- | ----- | ----------------------------------------------------------------- | ----------- | -------------- |
-|      | 3d6   | Sofre Stun até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
-|      | 2d6   | Cego até tomar dano.                                              | DEX         |                |
-|      | 1d6   | Lento  (velocidade/2)                                             | CON         |                |
-|      | 2d6   | Vulnerável (-2 defesa)                                            | DEX         | Ladino nível 6 |
-|      | 1d6   | Diminue a iniciativa em 5                                         | STR         |                |
-|      | 2d6   | Caído (Prone)                                                     | STR         |                |
-|      | 2d6   | Ganha 1 nível de Exaustão                                         | CON         | Ladino nível 8 |
-|      | 1d6   | alguma coisa com veneno e itens alquímicos      (aplica de graça) | -           |                |
+| Nome                | Custo | Efeito                                                           | Resistência | Pre-requisitos |
+| ------------------- | ----- | ---------------------------------------------------------------- | ----------- | -------------- |
+| Acertar Nervo       | 3d6   | Atordoado até o final do seu\* próximo turno, ou até tomar dano. | CON         | Ladino nível 5 |
+| Mirar nos Olhos     | 2d6   | Cego até tomar dano.                                             | DEX         |                |
+| Cortar Tendões      | 1d6   | Lento  (velocidade/2)                                            | CON         |                |
+| Quebrar Armadura    | 2d6   | Vulnerável (-2 defesa)                                           | DEX         | Ladino nível 6 |
+| Distrair            | 1d6   | Diminue a iniciativa em 5                                        | STR         |                |
+| Tropeçar            | 2d6   | Caído (Prone)                                                    | STR         |                |
+| Sangramento Extremo | 2d6   | Ganha 1 nível de Exaustão                                        | CON         | Ladino nível 8 |
+| Lâmina Envenenada   | 1d6   | O ataque também aplica um item alquímico de sua escolha          | -           | INT 13         |
 
 \*OBS: "seu" aqui é o ladino, não o alvo
 }}
