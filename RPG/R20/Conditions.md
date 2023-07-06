@@ -1,9 +1,16 @@
 # Conditions
 
-### Prone
+### Caído (Prone)
+Um personagem caído tem metade da sua velocidade de movimento, tem -2 de defesa contra ataques corpo-a-corpo e +2 contra ataques a distância. Se levantar requer uma ação de movimento. Um personagem pode tentar se levantar como ação livre, e consegue se passar em um teste de acrobacia (CD 14)
+
 Prone target has movement speed halved, -2 defense against melee attacks and +2 against ranged ones. Standing up from prone takes a movement action. A prone target can once per turn attempt to stand up as a free action, if they pass a DC 14 Acrobatics test
 
-### Exhaustion
+### Exaustão (Exhaustion)
+Para cada nível de exaustão (até 10) que um personagem tiver, ele tem:
+- -1 em todas as rolagens de d20
+- -1 para os CDs de suas habilidades e magias
+Se um personagem ganhar um nível de exaustão quando já tem 10, ele morre.
+
 For every level of exhaustion (up to 10) a character has, they have:
 - -1 to all d20 rolls
 - -1 all of their Save DCs
@@ -15,7 +22,12 @@ If a character reaches 11th level of exhaustion, they die.
 ### Burning
 Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.
 
-### Frightened
+### Amedrontado (Frightened)
+Uma criatura amedrontada tem:
+- desvantagem em rolagens em ações contra a fonte do medo
+- gasta todo o seu movimento disponível fugindo da fonte do medo, a não ser que passe em um teste de resistência de Presença (CD 10)\*
+	- OBS: Se o efeito do medo envolver um teste de resistência 
+
 A frightened has disadvantage on all rolls made against the source of their fright. At the start of their turn, the frightened creature must succeed on a DC 10 Presence save (or the DC of the fear effect -5, whichever is higher), or they spend all their movement running away from the source of their fear. If the fear effect involves a save each turn, the creature makes one save and considers its result for both the effect save and the "run away" save.
 
 ### Paralyzed
