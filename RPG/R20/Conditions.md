@@ -25,8 +25,8 @@ Burning targets take damage at the start of their turn and have disadvantage on 
 ### Amedrontado (Frightened)
 Uma criatura amedrontada tem:
 - desvantagem em rolagens em ações contra a fonte do medo
-- gasta todo o seu movimento disponível fugindo da fonte do medo, a não ser que passe em um teste de resistência de Presença (CD 10)\*
-	- OBS: Se o efeito do medo envolver um teste de resistência 
+- gasta todo o seu movimento disponível fugindo da fonte do medo, a não ser que passe em um teste de resistência de Presença (CD max(10, CD do efeito que causou medo -5))\*
+	- OBS: Se o efeito do medo envolver um teste de resistência a cada turno, a criatura amedrontada só faz um teste, e usa o resultado para o efeito de medo e para o movimento forçado
 
 A frightened has disadvantage on all rolls made against the source of their fright. At the start of their turn, the frightened creature must succeed on a DC 10 Presence save (or the DC of the fear effect -5, whichever is higher), or they spend all their movement running away from the source of their fear. If the fear effect involves a save each turn, the creature makes one save and considers its result for both the effect save and the "run away" save.
 
@@ -36,11 +36,11 @@ A paralyzed creature is incapacitated (see the condition) and can’t move or sp
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
-### Blinded
+### Cego (Blinded)
 • A blinded creature can’t see and automatically fails any ability check that requires sight.
 • Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 
-## Light and vision
+### Light and vision
 A given area might be lightly or heavily obscured. In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Perception checks that rely on sight.
 
 A heavily obscured area—such as darkness, opaque
@@ -48,5 +48,5 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
-## Grapple
+### Agarrado (Grapple)
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[RPG/R20/Combat/Battle Maneuvers]])
