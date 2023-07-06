@@ -11,7 +11,7 @@ OBS: this needs `attack_bonus` and `dmg_bonus` attributes to exist.
 OBS: this needs `attack_bonus` and `dmg_bonus` attributes to exist.
 
 ## Character Attributes
-### attack_mod
+### attack_attb
 ```
 @{STR_mod}
 ```
