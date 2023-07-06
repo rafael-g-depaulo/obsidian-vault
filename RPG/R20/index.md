@@ -12,7 +12,7 @@
 
 ![[Origins]]
 
-![[Proficiency]]
+![[RPG/R20/Proficiency]]
 
 ![[RPG/R20/Feats/index]]
 

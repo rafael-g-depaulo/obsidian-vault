@@ -19,3 +19,7 @@
 ```
 [[ (( [[ceil(floor([[1d20cs>[[20-@{selected|wpn_crit_margin}]] + @{selected|attack_bonus}]]/(20-@{selected|wpn_crit_margin} + @{selected|attack_bonus}))/100)]]*(@{selected|wpn_crit_mult}-1) + 1) * @{selected|wpn_amt_dice})@{selected|wpn_dmg_dice} + @{selected|dmg_bonus} ]]
 ```
+
+```
+[[ceil(floor([[1d20cs>[[20-@{wpn_margin}]] + @{STR} + @{proficiency}]]/(20-@{wpn_margin} + @{STR} + @{proficiency}))/100)]]*(@{wpn_mult}-1) + 1) * @{wpn_dice})@{wpn_dmg} + @{STR}[Força] +5[Estilo de Duas Mãos] ]]
+```

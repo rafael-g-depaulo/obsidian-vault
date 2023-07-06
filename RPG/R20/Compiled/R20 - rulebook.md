@@ -1870,7 +1870,7 @@ Any character can use their Major Action in combat to perform the Attack Action.
 ## Attacking and Defending
 ### Attacking
 ##### Physical Attacks
-To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
+To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[RPG/R20/Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
 
 If making a melee attack:
   - **1d20 + proficiency bonus + Strength modifier**
