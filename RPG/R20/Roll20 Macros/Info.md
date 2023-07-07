@@ -1,3 +1,4 @@
+# Macros
 ## Normal
 ```
 &{template:default} {{name=Info @{selected|character_name} (lv @{selected|Level})}} {{HP=[[@{selected|HP}]]/[[@{selected|HP|max}]]}} {{MP=[[@{selected|MP}]]/[[@{selected|MP|max}]]}} {{Defesa= [[ #defesa ]] }} {{Evasão=[[ #dodge ]] }} {{Guarda=[[ #guard ]] }} {{Velocidade de Movimento=[[ #velocidade-movimento ]] }}
@@ -26,4 +27,11 @@
 ### Defesa
 ```
 10 + [[{#dodge , #guard }kh1]][max(evasão. guarda)]
+```
+
+# Attributes
+## Proficiency
+## STR/DEX/CON/INT/SEN/PRE
+```
+[[floor((@{Força}-10)/2)]][STR]
 ```
