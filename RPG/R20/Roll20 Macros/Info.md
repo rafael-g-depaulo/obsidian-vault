@@ -42,11 +42,13 @@ This requires `Starting-HP` and `Levelup-HP` to be set to a number (arquetype de
 
 ## Max-MP
 ```
+@{Level}*@{MP-per-Level}
 ```
-This requires `MP-per-` and `Levelup-HP` to be set to a number (arquetype defined)
+This requires `MP-per-level` to be set to a number (arquetype defined). If Caster, add @{spellcasting_attb}
 
 ## Proficiency
 ```
+[[ ceil(@{level}/2) ]][proficiência]
 ```
 ## STR/DEX/CON/INT/SEN/PRE
 ```
