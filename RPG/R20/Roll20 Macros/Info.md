@@ -30,7 +30,24 @@
 ```
 
 # Attributes
+## HP/MP (max)
+```
+[[ @{Max-HP} ]]
+```
+## Max-HP
+```
+@{Starting-HP} + (@{level}-1)*@{Levelup-HP} + @{Level}*@{CON}
+```
+This requires `Starting-HP` and `Levelup-HP` to be set to a number (arquetype defined)
+
+## Max-MP
+```
+```
+This requires `MP-per-` and `Levelup-HP` to be set to a number (arquetype defined)
+
 ## Proficiency
+```
+```
 ## STR/DEX/CON/INT/SEN/PRE
 ```
 [[floor((@{Força}-10)/2)]][STR]
