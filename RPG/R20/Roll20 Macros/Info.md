@@ -61,6 +61,14 @@
 ```
 [[ 8+@{proficiency}+@{milagres_attb} ]]
 ```
+### CD-Magias
+```
+[[ 8+@{proficiency}+@{spellcasting_attb} ]]
+```
+### attack-roll
+```
+[[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_bonus}]]/(@{wpn_crit_range} + @{attack_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
+```
 
 ## Archetype
 
@@ -82,3 +90,16 @@
 ```
 @{SEN}
 ```
+
+### Attack Stuff
+
+| Attribute      | value                             |
+| -------------- | --------------------------------- |
+| attack_attb    | `@{STR}`                          |
+| attack_bonus   | `@{attack_attb} + @{proficiency}` |
+| dmg_bonus      | `@{attack_attb}`                  |
+| wpn_amt_dice   | `1`                               |
+| wpn_dmg_dice   | `d12`                             |
+| wpn_crit_range | `20`                              |
+| wpn_crit_mult  | `2`                               |
+
