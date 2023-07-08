@@ -23,6 +23,10 @@ OBS: this needs `attack_bonus` and `dmg_bonus` attributes to exist.
 ```
 @{attack_attb}
 ```
+### attack_roll
+```
+[[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_bonus}]]/(@{wpn_crit_range} + @{attack_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
+```
 ## Character Attack Skill
 ```
 &{template:default} {{name=Ataque (@{character_name})}} #attack {{acerto= $[[2]] }} {{dano=$[[5]] }}
