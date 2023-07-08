@@ -30,27 +30,46 @@
 ```
 
 # Attributes
-## HP/MP (max)
+## User Input
+### HP/MP/FP (max)
 ```
 [[ @{Max-HP} ]]
 ```
-## Max-HP
+
+## General
+### Max-HP
 ```
 @{Starting-HP} + (@{level}-1)*@{Levelup-HP} + @{Level}*@{CON}
 ```
-This requires `Starting-HP` and `Levelup-HP` to be set to a number (arquetype defined)
-
-## Max-MP
+### Max-MP
 ```
-@{Level}*@{MP-per-Level}
+@{Level}*@{MP-per-Level} + @{Bonus-MP}
 ```
-This requires `MP-per-level` to be set to a number (arquetype defined). If Caster, add @{spellcasting_attb}
+### Max-FP
+```
+@{Level}*5
+```
 
-## Proficiency
+### Proficiency
 ```
 [[ ceil(@{level}/2) ]][proficiência]
 ```
-## STR/DEX/CON/INT/SEN/PRE
+### STR/DEX/CON/INT/SEN/PRE
 ```
 [[floor((@{Força}-10)/2)]][STR]
 ```
+
+## Archetype
+
+| attribute    | caster                                        | off-caster                                  | martial | specialist |
+| ------------ | --------------------------------------------- | ------------------------------------------- | ------- | ---------- |
+| CD-Magias    | `[[ 8+@{proficiency}+@{spellcasting_attb} ]]` | `[[ 8+@{proficiency}+@{spellcasting_attb]]` |         |            |
+| Starting-HP  | 8                                             |                                             |         |            |
+| Levelup-HP   | 2                                             |                                             |         |            |
+| MP-per-Level |                                               |                                             |         |            |
+| Bonus-MP     | `@{spellcasting_attb}`                        | `@{spellcasting_attb}`                      | 0       | 0           |
+
+## Class
+
+## Character Specific
+
