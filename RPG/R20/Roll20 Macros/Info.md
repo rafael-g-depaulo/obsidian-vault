@@ -94,12 +94,16 @@
 | ------------ | ---------------------- | ---------------------- | ------- | ---------- |
 | Starting-HP  | 8                      | 14                     | 18      |            |
 | Levelup-HP   | 2                      | 3                      | 5       |            |
-| MP-per-Level | 6                      | 4                      | 3       |            |
+| MP-per-Level | 6                      | 4                      | 3       |            | 
 | Bonus-MP     | `@{spellcasting_attb}` | `@{spellcasting_attb}` | 0       | 0          |
 
 ## Class
 ### prof_{ATB}
 0 ou `@{proficiency}`
+### spellcasting_attb
+```
+@{SEN}
+```
 
 ## Character Specific
 ### movespeed_bonus
