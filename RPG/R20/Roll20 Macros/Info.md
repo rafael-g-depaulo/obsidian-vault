@@ -72,18 +72,17 @@
 ```
 ### attack-roll
 ```
-[[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_bonus}]]/(@{wpn_crit_range} + @{attack_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
+[[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{attack_dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_roll_bonus}]]/(@{wpn_crit_range} + @{attack_roll_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
 ```
-
-###  attack_bonus
+###  attack_roll_bonus
 ```
-@{attack_attb} + @{proficiency}
+@{attack_attb} + @{proficiency} + @{attack_bonus}
 ```
-### dmg_bonus
+### attack_dmg_bonus
 ```
-@{attack_attb}
+@{attack_attb} + @{dmg_bonus}
 ```
-### spell_attack_bonus
+### spell_attack_roll_bonus
 ```
 @{spellcasting_attb} + @{proficiency}
 ```
@@ -114,10 +113,12 @@
 
 ### Attack Stuff
 
-| Attribute      | value                             |
-| -------------- | --------------------------------- |
-| attack_attb    | `@{STR}`                          |
-| wpn_amt_dice   | `1`                               |
-| wpn_dmg_dice   | `d12`                             |
-| wpn_crit_range | `20`                              |
-| wpn_crit_mult  | `2`                               |
+| Attribute      | value    |
+| -------------- | -------- |
+| attack_attb    | `@{STR}` |
+| attack_bonus   | `0`      | 
+| dmg_bonus      | `0`      |
+| wpn_amt_dice   | `1`      |
+| wpn_dmg_dice   | `d12`    |
+| wpn_crit_range | `20`     |
+| wpn_crit_mult  | `2`      |
