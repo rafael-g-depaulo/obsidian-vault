@@ -49,7 +49,7 @@
 ```
 @{Level}*5
 ```
-### Proficiency
+### proficiency
 ```
 [[ ceil(@{level}/2) ]][proficiência]
 ```
@@ -92,9 +92,9 @@
 
 | attribute    | caster                 | off-caster             | martial | specialist |
 | ------------ | ---------------------- | ---------------------- | ------- | ---------- |
-| Starting-HP  | 8                      |                        |         |            |
-| Levelup-HP   | 2                      |                        |         |            |
-| MP-per-Level |                        |                        |         |            |
+| Starting-HP  | 8                      | 14                     | 18      |            |
+| Levelup-HP   | 2                      | 3                      | 5       |            |
+| MP-per-Level | 6                      | 4                      | 3       |            |
 | Bonus-MP     | `@{spellcasting_attb}` | `@{spellcasting_attb}` | 0       | 0          |
 
 ## Class
