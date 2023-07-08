@@ -49,7 +49,6 @@
 ```
 @{Level}*5
 ```
-
 ### Proficiency
 ```
 [[ ceil(@{level}/2) ]][proficiência]
@@ -57,6 +56,10 @@
 ### STR/DEX/CON/INT/SEN/PRE
 ```
 [[floor((@{Força}-10)/2)]][STR]
+```
+### CD-Milagres
+```
+[[ 8+@{proficiency}+@{milagres_attb} ]]
 ```
 
 ## Archetype
@@ -70,6 +73,12 @@
 | Bonus-MP     | `@{spellcasting_attb}`                        | `@{spellcasting_attb}`                      | 0       | 0           |
 
 ## Class
+### prof_{ATB}
+0 ou `@{proficiency}`
 
 ## Character Specific
-
+### movespeed_bonus
+### milagres_attb
+```
+@{SEN}
+```
