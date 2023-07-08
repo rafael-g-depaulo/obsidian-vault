@@ -56,6 +56,11 @@
 ### STR/DEX/CON/INT/SEN/PRE
 ```
 [[floor((@{Força}-10)/2)]][STR]
+[[floor((@{Destreza}-10)/2)]][DEX]
+[[floor((@{Constituição}-10)/2)]][CON]
+[[floor((@{Inteligência}-10)/2)]][INT]
+[[floor((@{Sensibilidade}-10)/2)]][SEN]
+[[floor((@{Presença}-10)/2)]][PRE]
 ```
 ### CD-Milagres
 ```
@@ -112,4 +117,3 @@
 | wpn_dmg_dice   | `d12`                             |
 | wpn_crit_range | `20`                              |
 | wpn_crit_mult  | `2`                               |
-
