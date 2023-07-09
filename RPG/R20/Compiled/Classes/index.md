@@ -378,6 +378,21 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **TODO:** Mais poderes para palavras afiadas
 
+
+ideas change initiative of self (cost and buff) and others (buff and debuff)
+
+### basic skill:
+-  **change initiative**: movement (1PM): increase or decrease a creature's initiative by 1d8
+### skill 2:
+- **Speed Up:** movement (4PM): Give a free movement action to 2 different allies of your choice
+
+feats:
+- **change initiative** also damages enemies
+- **change initiative** can heal allies
+- **change initiative** can target many at the same time
+- gain more movement actions
+- switch initiative order (from high->low to low->high)
+
 {{pageNumber,auto}}
 \page
 # Dancer (Specialist)
@@ -940,7 +955,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 | Mirar nos Olhos     | 2d6   | Cego até tomar dano.                                             | DEX         |                |
 | Cortar Tendões      | 1d6   | Lento  (velocidade/2)                                            | CON         |                |
 | Quebrar Armadura    | 2d6   | Vulnerável (-2 defesa)                                           | DEX         | Ladino nível 6 |
-| Distrair            | 1d6   | Diminue a iniciativa em 5                                        | STR         |                |
+| Distrair            | 1d6   | Diminui a iniciativa em 5                                        | STR         |                |
 | Tropeçar            | 2d6   | Caído (Prone)                                                    | STR         |                |
 | Sangramento Extremo | 2d6   | Ganha 1 nível de Exaustão                                        | CON         | Ladino nível 8 |
 | Lâmina Envenenada   | 1d6   | O ataque também aplica um item alquímico de sua escolha          | -           | INT 13         |
@@ -1261,15 +1276,6 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
-TODO: add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
-Witches Brew: combination of effects (decide some, roll for most). all effects have a positive and a negative.
-
-ex:
-
-- bonus on skill checks & take damage
-- heal + disadvantage on initiative
-- mana + no extra crit damage (too weak? prolly change)
-
 ### Witch Feats
 
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
@@ -1307,8 +1313,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 | Efeito Primário                       | 1d4 |
 |:------------------------------------- |:---:|
-| Recebe 1d6 cura                       |  1  |
-| Recebe 1d4 MP temporário              |  2  |
+| Recebe 2d6 cura                       |  1  |
+| Recebe 2d4 MP temporário              |  2  |
 | +PRE rolagens de resistência e defesa |  3  |
 | +PRE velocidade de movimento e ataque |  4  |
 
@@ -1321,6 +1327,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+
 
 ### Hex List:
 

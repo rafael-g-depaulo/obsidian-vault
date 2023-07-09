@@ -801,6 +801,21 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **TODO:** Mais poderes para palavras afiadas
 
+
+ideas change initiative of self (cost and buff) and others (buff and debuff)
+
+### basic skill:
+-  **change initiative**: movement (1PM): increase or decrease a creature's initiative by 1d8
+### skill 2:
+- **Speed Up:** movement (4PM): Give a free movement action to 2 different allies of your choice
+
+feats:
+- **change initiative** also damages enemies
+- **change initiative** can heal allies
+- **change initiative** can target many at the same time
+- gain more movement actions
+- switch initiative order (from high->low to low->high)
+
 {{pageNumber,auto}}
 \page
 # Dancer (Specialist)
@@ -1363,7 +1378,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 | Mirar nos Olhos     | 2d6   | Cego até tomar dano.                                             | DEX         |                |
 | Cortar Tendões      | 1d6   | Lento  (velocidade/2)                                            | CON         |                |
 | Quebrar Armadura    | 2d6   | Vulnerável (-2 defesa)                                           | DEX         | Ladino nível 6 |
-| Distrair            | 1d6   | Diminue a iniciativa em 5                                        | STR         |                |
+| Distrair            | 1d6   | Diminui a iniciativa em 5                                        | STR         |                |
 | Tropeçar            | 2d6   | Caído (Prone)                                                    | STR         |                |
 | Sangramento Extremo | 2d6   | Ganha 1 nível de Exaustão                                        | CON         | Ladino nível 8 |
 | Lâmina Envenenada   | 1d6   | O ataque também aplica um item alquímico de sua escolha          | -           | INT 13         |
@@ -1684,15 +1699,6 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
-TODO: add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
-Witches Brew: combination of effects (decide some, roll for most). all effects have a positive and a negative.
-
-ex:
-
-- bonus on skill checks & take damage
-- heal + disadvantage on initiative
-- mana + no extra crit damage (too weak? prolly change)
-
 ### Witch Feats
 
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
@@ -1730,8 +1736,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 | Efeito Primário                       | 1d4 |
 |:------------------------------------- |:---:|
-| Recebe 1d6 cura                       |  1  |
-| Recebe 1d4 MP temporário              |  2  |
+| Recebe 2d6 cura                       |  1  |
+| Recebe 2d4 MP temporário              |  2  |
 | +PRE rolagens de resistência e defesa |  3  |
 | +PRE velocidade de movimento e ataque |  4  |
 
@@ -1744,6 +1750,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+
 
 ### Hex List:
 
@@ -1837,9 +1845,8 @@ For each round of combat (equivalent to ~6s of real time), each character takes 
 ## Combat Actions
 
 ### Endurance
-**Endurance (Ignorar Arranhões):** Movement action (2MP): for the rest of the scene, all non-psychic damage you take that's equal or below your Guard is reduced to 0. This does not affect "DoT" or environmental damage (e.g.: burning, walking on a corrosive substance, bleeding, gradual poisoning, etc.)
 
-OBS: the DM may rule that any specific instance of damage may or may not ignore Endurance depending on the situation, at their discretion.
+
 
 **Ignorar Arranhões:** Movimento (2PM): Pelo resto da cena, todo dano que você tomar igual ou inferior a sua **Guarda** é ignorado. **Ignorar Arranhões** não é aplicado em dano psíquico, "DoT" ou dano ambiental (estar em chamas, andar em ácido, sangramento, etc.)
 
@@ -1847,7 +1854,8 @@ OBS: the DM may rule that any specific instance of damage may or may not ignore 
 Below is the definition of the Uncanny Dodge ability, that all characters can perform:
 
 
-**"de Raspão".** (tomando dano) Reação (3PM): Ignore o dano, e aumente o custo dessa habilidade em +3PM pela cena. Você não pode usar **"de Raspão"** se custar mais que a sua **Evasão**.
+
+**"de Raspão".** (tomando dano) Reação (3PM): Ignore o dano, caia no chão (ver condição: caído), e aumente o custo dessa habilidade em +3PM pela cena. Você não pode usar **"de Raspão"** se custar mais que a sua **Evasão**.
 
 Example Use: Fibi has 8 Guard and 7 Dodge. Fibi has 18 AC (someone trying to attack them has to roll a 18 or higher to hit them), can use Uncanny Dodge up to 2 times per scene, and their Endurance allows them to shrug off attacks of 8 or less points of damage. If they use Endurance and take 3 attacks dealing 7, 14 and 5 damage, the first and third attacks have their damage reduced to 0.
 
@@ -5209,10 +5217,17 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 \page
 # Conditions
 
-### Prone
+### Caído (Prone)
+Um personagem caído tem metade da sua velocidade de movimento, tem -2 de defesa contra ataques corpo-a-corpo e +2 contra ataques a distância. Se levantar requer uma ação de movimento. Um personagem pode tentar se levantar como ação livre, e consegue se passar em um teste de acrobacia (CD 14)
+
 Prone target has movement speed halved, -2 defense against melee attacks and +2 against ranged ones. Standing up from prone takes a movement action. A prone target can once per turn attempt to stand up as a free action, if they pass a DC 14 Acrobatics test
 
-### Exhaustion
+### Exaustão (Exhaustion)
+Para cada nível de exaustão (até 10) que um personagem tiver, ele tem:
+- -1 em todas as rolagens de d20
+- -1 para os CDs de suas habilidades e magias
+Se um personagem ganhar um nível de exaustão quando já tem 10, ele morre.
+
 For every level of exhaustion (up to 10) a character has, they have:
 - -1 to all d20 rolls
 - -1 all of their Save DCs
@@ -5224,7 +5239,12 @@ If a character reaches 11th level of exhaustion, they die.
 ### Burning
 Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.
 
-### Frightened
+### Amedrontado (Frightened)
+Uma criatura amedrontada tem:
+- desvantagem em rolagens em ações contra a fonte do medo
+- gasta todo o seu movimento disponível fugindo da fonte do medo, a não ser que passe em um teste de resistência de Presença (CD max(10, CD do efeito que causou medo -5))\*
+	- OBS: Se o efeito do medo envolver um teste de resistência a cada turno, a criatura amedrontada só faz um teste, e usa o resultado para o efeito de medo e para o movimento forçado
+
 A frightened has disadvantage on all rolls made against the source of their fright. At the start of their turn, the frightened creature must succeed on a DC 10 Presence save (or the DC of the fear effect -5, whichever is higher), or they spend all their movement running away from the source of their fear. If the fear effect involves a save each turn, the creature makes one save and considers its result for both the effect save and the "run away" save.
 
 ### Paralyzed
@@ -5233,11 +5253,11 @@ A paralyzed creature is incapacitated (see the condition) and can’t move or sp
 ### Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
 
-### Blinded
+### Cego (Blinded)
 • A blinded creature can’t see and automatically fails any ability check that requires sight.
 • Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
 
-## Light and vision
+### Light and vision
 A given area might be lightly or heavily obscured. In a lightly obscured area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Perception checks that rely on sight.
 
 A heavily obscured area—such as darkness, opaque
@@ -5245,33 +5265,79 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
-## Grapple
+### Agarrado (Grapple)
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[RPG/R20/Combat/Battle Maneuvers]])
 
 
+{{pageNumber,auto}}
+\page
+# Rest & Recovery
+An adventuring character recovers HP and MP mainly through resting.
 
-  |Atletismo, @{PC Template|skill_atletics}
-  |Acrobacia, @{PC Template|skill_acrobatics}
-  |Iniciativa, @{PC Template|skill_iniciative}
-  |Furtividade, @{PC Template|skill_stealth}
-  |Ladinagem, @{PC Template|skill_sleight}
-  |Sobrevivência, @{PC Template|skill_survival}
-  |Investigação, @{PC Template|skill_investigation}
-  |Lógica, @{PC Template|skill_logic}
-  |História, @{PC Template|skill_history}
-  |Medicina, @{PC Template|skill_medicine}
-  |Botânica, @{PC Template|skill_botanic}
-  |Percepção, @{PC Template|skill_perception}
-  |Empatia, @{PC Template|skill_empathy}
-  |Intuição, @{PC Template|skill_insight}
-  |Arcana, @{PC Template|skill_arcana}
-  |Adestramento, @{PC Template|skill_handling}
-  |Cozinhar, @{PC Template|skill_cooking}
-  |Enganação, @{PC Template|skill_deception}
-  |Intimidação, @{PC Template|skill_intimidation}
-  |Persuasão, @{PC Template|skill_persuasion}
-  |Performance, @{PC Template|skill_performance}
+## Provisions
+Food, firewood, water... to properly rest, a party needs to expend some provisions. To avoid tracking everything individually, it's recommended to simply have recorded how much money the party has in supplies.
 
+## How to recover
+When the party decides to rest, they set up camp for the night.
+
+### Difficulty and Rest CR
+The DM chooses the base difficulty for the rest. Chose a base condition level for the situation, with 8 being a favorable and easy condition, and the higher the number, the more harsh the conditions.
+
+### Expending Provisions
+When resting, expending more or less resources has an effect on the quality of the teams' sleep. This gives that character a bonus for their Survival Roll for the rest.
+
+| amount spent per person | Bonus to Roll |
+| ----------------------- | ------------- |
+| 0                       | -3            |
+| 2 silver                | -1            |
+| 5 silver                | 0             |
+| 20 silver               | +1            |
+| 50 silver               | +2            |
+| 150 silver              | +3            |
+
+### Improving the condition
+A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
+
+If they pass the check, all who eat their cooking receive a +2 bonus on this rest. For every 5 above the CD, increase that by +2.
+
+### Result
+After expending provisions and optionally trying to improve the condition with a skill roll, all characters roll Survival against the Rest DC. The overall rest condition is determined as such:
+
+| Roll                 | Condition             |
+| -------------------- | --------------------- |
+| Failed               | Poor Condition        |
+| Passed               | Normal Condition      |
+| Passed by 5 or more  | Good Condition        |
+| Passed by 10 or more | Exceptional Condition |
+
+Consult the table below to see how the rest affected the characters.
+
+| Condition             | HP Recovery | MP Recovery | Duration | Exhaustion        |
+| --------------------- | ----------- | ----------- | -------- | ----------------- |
+| Poor Condition         | 0           | level/2     | 5 hours  | See below         |
+| Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
+| Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
+| Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
+| Full Reset            | 100%        | 100%        | 1 week   | fully recovers    |
+
+**Poor Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
+
+#### Descriptions and examples of resting conditions
+- **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
+- **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a night-watch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
+- **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
+
+## Skipping a Rest
+When skipping a Rest, a character needs to roll a CON or PRE saving throw with DC equal to:
+- **15 + 5 \* \# of consecutive days not having slept** 
+(1st day: 15, 2nd -> 20, 3rd -> 25,...)
+
+If they fail the character gains 1 level of exhaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exhaustion levels)
+
+## Regra Opcional: Mantimentos automáticos
+Para grupos que preferirem não lidar com gerenciamento de mantimentos ao longo de viagens longas, uma opção recomendada é ignorar as regras de mantimentos, e considerar que todas as rolagens de descanso são feitas com 5 ou 20 pratas.
 
 {{pageNumber,auto}}
 \page

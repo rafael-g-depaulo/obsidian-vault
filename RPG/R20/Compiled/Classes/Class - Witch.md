@@ -45,15 +45,6 @@
 
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
-TODO: add witches brews (out of combat potions with healing and random effects. good way to spend more PM)
-Witches Brew: combination of effects (decide some, roll for most). all effects have a positive and a negative.
-
-ex:
-
-- bonus on skill checks & take damage
-- heal + disadvantage on initiative
-- mana + no extra crit damage (too weak? prolly change)
-
 ### Witch Feats
 
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
@@ -91,8 +82,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 | Efeito Primário                       | 1d4 |
 |:------------------------------------- |:---:|
-| Recebe 1d6 cura                       |  1  |
-| Recebe 1d4 MP temporário              |  2  |
+| Recebe 2d6 cura                       |  1  |
+| Recebe 2d4 MP temporário              |  2  |
 | +PRE rolagens de resistência e defesa |  3  |
 | +PRE velocidade de movimento e ataque |  4  |
 
@@ -105,6 +96,8 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+
 
 ### Hex List:
 
