@@ -100,7 +100,7 @@
 ```
 ### defense
 ```
-[[ 10 + [[{@{guard},@{dodge}}kh1]][max(guarda, evasão)] ]]
+[[ 10 + [[{@{guard},@{dodge}}kh1]][max(guarda, evasão)] + @{bonus_defense} ]]
 ```
 ### move_speed
 ```
@@ -206,7 +206,6 @@
 ```
 @{SEN}
 ```
-
 ### Attack Stuff
 
 | Attribute      | value    |
@@ -218,3 +217,8 @@
 | wpn_dmg_dice   | `d12`    |
 | wpn_crit_range | `20`     |
 | wpn_crit_mult  | `2`      |
+
+### Defense Stuff
+#### bonus_dodge
+#### bonus_guard
+#### bonus_defense
