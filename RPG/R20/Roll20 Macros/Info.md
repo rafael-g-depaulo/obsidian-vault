@@ -88,20 +88,28 @@
 ```
 ### guard
 ```
-@{CON} + @{bonus_guard}
+[[ @{CON} + @{bonus_guard} ]]
 ```
 ### dodge
 ```
-@{DEX} + @{bonus_dodge}
+[[ @{DEX} + @{bonus_dodge} ]]
 ```
 ### defense
 ```
-
+[[ 10 + [[{@{guard},@{dodge}}kh1]][max(guarda, evasão)] ]]
+```
+### move_speed
+```
+[[ [[{4,5+@{STR},8}kl2dl1]][5+STR] + @{movespeed_bonus} ]]
+```
+### Info
+```
+&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
 ```
 ### Info-Paladino
 ```
-```
-### 
+&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{FP=[[@{FP}]]/[[@{Max-FP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
+``` 
 
 ## Archetype
 
