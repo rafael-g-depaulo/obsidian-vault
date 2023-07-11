@@ -74,7 +74,7 @@
 ```
 [[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{attack_dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_roll_bonus}]]/(@{wpn_crit_range} + @{attack_roll_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
 ```
-###  attack_roll_bonus
+### attack_roll_bonus
 ```
 @{attack_attb} + @{proficiency} + @{attack_bonus}
 ```
@@ -86,6 +86,22 @@
 ```
 @{spellcasting_attb} + @{proficiency}
 ```
+### guard
+```
+@{CON} + @{bonus_guard}
+```
+### dodge
+```
+@{DEX} + @{bonus_dodge}
+```
+### defense
+```
+
+```
+### Info-Paladino
+```
+```
+### 
 
 ## Archetype
 
