@@ -8,4 +8,6 @@ Se
 
 Ah, Nay. Agora que a gente tem o conceito de todos os personagens, eu tava pensando se a gente já não definia as posições iniciais dos personagens no início da história.
 
-Já sabemos que o Salazar (PC do moisés) e Conri (PC do cabral) são nativos de Barovia e começam juntos, com o Conri sendo um lobisomem pacifista que foi capturado e entregue na custódia dos Vistanis, e o Salazar é um jovem Vistani que ficou responsável por cuidar do Conri na sua situação que é meio que uma prisão em regime semi-aberto
+Já sabemos que o Salazar (PC do moisés) e Conri (PC do cabral) são nativos de Barovia e começam juntos, com o Conri sendo um lobisomem pacifista que foi capturado e entregue na custódia dos Vistanis, e o Salazar é um jovem Vistani que ficou responsável por cuidar do Conri na sua situação que é meio que uma prisão em regime semi-aberto.
+
+Com o Sola-ím (PC do David) sendo um morador de fora de baróvia que tem motivos para querer entrar por conta dos objetivos dele com seu deus, eu estava pensando em ter o Aralc (PC da Clara) e u Capri (PC da Mari) serem aventureiros iniciantes que 
