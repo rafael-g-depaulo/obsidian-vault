@@ -124,7 +124,7 @@
 ```
 ### rest_level_minus_1
 ```
-&{template:default} {{name=Descanso (@{character_name})}} {{Qualidade=Ruim}} {{MP=  [[ [[ceil(@{level}/2)]][lv/2] ]] MP recuperado}} {{Descrição=@{character_name} descansa, e apesar de uma noite mal dormida ainda consegue se recuperar um pouco.}} {{Exaustão= Faça um [**teste de resistência (CON)**](`#resist) contra a CD do descanso ($[[0]]). Se falhar, ganha +1 nível de exaustão, +1 para cada 5 abaixo da CD. }}
+&{template:default} {{name=Descanso (@{character_name})}} {{Qualidade=Ruim}} {{MP=  [[ [[ceil(@{level}/2)]][lv/2] ]] MP recuperado}} {{Descrição=@{character_name} descansa, e apesar de uma noite mal dormida ainda consegue se recuperar um pouco.}} {{Exaustão= Faça um [**teste de resistência (CON)**](`@&lbrace;@{character_name}|resist_roll&rbrace;) contra a CD do descanso ($[[0]]). Se falhar, ganha +1 nível de exaustão, +1 para cada 5 abaixo da CD. }}
 ```
 ### rest_level_0
 ```
