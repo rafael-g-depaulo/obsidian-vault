@@ -122,6 +122,19 @@
 ```
 &{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_survival}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](http://journal.roll20.net/handout/-NFZfA6xAZfhnuPElsRH) }}
 ```
+### rest_level_minus_1
+```
+&{template:default} {{name=Descanso (@{character_name})}} {{Qualidade=Ruim}} {{MP=  [[ [[ceil(@{level}/2)]][lv/2] ]] MP recuperado}} {{Descrição=@{character_name} descansa, e apesar de uma noite mal dormida ainda consegue se recuperar um pouco.}} {{Exaustão= Faça um [**teste de resistência (CON)**](`#resist) contra a CD do descanso ($[[0]]). Se falhar, ganha +1 nível de exaustão, +1 para cada 5 abaixo da CD. }}
+```
+### rest_level_0
+```
+```
+### rest_level_1
+```
+```
+### rest_level_2
+```
+```
 ### skill_roll
 ```
 ?{Skill
