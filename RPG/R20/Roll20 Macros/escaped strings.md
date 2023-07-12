@@ -13,3 +13,5 @@
 ```
 &&lbrace;template:default&rbrace; &lbrace;&lbrace;name=NOME_NOME_NOME_NOME_NOME &rbrace;&rbrace; &lbrace;&lbrace;Descrição=NOME_NOME_NOME_NOME_NOME &rbrace;&rbrace;
 ```
+
+@&lbrace;character_name&rbrace; rola iniciativa com &lbrack;&lbrack; 1d20 + @&lbrace;DEX&rbrace; + @&lbrace;skill_iniciative&rbrace;[skill] &{tracker} &rbrack;&rbrack;

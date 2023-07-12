@@ -179,6 +179,10 @@
   |Presença, @{character_name} rola um teste de resistência (PRE) [[1d20+@{PRE} + @{prof_PRE}]]
 }
 ```
+### initiative_roll
+```
+@{character_name} rola iniciativa com [[ 1d20 + @{DEX} + @{skill_iniciativa}[skill] &{tracker} ]]
+```
 ## Archetype
 
 | attribute    | caster                 | off-caster             | martial | specialist |
