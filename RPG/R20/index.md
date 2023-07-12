@@ -26,6 +26,6 @@
 
 ![[Conditions]]
 
-![[Rest]]
+![[RPG/R20/Rest]]
 
 ![[Companions]]
