@@ -28,17 +28,6 @@ $$
 | $\beta$    | $$\begin{equation}\begin{split}\hat\beta=\frac{\sum_i(x_i-\bar{x})(y_i-\bar{y})}{\sum_i(x_i-\bar{x})^2}\end{split}\end{equation}$$ | $$\begin{equation}\begin{split}IC(\beta): \hat\beta\ \pm t_{n-2,\ a/2}\hat\sigma\frac{1}{\sqrt{n\sum(x_i-\bar{x})^2}}\end{split}\end{equation}$$                          |
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Teste de Hipótese
 $$
 \begin{equation}
@@ -48,13 +37,8 @@ T_{obs}=\frac{\hat{\beta} - \beta_0}{\hat{\sigma}^2}\sqrt{\sum (x - \bar{x})^2}
 \end{equation}
 $$
 
+# Cap 4 (teste chi2)
 
-
-
-
-
-
-
-
-
-## Lista 3
+## chi^2
+$$\begin{equation}\begin{split}\chi^2_{obs}=\sum\frac{(f_{observada}-f_{esperada})^2}{f_{esperada}} \\\end{split}\end{equation}$$
+**usando sempre k-1-r no parâmetro da chi²**
