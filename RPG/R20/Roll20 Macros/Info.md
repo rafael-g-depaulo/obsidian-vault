@@ -128,12 +128,15 @@
 ```
 ### rest_level_0
 ```
+&{template:default} {{name=Descanso (@{selected|character_name})}} {{Qualidade=Normal}} {{HP=  [[ [[ceil(@{level}/2)]][lv/2] ]] HP recuperado}} {{MP=  [[ [[ceil(@{level})]][lv] ]] MP recuperado}} {{Exaustão=Recupera de 1 nível de exaustão, se tiver}}
 ```
 ### rest_level_1
 ```
+&{template:default} {{name=Descanso (@{selected|character_name})}} {{Qualidade=Boa}} {{HP=  [[ [[ceil(@{level})]][lv] ]] HP recuperado}} {{MP=  [[ [[ceil(@{level}*2)]][2*lv] ]] MP recuperado}} {{Exaustão=Recupera de 2 níveis de exaustão, se tiver}}
 ```
 ### rest_level_2
 ```
+&{template:default} {{name=Descanso (@{character_name})}} {{Qualidade=Ótima}} {{HP=  [[ [[ceil(@{level}*2)]][2*lv] ]] HP recuperado}} {{MP=  [[ [[ceil(@{level}*3)]][3*lv] ]] MP recuperado}} {{Exaustão=Recupera de 2 níveis de exaustão, se tiver}}
 ```
 ### skill_roll
 ```
