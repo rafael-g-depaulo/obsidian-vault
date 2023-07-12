@@ -5,7 +5,9 @@
 $$
 \begin{equation}
 \begin{split}
-\hat{\beta} = \frac{(\sum x^2 - (\sum x)^2/n)(\sum y^2 - (\sum y)^2/n)}{\sum(x_i-\bar{x})}
+\hat{\beta} = \frac
+{\sum(x_iy_i) - n\bar{x}\bar{y}}
+{\sum x^2 - (\sum x)^2/n}
 \end{split}
 \end{equation}
 $$
