@@ -39,9 +39,14 @@ $$
 
 
 
-
-
-
+## Teste de Hipótese
+$$
+\begin{equation}
+\begin{split}
+T_{obs}=\frac{\hat{\beta} - \beta_0}{\hat{\sigma}^2}\sqrt{\sum (x - \bar{x})^2}
+\end{split}
+\end{equation}
+$$
 
 
 
