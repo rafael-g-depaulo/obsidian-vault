@@ -82,9 +82,9 @@
 ```
 @{attack_attb} + @{proficiency} + @{attack_bonus}
 ```
-### attack_roll_2 (needs attack_attb_2)
+### attack_roll_2
 ```
-[[ @{wpn_amt_dice}@{wpn_dmg_dice}[base] + @{attack_dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_crit_range} + @{attack_roll_bonus}]]/(@{wpn_crit_range} + @{attack_roll_bonus}))/1000)]]*(@{wpn_crit_mult} - 1) * @{wpn_amt_dice})@{wpn_dmg_dice}[crit] ]]
+[[ @{wpn_2_amt_dice}@{wpn_2_dmg_dice}[base] + @{attack_dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_2_crit_range} + @{attack_roll_2_bonus}]]/(@{wpn_2_crit_range} + @{attack_roll_2_bonus}))/1000)]]*(@{wpn_2_crit_mult} - 1) * @{wpn_2_amt_dice})@{wpn_2_dmg_dice}[crit] ]]
 ```
 ### attack_roll_2_bonus
 ```
@@ -122,6 +122,14 @@
 ```
 &{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{FP=[[@{FP}]]/[[@{Max-FP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
 ``` 
+### De-Raspão
+```
+&{template:default} {{name=De Raspão (@{character_name})}} {{Execução=Reação (ao tomar dano)}} {{Custo=3PM}} {{Descrição=Você ignora o dano que ia receber, e aumenta o custo dessa habilidade em +3 PM pelo resto da cena. Você não pode executar "de Raspão" se custar mais do que a sua Evasão }} {{Evasão= @{dodge} }}
+```
+### Ignorar-Arranhões
+```
+&{template:default} {{name=Ignorar Arranhões (@{character_name})}} {{Execução=Movimento}} {{Custo=2PM}} {{Descrição=Pelo resto da cena, todo dano que você tomar igual ou inferior a @{guard} (sua Guarda) é ignorado.}}
+```
 ### rest_supplies (para usar regra sem mantimentos, coloque um default em vez da query)
 ```
 ?{Mantimentos|Passando Fome,-3[Fome] |Racionando (2pr),-1[Racionando] |Humilde (5pr),0[Humilde] |Confortável (20pr),+1[Confortável] |Luxuoso (50pr), +2[Luxuoso] |Ostentando (15g), +3[Ostentando]}
