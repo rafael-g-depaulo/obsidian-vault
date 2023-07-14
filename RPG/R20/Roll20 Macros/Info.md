@@ -1,32 +1,7 @@
 # Macros
-## Normal
+### rest_rules_link
 ```
-&{template:default} {{name=Info @{selected|character_name} (lv @{selected|Level})}} {{HP=[[@{selected|HP}]]/[[@{selected|HP|max}]]}} {{MP=[[@{selected|MP}]]/[[@{selected|MP|max}]]}} {{Defesa= [[ #defesa ]] }} {{Evasão=[[ #dodge ]] }} {{Guarda=[[ #guard ]] }} {{Velocidade de Movimento=[[ #velocidade-movimento ]] }}
-```
-
-## Paladin
-```
-&{template:default} {{name=Info @{selected|character_name} (lv @{selected|Level})}} {{HP=[[@{selected|HP}]]/[[@{selected|HP|max}]]}} {{MP=[[@{selected|MP}]]/[[@{selected|MP|max}]]}} {{FP=[[@{selected|FP}]]/[[@{selected|FP|max}]]}} {{Defesa=[[ #defesa ]] }} {{Evasão=[[ #dodge ]] }} {{Guarda=[[ #guard ]] }} {{Velocidade de Movimento=[[ #velocidade-movimento ]] }}
-```
-
-## Velocidade-Movimento
-```
-{4,5+@{selected|STR_mod}, 8}kl2dl1 + @{selected|movespeed_bonus}
-```
-
-### Guard
-```
-@{selected|bonus_guard} + @{selected|CON}
-```
-
-### Dodge
-```
-@{selected|bonus_dodge} + @{selected|DEX}
-```
-
-### Defesa
-```
-10 + [[{#dodge , #guard }kh1]][max(evasão. guarda)]
+http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 
 # Attributes
@@ -136,7 +111,7 @@
 ```
 ### rest_roll (lembrar de atualizar o link)
 ```
-&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_survival}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](http://journal.roll20.net/handout/-NFZfA6xAZfhnuPElsRH) }}
+&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](#rest_rules_link) }}
 ```
 ### rest_level_minus_1
 ```
@@ -157,30 +132,30 @@
 ### skill_roll
 ```
 ?{Skill
-  |Atletismo, @{character_name} rola Atletismo: [[ 1d20 + @{STR} + @{skill_atletics}[skill_bonus] ]]
+  |Atletismo, @{character_name} rola Atletismo: [[ 1d20 + @{STR} + @{skill_atletismo}[skill_bonus] ]]
 
-  |Acrobacia, @{character_name} rola Acrobacia: [[ 1d20 + @{DEX} + @{skill_acrobatics}[skill_bonus] ]]
-  |Furtividade, @{character_name} rola Furtividade: [[ 1d20 + @{DEX} + @{skill_stealth}[skill_bonus] ]]
-  |Ladinagem, @{character_name} rola Ladinagem: [[ 1d20 + @{DEX} + @{skill_sleight}[skill_bonus] ]]
+  |Acrobacia, @{character_name} rola Acrobacia: [[ 1d20 + @{DEX} + @{skill_acrobacia}[skill_bonus] ]]
+  |Furtividade, @{character_name} rola Furtividade: [[ 1d20 + @{DEX} + @{skill_furtividade}[skill_bonus] ]]
+  |Ladinagem, @{character_name} rola Ladinagem: [[ 1d20 + @{DEX} + @{skill_ladinagem}[skill_bonus] ]]
 
-  |Sobrevivência, @{character_name} rola Sobrevivência: [[ 1d20 + @{CON} + @{skill_survival}[skill_bonus] ]]
+  |Sobrevivência, @{character_name} rola Sobrevivência: [[ 1d20 + @{CON} + @{skill_sobrevivencia}[skill_bonus] ]]
 
-  |Investigação, @{character_name} rola Investigação: [[ 1d20 + @{INT} + @{skill_investigation}[skill_bonus] ]]
-  |Lógica, @{character_name} rola Lógica: [[ 1d20 + @{INT} + @{skill_logic}[skill_bonus] ]]
-  |História, @{character_name} rola História: [[ 1d20 + @{INT} + @{skill_history}[skill_bonus] ]]
-  |Medicina, @{character_name} rola Medicina: [[ 1d20 + @{INT} + @{skill_medicine}[skill_bonus] ]]
+  |Investigação, @{character_name} rola Investigação: [[ 1d20 + @{INT} + @{skill_investigacao}[skill_bonus] ]]
+  |Lógica, @{character_name} rola Lógica: [[ 1d20 + @{INT} + @{skill_logica}[skill_bonus] ]]
+  |História, @{character_name} rola História: [[ 1d20 + @{INT} + @{skill_historia}[skill_bonus] ]]
+  |Medicina, @{character_name} rola Medicina: [[ 1d20 + @{INT} + @{skill_medicina}[skill_bonus] ]]
 
-  |Percepção, @{character_name} rola Percepção: [[ 1d20 + @{SEN} + @{skill_perception}[skill_bonus] ]]
-  |Empatia, @{character_name} rola Empatia: [[ 1d20 + @{SEN} + @{skill_empathy}[skill_bonus] ]]
-  |Intuição, @{character_name} rola Intuição: [[ 1d20 + @{SEN} + @{skill_insight}[skill_bonus] ]]
+  |Percepção, @{character_name} rola Percepção: [[ 1d20 + @{SEN} + @{skill_percepcao}[skill_bonus] ]]
+  |Empatia, @{character_name} rola Empatia: [[ 1d20 + @{SEN} + @{skill_empatia}[skill_bonus] ]]
+  |Intuição, @{character_name} rola Intuição: [[ 1d20 + @{SEN} + @{skill_intuicao}[skill_bonus] ]]
   |Arcana, @{character_name} rola Arcana: [[ 1d20 + @{SEN} + @{skill_arcana}[skill_bonus] ]]
-  |Natureza, @{character_name} rola Natureza: [[ 1d20 + @{SEN} + @{skill_botanic}[skill_bonus] ]]
+  |Natureza, @{character_name} rola Natureza: [[ 1d20 + @{SEN} + @{skill_natureza}[skill_bonus] ]]
 
-  |Adestramento, @{character_name} rola Adestramento: [[ 1d20 + @{PRE} + @{skill_handling}[skill_bonus] ]]
-  |Cozinhar, @{character_name} rola Cozinhar: [[ 1d20 + @{PRE} + @{skill_cooking}[skill_bonus] ]]
-  |Enganação, @{character_name} rola Enganação: [[ 1d20 + @{PRE} + @{skill_deception}[skill_bonus] ]]
-  |Intimidação, @{character_name} rola Intimidação: [[ 1d20 + @{PRE} + @{skill_intimidation}[skill_bonus] ]]
-  |Persuasão, @{character_name} rola Persuasão: [[ 1d20 + @{PRE} + @{skill_persuasion}[skill_bonus] ]]
+  |Adestramento, @{character_name} rola Adestramento: [[ 1d20 + @{PRE} + @{skill_adestramento}[skill_bonus] ]]
+  |Cozinhar, @{character_name} rola Cozinhar: [[ 1d20 + @{PRE} + @{skill_cozinhar}[skill_bonus] ]]
+  |Enganação, @{character_name} rola Enganação: [[ 1d20 + @{PRE} + @{skill_enganacao}[skill_bonus] ]]
+  |Intimidação, @{character_name} rola Intimidação: [[ 1d20 + @{PRE} + @{skill_intimidacao}[skill_bonus] ]]
+  |Persuasão, @{character_name} rola Persuasão: [[ 1d20 + @{PRE} + @{skill_persuasao}[skill_bonus] ]]
   |Performance, @{character_name} rola Performance: [[ 1d20 + @{PRE} + @{skill_performance}[skill_bonus] ]]
 }
 ```
