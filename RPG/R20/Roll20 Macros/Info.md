@@ -105,13 +105,17 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 &{template:default} {{name=Ignorar Arranhões (@{character_name})}} {{Execução=Movimento}} {{Custo=2PM}} {{Descrição=Pelo resto da cena, todo dano que você tomar igual ou inferior a @{guard} (sua Guarda) é ignorado.}}
 ```
+### rest_roll (lembrar de atualizar o link)
+```
+&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](@{rest_rules_link}) }}
+```
 ### rest_supplies (para usar regra sem mantimentos, coloque um default em vez da query)
 ```
 ?{Mantimentos|Passando Fome,-3[Fome] |Racionando (2pr),-1[Racionando] |Humilde (5pr),0[Humilde] |Confortável (20pr),+1[Confortável] |Luxuoso (50pr), +2[Luxuoso] |Ostentando (15g), +3[Ostentando]}
 ```
-### rest_roll (lembrar de atualizar o link)
+### rest_rules_link
 ```
-&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](#rest_rules_link) }}
+#rest_rules_link
 ```
 ### rest_level_minus_1
 ```
