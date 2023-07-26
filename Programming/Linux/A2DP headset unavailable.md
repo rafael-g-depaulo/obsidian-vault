@@ -1,0 +1,1 @@
+[this](https://askubuntu.com/questions/863930/bluetooth-headset-cant-set-a2dp-high-fidelity-playback-poor-sound-quality) stack overflow question used to work, now it doesn't seem to
