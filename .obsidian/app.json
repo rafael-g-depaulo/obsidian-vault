@@ -14,10 +14,7 @@
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
   "vimMode": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "userIgnoreFilters": [
     "RPG/R20/Compiled/"
   ],
