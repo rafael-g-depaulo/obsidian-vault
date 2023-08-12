@@ -1,0 +1,1 @@
+party viaja em direção ao bersário para investigar 
