@@ -1,4 +1,6 @@
-party cuida da aranha mãe (pode conseguir **CHECK TREASURE RULES** ingredientes foda de aranha)
+party cuida da aranha mãe (pode conseguir ingredientes foda de aranha)
+- 1 fang worth 100g
+- 1d4 venom sacks worth 70g
 
 party sai do templo e acha um pardal dourado esperando por eles, com a [[Carta do Nick]].
 
