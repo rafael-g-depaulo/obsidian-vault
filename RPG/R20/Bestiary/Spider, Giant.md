@@ -21,7 +21,7 @@ ___
 
 ***Bite.*** *Melee Weapon Attack*: +5 to hit, one target. Hit 2d6 piercing. (should be 3d6, but i'm scared)
 
-**Spray.** 4sqr Cone. DC 15 CON. Take 3d4 poison damage on a hit, half on a save.
+**Spray.** 4sqr Cone. DC 15 CON. Take 4d4 poison damage on a hit, half on a save.
 
 **Web.** Check web spell
 }}
