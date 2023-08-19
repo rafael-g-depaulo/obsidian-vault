@@ -10,3 +10,5 @@ Kas tentou falar que não quer ser inimigo de bheihawk, eles notaram que tecnica
 
 Eles queriam galho de sol pra ajudar com uma epidemia com uma doença repentina (que parece ser uma arma biológica ou algo assim)
 
+saímos da situação como neutros, com recompensa em ouro pela prisão indevida e uma carta de comendação sobre as nossas ações
+
