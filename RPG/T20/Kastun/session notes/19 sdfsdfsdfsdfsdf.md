@@ -6,3 +6,7 @@ o juíz que julgou a gente antes tava lá tbm (nome Gerru), e o Archo Mapolli (N
 
 Odrei e Kas relatam o que rolou, comentando de Gimla
 
+Kas tentou falar que não quer ser inimigo de bheihawk, eles notaram que tecnicamente ele tá mentindo
+
+Eles queriam galho de sol pra ajudar com uma epidemia com uma doença repentina (que parece ser uma arma biológica ou algo assim)
+
