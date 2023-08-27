@@ -2,13 +2,13 @@
 
 O tamanho de uma criatura é classificado em seis categorias: Minúsculo, Pequeno, Médio, Grande, Enorme e Colossal. Por padrão, seu tamanho é Médio ou Pequeno, definido na criação do personagem.
 
-Quando uma criatura 
+Quando uma maior que tamanho médio tenta se esconder, ela recebe -2 na rolagem de furtividade por cada categoria de tamanho acima de Médio. 
 
-| Categoria | Espaço Ocupado | Modificador |
-| --------- | -------------- | ----------- |
-| Minúsculo | 1sqr           | +5/-5       |
-| Pequeno   | 1sqr           | +2/-2       |
-| Médio     | 1sqr           | 0           |
-| Grande    | 2sqr           | +2/-2       | 
-| Enorme    | 3sqr           | +5/-5       |
-| Colossal  | 4sqr           | +10/-10     |
+| Categoria | Espaço Ocupado |
+| --------- | -------------- |
+| Minúsculo | 1sqr           |
+| Pequeno   | 1sqr           |
+| Médio     | 1sqr           |
+| Grande    | 2sqr           |
+| Enorme    | 3sqr           |
+| Colossal  | 4sqr           |
