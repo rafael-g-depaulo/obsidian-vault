@@ -12,7 +12,6 @@ Remember:
 ### Hoard Encounter
 - CR 0-4: ~350g + 1-3 magic items
 
-
 #### Single Encounter Treasure Table
 ![[Treasure Table.png]]
 
