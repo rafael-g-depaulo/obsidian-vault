@@ -19,7 +19,7 @@
 - [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]

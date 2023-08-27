@@ -61,7 +61,7 @@
 - [[Escudo]]
 - [[Escuridão]]
 - [[Explosão de chamas]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]

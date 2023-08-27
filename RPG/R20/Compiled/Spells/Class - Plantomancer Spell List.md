@@ -30,7 +30,7 @@
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]

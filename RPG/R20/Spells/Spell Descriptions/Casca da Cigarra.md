@@ -1,10 +1,12 @@
-{{spell-definition "False Life"
+{{spell-definition "Casca da Cigarra"
 
 TAGS:
 - #spell
 - #occult
 - #abjuration
 - #necromancy
+- #wild 
+- #feral 
 - #thaumaturgy
 - #arcane
 

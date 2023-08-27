@@ -5,7 +5,7 @@
 ### 1st Circle
 - [[Armor of Agathys]]
 - [[Escudo]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Imagem Espelhada]]
 - [[Mage Armor]]
 ### 2nd Circle
@@ -43,7 +43,7 @@
 - [[Despedaçar]]
 - [[Detectar Ameaças]]
 - [[Earth Tremor]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Luz]]
@@ -417,7 +417,7 @@
 
 ## Necromancy Spells
 ### 1st Circle
-- [[False Life]]
+- [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
 
@@ -480,7 +480,7 @@
 - [[Dissonant Whispers]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
@@ -655,7 +655,7 @@
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Explosão de chamas]]
-- [[False Life]]
+- [[Casca da Cigarra]]
 - [[Guiding Bolt]]
 - [[Hail of Thorns]]
 - [[Imagem Espelhada]]
