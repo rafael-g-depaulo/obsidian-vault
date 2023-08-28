@@ -1,11 +1,5 @@
 luma's liquid light (Luz Líquida da Luma)
 
-		a light blue/white-ish drink inside a small glass bottle. it is slightly alcoholic, and makes the drinker's
-	mouth emmit a coloured light whenever they open their mouth. a prefered drink by faeries and feys alike. it 
-	enhances the drinker's affinity to the ley lines, and lets them more clearly see energy and magic. this usually
-	manifests in the form of weird visions and bright, lively, dancing colors. this stimulus is usually distracting
-	and overbearing, and it makes it harder for the drinker to persieve and understand the physical world around
-	them. duration 1h. gives resistance to necrotic damage and immunity to charm for the duration. gives adv+2
-	to prescience &	magic perception rolls, and dis-2 to deception & perception rolls.
+a light blue/white-ish drink inside a small glass bottle. it is slightly alcoholic, and makes the drinker's	mouth emmit a coloured light whenever they open their mouth. a prefered drink by faeries and feys alike. it 	enhances the drinker's affinity to the ley lines, and lets them more clearly see energy and magic. this usually	manifests in the form of weird visions and bright, lively, dancing colors. this stimulus is usually distracting	and overbearing, and it makes it harder for the drinker to persieve and understand the physical world around	them. duration 1h. gives resistance to necrotic damage and immunity to charm for the duration. gives adv+2	to prescience &	magic perception rolls, and dis-2 to deception & perception rolls.
 
 dwarven fire whisky
