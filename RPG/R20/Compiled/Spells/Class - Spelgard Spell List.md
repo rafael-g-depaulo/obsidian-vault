@@ -54,7 +54,7 @@
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Warding Bond]]
+- [[Laço Protetor]]
 
 ## Spell Descriptions
 

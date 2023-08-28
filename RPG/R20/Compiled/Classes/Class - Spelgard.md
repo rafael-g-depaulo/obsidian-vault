@@ -168,4 +168,4 @@ List of spells available for a Spelgard to learn.
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Warding Bond]]
+- [[Laço Protetor]]

@@ -60,8 +60,8 @@
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]

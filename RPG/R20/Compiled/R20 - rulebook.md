@@ -1264,8 +1264,8 @@ List of spells available for a Plantomancer to learn.
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -1554,7 +1554,7 @@ List of spells available for a Spelgard to learn.
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Warding Bond]]
+- [[Laço Protetor]]
 
 {{pageNumber,auto}}
 \page
@@ -2924,8 +2924,8 @@ nature -> elemental -> wild -> nature
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 - [[Web]]
 
 ### 3rd Circle

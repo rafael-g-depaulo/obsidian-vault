@@ -1,4 +1,4 @@
-{{spell-definition "Warding Bond"
+{{spell-definition "Laço Protetor"
 
 TAGS:
 - #spell

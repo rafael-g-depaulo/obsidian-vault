@@ -12,8 +12,8 @@
 - [[Barkskin]]
 - [[Enhance Ability]]
 - [[Pass Without a Trace]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 ### 3rd Circle
 - [[Campo de Força]]
 ### 5th Circle
@@ -66,7 +66,7 @@
 - [[See invisibility]]
 - [[Spider Climb]]
 - [[Spike Growth]]
-- [[Warding Wind]]
+- [[Manto de Vento]]
 - [[Web]]
 ### 3rd Circle
 - [[Flecha Ácida]]
@@ -98,7 +98,7 @@
 - [[Enlarge/Reduce]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Warding Bond]]
+- [[Laço Protetor]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -411,7 +411,7 @@
 - [[Explosão Sonora]]
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
-- [[Warding Wind]]
+- [[Manto de Vento]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
@@ -587,7 +587,7 @@
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[See invisibility]]
-- [[Warding Bond]]
+- [[Laço Protetor]]
 - [[Wither and Bloom ]]
 ### 3rd Circle
 - [[Campo de Força]]
@@ -682,8 +682,8 @@
 - [[Flechas Sentinelas]]
 - [[Pass Without a Trace]]
 - [[Scorching Ray]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Flecha Ácida]]
@@ -715,7 +715,7 @@
 - [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Spider Climb]]
-- [[Warding Wind]]
+- [[Manto de Vento]]
 ### 3rd Circle
 - [[Físico Divino]]
 
@@ -814,7 +814,7 @@
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
-- [[Warding Bond]]
+- [[Laço Protetor]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -878,7 +878,7 @@
 ### 2nd Circle
 - [[Earthbind]]
 - [[Explosão Sonora]]
-- [[Warding Wind]]
+- [[Manto de Vento]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]

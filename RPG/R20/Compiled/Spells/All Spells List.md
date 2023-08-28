@@ -123,8 +123,8 @@
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Warding Bond]]
-- [[Warding Wind]]
+- [[Laço Protetor]]
+- [[Manto de Vento]]
 - [[Web]]
 - [[Wither and Bloom ]]
 
