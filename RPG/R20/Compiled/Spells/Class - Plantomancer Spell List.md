@@ -30,7 +30,6 @@
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
-- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
@@ -520,20 +519,6 @@ Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no pont
 - **+2 PM:** aumenta o  ano em +1d8..
 - **+2 PM:** aumenta diâmetro da explosão em 1sqr..
 
-### False Life (1 MP)
-<div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
-
-*1st Circle*
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** cena.
-___
-
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
-
-- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
-\page
-
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
@@ -546,7 +531,8 @@ ___
 
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Físico Divino (3 MP)
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -593,8 +579,7 @@ ___
 
 You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 6sqr of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
 
-- **+1PM:** +1 flecha.{{pageNumber,auto}}
-\page
+- **+1PM:** +1 flecha.
 
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
@@ -607,7 +592,8 @@ ___
 
 You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured, It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Goodberry (1 MP)
 <div class="spell-tags">plant wild summon</div>
@@ -648,8 +634,7 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
@@ -664,7 +649,8 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.
+- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
+\page
 
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -706,8 +692,7 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -721,7 +706,8 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
+\page
 
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
@@ -771,8 +757,7 @@ ___
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-- **+1:** +1d6.{{pageNumber,auto}}
-\page
+- **+1:** +1d6.
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -785,7 +770,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..
+- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
+\page
 
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -831,8 +817,7 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
@@ -845,7 +830,8 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -897,8 +883,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
-\page
+- **+1PM:** Add +1d8 to the dice rolled..
 
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -915,7 +900,8 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
@@ -965,8 +951,7 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the damage by +1d6.
 
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
@@ -981,7 +966,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -1028,8 +1014,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
 
 ### Warding Bond (2 MP)
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -1047,7 +1032,8 @@ While the target is within 60 feet of you, it gains a +1 bonus to AC and saving 
   
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Warding Wind (2 MP)
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>

@@ -664,7 +664,7 @@ Important tips:
 }}
 
 
-**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
+**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
@@ -1234,7 +1234,6 @@ List of spells available for a Plantomancer to learn.
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
-- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
@@ -1789,6 +1788,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
+- [[Casca da Cigarra]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
@@ -1796,7 +1796,6 @@ Spell List:
 - [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]
@@ -1994,6 +1993,22 @@ The smaller creature can move around within the larger creature's space, treatin
 
 #### DISARM
 A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+
+
+## Tamanho
+
+O tamanho de uma criatura é classificado em seis categorias: Minúsculo, Pequeno, Médio, Grande, Enorme e Colossal. Por padrão, seu tamanho é Médio ou Pequeno, definido na criação do personagem.
+
+Quando uma maior que tamanho médio tenta se esconder, ela recebe -2 na rolagem de furtividade por cada categoria de tamanho acima de Médio. 
+
+| Categoria | Espaço Ocupado |
+| --------- | -------------- |
+| Minúsculo | 1sqr           |
+| Pequeno   | 1sqr           |
+| Médio     | 1sqr           |
+| Grande    | 2sqr           |
+| Enorme    | 3sqr           |
+| Colossal  | 4sqr           |
 
 
 {{pageNumber,auto}}
@@ -2450,6 +2465,15 @@ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit po
 | Superior healing | Rare      | 2000g  | 8d4+8   |
 | Supreme healing  | Very rare | 20000g | 10d4+20 |
 
+#### Mana Potion
+_Potion, Common_
+A character who drinks the magical purple fluid in this vial regains 2d4 MP. Drinking or administering a potion takes an action.
+
+| Essence of ... | Rarity   | Price | MP  |
+| -------------- | -------- | ----- | --- |
+| Mana           | Common   | 25g   | 2d4 |
+| Greater Mana   | Uncommon | 150g  | 4d4 | 
+
 
 ## Poisons
 #### Basic Poison
@@ -2819,6 +2843,7 @@ nature -> elemental -> wild -> nature
 - [[Burning Hands]]
 - [[Caminhos da Natureza]]
 - [[Canhão de Ervilha]]
+- [[Casca da Cigarra]]
 - [[Catapult]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
@@ -2839,7 +2864,6 @@ nature -> elemental -> wild -> nature
 - [[Escudo]]
 - [[Escuridão]]
 - [[Explosão de chamas]]
-- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
@@ -3271,6 +3295,19 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo..
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo..
 
+### Casca da Cigarra (1 MP)
+<div class="spell-tags">occult abjuration necromancy wild feral thaumaturgy arcane</div>
+
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** cena.
+___
+
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+
+- **+1PM:** aumenta +1d4 nos PV temporários.
+
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -3283,7 +3320,8 @@ ___
 
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.
 
-- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.
+- **+2PM:** aumenta o dano em +1d8, e o peso máximo do objeto em 5lb.{{pageNumber,auto}}
+\page
 
 ### Cause Fear (1 MP)
 <div class="spell-tags">curse trickery enchantment occult</div>
@@ -3297,8 +3335,7 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **+2PM:** target one additional creature.{{pageNumber,auto}}
-\page
+- **+2PM:** target one additional creature.
 
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
@@ -3342,7 +3379,8 @@ ___
 You create a ghostly, skeletal hand in the space of a creature within range.  
 Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
 
-- **+2 PM:** Increase the damage by 1d6..
+- **+2 PM:** Increase the damage by 1d6..{{pageNumber,auto}}
+\page
 
 ### Command (1 MP)
 <div class="spell-tags">enchantment speech trickery curse occult</div>
@@ -3356,8 +3394,7 @@ ___
 
 **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you..**Drop** The target drops whatever it is holding and then ends its turn..**Flee** The target spends its turn moving away from you by the fastest available means..**Grovel** The target falls prone and then ends its turn..**Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-- **+2PM:** target an additional creature.{{pageNumber,auto}}
-\page
+- **+2PM:** target an additional creature.
 
 ### Compelled Duel (1 MP)
 <div class="spell-tags">warmagic holy enchantment trickery sacred thaumaturgy</div>
@@ -3404,7 +3441,8 @@ ___
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
 The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
@@ -3418,8 +3456,7 @@ ___
 
 You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location..You instantaneously extinguish the flames within the cube..You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour..You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Controlar Plantas (1 MP)
 <div class="spell-tags">plant wild enchantment trickery</div>
@@ -3469,7 +3506,8 @@ The charmed target must use its action before moving on each of its turns to mak
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
-- **+2PM:** increase the damage by +1d8.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Curar Ferimentos (1 MP)
 <div class="spell-tags">recovery sacred</div>
@@ -3486,8 +3524,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
 ### Darkvision (2 MP)
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
@@ -3535,7 +3572,8 @@ ___
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Detectar Ameaças (1 MP)
 <div class="spell-tags">divination feral wild warmagic thaumaturgy arcane</div>
@@ -3552,8 +3590,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
 
 ### Dissonant Whispers (1 MP)
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
@@ -3596,7 +3633,8 @@ ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 - **+2PM:** increase the damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.
+- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
+\page
 
 ### Earthbind (2 MP)
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
@@ -3610,8 +3648,7 @@ ___
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
@@ -3657,7 +3694,8 @@ ___
 
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **+2PM:** aumente o número de alvos em 1.
+- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
+\page
 
 ### Enlarge/Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
@@ -3679,8 +3717,7 @@ The target’s size doubles in all dimensions, and its weight is multiplied by e
 **Reduce**   
 The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-{{pageNumber,auto}}
-\page
+
 
 ### Entangle (1 MP)
 <div class="spell-tags">plant wild trickery</div>
@@ -3738,7 +3775,8 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o efeito para fornecer camuflagem otal por escuridão..
 - **+2 PM:** muda a duração para 1 dia..
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo..
-- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..
+- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Espelho do Pântano (3 MP)
 <div class="spell-tags">divination trickery summon wild</div>
@@ -3752,8 +3790,7 @@ ___
 
 Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto da pessoa escolhida uma superfície d'agua fica suja e vira um espelho do pântano. Imagens, sons e objetos pequenos não-mágicos podem ser passados pelo espelho.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -3785,19 +3822,6 @@ Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no pont
 
 - **+2 PM:** aumenta o  ano em +1d8..
 - **+2 PM:** aumenta diâmetro da explosão em 1sqr..
-
-### False Life (1 MP)
-<div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
-
-*1st Circle*
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** cena.
-___
-
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
-
-- **+1PM:** aumenta +1d4 nos PV temporários.
 
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
@@ -4029,16 +4053,16 @@ If a creature is holding or wearing the object and takes the damage from it, the
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
 
 *1st Circle*
-- **Execução:** padrão
+- **Execução:** reação
 - **Alcance:** 30sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
 - **Resistência:** PRE
 ___
 
-Reaction: you are being damaged by a creature within range of you that you can see.
+Em resposta a uma criatura te ferir. You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d10.
 
 ### Hideous Laughter (1 MP)
 <div class="spell-tags">enchantment trickery curse occult speech</div>

@@ -12,6 +12,7 @@
 
 ### 1st Circle
 - [[Bane]]
+- [[Casca da Cigarra]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
@@ -19,7 +20,6 @@
 - [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]
@@ -113,6 +113,19 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 - **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 7º círculo..{{pageNumber,auto}}
 \page
 
+### Casca da Cigarra (1 MP)
+<div class="spell-tags">occult abjuration necromancy wild feral thaumaturgy arcane</div>
+
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** cena.
+___
+
+Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+
+- **+1PM:** aumenta +1d4 nos PV temporários.
+
 ### Cause Fear (1 MP)
 <div class="spell-tags">curse trickery enchantment occult</div>
 
@@ -155,7 +168,8 @@ ___
 You create a ghostly, skeletal hand in the space of a creature within range.  
 Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d6 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn..
 
-- **+2 PM:** Increase the damage by 1d6..
+- **+2 PM:** Increase the damage by 1d6..{{pageNumber,auto}}
+\page
 
 ### Command (1 MP)
 <div class="spell-tags">enchantment speech trickery curse occult</div>
@@ -169,8 +183,7 @@ ___
 
 **Approach** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you..**Drop** The target drops whatever it is holding and then ends its turn..**Flee** The target spends its turn moving away from you by the fastest available means..**Grovel** The target falls prone and then ends its turn..**Halt** The target doesn’t move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-- **+2PM:** target an additional creature.{{pageNumber,auto}}
-\page
+- **+2PM:** target an additional creature.
 
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
@@ -221,7 +234,8 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
@@ -234,8 +248,7 @@ ___
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Dissonant Whispers (1 MP)
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
@@ -284,20 +297,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o efeito para fornecer camuflagem otal por escuridão..
 - **+2 PM:** muda a duração para 1 dia..
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo..
-- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..
-
-### False Life (1 MP)
-<div class="spell-tags">occult abjuration necromancy thaumaturgy arcane</div>
-
-*1st Circle*
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** cena.
-___
-
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
-
-- **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
+- **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..{{pageNumber,auto}}
 \page
 
 ### Flecha Ácida (3 MP)
@@ -362,16 +362,16 @@ A creature of your choice that you can see within range regains hit points equal
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
 
 *1st Circle*
-- **Execução:** padrão
+- **Execução:** reação
 - **Alcance:** 30sqr
 - **Alvo:** 1 criatura
 - **Duração:** imediata.
 - **Resistência:** PRE
 ___
 
-Reaction: you are being damaged by a creature within range of you that you can see.
+Em resposta a uma criatura te ferir. You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-- **cost:** description.
+- **+2PM:** increase the damage by +1d10.
 
 ### Hideous Laughter (1 MP)
 <div class="spell-tags">enchantment trickery curse occult speech</div>

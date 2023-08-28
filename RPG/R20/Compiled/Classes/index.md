@@ -241,7 +241,7 @@ Important tips:
 }}
 
 
-**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
+**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
@@ -811,7 +811,6 @@ List of spells available for a Plantomancer to learn.
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
-- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]
@@ -1366,6 +1365,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
+- [[Casca da Cigarra]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
@@ -1373,7 +1373,6 @@ Spell List:
 - [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]

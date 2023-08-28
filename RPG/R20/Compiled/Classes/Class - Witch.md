@@ -135,6 +135,7 @@ Spell List:
 
 ### 1st Circle
 - [[Bane]]
+- [[Casca da Cigarra]]
 - [[Cause Fear]]
 - [[Chaos Bolt]]
 - [[Command]]
@@ -142,7 +143,6 @@ Spell List:
 - [[Detect Poison and Disease (Ritual)]]
 - [[Dissonant Whispers]]
 - [[Escuridão]]
-- [[Casca da Cigarra]]
 - [[Fog Cloud]]
 - [[Healing Word]]
 - [[Hellish Rebuke]]

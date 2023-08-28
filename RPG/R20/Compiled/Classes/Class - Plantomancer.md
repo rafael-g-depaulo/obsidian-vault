@@ -129,7 +129,6 @@ List of spells available for a Plantomancer to learn.
 - [[Enfeitiçar]]
 - [[Entangle]]
 - [[Escudo]]
-- [[Casca da Cigarra]]
 - [[Feather Fall]]
 - [[Fog Cloud]]
 - [[Goodberry]]

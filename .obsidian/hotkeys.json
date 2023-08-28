@@ -60,5 +60,15 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "obsidian-shellcommands:shell-command-r0dz68uo3n": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": []
 }
