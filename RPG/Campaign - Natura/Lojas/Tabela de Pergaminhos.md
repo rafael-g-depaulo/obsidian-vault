@@ -9,6 +9,4 @@
 | Acid Splash (+3 dano)      | 3    | 18g   |
 | Raio Guiador (+Cegante)    | 4    | 24g   |
 | Laço Protetor              | 2    | 12g   |
-| Manto de Vento             |      |       |
-
-![[P-valor]]
+| Manto de Vento             | 2    | 12g   |
