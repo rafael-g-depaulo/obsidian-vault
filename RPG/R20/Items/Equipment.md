@@ -1,43 +1,45 @@
 # Equipment
+
+A lv1 character starts with 60gp
 ## Simple Weapons
 
-| Melee Weapons  | Damage | Crit |           Properties            |
-|:--------------:|:------:|:----:|:-------------------------------:|
-|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  |
-| Unarmed Attack |  1d2   |  -   |                -                |
-|      Club      |  1d4   |  -   |              light              |
-|   Greatclub    |  1d8   |  -   |            2-handed             |
-|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      |
-|    Javelin     |  1d6   |  -   |         thrown (30/120)         |
-|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      |
-|      Mace      |  1d6   |  19  |                                 |
-|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         |
-|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) |
-|     Scythe     |  1d4   |  x4  |             finesse             |
-|      Claw      |  1d4   |  19  |         light, finesse          | 
+| Melee Weapons  | Damage | Crit |           Properties            | Preço |
+|:--------------:|:------:|:----:|:-------------------------------:| ----- |
+|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  | 2gp   |
+| Unarmed Attack |  1d2   |  -   |                -                | -     |
+|      Club      |  1d4   |  -   |              light              | 1sp   |
+|   Greatclub    |  1d8   |  -   |            2-handed             | 2sp   |
+|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      | 5gp   |
+|    Javelin     |  1d6   |  -   |         thrown (30/120)         | 5sp   |
+|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      | 2gp   |
+|      Mace      |  1d6   |  19  |                                 | 5gp   |
+|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         | 2sp   |
+|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) | 1gp   |
+|     Scythe     |  1d4   |  x4  |             finesse             | 1gp   |
+|      Claw      |  1d4   |  19  |         light, finesse          | 5sp   |
 
-| Ranged Weapons | Damage | Crit |            Properties            |
-|:--------------:|:------:|:----:|:--------------------------------:|
-| Crossbow, light|   1d8  |  19  | Range (10sqr/20sqr), loading(movement), 2-handed|
-| Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
+| Ranged Weapons  | Damage | Crit |                    Properties                    | Preço |
+|:---------------:|:------:|:----:|:------------------------------------------------:|:-----:|
+| Crossbow, light |  1d8   |  19  | Range (10sqr/20sqr), loading(movement), 2-handed |  25gp     | 
+|    Shortbow     |  1d6   |  x3  |          Range (15sqr/30sqr), 2-handed           |  25gp     |
 
 ## Martial Weapons
 
-| Melee Weapons		 	| Damage 	| Crit 	| Properties       |
-|:-----------------:|:-------:|:-----:|:-----------------|
-| Battleaxe       	| 1d8    	|   - 	| light            |
-| Shortsword       	| 1d6    	|   x3 	| Finesse, light   |
-| Flail           	| 1d8    	|   - 	| Reach            |
-| Lance           	| 1d12   	|   -  	| Reach, Mounted   |
-| Longsword       	| 1d8    	|   19 	| Versatile (1d10) |
-| Rapier          	| 1d6    	|   18 	| Finesse          |
-| Greataxe        	| 1d12   	|   x3 	| Heavy, 2-handed  |
-| Greatsword      	| 2d6    	|   19 	| Heavy, 2-handed  |
+| Melee Weapons | Damage | Crit | Properties       | Preço | 
+|:-------------:|:------:|:----:|:---------------- | ----- |
+|   Battleaxe   |  1d8   |  -   | light            |       |
+|  Shortsword   |  1d6   |  x3  | Finesse, light   |       |
+|     Flail     |  1d8   |  -   | Reach            |       |
+|     Lance     |  1d12  |  -   | Reach, Mounted   |       |
+|   Longsword   |  1d8   |  19  | Versatile (1d10) |       |
+|    Rapier     |  1d6   |  18  | Finesse          |       |
+|   Greataxe    |  1d12  |  x3  | Heavy, 2-handed  |       |
+|  Greatsword   |  2d6   |  19  | Heavy, 2-handed  |       |
 
-| Ranged Weapons    | Damage | Crit |            Properties                       |
-|:-----------------:|:------:|:----:|:-------------------------------------------:|
-| Crossbow, heavy 	| 1d10   |  x3 	| Range (20sqr/40sqr), heavy, loading(action), 2-handed 	|
-| Longbow         	| 1d8    |  19 	| Range (25sqr/50sqr), heavy, 2-handed          	|
+| Ranged Weapons  | Damage | Crit |                      Properties                       | Preço | 
+|:---------------:|:------:|:----:|:-----------------------------------------------------:| ----- |
+| Crossbow, heavy |  1d10  |  x3  | Range (20sqr/40sqr), heavy, loading(action), 2-handed |       |
+|     Longbow     |  1d8   |  19  |         Range (25sqr/50sqr), heavy, 2-handed          |       |
 
 ## Armor
 
