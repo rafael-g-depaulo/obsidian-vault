@@ -1,6 +1,6 @@
 # Equipment
 
-A lv1 character starts with 60gp
+A lv1 character starts with 80gp
 ## Simple Weapons
 
 | Melee Weapons  | Damage | Crit |           Properties            | Preço |
