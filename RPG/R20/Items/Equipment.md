@@ -25,16 +25,17 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 ## Martial Weapons
 
-| Melee Weapons | Damage | Crit | Properties       | Preço | 
+| Melee Weapons | Damage | Crit | Properties       | Preço |
 |:-------------:|:------:|:----:|:---------------- | ----- |
-|   Battleaxe   |  1d8   |  -   | light            |       |
-|  Shortsword   |  1d6   |  x3  | Finesse, light   |       |
-|     Flail     |  1d8   |  -   | Reach            |       |
-|     Lance     |  1d12  |  -   | Reach, Mounted   |       |
-|   Longsword   |  1d8   |  19  | Versatile (1d10) |       |
-|    Rapier     |  1d6   |  18  | Finesse          |       |
-|   Greataxe    |  1d12  |  x3  | Heavy, 2-handed  |       |
-|  Greatsword   |  2d6   |  19  | Heavy, 2-handed  |       |
+|   Battleaxe   |  1d8   |  -   | light            | 10gp  |
+|  Shortsword   |  1d6   |  x3  | Finesse, light   | 10gp  |
+|     Flail     |  1d8   |  -   | Reach            | 10gp  |
+|     Lance     |  1d10  |  -   | Reach, Mounted   | 10gp  |
+|   Longsword   |  1d8   |  19  | Versatile (1d10) | 15gp  |
+|    Rapier     |  1d6   |  18  | Finesse          | 25gp      |
+|   Greataxe    |  1d12  |  x3  | 2-handed         | 30gp  |
+|   GreatMaul   |  3d4   |  -   | 2-handed         | 40gp  |
+|  Greatsword   |  2d6   |  19  | 2-handed         | 50gp  |
 
 | Ranged Weapons  | Damage | Crit |                   Properties                   | Preço |
 |:---------------:|:------:|:----:|:----------------------------------------------:| ----- |
@@ -44,7 +45,7 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 ## Armor
 {{dev-comment
-
+s
 **TODO:** figure out how to introduce stealth penalties back into this, possibly joined with movement penalty in some way
 
 }}
