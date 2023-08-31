@@ -19,3 +19,6 @@ hA lot of these are taken from [this article](https://dev.to/craftzdog/my-neovim
 
 ## Search
 - Telescope is fucking amazing (OBS: needsa ripgrep installed on system)
+
+## IDK
+- bufferline
