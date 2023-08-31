@@ -53,15 +53,15 @@
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -652,6 +652,24 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 - **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
 \page
 
+### Laço Protetor (2 MP)
+<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+
+
+
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -692,7 +710,8 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -706,8 +725,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
 
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
@@ -723,6 +741,19 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 - **+3 PM:** Increase the damage by 1d6..
 - **+1 PM:** Increase the number of pebbles by 1..
+
+### Manto de Vento (2 MP)
+<div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** concentração.
+___
+
+It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+
+
 
 ### Maximilian's Earthen Grasp (2 MP)
 <div class="spell-tags">earth creation arcane nature</div>
@@ -742,7 +773,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.
+- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Mind Whip (2 MP)
 <div class="spell-tags">trickery enchantment energy psyquic</div>
@@ -770,8 +802,7 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
-\page
+- **+2 PM:** Aumenta o dano em 1d12..
 
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -803,7 +834,8 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
@@ -830,8 +862,7 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -870,7 +901,8 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
@@ -900,8 +932,7 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
 
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
@@ -937,7 +968,8 @@ You can also specify conditions that will trigger a special activity during the 
   
 If you or any of your companions damage the target, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -966,8 +998,7 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -996,7 +1027,8 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..
+- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
+\page
 
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -1015,34 +1047,3 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
-
-### Warding Bond (2 MP)
-<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
-
-*2nd Circle*
-- **Execução:** padrão
-- **Alcance:** toque
-- **Alvo:** 1 criatura
-- **Duração:** cena.
-___
-
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
-  
-While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
-  
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
-
-{{pageNumber,auto}}
-\page
-
-### Warding Wind (2 MP)
-<div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
-
-*2nd Circle*
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** concentração.
-___
-
-It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-

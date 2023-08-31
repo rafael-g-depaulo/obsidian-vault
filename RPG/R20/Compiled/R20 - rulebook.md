@@ -856,7 +856,7 @@ feats:
 }}
 
 
-**Ritmo de Batalha.** (1x turno) Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
+**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
 **Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
 
@@ -1188,7 +1188,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- **Tunnel pelo solo.** (1x turno) Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+- **Tunnel pelo solo.** Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
@@ -1257,15 +1257,15 @@ List of spells available for a Plantomancer to learn.
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -1548,13 +1548,13 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Laço Protetor]]
 
 {{pageNumber,auto}}
 \page
@@ -2144,7 +2144,7 @@ R20's formula: ceil(lv/2)
 {{}}
 **Proficiência.** Escolha uma proficiência: armas marciais, armas de fogo, armaduras pesadas ou escudos (se for proficiente em armas marciais, você também pode escolher armas exóticas). Você recebe essa proficiência. Você pode escolher este poder outras vezes para proficiências diferentes.
 
-**AAAAAAAAA.** Ação: Ganhe PRE + lv temp MP e +1 nível de exaustão.
+**Forçar Reservas.** Livre: Ganhe PRE + seu nível de MP temporário e +1 nível de exaustão.
 
 **Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 
@@ -2272,7 +2272,7 @@ R20's formula: ceil(lv/2)
 - *nome2*. Você ganha 2 PM temporários ao usar De Raspão
 - *nome*. Você pode gastar 1PM e fazer uma Ação Padrão imediatamente após usar de raspão. Pré-requisito: nome2
 - *nome.* (Você foi atacado e o ataque errou) reação: Faça um ataque contra o atacante.
-- *nome.* (1x/turno) livre 1PM: você não provoca ataques de oportunidade até o próximo turno
+- *nome.* livre 1PM: você não provoca ataques de oportunidade até o próximo turno
 - bonus to stealth?
 - *jack of all trades* 2PM: você pode usar seu INT em vez do seu bonus de skill (ex: se tem +1 STR, +2 atletismo e +4 INT, pode rolar +5 em vez de +3 em atletismo)
 - **Cunning Action (Ação Ardilosa)**. (Once per turn) Free Action (2PM): You can Hide or Dash as a free action (see combat actions).
@@ -2330,64 +2330,68 @@ R20's formula: ceil(lv/2)
 {{pageNumber,auto}}
 \page
 # Equipment
+
+A lv1 character starts with 100gp (around 3 month's worth of a normal working person's living wage, representing them selling most of their posetions and using their saved up money to go on an adventure).
 ## Simple Weapons
 
-| Melee Weapons  | Damage | Crit |           Properties            |
-|:--------------:|:------:|:----:|:-------------------------------:|
-|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  |
-| Unarmed Attack |  1d2   |  -   |                -                |
-|      Club      |  1d4   |  -   |              light              |
-|   Greatclub    |  1d8   |  -   |            2-handed             |
-|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      |
-|    Javelin     |  1d6   |  -   |         thrown (30/120)         |
-|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      |
-|      Mace      |  1d6   |  19  |                                 |
-|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         |
-|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) |
-|     Scythe     |  1d4   |  x4  |             finesse             |
-|      Claw      |  1d4   |  19  |         light, finesse          | 
+| Melee Weapons  | Damage | Crit |           Properties            | Preço |
+|:--------------:|:------:|:----:|:-------------------------------:| ----- |
+|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  | 2gp   |
+| Unarmed Attack |  1d2   |  -   |                -                | -     |
+|      Club      |  1d4   |  -   |              light              | 1sp   |
+|   Greatclub    |  1d8   |  -   |            2-handed             | 2sp   |
+|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      | 5gp   |
+|    Javelin     |  1d6   |  -   |         thrown (30/120)         | 5sp   |
+|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      | 2gp   |
+|      Mace      |  1d6   |  19  |                                 | 5gp   |
+|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         | 2sp   |
+|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) | 1gp   |
+|     Scythe     |  1d4   |  x4  |             finesse             | 1gp   |
+|      Claw      |  1d4   |  19  |         light, finesse          | 5sp   |
 
-| Ranged Weapons | Damage | Crit |            Properties            |
-|:--------------:|:------:|:----:|:--------------------------------:|
-| Crossbow, light|   1d8  |  19  | Range (10sqr/20sqr), loading(movement), 2-handed|
-| Shortbow       |   1d6  |  x3  | Range (15sqr/30sqr), 2-handed         |
+| Ranged Weapons  | Damage | Crit |                    Properties                    | Preço |
+|:---------------:|:------:|:----:|:------------------------------------------------:|:-----:|
+| Crossbow, light |  1d8   |  19  | Range (10sqr/20sqr), loading(movement), 2-handed |  25gp     | 
+|    Shortbow     |  1d6   |  x3  |          Range (15sqr/30sqr), 2-handed           |  25gp     |
 
 ## Martial Weapons
 
-| Melee Weapons		 	| Damage 	| Crit 	| Properties       |
-|:-----------------:|:-------:|:-----:|:-----------------|
-| Battleaxe       	| 1d8    	|   - 	| light            |
-| Shortsword       	| 1d6    	|   x3 	| Finesse, light   |
-| Flail           	| 1d8    	|   - 	| Reach            |
-| Lance           	| 1d12   	|   -  	| Reach, Mounted   |
-| Longsword       	| 1d8    	|   19 	| Versatile (1d10) |
-| Rapier          	| 1d6    	|   18 	| Finesse          |
-| Greataxe        	| 1d12   	|   x3 	| Heavy, 2-handed  |
-| Greatsword      	| 2d6    	|   19 	| Heavy, 2-handed  |
+| Melee Weapons | Damage | Crit | Properties       | Preço | 
+|:-------------:|:------:|:----:|:---------------- | ----- |
+|   Battleaxe   |  1d8   |  -   | light            |       |
+|  Shortsword   |  1d6   |  x3  | Finesse, light   |       |
+|     Flail     |  1d8   |  -   | Reach            |       |
+|     Lance     |  1d12  |  -   | Reach, Mounted   |       |
+|   Longsword   |  1d8   |  19  | Versatile (1d10) |       |
+|    Rapier     |  1d6   |  18  | Finesse          |       |
+|   Greataxe    |  1d12  |  x3  | Heavy, 2-handed  |       |
+|  Greatsword   |  2d6   |  19  | Heavy, 2-handed  |       |
 
-| Ranged Weapons    | Damage | Crit |            Properties                       |
-|:-----------------:|:------:|:----:|:-------------------------------------------:|
-| Crossbow, heavy 	| 1d10   |  x3 	| Range (20sqr/40sqr), heavy, loading(action), 2-handed 	|
-| Longbow         	| 1d8    |  19 	| Range (25sqr/50sqr), heavy, 2-handed          	|
+| Ranged Weapons  | Damage | Crit |                      Properties                       | Preço |
+|:---------------:|:------:|:----:|:-----------------------------------------------------:| ----- |
+| Crossbow, hand  |  1d6   |  x3  |      Range (6sqr/24sqr), light, loading(action)       | 75gp  |
+| Crossbow, heavy |  1d10  |  x3  | Range (20sqr/40sqr), heavy, loading(action), 2-handed | 50gp  |
+|     Longbow     |  1d8   |  18  |         Range (25sqr/50sqr), heavy, 2-handed          | 50gp  | 
 
 ## Armor
 
-| Light Armor                    | Dodge | Guard | Cost | STR | Penalty |
-| ------------------------------ | ----- | ----- | ---- | --- | ------- |
-| Padded (Acolchoada)            | 2     | 0     | 10g  | -   | 0       |
-| Leather (Couro)                | 3     | -2    | 50g  | -   | 0       |
-| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0       |
-| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0       |
 
-| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty | 
-| ---------------------------------- | ----- | ----- | ---- | --- | ------- |
-| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   | 0       |
-| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   | 0       |
-| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   | 0       |
-| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   | -1      |
-| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  | -2      |
-| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
-| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
+| Light Armor                    | Dodge | Guard | Cost | STR |
+| ------------------------------ | ----- | ----- | ---- | --- |
+| Padded (Acolchoada)            | 2     | 0     | 10g  | -   |
+| Leather (Couro)                | 3     | -2    | 50g  | -   |
+| Studded leather (Couro Batido) | 4     | -3    | 500g | -   |
+| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   |
+
+| Medium Armor                       | Dodge | Guard | Cost | STR |
+| ---------------------------------- | ----- | ----- | ---- | --- |
+| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   |
+| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   |
+| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   |
+| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   |
+| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  |
+| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  |
+| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  |
 
 | Heavy Armor                    | Dodge | Guard | Cost   | STR | Movement |
 | ------------------------------ | ----- | ----- | ------ | --- | -------- |
@@ -2396,15 +2400,13 @@ R20's formula: ceil(lv/2)
 | Splint                         | -3    | 4     | 200g   | 14  | -1sqr    |
 | Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -2sqr    |
 
-| Shield       | Dodge | Guard | Cost | STR | Penalty | 
-| ------------ | ----- | ----- | ---- | --- | ------- |
-| Buckler      | 2     | 1     | 5g   | -   | 0       |
-| Light Shield | -3    | 2     | 15g  | -   | -1      |
-| Heavy Shield | -4    | 3     | 200g | 13  | -2      |
+| Shield       | Dodge | Guard | Cost | STR |
+| ------------ | ----- | ----- | ---- | --- |
+| Buckler      | 2     | 1     | 5g   | -   |
+| Light Shield | -3    | 2     | 15g  | -   |
+| Heavy Shield | -4    | 3     | 200g | 13  |
 
 \**STR*: The minimum strength score requirement to wear the armor.
-
-\**Penalty (deprecated? probably gonna remove/rework it)*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
 
 \*Movement: Movement speed penalty while wearing.
 
@@ -2913,7 +2915,9 @@ nature -> elemental -> wild -> nature
 - [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Pass Without a Trace]]
@@ -2924,8 +2928,6 @@ nature -> elemental -> wild -> nature
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 - [[Web]]
 
 ### 3rd Circle
@@ -4163,6 +4165,24 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
 - **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..
 
+### Laço Protetor (2 MP)
+<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+
+
+
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -4187,7 +4207,8 @@ ___
 
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
 
-- **+1 PM:** aumenta o dano em 1d8.
+- **+1 PM:** aumenta o dano em 1d8.{{pageNumber,auto}}
+\page
 
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
@@ -4202,8 +4223,7 @@ ___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
 The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **+2PM:** increase damage by +1d8.{{pageNumber,auto}}
-\page
+- **+2PM:** increase damage by +1d8.
 
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -4248,7 +4268,8 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Mage Hand (1 MP)
 <div class="spell-tags">trickery</div>
@@ -4266,8 +4287,7 @@ The hand lasts for the duration or until you dismiss it as an action. The hand v
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
 - **+X PM:** Torna a mão invisível.
-- **+Y PM:** Aumenta a carga máxima em X kilos.{{pageNumber,auto}}
-\page
+- **+Y PM:** Aumenta a carga máxima em X kilos.
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -4297,6 +4317,20 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 
 - **+3 PM:** Increase the damage by 1d6..
 - **+1 PM:** Increase the number of pebbles by 1..
+
+### Manto de Vento (2 MP)
+<div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Duração:** concentração.
+___
+
+It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+
+{{pageNumber,auto}}
+\page
 
 ### Mass Healing Word (3 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
@@ -4331,8 +4365,7 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
-\page
+- **+3PM:** increase all damage by +1d6.
 
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
@@ -4363,7 +4396,8 @@ ___
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-- **+1:** +1d6.
+- **+1:** +1d6.{{pageNumber,auto}}
+\page
 
 ### Minor Ilusion (0 MP)
 <div class="spell-tags">ilusion trickery</div>
@@ -4400,8 +4434,7 @@ Todos os seus aliados no alcance recebem +2 em testes de perícia e rolagens de 
 - **+2 PM:** aumenta os bônus em +1..
 - **+2 PM:** aumenta as penalidades em –1..
 - **+7 PM:** muda o alcance para médio. Requer 5º círculo..
-- **+12 PM:** muda a duração para cena. Requer 7º círculo.{{pageNumber,auto}}
-\page
+- **+12 PM:** muda a duração para cena. Requer 7º círculo.
 
 ### Pass Without a Trace (2 MP)
 <div class="spell-tags">abjuration thaumaturgy ilusion trickery wild</div>
@@ -4431,7 +4464,8 @@ ___
 
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
-- **+2 PM:** aumenta as penalidades em –1.
+- **+2 PM:** aumenta as penalidades em –1.{{pageNumber,auto}}
+\page
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -4458,8 +4492,7 @@ ___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
-- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Primal Savagery (0 MP)
 <div class="spell-tags">wild feral</div>
@@ -4492,7 +4525,8 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Raio Solar (3 MP)
 <div class="spell-tags">holy sacred</div>
@@ -4527,8 +4561,7 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
@@ -4556,7 +4589,8 @@ ___
 A ray of sickening greenish energy lashes out toward a creature within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
@@ -4585,8 +4619,7 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
@@ -4619,7 +4652,8 @@ The next time you hit a creature with a melee weapon attack during the spell’s
   
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-- **+1PM:** aumente o dano inicial em +1d6.
+- **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
+\page
 
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
@@ -4656,8 +4690,7 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shillelagh (0 MP)
 <div class="spell-tags">warmagic thaumaturgy plant wild</div>
@@ -4685,7 +4718,8 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..
+- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
+\page
 
 ### Snare (1 MP)
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
@@ -4714,8 +4748,7 @@ ___
 
 Você fecha o punho e gesticula como se estivesse golpeando o alvo, causando 4d6+ mod. Força pontos de dano de impacto. A vítima é empurrada 3m na direção oposta à sua (ou 1,5m se passar na resistência).
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -4746,7 +4779,8 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
@@ -4782,8 +4816,7 @@ You can also specify conditions that will trigger a special activity during the 
   
 If you or any of your companions damage the target, the spell ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -4814,7 +4847,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
+\page
 
 ### Tentacle Twister (1 MP)
 <div class="spell-tags">occult unholy summon wild</div>
@@ -4845,8 +4879,7 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
+- **cost:** description.
 
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
@@ -4873,7 +4906,8 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-- **+1PM:** Aumenta o dano inicial em +1d6.
+- **+1PM:** Aumenta o dano inicial em +1d6.{{pageNumber,auto}}
+\page
 
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
@@ -4902,8 +4936,7 @@ ___
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
-- **+3 PM:** increase the damage by 2 dice.{{pageNumber,auto}}
-\page
+- **+3 PM:** increase the damage by 2 dice.
 
 ### Toque Chocante (1 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -4935,7 +4968,8 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -4968,8 +5002,7 @@ ___
 Você se torna uma máquina de combate, ficando mais forte, rápido e resistente. Você recebe +6 na Defesa, testes de ataque e rolagens de dano corpo a corpo, e 30 PV temporários. Durante a Transformação de Guerra você não pode lançar magias, mas se torna proficiente em todas as armas.
 
 - **+2 PM:** aumenta os bônus na Defesa, testes de ataque e rolagens de dano corpo a corpo em +1, e os PV temporários em +10..
-- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..{{pageNumber,auto}}
-\page
+- **+2 PM:** adiciona componente material (uma barra de adamante no valor de T$ 100). Sua forma de combate ganha um aspecto metálico e sem expressões. Além do normal, você recebe resistência a dano 10 e imunidade a atordoamento, doenças, encantamento, fadiga, paralisia, necromancia, sangramento, sono e veneno, e não precisa respirar..
 
 ### Vicious Mockery (0 MP)
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
@@ -4985,37 +5018,6 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
 - **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
-
-### Warding Bond (2 MP)
-<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
-
-*2nd Circle*
-- **Execução:** padrão
-- **Alcance:** toque
-- **Alvo:** 1 criatura
-- **Duração:** cena.
-___
-
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
-  
-While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
-  
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
-
-
-
-### Warding Wind (2 MP)
-<div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
-
-*2nd Circle*
-- **Execução:** padrão
-- **Alcance:** pessoal
-- **Duração:** concentração.
-___
-
-It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
-
-
 
 ### Web (2 MP)
 <div class="spell-tags">feral wild trickery creation arcane</div>

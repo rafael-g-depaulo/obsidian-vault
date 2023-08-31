@@ -1,6 +1,6 @@
 # Equipment
 
-A lv1 character starts with 80gp
+A lv1 character starts with 100gp (around 3 month's worth of a normal working person's living wage, representing them selling most of their posetions and using their saved up money to go on an adventure).
 ## Simple Weapons
 
 | Melee Weapons  | Damage | Crit |           Properties            | Preço |
@@ -36,29 +36,35 @@ A lv1 character starts with 80gp
 |   Greataxe    |  1d12  |  x3  | Heavy, 2-handed  |       |
 |  Greatsword   |  2d6   |  19  | Heavy, 2-handed  |       |
 
-| Ranged Weapons  | Damage | Crit |                      Properties                       | Preço | 
-|:---------------:|:------:|:----:|:-----------------------------------------------------:| ----- |
-| Crossbow, heavy |  1d10  |  x3  | Range (20sqr/40sqr), heavy, loading(action), 2-handed |       |
-|     Longbow     |  1d8   |  19  |         Range (25sqr/50sqr), heavy, 2-handed          |       |
+| Ranged Weapons  | Damage | Crit |                   Properties                   | Preço |
+|:---------------:|:------:|:----:|:----------------------------------------------:| ----- |
+| Crossbow, hand  |  1d6   |  x3  |   Range (6sqr/24sqr), light, loading(action)   | 75gp  |
+| Crossbow, heavy |  1d10  |  x3  | Range (20sqr/40sqr), loading(action), 2-handed | 50gp  |
+|     Longbow     |  1d8   |  18  |         Range (25sqr/50sqr), 2-handed          | 50gp  |
 
 ## Armor
+{{dev-comment
 
-| Light Armor                    | Dodge | Guard | Cost | STR | Penalty |
-| ------------------------------ | ----- | ----- | ---- | --- | ------- |
-| Padded (Acolchoada)            | 2     | 0     | 10g  | -   | 0       |
-| Leather (Couro)                | 3     | -2    | 50g  | -   | 0       |
-| Studded leather (Couro Batido) | 4     | -3    | 500g | -   | 0       |
-| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   | 0       |
+**TODO:** figure out how to introduce stealth penalties back into this, possibly joined with movement penalty in some way
 
-| Medium Armor                       | Dodge | Guard | Cost | STR | Penalty | 
-| ---------------------------------- | ----- | ----- | ---- | --- | ------- |
-| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   | 0       |
-| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   | 0       |
-| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   | 0       |
-| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   | -1      |
-| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  | -2      |
-| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  | -3      |
-| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  | -3      |
+}}
+
+| Light Armor                    | Dodge | Guard | Cost | STR |
+| ------------------------------ | ----- | ----- | ---- | --- |
+| Padded (Acolchoada)            | 2     | 0     | 10g  | -   |
+| Leather (Couro)                | 3     | -2    | 50g  | -   |
+| Studded leather (Couro Batido) | 4     | -3    | 500g | -   |
+| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   |
+
+| Medium Armor                       | Dodge | Guard | Cost | STR |
+| ---------------------------------- | ----- | ----- | ---- | --- |
+| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   |
+| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   |
+| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   |
+| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   |
+| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  |
+| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  |
+| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  |
 
 | Heavy Armor                    | Dodge | Guard | Cost   | STR | Movement |
 | ------------------------------ | ----- | ----- | ------ | --- | -------- |
@@ -67,15 +73,13 @@ A lv1 character starts with 80gp
 | Splint                         | -3    | 4     | 200g   | 14  | -1sqr    |
 | Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -2sqr    |
 
-| Shield       | Dodge | Guard | Cost | STR | Penalty | 
-| ------------ | ----- | ----- | ---- | --- | ------- |
-| Buckler      | 2     | 1     | 5g   | -   | 0       |
-| Light Shield | -3    | 2     | 15g  | -   | -1      |
-| Heavy Shield | -4    | 3     | 200g | 13  | -2      |
+| Shield       | Dodge | Guard | Cost | STR |
+| ------------ | ----- | ----- | ---- | --- |
+| Buckler      | 2     | 1     | 5g   | -   |
+| Light Shield | -3    | 2     | 15g  | -   |
+| Heavy Shield | -4    | 3     | 200g | 13  |
 
 \**STR*: The minimum strength score requirement to wear the armor.
-
-\**Penalty (deprecated? probably gonna remove/rework it)*: The negative modifier that wearing the armor gives to a character attempting a skill check for which armor is a hinderance (e.g.: stealth)
 
 \*Movement: Movement speed penalty while wearing.
 

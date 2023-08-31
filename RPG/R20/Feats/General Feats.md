@@ -2,7 +2,7 @@
 {{}}
 **Proficiência.** Escolha uma proficiência: armas marciais, armas de fogo, armaduras pesadas ou escudos (se for proficiente em armas marciais, você também pode escolher armas exóticas). Você recebe essa proficiência. Você pode escolher este poder outras vezes para proficiências diferentes.
 
-**AAAAAAAAA.** Ação: Ganhe PRE + lv temp MP e +1 nível de exaustão.
+**Forçar Reservas.** Livre: Ganhe PRE + seu nível de MP temporário e +1 nível de exaustão.
 
 **Saque Rápido.** Você recebe +2 em Iniciativa e pode sacar ou guardar itens como uma ação livre (em vez de ação de movimento). Além disso, a ação que você gasta para recarregar uma arma de disparo diminui em uma categoria (ação completa para padrão, padrão para movimento, movimento para livre).
 

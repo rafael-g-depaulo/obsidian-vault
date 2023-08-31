@@ -48,13 +48,13 @@
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Laço Protetor]]
 
 ## Spell Descriptions
 
@@ -499,6 +499,24 @@ A creature of your choice that you can see within range regains hit points equal
 - **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
 
+### Laço Protetor (2 MP)
+<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** cena.
+___
+
+This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
+  
+While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
+  
+The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+
+
+
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -539,7 +557,8 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -553,8 +572,7 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
 
 ### Moonbeam (2 MP)
 <div class="spell-tags">wild energy radiant holy sacred</div>
@@ -602,7 +620,8 @@ ___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
-- **+2 PM:** aumenta o número de alvos em 2.
+- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
+\page
 
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -619,8 +638,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
 
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
@@ -662,7 +680,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
@@ -680,8 +699,7 @@ You create three rays of fire and hurl them at targets within range. You can hur
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 - **+2PM:** +1 raio.
-- **+4PM:** +1d6 por raio.{{pageNumber,auto}}
-\page
+- **+4PM:** +1d6 por raio.
 
 ### Searing Smite (1 MP)
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
@@ -723,7 +741,8 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -737,8 +756,7 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
-\page
+- **+2PM:** increase the damage by +1d6.
 
 ### Thunderous Smite (1 MP)
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
@@ -767,24 +785,6 @@ ___
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
 - **cost:** description.
-
-### Warding Bond (2 MP)
-<div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
-
-*2nd Circle*
-- **Execução:** padrão
-- **Alcance:** toque
-- **Alvo:** 1 criatura
-- **Duração:** cena.
-___
-
-This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends.  
-  
-While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.  
-  
-The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
-
-
 
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>

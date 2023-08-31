@@ -83,7 +83,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- **Tunnel pelo solo.** (1x turno) Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+- **Tunnel pelo solo.** Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
@@ -152,15 +152,15 @@ List of spells available for a Plantomancer to learn.
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]

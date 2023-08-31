@@ -38,7 +38,7 @@
 }}
 
 
-**Ritmo de Batalha.** (1x turno) Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
+**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
 **Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
 

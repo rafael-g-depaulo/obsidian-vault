@@ -111,7 +111,9 @@
 - [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Moonbeam]]
@@ -123,8 +125,6 @@
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 - [[Web]]
 - [[Wither and Bloom ]]
 

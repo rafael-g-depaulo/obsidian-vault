@@ -433,7 +433,7 @@ feats:
 }}
 
 
-**Ritmo de Batalha.** (1x turno) Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
+**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
 **Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
 
@@ -765,7 +765,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 - **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
-- **Tunnel pelo solo.** (1x turno) Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
+- **Tunnel pelo solo.** Ação livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
 
 - **Braço Treinado.** dobra o alcance das plantas que você pode plantar.
 
@@ -834,15 +834,15 @@ List of spells available for a Plantomancer to learn.
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Hold Person]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
+- [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
 - [[Spike Growth]]
 - [[Sugestion]]
-- [[Laço Protetor]]
-- [[Manto de Vento]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -1125,13 +1125,13 @@ List of spells available for a Spelgard to learn.
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[Scorching Ray]]
 - [[See invisibility]]
 - [[Spider Climb]]
-- [[Laço Protetor]]
 
 {{pageNumber,auto}}
 \page
