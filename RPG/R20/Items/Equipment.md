@@ -34,7 +34,6 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 |   Longsword   |  1d8   |  19  | Versatile (1d10) | 15gp  |
 |    Rapier     |  1d6   |  18  | Finesse          | 25gp      |
 |   Greataxe    |  1d12  |  x3  | 2-handed         | 30gp  |
-|   GreatMaul   |  3d4   |  -   | 2-handed         | 40gp  |
 |  Greatsword   |  2d6   |  19  | 2-handed         | 50gp  |
 
 | Ranged Weapons  | Damage | Crit |                   Properties                   | Preço |
@@ -45,7 +44,7 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 ## Armor
 {{dev-comment
-s
+
 **TODO:** figure out how to introduce stealth penalties back into this, possibly joined with movement penalty in some way
 
 }}
