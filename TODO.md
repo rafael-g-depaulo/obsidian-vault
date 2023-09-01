@@ -28,30 +28,30 @@ kanban-plugin: basic
 ## todo
 
 - [ ] net adicionar ponto
-- [ ] tamanho e enlarge/reduce R20
-- [ ] tmux keybind new session
 - [ ] trocar senha gov.br
 
 
 ## doing
 
-- [ ] REVISAR PROVA UNIDADE 3 PE2
-- [ ] calculadora científica app
 
 
 ## done
 
-- [ ] PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
-- [ ] issues TCC
-- [ ] lista PE 2até 3 completo
-- [ ] check-in tcc
-- [ ] review tcc
 
 
 ***
 
 ## Archive
 
+- [ ] 2023-09-01 13:42 REVISAR PROVA UNIDADE 3 PE2
+- [ ] 2023-09-01 13:42 tmux keybind new session
+- [ ] 2023-09-01 13:42 calculadora científica app
+- [ ] 2023-09-01 13:42 tamanho e enlarge/reduce R20
+- [ ] 2023-09-01 13:42 PELO AMOR DE DEUS CANCELA O PLANO DO DEVOPNESS ANTES DE 18 DE JUNHO
+- [ ] 2023-09-01 13:42 issues TCC
+- [ ] 2023-09-01 13:42 lista PE 2até 3 completo
+- [ ] 2023-09-01 13:42 check-in tcc
+- [ ] 2023-09-01 13:42 review tcc
 - [ ] kitty open link
 - [ ] write up yq in obsidian
 - [ ] análise estatística de duolingo
