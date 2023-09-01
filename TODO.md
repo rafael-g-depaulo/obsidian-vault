@@ -29,6 +29,11 @@ kanban-plugin: basic
 
 - [ ] net adicionar ponto
 - [ ] trocar senha gov.br
+- [ ] add batcat to config
+- [ ] add find to config
+- [ ] add batcat by default to fzf
+- [ ] add ripgrep to config
+- [ ] montar orçamento testes acessibilidade
 
 
 ## doing
