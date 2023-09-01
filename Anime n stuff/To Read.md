@@ -3,3 +3,5 @@ https://www.novelupdates.com/series/lord-of-the-mysteries/
 
 cool site to read manga
 https://mangareader.to/home
+
+- ren dao da sheng
