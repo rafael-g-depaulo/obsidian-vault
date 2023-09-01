@@ -34,6 +34,7 @@ kanban-plugin: basic
 - [ ] add batcat by default to fzf
 - [ ] add ripgrep to config
 - [ ] montar orçamento testes acessibilidade
+- [ ] study delta/git diff
 
 
 ## doing
