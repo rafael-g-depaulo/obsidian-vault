@@ -3,7 +3,7 @@
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/39121449-chapter-78)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/92462646-chapter-87)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
-
+- [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-7/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
