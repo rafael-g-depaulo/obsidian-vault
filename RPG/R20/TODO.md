@@ -11,3 +11,4 @@
 - [ ] add eclético from bardo t20 ass specialist feat
 - [ ] add rule to max FP cost of miracles
 - [ ] Add rule from [this video](https://www.youtube.com/shorts/5FiThfhnPJs)
+- [ ] Add magic kinds of whetstones/oils
