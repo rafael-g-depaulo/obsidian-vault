@@ -7,7 +7,7 @@
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Devious Daughter of the Duchy](https://reaperscans.com/comics/7906-devious-daughter-of-the-duchy/chapters/56111941-chapter-12)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
-
+- [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
