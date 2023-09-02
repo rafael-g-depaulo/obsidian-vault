@@ -16,3 +16,4 @@
 - [Life of a Magic Academy Student](https://asuracomics.com/life-of-a-magic-academy-mage-chapter-56/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
+- [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
