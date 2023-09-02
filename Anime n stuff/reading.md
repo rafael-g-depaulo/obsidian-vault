@@ -11,7 +11,7 @@
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
-- [Dragon Devouring Mage](https://asuracomics.com/4485330618-dragon-devouring-mage-23/)
+- [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
 - [Revenge of the Sword Hound](https://asuracomics.com/4485330618-revenge-of-the-iron-blooded-sword-hound-chapter-40/)
 - [Life of a Magic Academy Student](https://asuracomics.com/life-of-a-magic-academy-mage-chapter-56/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
