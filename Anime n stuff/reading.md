@@ -4,10 +4,14 @@
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/92462646-chapter-87)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-7/)
+- [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
+- [Devious Daughter of the Duchy](https://reaperscans.com/comics/7906-devious-daughter-of-the-duchy/chapters/56111941-chapter-12)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/4485330618-dragon-devouring-mage-23/)
-
-
+- [Revenge of the Sword Hound](https://asuracomics.com/4485330618-revenge-of-the-iron-blooded-sword-hound-chapter-40/)
+- [Life of a Magic Academy Student](https://asuracomics.com/life-of-a-magic-academy-mage-chapter-56/)
+- [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
+- [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
