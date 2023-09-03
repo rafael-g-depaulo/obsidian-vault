@@ -18,6 +18,7 @@
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
+- [Priest of Corruption](https://asuracomics.com/the-priest-of-corruption-chapter-19/)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
