@@ -5,9 +5,10 @@
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-7/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
-- [Devious Daughter of the Duchy](https://reaperscans.com/comics/7906-devious-daughter-of-the-duchy/chapters/56111941-chapter-12)
+- [Devious Daughter of the Duchy](https://reaperscans.com/comics/7906-devious-daughter-of-the-duchy/chapters/57176642-chapter-23)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
+- [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/96951243-chapter-7)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
