@@ -9,13 +9,3 @@ Tsuyu & the other shamans tell them where the bones are (some are in the city, s
 (Tsuyu tells Syril her dream)
 ->
 Party goes to solve the mistery
-
-
-
-
-
-
-
-OPTIONS:
-
-  late game boss: beholder lich
