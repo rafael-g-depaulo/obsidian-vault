@@ -1,6 +1,5 @@
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-74/)
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
-- [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/92462646-chapter-87)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-7/)
@@ -20,6 +19,7 @@
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
 - [Priest of Corruption](https://asuracomics.com/the-priest-of-corruption-chapter-19/)
+- [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
