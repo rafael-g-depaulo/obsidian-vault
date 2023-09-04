@@ -1,4 +1,4 @@
-hA lot of these are taken from [this article](https://dev.to/craftzdog/my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb).
+hA lot of these are taken from [this article](https://dev.to/craftzdog/my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb), and [this one](https://alpha2phi.medium.com/neovim-plugins-and-configuration-recipes-3d508798eab7) seems to have some nice ones too
 
 ## Necessary
 - b0o/mapx.nvim
@@ -20,6 +20,8 @@ hA lot of these are taken from [this article](https://dev.to/craftzdog/my-neovim
 	- nvim-web-devicons
 - nvim-treesitter
 
+## Learning
+- hardtime.nvim
 ## Linters
 - [prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) (i already have prettier working, but maybe this is smarter or load config better or has a better API for UX idk)
 
