@@ -7,6 +7,8 @@ https://vitest.dev/
   - [C4 Model, Architecture Viewpoint and Archi 4.7](https://www.archimatetool.com/blog/2020/04/18/c4-model-architecture-viewpoint-and-archi-4-7/)
 - Lucid for charts abd styff
 
+## Writing
+- https://vrite.io/
 ## Methodologies
 ### DDD
 https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
