@@ -7,7 +7,7 @@
 - [Devious Daughter of the Duchy](https://reaperscans.com/comics/7906-devious-daughter-of-the-duchy/chapters/57176642-chapter-23)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
-- [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/96951243-chapter-7)
+- [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
@@ -23,3 +23,6 @@
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
+
+## To-read
+- [Of all things, I became a Crow](https://asuracomics.com/6429950787-of-all-things-i-became-a-crow-chapter-1/)
