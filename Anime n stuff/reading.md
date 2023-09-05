@@ -25,4 +25,4 @@
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
 
 ## To-read
-- [Of all things, I became a Crow](https://asuracomics.com/6429950787-of-all-things-i-became-a-crow-chapter-1/)
+- [Of all things, I became a Crow](https://asuracomics.com/6429950787-of-all-things-i-became-a-crow-chapter-5/)
