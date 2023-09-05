@@ -8,7 +8,6 @@
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/96951243-chapter-7)
-- [Absolute Sword Sense](https://asuracomics.com/4485330618-absolute-sword-sense-chapter-28/)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
@@ -20,6 +19,7 @@
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
 - [Priest of Corruption](https://asuracomics.com/the-priest-of-corruption-chapter-19/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
+- [Absolute Sword Sense](https://asuracomics.com/6429950787-absolute-sword-sense-chapter-47/)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
