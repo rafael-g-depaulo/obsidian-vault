@@ -28,7 +28,6 @@ kanban-plugin: basic
 ## todo
 
 - [ ] net adicionar ponto
-- [ ] trocar senha gov.br
 - [ ] add batcat to config
 - [ ] add find to config
 - [ ] add batcat by default to fzf
@@ -162,6 +161,7 @@ kanban-plugin: basic
 - [x] 2023-06-05 11:04 trancar lógica
 - [x] 2023-06-05 11:04 ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
 - [x] 2023-06-05 11:04 rodar ragic. convidar sig
+- [x] 2023-09-07 20:15 trocar senha gov.br
 
 %% kanban:settings
 ```
