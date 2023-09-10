@@ -8,7 +8,7 @@
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
 - [Of all things, I became a Crow](https://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/)
 
-## Caught uhttps://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/p
+## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
