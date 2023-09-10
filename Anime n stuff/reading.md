@@ -1,4 +1,4 @@
-- [Fist Demon of Mount Hua]()
+- [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-114/)
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/92462646-chapter-87)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-7/)
@@ -6,9 +6,9 @@
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
-- [Of all things, I became a Crow](https://asuracomics.com/6429950787-of-all-things-i-became-a-crow-chapter-5/)
+- [Of all things, I became a Crow](https://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/)
 
-## Caught up
+## Caught uhttps://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/p
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
