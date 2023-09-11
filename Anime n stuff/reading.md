@@ -1,6 +1,5 @@
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-114/)
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
-- [Estio](https://reaperscans.com/comics/4364-estio/chapters/92462646-chapter-87)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
@@ -21,6 +20,7 @@
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 - [Absolute Sword Sense](https://asuracomics.com/6429950787-absolute-sword-sense-chapter-47/)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
+- [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
