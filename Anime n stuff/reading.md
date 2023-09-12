@@ -6,6 +6,7 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
 - [Of all things, I became a Crow](https://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/)
+- [Dungeon Odissey](https://asuracomics.com/3495919670-dungeon-odyssey-chapter-12/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
