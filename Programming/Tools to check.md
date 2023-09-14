@@ -66,6 +66,7 @@ Curated lists:
 https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91dadde9777e
 - [Neon](https://neon.tech/) — Serverless, Fault-Tolerant, Branchable Postgres
 - ngrok
+- [preevy](https://github.com/livecycle/preevy) - a CLI tool for making ephemeral docker envs to test local branches and stuff. pretty cool
 
 
 ### Secret Management

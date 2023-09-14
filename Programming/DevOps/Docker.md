@@ -6,6 +6,10 @@ curl -sSfL get.docker.com | bash
 ```
 
 ## CLI
+
+## Docker init
+with newer versions of docker (4.18+) there's now a `docker init` command, that generates the `Dockerfile`, `compose.yml` and `.dockerignore`. I learned about it from [this medium article](https://dev.to/livecycle/easy-dockerization-with-docker-init-3oom)
+
 ### Build Image
 ```bash
 docker image build . -f ./path/to/dockerfile -t name-of-image
