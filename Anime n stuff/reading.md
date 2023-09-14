@@ -4,7 +4,7 @@
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-6-the-boss-monster-of-the-humanities-and-social-sciences-building-3/viewer?title_no=3690&episode_no=6)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
-- [Of all things, I became a Crow](https://asuracomics.com/3495919670-of-all-things-i-became-a-crow-chapter-31/)
+- [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-30/)
 
 ## Caught up
