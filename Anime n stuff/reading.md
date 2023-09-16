@@ -5,7 +5,6 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
-- [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-52/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -26,6 +25,7 @@
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [sword fanatic wanders through the night](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
+- [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
 
 ## To-read
 
