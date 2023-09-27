@@ -5,7 +5,7 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/12013946-chapter-22)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
-https://mangalivre.net/mookhyang---dark-lady/online/197805/capitulo/18#/!page10
+- [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/322653/capitulo/115#/!page0)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
