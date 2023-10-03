@@ -11,13 +11,13 @@ Checklist objetivos semana
 - [ ] re-organização das issues
 
 Objetivos semana que vem:
-- [ ] (R) montar um exemplo de uso funcional
+- [x] (R) montar um exemplo de uso funcional
 - [ ] (L com R na call) deploy npm
 - [ ] (R) combinar de forma concreta os usos no ladecic (falar com kadu)
 	- [ ] **exatamete** quais projetos
-	- [ ] rodar o backend deles localmente 
+	- [x] rodar o backend deles localmente 
 	- [ ] definir data de entrega
-- [ ] (L) **definir datas de entrega interna para as etapas do texto**
+- [x] (L) **definir datas de entrega interna para as etapas do texto**
 	- [ ] validar com a gena
-- [ ] (R) confirmar com a gena se a gente tá matriculado
+- [x] (R) confirmar com a gena se a gente tá matriculado
 - [ ] (L) cobrar o sig do negócio que ele ia checar com a gena
