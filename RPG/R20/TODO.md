@@ -12,3 +12,5 @@
 - [ ] add rule to max FP cost of miracles
 - [ ] Add rule from [this video](https://www.youtube.com/shorts/5FiThfhnPJs)
 - [ ] Add magic kinds of whetstones/oils
+- [ ] Add encumberence rules
+	- [ ] idea: copy T20, but instead of 10 + 2\*STR, 10 +STR+CON
