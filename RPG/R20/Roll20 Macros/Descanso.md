@@ -5,13 +5,13 @@
 
 ## Versão sem mantimentos
 ```
-&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@&lbrace;character_name&rbrace;)}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`[[ ?{CD Descanso}[CD Descanso] ]] @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](@{rest_rules_link}) }}
+&{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`[[ ?{CD Descanso}[CD Descanso] ]] @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](@{rest_rules_link}) }}
 ```
 
 ## Resultado por qualidade
 ### Ruim
 ```
-&{template:default} {{name=Descanso (@{selected|character_name})}} {{Qualidade=Ruim}} {{MP=  [[ [[ceil(@{selected|level}/2)]][lv/2] ]] MP recuperado}} {{Descrição=@{selected|character_name} descansa, e apesar de uma noite mal dormida ainda consegue se recuperar um pouco.}} {{Exaustão= Faça um [**teste de resistência**](`@{selected|token_name} rola um teste de resistência (CON) [[ 1d20+@{selected|CON_mod} + @{selected|prof_CON} ]] ) contra a CD do descanso. Se falhar, ganha +1 nível de exaustão, +1 para cada 5 abaixo da CD.}}  
+&{template:default} {{name=Descanso (@{selected|character_name})}} {{Qualidade=Ruim}} {{MP=  [[ [[ceil(@{selected|level}/2)]][lv/2] ]] MP recuperado}} {{Descrição=@{selected|character_name} descansa, e apesar de uma noite mal dormida ainda consegue se recuperar um pouco.}} {{Exaustão= Faça um [**teste de resistência**](`@{character_name} rola um teste de resistência &#40;CON&#41; &lbrack;&lbrack; 1d20+@{CON_mod} + @{prof_CON} &rbrack;&rbrack;) contra a CD do descanso. Se falhar, ganha +1 nível de exaustão, +1 para cada 5 abaixo da CD.}}  
 ```
 
 ### Normal
