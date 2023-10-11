@@ -2,6 +2,7 @@
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
 
 Rune effects:
+
 | Name                 | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
 | -------------------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
