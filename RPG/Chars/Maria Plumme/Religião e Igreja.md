@@ -1,13 +1,13 @@
 ## Preces
-| Skill                  | Prece                                                                              |
-| ---------------------- | ---------------------------------------------------------------------------------- |
-| Canalizar Energia      |                                                                                    |
-| Sopro do Mar           |                                                                                    |
-| Criar Elemento         |                                                                                    |
-| Flagelo da Proteção    |                                                                                    |
-| Névoa                  |                                                                                    |
-| Jato d'Água            |                                                                                    |
-| Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. | 
+| Skill                  | Prece                                                                                  |
+| ---------------------- | -------------------------------------------------------------------------------------- |
+| Canalizar Energia      | Bondade eterna dos deuses, salve seus heróis para que destruam o pecado. Onda de Vida! |
+| Sopro do Mar           | Maré do destino, congele a maldade como Ignis queima o medo. Sopro do Mar!             |
+| Criar Elemento         | Abundancia Infinita, venha a mim a presença de Aequor. Criar Água!                     |
+| Flagelo da Proteção    | Amor de Gaia, Forma de Aequor, Vingança de Ignis. Flagelo da Proteção!                 |
+| Névoa                  | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                  |
+| Jato d'Água            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                 |
+| Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade.     | 
 
 ## Deuses
 ### Aequor, da água
@@ -21,12 +21,15 @@ quais são as diferenças de personalidade dos deuses? valores? associações ad
 ### Organização
 Hierarquia:
 1. Papa
-2. Apóstolo (4, um de cada elemento)
+2. Apóstolo(a) (4, um de cada elemento)
 3. Cardinal (ficam junto do papa, são basicamente os subordinados diretos dele e cuidam da política em nível macro)
-4. Arche-Bispo (maior posição regional)
-5. Bispo (padre de uma catedral em vez de uma igreja, muito mais poder e influência. talvez pode ter padres abaixo dele ou participar da seleção de padres ou algo assim)
-6. Padre (menor posição que controla uma igreja inteira)
-7. 
+4. Arque-Episcopisa/Arque-Bispo (maior posição regional)
+5. Episcopisa/Bispo (padre de uma catedral em vez de uma igreja, muito mais poder e influência. talvez pode ter padres abaixo dele ou participar da seleção de padres ou algo assim)
+6. Madre/Padre (menor posição que controla uma igreja inteira)
+7. Abadesa/Abade (Irmã/Irmão superior, uma parte deles candida)
+8. Irmã/Irmão (depois de 1-3 anos de estudo e trabalho, são oficialmente parte do clero e recebem tarefas mais importantes dos Abades/Padres)
+9. Iniciada/Iniciado (acabou de entrar na organização. grande maioria são orfãos recebidos pela igreja)
+
 
 Algum conjunto de preceitos, pensamentos, guias, preces, rituais ou tabus específicos?
 

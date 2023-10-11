@@ -1,5 +1,5 @@
 ## Perks
-1. Aparência Inocente 
+1. Aparência Inocente ![[Pasted image 20231011173400.png]]
 2. Fama Perfeita ![[Pasted image 20231011173315.png]]
 
 ## Flaws
