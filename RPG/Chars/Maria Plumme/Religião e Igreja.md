@@ -1,13 +1,13 @@
 ## Preces
-| Skill               | Prece |
-| ------------------- | ----- |
-| Canalizar Energia   |       |
-| Sopro do Mar        |       |
-| Criar Elemento      |       |
-| Flagelo da Proteção |       |
-| Névoa               |       |
-| Jato d'Água         |       |
-| Benção da Subsistência                    |       |
+| Skill                  | Prece                                                                              |
+| ---------------------- | ---------------------------------------------------------------------------------- |
+| Canalizar Energia      |                                                                                    |
+| Sopro do Mar           |                                                                                    |
+| Criar Elemento         |                                                                                    |
+| Flagelo da Proteção    |                                                                                    |
+| Névoa                  |                                                                                    |
+| Jato d'Água            |                                                                                    |
+| Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. | 
 
 ## Deuses
 ### Aequor, da água
