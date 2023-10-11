@@ -11,9 +11,7 @@ ok this is great. it's not as good as the third one, but it's way easier to be c
 ![[Recording 20231011135413.webm]]
 
 contrast test to see how different it is from my normal speaking voice
-
 ![[Recording 20231011135713.webm]]
 
 ok, like the contrast. it's definitely decent. lest try one more time to make sure i can do it consistently. also i'll try to do it a bit louder.
-
 ![[Recording 20231011140046.webm]]
