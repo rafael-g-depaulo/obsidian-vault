@@ -1,0 +1,1 @@
+[video about sorcerer power leveling](https://www.youtube.com/watch?v=OiazlUXl33g) (look at top comment by thestray9084)
