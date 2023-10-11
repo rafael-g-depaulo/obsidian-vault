@@ -21,15 +21,22 @@ quais são as diferenças de personalidade dos deuses? valores? associações ad
 ### Organização
 Hierarquia:
 1. Papa
-2. Apóstolo(a) (4, um de cada elemento)
-3. Cardinal (ficam junto do papa, são basicamente os subordinados diretos dele e cuidam da política em nível macro)
-4. Arque-Episcopisa/Arque-Bispo (maior posição regional)
-5. Episcopisa/Bispo (padre de uma catedral em vez de uma igreja, muito mais poder e influência. talvez pode ter padres abaixo dele ou participar da seleção de padres ou algo assim)
-6. Madre/Padre (menor posição que controla uma igreja inteira)
-7. Abadesa/Abade (Irmã/Irmão superior, uma parte deles candida)
-8. Irmã/Irmão (depois de 1-3 anos de estudo e trabalho, são oficialmente parte do clero e recebem tarefas mais importantes dos Abades/Padres)
-9. Iniciada/Iniciado (acabou de entrar na organização. grande maioria são orfãos recebidos pela igreja)
-
+2. Apóstolo(a)
+	1. Tem 4, um de cada elemento
+3. Cardinal 
+	1. ficam junto do papa, são basicamente os subordinados diretos dele e cuidam da política em nível macro
+4. Arque-Episcopisa/Arque-Bispo
+	1. maior posição regional
+5. Episcopisa/Bispo
+	1. padre de uma catedral em vez de uma igreja, muito mais poder e influência. talvez pode ter padres abaixo dele ou participar da seleção de padres ou algo assim
+6. Madre/Padre 
+	1. menor posição que controla uma igreja inteira
+7. Abadesa/Abade 
+	1. Irmã/Irmão superior, uma parte deles candidatos para se tornar Madre/Padre
+8. Irmã/Irmão 
+	1. depois de 1-3 anos de estudo e trabalho, são oficialmente parte do clero e recebem tarefas mais importantes dos Abades/Padres
+9. Iniciada/Iniciado
+	1. acabou de entrar na organização. grande maioria são orfãos recebidos pela igreja
 
 Algum conjunto de preceitos, pensamentos, guias, preces, rituais ou tabus específicos?
 
