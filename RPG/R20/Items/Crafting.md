@@ -4,19 +4,18 @@
 
 basic rules:
 
-needs 25% of the item's worth of ingredients
+needs 25% of the item's value worth of ingredients
 
 50gp worth of item/workweek. (increase to more gp/week at later levels.)
 
 1 check per workweek
 
-use tools. costs 500silver (-5 without tools)
+use tools. costs 500silver for a set of tools (-5 without tools)
 
-## Crafting Roll
-1 roll per workweek. if it takes multiple weeks you can roll again, but after 3 fails the item breaks and all materials are lost. fails can maybe add other adversities (build fail table).
+## Crafting Rolls and time to produce an item
+Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools.
 
 The CD is defined by the item rarity.
-
 #### Crafting roll CD by item rarity
 | Item Rarity | CD  |
 | ----------- | --- |
@@ -25,6 +24,16 @@ The CD is defined by the item rarity.
 | Rare        | 18  |
 | Very rare   | 20  |
 | Legendary   | 25  | 
+
+After rolling and comparing against the item CD
+
+| Skill check result | Crafting progress                      | Materials spent  |
+| ------------------ | -------------------------------------- | ---------------- |
+| Passed by 5+       | Item crafting progresses.              | 50% of expected  |
+| Passed             | Item crafting progresses.              | 100% of expected |
+| Failed             | Item crafting doesn't progress.        | 0                |
+| Failed by 5+       | Item crafting doesn't progress.        | 100% of expected |
+| Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
