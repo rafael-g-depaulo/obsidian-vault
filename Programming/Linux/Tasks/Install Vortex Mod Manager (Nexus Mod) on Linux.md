@@ -1,32 +1,7 @@
-for it you need to install Pacstall:
+Accordint to [this video](https://www.youtube.com/watch?v=-4Bf3gePcCU), it's best to do it from `steaktinker`
+##  Build `steamtinker` from source
 
-```sh
-sudo bash -c "$(curl -fsSL https://pacstall.dev/q/install || wget -q https://pacstall.dev/q/install -O -)"
-```
-
-then install the steamtinker through pacstall:
-
-```sh
-pacstall -I steamtinkerlaunch-git
-```
-
-and you might need yad for steamtinker:
-
-```sh
-sudo apt install git libglib2.0-dev libtool autoconf automake intltool libgtk-3-dev build-essential
-git clone https://github.com/v1cont/yad.git yad-dialog-code
-cd yad-dialog-code
-autoreconf -ivf && intltoolize
-./configure && make
-sudo make install
-gtk-update-icon-cache
-cd .. && rm -rf ./yad-dialog-code
-```
-
-
-##  other option: trying to build steamtinker from source
-
-install yad from source
+### dependency: install `yad` from source
 ```sh
 git clone https://github.com/v1cont/yad.git yad-dialog-code
 cd ./yad-dialog-code/
@@ -34,3 +9,26 @@ autoreconf -ivf && intltoolize
 sudo ./configure && sudo make && sudo make install
 gtk-update-icon-cache
 ```
+
+```sh
+# once you've downloaded the latest release from https://github.com/sonic2kk/steamtinkerlaunch/releases
+unzip downloaded_source_code.zip
+cd downloaded_source_code.zip
+sudo make install
+
+# create dir for config
+mkdir -p ~/.config/steamtinkerlaunch/lang
+cp english.txt ~/.config/steamtinkerlaunch/lang
+
+# config steamtinker
+./steamtinkerlaunch
+
+# update cache
+gtk-update-icon-cache
+
+# add as a steam compatibility tool
+steamtinkerlaunch compat add
+```
+
+## Installing Vortex
+you can then install vortex using the steamtinkerlaunch GUI.
