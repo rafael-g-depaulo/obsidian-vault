@@ -13,9 +13,21 @@ needs 25% of the item's value worth of ingredients
 use tools. costs 500silver for a set of tools (-5 without tools)
 
 ## Crafting Rolls and time to produce an item
-Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools.
+Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
 
-The CD is defined by the item rarity.
+### Time
+### Materials
+### Skill
+Below is a list of all crafting-related skills.
+
+| Skill         | Relevant Attribute | Items crafted using it                                   |
+| ------------- | ------------------ | -------------------------------------------------------- |
+| Alchemy       | INT                | Potions, poisons, explosives and other alchemical items. |
+| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.           |
+| Scribing      | SEN                | Spell Scrolls.                                           |
+
+
+When rolling the relevant skill the CD is defined by the item rarity.
 #### Crafting roll CD by item rarity
 | Item Rarity | CD  |
 | ----------- | --- |
