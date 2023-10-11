@@ -22,3 +22,6 @@ sudo make install
 gtk-update-icon-cache
 cd .. && rm -rf ./yad-dialog-code
 ```
+
+
+## 
