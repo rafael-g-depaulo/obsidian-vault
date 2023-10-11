@@ -19,7 +19,7 @@ Some items are relatively simple and quick to produce, while others become a hug
 When crafting an item, a character needs to have prepared materials for it, worth 25% of the items total value. The materials must be proper for the item in question, and some items might have particularly hard to acquire materials.
 
 ### Time
-Crafting an item might be quick or complex, depending on the item. The expected crafting time
+Crafting an item might be quick or complex, depending on the item. The expected crafting time equals 1 week of work (can be done while adventuring, during downtime and while resting).
 
 ### Skill
 Below is a list of all crafting-related skills.
