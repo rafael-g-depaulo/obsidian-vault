@@ -1,0 +1,1 @@
+ela era uma órfã de rua qualquer, e seus pais abusivos "cuidavam" dela. os pais eram magos não-elementais (pai transferência, mãe mental), e em um beco eles foram brutalmente mortos como hereges na frente dela por pessoas da igreja. com o sangue da sua mãe descendo pelo seu rosto, Maria agradeceu ao povo da Igreja, e usou sua magia pela primeira vez sem querer para abençoar eles.
