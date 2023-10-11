@@ -18,18 +18,23 @@ Some items are relatively simple and quick to produce, while others become a hug
 ### Materials
 When crafting an item, a character needs to have prepared materials for it, worth 25% of the items total value. The materials must be proper for the item in question, and some items might have particularly hard to acquire materials.
 
-### Time
-Crafting an item might be quick or complex, depending on the item. The expected crafting time equals 1 week of work per 50 gold of the item's worth. This time can be taken while adventuring, (during downtime and/or while resting). If the item being crafted is worth 50 gold or less, then
+Depending on how the crafter rolls on the skill checks for the item creation, materials may be saved or wasted.
 
+### Time
+Crafting an item might be quick or complex, depending on the item. The expected crafting time equals 1 week of work per 50 gold of the item's worth. This time can be taken while adventuring, (during downtime and/or while resting).
+
+If the item being crafted is worth 50 gold or less, then at the end of the crafting time you roll a skill check with the relevant skill. If the item is worth more than 50 gold, at the end of every week spend working on it you roll a new skill check. That check may improve the item's progress, do nothing, regress it or even completely destroy the partially built item.
 ### Skill
-Below is a list of all crafting-related skills.
+Below is a list of all crafting-related skills. 
 
 | Skill         | Relevant Attribute | Items crafted using it                                   |
 | ------------- | ------------------ | -------------------------------------------------------- |
 | Alchemy       | INT                | Potions, poisons, explosives and other alchemical items. |
 | Rune Crafting | SEN                | Standalone runes and imbuing runes into items.           |
 | Scribing      | SEN                | Spell Scrolls.                                           |
+| Smithing      | STR                | Armor, weapons and ammunition.                           |
 
+When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
 
 When rolling the relevant skill the CD is defined by the item rarity.
 #### Crafting roll CD by item rarity
@@ -63,7 +68,7 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 13- 18   |
 | Legendary   | 19+      |
 
-
+<!--
 #### MAGIC ITEM CRAFTING TIME AND COST
 | Item Rarity | Workweeks\* | Cost\*      | 
 | ----------- | ----------- | ----------- |
@@ -73,3 +78,4 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 25          | 20,000 gp   |
 | Legendary   | 50          | 100, 000 gp |
 \*Halved for a consumable item like a potion or scroll
+-->
