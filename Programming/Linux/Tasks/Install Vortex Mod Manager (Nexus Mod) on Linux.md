@@ -24,4 +24,13 @@ cd .. && rm -rf ./yad-dialog-code
 ```
 
 
-## 
+##  other option: trying to build steamtinker from source
+
+install yad from source
+```sh
+git clone https://github.com/v1cont/yad.git yad-dialog-code
+cd ./yad-dialog-code/
+autoreconf -ivf && intltoolize
+sudo ./configure && sudo make && sudo make install
+gtk-update-icon-cache
+```
