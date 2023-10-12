@@ -14,4 +14,5 @@
 - [ ] Add magic kinds of whetstones/oils
 - [ ] Add encumberence rules
 	- [ ] idea: copy T20, but instead of 10 + 2\*STR, 10 +STR+CON
-- [ ] mechanics for grazing hits
+- [ ] mechanics for grazing hits. maybe if it beats armor-5 still deals STR/DEX dmg.
+- [ ] maybe change all tool use to DEX. could make sense and be interesting.
