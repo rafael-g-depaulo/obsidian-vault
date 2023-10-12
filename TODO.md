@@ -23,6 +23,7 @@ kanban-plugin: basic
 - [ ] add delta to setup/article
 - [ ] kitty move cursos with mouse click
 - [ ] kitty open file in editor [useful??](https://github.com/kovidgoyal/kitty/discussions/5731)
+- [ ] Add zsh-vi-mode installation to setup
 
 
 ## todo
