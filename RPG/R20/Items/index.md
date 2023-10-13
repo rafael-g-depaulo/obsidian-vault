@@ -1,3 +1,5 @@
+![[]]
+
 ![[Equipment]]
 
 ![[Consumable Items]]
