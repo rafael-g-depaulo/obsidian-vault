@@ -89,6 +89,10 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 [[ [[{4,5+@{STR},8}kl2dl1]][5+STR] + @{movespeed_bonus} ]]
 ```
+### carry_limit
+```
+[[ [[ {10 + @{STR} + @{CON}, 8}d1 ]][10+STR+CON] ]]
+```
 ### Info
 ```
 &{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
