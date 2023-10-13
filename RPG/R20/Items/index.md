@@ -1,4 +1,4 @@
-![[]]
+![[Carrying Capacity]]
 
 ![[Equipment]]
 

@@ -1,0 +1,10 @@
+## Itens de aventura
+Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam muito qualquer aventureiro.
+
+| Item                       | Valor     | Efeito                                                                            |
+| -------------------------- | --------- | --------------------------------------------------------------------------------- |
+| Tocha                      | 5 silver  | Quando acesa, ilumina uma região de 10sqr de raio                                 |
+| Algemas                    | 10 silver | Prende alguém. CD 5 DEX save para evitar ser pego, CD 20 atletismo para quebrar   |
+| Mochila de Aventureiro     | 50 silver | Ajuda a organizar seus itens. Dá +2 espaços de inventário e -2 em Furtividade     |
+| Organizador de Pergaminhos | 30 silver | Pasta segmentada para guardar pergaminhos. Pode sacar pergaminhos como ação livre | 
+| Bandoleira de Poções       | 30 silver | Bolsa de couro para organizar poções. Pode sacar itens alquímicos como ação livre |
