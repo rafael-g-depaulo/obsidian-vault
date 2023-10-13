@@ -95,11 +95,11 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 ### Info
 ```
-&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
+&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }} {{Limite de Carga=@{carry_limit}}}
 ```
 ### Info-Paladino
 ```
-&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{FP=[[@{FP}]]/[[@{Max-FP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }}
+&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} {{FP=[[@{FP}]]/[[@{Max-FP}]]}} {{Defesa= @{defense} }} {{Evasão= @{dodge} }} {{Guarda=@{guard} }} {{Velocidade de Movimento=@{move_speed} }} {{Limite de Carga=@{carry_limit}}}
 ``` 
 ### De-Raspão
 ```
