@@ -21,17 +21,11 @@ If the spell uses a spellcasting ability the caster can use one they already hav
 
 A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
 
-To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana (INT) check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
+To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
 
 ## Creating Spell Scrolls
 
 At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 5gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
-
-{{dev-comment
-
-<!-- TODO: rework this crafting rule to fit in a simpler manner within the general crafting rules. -->
-
-}}
 
 ## Buying Spell Scrolls
 

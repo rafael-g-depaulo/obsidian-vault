@@ -37,7 +37,7 @@ Doing something their Entity likes. Working towards their Entity's goals (if the
 Just as upholding their Entity's values and working towards their mission can help a Paladin earn their Favor, going against their values, helping their enemies or simply getting on their Entity's bad side can cause a Paladin to lose Favor (FP) with their Entity.
 
 ## Miracles
-Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mecanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
+Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mechanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax). By default, you can spend up
 
 ### Spells as Miracles
 Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc.
