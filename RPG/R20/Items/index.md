@@ -1,5 +1,7 @@
 ![[Carrying Capacity]]
 
+![[Currency]]
+
 ![[Equipment]]
 
 ![[Consumable Items]]
