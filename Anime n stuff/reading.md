@@ -19,7 +19,7 @@
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
-- [Priest of Corruption](https://asuracomics.com/the-priest-of-corruption-chapter-19/)
+- [Priest of Corruption](https://asuratoon.com/2122552102-the-priest-of-corruption-chapter-26/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 - [Absolute Sword Sense](https://asuracomics.com/6429950787-absolute-sword-sense-chapter-47/)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
