@@ -19,8 +19,6 @@
 ### Ignis, do fogo
 - Coragem, Força
 
-quais são as diferenças de personalidade dos deuses? valores? associações adicionais além dos seus elementos básicos? tem armas preferidas?
-
 ## Igreja
 ### Organização
 Hierarquia:
