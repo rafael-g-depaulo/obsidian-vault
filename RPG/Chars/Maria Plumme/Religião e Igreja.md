@@ -10,14 +10,14 @@
 | Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência! | 
 
 ## Deuses
-### Aequor, da água
-- Adaptabilidade, Reciprocidade.
-### Gaia, da terra
-- Resiliência, Paciência.
-### Caeli, do ar
-- Iniciativa, Independência.
 ### Ignis, do fogo
 - Coragem, Força
+### Caeli, do ar
+- Iniciativa, Independência.
+### Gaia, da terra
+- Resiliência, Paciência.
+### Aequor, da água
+- Adaptabilidade, Reciprocidade.
 
 ## Igreja
 ### Organização
