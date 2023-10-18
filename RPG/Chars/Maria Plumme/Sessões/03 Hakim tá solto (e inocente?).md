@@ -10,3 +10,5 @@ maria encontra com Ardher no caminho pra guilda. lá ela faz o pedido de 8 pesso
 Conversa com daisy e as duas vão fazer a investigação sobre o intruso das sombras
 
 Hakim e Ardher, investigando os sons estranhos que foram ouvidos, descobrem rastros dos animais de fogo.
+
+Maria fala com toori e recebe ok pra entrar pra guilda. Vai pra lá e é entrevistada pela Aracne.
