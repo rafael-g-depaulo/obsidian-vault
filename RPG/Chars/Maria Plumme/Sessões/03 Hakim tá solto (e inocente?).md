@@ -12,3 +12,5 @@ Conversa com daisy e as duas vão fazer a investigação sobre o intruso das som
 Hakim e Ardher, investigando os sons estranhos que foram ouvidos, descobrem rastros dos animais de fogo.
 
 Maria fala com toori e recebe ok pra entrar pra guilda. Vai pra lá e é entrevistada pela Aracne.
+
+Entra na guilda, e procura e acha o gato.

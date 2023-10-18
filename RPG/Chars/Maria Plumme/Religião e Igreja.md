@@ -45,10 +45,10 @@ Hierarquia:
 em geral a igreja prega que enquanto os animais e criaturas recebiam poderes ou da natureza ou de demonios, os humanos são uma raça especial pois receberam os poderes dos deuses. E por isso devem ser gratos e usar com responsabilidade esse presente. Tem algumas histórias tbm sobre algumas pessoas específicas no começo do reino que são contadas da mesma forma que parábolas da biblia são contadas
 
 ### Tabus
-questionar a existencia dos deuses, aceitar outros (falsos) deuses, fazer coisas que interfiram na habilidade (direito sagrado) de alguém de usar magia
+questionar a existencia dos deuses, aceitar outros (falsos) deuses, fazer coisas que interfiram na habilidade (direito sagrado) de alguém de usar magia.
 
 ### Crenças
-Se atentar para sempre rezar antes de usar magia (pra poder canalizar a vontade do deus, proteger outros Magus de perigos externos (sim, isso inclui hereges e renegados), ir a uma missa pelo menos uma vez por semana (não tem um dia específico, mas a semana tem 6 dias e 4 deles são nomeados por cada elemento, então geralmente glr vai no dia do seu elemento)
+Se atentar para sempre rezar antes de usar magia (pra poder canalizar a vontade do deus, proteger outros Magus de perigos externos (sim, isso inclui hereges e renegados), ir a uma missa pelo menos uma vez por semana (não tem um dia específico, mas a semana tem 6 dias e 4 deles são nomeados por cada elemento, então geralmente glr vai no dia do seu elemento).
 
 ### Festividades
-Os equinócios e os solstícios são celebrados (as estações são baseadas nos 4 elementos), feriado de ano novo, feriado da ascensão da magia (quando a primeira pessoa conseguiu usar magia), feriado da tomada de Tarnis (reconquista da capital), feriado de celebração da cruzada
+Os equinócios e os solstícios são celebrados (as estações são baseadas nos 4 elementos), feriado de ano novo, feriado da ascensão da magia (quando a primeira pessoa conseguiu usar magia), feriado da tomada de Tarnis (reconquista da capital), feriado de celebração da cruzada.
