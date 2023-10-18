@@ -35,6 +35,7 @@ Hierarquia:
 	1. menor posição que controla uma igreja inteira
 7. Abadesa/Abade 
 	1. Irmã/Irmão superior, uma parte deles candidatos para se tornar Madre/Padre
+	2. Chamados de Grande Irmão/Irmã
 8. Irmã/Irmão 
 	1. depois de 1-3 anos de estudo e trabalho, são oficialmente parte do clero e recebem tarefas mais importantes dos Abades/Padres
 9. Iniciada/Iniciado
