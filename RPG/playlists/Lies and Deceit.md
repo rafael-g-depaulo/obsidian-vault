@@ -1,0 +1,4 @@
+- [kaiji theme](https://www.youtube.com/watch?v=k2PMVIrl-SA)
+- [bewolf intro](https://open.spotify.com/track/33x4OHmv7Vq5zm2XTnMMfh?si=c8a37d94d7c34fa7)
+- [deep trouble](https://open.spotify.com/track/6BTQrToDvtBACNYhG6KYDf?si=8799a2114d6b453b)
+- [Dungeon Dance](https://open.spotify.com/track/3dV5ODMcpLd4JowtADd8cP?si=a707940c6aaf4f5c)
