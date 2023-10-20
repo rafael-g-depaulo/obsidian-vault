@@ -9,9 +9,10 @@ TAGS:
 
 LEVEL: 3
 
-CAST_TIME: 10 minutos
+CAST_TIME: 1 minuto
 RANGE: infinito
-TARGET: 1 criatura poça de água do pântano
+TARGET: 1 criatura
+COMPONENT: 1 poça de água do pântano
 DURATION: cena.
 
 DESCRIPTION:
