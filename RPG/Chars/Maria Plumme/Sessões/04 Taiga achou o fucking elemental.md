@@ -22,3 +22,4 @@ Na guilda a [[Guilda Aventureiros - Anabella]] tava conversando com "redacted" e
 
 Todo mundo recebe 150 fucking moedas pela informação.
 
+Taiga achou o fucking elemental
