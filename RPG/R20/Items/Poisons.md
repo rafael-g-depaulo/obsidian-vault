@@ -1,4 +1,4 @@
-## ttPoisons
+## Poisons
 #### Basic Poison
 _Potion, Common. 20g_
 
