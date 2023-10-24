@@ -64,4 +64,52 @@ O primeiro e mais óbvio problema com essa abordagem é o quanto ela afeta negat
 ### Solução
 Achar uma forma de fazer essa inferência foi particularmente complicada, e levou semanas de exploração, tentativa e erro. Essa jornada foi documentada por Rafael no [issue](https://github.com/rafael-g-depaulo/ragic/issues/15) do repositório git da biblioteca.
 
-Primeiro, foi achada uma solução simples para extrair a informação do caminho de um único segmento como string unit, em vez de string. [exemplo, botar print](https://www.typescriptlang.org/play?#code/C4TwDgpgBAyhDmBbCA7YAeAcgPigXigG8owBDYACwC4pMoBfAKAGMB7FAZ2CgBNWIOaAKIAPYACdSzYJlLJ8ULABpsAChSseEGnCSoMOAJQ6EyNFlx5cqwvUNRSHByhAt2XKBDGTps+QSxPMVQeJy5xAEsUeDVScRM9cyMEswNLa1t7R2dXPgFhbykZOQgbEnJqKAAiAEYAJgBmKoZDRgB6NqgAPQB+Ri8JIr9S4jJKGlrG5rt2zt7ZjsWl5ZXVtfWlxkYgA)
+Primeiro, foi achada uma solução simples para extrair a informação do caminho de um único segmento como string unit, em vez de string. [exemplo, botar print](https://www.typescriptlang.org/play?#code/C4TwDgpgBAyhDmBbCA7YAeAcgPigXigG8owBDYACwC4pMoBfAKAGMB7FAZ2CgBNWIOaAKIAPYACdSzYJlLJ8ULABpsAChSseEGnCSoMOAJQ6EyNFlx5cqwvUNRSHByhAt2XKBDGTps+QSxPMVQeJy5xAEsUeDVScRM9cyMEswNLa1t7R2dXPgFhbykZOQgbEnJqKAAiAEYAJgBmKoZDRgB6NqgAPQB+Ri8JIr9S4jJKGlrG5rt2zt7ZjsWl5ZXVtfWlxkYgA). Depois disso, passamos algumas semanas explorando diferentes possibilidades e pesquisando em fóruns e na documentação oficial, procurando descobrir uma lógica de tipo que permitisse que o compilador inferisse corretamente e de forma garantida o tipo da árvore. A melhor solução achada foi algo parecido com o código abaixo.
+
+```ts
+type BaseRoute<Path extends string> = {path: Path, children?: []}
+ type Route<Path extends string, Children = []> = 
+    Children extends unknown ? BaseRoute<Path> :
+    Children extends [] ? BaseRoute<Path> :
+    Children extends [{ path: infer ChildPath, children: infer GrandChildren }, ...infer RestChildred]
+        ? ChildPath extends string
+            ? { [key in ChildPath]: { path: ChildPath, children: GrandChildren } } & Route<Path, RestChildred>
+            : never
+        : never
+
+type RouteTree<Routes extends string> = {[Route in Routes]: 1}
+type SegmentConfig<SegmentName extends string> = { path: SegmentName, children?: any }
+const makeTree = <
+    TopPaths extends (string extends TopPaths ? never : string),
+> (topRoutes:SegmentConfig<TopPaths>):
+    SegmentConfig<TopPaths> extends Route<infer TopRoutesPaths, infer ChildRoutes>
+        ? Route<TopRoutesPaths, ChildRoutes>
+        : never => ({}) as any
+
+const routeTree = makeTree({ path: "/", children: [
+    { path: "/about", children: [
+        { path: "/us", children: [] }
+    ]},
+    { path: "/blog", children: [
+        { path: "/:blog_id", children: [] }
+    ]}
+]})
+```
+
+A solução achada tinha um erro fatal. O compilador não conseguia inferir corretamente qual segmento era pai de qual, e somente conseguia compreender à qual geração cada segmento pertencia. No exemplo acima, se cada um dos segmentos forem concretos, o tipo gerado seguiria a seguinte estrutura:
+
+| segmento    | geração |
+| ----------- | ------- |
+| "/"         | 0       |
+| "/about"    | 1       |
+| "/blog"     | 1       |
+| "/us"       | 2       |
+| "/:blog_id" | 2        |
+
+. Seguindo a lógica de tipo gerada, qualquer rota composta de uma sequência de segmentos com gerações crescentes e que comece com um segmento da geração 0 é válido. Portanto, `/about/:blog_id` e `/blog/us` seriam válidos. Isso quebra a lógica de negócios pretendida, e anula essa como uma solução viável.
+
+Continuamos por mais 3 semanas procurando uma solução para isso usando uma construção similar para as rotas (uma função que recebe objetos e/ou listas que representam a estrutura da informação da árvore). Decidimos explorar outras formas de definição das rotas, e tentamos criar a lógica de tipos desejada usando um padrão Builder de design
+
+### contextualização: builder design pattern
+copiar do livro de design pattern eu acho...
+
