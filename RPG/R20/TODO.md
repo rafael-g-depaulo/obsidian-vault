@@ -13,4 +13,7 @@
 - [x] Add encumberence rules
 	- [x] idea: copy T20, but instead of 10 + 2\*STR, 10 +STR+CON
 - [ ] mechanics for grazing hits. maybe if it beats armor-5 still deals STR/DEX dmg.
-- [ ] maybe change all tool use to DEX. could make sense and be interesting.
+- [ ] maybe change all tool use to DEX. could make sense and be interesting
+- [ ] Add 10 low level magic items
+- [ ] Add pathfinder 2e talismans
+- [ ] code auto table of contents
