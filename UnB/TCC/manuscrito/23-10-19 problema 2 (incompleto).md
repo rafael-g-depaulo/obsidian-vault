@@ -106,9 +106,9 @@ A solução achada tinha um erro fatal. O compilador não conseguia inferir corr
 | "/us"       | 2       |
 | "/:blog_id" | 2        |
 
-. Seguindo a lógica de tipo gerada, qualquer rota composta de uma sequência de segmentos com gerações crescentes e que comece com um segmento da geração 0 é válido. Portanto, `/about/:blog_id` e `/blog/us` seriam válidos. Isso quebra a lógica de negócios pretendida, e anula essa como uma solução viável.
+. Seguindo a lógica de tipo gerada, qualquer rota composta de uma sequência de segmentos com gerações crescentes e que comece com um segmento da geração 0 é válido. Portanto, `/about/:blog_id` e `/blog/us` seriam válidos. Isso quebra a lógica de negócio pretendida, e anula essa como uma solução viável.
 
-Continuamos por mais 3 semanas procurando uma solução para isso usando uma construção similar para as rotas (uma função que recebe objetos e/ou listas que representam a estrutura da informação da árvore). Decidimos explorar outras formas de definição das rotas, e tentamos criar a lógica de tipos desejada usando um padrão Builder de design
+Continuamos por mais 3 semanas procurando uma solução para isso usando uma construção similar para as rotas (uma função que recebe objetos e/ou listas que representam a estrutura da informação da árvore). Decidimos explorar outras formas de definição das rotas, e tentamos criar a lógica de tipos desejada usando um padrão Builder de design, com o qual conseguimos achar uma forma de fazer a inferência de tipo corretamente durante a definição das rotas.
 
 ### contextualização: builder design pattern
 copiar do livro de design pattern eu acho...
