@@ -57,6 +57,6 @@ Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). De
 
 OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se não use PRE.
 
-### Papel de Embrulho Espacial
+### Rolo de Papel de Embrulho Espacial
 *Common (100gp)*
-Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e 
+Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e pesa no máximo 100g. Se o papel for rasgado todos os itens guardados nele são despejados pra fora, e o papel usado perde o efeito. O Rolo de Papel de Embrulho Espacial tem 10 usos.
