@@ -5,3 +5,5 @@ look into [this video series](https://www.youtube.com/watch?v=ARKIwOlazKI&t=997s
 
 
 https://unix.stackexchange.com/questions/439486/how-can-i-make-media-keys-work-with-i3
+
+https://i3wm.org/docs/debugging.html
