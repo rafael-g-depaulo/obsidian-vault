@@ -1,2 +1,2 @@
 ## Magic Staves
-Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por aqueles que
+Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por aqueles que possuem alguma habilidade mágica. Ele funciona como um quarterstaff (versátil (1d6/1d8), crit 20/2x). Cajados mágicos funcionam como  Além disso, quando um personagem com um Cajado Mágico equipado lança uma magia
