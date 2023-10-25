@@ -24,5 +24,5 @@ INCREASES:
 | ---- | --------------------------------- |
 | +2PM | +1d6 dano                         |
 | +2PM | +1 acerto com ataque com a espada |
-| +2PM | +1 margem de ameaça               |
+| +1PM | +1 margem de ameaça               |
 }}
