@@ -4,6 +4,7 @@
 ### Oils
 | Name     | price | target                  |
 | -------- | ----- | ----------------------- |
-| Fadaísca | 5g    | Armadura, Arma, Munição | 
+| Fadaísca | 5g    | Armadura, Arma, Munição |
+|          |       |                         |
 
-- **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante. Todas as criaturas (fora você) ao adjacentes devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
+- **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
