@@ -17,3 +17,4 @@
 - [ ] Add 10 low level magic items
 - [ ] Add pathfinder 2e talismans
 - [ ] code auto table of contents
+- [ ] idea: staves (2-handed, gain charges on spell use in scene, spend charges to call it's effect).
