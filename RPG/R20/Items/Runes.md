@@ -11,4 +11,4 @@ Rune effects:
 | Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
 | Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     |
 | Defense Tier 1       | 50g        | 1           | 1PM per Charge    | (Movement, 1 Charge): Your defense can't be less than 15 for the scene                                                     |
-| Defense Tier 2       | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       | 
+| Defense Tier 2       | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       |
