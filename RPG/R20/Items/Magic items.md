@@ -40,7 +40,19 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 
 ### Enciclopédia do Biólogo Sumido
 _Common (50gp)_
-Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com
+Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com que ele grite em voz alta a informação desejada, alertando todas as criaturas não-surdas em um raio de 10sqr.
 
-%%O livro age como uma pokedex, e alerta o monstro%%
+### Deque de algumas coisas
+_Common (80gp)_
+Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). Dele é fácil notar uma leve aura mágica. Ele começa com 10 cartas, e se um personagem sacar uma carta com uma Ação, ele ativa um dos efeitos abaixo (role 1d6) e a carta se desintegra.
 
+| d6  | Efeito                                                                           |
+| --- | -------------------------------------------------------------------------------- |
+| 1   | Você é afetado por Vicious Mockery (falha automática).                           |
+| 2   | Você e um alvo a sua escolhe são afetador por Toll the Dead.                     |
+| 3   | A magia Thunderclap é executada pela carta (você pode ser afetado).              |
+| 4   | Você e um alvo a sua escolha são afetados por Guidance.                          |
+| 5   | 3 bolas de vidro aparecem na sua frente e te orbitam, com efeito de Magic Stone. |
+| 6   | Fire Bolt, Word of Radiance e Frostbite são executadas em 3 alvos a sua escolha. |
+
+OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se não use PRE.
