@@ -27,12 +27,12 @@ If the item being crafted is worth 50 gold or less, then at the end of the craft
 ### Skill
 Below is a list of all crafting-related skills. 
 
-| Skill         | Relevant Attribute | Items crafted using it                                   |
-| ------------- | ------------------ | -------------------------------------------------------- |
-| Alchemy       | INT                | Potions, poisons, explosives and other alchemical items. |
-| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.           |
-| Scribing      | SEN                | Spell Scrolls.                                           |
-| Smithing      | STR                | Armor, weapons and ammunition.                           |
+| Skill         | Relevant Attribute | Items crafted using it                                         |
+| ------------- | ------------------ | -------------------------------------------------------------- |
+| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. | 
+| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.                 |
+| Scribing      | INT                | Spell Scrolls.                                                 |
+| Smithing      | STR                | Armor, weapons and ammunition.                                 |
 
 When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
 

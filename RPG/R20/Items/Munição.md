@@ -8,4 +8,4 @@ Munições especiais são flechas, dardos, balas, etc. especiais com efeitos esp
 
 **Marcador.** Efeito: ao ser disparada, a munição acende e emite uma luz forte com alcance 2sqr, e luz fraca em outros 2sqr. Mesmo depois de acertar o alvo ela continua brilhando por 2d4 turnos. O alvo pode remover a munição com uma ação padrão.
 
-**Ponta de Obsidiana.** Uma munição extremamente delicada, que pode tanto quebrar no caminho com a pressão do ar quanto rasgar completamente o alvo. *Efeito:* Se o ataque acertar criticamente, ele dá 4d6 de dano perfurante adicional, conforme a ponta da munição explode dentro da ferida ao penetrar o alvo.
+**Ponta de Obsidiana.** Uma munição extremamente delicada, que pode tanto quebrar no caminho com a pressão do ar quanto rasgar completamente o alvo. *Efeito:* Se o ataque acertar criticamente, ele dá 6d6 de dano perfurante adicional, conforme a ponta da munição explode dentro da ferida ao penetrar o alvo.

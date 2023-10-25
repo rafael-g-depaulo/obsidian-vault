@@ -40,6 +40,7 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 
 ### Enciclopédia do Biólogo Sumido
 _Common (50gp)_
-Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
+Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com
 
 %%O livro age como uma pokedex, e alerta o monstro%%
+

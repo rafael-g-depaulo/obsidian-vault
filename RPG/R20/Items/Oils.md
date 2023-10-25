@@ -5,6 +5,7 @@
 | Name     | price | target                  |
 | -------- | ----- | ----------------------- |
 | Fadaísca | 5g    | Armadura, Arma, Munição |
-|          |       |                         |
+| Firucum  | 10g   | Arma, Munição           | 
 
 - **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
+- **Firucum.** Um líquido viscoso, levemente laranja e com um cheiro agridoce. Ele é extremamente volátil, e pega fogo com o menor impacto. *Efeito:* O próximo ataque dá 3d6 dano de fogo adicional.
