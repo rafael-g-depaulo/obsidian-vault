@@ -69,3 +69,11 @@ _Uncommon (150gp)_
 Botas decoradas que parecem dar mobilidade e agilidade adicional para o usuário, o deixando desviar com mais facilidade. Na verdade o couro inflexível e baixa anti-aderência da sola acabam não ajudando muito. *Efeito:* -3 Defesa, +2 Evasão
 
 ### Estatueta da Coruja
+_Common (50gp)_
+Uma estátua pequena em mármore de uma coruja. Como uma ação, você pode acordar a coruja, que se transforma por até um dia em uma coruja de verdade que ouve aos seus comandos e segue eles. Ela reverte ao formato de estátua se tomar dano, e uma vez revertida se torna inativa por 3 dias.
+
+### Lança de Raios
+_Uncommon ()_
+
+### Nine Lives Stealer
+
