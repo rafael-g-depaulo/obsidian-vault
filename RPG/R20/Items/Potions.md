@@ -24,7 +24,7 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 ### Miscelaneous Potions
 climbing 100
 fire breath 150
-strength 
+strength 400
 growth 200
 water breathing 100
 heroism 200
