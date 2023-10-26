@@ -1,4 +1,5 @@
 ## Potions
+Drinking a potion requires an Action, and if it has a long-lasting effect it's duration is scene, unless it states otherwise.
 
 ### Curative Potions
 #### Healing Potion
@@ -22,10 +23,25 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 | Greater Mana   | Uncommon | 150g  | 4d4 | 
 
 ### Miscelaneous Potions
-climbing 100
-fire breath 150
-strength 400
-growth 200
-water breathing 100
-heroism 200
-invulnerability 4000
+| Name            | Rarity   | Price |
+| --------------- | -------- | ----- |
+| climbing        | common   | 100g  |
+| fire breath     | uncommon | 150g  |
+| Troll Strength  | uncommon | 400g  |
+| growth          | uncommon | 200g  |
+| water breathing | common   | 100g  |
+
+### Effects
+#### Potion of Climbing
+Você tem +10 para testes de Atletismo para escalar
+
+#### Potion of Fire Breath
+#### Potion of Troll Strength
+#### Potion of Growth
+#### Potion of Water Breathing
+
+
+<!--
+heroism rare 500
+invulnerability rare 4000
+-->
