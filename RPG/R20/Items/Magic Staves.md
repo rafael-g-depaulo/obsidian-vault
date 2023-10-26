@@ -3,6 +3,7 @@ Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por 
 | Name              | Cost | Max Charges | Effect                                                                                                                                                              |
 | ----------------- | ---- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ferro Encantado   | 30g  | 3           | Lança 1 dardo de Magic Missile por carga usada.                                                                                                                     |
+| C||||
 | Cajado de Batalha | 45g  | 3           | Dá 1d8 de dano de impacto a mais no próximo ataque com o cajado por carga usada.                                                                                    |
 | Galho Queimado    | 50g  | 4           | Lança 1 raio da magia Scorching Ray para cada 2 cargas usadas.                                                                                                      |
 | Cajado Vampírico  | 200g | 6           | Passivo: Você toma 1 dano necrótico no início de cada turno por carga. Ativo (min 3): 1 criatura a sua escolha em 18sqr recupera 3d6 HP (por cada 3 cargas gastas). |
