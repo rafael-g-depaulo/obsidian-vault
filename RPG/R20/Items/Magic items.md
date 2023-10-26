@@ -23,7 +23,7 @@ Quando a tampa desta ânfora de metal é retirada, uma grande quantidade de fuma
 
 #### Gema da Luminosidade.
 *Common (50gp)*
-Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de Fortitude ou ficar cega por 1d4 rodadas
+Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de resistência de Sensibilidade (CD 12) ou ficar cega por 1d4 rodadas.
 
 #### Manto Élfico
 *Uncommon (100gp-350gp)*
