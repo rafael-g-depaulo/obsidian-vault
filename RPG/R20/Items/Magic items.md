@@ -73,7 +73,17 @@ _Common (50gp)_
 Uma estátua pequena em mármore de uma coruja. Como uma ação, você pode acordar a coruja, que se transforma por até um dia em uma coruja de verdade que ouve aos seus comandos e segue eles. Ela reverte ao formato de estátua se tomar dano, e uma vez revertida se torna inativa por 3 dias.
 
 ### Lança de Raios
-_Uncommon ()_
+_Uncommon (1000gp)_
+Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um raio. Um personagem equipado com a Lança de Raios que seja proficiente com ela tem acesso à habilidade **Lança **
 
 ### Nine Lives Stealer
+_Rare (1500gp)_
+Uma adaga simples, com um relevo de um gato no punhal, com 1d8+1 caudas. Se você acertar um ataque crítico com a adaga contra uma criatura e ela ficou com 30 HP ou menos, ela deve passar numa resistência de Constituição (CD 14) ou morrer instantaneamente. Quando uma criatura morre por esse efeito, uma das caudas do gato some. Se o gato perder todas as caudas, o item reverte para uma adaga normal.
 
+<!--
+### Ninety Nine Lives Stealer
+_Very Rare (5000gp)_
+
+### Nine Hundred Ninety Nine Lives Stealer
+_Legendary (50000gp)_
+-->
