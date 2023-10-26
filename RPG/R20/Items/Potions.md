@@ -27,3 +27,5 @@ fire breath
 strength
 growth
 water breathing
+heroism
+invulnerability
