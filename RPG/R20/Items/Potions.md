@@ -33,13 +33,21 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 
 ### Effects
 #### Potion of Climbing
-Você tem +10 para testes de Atletismo para escalar
+Você tem +10 para testes de Atletismo para escalar.
 
 #### Potion of Fire Breath
-#### Potion of Troll Strength
-#### Potion of Growth
-#### Potion of Water Breathing
+Você pode executar **Bafo de Dragão** até 3x durante a duração.
 
+**Bafo de Dragão.** Ação: Você toma 1d6 de dano de fogo, e uma criatura que você pode ver em até 6sqr de você toma 5d6 dano de fogo se falhar num teste de resistência de Destreza (CD 13). Se passar, toma metade do dano.
+
+#### Potion of Troll Strength
+Pela duração, sua Força é sempre pelo menos 21
+
+#### Potion of Growth
+Você aumenta de tamanho em uma categoria.
+
+#### Potion of Water Breathing
+Você consegue respirar de baixo d'água, e tem velocidade de nado 9sqr.
 
 <!--
 heroism rare 500
