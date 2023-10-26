@@ -9,3 +9,4 @@ https://unix.stackexchange.com/questions/439486/how-can-i-make-media-keys-work-w
 https://i3wm.org/docs/debugging.html
 
 https://github.com/meskarune/i3lock-fancy
+[maybe this helps fix the auto-lock issue?](https://aur.archlinux.org/packages/caffeine)
