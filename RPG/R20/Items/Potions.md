@@ -1,4 +1,6 @@
 ## Potions
+
+### Curative Potions
 #### Healing Potion
 _Potion, Common_
 A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
@@ -18,3 +20,10 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 | -------------- | -------- | ----- | --- |
 | Mana           | Common   | 25g   | 2d4 |
 | Greater Mana   | Uncommon | 150g  | 4d4 | 
+
+### Miscelaneous Potions
+climbing
+fire breath
+strength
+growth
+water breathing
