@@ -1,5 +1,7 @@
 import { replaceMacro } from '../macros/replaceMacro'
 
+const headingsPerTocPage = 50
+
 const getHeadingLevel = (heading: string) =>
   /^#+ /.test(heading) ? heading.indexOf(' ') : -1
 
@@ -21,7 +23,7 @@ const pageCounter = (lines: string[]): PagedHeading[] => {
         if (cur === '\\page')
           return {
             ...acc,
-            currentPage: acc.currentPage++,
+            currentPage: acc.currentPage + 1,
           }
 
         const heading: PagedHeading = {
@@ -45,10 +47,21 @@ const pageCounter = (lines: string[]): PagedHeading[] => {
 }
 
 const makeTocItem = (heading: PagedHeading) =>
-  heading.level === 1
-    ? `- ### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})`
-    : `aa`
-// const makeTocItem = heading
+  heading.level === 1 ? `- ### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})` :
+    heading.level === 2 ? `- #### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})`
+      : `- ${heading.line}`
+
+const makeTocPage = (headings: string[]) => {
+  const tableOfContentsItems = pageCounter(headings).map(makeTocItem).join('\n')
+
+  const tableOfContentsHead = '{{toc,wide\n# Table Of Contents\n'
+  const tableOfContentsTail = '\n}}'
+
+  const tableOfContentsPage = `${tableOfContentsHead}${tableOfContentsItems}${tableOfContentsTail}`
+
+  return tableOfContentsPage
+
+}
 
 export const insertSummary = (content: string) => {
   const summaryIndex = content.indexOf('{{summary}}')
@@ -61,17 +74,12 @@ export const insertSummary = (content: string) => {
     .filter(line => getHeadingLevel(line) !== -1 || line === '\\page')
     .filter(line => getHeadingLevel(line) < 3)
 
+  const tableOfContents = makeTocPage(headings)
   // console.log(headings)
-  const tableOfContentsItems = pageCounter(headings).map(makeTocItem).join('\n')
-
-  const tableOfContentsHead = ''
-  const tableOfContentsTail = ''
-
-  const tableOfContents = `${tableOfContentsHead}${tableOfContentsItems}${tableOfContentsTail}`
-
   console.log(tableOfContents)
 
-  const insertSummary = replaceMacro('summary', (_, content) => tableOfContents)
+  const insertSummary = replaceMacro('summary', () => tableOfContents)
+
 
   return insertSummary(content)
 }

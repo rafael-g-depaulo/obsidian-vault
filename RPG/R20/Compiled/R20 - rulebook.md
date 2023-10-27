@@ -47,111 +47,114 @@ ___
 }}
 
 
-- ### [{{ Attributes }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-- ### [{{ Skills & Skill Checks }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-aa
-aa
-- ### [{{ Archetypes }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-- ### [{{ Classes }}{{ 1 }}](#p1)
-aa
-aa
-aa
-- ### [{{ Beast Warrior (Martial) }}{{ 1 }}](#p1)
-- ### [{{ Champion (Martial) }}{{ 1 }}](#p1)
-- ### [{{ Dancer (Specialist) }}{{ 1 }}](#p1)
-- ### [{{ Fighter (Martial) }}{{ 1 }}](#p1)
-- ### [{{ Juggernaut (Martial) }}{{ 1 }}](#p1)
-- ### [{{ Plantomancer (Caster) }}{{ 1 }}](#p1)
-aa
-- ### [{{ Rogue (Specialist) }}{{ 1 }}](#p1)
-- ### [{{ Spelgard (Off-Caster) }}{{ 1 }}](#p1)
-aa
-- ### [{{ Werebeast (Specialist) }}{{ 1 }}](#p1)
-- ### [{{ Witch (Caster) }}{{ 1 }}](#p1)
-aa
-aa
-- ### [{{ Combat }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-- ### [{{ Origins }}{{ 1 }}](#p1)
-aa
-- ### [{{ Proficiency }}{{ 1 }}](#p1)
-- ### [{{ General Feats }}{{ 1 }}](#p1)
-- ### [{{ Martial Feats }}{{ 1 }}](#p1)
-- ### [{{ Caster Feats }}{{ 1 }}](#p1)
-- ### [{{ Specialist Feats }}{{ 1 }}](#p1)
-- ### [{{ Companion Feats }}{{ 1 }}](#p1)
-- ### [{{ Carga }}{{ 1 }}](#p1)
-aa
-- ### [{{ Coins }}{{ 1 }}](#p1)
-- ### [{{ Equipment }}{{ 1 }}](#p1)
-aa
-aa
-aa
-- ### [{{ Consumable Items }}{{ 1 }}](#p1)
-aa
-aa
-- ### [{{ Magic Items }}{{ 1 }}](#p1)
-- ### [{{ Runes }}{{ 1 }}](#p1)
-- ### [{{ Crafting }}{{ 1 }}](#p1)
-aa
-aa
-- ### [{{ Spell Scrolls }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-- ### [{{ Spells }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-aa
-aa
-- ### [{{ Spell Tags }}{{ 1 }}](#p1)
-aa
-- ### [{{ Spell List }}{{ 1 }}](#p1)
-aa
-- ### [{{ Spells }}{{ 1 }}](#p1)
-- ### [{{ Contracts, Paladins & Entities }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-aa
-- ### [{{ Companions }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-- ### [{{ Conditions }}{{ 1 }}](#p1)
-- ### [{{ Rest & Recovery }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
-- ### [{{ Companions }}{{ 1 }}](#p1)
-aa
-aa
-aa
-aa
+{{toc,wide
+# Table Of Contents
+- ### [{{ Attributes }}{{ 2 }}](#p2)
+- #### [{{ Description }}{{ 2 }}](#p2)
+- #### [{{ Determining Base Attribute Scores }}{{ 2 }}](#p2)
+- #### [{{ Modifiers }}{{ 2 }}](#p2)
+- #### [{{ Effects }}{{ 2 }}](#p2)
+- ### [{{ Skills & Skill Checks }}{{ 3 }}](#p3)
+- #### [{{ Skills: }}{{ 3 }}](#p3)
+- #### [{{ Skills by Attributes }}{{ 3 }}](#p3)
+- #### [{{ Skills by group }}{{ 3 }}](#p3)
+- #### [{{ Skill Checks }}{{ 3 }}](#p3)
+- #### [{{ Skill Bonus & Skill Points }}{{ 4 }}](#p4)
+- #### [{{ Passive Skill Rolls }}{{ 4 }}](#p4)
+- ### [{{ Archetypes }}{{ 5 }}](#p5)
+- #### [{{ Caster }}{{ 5 }}](#p5)
+- #### [{{ Off-Caster }}{{ 5 }}](#p5)
+- #### [{{ Specialist }}{{ 6 }}](#p6)
+- #### [{{ Martial }}{{ 6 }}](#p6)
+- ### [{{ Classes }}{{ 7 }}](#p7)
+- #### [{{ List of Classes }}{{ 7 }}](#p7)
+- #### [{{ Resumo e comparação das classes }}{{ 8 }}](#p8)
+- #### [{{ Creating a Class }}{{ 9 }}](#p9)
+- ### [{{ Beast Warrior (Martial) }}{{ 10 }}](#p10)
+- ### [{{ Champion (Martial) }}{{ 12 }}](#p12)
+- ### [{{ Dancer (Specialist) }}{{ 14 }}](#p14)
+- ### [{{ Fighter (Martial) }}{{ 16 }}](#p16)
+- ### [{{ Juggernaut (Martial) }}{{ 17 }}](#p17)
+- ### [{{ Plantomancer (Caster) }}{{ 19 }}](#p19)
+- #### [{{  Spells }}{{ 20 }}](#p20)
+- ### [{{ Rogue (Specialist) }}{{ 21 }}](#p21)
+- ### [{{ Spelgard (Off-Caster) }}{{ 23 }}](#p23)
+- #### [{{  Spells }}{{ 24 }}](#p24)
+- ### [{{ Werebeast (Specialist) }}{{ 25 }}](#p25)
+- ### [{{ Witch (Caster) }}{{ 27 }}](#p27)
+- #### [{{ Witch's Brews }}{{ 28 }}](#p28)
+- #### [{{  Spells }}{{ 28 }}](#p28)
+- ### [{{ Combat }}{{ 29 }}](#p29)
+- #### [{{ Round }}{{ 29 }}](#p29)
+- #### [{{ Combat Actions }}{{ 29 }}](#p29)
+- #### [{{ Attacking and Defending }}{{ 29 }}](#p29)
+- #### [{{ Movement }}{{ 30 }}](#p30)
+- #### [{{ Maneuvers }}{{ 30 }}](#p30)
+- #### [{{ Manobras }}{{ 30 }}](#p30)
+- #### [{{ Tamanho }}{{ 31 }}](#p31)
+- ### [{{ Origins }}{{ 32 }}](#p32)
+- #### [{{ Origin Lists }}{{ 32 }}](#p32)
+- ### [{{ Proficiency }}{{ 33 }}](#p33)
+- ### [{{ General Feats }}{{ 34 }}](#p34)
+- ### [{{ Martial Feats }}{{ 35 }}](#p35)
+- ### [{{ Caster Feats }}{{ 36 }}](#p36)
+- ### [{{ Specialist Feats }}{{ 37 }}](#p37)
+- ### [{{ Companion Feats }}{{ 38 }}](#p38)
+- ### [{{ Carga }}{{ 39 }}](#p39)
+- #### [{{ Sobrecarga }}{{ 39 }}](#p39)
+- ### [{{ Coins }}{{ 40 }}](#p40)
+- ### [{{ Equipment }}{{ 41 }}](#p41)
+- #### [{{ Simple Weapons }}{{ 41 }}](#p41)
+- #### [{{ Martial Weapons }}{{ 41 }}](#p41)
+- #### [{{ Armor }}{{ 41 }}](#p41)
+- ### [{{ Consumable Items }}{{ 43 }}](#p43)
+- #### [{{ Potions }}{{ 43 }}](#p43)
+- #### [{{ Poisons }}{{ 43 }}](#p43)
+- ### [{{ Magic Items }}{{ 44 }}](#p44)
+- ### [{{ Runes }}{{ 45 }}](#p45)
+- ### [{{ Crafting }}{{ 46 }}](#p46)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 46 }}](#p46)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 46 }}](#p46)
+- ### [{{ Spell Scrolls }}{{ 47 }}](#p47)
+- #### [{{ Casting a Spell from a Scroll }}{{ 47 }}](#p47)
+- #### [{{ Learning a Spell from a Scroll }}{{ 47 }}](#p47)
+- #### [{{ Creating Spell Scrolls }}{{ 47 }}](#p47)
+- #### [{{ Buying Spell Scrolls }}{{ 47 }}](#p47)
+- ### [{{ Spells }}{{ 48 }}](#p48)
+- #### [{{ Learning Spells }}{{ 48 }}](#p48)
+- #### [{{ Prepared vs. Learned Spells }}{{ 48 }}](#p48)
+- #### [{{ Casting Spells }}{{ 48 }}](#p48)
+- #### [{{ Spell levels }}{{ 48 }}](#p48)
+- #### [{{ Spell Tags }}{{ 49 }}](#p49)
+- #### [{{ Flavor }}{{ 49 }}](#p49)
+- ### [{{ Spell Tags }}{{ 50 }}](#p50)
+- #### [{{ Tags }}{{ 50 }}](#p50)
+- ### [{{ Spell List }}{{ 51 }}](#p51)
+- #### [{{ All Spells }}{{ 51 }}](#p51)
+- ### [{{ Spells }}{{ 52 }}](#p52)
+- ### [{{ Contracts, Paladins & Entities }}{{ 86 }}](#p86)
+- #### [{{ Paladins }}{{ 86 }}](#p86)
+- #### [{{ Contract }}{{ 86 }}](#p86)
+- #### [{{ Favor }}{{ 86 }}](#p86)
+- #### [{{ Losing Favor }}{{ 86 }}](#p86)
+- #### [{{ Miracles }}{{ 86 }}](#p86)
+- ### [{{ Companions }}{{ 87 }}](#p87)
+- #### [{{ Stats }}{{ 87 }}](#p87)
+- #### [{{ Companion death }}{{ 87 }}](#p87)
+- #### [{{ Rest }}{{ 87 }}](#p87)
+- #### [{{ Companion Skills }}{{ 87 }}](#p87)
+- ### [{{ Conditions }}{{ 89 }}](#p89)
+- ### [{{ Rest & Recovery }}{{ 90 }}](#p90)
+- #### [{{ Provisions }}{{ 90 }}](#p90)
+- #### [{{ How to recover }}{{ 90 }}](#p90)
+- #### [{{ Skipping a Rest }}{{ 90 }}](#p90)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 90 }}](#p90)
+- ### [{{ Companions }}{{ 91 }}](#p91)
+- #### [{{ Stats }}{{ 91 }}](#p91)
+- #### [{{ Companion death }}{{ 91 }}](#p91)
+- #### [{{ Rest }}{{ 91 }}](#p91)
+- #### [{{ Companion Skills }}{{ 91 }}](#p91)
+}}
 
 {{pageNumber,auto}}
 \page
