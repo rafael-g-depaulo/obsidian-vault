@@ -51,3 +51,5 @@
 
 **Atraente**. Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
 
+**Confiança Absoluta.** (ao fazer um ataque) X PM (limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto. Pré-requisito: Dex 15
+

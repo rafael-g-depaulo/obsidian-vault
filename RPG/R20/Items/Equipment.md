@@ -27,12 +27,12 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 | Melee Weapons | Damage | Crit | Properties       | Preço |
 |:-------------:|:------:|:----:|:---------------- | ----- |
-|   Battleaxe   |  1d8   |  -   | light            | 10gp  |
+|   Battleaxe   |  1d8   |  19  | light            | 10gp  |
 |  Shortsword   |  1d6   |  x3  | Finesse, light   | 10gp  |
 |     Flail     |  1d8   |  -   | Reach            | 10gp  |
 |     Lance     |  1d10  |  -   | Reach, Mounted   | 10gp  |
 |   Longsword   |  1d8   |  19  | Versatile (1d10) | 15gp  |
-|    Rapier     |  1d6   |  18  | Finesse          | 25gp      |
+|    Rapier     |  1d6   |  18  | Finesse          | 25gp  |
 |   Greataxe    |  1d12  |  x3  | 2-handed         | 30gp  |
 |  Greatsword   |  2d6   |  19  | 2-handed         | 50gp  |
 
