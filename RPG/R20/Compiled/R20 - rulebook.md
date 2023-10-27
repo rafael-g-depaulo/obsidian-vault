@@ -47,202 +47,111 @@ ___
 }}
 
 
-\page
-# Attributes
-## Description
-## Determining Base Attribute Scores
-## Modifiers
-## Effects
-\page
-# Skills & Skill Checks
-## Skills:
-## Skills by Attributes
-## Skills by group
-## Skill Checks
-\page
-## Skill Bonus & Skill Points
-## Passive Skill Rolls
-\page
-# Archetypes
-## Caster
-## Off-Caster
-\page
-## Specialist
-## Martial
-\page
-# Classes
-## List of Classes
-\page
-## Resumo e comparação das classes
-\page
-## Creating a Class
-\page
-# Beast Warrior (Martial)
-\page
-\page
-# Champion (Martial)
-\page
-\page
-# Dancer (Specialist)
-\page
-\page
-# Fighter (Martial)
-\page
-# Juggernaut (Martial)
-\page
-\page
-# Plantomancer (Caster)
-\page
-##  Spells
-\page
-# Rogue (Specialist)
-\page
-\page
-# Spelgard (Off-Caster)
-\page
-##  Spells
-\page
-# Werebeast (Specialist)
-\page
-\page
-# Witch (Caster)
-\page
-## Witch's Brews
-##  Spells
-\page
-# Combat
-## Round
-## Combat Actions
-## Attacking and Defending
-\page
-## Movement
-## Maneuvers
-## Manobras
-\page
-## Tamanho
-\page
-# Origins
-## Origin Lists
-\page
-# Proficiency
-\page
-# General Feats
-\page
-# Martial Feats
-\page
-# Caster Feats
-\page
-# Specialist Feats
-\page
-# Companion Feats
-\page
-# Carga
-## Sobrecarga
-\page
-# Coins
-\page
-# Equipment
-## Simple Weapons
-## Martial Weapons
-## Armor
-\page
-\page
-# Consumable Items
-## Potions
-## Poisons
-\page
-# Magic Items
-\page
-# Runes
-\page
-# Crafting
-## Crafting Rolls and time to produce an item
-## Crafting Materials (Took mostly from D&D)
-\page
-# Spell Scrolls
-## Casting a Spell from a Scroll
-## Learning a Spell from a Scroll
-## Creating Spell Scrolls
-## Buying Spell Scrolls
-\page
-# Spells
-## Learning Spells
-## Prepared vs. Learned Spells
-## Casting Spells
-## Spell levels
-\page
-## Spell Tags
-## Flavor
-\page
-# Spell Tags
-## Tags
-\page
-# Spell List
-## All Spells
-\page
-# Spells
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-\page
-# Contracts, Paladins & Entities
-## Paladins
-## Contract
-## Favor
-## Losing Favor
-## Miracles
-\page
-# Companions
-## Stats
-## Companion death
-## Rest
-## Companion Skills
-\page
-\page
-# Conditions
-\page
-# Rest & Recovery
-## Provisions
-## How to recover
-## Skipping a Rest
-## Regra Opcional: Mantimentos automáticos
-\page
-# Companions
-## Stats
-## Companion death
-## Rest
-## Companion Skills
-\page
+- ### [{{ Attributes }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+- ### [{{ Skills & Skill Checks }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+aa
+aa
+- ### [{{ Archetypes }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+- ### [{{ Classes }}{{ 1 }}](#p1)
+aa
+aa
+aa
+- ### [{{ Beast Warrior (Martial) }}{{ 1 }}](#p1)
+- ### [{{ Champion (Martial) }}{{ 1 }}](#p1)
+- ### [{{ Dancer (Specialist) }}{{ 1 }}](#p1)
+- ### [{{ Fighter (Martial) }}{{ 1 }}](#p1)
+- ### [{{ Juggernaut (Martial) }}{{ 1 }}](#p1)
+- ### [{{ Plantomancer (Caster) }}{{ 1 }}](#p1)
+aa
+- ### [{{ Rogue (Specialist) }}{{ 1 }}](#p1)
+- ### [{{ Spelgard (Off-Caster) }}{{ 1 }}](#p1)
+aa
+- ### [{{ Werebeast (Specialist) }}{{ 1 }}](#p1)
+- ### [{{ Witch (Caster) }}{{ 1 }}](#p1)
+aa
+aa
+- ### [{{ Combat }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+- ### [{{ Origins }}{{ 1 }}](#p1)
+aa
+- ### [{{ Proficiency }}{{ 1 }}](#p1)
+- ### [{{ General Feats }}{{ 1 }}](#p1)
+- ### [{{ Martial Feats }}{{ 1 }}](#p1)
+- ### [{{ Caster Feats }}{{ 1 }}](#p1)
+- ### [{{ Specialist Feats }}{{ 1 }}](#p1)
+- ### [{{ Companion Feats }}{{ 1 }}](#p1)
+- ### [{{ Carga }}{{ 1 }}](#p1)
+aa
+- ### [{{ Coins }}{{ 1 }}](#p1)
+- ### [{{ Equipment }}{{ 1 }}](#p1)
+aa
+aa
+aa
+- ### [{{ Consumable Items }}{{ 1 }}](#p1)
+aa
+aa
+- ### [{{ Magic Items }}{{ 1 }}](#p1)
+- ### [{{ Runes }}{{ 1 }}](#p1)
+- ### [{{ Crafting }}{{ 1 }}](#p1)
+aa
+aa
+- ### [{{ Spell Scrolls }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+- ### [{{ Spells }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+aa
+aa
+- ### [{{ Spell Tags }}{{ 1 }}](#p1)
+aa
+- ### [{{ Spell List }}{{ 1 }}](#p1)
+aa
+- ### [{{ Spells }}{{ 1 }}](#p1)
+- ### [{{ Contracts, Paladins & Entities }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+aa
+- ### [{{ Companions }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+- ### [{{ Conditions }}{{ 1 }}](#p1)
+- ### [{{ Rest & Recovery }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
+- ### [{{ Companions }}{{ 1 }}](#p1)
+aa
+aa
+aa
+aa
 
 {{pageNumber,auto}}
 \page

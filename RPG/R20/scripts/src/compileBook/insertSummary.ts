@@ -1,33 +1,54 @@
 import { replaceMacro } from '../macros/replaceMacro'
 
+const getHeadingLevel = (heading: string) =>
+  /^#+ /.test(heading) ? heading.indexOf(' ') : -1
+
 type PagedHeading = {
-  line: string,
-  page: number,
+  line: string
+  page: number
+  level: number
 }
 type PagedHeadingTempObject = {
-  headings: PagedHeading[],
-  currentPage: number,
+  headings: PagedHeading[]
+  currentPage: number
 }
+
 const pageCounter = (lines: string[]): PagedHeading[] => {
   return lines
     .reduce<PagedHeadingTempObject>(
       (acc, cur) => {
+
         if (cur === '\\page')
           return {
-            headings: acc.headings,
-            currentPage: acc.currentPage + 1,
+            ...acc,
+            currentPage: acc.currentPage++,
           }
-        else
-          return {
-            headings: [...acc.headings, { line: cur, page: acc.currentPage }],
-            currentPage: acc.currentPage
-          }
+
+        const heading: PagedHeading = {
+          line: cur.slice(cur.indexOf(' ') + 1),
+          page: acc.currentPage,
+          level: getHeadingLevel(cur),
+        }
+
+        return {
+          ...acc,
+          headings: [
+            ...acc.headings,
+            heading,
+          ],
+        }
       },
       { headings: [], currentPage: 1 }
     )
-    .headings// that arent h3 or below
-    .filter(line => line !== '\\page')
+    .headings // that arent h3 or below
+    .filter(h => h.line !== '\\page')
 }
+
+const makeTocItem = (heading: PagedHeading) =>
+  heading.level === 1
+    ? `- ### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})`
+    : `aa`
+// const makeTocItem = heading
 
 export const insertSummary = (content: string) => {
   const summaryIndex = content.indexOf('{{summary}}')
@@ -37,18 +58,18 @@ export const insertSummary = (content: string) => {
     .slice(endOfSummary)
     .split('\n')
     // get all headings and page breaks (important for counting pages later)
-    .filter(line => line[0] === '#' || line === '\\page')
-    .filter(line => line.slice(0, 3) !== '###')
+    .filter(line => getHeadingLevel(line) !== -1 || line === '\\page')
+    .filter(line => getHeadingLevel(line) < 3)
 
-  console.log(headings)
-  const tableOfContentsItems = headings.join('\n')
+  // console.log(headings)
+  const tableOfContentsItems = pageCounter(headings).map(makeTocItem).join('\n')
 
   const tableOfContentsHead = ''
   const tableOfContentsTail = ''
 
   const tableOfContents = `${tableOfContentsHead}${tableOfContentsItems}${tableOfContentsTail}`
 
-  // console.log(tableOfContents)
+  console.log(tableOfContents)
 
   const insertSummary = replaceMacro('summary', (_, content) => tableOfContents)
 
