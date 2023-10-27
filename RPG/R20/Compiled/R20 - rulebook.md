@@ -47,111 +47,202 @@ ___
 }}
 
 
+\page
 # Attributes
 ## Description
 ## Determining Base Attribute Scores
 ## Modifiers
 ## Effects
+\page
 # Skills & Skill Checks
 ## Skills:
 ## Skills by Attributes
 ## Skills by group
 ## Skill Checks
+\page
 ## Skill Bonus & Skill Points
 ## Passive Skill Rolls
+\page
 # Archetypes
 ## Caster
 ## Off-Caster
+\page
 ## Specialist
 ## Martial
+\page
 # Classes
 ## List of Classes
+\page
 ## Resumo e comparação das classes
+\page
 ## Creating a Class
+\page
 # Beast Warrior (Martial)
+\page
+\page
 # Champion (Martial)
+\page
+\page
 # Dancer (Specialist)
+\page
+\page
 # Fighter (Martial)
+\page
 # Juggernaut (Martial)
+\page
+\page
 # Plantomancer (Caster)
+\page
 ##  Spells
+\page
 # Rogue (Specialist)
+\page
+\page
 # Spelgard (Off-Caster)
+\page
 ##  Spells
+\page
 # Werebeast (Specialist)
+\page
+\page
 # Witch (Caster)
+\page
 ## Witch's Brews
 ##  Spells
+\page
 # Combat
 ## Round
 ## Combat Actions
 ## Attacking and Defending
+\page
 ## Movement
 ## Maneuvers
 ## Manobras
+\page
 ## Tamanho
+\page
 # Origins
 ## Origin Lists
+\page
 # Proficiency
+\page
 # General Feats
+\page
 # Martial Feats
+\page
 # Caster Feats
+\page
 # Specialist Feats
+\page
 # Companion Feats
+\page
 # Carga
 ## Sobrecarga
+\page
 # Coins
+\page
 # Equipment
 ## Simple Weapons
 ## Martial Weapons
 ## Armor
+\page
+\page
 # Consumable Items
 ## Potions
 ## Poisons
+\page
 # Magic Items
+\page
 # Runes
+\page
 # Crafting
 ## Crafting Rolls and time to produce an item
 ## Crafting Materials (Took mostly from D&D)
+\page
 # Spell Scrolls
 ## Casting a Spell from a Scroll
 ## Learning a Spell from a Scroll
 ## Creating Spell Scrolls
 ## Buying Spell Scrolls
+\page
 # Spells
 ## Learning Spells
 ## Prepared vs. Learned Spells
 ## Casting Spells
 ## Spell levels
+\page
 ## Spell Tags
 ## Flavor
+\page
 # Spell Tags
 ## Tags
+\page
 # Spell List
 ## All Spells
+\page
 # Spells
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
+\page
 # Contracts, Paladins & Entities
 ## Paladins
 ## Contract
 ## Favor
 ## Losing Favor
 ## Miracles
+\page
 # Companions
 ## Stats
 ## Companion death
 ## Rest
 ## Companion Skills
+\page
+\page
 # Conditions
+\page
 # Rest & Recovery
 ## Provisions
 ## How to recover
 ## Skipping a Rest
 ## Regra Opcional: Mantimentos automáticos
+\page
 # Companions
 ## Stats
 ## Companion death
 ## Rest
 ## Companion Skills
+\page
 
 {{pageNumber,auto}}
 \page
