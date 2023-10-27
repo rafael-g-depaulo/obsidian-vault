@@ -1,6 +1,18 @@
 import { isPromise } from './typeUtils'
 
-export const groupByNumber = <T extends unknown>(items: T[], numberByGroup: number): T[][] => [items]
+export const groupByNumber = <T extends unknown>(
+  items: T[],
+  numberByGroup: number
+): T[][] => items.reduce<{ groups: T[][], currentGroup: T[] }>((acc, cur, index) => {
+  const currentGroupId = Math.floor(index / numberByGroup)
+  return {
+    ...acc,
+    groups: {
+      ...acc.groups,
+      [currentGroupId]: [...acc.groups[currentGroupId]]
+    }
+  }
+}, { groups: [], currentGroup: [] }).groups
 
 export const groupBy =
   <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>
