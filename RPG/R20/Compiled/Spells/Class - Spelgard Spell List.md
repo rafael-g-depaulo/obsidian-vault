@@ -402,7 +402,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **cost:** description.
+- **+2PM:** aumente o dano em +1d10.
 
 ### Flame Blade (2 MP)
 <div class="spell-tags">elemental fire warmagic thaumaturgy</div>
@@ -422,7 +422,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 - **+2PM:** +1d6 dano.
 - **+2PM:** +1 acerto com ataque com a espada.
-- **+2PM:** +1 margem de ameaça.
+- **+1PM:** +1 margem de ameaça.
 
 ### Flechas Sentinelas (2 MP)
 <div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>

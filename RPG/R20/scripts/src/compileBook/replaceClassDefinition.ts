@@ -88,23 +88,22 @@ export const generateClassDefinition = (
 ) =>
   !archetype
     ? `ERRROR WHAT SMETHING's WRONG\n\n\`\`\`json\n${JSON.stringify(
-        { archetype, classMacro: classDefinition },
-        null,
-        2
-      )}\`\`\`\n\n`
+      { archetype, classMacro: classDefinition },
+      null,
+      2
+    )}\`\`\`\n\n`
     : `# ${classDefinition.name} (${classDefinition.archetype})\n\n` +
-      `<style>.page#p1:after{ display:none; }</style>\n` +
-      `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
-      `**MP**: ${
-        classDefinition.mpAttribute
-          ? `You start at 1st level with ${archetype.mp_lv} (+${classDefinition.mpAttribute} mod.) maximum MP, and gain an extra ${archetype.mp_lv} per level`
-          : `${archetype.mp_lv} per level`
-      }.\n\n` +
-      `**Equipment Proficiencies:** ${classDefinition.equipProficiencies}.\n\n` +
-      getSaves(classDefinition.saves) +
-      spellCastingModifier(classDefinition) +
-      '\n\n' +
-      makeClassTable(archetype, classDefinition)
+    `<style>.page#p1:after{ display:none; }</style>\n` +
+    `**HP**: You start at 1st level with ${archetype.hp_lv1} (+CON mod.) maximum hit points, and gain an extra ${archetype.hp_lv} (+CON mod.) per level.\n\n` +
+    `**MP**: ${classDefinition.mpAttribute
+      ? `You start at 1st level with ${archetype.mp_lv} (+${classDefinition.mpAttribute} mod.) maximum MP, and gain an extra ${archetype.mp_lv} per level`
+      : `${archetype.mp_lv} per level`
+    }.\n\n` +
+    `**Equipment Proficiencies:** ${classDefinition.equipProficiencies}.\n\n` +
+    getSaves(classDefinition.saves) +
+    spellCastingModifier(classDefinition) +
+    '\n\n' +
+    makeClassTable(archetype, classDefinition)
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
   !spellcastingAttb

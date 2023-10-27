@@ -25,7 +25,6 @@ When the Companion is acquired, the DM choses 2 attributes. The Companion has pr
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 
 Maximum Attributes
-
 | Master Level | Max Attribute Score |
 |:------------:|:-------------------:|
 |     1-3      |         14          |

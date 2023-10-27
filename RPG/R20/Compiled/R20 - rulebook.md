@@ -47,6 +47,8 @@ ___
 }}
 
 
+{{summary}}
+
 {{pageNumber,auto}}
 \page
 # Attributes
@@ -1361,6 +1363,8 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - **Ardiloso ao Quadrado.** Você pode fazer 2 ataques ardilosos no mesmo ataque furtivo  (somando o custo dos 2).
 
+- **Confiança Absoluta.** (ao fazer um ataque) X PM (limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto.
+
 ### Ataque Ardiloso
 
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
@@ -2001,6 +2005,8 @@ O tamanho de uma criatura é classificado em seis categorias: Minúsculo, Pequen
 
 Quando uma maior que tamanho médio tenta se esconder, ela recebe -2 na rolagem de furtividade por cada categoria de tamanho acima de Médio. 
 
+Quando uma criatura tenta fazer uma manobra (veja: Maneuvers/Manobras) contra uma de tamanho diferente, ganha +2 na rolagem para cada categoria de tamanho que for maior que o alvo, ou -2 para cada categoria de tamanho que for menor que o alvo.
+
 | Categoria | Espaço Ocupado |
 | --------- | -------------- |
 | Minúsculo | 1sqr           |
@@ -2193,6 +2199,8 @@ R20's formula: ceil(lv/2)
 
 **Atraente**. Você recebe +2 em testes de perícias baseadas em Carisma contra criaturas que possam se sentir fisicamente atraídas por você. *Pré-requisito*: Car 13.
 
+**Confiança Absoluta.** (ao fazer um ataque) X PM (limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto. Pré-requisito: Dex 15
+
 
 
 {{pageNumber,auto}}
@@ -2275,15 +2283,15 @@ R20's formula: ceil(lv/2)
 - *nome.* livre 1PM: você não provoca ataques de oportunidade até o próximo turno
 - bonus to stealth?
 - *jack of all trades* 2PM: você pode usar seu INT em vez do seu bonus de skill (ex: se tem +1 STR, +2 atletismo e +4 INT, pode rolar +5 em vez de +3 em atletismo)
-- **Cunning Action (Ação Ardilosa)**. (Once per turn) Free Action (2PM): You can Hide or Dash as a free action (see combat actions).
-
+- **Cunning Action (Ação Ardilosa)**. Free Action (2PM): You can Hide or Dash as a free action (see combat actions).
+- *Swift Artesan*. You can produce 50gp more worth of items with a week of crafting.
 
 {{pageNumber,auto}}
 \page
 # Companion Feats
 **Companion: Helper.** The companion gains the Help action.
 
-**Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency any skill their companion is proficient with when rolling them while adjacent to their companion.
+**Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency to any skill their companion is proficient with when rolling them while adjacent to their companion.
 
 **Companion: Chonky.** The companion's size and maximum size increase by 1. The companion's maximum HP increases by 5 * their tier.
 
@@ -2329,6 +2337,39 @@ R20's formula: ceil(lv/2)
 
 {{pageNumber,auto}}
 \page
+# Carga
+A quantidade de equipamento que um personagem consegue levar consigo enquanto se aventura é medida em espaços no seu inventário. Um personagem por padrão possui **10 + FOR  + CON** (mínimo: 8) espaços no seu inventário. A maioria dos itens ocupa 1 espaço, porém:
+
+- Itens alquímicos, poções, pergaminhos e outros itens minúsculos ocupam 1/2 espaço.
+- Armas de duas mãos, escudos, criaturas minúsculas e armaduras leves e médias ocupam 2 espaços.
+- Armaduras pesadas e criaturas pequenas ocupam 5 espaços.
+
+## Sobrecarga
+Se um personagem ultrapassar seu limite de carga, ele fica sobrecarregado. Um personagem sobrecarregado tem -2sqr de movimento. Um personagem não consegue carregar mais do que o dobro do seu limite.
+
+
+{{pageNumber,auto}}
+\page
+# Coins
+All items and services referred to in this book are measured in copper, silver, gold and platinum coins. These are the currencies the system expects you to use, though your table may adapt this to something more suitable for your setting.
+
+In it's original intention, copper and silver are the coins of the populous. when you buy groceries, pay tolls, or get a new set of tools for your job, you use silvers and get some coppers for change. gold is used for rent, buying a horse, a weapon or other substantial expenses, which are usually worth multiple days' worth of an average person's wage. Platinum is then the coin of the rich, of institutions and of governments. It's the choice for those who only don't use gold because they're dealing with sums of money so astronomical that the weight of the gold itself would be a hassle.
+
+The conversion between the currencies follows the ratio:
+- 50 copper = 10 silver = 1 gold = 1/5 platinum
+
+These units are usually shortened using the following symbols:
+
+| Coin     | Shortened version |
+| -------- | ----------------- |
+| copper   | c                 |
+| silver   | s                 | 
+| gold     | g                 |
+| platinum | p                 |
+
+
+{{pageNumber,auto}}
+\page
 # Equipment
 
 A lv1 character starts with 100gp (around 3 month's worth of a normal working person's living wage, representing them selling most of their posetions and using their saved up money to go on an adventure).
@@ -2358,14 +2399,13 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 | Melee Weapons | Damage | Crit | Properties       | Preço |
 |:-------------:|:------:|:----:|:---------------- | ----- |
-|   Battleaxe   |  1d8   |  -   | light            | 10gp  |
+|   Battleaxe   |  1d8   |  19  | light            | 10gp  |
 |  Shortsword   |  1d6   |  x3  | Finesse, light   | 10gp  |
 |     Flail     |  1d8   |  -   | Reach            | 10gp  |
 |     Lance     |  1d10  |  -   | Reach, Mounted   | 10gp  |
 |   Longsword   |  1d8   |  19  | Versatile (1d10) | 15gp  |
-|    Rapier     |  1d6   |  18  | Finesse          | 25gp      |
+|    Rapier     |  1d6   |  18  | Finesse          | 25gp  |
 |   Greataxe    |  1d12  |  x3  | 2-handed         | 30gp  |
-|   GreatMaul   |  3d4   |  -   | 2-handed         | 40gp  |
 |  Greatsword   |  2d6   |  19  | 2-handed         | 50gp  |
 
 | Ranged Weapons  | Damage | Crit |                   Properties                   | Preço |
@@ -2457,6 +2497,9 @@ Poisons and Healing potions have their own sections.
 **Alchemist’s Fire.** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 4sqr, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a **DC 10 Dexterity** check to extinguish the flames.
 
 ## Potions
+Drinking a potion requires an Action, and if it has a long-lasting effect it's duration is scene, unless it states otherwise.
+
+### Curative Potions
 #### Healing Potion
 _Potion, Common_
 A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
@@ -2477,12 +2520,53 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 | Mana           | Common   | 25g   | 2d4 |
 | Greater Mana   | Uncommon | 150g  | 4d4 | 
 
+### Miscelaneous Potions
+| Name            | Rarity   | Price |
+| --------------- | -------- | ----- |
+| climbing        | common   | 100g  |
+| fire breath     | uncommon | 150g  |
+| Troll Strength  | uncommon | 400g  |
+| growth          | uncommon | 200g  |
+| water breathing | common   | 100g  |
+
+### Effects
+#### Potion of Climbing
+Você tem +10 para testes de Atletismo para escalar.
+
+#### Potion of Fire Breath
+Você pode executar **Bafo de Dragão** até 3x durante a duração.
+
+**Bafo de Dragão.** Ação: Você toma 1d6 de dano de fogo, e uma criatura que você pode ver em até 6sqr de você toma 5d6 dano de fogo se falhar num teste de resistência de Destreza (CD 13). Se passar, toma metade do dano.
+
+#### Potion of Troll Strength
+Pela duração, sua Força é sempre pelo menos 21
+
+#### Potion of Growth
+Você aumenta de tamanho em uma categoria.
+
+#### Potion of Water Breathing
+Você consegue respirar de baixo d'água, e tem velocidade de nado 9sqr.
+
+<!--
+heroism rare 500
+invulnerability rare 4000
+-->
 
 ## Poisons
 #### Basic Poison
-_Potion, Common. 100g_
+_Potion, Common. 20g_
 
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d12 poison damage.
+
+#### Grude Verde
+_Potion, Common. 30g_
+
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 12 Constitution saving throw or take 1d8 poison damage and be slowed for the scene.
+
+#### Peçonha Concentrada
+_Potion, Common. 60g_
+
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 16 Constitution saving throw or take 3d6 poison damage.
 
 
 
@@ -2505,8 +2589,7 @@ You can use the poison in this vial to coat one slashing or piercing weapon or u
 
 #### Corda da Escalada
 _Common (50gp)_
-
-Esta corda de 15m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
+Esta corda de 16m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
 
 #### Garrafa da Fumaça Eterna
 _Common (50g)_
@@ -2514,7 +2597,7 @@ Quando a tampa desta ânfora de metal é retirada, uma grande quantidade de fuma
 
 #### Gema da Luminosidade.
 *Common (50gp)*
-Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de Fortitude ou ficar cega por 1d4 rodadas
+Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de resistência de Sensibilidade (CD 12) ou ficar cega por 1d4 rodadas.
 
 #### Manto Élfico
 *Uncommon (100gp-350gp)*
@@ -2530,23 +2613,73 @@ Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como açã
 
 ### Enciclopédia do Biólogo Sumido
 _Common (50gp)_
-Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto.
+Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com que ele grite em voz alta a informação desejada, alertando todas as criaturas não-surdas em um raio de 10sqr.
 
+### Deque de algumas coisas
+_Common (80gp)_
+Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). Dele é fácil notar uma leve aura mágica. Ele começa com 10 cartas, e se um personagem sacar uma carta com uma Ação, ele ativa um dos efeitos abaixo (role 1d6) e a carta se desintegra.
 
+| d6  | Efeito                                                                           |
+| --- | -------------------------------------------------------------------------------- |
+| 1   | Você é afetado por Vicious Mockery (falha automática).                           |
+| 2   | Você e um alvo a sua escolhe são afetador por Toll the Dead.                     |
+| 3   | A magia Thunderclap é executada pela carta (você pode ser afetado).              |
+| 4   | Você e um alvo a sua escolha são afetados por Guidance.                          |
+| 5   | 3 bolas de vidro aparecem na sua frente e te orbitam, com efeito de Magic Stone. |
+| 6   | Fire Bolt, Word of Radiance e Frostbite são executadas em 3 alvos a sua escolha. |
+
+OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se não use PRE.
+
+### Rolo de Papel de Embrulho Espacial
+*Common (100gp)*
+Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e pesa no máximo 100g. Se o papel for rasgado todos os itens guardados nele são despejados pra fora, e o papel usado perde o efeito. O Rolo de Papel de Embrulho Espacial tem 10 usos.
+
+### Braceletes da Falsa Força
+_Uncommon (150gp)_
+Braceletes reforçados que parecem aumentar a resistência de quem os usar. O material usado é menos útil do que parece, e acaba não tendo o efeito desejado, apesar de ainda ser de alguma ajuda. *Efeito:* -3 Defesa, +2 Guarda
+
+### Botas da Falsa Dextreza
+_Uncommon (150gp)_
+Botas decoradas que parecem dar mobilidade e agilidade adicional para o usuário, o deixando desviar com mais facilidade. Na verdade o couro inflexível e baixa anti-aderência da sola acabam não ajudando muito. *Efeito:* -3 Defesa, +2 Evasão
+
+### Estatueta da Coruja
+_Common (150gp)_
+Uma estátua pequena em mármore de uma coruja. Como uma ação, você pode acordar a coruja, que se transforma por até um dia em uma coruja de verdade que ouve aos seus comandos e segue eles. Ela consegue se comunicar telepaticamente com você se estiver a menos que 200m de distância. Ela reverte ao formato de estátua se tomar dano, e uma vez revertida se torna inativa por 3 dias.
+
+### Lança de Raios
+_Uncommon (1000gp)_
+Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um raio. Um personagem equipado com a Lança de Raios que seja proficiente com ela tem acesso à habilidade **Zeus**.
+
+**Zeus.** Ação: você joga a Lança de Raios na direção de um alvo que vê em um alcance de 25sqr. Cada criatura entre você e o alvo toma 4d6 dano elétrico, ou metade se passar em uma resistência de Destreza (CD 13). Faça um ataque de arremesso contra o alvo, e se acertar ele toma 4d6 de dano adicional. A lança perde sua carga, e recupera ela depois de 1 dia.
+
+### Nine Lives Stealer
+_Rare (1500gp)_
+Uma adaga simples, com um relevo de um gato no punhal, com 1d8+1 caudas. Se você acertar um ataque crítico com a adaga contra uma criatura e ela ficou com 30 HP ou menos, ela deve passar numa resistência de Constituição (CD 14) ou morrer instantaneamente. Quando uma criatura morre por esse efeito, uma das caudas do gato some. Se o gato perder todas as caudas, o item reverte para uma adaga normal.
+
+<!--
+### Ninety Nine Lives Stealer
+_Very Rare (5000gp)_
+
+### Nine Hundred Ninety Nine Lives Stealer
+_Legendary (50000gp)_
+-->
 
 {{pageNumber,auto}}
 \page
 # Runes
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
 
+<!-- have runes that allow you to cast spells as actions, and some as reactions to being hit or when crit -->
+
 Rune effects:
+
 | Name                 | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
 | -------------------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
 | Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
 | Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     |
 | Defense Tier 1       | 50g        | 1           | 1PM per Charge    | (Movement, 1 Charge): Your defense can't be less than 15 for the scene                                                     |
-| Defense Tier 2       | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       | 
+| Defense Tier 2       | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       |
 
 
 {{pageNumber,auto}}
@@ -2557,19 +2690,39 @@ Rune effects:
 
 basic rules:
 
-needs 25% of the item's worth of ingredients
+needs 25% of the item's value worth of ingredients
 
 50gp worth of item/workweek. (increase to more gp/week at later levels.)
 
 1 check per workweek
 
-use tools. costs 500silver (-5 without tools)
+use tools. costs 500silver for a set of tools (-5 without tools)
 
-## Crafting Roll
-1 roll per workweek. if it takes multiple weeks you can roll again, but after 3 fails the item breaks and all materials are lost. fails can maybe add other adversities (build fail table).
+## Crafting Rolls and time to produce an item
+Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
 
-The CD is defined by the item rarity.
+### Materials
+When crafting an item, a character needs to have prepared materials for it, worth 25% of the items total value. The materials must be proper for the item in question, and some items might have particularly hard to acquire materials.
 
+Depending on how the crafter rolls on the skill checks for the item creation, materials may be saved or wasted.
+
+### Time
+Crafting an item might be quick or complex, depending on the item. The expected crafting time equals 1 week of work per 50 gold of the item's worth. This time can be taken while adventuring, (during downtime and/or while resting).
+
+If the item being crafted is worth 50 gold or less, then at the end of the crafting time you roll a skill check with the relevant skill. If the item is worth more than 50 gold, at the end of every week spend working on it you roll a new skill check. That check may improve the item's progress, do nothing, regress it or even completely destroy the partially built item.
+### Skill
+Below is a list of all crafting-related skills. 
+
+| Skill         | Relevant Attribute | Items crafted using it                                         |
+| ------------- | ------------------ | -------------------------------------------------------------- |
+| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. | 
+| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.                 |
+| Scribing      | INT                | Spell Scrolls.                                                 |
+| Smithing      | STR                | Armor, weapons and ammunition.                                 |
+
+When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
+
+When rolling the relevant skill the CD is defined by the item rarity.
 #### Crafting roll CD by item rarity
 | Item Rarity | CD  |
 | ----------- | --- |
@@ -2578,6 +2731,16 @@ The CD is defined by the item rarity.
 | Rare        | 18  |
 | Very rare   | 20  |
 | Legendary   | 25  | 
+
+After rolling and comparing against the item CD
+
+| Skill check result | Crafting progress                      | Materials spent  |
+| ------------------ | -------------------------------------- | ---------------- |
+| Passed by 5+       | Item crafting progresses.              | 50% of expected  |
+| Passed             | Item crafting progresses.              | 100% of expected |
+| Failed             | Item crafting doesn't progress.        | 0                |
+| Failed by 5+       | Item crafting doesn't progress.        | 100% of expected |
+| Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
@@ -2591,7 +2754,7 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 13- 18   |
 | Legendary   | 19+      |
 
-
+<!--
 #### MAGIC ITEM CRAFTING TIME AND COST
 | Item Rarity | Workweeks\* | Cost\*      | 
 | ----------- | ----------- | ----------- |
@@ -2601,18 +2764,21 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Very rare   | 25          | 20,000 gp   |
 | Legendary   | 50          | 100, 000 gp |
 \*Halved for a consumable item like a potion or scroll
-
+-->
 
 {{pageNumber,auto}}
 \page
 # Spell Scrolls
+
 Spell Scrolls are consumable items that contain a spell. They can be used either to:
+
 - Cast the spell
 - Learn the spell
 
 All spell scrolls have a tier. The tier of a spell scroll is equal to the MP cost of the spell stored inside it (including all spell modifiers).
 
 ## Casting a Spell from a Scroll
+
 Any sentient creature may attempt to cast a spell from a scroll.
 
 **Read Spell Scroll.** Action: make an Arcana skill check (DC 5 + tier). On a success the spell is cast, and the scroll is destroyed. On a failure by 5 or more, the scroll is destroyed. On a failure by 10 or more, the stored mana explodes in a 5sqr side square centered on the scroll, dealing 1d6 energy damage times the scroll tier and destroying the scroll.
@@ -2622,15 +2788,18 @@ If the creature reading the spell doesn't already have a spellcasting ability, t
 If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
 
 ## Learning a Spell from a Scroll
+
 A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
 
-To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana (INT) check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
+To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
 
 ## Creating Spell Scrolls
-At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 2gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
+
+At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 5gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
 
 ## Buying Spell Scrolls
-In general, Spell Scrolls sold by merchants and other casters cost ~6gp per tier
+
+In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier
 
 OBS: maybe make it be different checks instead of all Arcana?
 
@@ -2681,6 +2850,9 @@ Ao tentar usar uma magia não-preparada, o mago deve realizar um teste de Mistic
 
 
 ## Casting Spells
+
+### Magic Focus
+TODO: explicar foco mágico
 
 ### Casting while wearing armor
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
@@ -3785,13 +3957,15 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 <div class="spell-tags">divination trickery summon wild</div>
 
 *3rd Circle*
-- **Execução:** 10 minutos
+- **Execução:** 1 minuto
 - **Alcance:** infinito
-- **Alvo:** 1 poça de água do pântano
+- **Alvo:** 1 criatura
 - **Duração:** cena.
 ___
 
-Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto da pessoa escolhida uma superfície d'agua fica suja e vira um espelho do pântano. Imagens, sons e objetos pequenos não-mágicos podem ser passados pelo espelho.
+Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto da pessoa escolhida uma superfície d'agua fica suja e vira um espelho do pântano. Imagens, sons e objetos pequenos não-mágicos podem ser passados pelo espelho. 
+
+O espelho pode ser destruído com uma leve agitação da água. Se o alvo não tiver uma superfície de água próxima de si (até 20 metros) a magia falha. Se o espelho for criado com sucesso, o alvo nota a existência dele, mesmo que esteja fora do seu campo de visão.
 
 
 
@@ -3854,7 +4028,7 @@ ___
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried.
 
-- **cost:** description.
+- **+2PM:** aumente o dano em +1d10.
 
 ### Físico Divino (3 MP)
 <div class="spell-tags">boost sacred transmutation thaumaturgy warmagic arcane</div>
@@ -3890,7 +4064,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 - **+2PM:** +1d6 dano.
 - **+2PM:** +1 acerto com ataque com a espada.
-- **+2PM:** +1 margem de ameaça.
+- **+1PM:** +1 margem de ameaça.
 
 ### Flecha Ácida (3 MP)
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
@@ -5126,7 +5300,9 @@ Doing something their Entity likes. Working towards their Entity's goals (if the
 Just as upholding their Entity's values and working towards their mission can help a Paladin earn their Favor, going against their values, helping their enemies or simply getting on their Entity's bad side can cause a Paladin to lose Favor (FP) with their Entity.
 
 ## Miracles
-Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mecanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
+Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mechanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
+
+By default, you can spend up to 2 + your level FP on a single miracle. If it costs more than that, you cannot perform it.
 
 ### Spells as Miracles
 Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc.
@@ -5158,11 +5334,11 @@ The Companion has no MP, and uses their master's MP for their ability that cost 
 The Companion has Defense equal to:
 - **10 + Player\_Proficiency\_Bonus**
 
-When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency.
+The Companion by default has either:
+- 4sqr ground movement speed
+- 3sqr flying movement speed
 
-The companion has 4sqr speed.
-
-The companion has proficiency with 2 skills of the DM's choice.
+When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency. The companion also has proficiency with 2 skills of the DM's choice.
 
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 
@@ -5226,6 +5402,7 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 
 {{pageNumber,auto}}
 \page
+
 
 | Damage Dice | Cost  |
 |:-----------:|:-----:|
@@ -5388,11 +5565,11 @@ The Companion has no MP, and uses their master's MP for their ability that cost 
 The Companion has Defense equal to:
 - **10 + Player\_Proficiency\_Bonus**
 
-When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency.
+The Companion by default has either:
+- 4sqr ground movement speed
+- 3sqr flying movement speed
 
-The companion has 4sqr speed.
-
-The companion has proficiency with 2 skills of the DM's choice.
+When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency. The companion also has proficiency with 2 skills of the DM's choice.
 
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 
@@ -5456,6 +5633,7 @@ If it's a line, cone or radius then instead of an attack roll it becomes a DEX s
 
 {{pageNumber,auto}}
 \page
+
 
 | Damage Dice | Cost  |
 |:-----------:|:-----:|
