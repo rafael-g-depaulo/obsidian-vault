@@ -1,3 +1,4 @@
+import { groupByNumber } from '../arrayUtils'
 import { replaceMacro } from '../macros/replaceMacro'
 
 const headingsPerTocPage = 50
@@ -74,7 +75,11 @@ export const insertSummary = (content: string) => {
     .filter(line => getHeadingLevel(line) !== -1 || line === '\\page')
     .filter(line => getHeadingLevel(line) < 3)
 
-  const tableOfContents = makeTocPage(headings)
+  const tableOfContents = groupByNumber((headings), headingsPerTocPage)
+    .map(makeTocPage)
+    .join("\n\\page")
+
+  // const tableOfContents = makeTocPage(headings)
   // console.log(headings)
   console.log(tableOfContents)
 
