@@ -30,6 +30,7 @@ const compiledClassSpellList = (classname: string) =>
   `Class - ${classname} Spell List.md`
 const rootRulesFile = 'index.md'
 const allSpellsFile = 'All Spells List.md'
+const summaryFile = 'Summary.md'
 const rulebookFile = 'R20 - rulebook.md'
 
 // clean results
@@ -137,9 +138,15 @@ const compileBook = async (
     )
   )
 
+  // compileSummary()  
+  //   .then(summary => writeToFile(CompiledFolder, summaryFile, summary))
+
   // compile all rules
-  compileRules(rootRulesFile, compileDeps).then(compiledRules =>
+  compileRules(rootRulesFile, compileDeps).then(compiledRules => {
     writeToFile(CompiledFolder, rulebookFile, compiledRules)
+    // const tableOfContents = /{{toc,.*}}/.exec(compiledRules)?.[0]
+    // console.log(tableOfContents)
+  }
   )
 }
 

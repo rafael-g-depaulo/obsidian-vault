@@ -1,6 +1,9 @@
 export const insertSummary = (content: string) => {
 
-  console.log("hi")
+  const headings = content
+    .split('\n')
+    .filter(line => line[0] === '#')
 
+  console.log(headings)
   return content
 }
