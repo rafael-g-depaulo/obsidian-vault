@@ -47,7 +47,111 @@ ___
 }}
 
 
-{{summary}}
+# Attributes
+## Description
+## Determining Base Attribute Scores
+## Modifiers
+## Effects
+# Skills & Skill Checks
+## Skills:
+## Skills by Attributes
+## Skills by group
+## Skill Checks
+## Skill Bonus & Skill Points
+## Passive Skill Rolls
+# Archetypes
+## Caster
+## Off-Caster
+## Specialist
+## Martial
+# Classes
+## List of Classes
+## Resumo e comparação das classes
+## Creating a Class
+# Beast Warrior (Martial)
+# Champion (Martial)
+# Dancer (Specialist)
+# Fighter (Martial)
+# Juggernaut (Martial)
+# Plantomancer (Caster)
+##  Spells
+# Rogue (Specialist)
+# Spelgard (Off-Caster)
+##  Spells
+# Werebeast (Specialist)
+# Witch (Caster)
+## Witch's Brews
+##  Spells
+# Combat
+## Round
+## Combat Actions
+## Attacking and Defending
+## Movement
+## Maneuvers
+## Manobras
+## Tamanho
+# Origins
+## Origin Lists
+# Proficiency
+# General Feats
+# Martial Feats
+# Caster Feats
+# Specialist Feats
+# Companion Feats
+# Carga
+## Sobrecarga
+# Coins
+# Equipment
+## Simple Weapons
+## Martial Weapons
+## Armor
+# Consumable Items
+## Potions
+## Poisons
+# Magic Items
+# Runes
+# Crafting
+## Crafting Rolls and time to produce an item
+## Crafting Materials (Took mostly from D&D)
+# Spell Scrolls
+## Casting a Spell from a Scroll
+## Learning a Spell from a Scroll
+## Creating Spell Scrolls
+## Buying Spell Scrolls
+# Spells
+## Learning Spells
+## Prepared vs. Learned Spells
+## Casting Spells
+## Spell levels
+## Spell Tags
+## Flavor
+# Spell Tags
+## Tags
+# Spell List
+## All Spells
+# Spells
+# Contracts, Paladins & Entities
+## Paladins
+## Contract
+## Favor
+## Losing Favor
+## Miracles
+# Companions
+## Stats
+## Companion death
+## Rest
+## Companion Skills
+# Conditions
+# Rest & Recovery
+## Provisions
+## How to recover
+## Skipping a Rest
+## Regra Opcional: Mantimentos automáticos
+# Companions
+## Stats
+## Companion death
+## Rest
+## Companion Skills
 
 {{pageNumber,auto}}
 \page
