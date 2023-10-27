@@ -16,11 +16,11 @@ The Companion has no MP, and uses their master's MP for their ability that cost 
 The Companion has Defense equal to:
 - **10 + Player\_Proficiency\_Bonus**
 
-When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency.
+The Companion by default has either:
+- 4sqr ground movement speed
+- 3sqr flying movement speed
 
-The companion has 4sqr speed.
-
-The companion has proficiency with 2 skills of the DM's choice.
+When the Companion is acquired, the DM choses 2 attributes. The Companion has proficiency with those saving throws, using their master's proficiency. The companion also has proficiency with 2 skills of the DM's choice.
 
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 

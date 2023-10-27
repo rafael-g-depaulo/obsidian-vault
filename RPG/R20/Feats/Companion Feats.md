@@ -1,7 +1,7 @@
 # Companion Feats
 **Companion: Helper.** The companion gains the Help action.
 
-**Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency any skill their companion is proficient with when rolling them while adjacent to their companion.
+**Companion: Skillful.** Chose 4 skills. The Companion gains proficiency with them, and the master adds their proficiency to any skill their companion is proficient with when rolling them while adjacent to their companion.
 
 **Companion: Chonky.** The companion's size and maximum size increase by 1. The companion's maximum HP increases by 5 * their tier.
 
