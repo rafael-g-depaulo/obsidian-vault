@@ -19,3 +19,7 @@ Poisons and Healing potions have their own sections.
 ![[Potions]]
 
 ![[Poisons]]
+
+![[Oils]]
+
+![[Spell Scrolls]]

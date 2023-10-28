@@ -12,6 +12,7 @@ export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
       ([level, spells]) =>
         `### ${spellLevelStr(Number(level))}\n` +
         spells.map(spellListItemString).join('\n')
+        + (Number(level) === 1 ? `{{page-break}}` : "")
     )
     .join('\n\n')
 

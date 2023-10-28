@@ -1,6 +1,7 @@
 {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogo.svg)}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
 
 # R20
 ## Sistema Completo compatível com D&D 5e

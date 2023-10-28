@@ -2,7 +2,8 @@
 
 {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogo.svg)}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
 
 # R20
 ## Sistema Completo compatível com D&D 5e
@@ -51,116 +52,117 @@ ___
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Attributes }}{{ 2 }}](#p2)
-- #### [{{ Description }}{{ 2 }}](#p2)
-- #### [{{ Determining Base Attribute Scores }}{{ 2 }}](#p2)
-- #### [{{ Modifiers }}{{ 2 }}](#p2)
-- #### [{{ Effects }}{{ 2 }}](#p2)
-- ### [{{ Skills & Skill Checks }}{{ 3 }}](#p3)
-- #### [{{ Skills: }}{{ 3 }}](#p3)
-- #### [{{ Skills by Attributes }}{{ 3 }}](#p3)
-- #### [{{ Skills by group }}{{ 3 }}](#p3)
-- #### [{{ Skill Checks }}{{ 3 }}](#p3)
-- #### [{{ Skill Bonus & Skill Points }}{{ 4 }}](#p4)
-- #### [{{ Passive Skill Rolls }}{{ 4 }}](#p4)
-- ### [{{ Archetypes }}{{ 5 }}](#p5)
-- #### [{{ Caster }}{{ 5 }}](#p5)
-- #### [{{ Off-Caster }}{{ 5 }}](#p5)
-- #### [{{ Specialist }}{{ 6 }}](#p6)
-- #### [{{ Martial }}{{ 6 }}](#p6)
-- ### [{{ Classes }}{{ 7 }}](#p7)
-- #### [{{ List of Classes }}{{ 7 }}](#p7)
-- #### [{{ Resumo e comparação das classes }}{{ 8 }}](#p8)
-- #### [{{ Creating a Class }}{{ 9 }}](#p9)
-- ### [{{ Beast Warrior (Martial) }}{{ 10 }}](#p10)
-- ### [{{ Champion (Martial) }}{{ 12 }}](#p12)
-- ### [{{ Dancer (Specialist) }}{{ 14 }}](#p14)
-- ### [{{ Fighter (Martial) }}{{ 16 }}](#p16)
-- ### [{{ Juggernaut (Martial) }}{{ 17 }}](#p17)
-- ### [{{ Plantomancer (Caster) }}{{ 19 }}](#p19)
-- #### [{{  Spells }}{{ 20 }}](#p20)
-- ### [{{ Rogue (Specialist) }}{{ 21 }}](#p21)
-- ### [{{ Spelgard (Off-Caster) }}{{ 23 }}](#p23)
+- ### [{{ Attributes }}{{ 5 }}](#p5)
+- #### [{{ Description }}{{ 5 }}](#p5)
+- #### [{{ Determining Base Attribute Scores }}{{ 5 }}](#p5)
+- #### [{{ Modifiers }}{{ 5 }}](#p5)
+- #### [{{ Effects }}{{ 5 }}](#p5)
+- ### [{{ Skills & Skill Checks }}{{ 6 }}](#p6)
+- #### [{{ Skills: }}{{ 6 }}](#p6)
+- #### [{{ Skills by Attributes }}{{ 6 }}](#p6)
+- #### [{{ Skills by group }}{{ 6 }}](#p6)
+- #### [{{ Skill Checks }}{{ 7 }}](#p7)
+- #### [{{ Skill Bonus & Skill Points }}{{ 8 }}](#p8)
+- #### [{{ Passive Skill Rolls }}{{ 8 }}](#p8)
+- ### [{{ Archetypes }}{{ 9 }}](#p9)
+- #### [{{ Caster }}{{ 9 }}](#p9)
+- #### [{{ Off-Caster }}{{ 9 }}](#p9)
+- #### [{{ Specialist }}{{ 10 }}](#p10)
+- #### [{{ Martial }}{{ 10 }}](#p10)
+- ### [{{ Classes }}{{ 11 }}](#p11)
+- #### [{{ List of Classes }}{{ 11 }}](#p11)
+- #### [{{ Resumo e comparação das classes }}{{ 12 }}](#p12)
+- #### [{{ Creating a Class }}{{ 13 }}](#p13)
+- ### [{{ Beast Warrior (Martial) }}{{ 14 }}](#p14)
+- ### [{{ Champion (Martial) }}{{ 16 }}](#p16)
+- ### [{{ Dancer (Specialist) }}{{ 18 }}](#p18)
+- ### [{{ Fighter (Martial) }}{{ 20 }}](#p20)
+- ### [{{ Juggernaut (Martial) }}{{ 21 }}](#p21)
+- ### [{{ Plantomancer (Caster) }}{{ 23 }}](#p23)
 - #### [{{  Spells }}{{ 24 }}](#p24)
-- ### [{{ Werebeast (Specialist) }}{{ 25 }}](#p25)
-- ### [{{ Witch (Caster) }}{{ 27 }}](#p27)
-- #### [{{ Witch's Brews }}{{ 28 }}](#p28)
-- #### [{{  Spells }}{{ 28 }}](#p28)
-- ### [{{ Combat }}{{ 29 }}](#p29)
-- #### [{{ Round }}{{ 29 }}](#p29)
-- #### [{{ Combat Actions }}{{ 29 }}](#p29)
-- #### [{{ Attacking and Defending }}{{ 29 }}](#p29)
-- #### [{{ Movement }}{{ 30 }}](#p30)
-- #### [{{ Maneuvers }}{{ 30 }}](#p30)
-- #### [{{ Manobras }}{{ 30 }}](#p30)
-- #### [{{ Tamanho }}{{ 31 }}](#p31)
-- ### [{{ Origins }}{{ 32 }}](#p32)
-- #### [{{ Origin Lists }}{{ 32 }}](#p32)
-- ### [{{ Proficiency }}{{ 33 }}](#p33)
-- ### [{{ General Feats }}{{ 34 }}](#p34)
-- ### [{{ Martial Feats }}{{ 35 }}](#p35)
-- ### [{{ Caster Feats }}{{ 36 }}](#p36)
-- ### [{{ Specialist Feats }}{{ 37 }}](#p37)
-- ### [{{ Companion Feats }}{{ 38 }}](#p38)
-- ### [{{ Carga }}{{ 39 }}](#p39)
-- #### [{{ Sobrecarga }}{{ 39 }}](#p39)
+- ### [{{ Rogue (Specialist) }}{{ 26 }}](#p26)
+- ### [{{ Spelgard (Off-Caster) }}{{ 28 }}](#p28)
+- #### [{{  Spells }}{{ 29 }}](#p29)
+- ### [{{ Werebeast (Specialist) }}{{ 31 }}](#p31)
+- ### [{{ Witch (Caster) }}{{ 33 }}](#p33)
+- #### [{{ Witch's Brews }}{{ 34 }}](#p34)
+- #### [{{  Spells }}{{ 34 }}](#p34)
+- ### [{{ Combat }}{{ 36 }}](#p36)
+- #### [{{ Round }}{{ 36 }}](#p36)
+- #### [{{ Combat Actions }}{{ 36 }}](#p36)
+- #### [{{ Attacking and Defending }}{{ 36 }}](#p36)
+- #### [{{ Movement }}{{ 37 }}](#p37)
+- #### [{{ Maneuvers }}{{ 37 }}](#p37)
+- #### [{{ Manobras }}{{ 37 }}](#p37)
+- #### [{{ Tamanho }}{{ 38 }}](#p38)
+- ### [{{ Origins }}{{ 39 }}](#p39)
+- #### [{{ Origin Lists }}{{ 39 }}](#p39)
+- ### [{{ Proficiency }}{{ 40 }}](#p40)
+- ### [{{ General Feats }}{{ 41 }}](#p41)
+- ### [{{ Martial Feats }}{{ 42 }}](#p42)
+- ### [{{ Caster Feats }}{{ 43 }}](#p43)
+- ### [{{ Specialist Feats }}{{ 44 }}](#p44)
+- ### [{{ Companion Feats }}{{ 45 }}](#p45)
+- ### [{{ Carga }}{{ 46 }}](#p46)
+- #### [{{ Sobrecarga }}{{ 46 }}](#p46)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Coins }}{{ 40 }}](#p40)
-- ### [{{ Equipment }}{{ 41 }}](#p41)
-- #### [{{ Simple Weapons }}{{ 41 }}](#p41)
-- #### [{{ Martial Weapons }}{{ 41 }}](#p41)
-- #### [{{ Armor }}{{ 41 }}](#p41)
-- ### [{{ Consumable Items }}{{ 43 }}](#p43)
-- #### [{{ Potions }}{{ 43 }}](#p43)
-- #### [{{ Poisons }}{{ 43 }}](#p43)
-- ### [{{ Magic Items }}{{ 44 }}](#p44)
-- ### [{{ Runes }}{{ 45 }}](#p45)
-- ### [{{ Crafting }}{{ 46 }}](#p46)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 46 }}](#p46)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 46 }}](#p46)
-- ### [{{ Spell Scrolls }}{{ 47 }}](#p47)
-- #### [{{ Casting a Spell from a Scroll }}{{ 47 }}](#p47)
-- #### [{{ Learning a Spell from a Scroll }}{{ 47 }}](#p47)
-- #### [{{ Creating Spell Scrolls }}{{ 47 }}](#p47)
-- #### [{{ Buying Spell Scrolls }}{{ 47 }}](#p47)
-- ### [{{ Spells }}{{ 48 }}](#p48)
-- #### [{{ Learning Spells }}{{ 48 }}](#p48)
-- #### [{{ Prepared vs. Learned Spells }}{{ 48 }}](#p48)
-- #### [{{ Casting Spells }}{{ 48 }}](#p48)
-- #### [{{ Spell levels }}{{ 48 }}](#p48)
-- #### [{{ Spell Tags }}{{ 49 }}](#p49)
-- #### [{{ Flavor }}{{ 49 }}](#p49)
-- ### [{{ Spell Tags }}{{ 50 }}](#p50)
-- #### [{{ Tags }}{{ 50 }}](#p50)
-- ### [{{ Spell List }}{{ 51 }}](#p51)
-- #### [{{ All Spells }}{{ 51 }}](#p51)
-- ### [{{ Spells }}{{ 52 }}](#p52)
-- ### [{{ Contracts, Paladins & Entities }}{{ 86 }}](#p86)
-- #### [{{ Paladins }}{{ 86 }}](#p86)
-- #### [{{ Contract }}{{ 86 }}](#p86)
-- #### [{{ Favor }}{{ 86 }}](#p86)
-- #### [{{ Losing Favor }}{{ 86 }}](#p86)
-- #### [{{ Miracles }}{{ 86 }}](#p86)
-- ### [{{ Companions }}{{ 87 }}](#p87)
-- #### [{{ Stats }}{{ 87 }}](#p87)
-- #### [{{ Companion death }}{{ 87 }}](#p87)
-- #### [{{ Rest }}{{ 87 }}](#p87)
-- #### [{{ Companion Skills }}{{ 87 }}](#p87)
-- ### [{{ Conditions }}{{ 89 }}](#p89)
-- ### [{{ Rest & Recovery }}{{ 90 }}](#p90)
-- #### [{{ Provisions }}{{ 90 }}](#p90)
-- #### [{{ How to recover }}{{ 90 }}](#p90)
-- #### [{{ Skipping a Rest }}{{ 90 }}](#p90)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 90 }}](#p90)
-- ### [{{ Companions }}{{ 91 }}](#p91)
-- #### [{{ Stats }}{{ 91 }}](#p91)
-- #### [{{ Companion death }}{{ 91 }}](#p91)
-- #### [{{ Rest }}{{ 91 }}](#p91)
-- #### [{{ Companion Skills }}{{ 91 }}](#p91)
+- ### [{{ Coins }}{{ 47 }}](#p47)
+- ### [{{ Equipment }}{{ 48 }}](#p48)
+- #### [{{ Simple Weapons }}{{ 48 }}](#p48)
+- #### [{{ Martial Weapons }}{{ 48 }}](#p48)
+- #### [{{ Armor }}{{ 48 }}](#p48)
+- ### [{{ Consumable Items }}{{ 51 }}](#p51)
+- #### [{{ Potions }}{{ 51 }}](#p51)
+- #### [{{ Poisons }}{{ 51 }}](#p51)
+- #### [{{ Óleos }}{{ 52 }}](#p52)
+- ### [{{ Spell Scrolls }}{{ 53 }}](#p53)
+- #### [{{ Casting a Spell from a Scroll }}{{ 53 }}](#p53)
+- #### [{{ Learning a Spell from a Scroll }}{{ 53 }}](#p53)
+- #### [{{ Creating Spell Scrolls }}{{ 53 }}](#p53)
+- #### [{{ Buying Spell Scrolls }}{{ 53 }}](#p53)
+- ### [{{ Magic Items }}{{ 54 }}](#p54)
+- ### [{{ Runes }}{{ 56 }}](#p56)
+- ### [{{ Crafting }}{{ 57 }}](#p57)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 57 }}](#p57)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 57 }}](#p57)
+- ### [{{ Spells }}{{ 58 }}](#p58)
+- #### [{{ Learning Spells }}{{ 58 }}](#p58)
+- #### [{{ Prepared vs. Learned Spells }}{{ 58 }}](#p58)
+- #### [{{ Casting Spells }}{{ 58 }}](#p58)
+- #### [{{ Spell levels }}{{ 58 }}](#p58)
+- #### [{{ Spell Tags }}{{ 59 }}](#p59)
+- #### [{{ Flavor }}{{ 59 }}](#p59)
+- ### [{{ Spell Tags }}{{ 60 }}](#p60)
+- #### [{{ Tags }}{{ 60 }}](#p60)
+- ### [{{ Spell List }}{{ 61 }}](#p61)
+- #### [{{ All Spells }}{{ 61 }}](#p61)
+- ### [{{ Spells }}{{ 63 }}](#p63)
+- ### [{{ Contracts, Paladins & Entities }}{{ 97 }}](#p97)
+- #### [{{ Paladins }}{{ 97 }}](#p97)
+- #### [{{ Contract }}{{ 97 }}](#p97)
+- #### [{{ Favor }}{{ 97 }}](#p97)
+- #### [{{ Losing Favor }}{{ 97 }}](#p97)
+- #### [{{ Miracles }}{{ 97 }}](#p97)
+- ### [{{ Companions }}{{ 98 }}](#p98)
+- #### [{{ Stats }}{{ 98 }}](#p98)
+- #### [{{ Companion death }}{{ 98 }}](#p98)
+- #### [{{ Rest }}{{ 98 }}](#p98)
+- #### [{{ Companion Skills }}{{ 98 }}](#p98)
+- ### [{{ Conditions }}{{ 100 }}](#p100)
+- ### [{{ Rest & Recovery }}{{ 101 }}](#p101)
+- #### [{{ Provisions }}{{ 101 }}](#p101)
+- #### [{{ How to recover }}{{ 101 }}](#p101)
+- #### [{{ Skipping a Rest }}{{ 101 }}](#p101)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 101 }}](#p101)
+- ### [{{ Companions }}{{ 102 }}](#p102)
+- #### [{{ Stats }}{{ 102 }}](#p102)
+- #### [{{ Companion death }}{{ 102 }}](#p102)
+- #### [{{ Rest }}{{ 102 }}](#p102)
+- #### [{{ Companion Skills }}{{ 102 }}](#p102)
 }}
 
 {{pageNumber,auto}}
@@ -321,10 +323,13 @@ Figuring out magic spells or items, understanding mystical beings.
 #### Survival (SEN)
 #### Cooking (PRE)
 
+{{pageNumber,auto}}
+\page
+
 ### Tools
-#### Smith's Tools (INT)
-#### Alquemist's Tools (INT)
-#### Herbalist's Tools (INT)
+#### Smith's Tools (STR)
+#### Alquemist's Tools (DEX)
+#### Scribe's Tools (INT)
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
@@ -1360,7 +1365,9 @@ List of spells available for a Plantomancer to learn.
 - [[Sleep]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Barkskin]]
@@ -1655,7 +1662,9 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]
+- [[Zephyr Strike]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]
@@ -1925,7 +1934,9 @@ Spell List:
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
-- [[Tentacle Twister]]
+- [[Tentacle Twister]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Blindness Deafness]]
@@ -2577,6 +2588,10 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 **Two-Handed**. This weapon requires two hands to use.
 
+{{pageNumber,auto}}
+\page
+
+
 **Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
 **Reach**. This weapon adds 5 feet to your reach when you attack with it.
@@ -2589,6 +2604,26 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.
 
+
+Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por aqueles que possuem alguma habilidade mágica. Ele funciona como um quarterstaff (versátil (1d6/1d8), crit 20/2x). Cajados mágicos funcionam como focos de magia. Além disso, quando um personagem com um Cajado Mágico equipado lança uma magia, parte da Mana gasta é absorvida pelo cajado, e ele ganha 1 carga por círculo da magia lançada. Como uma ação de movimento, você pode gastar um número cargas para executar a habilidade do cajado. Cargas desaparecem no final da cena. Podem existir versões pequenas do cajado, chamadas de varinhas mágicas. Uma varinha ocupa só 1 espaço no inventário, mas não pode ser usada como arma física e custa 50% a mais que um Cajado equivalente.
+
+| Name               | Cost | Max Charges | Effect                                                                                                                                                              |
+| ------------------ | ---- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ferro Encantado    | 30g  | 3           | Lança 1 dardo de Magic Missile por carga usada.                                                                                                                     |
+| Casco de Tartaruga | 20g  | 5           | Ganha 2 HP temporário por carga usada.                                                                                                                              | 
+| Cajado de Batalha  | 45g  | 3           | Dá 1d8 de dano de impacto a mais no próximo ataque com o cajado por carga usada.                                                                                    |
+| Galho Queimado     | 50g  | 4           | Lança 1 raio da magia Scorching Ray para cada 2 cargas usadas.                                                                                                      |
+| Cajado Vampírico   | 200g | 6           | Passivo: Você toma 1 dano necrótico no início de cada turno por carga. Ativo (min 3): 1 criatura a sua escolha em 18sqr recupera 3d6 HP (por cada 3 cargas gastas). |
+
+
+<!-- Ideas:
+- bees: insect swarm.
+- charm: charm
+- ilusion: + DC to ilusion spells
+- something wholesome: buffs alliess' saves or something
+- swiftness: gives you an extra movement action
+- web: web
+-->
 
 {{pageNumber,auto}}
 \page
@@ -2680,7 +2715,60 @@ You can use the poison in this vial to coat one slashing or piercing weapon or u
 #### Peçonha Concentrada
 _Potion, Common. 60g_
 
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 16 Constitution saving throw or take 3d6 poison damage.
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition {{pageNumber,auto}}
+\page
+{{}}must make a DC 16 Constitution saving throw or take 3d6 poison damage.
+
+
+## Óleos
+Óleos são itens consumíveis de uso único. Como uma ação de movimento, um personagem pode despejar um óleo que já esteja segurando em uma peça de armadura, arma ou munição que esteja segurando ou de uma criatura adjacente. Uma criatura pode tentar evitar o óleo, fazendo um teste de resistência de Destreza contra uma CD 8+prof+DEX de quem estiver tentando espalhar o óleo. O óleo escorre e perde seu efeito no final da cena.
+
+### Oils
+| Name     | price | target                  |
+| -------- | ----- | ----------------------- |
+| Fadaísca | 5g    | Armadura, Arma, Munição |
+| Firucum  | 10g   | Arma, Munição           | 
+
+- **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
+- **Firucum.** Um líquido viscoso, levemente laranja e com um cheiro agridoce. Ele é extremamente volátil, e pega fogo com o menor impacto. *Efeito:* O próximo ataque dá 3d6 dano de fogo adicional.
+
+
+{{pageNumber,auto}}
+\page
+# Spell Scrolls
+
+Spell Scrolls are consumable items that contain a spell. They can be used either to:
+
+- Cast the spell
+- Learn the spell
+
+All spell scrolls have a tier. The tier of a spell scroll is equal to the MP cost of the spell stored inside it (including all spell modifiers).
+
+## Casting a Spell from a Scroll
+
+Any sentient creature may attempt to cast a spell from a scroll.
+
+**Read Spell Scroll.** Action: make an Arcana skill check (DC 5 + tier). On a success the spell is cast, and the scroll is destroyed. On a failure by 5 or more, the scroll is destroyed. On a failure by 10 or more, the stored mana explodes in a 5sqr side square centered on the scroll, dealing 1d6 energy damage times the scroll tier and destroying the scroll.
+
+If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
+
+If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
+
+## Learning a Spell from a Scroll
+
+A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
+
+To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
+
+## Creating Spell Scrolls
+
+At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 5gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
+
+## Buying Spell Scrolls
+
+In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier
+
+OBS: maybe make it be different checks instead of all Arcana?
 
 
 
@@ -2747,6 +2835,9 @@ OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se
 ### Rolo de Papel de Embrulho Espacial
 *Common (100gp)*
 Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e pesa no máximo 100g. Se o papel for rasgado todos os itens guardados nele são despejados pra fora, e o papel usado perde o efeito. O Rolo de Papel de Embrulho Espacial tem 10 usos.
+
+{{pageNumber,auto}}
+\page
 
 ### Braceletes da Falsa Força
 _Uncommon (150gp)_
@@ -2879,43 +2970,6 @@ An item invariably re quires an exotic material to complete it. This material ca
 | Legendary   | 50          | 100, 000 gp |
 \*Halved for a consumable item like a potion or scroll
 -->
-
-{{pageNumber,auto}}
-\page
-# Spell Scrolls
-
-Spell Scrolls are consumable items that contain a spell. They can be used either to:
-
-- Cast the spell
-- Learn the spell
-
-All spell scrolls have a tier. The tier of a spell scroll is equal to the MP cost of the spell stored inside it (including all spell modifiers).
-
-## Casting a Spell from a Scroll
-
-Any sentient creature may attempt to cast a spell from a scroll.
-
-**Read Spell Scroll.** Action: make an Arcana skill check (DC 5 + tier). On a success the spell is cast, and the scroll is destroyed. On a failure by 5 or more, the scroll is destroyed. On a failure by 10 or more, the stored mana explodes in a 5sqr side square centered on the scroll, dealing 1d6 energy damage times the scroll tier and destroying the scroll.
-
-If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
-
-If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
-
-## Learning a Spell from a Scroll
-
-A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
-
-To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
-
-## Creating Spell Scrolls
-
-At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 5gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
-
-## Buying Spell Scrolls
-
-In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier
-
-OBS: maybe make it be different checks instead of all Arcana?
 
 
 {{pageNumber,auto}}
@@ -3182,7 +3236,9 @@ nature -> elemental -> wild -> nature
 - [[Tranquilidade]]
 - [[Witch Bolt]]
 - [[Zephyr Strike]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]
@@ -3996,15 +4052,11 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 - **Duração:** concentração.
 ___
 
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.  
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect. If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
   
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.  
+**Enlarge**. The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
   
-**Enlarge**   
-The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.  
-  
-**Reduce**   
-The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
+**Reduce**. The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
 
 

@@ -91,7 +91,7 @@
 - [[Tranquilidade]]
 - [[Witch Bolt]]
 - [[Zephyr Strike]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{page-break}}
 
 ### 2nd Circle
 - [[Aid]]

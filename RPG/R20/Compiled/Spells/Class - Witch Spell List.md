@@ -31,7 +31,9 @@
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
-- [[Tentacle Twister]]
+- [[Tentacle Twister]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Blindness Deafness]]

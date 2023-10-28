@@ -95,6 +95,8 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 **Two-Handed**. This weapon requires two hands to use.
 
+{{page-break}}
+
 **Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
 **Reach**. This weapon adds 5 feet to your reach when you attack with it.

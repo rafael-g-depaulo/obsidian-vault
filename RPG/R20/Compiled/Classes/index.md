@@ -821,7 +821,9 @@ List of spells available for a Plantomancer to learn.
 - [[Sleep]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Barkskin]]
@@ -1116,7 +1118,9 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]
+- [[Zephyr Strike]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]
@@ -1386,7 +1390,9 @@ Spell List:
 - [[Ray of Sickness]]
 - [[Sleep]]
 - [[Snare]]
-- [[Tentacle Twister]]
+- [[Tentacle Twister]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Blindness Deafness]]

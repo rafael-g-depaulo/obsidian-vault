@@ -81,9 +81,9 @@ Figuring out magic spells or items, understanding mystical beings.
 
 {{page-break}}
 ### Tools
-#### Smith's Tools (DEX)
+#### Smith's Tools (STR)
 #### Alquemist's Tools (DEX)
-#### Scribe's Tools (DEX)
+#### Scribe's Tools (INT)
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
