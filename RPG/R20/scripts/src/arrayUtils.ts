@@ -3,16 +3,20 @@ import { isPromise } from './typeUtils'
 export const groupByNumber = <T extends unknown>(
   items: T[],
   numberByGroup: number
-): T[][] => items.reduce<{ groups: T[][], currentGroup: T[] }>((acc, cur, index) => {
-  const currentGroupId = Math.floor(index / numberByGroup)
-  return {
-    ...acc,
-    groups: {
-      ...acc.groups,
-      [currentGroupId]: [...acc.groups[currentGroupId]]
+): T[][] => {
+  const groups = items.reduce<{ groups: T[][], currentGroup: T[] }>((acc, cur, index) => {
+    const currentGroupId = Math.floor(index / numberByGroup)
+    return {
+      ...acc,
+      groups: {
+        ...acc.groups,
+        [currentGroupId]: [...(acc.groups[currentGroupId] ?? []), cur]
+      }
     }
-  }
-}, { groups: [], currentGroup: [] }).groups
+  }, { groups: [], currentGroup: [] }).groups
+
+  return Array.from({ ...groups, length: Math.ceil(items.length / numberByGroup) })
+}
 
 export const groupBy =
   <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>

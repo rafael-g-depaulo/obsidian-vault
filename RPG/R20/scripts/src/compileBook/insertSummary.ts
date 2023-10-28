@@ -64,7 +64,7 @@ const makeTocPage = (headings: string[]) => {
 
 }
 
-export const insertSummary = (content: string) => {
+export const insertSummary = (content: string): string => {
   const summaryIndex = content.indexOf('{{summary}}')
   const endOfSummary = summaryIndex + '{{summary}}'.length
 
@@ -76,14 +76,15 @@ export const insertSummary = (content: string) => {
     .filter(line => getHeadingLevel(line) < 3)
 
   const tableOfContents = groupByNumber((headings), headingsPerTocPage)
-    .map(makeTocPage)
-    .join("\n\\page")
+  // .map(makeTocPage)
+  // .join("\n\\page")
 
   // const tableOfContents = makeTocPage(headings)
   // console.log(headings)
   console.log(tableOfContents)
 
-  const insertSummary = replaceMacro('summary', () => tableOfContents)
+  return content
+  // const insertSummary = replaceMacro('summary', () => tableOfContents)
 
 
   return insertSummary(content)
