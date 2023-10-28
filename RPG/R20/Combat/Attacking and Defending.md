@@ -26,11 +26,11 @@ To make a spell attack you first roll to hit. The roll is determined by the foll
 	
 Unlike physical attacks, spell attacks in general don't add the caster's spellcasting modifier to the damage roll.
 
-{{page-}}
+{{page-break}}
 
 Some spells use a spell save DC instead. For that, see the Save DC Section below.
 
-As there is no weapon involved, each spell has it's own critical information, that determines the extra {{page-break}} damage it deals when it critically hits, and the range for it to critically strike.
+As there is no weapon involved, each spell has it's own critical information, that determines the extra damage it deals when it critically hits, and the range for it to critically strike.
 
 #### Saves
 For some spell and other abilities certain classes have an enemy has to roll to try to escape from the ability. The DC for that roll is determined by the formula below:
