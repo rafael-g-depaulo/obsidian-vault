@@ -79,10 +79,11 @@ Figuring out magic spells or items, understanding mystical beings.
 #### Survival (SEN)
 #### Cooking (PRE)
 
+{{page-break}}
 ### Tools
-#### Smith's Tools (INT)
-#### Alquemist's Tools (INT)
-#### Herbalist's Tools (INT)
+#### Smith's Tools (DEX)
+#### Alquemist's Tools (DEX)
+#### Scribe's Tools (DEX)
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:

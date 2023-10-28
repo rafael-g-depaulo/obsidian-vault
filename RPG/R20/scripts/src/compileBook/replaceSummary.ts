@@ -1,8 +1,8 @@
 import { groupByNumber } from '../arrayUtils'
 import { replaceMacro } from '../macros/replaceMacro'
 
-const headingsPerTocPage = 50
-const tocPageSeparator = "\n\\page\n"
+const headingsPerTocPage = 53
+const tocPageSeparator = "\n"
 
 const getHeadingLevel = (heading: string) =>
   /^#+ /.test(heading) ? heading.indexOf(' ') : -1
@@ -56,7 +56,7 @@ const makeTocItem = (heading: PagedHeading) =>
 const makeTocPage = (headings: PagedHeading[]) => {
   const tableOfContentsItems = headings.map(makeTocItem).join('\n')
 
-  const tableOfContentsHead = '{{toc,wide\n# Table Of Contents\n'
+  const tableOfContentsHead = '\n\\page\n{{toc,wide\n# Table Of Contents\n'
   const tableOfContentsTail = '\n}}'
 
   const tableOfContentsPage = `${tableOfContentsHead}${tableOfContentsItems}${tableOfContentsTail}`
@@ -65,12 +65,12 @@ const makeTocPage = (headings: PagedHeading[]) => {
 
 }
 
-export const insertSummary = (content: string): string => {
+export const replaceSummary = (content: string): string => {
   const summaryIndex = content.indexOf('{{summary}}')
   const endOfSummary = summaryIndex + '{{summary}}'.length
 
   const headings = pageCounter(content
-    .slice(endOfSummary)
+    .substring(endOfSummary)
     .split('\n')
     // get all headings and page breaks (important for counting pages later)
     .filter(line => getHeadingLevel(line) !== -1 || line === '\\page')
@@ -80,13 +80,8 @@ export const insertSummary = (content: string): string => {
     .map(makeTocPage)
     .join(tocPageSeparator)
 
-  // const tableOfContents = makeTocPage(headings)
-  // console.log(headings)
-  console.log(tableOfContents)
-
   // return tableOfContents
-  const insertSummary = replaceMacro('summary', () => tableOfContents)
-
+  const insertSummary = replaceMacro('summary', tableOfContents)
 
   return insertSummary(content)
 }

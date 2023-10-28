@@ -47,6 +47,8 @@ ___
 }}
 
 
+
+\page
 {{toc,wide
 # Table Of Contents
 - ### [{{ Attributes }}{{ 2 }}](#p2)
@@ -99,13 +101,14 @@ ___
 - ### [{{ Martial Feats }}{{ 35 }}](#p35)
 - ### [{{ Caster Feats }}{{ 36 }}](#p36)
 - ### [{{ Specialist Feats }}{{ 37 }}](#p37)
-}}
-\page
-{{toc,wide
-# Table Of Contents
 - ### [{{ Companion Feats }}{{ 38 }}](#p38)
 - ### [{{ Carga }}{{ 39 }}](#p39)
 - #### [{{ Sobrecarga }}{{ 39 }}](#p39)
+}}
+
+\page
+{{toc,wide
+# Table Of Contents
 - ### [{{ Coins }}{{ 40 }}](#p40)
 - ### [{{ Equipment }}{{ 41 }}](#p41)
 - #### [{{ Simple Weapons }}{{ 41 }}](#p41)
@@ -153,10 +156,6 @@ ___
 - #### [{{ How to recover }}{{ 90 }}](#p90)
 - #### [{{ Skipping a Rest }}{{ 90 }}](#p90)
 - #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 90 }}](#p90)
-}}
-\page
-{{toc,wide
-# Table Of Contents
 - ### [{{ Companions }}{{ 91 }}](#p91)
 - #### [{{ Stats }}{{ 91 }}](#p91)
 - #### [{{ Companion death }}{{ 91 }}](#p91)

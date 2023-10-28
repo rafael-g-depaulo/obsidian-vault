@@ -4,7 +4,7 @@ import { Archetype } from '../businessLogic/archetype'
 import { Spell } from '../businessLogic/spell'
 import { readFile } from '../file'
 import { addPageBreakBeforeH1 } from './addPageBreakBeforeH1'
-import { insertSummary } from './insertSummary'
+import { replaceSummary } from './replaceSummary'
 import { removeComments } from './removeComments'
 import { removeDevComments } from './removeDevComments'
 import {
@@ -48,5 +48,5 @@ export const processContent = (deps: CompileRulesDeps) =>
     replacePageBreakMacro,
     replaceVerticalSpacers,
     removeArchetypeDefinition,
-    insertSummary,
+    replaceSummary,
   )
