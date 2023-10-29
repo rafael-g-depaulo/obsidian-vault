@@ -24,6 +24,7 @@
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
+- [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
