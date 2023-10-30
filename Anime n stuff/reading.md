@@ -13,7 +13,7 @@
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
-- [Revenge of the Sword Hound](https://asuracomics.com/4485330618-revenge-of-the-iron-blooded-sword-hound-chapter-40/)
+- [Revenge of the Sword Hound](https://asuratoon.com/9766692502-revenge-of-the-iron-blooded-sword-hound-chapter-49/)
 - [Life of a Magic Academy Student](https://asuratoon.com/2122552102-life-of-a-magic-academy-mage-chapter-63/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
