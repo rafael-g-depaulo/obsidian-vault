@@ -1,5 +1,6 @@
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
+- [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
 ## Reading
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -8,6 +9,8 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
+- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)
+- [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -25,6 +28,7 @@
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
+- [Moon Slayer](https://zeroscans.com/comics/moon-slayer/6184)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
