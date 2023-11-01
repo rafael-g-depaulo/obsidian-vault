@@ -24,6 +24,8 @@ kanban-plugin: basic
 - [ ] kitty move cursos with mouse click
 - [ ] kitty open file in editor [useful??](https://github.com/kovidgoyal/kitty/discussions/5731)
 - [ ] Add zsh-vi-mode installation to setup
+- [ ] configure polybar
+- [ ] add dotfiles to setup
 
 
 ## todo
