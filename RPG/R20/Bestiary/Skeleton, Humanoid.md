@@ -18,3 +18,5 @@ ___
 **Challenge**            :: 2
 ___
 ***Garra Morta.*** melee, +6 hit. 2d6+3 slashing
+
+![[Skeleton, Humanoid.png]]
