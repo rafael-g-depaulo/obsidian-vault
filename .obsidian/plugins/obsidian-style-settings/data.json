@@ -1,0 +1,13 @@
+{
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@show-tab-list-button": false,
+  "shimmering-focus@@show-sidebar-toggle-buttons": true,
+  "shimmering-focus@@show-close-buttons": false,
+  "shimmering-focus@@show-search-pane-suggestions": true,
+  "shimmering-focus@@hide-attachment-folders": true,
+  "shimmering-focus@@hidden-sidebars-hidden-statusbar": true,
+  "shimmering-focus@@hide-properties-in-statusbar": true,
+  "shimmering-focus@@hide-backlinks-status-bar": true,
+  "shimmering-focus@@hide-languagetool-status-bar": true
+}
