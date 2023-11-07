@@ -1,6 +1,6 @@
 {
-  "confirmPassword": true,
-  "rememberPassword": true,
+  "confirmPassword": false,
+  "rememberPassword": false,
   "rememberPasswordTimeout": 30,
   "rememberPasswordLevel": "filename",
   "featureWholeNoteEncrypt": {

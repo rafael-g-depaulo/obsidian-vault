@@ -1,1 +1,0 @@
-Raquel Feire (raquel.freire@bairesdev.com) is my PXP (HR person) for BairesDev

@@ -1,3 +1,0 @@
-by Ægir Örn Símonarson on Slack
-
-One thing I’d like to mention is every time you create a branch named feature/NUMBER-text like feature/20802-Upgrade-vulnerable-packages then a new feature environment hosted on [https://feature-NUMBER.dev.lucinity.co/](https://feature-number.dev.lucinity.co/)  like [https://feature-XXXXXXXXXXXX.dev.lucinity.co/](https://feature-XXXXXXXXXXXX.dev.lucinity.co/) is created which is fine if you need it to test out something on server side and cant do it locally but it cost $ so if you do not intent to test the feature on the Kubernetes cluster then it is more cost affective to create a brance named dev/number-text like dev/XXXXXXXX-Upgrade-vulnerable-packages.

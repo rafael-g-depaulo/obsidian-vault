@@ -1,2 +1,0 @@
-
- if you have any problem running services execute `make stop; pkill -f node; pkill -f python; docker system prune --volumes --force; make start` inside services folder, that would leave services running, after that `make generate-test-data`  and then run `yarn start:case`  in lucinity-web folder, now I'm able to see workboard with local services en generated demo data
