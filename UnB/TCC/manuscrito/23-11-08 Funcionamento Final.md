@@ -147,18 +147,20 @@ type PathFuncReturn<
         ]
       >
   : never
-
-export type PathFunc<RestTree extends unknown[] = []> = <
-  PathName extends EnsureLiteral<PathName>,
-  Opts extends SegmentKindOpts
->(
-  path: PathName,
-  opts?: Opts
-) => SegmentKindOpts extends Opts
-  ? PathFuncReturn<RestTree, PathName, EmptyObject>
-  : PathFuncReturn<RestTree, PathName, Opts>
 ```
 
 Em `PathFuncReturnByOpts`, de forma semelhante com o anterior `EnsureLiteral`, é feita uma checagem se o tipo entrado `UserOpts` é válido (se é um subset de `SegmentKindOpts`). Passando nessa checagem, os tipos parâmetro são recebidos por `PathFuncReturn`.
 
-`PathFuncReturn` identifica 
+`PathFuncReturn` identifica qual o tipo de segmento sendo construído (vazio, concreto ou apelido), e constrói uma nova árvore de roteamento a partir dos parâmetros e da rota anterior usando os tipos de utilidade `Routes` e `Segment`.
+
+`Routes` é definido
+
+```ts
+
+export type Routes<RouteTree extends unknown[]> = Brand<
+  typeof type_brand_key,
+  RouteTree
+> &
+  Record<ConcretePaths<RouteTree>, Component> & { path: PathFunc<RouteTree> };
+
+```
