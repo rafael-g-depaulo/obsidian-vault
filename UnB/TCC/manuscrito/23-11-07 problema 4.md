@@ -15,4 +15,4 @@ Com esse objetivos definidos, queremos chegar numa tipagem final que permita um 
 
 ![[Pasted image 20231108104901.png]]
 
-Tivemos algumas explorações falhas, mas depois de 
+Tivemos algumas explorações falhas, mas depois de algumas semanas chegamos na solução final que é explicada em detalhes na seção XXXXXXXXXX.
