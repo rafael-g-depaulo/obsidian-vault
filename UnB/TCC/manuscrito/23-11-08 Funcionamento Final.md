@@ -44,18 +44,121 @@ type SegmentKindOpts =
 
 No início da lógica da função, as rotas concretas existentes em opts.children são extraídas, e é criado um dicionário com elas, re-contextualizando o nome delas usando o segmento atual como pai para o caminho.
 ```ts
-      const concreteChildRoutes =
-        'children' in opts
-          ? Object.fromEntries(
-            Object
-              // get all concrete routes from children
-              .entries<Component>(opts.children as Record<string, Component>)
-              // only routes, not methods and stuff
-              .filter(([key]) => key[0] === '/')
-              // append the current path as it's parent
-              .map(([key, value]) => [`${path}${key}`, value])
-          )
-          : {};
+const concreteChildRoutes =
+	'children' in opts
+		? Object.fromEntries(
+			Object
+				// get all concrete routes from children
+				.entries<Component>(opts.children as Record<string, Component>)
+				// only routes, not methods and stuff
+				.filter(([key]) => key[0] === '/')
+				// append the current path as it's parent
+				.map(([key, value]) => [`${path}${key}`, value])
+		)
+		: {};
 ```
 
 Se o segmento atual é concreto, criamos um dicionário unitário com o caminho e componente dele.
+```ts
+// if current segment is a concrete route, add it
+const concreteCurrentRoute =
+	'component' in opts ? { [path]: opts.component } : {};
+```
+
+Juntamos então as rotas atual, dos filhos e do contexto anterior
+```ts
+// compile new concrete routes based on context, children and current
+const concreteRoutes = {
+	...context,
+	...concreteCurrentRoute,
+	...concreteChildRoutes,
+} as Record<
+	ConcretePaths<NewRouteTree<RouteTree, PathName, Options>>,
+	Component
+>
+```
+
+e esse novo dicionário de rotas vira o contexto para qualquer chamada futura do builder.
+
+```ts
+const pathFunc = makePathFunc(concreteRoutes as RouteTree)
+```
+
+Com o dicionário de rotas, o método `.path` do builder construídos, só é necessário inserir a type_brand equivalente da árvore de roteamento criada, construir um novo objeto com todas as informações necessárias e retornar ele.
+
+```ts
+const newRoutes = {
+	[type_brand_key]: {} as NewRouteTree<RouteTree, PathName, Options>,
+	path: pathFunc,
+	...concreteRoutes,
+	// explicit conversion below needed to ensure proper typing
+} as unknown as PathFuncReturnByOpts<Options, RouteTree, PathName>
+
+return newRoutes
+```
+
+A informação de tipo é construída corretamente pelo uso de 2 tipos auxiliares, `PathFuncReturnByOpts` e `NewRouteTree`.
+
+```ts
+import { EmptyObject, ExtractRouteTree } from './globals';
+import { Routes } from './route';
+import {
+  ConcreteSegment,
+  EmptySegment,
+  LinkSegment,
+  Segment,
+  SegmentKindOpts,
+  SegmentOpts,
+} from './segment';
+
+export type PathFuncReturnByOpts<
+  UserOpts,
+  RestTree extends unknown[],
+  PathName extends EnsureLiteral<PathName>
+> = SegmentKindOpts extends UserOpts
+  ? PathFuncReturn<RestTree, PathName, EmptyObject>
+  : PathFuncReturn<RestTree, PathName, UserOpts>
+
+type PathFuncReturn<
+  RestTree extends unknown[],
+  PathName extends EnsureLiteral<PathName>,
+  Opts
+> = Opts extends SegmentOpts<infer Children>
+  ? 'component' extends keyof Opts
+    ? Routes<
+        [
+          ...RestTree,
+          Segment<PathName, ConcreteSegment, ExtractRouteTree<Children>>
+        ]
+      >
+    : // if link path
+    'link_to' extends keyof Opts
+    ? Routes<
+        [
+          ...RestTree,
+          Segment<PathName, LinkSegment, ExtractRouteTree<Children>>
+        ]
+      >
+    : // if empty path
+      Routes<
+        [
+          ...RestTree,
+          Segment<PathName, EmptySegment, ExtractRouteTree<Children>>
+        ]
+      >
+  : never
+
+export type PathFunc<RestTree extends unknown[] = []> = <
+  PathName extends EnsureLiteral<PathName>,
+  Opts extends SegmentKindOpts
+>(
+  path: PathName,
+  opts?: Opts
+) => SegmentKindOpts extends Opts
+  ? PathFuncReturn<RestTree, PathName, EmptyObject>
+  : PathFuncReturn<RestTree, PathName, Opts>
+```
+
+Em `PathFuncReturnByOpts`, de forma semelhante com o anterior `EnsureLiteral`, é feita uma checagem se o tipo entrado `UserOpts` é válido (se é um subset de `SegmentKindOpts`). Passando nessa checagem, os tipos parâmetro são recebidos por `PathFuncReturn`.
+
+`PathFuncReturn` identifica 
