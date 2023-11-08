@@ -22,5 +22,40 @@ Nela, usamos os conceitos de contexto, informação atual e informação de filh
 
 ![[Pasted image 20231108185749.png]]
 
-O builder assume um contexto existente, tipado como uma RouteTree. As informações correntes são designadas 
+O builder assume um contexto existente, tipado como uma RouteTree. As informações correntes são recebidas como o caminho do segmento de rota atual (path) e o resto das opções do segmento de rota (opts).
 ![[Pasted image 20231108190121.png]]
+
+Para garantir que o compilador typescript só aceite tipos unitários de string e não o tipo string em si como o tipo de `path`, usamos o tipo auxiliar EnsureLiteral, definido como:
+
+```ts
+export type EnsureLiteral<L extends string> = string extends L ? never : string;
+```
+
+. Essa definição garante que o tipo `L` dado tem que extender string, mas não pode ser string. A única forma de se fazer isso em typescript é com uma união de tipos unitários string.
+
+`opts` é tipado como Options, que é um superset de `SegmentKindOpts`, definido como:
+
+```ts
+type SegmentKindOpts =
+  | EmptyObject // empty path (also optional, can just not give opts)
+  | { component: Component } // concrete path (with "Page" or "Index" component)
+  | { link_to: string }; // link path
+```
+
+No início da lógica da função, as rotas concretas existentes em opts.children são extraídas, e é criado um dicionário com elas, re-contextualizando o nome delas usando o segmento atual como pai para o caminho.
+```ts
+      const concreteChildRoutes =
+        'children' in opts
+          ? Object.fromEntries(
+            Object
+              // get all concrete routes from children
+              .entries<Component>(opts.children as Record<string, Component>)
+              // only routes, not methods and stuff
+              .filter(([key]) => key[0] === '/')
+              // append the current path as it's parent
+              .map(([key, value]) => [`${path}${key}`, value])
+          )
+          : {};
+```
+
+Se o segmento atual é concreto, criamos um dicionário unitário com o caminho e componente dele.
