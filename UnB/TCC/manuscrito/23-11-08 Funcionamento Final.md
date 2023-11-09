@@ -197,36 +197,21 @@ type ConcretePathsRecursion<
 > = 
 unknown extends RouteTree ? AccumulatePath :
 RouteTree extends [] ? never :
-RouteTree extends [infer Child, ...infer RestTree] ?
+RouteTree extends [infer Current, ...infer RestTree] ?
+	// caso o nó atual seja concreto, adicione ele ao acumulado e retorne
 	| (
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // TODO: reler e refatorar isso quando estiver descansado
-    // caso não tenha mais nós irmãos
-    [] | unknown extends RestTree ?
-	    // recursão só nos filhos
-      Child extends ConcreteSegment<infer ChildPathname extends string, infer _GrandChildren>
-        ? [...AccumulatePath, ChildPathname]
+      Current extends ConcreteSegment<infer Pathname extends string, infer _Children>
+        ? [...AccumulatePath, Pathname]
         : never
-    // caso tenha nós irmãos
-    :
-    // caso o primeiro filho direto seja um segmento concreto
-    Child extends ConcreteSegment<infer ChildPathname extends string, infer GrandChildren>
-			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
-		// caso o primeiro filho direto seja um segmento de apelido
-		: Child extends LinkSegment<infer ChildPathname extends string, infer GrandChildren>
-			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
-    // caso o primeiro filho direto seja um segmento vazio
-		: Child extends EmptySegment<infer ChildPathname extends string, infer GrandChildren>
-			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
+  )
+  // recursão nos nós filhos
+	| (
+    Current extends ConcreteSegment<infer Pathname extends string, infer Children>
+	    ? ConcretePathsRecursion<Children, [...AccumulatePath, Pathname]>
+		: Current extends LinkSegment<infer Pathname extends string, infer Children>
+			? ConcretePathsRecursion<Children, [...AccumulatePath, Pathname]>
+    : Current extends EmptySegment<infer Pathname extends string, infer Children>
+			? ConcretePathsRecursion<Children, [...AccumulatePath, Pathname]>
 		: never
   )
   // recursão nos outros nós irmãos   
@@ -234,3 +219,15 @@ RouteTree extends [infer Child, ...infer RestTree] ?
 : never
 ```
 
+Com essa solução de tipagem e implementação e o exemplo da figura XXXXX (início da seção), temos um objeto routes final com o tipo
+```ts
+Routes<
+	[
+		Segment<"/", "concrete", never>,
+		Segment<"/blog", "concrete", [Segment<"/:blog_id", "concrete", never>]>,
+		Segment<"/news", "link", never>,
+		Segment<"/about", "empty", [Segment<"/us", "concrete", never>]>
+	]
+>;
+```
+, que se usado como parâmetro de tipo para `ConcretePaths`, retorna
