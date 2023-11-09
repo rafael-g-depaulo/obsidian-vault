@@ -153,14 +153,86 @@ Em `PathFuncReturnByOpts`, de forma semelhante com o anterior `EnsureLiteral`, �
 
 `PathFuncReturn` identifica qual o tipo de segmento sendo construído (vazio, concreto ou apelido), e constrói uma nova árvore de roteamento a partir dos parâmetros e da rota anterior usando os tipos de utilidade `Routes` e `Segment`.
 
-`Routes` é definido
+`Segment` é simplesmente um tipo feito para estruturas a informação sobre um segmento da árvore de rotas, da forma:
+```ts
+export type ConcreteSegment = 'concrete'
+export type LinkSegment = 'link'
+export type EmptySegment = 'empty'
+
+export type SegmentKinds =
+  | ConcreteSegment // has component ("page" and "index" kinds)
+  | LinkSegment // alias routes
+  | EmptySegment // has no component
+
+export type Segment<
+  Name extends EnsureLiteral<Name>,
+  Kind extends EnsureFromUnion<Kind, SegmentKinds>,
+  ChildRouteTree extends unknown[]
+> = [Name, Kind, ChildRouteTree]
+```
+Com o segmento construído dessa forma, podemos definir a árvore de roteamento em si como uma tupla de Segmentos, onde os filhos de um nó são representados como uma tupla no parâmetro  `ChildRouteTree`.
+
+`Routes` é definido como um dicionário de todas as rotas concretas existentes na árvore, do método path do **builder**, e de um type brand (adicionar contextualização teórica sobre type brands).
 
 ```ts
-
 export type Routes<RouteTree extends unknown[]> = Brand<
   typeof type_brand_key,
   RouteTree
-> &
-  Record<ConcretePaths<RouteTree>, Component> & { path: PathFunc<RouteTree> };
+> & Record<ConcretePaths<RouteTree>, Component> & { path: PathFunc<RouteTree> }
+```
 
+`ConcretePaths` é um tipo de utilidade que a partir do tipo `RouteTree` extrai e compila, de forma recursiva, o caminho completo de todas as rotas concretas que existem na árvore.
+
+```ts
+// Get all concrete paths for a route tree
+export type ConcretePaths<UserRoutes> = UserRoutes extends Routes<
+  infer RouteTree
+>
+  ? CompilePath<ConcretePathsRecursion<RouteTree, []>>
+  : never;
+
+type ConcretePathsRecursion<
+  RouteTree,
+  AccumulatePath extends string[]
+> = unknown extends RouteTree
+  ? AccumulatePath
+  : RouteTree extends []
+  ? never
+  : RouteTree extends [infer Child, ...infer RestTree]
+  ?
+      | ([] | unknown extends RestTree
+          ? Child extends ConcreteSegment<
+              infer ChildPathname extends string,
+              // eslint-disable-next-line @typescript-eslint/no-unused-vars
+              infer _GrandChildren
+            >
+            ? [...AccumulatePath, ChildPathname]
+            : never
+          : Child extends ConcreteSegment<
+              infer ChildPathname extends string,
+              infer GrandChildren
+            >
+          ? ConcretePathsRecursion<
+              GrandChildren,
+              [...AccumulatePath, ChildPathname]
+            >
+          : Child extends LinkSegment<
+              infer ChildPathname extends string,
+              infer GrandChildren
+            >
+          ? ConcretePathsRecursion<
+              GrandChildren,
+              [...AccumulatePath, ChildPathname]
+            >
+          : Child extends EmptySegment<
+              infer ChildPathname extends string,
+              infer GrandChildren
+            >
+          ? ConcretePathsRecursion<
+              GrandChildren,
+              [...AccumulatePath, ChildPathname]
+            >
+          : never)
+      | ConcretePathsRecursion<RestTree, AccumulatePath>
+  : never
 ```
