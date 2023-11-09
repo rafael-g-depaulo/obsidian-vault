@@ -194,45 +194,43 @@ export type ConcretePaths<UserRoutes> = UserRoutes extends Routes<
 type ConcretePathsRecursion<
   RouteTree,
   AccumulatePath extends string[]
-> = unknown extends RouteTree
-  ? AccumulatePath
-  : RouteTree extends []
-  ? never
-  : RouteTree extends [infer Child, ...infer RestTree]
-  ?
-      | ([] | unknown extends RestTree
-          ? Child extends ConcreteSegment<
-              infer ChildPathname extends string,
-              // eslint-disable-next-line @typescript-eslint/no-unused-vars
-              infer _GrandChildren
-            >
-            ? [...AccumulatePath, ChildPathname]
-            : never
-          : Child extends ConcreteSegment<
-              infer ChildPathname extends string,
-              infer GrandChildren
-            >
-          ? ConcretePathsRecursion<
-              GrandChildren,
-              [...AccumulatePath, ChildPathname]
-            >
-          : Child extends LinkSegment<
-              infer ChildPathname extends string,
-              infer GrandChildren
-            >
-          ? ConcretePathsRecursion<
-              GrandChildren,
-              [...AccumulatePath, ChildPathname]
-            >
-          : Child extends EmptySegment<
-              infer ChildPathname extends string,
-              infer GrandChildren
-            >
-          ? ConcretePathsRecursion<
-              GrandChildren,
-              [...AccumulatePath, ChildPathname]
-            >
-          : never)
-      | ConcretePathsRecursion<RestTree, AccumulatePath>
-  : never
+> = 
+unknown extends RouteTree ? AccumulatePath :
+RouteTree extends [] ? never :
+RouteTree extends [infer Child, ...infer RestTree] ?
+	| (
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // TODO: reler e refatorar isso quando estiver descansado
+    // caso não tenha mais nós irmãos
+    [] | unknown extends RestTree ?
+	    // recursão só nos filhos
+      Child extends ConcreteSegment<infer ChildPathname extends string, infer _GrandChildren>
+        ? [...AccumulatePath, ChildPathname]
+        : never
+    // caso tenha nós irmãos
+    :
+    // caso o primeiro filho direto seja um segmento concreto
+    Child extends ConcreteSegment<infer ChildPathname extends string, infer GrandChildren>
+			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
+		// caso o primeiro filho direto seja um segmento de apelido
+		: Child extends LinkSegment<infer ChildPathname extends string, infer GrandChildren>
+			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
+    // caso o primeiro filho direto seja um segmento vazio
+		: Child extends EmptySegment<infer ChildPathname extends string, infer GrandChildren>
+			? ConcretePathsRecursion<GrandChildren, [...AccumulatePath, ChildPathname]>
+		: never
+  )
+  // recursão nos outros nós irmãos   
+	| ConcretePathsRecursion<RestTree, AccumulatePath>
+: never
 ```
+
