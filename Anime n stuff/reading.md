@@ -1,6 +1,7 @@
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
+
 ## Reading
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -11,6 +12,7 @@
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
+- [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-1-10/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -36,8 +38,6 @@
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [sword fanatic wanders through the night](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
-
-## To-read
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
