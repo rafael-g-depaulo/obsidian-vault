@@ -219,6 +219,21 @@ RouteTree extends [infer Current, ...infer RestTree] ?
 : never
 ```
 
+`ConcretePaths`, por sua vez, depende do tipo de utilidade `CompilePaths` para construir a união de string units final.
+```ts
+export type CompilePath<P extends string[]> =
+	P extends [] ? `` :
+	P extends [infer A extends string, ...infer Rest extends string[]]
+		? JoinPaths<`${A}`, `${CompilePath<Rest>}`>
+		: never;
+
+export type JoinPaths<P extends EnsureLiteral<P>, C extends EnsureLiteral<C>> =
+	// special case for if parent is "/"
+	"/" extends P ? C :
+	`${P}${C}`
+```
+`CompilePath` e `JoinPaths` tem um funcionamento simples, e somente compilam uma tupla de string units e concatenam string units, respectivamente.
+
 Com essa solução de tipagem e implementação e o exemplo da figura XXXXX (início da seção), temos um objeto routes final com o tipo
 ```ts
 Routes<
@@ -230,4 +245,9 @@ Routes<
 	]
 >;
 ```
-, que se usado como parâmetro de tipo para `ConcretePaths`, retorna
+
+, que se usado como parâmetro de tipo para `ConcretePaths`, retorna:
+```ts
+"/" | "/blog" | "/blog/:blog_id" | "/about/us"
+```
+. Notável aqui não só que o segmento de link foi ignorado, mas também que apesar da rota vazia `"/about"` ter sido corretamente ignorada, a rota filha `/about/us` foi incluída.
