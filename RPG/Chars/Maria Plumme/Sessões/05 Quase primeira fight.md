@@ -8,4 +8,4 @@ Ela vai direto pro centro e encontra com Bertran e Duncan pra ajudar.
 
 Depois ela vai pra guilda, encontra com Ed, Ard e Hakim, e combina com eles de ir matar os elementais no distrito restrito. [[Mana]] cola junto.
 
-
+Fomos prum bosque perto do distrito e achamos alguns elementais de fogo e terra. A fight ia começar aí sessão cabou
