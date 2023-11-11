@@ -32,6 +32,7 @@
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 - [Moon Slayer](https://zeroscans.com/comics/moon-slayer/6184)
 - [Return of Mount Hua](https://asuratoon.com/6849480105-return-of-the-mount-hua-sect-chapter-97/)
+- [Murim Login](https://asuratoon.com/6849480105-murim-login-chapter-175/)
 
 ## Hiatus
 - [Reaper of the Drifting Moon](https://www.asurascans.com/6179701029-reaper-of-the-drifting-moon-chapter-55-s1-end/)
