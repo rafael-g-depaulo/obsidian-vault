@@ -34,6 +34,7 @@
 - [Return of Mount Hua](https://asuratoon.com/6849480105-return-of-the-mount-hua-sect-chapter-97/)
 - [Murim Login](https://asuratoon.com/6849480105-murim-login-chapter-175/)
 - [Reaper of the Drifting Moon](https://asuratoon.com/6849480105-reaper-of-the-drifting-moon-chapter-61/)
+- [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
