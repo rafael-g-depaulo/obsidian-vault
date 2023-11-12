@@ -39,6 +39,36 @@ root.render(
 . Dessa forma, quando o caminho atual do navegador é `/`, por exemplo, Se usarmos as rotas definidas na figura ###### (definição árvore roteamento), `Router` se comportará equivalente a `PageHome`, e se o caminho fosse `/about/us`, se comportará de forma equivalente a `PageAboutUs`.
 
 #### `useRouteParams`
-Em rotas de índice, como a `/blog/:blog_id` do exemplo da figura ######, existe informação adicional contida na própria *URL* que precisa ser extraída e processada para que a aplicação funcione corretamente. No exemplo usado, se o caminho real usado for `/blog/25`, `25` é o identificador daquele post específico do blog, e a aplicação precisa fazer uma requisição ao servidor `backend` para receber as informações necessárias sobre  
+Em rotas de índice, como a `/blog/:blog_id` do exemplo da figura ######, existe informação adicional contida na própria *URL* que precisa ser extraída e processada para que a aplicação funcione corretamente. No exemplo usado, se o caminho real usado for `/blog/25`, `25` é o identificador daquele post específico do blog, e a aplicação precisa fazer uma requisição ao servidor `backend` para receber os dados que precisa para a visualização da postagem. A extração dessa informação de índice da *URL* é feita por meio do *hook* `useRouteParams`.
+
+O uso dele é
+```ts
+// routes.ts
+export const { useRouteParams } = UseRoutes(routes)
+
+// pages/ShowBlogPostPage.tsx
+import { useRouteParams } from "../routes"
+
+export const ShowBlogPostPage = () => {
+  const { blog_id } = useRouteParams("/blog/:blog_id")
+	// u
+}
+```
+
+`useRouteParams` recebe como um parâmetro de tipo uma *string unit* que representa a rota atual (que pode ser inferido por uma `string` passada como argumento), e a partir disso constrói um tipo objeto, com uma chave para cada índice que a rota contém. O *hook* retorna um objeto do tipo construído, populando a informação com os valores extraídos da *URL*. No momento, a lógica interna depende de uma utilidade equivalente de `react-router-dom`, então `useRouteParams` funciona como uma abstração de tipagem em cima do hook de mais baixo nível de `react-router-dom`.
+
+
+
+----------------------------------------------
+---------------------
+------------
+-------------
+------------
+
+
+
+##### Lembrar de ter Contextualização: Hooks
+
+
 
 #### `Link`
