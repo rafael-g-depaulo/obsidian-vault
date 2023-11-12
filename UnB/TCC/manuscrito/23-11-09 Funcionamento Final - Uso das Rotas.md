@@ -1,7 +1,8 @@
 ### Uso da árvore de roteamento
 Uma vez com a lógica de roteamento definida, é necessário integrar essa lógica nas funcionalidades de roteamento e navegação da aplicação.
 
-Para isso são necessárias novas utilidades, cada uma com sua tipagem derivada do tipo `Routes` da árvore de rotas específica da aplicação. Essas utilidades foram centralizadas numa função `UseRoutes`, que recebe as rotas construídas pelo *builder* e o tipo respectivo como parâmetros, passa eles para os construtores das utilidades necessárias e retorna um objeto com elas.
+Para isso são necessárias novas utilidades, cada uma com sua tipagem derivada do tipo `Routes` da árvore de rotas específica da aplicação. Essas utilidades foram centralizadas numa função `UseRoutes`, que recebe as rotas construídas pelo *builder* e o tipo respectivo como parâmetros, passa eles para as fábricas das utilidades necessárias e retorna um objeto com elas.
+##### Lembrar de ter contextualização: fábrica
 
 ```ts
 export const UseRoutes = <UserRoutes>(routes: UserRoutes) => ({
@@ -51,12 +52,62 @@ import { useRouteParams } from "../routes"
 
 export const ShowBlogPostPage = () => {
   const { blog_id } = useRouteParams("/blog/:blog_id")
-	// u
+	// uso de blog_id para a lógica de negócios da aplicação
 }
 ```
 
 `useRouteParams` recebe como um parâmetro de tipo uma *string unit* que representa a rota atual (que pode ser inferido por uma `string` passada como argumento), e a partir disso constrói um tipo objeto, com uma chave para cada índice que a rota contém. O *hook* retorna um objeto do tipo construído, populando a informação com os valores extraídos da *URL*. No momento, a lógica interna depende de uma utilidade equivalente de `react-router-dom`, então `useRouteParams` funciona como uma abstração de tipagem em cima do hook de mais baixo nível de `react-router-dom`.
 
+A implementação da fábrica que cria o *hook* é:
+
+```ts
+export const makeUseRouteParams =
+  <UserRoutes,>(routes: UserRoutes) =>
+  <
+    IndexedRoute extends IndexedPaths<
+      ExtractRouteTree<UserRoutes>
+    > = IndexedPaths<ExtractRouteTree<UserRoutes>>
+  >(
+    route?: IndexedRoute
+  ): RouteIndexParams<IndexedRoute> => {
+    return useParams() as any;
+  };
+```
+
+Recebendo `UserRoutes` como parâmetro de tipo, a fábrica constrói um hook que por si recebe um parâmetro de tipo `IndexedRoute`, que é uma *string unit* representando a rota atual, da qual os parâmetros devem ser extraídos. Como mencionado anteriormente, esse tipo `IndexedRoute` pode ser inserido explicitamente como parâmetro de tipo, ou inferido pelo argumento opcional `route`.
+
+A lógica de implementação em *runtime* do *hook* em si é equivalente à da utilidade similar `useParams` de `react-router-dom`, então enquanto `react-router-dom` existir como uma dependência interna da biblioteca, não é necessário re-implementar a lógica.
+
+A tipagem de `IndexedRoute` e do objeto de retorno do *hook* dependem das utilidades de tipo internas `IndexedPaths`, `ExtractRouteTree` e `RouteIndexParams`.
+
+`IndexedPaths` é um tipo que, recebendo o tipo `RouteTree` com a informação da árvore de roteamento, compila de forma recursiva todas as rotas concretas de índice válidas.
+```ts
+export type IndexedPaths<
+  RouteTree extends unknown[],
+  AccumulatePath extends string[] = []
+> = 
+  [] extends RouteTree ? never
+  : RouteTree extends [infer Route, ...infer RestTree]
+  ? Route extends [
+      infer ChildName extends string,
+      infer ChildKind extends string,
+      infer GrandChildren extends unknown[]
+    ]
+    ? ChildName extends EnsureLiteral<ChildName>
+      ? ChildKind extends EnsureFromUnion<ChildKind, SegmentKinds>
+        ? // this segment
+          | IfIndexedPath<[...AccumulatePath, ChildName]>
+            // recur on siblins
+            | IndexedPaths<RestTree, AccumulatePath>
+            // recur on children
+            | IndexedPaths<GrandChildren, [...AccumulatePath, ChildName]>
+        : never
+      : never
+    : never
+  : never
+```
+
+`IndexedPaths` por sua vez depende das utilidades `EnsureLiteral`, `EnsureFromUnion` e `IfIndexedPath`. `EnsureLiteral` foi explorado anteriormente, e, de forma similar, `EnsureFromUnion` garante que um tipo q
 
 
 ----------------------------------------------
