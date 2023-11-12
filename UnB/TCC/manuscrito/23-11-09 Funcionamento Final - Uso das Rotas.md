@@ -107,8 +107,49 @@ export type IndexedPaths<
   : never
 ```
 
-`IndexedPaths` por sua vez depende das utilidades `EnsureLiteral`, `EnsureFromUnion` e `IfIndexedPath`. `EnsureLiteral` foi explorado anteriormente, e, de forma similar, `EnsureFromUnion` garante que um tipo q
+`IndexedPaths` por sua vez depende das utilidades `EnsureLiteral`, `EnsureFromUnion` e `IfIndexedPath`. `EnsureLiteral` foi explorado anteriormente, e, de forma similar, `EnsureFromUnion` garante que um tipo recebido que estende *string* não só é uma *string unit*, mas também pertence à união recebida como argumento.
 
+```ts
+export type EnsureFromUnion<
+  S extends string,
+  Union extends EnsureLiteral<Union>
+> =
+  // needs to be literal
+  string extends S ? never :
+	// needs to be contained in union
+	Union extends S
+		? string
+    : never
+```
+
+`IfIndexedPath` atomiza a lógica de conferir se uma *string unit* representa ou não um caminho concreto de índice
+
+```ts
+
+type EnsurePathContainsIndexSegment<
+  Path extends string,
+  Acc extends string = ''
+> =
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  Path extends `/:${infer _Index}`
+    ? `${Acc}${Path}`
+    : Path extends `/${infer NonIndexSegment}/${infer Rest}`
+    ? EnsurePathContainsIndexSegment<`/${Rest}`, `${Acc}/${NonIndexSegment}`>
+    : never;
+
+export type IfIndexedPath<
+  Path extends string[],
+  AccPath extends string[] = []
+> = [] extends Path
+  ? never
+  : Path extends [infer Segment extends string, ...infer Rest extends string[]]
+  ? Segment extends EnsurePathContainsIndexSegment<Segment>
+    ? CompilePath<[...AccPath, ...Path]>
+    : IfIndexedPath<Rest, [...AccPath, Segment]>
+  : never;
+
+
+```
 
 ----------------------------------------------
 ---------------------
