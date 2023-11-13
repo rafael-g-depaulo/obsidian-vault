@@ -253,4 +253,3 @@ Esse objetivo é atingido utilizando de novo o tipo de utilidade `RouteIndexPara
 Com essa implementação feita, temos o seguinte comportamento do componente `Link`:
 
 **colocar aqui aquele print que mandei pro thales e pro moises mostrando que n pode ter param de mais ou de menos, ou rota com nome errado e tal**
-
