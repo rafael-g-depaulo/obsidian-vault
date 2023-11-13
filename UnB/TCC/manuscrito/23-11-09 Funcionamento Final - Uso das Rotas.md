@@ -161,10 +161,65 @@ export type IfIndexedPath<
   : never
 ```
 
-`RouteIndexParams` é o tipo que o hook `useRouteParams` usa para tipar o objeto de retorno. Ele recebe como par
- 
+`RouteIndexParams` é o tipo que o hook `useRouteParams` usa para tipar o objeto de retorno. Ele recebe como parâmetro uma *string unit* representando a rota atual, e usando o tipo de utilidade `RouteIndexParamsKeys` constrói o tipo desejado.
+
+```ts
+type RouteIndexParams<RoutePath extends EnsureLiteral<RoutePath>> = Record<
+  RouteIndexParamsKeys<RoutePath>,
+  string
+>
+```
+
+`RouteIndexParamsKeys`, por sua vez, recebe o mesmo parâmetro de tipo, e recursivamente extrai dela todos os nomes dos seus segmentos de índice, e retorna uma união deles. 
+
+```ts
+type RouteIndexParamsKeys<RoutePath extends EnsureLiteral<RoutePath>> =
+  // index non-leaf
+  RoutePath extends `/:${infer IndexSegName}/${infer Rest}`
+    ? IndexSegName | RouteIndexParamsKeys<`/${Rest}`>
+	:
+	// non-index non-leaf
+	RoutePath extends `/${infer _SegName}/${infer Rest}`
+    ? RouteIndexParamsKeys<`/${Rest}`>
+	:
+	// index leaf
+	RoutePath extends `/:${infer IndexSegName}`
+    ? IndexSegName
+	:
+	// non-index leaf
+	RoutePath extends `/${infer _SegName}`
+    ? never
+	: never
+```
+
 ##### Lembrar de ter Contextualização: Hooks
 
-
-
 #### `Link`
+Mesmo com a lógica de roteamento funcionando, ainda é necessário a funcionalidade de navegação entre as rotas definidas. Para isso, é usado o componente `Link`, um paralelo da tag âncora `a` do HTML (**TODO: referência documentação html**). Não só isso, como o código HTML eventualmente gerado pelo código Javascript do bundle final vai incluir tags âncora.
+
+Como parte central da ideação da biblioteca e motivo inicial da sua construção, a tipagem do componente `Link` é extremamente importante do ponto de vista de `DX`, dado que o usuário desenvolvedor vai passar muito mais tempo interagindo com a lógica de navegação do que com a lógica de roteamento.
+
+A fábrica do componente de Link é definida como:
+
+```ts
+import { Link as LinkReactRouterDom } from 'react-router-dom'
+
+const parseParams = (routeTemplate: string, params: Record<string, string>) =>
+  routeTemplate
+    .split('/')
+    .map((segment) => (segment[0] === ':' ? params[segment.slice(1)] : segment))
+    .join('/')
+
+export const makeLink =
+  <UserRoutes,>(routes: UserRoutes) =>
+  (props: LinkProps<UserRoutes>) => {
+    return (
+      <LinkReactRouterDom
+        to={parseParams(props.to, props.params)}
+        children={props.children}
+      />
+    )
+  }
+```
+
+De novo a lógica interna de implementação *runtime* é passada para `react-router-dom`. A função de utilidade `parseParams` compila o caminho real do *link* a partir de uma string com o nome da rota e um dicionário com os valores para qualquer índi
