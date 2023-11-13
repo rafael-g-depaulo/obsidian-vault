@@ -80,6 +80,17 @@ A lógica de implementação em *runtime* do *hook* em si é equivalente à da u
 
 A tipagem de `IndexedRoute` e do objeto de retorno do *hook* dependem das utilidades de tipo internas `IndexedPaths`, `ExtractRouteTree` e `RouteIndexParams`.
 
+`ExtractRouteTree` é um simples tipo de utilidade que utiliza a *type brand* do tipo de `Routes` para inferir o tipo interno da árvore de rotas.
+```ts
+export type ExtractRouteTree<UserRoutes> = UserRoutes extends {
+  [type_brand_key]: infer RouteTree;
+}
+  ? RouteTree extends unknown[]
+  ? RouteTree
+  : never
+  : never
+```
+
 `IndexedPaths` é um tipo que, recebendo o tipo `RouteTree` com a informação da árvore de roteamento, compila de forma recursiva todas as rotas concretas de índice válidas.
 ```ts
 export type IndexedPaths<
@@ -122,7 +133,9 @@ export type EnsureFromUnion<
     : never
 ```
 
-`IfIndexedPath` atomiza a lógica de conferir se uma *string unit* representa ou não um caminho concreto de índice
+`IfIndexedPath` contém a lógica de conferir se uma *string unit* representa ou não um caminho concreto de índice, usando o tipo de utilidade `EnsurePathContainsIndexSegment`. `IfIndexedPath` recebe uma tupla de *string units* representando os segmentos da rota, e recursivamente navega por ela, quebrando a recurção e retornando positivamente com o caminho compilado se for achado um segmento de índice. Se o caminho não tiver nenhum segmento de índice, é retornado `never`.
+
+`EnsurePathContainsIndexSegment` por si checa se um único *string unit* contém um segmento índice. Ele faz isso checando se o segmento atual do tipo é um índice, e se não for ele checa recursivamente nos segmentos seguintes do parâmetro recebido, se a *string unit* recebida tiver múltiplos segmentos.
 
 ```ts
 
@@ -130,12 +143,11 @@ type EnsurePathContainsIndexSegment<
   Path extends string,
   Acc extends string = ''
 > =
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   Path extends `/:${infer _Index}`
     ? `${Acc}${Path}`
     : Path extends `/${infer NonIndexSegment}/${infer Rest}`
     ? EnsurePathContainsIndexSegment<`/${Rest}`, `${Acc}/${NonIndexSegment}`>
-    : never;
+    : never
 
 export type IfIndexedPath<
   Path extends string[],
@@ -146,19 +158,11 @@ export type IfIndexedPath<
   ? Segment extends EnsurePathContainsIndexSegment<Segment>
     ? CompilePath<[...AccPath, ...Path]>
     : IfIndexedPath<Rest, [...AccPath, Segment]>
-  : never;
-
-
+  : never
 ```
 
-----------------------------------------------
----------------------
-------------
--------------
-------------
-
-
-
+`RouteIndexParams` é o tipo que o hook `useRouteParams` usa para tipar o objeto de retorno. Ele recebe como par
+ 
 ##### Lembrar de ter Contextualização: Hooks
 
 
