@@ -100,8 +100,8 @@ return newRoutes
 A informação de tipo é construída corretamente pelo uso de 2 tipos auxiliares, `PathFuncReturnByOpts` e `NewRouteTree`.
 
 ```ts
-import { EmptyObject, ExtractRouteTree } from './globals';
-import { Routes } from './route';
+import { EmptyObject, ExtractRouteTree } from './globals'
+import { Routes } from './route'
 import {
   ConcreteSegment,
   EmptySegment,
@@ -109,7 +109,7 @@ import {
   Segment,
   SegmentKindOpts,
   SegmentOpts,
-} from './segment';
+} from './segment'
 
 export type PathFuncReturnByOpts<
   UserOpts,
@@ -243,7 +243,7 @@ Routes<
 		Segment<"/news", "link", never>,
 		Segment<"/about", "empty", [Segment<"/us", "concrete", never>]>
 	]
->;
+>
 ```
 
 , que se usado como parâmetro de tipo para `ConcretePaths`, retorna:
