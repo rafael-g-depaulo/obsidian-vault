@@ -222,4 +222,35 @@ export const makeLink =
   }
 ```
 
-De novo a lógica interna de implementação *runtime* é passada para `react-router-dom`. A função de utilidade `parseParams` compila o caminho real do *link* a partir de uma string com o nome da rota e um dicionário com os valores para qualquer índi
+De novo a lógica interna de implementação *runtime* é passada para `react-router-dom`. A função de utilidade `parseParams` compila o caminho real do *link* a partir de uma string com o nome da rota e um dicionário com os valores para qualquer índice que ela use.
+
+A tipagem que permite chegar na *DX* esperada vem do tipo de utilidade `LinkProps`, definido como: 
+
+```ts
+import { PropsWithChildren } from "react"
+
+export type LinkProps<UserRoutes> = PropsWithChildren<
+  DistributeAndCombine<ConcretePaths<ExtractRouteTree<UserRoutes>>>
+>
+```
+
+`ConcretePaths` e `ExtractRouteTree` já foram explorados anteriormente. O novo tipo de utilidade, `DistributeAndCombine`, recebe como parâmetro uma *string unit* que representa a rota para a qual o *link* aponta, e garante que as propriedades `to` e `params` tem tipos válidos.
+
+```ts
+type DistributeAndCombine<T extends EnsureLiteral<T>> = T extends any
+  ? { to: T } & (keyof RouteIndexParams<T> extends never
+      ? EmptyObject
+      : { params: RouteIndexParams<T> })
+  : never
+```
+
+Se `T` existe (ou seja, é realmente um *string unit*), as *props* recebidas pelo componente devem então ser:
+- uma *prop* `to`, com valor exato da rota `T` a qual vai ser navegada,
+- se e somente se `T` conter segmentos de índice: uma *prop* `params` com um objeto com somente a quantia necessária de propriedades, com chave sendo o nome exato de todos os segmentos índices que `T` possuir e valor *string* contendo o valor do índice.
+
+Esse objetivo é atingido utilizando de novo o tipo de utilidade `RouteIndexParams`.
+
+Com essa implementação feita, temos o seguinte comportamento do componente `Link`:
+
+**colocar aqui aquele print que mandei pro thales e pro moises mostrando que n pode ter param de mais ou de menos, ou rota com nome errado e tal**
+
