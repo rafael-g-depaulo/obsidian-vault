@@ -10,7 +10,7 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
-- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)
+- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)https://zeroscans.com/comics/surviving-as-a-fish/5082
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-1-10/)
 
