@@ -1,6 +1,7 @@
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
+https://zeroscans.com/comics/the-millennium-alchemist
 
 ## Reading
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
@@ -43,3 +44,10 @@
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
+
+
+
+
+
+
+https://zeroscans.com/comics/loyal-sword/4726
