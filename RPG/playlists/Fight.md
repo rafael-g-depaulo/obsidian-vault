@@ -1,2 +1,4 @@
 - [Forest Battle](https://www.youtube.com/watch?v=ZcNyPdipjeU)
 - [Tenebre Rosso Sangue](https://www.youtube.com/watch?v=MG5L-1pI8bI)
+- Isaac
+	- [Revelations 13-1](https://open.spotify.com/track/26EwQsSUwzIVN6JFApd1N0?si=286c573fbde043bf)
