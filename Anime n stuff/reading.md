@@ -13,7 +13,7 @@ https://zeroscans.com/comics/the-millennium-alchemist
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)https://zeroscans.com/comics/surviving-as-a-fish/5082
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-1-48/)
+- [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-1-63/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
