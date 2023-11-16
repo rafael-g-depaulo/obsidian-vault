@@ -1,7 +1,8 @@
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
-https://zeroscans.com/comics/the-millennium-alchemist
+- https://zeroscans.com/comics/the-millennium-alchemist
+- https://askubuntu.com/questions/20953/sudo-source-command-not-found
 
 ## Reading
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
