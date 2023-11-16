@@ -3,3 +3,5 @@
 - [Welcome Irmlerith, Witcher](https://www.youtube.com/watch?v=mBDoI1Oci20)
 - [One Piece: DIFFICULT Epic Orchestral Cinematic Cover](https://www.youtube.com/watch?v=jpOc27v6SPw)
 - [The Owl House Theme - Epic Orchestral Cover](https://www.youtube.com/watch?v=3XS7MrwSR3o)
+- Isaac
+	- [Genesis Retake Light](https://open.spotify.com/track/4G6vjWRH9bbgbRk8sut5wR?si=a113a6aa6cbb4d7b)
