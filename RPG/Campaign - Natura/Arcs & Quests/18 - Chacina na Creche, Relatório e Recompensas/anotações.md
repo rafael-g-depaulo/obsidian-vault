@@ -17,3 +17,5 @@ lumb faz trabalho de ajudante de engenheiro e ganha 40 moedas.
 
 eles entram pra reunião e veem hefca, odrel, jão, fifi e nick
 
+falam o básico. eles pedem pra falar sozinhos com nick, e nick manda fifi pra longe por teleporte.
+
