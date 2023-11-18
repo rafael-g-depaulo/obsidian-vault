@@ -11,3 +11,5 @@ kaiser vai checar ferreiros. falar com zyggs pra ver se ele tbm vai usar materia
 
 syril marca reunião com hefca a noite
 
+povo vai fazer compra no coice de ferro (ferreiro humano 38 anos)
+
