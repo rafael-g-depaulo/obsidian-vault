@@ -13,6 +13,7 @@ syril marca reunião com hefca a noite
 
 povo vai fazer compra no coice de ferro (ferreiro humano 38 anos)
 
-1. lumb faz trabalho de ajudante de engenheiro e ganha 40 moedas.
+lumb faz trabalho de ajudante de engenheiro e ganha 40 moedas.
 
 eles entram pra reunião e veem hefca, odrel, jão, fifi e nick
+
