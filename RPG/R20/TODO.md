@@ -10,3 +10,5 @@
 - [ ] mechanics for grazing hits. maybe if it beats armor-5 still deals STR/DEX dmg.
 - [ ] Add pathfinder 2e talismans
 - [ ] code auto spell link resolution
+
+- [ ] crit on iniciative => 1 extra movement action on first round
