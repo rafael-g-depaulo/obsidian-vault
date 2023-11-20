@@ -12,4 +12,3 @@ maria vai pro restaurante pomposo e encontra duncan e bertran com um casal. eles
 
 [[Heisen Kaiji]] é o cara, um nobre que parece o firelord ozai. [[Vivian]] acompanha lá
 
-
