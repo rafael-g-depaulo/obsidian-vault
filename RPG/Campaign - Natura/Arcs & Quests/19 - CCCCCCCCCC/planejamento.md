@@ -12,4 +12,6 @@ party acorda. quando forem na prefeitura recebem presentes:
 | Zygg     | bandoleira (1x bolsa explosiva, 2x graxa, 1x ácido)             | Hefca  |
 | Zambrota | bracelete (fire reflect)                                        | Odrel  |
 
+se nick for diretamente confrontado ele foge, e se necessário tenta tomar fifi de refém
 
+depois dele fugir eles recebem aviso da origem das moedas.
