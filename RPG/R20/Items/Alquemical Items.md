@@ -31,6 +31,7 @@ Itens alquímicos possuem um efeito.
 - *Descrição:* 
 - *Alvo:* ponto
 - *Alcance:* 10sqr
-- *Efeito:* Criaturas que falharem no teste
+- *Área:* quadrado 2sqr
+- *Efeito:* Criaturas que falharem no teste caem no chão (ver condição: caído). Criaturas que entrarem na área ou começarem o seu turno na área fazem o teste ou caem.
 - *Resistência:* **DEX (CD 15)**
 - *Valor:* 20g
