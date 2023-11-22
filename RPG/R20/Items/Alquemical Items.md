@@ -22,10 +22,15 @@ Itens alquímicos possuem um efeito.
 - *Descrição:* Um pequeno pacote com um pó cinza altamente volátil e explosivo.
 - *Alvo:* ponto
 - *Alcance:* 6sqr
-- *Efeito:* Todas as criaturas em um raio de 1sqr desse ponto tomam **3d6** dano de impacto
-- *Resistência:* **DEX (CD 15)** reduz o dano pela metade.
+- *Área:* raio 1sqr
+- *Efeito:* Todas as criaturas na área tomam **3d6** dano de impacto
+- *Resistência:* **DEX (CD 14)** reduz o dano pela metade.
 - *Valor:* 80g
 
-- **Bolsa Explosiva.**  Efeito: você joga a bomba em um ponto que possa ver em até 6sqr. Todas as criaturas em um raio de 1sqr desse ponto tomam **3d6** dano de impacto, ou metade se passarem em um teste de resistência **DEX (CD 15)**. *Valor: 80g*
-
-- **Graxa.**
+#### Graxa
+- *Descrição:* 
+- *Alvo:* ponto
+- *Alcance:* 10sqr
+- *Efeito:* Criaturas que falharem no teste
+- *Resistência:* **DEX (CD 15)**
+- *Valor:* 20g
