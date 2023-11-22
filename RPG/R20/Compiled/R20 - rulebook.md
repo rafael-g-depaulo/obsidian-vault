@@ -2642,37 +2642,7 @@ Poisons and Healing potions have their own sections.
 
 **Healer’s Kit.** This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.
 
-### Alchemical Items
-
-Itens alquímicos possuem um efeito.
-- Caso o efeito tenha como alvo uma criatura ou objeto: você faz um ataque a distância contra a criatura (usa destreza, é proficiente), e se acertar o efeito ocorre.
-- Caso o efeito tenha como alvo um ponto no espaço: o efeito ocorre automaticamente, e criaturas dentro da sua área podem fazer um teste de resistência de destreza para minimizar ou evitar o efeito.
-
-#### Acid
-*Descrição:*
-*Alvo:* criatura ou objeto
-*Alcance:* 4sqr
-*Efeito:* o alvo toma 2d6 de dano ácido.
-*Valor:* 25g
-
-#### Fogo Alquímico
-*Descrição:* This sticky, adhesive fluid ignites when exposed to air
-*Alvo:* criatura ou objeto
-*Alcance:* 4sqr
-*Efeito:* O alvo toma 1d4 de dano de fogo no início dos seus turnos. O alvo pode gastar uma ação para fazer um teste de resistência de **DEX (CD 10)**, e se passar terminar o efeito em si mesmo.
-*Valor:* 50g
-
-#### Bolsa Explosiva
-*Descrição:* Um pequeno pacote com um pó cinza altamente volátil e explosivo.
-*Alvo:* ponto
-*Alcance:* 6sqr
-*Efeito:* Todas as criaturas em um raio de 1sqr desse ponto tomam **3d6** dano de impacto
-*Resistência:* **DEX (CD 15)** reduz o dano pela metade.
-*Valor:* 80g
-
-**Bolsa Explosiva.**  Efeito: você joga a bomba em um ponto que possa ver em até 6sqr. Todas as criaturas em um raio de 1sqr desse ponto tomam **3d6** dano de impacto, ou metade se passarem em um teste de resistência **DEX (CD 15)**. *Valor: 80g*
-
-**Graxa.**
+############ INVALID_LINK "null" ############
 
 ## Potions
 Drinking a potion requires an Action, and if it has a long-lasting effect it's duration is scene, unless it states otherwise.
@@ -2885,6 +2855,10 @@ _Uncommon (1000gp)_
 Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um raio. Um personagem equipado com a Lança de Raios que seja proficiente com ela tem acesso à habilidade **Zeus**.
 
 **Zeus.** Ação: você joga a Lança de Raios na direção de um alvo que vê em um alcance de 25sqr. Cada criatura entre você e o alvo toma 4d6 dano elétrico, ou metade se passar em uma resistência de Destreza (CD 13). Faça um ataque de arremesso contra o alvo, e se acertar ele toma 4d6 de dano adicional. A lança perde sua carga, e recupera ela depois de 1 dia.
+
+### Lança de Raios (Menor)
+*Comum (90gp)*
+Mesmo efeito da lança de raios, mas ao usar a habilidade **Zeus**, se algum dos dados do dano elétrico rolado for 6, a lança é destruída.
 
 ### Nine Lives Stealer
 _Rare (1500gp)_
