@@ -11,6 +11,8 @@ basic rules:
 use tools. costs 500silver for a set of tools (-5 without tools)
 -->
 
+CD to craft = 10 + 2 \* Item level 
+
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
 
