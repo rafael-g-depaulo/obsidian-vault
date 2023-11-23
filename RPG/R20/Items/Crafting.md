@@ -49,16 +49,17 @@ When rolling the relevant skill the CD is defined by the item rarity.
 | Rare        | 18  |
 | Very rare   | 20  |
 
-
 After rolling and comparing against the item CD
 
 | Skill check result | Crafting progress                      | Materials spent  |
 | ------------------ | -------------------------------------- | ---------------- |
-| Passed by 5+       | Item crafting progresses.              | 50% of expected  |
+| Passed by 5+       | Item crafting progresses.              | 50% of expected* |
 | Passed             | Item crafting progresses.              | 100% of expected |
 | Failed             | Item crafting doesn't progress.        | 0                |
 | Failed by 5+       | Item crafting doesn't progress.        | 100% of expected |
 | Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
+
+**\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 

@@ -88,7 +88,6 @@ Production skills are used mainly for crafting items (see: crafting). To perform
 #### Herbalism (SEN)
 #### Rune Crafting (PRE)
 
-
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
 
