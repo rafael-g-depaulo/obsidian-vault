@@ -29,7 +29,7 @@ Below is a list of all crafting-related skills.
 
 | Skill         | Relevant Attribute | Items crafted using it                                         |
 | ------------- | ------------------ | -------------------------------------------------------------- |
-| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. | 
+| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. |
 | Rune Crafting | SEN                | Standalone runes and imbuing runes into items.                 |
 | Scribing      | INT                | Spell Scrolls.                                                 |
 | Smithing      | STR                | Armor, weapons and ammunition.                                 |
@@ -44,7 +44,7 @@ When rolling the relevant skill the CD is defined by the item rarity.
 | Uncommon    | 15  |
 | Rare        | 18  |
 | Very rare   | 20  |
-| Legendary   | 25  | 
+
 
 After rolling and comparing against the item CD
 
