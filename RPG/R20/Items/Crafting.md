@@ -11,7 +11,7 @@ basic rules:
 use tools. costs 500silver for a set of tools (-5 without tools)
 -->
 
-CD to craft = 10 + 2 \* Item level 
+CD to craft = 12 + Item level / 2
 
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
@@ -28,14 +28,17 @@ If the item being crafted is worth 50 gold or less, then at the end of the craft
 ### Skill
 Below is a list of all crafting-related skills. 
 
-| Skill         | Relevant Attribute | Items crafted using it                                         |
-| ------------- | ------------------ | -------------------------------------------------------------- |
-| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. |
-| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.                 |
-| Scribing      | INT                | Spell Scrolls.                                                 |
-| Smithing      | STR                | Armor, weapons and ammunition.                                 |
+| Skill         | Relevant Attribute | Items crafted using it                                |
+| ------------- | ------------------ | ----------------------------------------------------- |
+| Alchemy       | DEX                | Poisons, explosives, oils and other alchemical items. |
+| Herbalism     | SEN                | Potions and poisons.                                  | 
+| Rune Crafting | PRE                | Standalone runes and imbuing runes into items.        |
+| Scribing      | INT                | Spell Scrolls.                                        |
+| Smithing      | STR                | Armor, weapons and ammunition.                        |
 
 When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
+
+*OBS:* note that poisons can be made either through herbalism or alchemy.
 
 When rolling the relevant skill the CD is defined by the item rarity.
 #### Crafting roll CD by item rarity

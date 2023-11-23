@@ -80,10 +80,14 @@ Figuring out magic spells or items, understanding mystical beings.
 #### Cooking (PRE)
 
 {{page-break}}
-### Tools
-#### Smith's Tools (STR)
-#### Alquemist's Tools (DEX)
-#### Scribe's Tools (INT)
+### Production
+Production skills are used mainly for crafting items (see: crafting). To perform it a character needs to use a set of tools for that specific trade. Tools cost 50g and can be acquired in most cities and villages. If attempting to make a roll without the respective tool, a character receives a -5 penalty to the roll.
+#### Smithing (STR)
+#### Alquemy (DEX)
+#### Scribing (INT)
+#### Herbalism (SEN)
+#### Rune Crafting (PRE)
+
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:

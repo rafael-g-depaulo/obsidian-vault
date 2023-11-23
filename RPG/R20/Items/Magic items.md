@@ -14,7 +14,7 @@
 ### Magic item list
 
 #### Corda da Escalada
-_Common (50gp)_
+_Common (50gp), lv4_
 Esta corda de 16m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
 
 #### Garrafa da Fumaça Eterna
