@@ -2,15 +2,14 @@
 
 **IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
 
+<!--
 basic rules:
-
-needs 25% of the item's value worth of ingredients
-
-50gp worth of item/workweek. (increase to more gp/week at later levels.)
-
-1 check per workweek
+- needs 25% of the item's value worth of ingredients
+- 50gp worth of item/workweek. (increase to more gp/week at later levels.)
+- 1 check per workweek
 
 use tools. costs 500silver for a set of tools (-5 without tools)
+-->
 
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
