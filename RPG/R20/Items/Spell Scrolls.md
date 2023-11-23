@@ -29,6 +29,9 @@ At the start of the crafting attempt, the spellcaster decides on what spell and 
 
 ## Buying Spell Scrolls
 
-In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier
+In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier. idea: change to like $circle*tier*5gp$, so a tier 2 darkness (circle 1) would cost 10gp, a tier 2 hold person (circle 2) would cost 20gp and a tier 4 fireball (circle 3) would cost 120gp.
 
 OBS: maybe make it be different checks instead of all Arcana?
+
+## Working with item levels.
+The level of an item would be equal to the spell's circle (then you can have characters having access to higher spells as a consumable, but not having lv1's casting wish).

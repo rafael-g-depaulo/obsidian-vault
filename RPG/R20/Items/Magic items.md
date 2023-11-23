@@ -84,13 +84,13 @@ Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um r
 Mesmo efeito da lança de raios, mas ao usar a habilidade **Zeus**, se algum dos dados do dano elétrico rolado for 6, a lança é destruída.
 
 ### Nine Lives Stealer
-_Rare (1500gp) lv5_
+_Rare (900gp) lv5_
 Uma adaga simples, com um relevo de um gato no punhal, com 1d8+1 caudas. Se você acertar um ataque crítico com a adaga contra uma criatura e ela ficou com 30 HP ou menos, ela deve passar numa resistência de Constituição (CD 14) ou morrer instantaneamente. Quando uma criatura morre por esse efeito, uma das caudas do gato some. Se o gato perder todas as caudas, o item reverte para uma adaga normal.
 
 <!--
 ### Ninety Nine Lives Stealer
-_Very Rare (5000gp)_
+_Very Rare (9000gp)_
 
 ### Nine Hundred Ninety Nine Lives Stealer
-_Legendary (50000gp)_
+_Legendary (9999gp)_
 -->
