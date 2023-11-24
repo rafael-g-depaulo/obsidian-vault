@@ -1,5 +1,5 @@
 {{monster
-## Giant Rat Skeleton
+## Giant Rat Skeleton #monster #skeleton 
 *Small Undead*
 ___
 **Defense**     :: XXXX
