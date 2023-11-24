@@ -1,12 +1,14 @@
 
 Nicolau:
-- HP: 80
+- HP: 70
 - AC: 19
 - Raio necrótico:
 	- range 12sqr, +10 hit. 4d8 necrótico
 - Fenda Espacial:
-	-  Cone 6sqr. 17 Dex save (half damage). 4d10 necrótico
+	-  Cone 6sqr. 17 Dex save (half damage). 3d10 energia
 - Teleporte:
 	- range 12sqr. doesn't trigger opportunity attacks
+
+1 legendary action.
 
 Calma, tem que adicionar esqueletos e rever essa conta
