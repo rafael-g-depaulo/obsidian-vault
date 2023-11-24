@@ -20,3 +20,5 @@ ___
 ***Garra Morta.*** melee, +6 hit. 2d6+3 slashing
 
 ![[Skeleton, Humanoid.png]]
+
+}}

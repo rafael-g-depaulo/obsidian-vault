@@ -11,4 +11,7 @@ Nicolau:
 
 1 legendary action.
 
-Calma, tem que adicionar esqueletos e rever essa conta
+Encounter:
+- 1x Nicolau
+- 2x [[Skeleton, Humanoid]]
+- 2x [[Skeleton, Skull]]
