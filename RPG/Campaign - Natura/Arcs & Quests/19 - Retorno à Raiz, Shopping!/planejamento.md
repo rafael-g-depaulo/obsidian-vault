@@ -19,7 +19,7 @@ necrótico
 
 Lumb tem o seguinte sonho:
 
-Você abre os olhos, e se vê numa clareira em uma floresta. A mesma clareira onde aconteceu o ritual que te deu o anél na sua mão esquerda. Você mexe no anél de madeira de leve com seu polegar e dedo médio da mão direita, e contanto que não seja com intenção de remover ele, o anél se move livre e confortavelmente no seu dedo. O desenho de ramos de alecrim na lateral dele emana um leve cheiro da erva.
+Você abre os olhos, e se vê numa clareira em uma floresta. A mesma clareira onde aconteceu o ritual que te deu o anel na sua mão esquerda. Você mexe no anel de madeira de leve com seu polegar e dedo médio da mão direita, e contanto que não seja com intenção de remover ele, o anel se move livre e confortavelmente no seu dedo. O desenho de ramos de alecrim na lateral dele emana um leve cheiro da erva.
 
 Você ouve a voz da sua  auto-declarada esposa vindo do seu ombro direito:
 
@@ -33,6 +33,6 @@ Ela olha pro outro lado, corada, e fala em voz baixa:
 
 "Hmph. Se você gosta dessas coisas era só ter falado comigo, oras. Marido idiota"
 
-Você acorda na Minhoca, a estalagem simples e barata onde você e o seu grupo dormiram depois de fazer o relato da investigação ontem para a Hefca. Zyggs está dormindo no pé da porta no canto do quarto, o cheiro de alecrim permeia o ar, e ao se mexer você sente debaixo do cobertor um pedaço de papel em cima da sua barriga.
+Você acorda na Minhoca, a estalagem simples e barata onde você e o seu grupo dormiram depois de fazer o relato da investigação ontem para a Hefca. Zyggs está dormindo no pé da porta no canto do quarto, o cheiro de alecrim permeia o ar, e ao se mexer debaixo do cobertor você sente um pedaço de papel em cima da sua barriga.
 
 *Pergaminho de Casca Protetora adicionado ao inventário de Lumb*
