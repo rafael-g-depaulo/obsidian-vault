@@ -27,3 +27,4 @@ ___
 ***Abdominal Drop.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 }}
 
+make like half as weak as the cat.

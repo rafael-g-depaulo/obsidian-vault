@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"0a45b1df5626247a","x":-640,"y":-339,"width":1220,"height":899,"color":"2","label":"Gluttony"},
+		{"type":"group","id":"0a45b1df5626247a","x":-640,"y":-360,"width":1220,"height":889,"color":"2","label":"Gluttony"},
 		{"type":"group","id":"df0f447b56112cbd","x":-2760,"y":-360,"width":800,"height":910,"color":"3","label":"Greed"},
 		{"type":"group","id":"b0cd7d8658c1e947","x":-2760,"y":720,"width":800,"height":889,"color":"1","label":"Wrath"},
 		{"type":"group","id":"f0f21f523dc24b67","x":-2760,"y":-1680,"width":880,"height":768,"label":"Basic"},
