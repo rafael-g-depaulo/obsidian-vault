@@ -16,7 +16,7 @@ These are primarily responsible in determining a character's physical capabiliti
 
 **Sensibility**: perceiving, receiving and understanding. empathy, perception, getting a gut feeling, attuning to a magic item, reading an "aura", stuff like that.
 
-**Presence**: imposing your will, intimidating, convincing, getting others to understand you, manifesting an "aura", stuff like that.
+**Presence**: imposing your will, intimidating, convincing, deceiving, manipulating, communicating your intentions, getting others to understand you, manifesting an "aura", stuff like that.
 
 ## Determining Base Attribute Scores
 ### Rolling (discouraged)
