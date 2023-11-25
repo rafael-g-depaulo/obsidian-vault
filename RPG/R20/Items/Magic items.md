@@ -30,7 +30,7 @@ Este cristal tem a aparência de um longo prisma. Com um comando (movimento), em
 Indistinguível de um manto cinza comum. Entretanto, quando usado com o capuz cobrindo o rosto, fornece +2/+5 em Furtividade.
 
 #### Mochila de Carga (Bag of Holding)
-*Uncommon (100gp-500gp)*
+*Uncommon (100gp-500gp) lv3/lv6*
 Este item, que parece uma simples mochila de pano, está na verdade ligado a um espaço interdimensional — fazendo com que seja maior por dentro do que por fora. Você pode guardar até 100 kg dentro de uma mochila de carga, mas ela pesará no máximo 5 kg. Se a mochila for rasgada, os objetos em seu interior são destruídos. Criaturas vivas colocadas no interior da mochila podem sobreviver até 10 minutos, mas depois disso ficarão sem ar. Ter uma mochila de carga equipada dá 5/10 espaços a mais de inventário.
 
 #### Chapéu do Estilo
