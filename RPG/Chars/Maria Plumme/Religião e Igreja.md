@@ -1,13 +1,14 @@
 ## Preces
-| Skill                  | Prece                                                                                                      |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Canalizar Energia      | Bondade eterna dos deuses, salve seus heróis para que destruam o pecado. Onda de Vida!                     |
-| Sopro do Mar           | Maré do destino, congele a maldade como Ignis queima o medo. Sopro do Mar!                                 |
-| Criar Elemento         | Abundancia Infinita, venha a mim a presença de Aequor. Criar Água!                                         |
-| Flagelo da Proteção    | Amor de Gaia, Forma de Aequor, Vingança de Ignis. Flagelo da Proteção!                                     |
-| Névoa                  | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                                      |
-| Jato d'Água            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                                     |
-| Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência! | 
+| Skill                  | Prece                                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Canalizar Energia      | Bondade eterna dos deuses, salve seus heróis para que destruam o pecado. Onda de Vida!                       |
+| Sopro do Mar           | Maré do destino, congele a maldade como Ignis queima o medo. Sopro do Mar!                                   |
+| Criar Elemento         | Abundancia Infinita, venha a mim a presença de Aequor. Criar Água!                                           |
+| Flagelo da Proteção    | Amor de Gaia, Forma de Aequor, Vingança de Ignis. Flagelo da Proteção!                                       |
+| Névoa                  | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                                        |
+| Jato d'Água            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                                       |
+| Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência!   |
+| xxxxxxxxxx             | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e afogue nela. | 
 
 ## Deuses
 ### Ignis, do fogo
