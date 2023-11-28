@@ -14,7 +14,7 @@
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5082)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [Spirit Farmer](https://asuratoon.com/1114283743-spirit-farmer-chapter-15/)
+- [Spirit Farmer](https://asuratoon.com/1114283743-spirit-farmer-chapter-18/)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
