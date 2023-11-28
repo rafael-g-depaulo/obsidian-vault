@@ -12,10 +12,9 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
-- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5079)https://zeroscans.com/comics/surviving-as-a-fish/5082
+- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5082)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
-
+- [Spirit Farmer](https://asuratoon.com/1114283743-spirit-farmer-chapter-15/)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
@@ -37,6 +36,7 @@
 - [Murim Login](https://asuratoon.com/6849480105-murim-login-chapter-175/)
 - [Reaper of the Drifting Moon](https://asuratoon.com/6849480105-reaper-of-the-drifting-moon-chapter-61/)
 - [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
+- [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
