@@ -37,6 +37,7 @@
 - [Reaper of the Drifting Moon](https://asuratoon.com/6849480105-reaper-of-the-drifting-moon-chapter-61/)
 - [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
+- [Reincarnated Assassin Swordsman](https://asuratoon.com/7117659858-the-reincarnated-assassin-is-a-genius-swordsman-chapter-28/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
