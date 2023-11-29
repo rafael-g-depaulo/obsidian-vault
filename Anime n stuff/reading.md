@@ -15,6 +15,7 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5082)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/1114283743-spirit-farmer-chapter-18/)
+- [Loyal Sword](https://zeroscans.com/comics/loyal-sword/4726)
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
@@ -46,10 +47,3 @@
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
-
-
-
-
-
-
-https://zeroscans.com/comics/loyal-sword/4726
