@@ -14,7 +14,7 @@
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5082)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-44/)
+- [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/5786)
 - [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/4694)
