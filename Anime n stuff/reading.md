@@ -30,7 +30,7 @@
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
 - [Priest of Corruption](https://asuratoon.com/2423162651-the-priest-of-corruption-chapter-29/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
-- [Absolute Sword Sense](https://asuracomics.com/6429950787-absolute-sword-sense-chapter-47/)
+- [Absolute Sword Sense](https://asuratoon.com/2351697271-absolute-sword-sense-chapter-58/)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
