@@ -1,3 +1,8 @@
+## priority
+### i3expo
+[repo](https://gitlab.com/d.reis/i3expo). among the things in the readme, it's important to remember to use XDG_HOME_DIR, and also how to send kill -SIGUSR1.
+
+
 ## Tests
 https://vitest.dev/
 
