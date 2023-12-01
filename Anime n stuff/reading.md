@@ -16,7 +16,7 @@
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-44/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/4726)
-- [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-29/)
+- [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
