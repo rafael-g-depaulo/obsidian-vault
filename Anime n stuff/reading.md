@@ -12,7 +12,7 @@
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-102/)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
-- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5082)
+- [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5093)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/5786)
