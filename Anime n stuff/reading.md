@@ -14,7 +14,6 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5093)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
-- [Loyal Sword](https://zeroscans.com/comics/loyal-sword/5786)
 - [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
 
 ## Caught up
@@ -40,6 +39,7 @@
 - [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/7117659858-the-reincarnated-assassin-is-a-genius-swordsman-chapter-28/)
+- [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
