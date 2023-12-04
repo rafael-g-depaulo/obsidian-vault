@@ -16,7 +16,6 @@
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/5786)
 - [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
-- [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5754)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -46,6 +45,7 @@
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [sword fanatic wanders through the night](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
+- [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
