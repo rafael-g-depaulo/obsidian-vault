@@ -2,6 +2,8 @@
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
 - https://askubuntu.com/questions/20953/sudo-source-command-not-found
+- https://asuratoon.com/manga/3619099433-terminally-ill-genius-dark-knight/
+- https://asuratoon.com/manga/3619099433-surviving-the-game-as-a-barbarian/
 
 ## Reading
 - [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
@@ -15,6 +17,7 @@
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
+- https://asuratoon.com/2351697271-star-instructor-master-baek-chapter-6/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
