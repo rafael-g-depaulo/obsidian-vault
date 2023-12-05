@@ -38,7 +38,7 @@
 - [Reaper of the Drifting Moon](https://asuratoon.com/2351697271-reaper-of-the-drifting-moon-chapter-64/)
 - [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
-- [Reincarnated Assassin Swordsman](https://asuratoon.com/7117659858-the-reincarnated-assassin-is-a-genius-swordsman-chapter-28/)
+- [Reincarnated Assassin Swordsman](https://asuratoon.com/3619099433-the-reincarnated-assassin-is-a-genius-swordsman-chapter-29/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
 
 ## Hiatus
