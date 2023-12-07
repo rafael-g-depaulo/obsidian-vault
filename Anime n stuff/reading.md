@@ -49,6 +49,7 @@
 - [sword fanatic wanders through the night](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
+- [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
