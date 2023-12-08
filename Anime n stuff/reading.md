@@ -37,7 +37,7 @@
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 - [Moon Slayer](https://zeroscans.com/comics/moon-slayer/6184)
 - [Return of Mount Hua](https://asuratoon.com/0258791518-return-of-the-mount-hua-sect-chapter-101/)
-- [Murim Login](https://asuratoon.com/6849480105-murim-login-chapter-175/)
+- [Murim Login](https://asuratoon.com/0258791518-murim-login-chapter-178/)
 - [Reaper of the Drifting Moon](https://asuratoon.com/2351697271-reaper-of-the-drifting-moon-chapter-64/)
 - [Hoarding in Hell](https://asuratoon.com/2970937220-hoarding-in-hell-chapter-53/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
