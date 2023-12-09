@@ -17,7 +17,7 @@
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Devil Returns to School](https://asuratoon.com/2351697271-devil-returns-to-school-days-chapter-39/)
-- [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-25/)
+- [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -43,6 +43,7 @@
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/6311037131-the-reincarnated-assassin-is-a-genius-swordsman-chapter-30/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
+- [Heavenly Grand Archives Young Master](https://asuratoon.com/0258791518-heavenly-grand-archives-young-master-chapter-53/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
