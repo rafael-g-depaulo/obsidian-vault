@@ -19,7 +19,7 @@
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/882)
-- https://zeroscans.com/comics/peerless-alchemist/2694
+- [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2604)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
