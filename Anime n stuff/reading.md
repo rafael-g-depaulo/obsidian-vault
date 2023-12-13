@@ -18,7 +18,7 @@
 - [Spirit Farmer](https://asuratoon.com/2351697271-spirit-farmer-chapter-49/)
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
-- [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/882)
+- [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/886)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2608)
 
 ## Caught up
