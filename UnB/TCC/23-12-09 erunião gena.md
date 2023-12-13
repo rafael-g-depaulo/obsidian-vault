@@ -10,7 +10,25 @@
 	- explicar rrd
 	- explicar diferença entre roteamento front e back.
 	- explicar api history web
-- resultados: olhar cap 5 ítalo/heitor
-	- olhar para e
+- cap 3
+	- proposta (ver cap 4 ícaro)
+- desenvolvimento do trabalho nos caps 3,4
+- resultados: olhar cap 5 ícaro/heitor
+	- olhar para estudo de caso deles
+- cap 5
+	- falar mais da natureza do público e mostrar mais dados da pesquisa
+		- quantos buscados
+		- quantos responderam
+		- características das pessoas
+		- melhorar legibilidade dos gráficos
 
 
+
+#### detalhes
+- trocar relatar por propor
+- 1ª frase 2º parágrafo abstract tá longa, 3º parágrafo é uma frase só.
+- quando citar, capitalizar
+
+
+ENVIAR SÁBADO.
+BANCA DIA 22.
