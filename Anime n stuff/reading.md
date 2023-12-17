@@ -20,6 +20,7 @@
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2608)
+- https://asuratoon.com/1811707406-chronicles-of-the-martial-gods-return-chapter-35/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
