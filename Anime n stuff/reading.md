@@ -18,10 +18,7 @@
 - [Spirit Farmer](https://asuratoon.com/1811707406-spirit-farmer-chapter-59/)
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
-- [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2608)
-- https://asuratoon.com/1811707406-chronicles-of-the-martial-gods-return-chapter-35/
-
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
@@ -49,6 +46,8 @@
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/0258791518-heavenly-grand-archives-young-master-chapter-53/)
 - [Greatest Dragon Knight](https://zeroscans.com/comics/the-greatest-dragon-knight/6208)
 - [Cronicles of the Martial God](https://asuratoon.com/4460228866-chronicles-of-the-martial-gods-return-chapter-81/)
+- [Talent Devouring Mage](https://asuratoon.com/4460228866-talent-swallowing-magician-chapter-52/)
+- [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
