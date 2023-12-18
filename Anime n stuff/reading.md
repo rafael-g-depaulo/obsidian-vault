@@ -48,6 +48,7 @@
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/0258791518-heavenly-grand-archives-young-master-chapter-53/)
 - [Greatest Dragon Knight](https://zeroscans.com/comics/the-greatest-dragon-knight/6208)
+- [Cronicles of the Martial God](https://asuratoon.com/4460228866-chronicles-of-the-martial-gods-return-chapter-81/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
