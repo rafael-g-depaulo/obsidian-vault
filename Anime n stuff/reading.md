@@ -19,7 +19,6 @@
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/1811707406-spirit-farmer-chapter-59/)
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
-- [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
 - [Solo Leveling](https://asuratoon.com/4460228866-solo-leveling-chapter-2/)
 
 ## Caught up
@@ -49,7 +48,7 @@
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/0258791518-heavenly-grand-archives-young-master-chapter-53/)
 - [Greatest Dragon Knight](https://zeroscans.com/comics/the-greatest-dragon-knight/6208)
 - [Cronicles of the Martial God](https://asuratoon.com/4460228866-chronicles-of-the-martial-gods-return-chapter-81/)
-- [Talent Devouring Mage](https://asuratoon.com/4460228866-talent-swallowing-magician-chapter-52/)
+- [Talent Devouring Mage](https://asuratoon.com/0308950452-talent-swallowing-magician-chapter-53/)
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 
@@ -62,3 +61,6 @@
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
+
+## Done
+- [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-105/)
