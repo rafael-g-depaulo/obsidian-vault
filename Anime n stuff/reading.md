@@ -4,9 +4,11 @@
 - https://askubuntu.com/questions/20953/sudo-source-command-not-found
 - https://asuratoon.com/manga/3619099433-terminally-ill-genius-dark-knight/
 - https://asuratoon.com/manga/3619099433-surviving-the-game-as-a-barbarian/
+- https://aquamanga.org/manga/blacksun/blacksun/chapter-1/
+- https://aquamanga.org/manga/volcanic-age/
 
 ## Reading
-- [Fist Demon of Mount Hua](https://aquamanga.com/read/fist-demon-of-mount-hua/chapter-120/)
+- [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-145/)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-25-the-human-trafficking-organization-in-the-abandoned-factory-3/viewer?title_no=3690&episode_no=25)
@@ -19,6 +21,8 @@
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-93/)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2608)
+- [Solo Leveling](https://asuratoon.com/4460228866-solo-leveling-chapter-2/)
+
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
