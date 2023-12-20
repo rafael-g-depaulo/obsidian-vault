@@ -21,6 +21,7 @@
 - [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Solo Leveling](https://asuratoon.com/4460228866-solo-leveling-chapter-2/)
 https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
+https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
