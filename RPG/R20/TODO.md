@@ -12,3 +12,4 @@
 - [ ] code auto spell link resolution
 
 - [ ] crit on iniciative => 1 extra movement action on first round
+- [ ] ranged attack disadvantage on enemy in melee, not on target in melee
