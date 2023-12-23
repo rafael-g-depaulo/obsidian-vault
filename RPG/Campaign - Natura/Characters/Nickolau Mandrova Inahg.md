@@ -16,10 +16,9 @@ ___
 ___
 |  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (+0) | 17 (+4) | 20 (+5) | 19 (+5) | 11 (+1) | 12 (+1) |
+| 9 (-1) | 13 (+1) | 14 (+2) | 18 (+4) | 15 (+2) | 16 (+3) |
 ___
-**Condition Immunities** :: buzzed, groovy, drunk
-**Senses**               :: darkvision 60 ft., passive Perception 18
+**Senses**               :: passive Perception 15
 **Languages**            :: Common, Gibberish
 **Challenge**            :: 1
 ___
