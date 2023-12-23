@@ -36,3 +36,6 @@ organização MLM de necromantes, focados em esqueletos. objetivo é acumular po
 Cada membro da ordem recebe uma parcela de tudo que os seus subordinados recebem (incluindo o que eles recebem de seus respectivos subordinados). Dessa forma a estrutura é parecida com a de uma MLM. no topo da piramide existem os 7 líderes da ordem, ou as 7 cabeças da Hidra:
 
 Cada Cabeça possui um aprendiz e sucessor. Esse aprendiz recebe o título de Pescoço da Hidra. Quando uma Cabeça morre, seu Pescoço toma o seu lugar como nova Cabeça, e a nova Cabeça então escolhe um Pescoço para tomar seu antigo posto. Os pescoços atuais são:
+
+## Posições
+![[Posições]]
