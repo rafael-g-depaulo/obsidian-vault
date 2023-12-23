@@ -1,26 +1,16 @@
-# Nickolau Mandrova Inahg
-
-Nick era o pescoço da inveja na [[Ordem da Hidra]], subordinado de [[Emin Nemdrag]].
-
-Numa viagem dela para [[Dyr]], a [[Fifinia Missilira Ticente]] convenceu o Nickolau a abandonar seu antigo chefe e virar o pescoço da ganância.
-
-Ele é um babaca kkkk, e odeia o Syril.
-
 {{monster
-## Nicolau
-*Medium Humanoid*
+## Devouring Peacock
+*Medium Beast*
 ___
-**Defense**     :: 19
-**HP**          :: 71
+**Defense**     :: 19 (chain mail, shield)
+**HP**          :: 148(1d4 + 5)
 **Speed**       :: 5sqr.
 ___
 |  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 9 (+0) | 17 (+4) | 20 (+5) | 19 (+5) | 11 (+1) | 12 (+1) |
 ___
-**Condition Immunities** :: buzzed, groovy, drunk
-**Senses**               :: darkvision 60 ft., passive Perception 18
-**Languages**            :: Common, Gibberish
+**Senses**               :: darkvision 60 ft., passive **Languages**            :: Common, Gibberish
 **Challenge**            :: 1
 ___
 ***Pack Tactics.*** These guys work together like peanut butter and jelly.
