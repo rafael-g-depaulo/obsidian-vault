@@ -13,7 +13,6 @@ ideia:
 - aumentar HP, CA, dano, stats com a patente
 - tem um número de pontos de esqueleto que pode invocar. tbm cresce com a patente.
 	- num modelo estilo encounter building de pathfinder, tem opções.
-	- 
 
 
 ## Tabelas de esqueleto
