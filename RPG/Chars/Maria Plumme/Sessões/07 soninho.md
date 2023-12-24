@@ -1,9 +1,14 @@
 ### Maria level up
 Clérigo 2->3
-HP
-MP
+HP 26 -4(+3)->33
+MP 15 -> 20
 
 Magia: Escudo da Fé
 Poder: Encouraçado
 
 # Sessão
+
+
+depois de ir pra guilda ela compra sopa de peixe, e umas coisas de magia. 
+
+Pedro é um muleque de 12 anos muito babaca que 
