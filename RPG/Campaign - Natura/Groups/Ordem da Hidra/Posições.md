@@ -6,14 +6,11 @@
 | Mão     | 8   |                 |                      |
 | Braço   | 10  |                 |                      |
 
-
-
 ideia:
 - pegar um inimigo mago do D&D, botar só um ou dois ataques básicos.
 - aumentar HP, CA, dano, stats com a patente
 - tem um número de pontos de esqueleto que pode invocar. tbm cresce com a patente.
 	- num modelo estilo encounter building de pathfinder, tem opções.
-
 
 ## Tabelas de esqueleto
 

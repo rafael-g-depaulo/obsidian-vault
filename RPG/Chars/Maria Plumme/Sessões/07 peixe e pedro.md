@@ -11,4 +11,7 @@ depois de ir pra guilda ela compra sopa de peixe, e uma luva de ferro.
 
 Pedro é um muleque de 12 anos muito babaca que não quis ajudar
 
-ela foi depois ajudar a criar decorações pro evento (70 moedas), e rolou 20 em pintura (não recebeu ainda)
+ela foi depois ajudar a criar decorações pro evento (70 moedas), e rolou 20 em pintura
+
+de noite o duncan me ajudou a cozinhar o peixe.
+
