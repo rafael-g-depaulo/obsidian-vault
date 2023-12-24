@@ -8,7 +8,8 @@ Poder: Encouraçado
 
 # Sessão
 
-
 depois de ir pra guilda ela compra sopa de peixe, e umas coisas de magia. 
 
-Pedro é um muleque de 12 anos muito babaca que 
+Pedro é um muleque de 12 anos muito babaca que não quis ajudar
+
+ela foi depois ajudar a criar decorações pro evento (70 moedas), e rolou 20 em pintura

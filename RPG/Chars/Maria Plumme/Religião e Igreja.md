@@ -8,8 +8,9 @@
 | Névoa                  | Cegos são os hereges, que se percam no infinito de seu pecado. Névoa!                                        |
 | Jato d'Água            | Caeli me permite, Aequor me envigora. Destrua todo o mal, Jato d'Água!                                       |
 | Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência!   |
-| xxxxxxxxxx             | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e afogue nela. | 
-
+| xxxxxxxxxx             | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e afogue nela. |
+| Escudo de Aequor       | Proteja sua criação. Escudo de Aequor.                                                                       |
+| Invocar Monstro        |                                                                                                        | 
 ## Deuses
 ### Ignis, do fogo
 - Coragem, Força
