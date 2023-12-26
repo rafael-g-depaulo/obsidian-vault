@@ -13,7 +13,7 @@ ___
 **Condition Immunities** :: buzzed, groovy, drunk
 **Senses**               :: darkvision 60 ft., passive Perception 18
 **Languages**            :: Common, Gibberish
-**Challenge**            :: 1
+**Challenge**            :: 2
 ___
 
 **Multi-ataque.** Unha pode fazer 2 ataques físicos.
