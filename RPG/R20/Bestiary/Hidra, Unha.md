@@ -24,11 +24,10 @@ ___
 - **MP:** 6?
 
 #### Magias
-- **Cantrip (2):** Blade Ward, Chill Touch, Energy Blast, Fire Bolt, Sword Burst.
-- **1º Círculo (2):** Inflingir Ferimentos, Escudo, Abençoar (mortos vivos), Ray of Sickness.
-- **2º Círculo (1):**
+- **Cantrip (2):** [[Blade Ward]], [[Chill Touch]], [[Energy Blast]], [[Fire Bolt]], [[Sword Burst]] (bones).
+- **1º Círculo (2):** [[Inflingir Ferimentos]], [[Escudo]], [[Abençoar]] (mortos vivos), [[Ray of Sickness]].
+- **2º Círculo (1):** [[Hold Person]], [[Mind Whip]], [[Laço Protetor]] (Inverso).
 
 ### Actions
 **Adaga.** +4 hit (1sqr melee or 4/12 ranged). 2d4+2 piercing
 }}
-
