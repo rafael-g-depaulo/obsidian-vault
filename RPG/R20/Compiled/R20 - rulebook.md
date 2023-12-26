@@ -124,6 +124,8 @@ ___
 - #### [{{ Learning a Spell from a Scroll }}{{ 54 }}](#p54)
 - #### [{{ Creating Spell Scrolls }}{{ 54 }}](#p54)
 - #### [{{ Buying Spell Scrolls }}{{ 54 }}](#p54)
+- #### [{{ Ideas for change }}{{ 54 }}](#p54)
+- #### [{{ Working with item levels. }}{{ 54 }}](#p54)
 - ### [{{ Magic Items }}{{ 55 }}](#p55)
 - ### [{{ Runes }}{{ 57 }}](#p57)
 - ### [{{ Crafting }}{{ 58 }}](#p58)
@@ -161,6 +163,11 @@ ___
 - ### [{{ Companions }}{{ 103 }}](#p103)
 - #### [{{ Stats }}{{ 103 }}](#p103)
 - #### [{{ Companion death }}{{ 103 }}](#p103)
+}}
+
+\page
+{{toc,wide
+# Table Of Contents
 - #### [{{ Rest }}{{ 103 }}](#p103)
 - #### [{{ Companion Skills }}{{ 103 }}](#p103)
 }}
@@ -326,10 +333,13 @@ Figuring out magic spells or items, understanding mystical beings.
 {{pageNumber,auto}}
 \page
 
-### Tools
-#### Smith's Tools (STR)
-#### Alquemist's Tools (DEX)
-#### Scribe's Tools (INT)
+### Production
+Production skills are used mainly for crafting items (see: crafting). To perform it a character needs to use a set of tools for that specific trade. Tools cost 50g and can be acquired in most cities and villages. If attempting to make a roll without the respective tool, a character receives a -5 penalty to the roll.
+#### Smithing (STR)
+#### Alquemy (DEX)
+#### Scribing (INT)
+#### Herbalism (SEN)
+#### Rune Crafting (PRE)
 
 ## Skill Checks
 When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
@@ -2467,7 +2477,8 @@ R20's formula: ceil(lv/2)
 # Carga
 A quantidade de equipamento que um personagem consegue levar consigo enquanto se aventura é medida em espaços no seu inventário. Um personagem por padrão possui **10 + FOR  + CON** (mínimo: 8) espaços no seu inventário. A maioria dos itens ocupa 1 espaço, porém:
 
-- Itens alquímicos, poções, pergaminhos e outros itens minúsculos ocupam 1/2 espaço.
+- Ingredientes, matérias primas e outros itens minúsculos ocupam 1/2 espaço.
+- Itens alquímicos, poções, pergaminhos e outros itens consumíveis ocupam 1 espaço.
 - Armas de duas mãos, escudos, criaturas minúsculas e armaduras leves e médias ocupam 2 espaços.
 - Armaduras pesadas e criaturas pequenas ocupam 5 espaços.
 
@@ -2652,12 +2663,12 @@ Drinking a potion requires an Action, and if it has a long-lasting effect it's d
 _Potion, Common_
 A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
-| Potion of ...    | Rarity    | Price  | HP      |
-| ---------------- | --------- | ------ | ------- |
-| Healing          | Common    | 50g    | 2d4+2   |
-| Greater healing  | Uncommon  | 200g   | 4d4+4   |
-| Superior healing | Rare      | 2000g  | 8d4+8   |
-| Supreme healing  | Very rare | 20000g | 10d4+20 |
+| Potion of ...    |     | Rarity    | Price  | HP      |
+| ---------------- | --- | --------- | ------ | ------- |
+| Healing          |     | Common    | 50g    | 2d4+2   |
+| Greater healing  |     | Uncommon  | 200g   | 4d4+4   |
+| Superior healing |     | Rare      | 2000g  | 8d4+8   |
+| Supreme healing  |     | Very rare | 20000g | 10d4+20 |
 
 #### Mana Potion
 _Potion, Common_
@@ -2765,9 +2776,17 @@ At the start of the crafting attempt, the spellcaster decides on what spell and 
 
 ## Buying Spell Scrolls
 
-In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier
+In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier.
 
-OBS: maybe make it be different checks instead of all Arcana?
+## Ideas for change
+Maybe make it be different checks instead of all Arcana?
+
+Change cost to like $circle*tier*5gp$, so a tier 2 darkness (circle 1) would cost 10gp, a tier 2 hold person (circle 2) would cost 20gp and a tier 6 fireball (circle 3) would cost 180gp.
+
+Ignore the previous crafting rules and use the simpler general ones.
+
+## Working with item levels.
+The level of an item would be equal to the spell's circle (then you can have characters having access to higher spells as a consumable, but not having lv1's casting wish).
 
 
 
@@ -2789,35 +2808,35 @@ OBS: maybe make it be different checks instead of all Arcana?
 ### Magic item list
 
 #### Corda da Escalada
-_Common (50gp)_
+_Common (50gp), lv2_
 Esta corda de 16m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
 
 #### Garrafa da Fumaça Eterna
-_Common (50g)_
+_Common (50g) lv2_
 Quando a tampa desta ânfora de metal é retirada, uma grande quantidade de fumaça é liberada, deixando toda a áera em 12m de raio obscura. A fumaça persiste até a garrafa ser tampada. Após isso, dissipa-se no fim da cena (ou após 4 rodadas, sob vento forte, ou 1 rodada, sob um vendaval).
 
 #### Gema da Luminosidade.
-*Common (50gp)*
+*Common (50gp) lv2*
 Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de resistência de Sensibilidade (CD 12) ou ficar cega por 1d4 rodadas.
 
 #### Manto Élfico
-*Uncommon (100gp-350gp)*
+*Uncommon (100gp-350gp) lv3-lv7*
 Indistinguível de um manto cinza comum. Entretanto, quando usado com o capuz cobrindo o rosto, fornece +2/+5 em Furtividade.
 
-### Mochila de Carga (Bag of Holding)
-*Uncommon (100gp-500gp)*
-Este item, que parece uma simples mochila de pano, está na verdade ligado a um espaço interdimensional — fazendo com que seja maior por dentro do que por fora. Você pode guardar até 100 kg dentro de uma mochila de carga, mas ela pesará no máximo 5 kg. Se a mochila for rasgada, os objetos em seu interior são destruídos. Criaturas vivas colocadas no interior da mochila podem sobreviver até 10 minutos, mas depois disso ficarão sem ar.
+#### Mochila de Carga (Bag of Holding)
+*Uncommon (100gp-500gp) lv3/lv6*
+Este item, que parece uma simples mochila de pano, está na verdade ligado a um espaço interdimensional — fazendo com que seja maior por dentro do que por fora. Você pode guardar até 100 kg dentro de uma mochila de carga, mas ela pesará no máximo 5 kg. Se a mochila for rasgada, os objetos em seu interior são destruídos. Criaturas vivas colocadas no interior da mochila podem sobreviver até 10 minutos, mas depois disso ficarão sem ar. Ter uma mochila de carga equipada dá 5/10 espaços a mais de inventário.
 
-### Chapéu do Estilo
-*Common (50gp)*
+#### Chapéu do Estilo
+*Common (50gp) lv0*
 Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como ação quem estiver usando o chapéu pode tocar nele, e ele se transforma em qualquer tipo de chapéu ou adereço de usar na cabeça. Role um d20 ao colocar ou transformar o chapéu. Se tirar 10+, você tem +2 em rolagens de presença enquanto usar o chapéu. Se tirar 20, esse bônus dobra. (hidden until players roll 1: Se você tirar 1, o chapéu fica preso em você por 1 dia, você tem desvantagem em rolagens de presença e ele vira um fedora)
 
 ### Enciclopédia do Biólogo Sumido
-_Common (50gp)_
+_Common (50gp) lv1_
 Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com que ele grite em voz alta a informação desejada, alertando todas as criaturas não-surdas em um raio de 10sqr.
 
 ### Deque de algumas coisas
-_Common (80gp)_
+_Common (80gp) lv2_
 Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). Dele é fácil notar uma leve aura mágica. Ele começa com 10 cartas, e se um personagem sacar uma carta com uma Ação, ele ativa um dos efeitos abaixo (role 1d6) e a carta se desintegra.
 
 | d6  | Efeito                                                                           |
@@ -2832,45 +2851,46 @@ Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). De
 OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se não use PRE.
 
 ### Rolo de Papel de Embrulho Espacial
-*Common (100gp)*
+*Common (100gp) lv4*
 Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e pesa no máximo 100g. Se o papel for rasgado todos os itens guardados nele são despejados pra fora, e o papel usado perde o efeito. O Rolo de Papel de Embrulho Espacial tem 10 usos.
 
 {{pageNumber,auto}}
 \page
 
 ### Braceletes da Falsa Força
-_Uncommon (150gp)_
+_Uncommon (150gp) lv2_
 Braceletes reforçados que parecem aumentar a resistência de quem os usar. O material usado é menos útil do que parece, e acaba não tendo o efeito desejado, apesar de ainda ser de alguma ajuda. *Efeito:* -3 Defesa, +2 Guarda
 
 ### Botas da Falsa Dextreza
-_Uncommon (150gp)_
+_Uncommon (150gp) lv2_
 Botas decoradas que parecem dar mobilidade e agilidade adicional para o usuário, o deixando desviar com mais facilidade. Na verdade o couro inflexível e baixa anti-aderência da sola acabam não ajudando muito. *Efeito:* -3 Defesa, +2 Evasão
 
 ### Estatueta da Coruja
-_Common (150gp)_
+_Common (150gp) lv3_
 Uma estátua pequena em mármore de uma coruja. Como uma ação, você pode acordar a coruja, que se transforma por até um dia em uma coruja de verdade que ouve aos seus comandos e segue eles. Ela consegue se comunicar telepaticamente com você se estiver a menos que 200m de distância. Ela reverte ao formato de estátua se tomar dano, e uma vez revertida se torna inativa por 3 dias.
 
 ### Lança de Raios
-_Uncommon (1000gp)_
+_Uncommon (1000gp) lv7_
 Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um raio. Um personagem equipado com a Lança de Raios que seja proficiente com ela tem acesso à habilidade **Zeus**.
 
 **Zeus.** Ação: você joga a Lança de Raios na direção de um alvo que vê em um alcance de 25sqr. Cada criatura entre você e o alvo toma 4d6 dano elétrico, ou metade se passar em uma resistência de Destreza (CD 13). Faça um ataque de arremesso contra o alvo, e se acertar ele toma 4d6 de dano adicional. A lança perde sua carga, e recupera ela depois de 1 dia.
 
 ### Lança de Raios (Menor)
-*Comum (90gp)*
+*Comum (90gp) lv4*
 Mesmo efeito da lança de raios, mas ao usar a habilidade **Zeus**, se algum dos dados do dano elétrico rolado for 6, a lança é destruída.
 
 ### Nine Lives Stealer
-_Rare (1500gp)_
+_Rare (900gp) lv5_
 Uma adaga simples, com um relevo de um gato no punhal, com 1d8+1 caudas. Se você acertar um ataque crítico com a adaga contra uma criatura e ela ficou com 30 HP ou menos, ela deve passar numa resistência de Constituição (CD 14) ou morrer instantaneamente. Quando uma criatura morre por esse efeito, uma das caudas do gato some. Se o gato perder todas as caudas, o item reverte para uma adaga normal.
 
 <!--
 ### Ninety Nine Lives Stealer
-_Very Rare (5000gp)_
+_Very Rare (9000gp)_
 
 ### Nine Hundred Ninety Nine Lives Stealer
-_Legendary (50000gp)_
+_Legendary (9999gp)_
 -->
+
 
 {{pageNumber,auto}}
 \page
@@ -2881,13 +2901,13 @@ You can enchant an item with runes to add a special effect to it. You create run
 
 Rune effects:
 
-| Name                 | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
-| -------------------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Damage Type Change   | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
-| Damage Add Elemental | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
-| Elemental Reflect    | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     |
-| Defense Tier 1       | 50g        | 1           | 1PM per Charge    | (Movement, 1 Charge): Your defense can't be less than 15 for the scene                                                     |
-| Defense Tier 2       | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       |
+| Name                   | Item Level | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
+| ---------------------- | ---------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Damage Type Change 1   | 1          | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
+| Damage Add Elemental 1 | 3          | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
+| Elemental Reflect      | 3          | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     |
+| Defense Tier 1         | 2          | 50g        | 1           | 1PM per Charge    | (Movement, 1 Charge): Your defense can't be less than 15 for the scene                                                     |
+| Defense Tier 2         | 3          | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       |
 
 
 {{pageNumber,auto}}
@@ -2896,15 +2916,16 @@ Rune effects:
 
 **IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
 
+<!--
 basic rules:
-
-needs 25% of the item's value worth of ingredients
-
-50gp worth of item/workweek. (increase to more gp/week at later levels.)
-
-1 check per workweek
+- needs 25% of the item's value worth of ingredients
+- 50gp worth of item/workweek. (increase to more gp/week at later levels.)
+- 1 check per workweek
 
 use tools. costs 500silver for a set of tools (-5 without tools)
+-->
+
+CD to craft = 12 + Item level / 2
 
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
@@ -2921,14 +2942,17 @@ If the item being crafted is worth 50 gold or less, then at the end of the craft
 ### Skill
 Below is a list of all crafting-related skills. 
 
-| Skill         | Relevant Attribute | Items crafted using it                                         |
-| ------------- | ------------------ | -------------------------------------------------------------- |
-| Alchemy       | DEX                | Potions, poisons, explosives, oils and other alchemical items. | 
-| Rune Crafting | SEN                | Standalone runes and imbuing runes into items.                 |
-| Scribing      | INT                | Spell Scrolls.                                                 |
-| Smithing      | STR                | Armor, weapons and ammunition.                                 |
+| Skill         | Relevant Attribute | Items crafted using it                                |
+| ------------- | ------------------ | ----------------------------------------------------- |
+| Alchemy       | DEX                | Poisons, explosives, oils and other alchemical items. |
+| Herbalism     | SEN                | Potions and poisons.                                  | 
+| Rune Crafting | PRE                | Standalone runes and imbuing runes into items.        |
+| Scribing      | INT                | Spell Scrolls.                                        |
+| Smithing      | STR                | Armor, weapons and ammunition.                        |
 
 When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
+
+*OBS:* note that poisons can be made either through herbalism or alchemy.
 
 When rolling the relevant skill the CD is defined by the item rarity.
 #### Crafting roll CD by item rarity
@@ -2938,17 +2962,18 @@ When rolling the relevant skill the CD is defined by the item rarity.
 | Uncommon    | 15  |
 | Rare        | 18  |
 | Very rare   | 20  |
-| Legendary   | 25  | 
 
 After rolling and comparing against the item CD
 
 | Skill check result | Crafting progress                      | Materials spent  |
 | ------------------ | -------------------------------------- | ---------------- |
-| Passed by 5+       | Item crafting progresses.              | 50% of expected  |
+| Passed by 5+       | Item crafting progresses.              | 50% of expected* |
 | Passed             | Item crafting progresses.              | 100% of expected |
 | Failed             | Item crafting doesn't progress.        | 0                |
 | Failed by 5+       | Item crafting doesn't progress.        | 100% of expected |
 | Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
+
+**\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
@@ -4930,8 +4955,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 - **Duração:** Instantaneous
 ___
 
-A ray of sickening greenish energy lashes out toward a creature within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
+A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
 {{pageNumber,auto}}
 \page

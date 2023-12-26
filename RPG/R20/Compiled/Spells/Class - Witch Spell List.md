@@ -639,8 +639,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 - **Duração:** Instantaneous
 ___
 
-A ray of sickening greenish energy lashes out toward a creature within range.
-Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
+A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
 
 

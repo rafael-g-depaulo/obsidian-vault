@@ -15,21 +15,20 @@ ___
 **Languages**            :: Common, Gibberish
 **Challenge**            :: 1
 ___
+
+**Multi-ataque.** Unha pode fazer 2 ataques físicos.
 ### Magia
 - **Atributo:** PRE
 - **CD:** 12
 - **to hit:** +3
+- **MP:** 6?
 
 #### Magias
-- **Cantrip:**
-- **1º Círculo:**
-- **2º Círculo:**
+- **Cantrip (2):** Blade Ward, Chill Touch, Energy Blast, Fire Bolt, Sword Burst.
+- **1º Círculo (2):** Inflingir Ferimentos, Escudo, Abençoar (mortos vivos), Ray of Sickness.
+- **2º Círculo (1):**
 
 ### Actions
-***Tilt-a-whirl Eye Takedown.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-:
-***Turnbuckle Roll.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
-:
-***Abdominal Drop.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+**Adaga.** +4 hit (1sqr melee or 4/12 ranged). 2d4+2 piercing
 }}
 
