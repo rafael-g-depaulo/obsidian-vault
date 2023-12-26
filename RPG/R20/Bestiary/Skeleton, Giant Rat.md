@@ -2,8 +2,8 @@
 ## Giant Rat Skeleton #monster #skeleton 
 *Small Undead*
 ___
-**Defense**     :: XXXX
-**HP**          :: XXXX
+**Defense**     :: 13
+**HP**          :: 20
 **Speed**       :: 8sqr.
 ___
 |  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
@@ -13,9 +13,9 @@ ___
 **Condition Immunities** :: Exaustion
 **Damage Immunities** :: Poison
 **Damage Vulnerabilities** :: Bludgeoning
-**Senses**               :: passive Perception 18
+**Senses**               :: passive Perception 16
 **Languages**            :: 
-**Challenge**            :: 1
+**Challenge**            :: 1/8
 ___
 ***Pack Tactics.*** These guys work together like peanut butter and jelly.
 
