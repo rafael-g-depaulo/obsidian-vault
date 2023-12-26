@@ -1,10 +1,10 @@
-| Nome    | CR  | Ficha           | Squad                |
-| ------- | --- | --------------- | -------------------- |
-| Unha    | 2   | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter) |
-| Falange | 4   |                 |                      |
-| Dedo    | 6   |                 |                      |
-| Mão     | 8   |                 |                      |
-| Braço   | 10  |                 |                      |
+| Nome    | CR  | Ficha           | Squad                                                         |
+| ------- | --- | --------------- | ------------------------------------------------------------- |
+| Unha    | 2   | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
+| Falange | 4   |                 | (1 Medium) **OR** (2 starter + (2d4 Parts **OR** 1 Complete)) | 
+| Dedo    | 6   |                 |                                                               |
+| Mão     | 8   |                 |                                                               |
+| Braço   | 10  |                 |                                                               |
 
 ideia:
 - pegar um inimigo mago do D&D, botar só um ou dois ataques básicos.
@@ -15,6 +15,7 @@ ideia:
 ## Tabelas de esqueleto
 
 ### Geral
+
 #### Parts
 | d100   | Skeleton |
 | ------ | -------- |
