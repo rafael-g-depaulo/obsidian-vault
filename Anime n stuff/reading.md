@@ -17,7 +17,6 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/1811707406-spirit-farmer-chapter-59/)
-- [Devil Returns to School](https://asuratoon.com/6311037131-devil-returns-to-school-days-chapter-41/)
 - [Solo Leveling](https://asuratoon.com/4460228866-solo-leveling-chapter-2/)
 https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
 https://asuratoon.com/4460228866-solo-leveling-chapter-80/
@@ -30,6 +29,7 @@ https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 - [Life of a Magic Academy Student](https://asuratoon.com/2122552102-life-of-a-magic-academy-mage-chapter-63/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
+- [Devil Returns to School](https://asuratoon.com/0435219386-devil-returns-to-school-days-chapter-43/)
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
 - [Priest of Corruption](https://asuratoon.com/2423162651-the-priest-of-corruption-chapter-29/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
@@ -40,7 +40,7 @@ https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 - [Moon Slayer](https://zeroscans.com/comics/moon-slayer/6184)
 - [Return of Mount Hua](https://asuratoon.com/7827014947-return-of-the-mount-hua-sect-chapter-102/)
-- [Murim Login](https://asuratoon.com/4460228866-murim-login-chapter-179/)
+- [Murim Login](https://asuratoon.com/0435219386-murim-login-chapter-180/)
 - [Reaper of the Drifting Moon](https://asuratoon.com/1811707406-reaper-of-the-drifting-moon-chapter-65/)
 - [Hoarding in Hell](https://asuratoon.com/1811707406-hoarding-in-hell-chapter-56/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
