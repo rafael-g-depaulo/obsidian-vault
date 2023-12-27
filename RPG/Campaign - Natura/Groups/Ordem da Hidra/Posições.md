@@ -31,20 +31,20 @@ ideia:
 
 ### Gula
 #### Starter
-| d100   | Skeleton |
-| ------ | -------- |
-| 1-35   | 3x rat   | 
-| 36-60  | cat      |
-| 60-85  | dog      |
-| 86-100 | 2x bird  |
+| d100   | Skeleton                   |
+| ------ | -------------------------- |
+| 1-35   | 3x [[Skeleton, Giant Rat]] |
+| 36-60  | [[Skeleton, Cat]]          |
+| 60-85  | dog                        |
+| 86-100 | 2x bird                    | 
 
 #### Medium
-| d100   | Skeleton  |
-| ------ | --------- |
-| 1-35   | 2x Monkey |
-| 36-60  | 3x Snake  |
-| 60-85  | Wolf      |
-| 86-100 | Horse     |
+| d100   | Skeleton               |
+| ------ | ---------------------- |
+| 1-35   | 2x Monkey              |
+| 36-60  | 3x [[Skeleton, Snake]] | 
+| 60-85  | Wolf                   |
+| 86-100 | Horse                  |
 
 #### High
 | d100   | Skeleton   |
