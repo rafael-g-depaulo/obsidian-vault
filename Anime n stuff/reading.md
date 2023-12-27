@@ -17,9 +17,7 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/1811707406-spirit-farmer-chapter-59/)
-- [Solo Leveling](https://asuratoon.com/4460228866-solo-leveling-chapter-2/)
 https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
-https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -41,14 +39,14 @@ https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 - [Moon Slayer](https://zeroscans.com/comics/moon-slayer/6184)
 - [Return of Mount Hua](https://asuratoon.com/7827014947-return-of-the-mount-hua-sect-chapter-102/)
 - [Murim Login](https://asuratoon.com/0435219386-murim-login-chapter-180/)
-- [Reaper of the Drifting Moon](https://asuratoon.com/1811707406-reaper-of-the-drifting-moon-chapter-65/)
+- [Reaper of the Drifting Moon](https://asuratoon.com/0435219386-reaper-of-the-drifting-moon-chapter-68/)
 - [Hoarding in Hell](https://asuratoon.com/1811707406-hoarding-in-hell-chapter-56/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/6311037131-the-reincarnated-assassin-is-a-genius-swordsman-chapter-30/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/0435219386-heavenly-grand-archives-young-master-chapter-55/)
 - [Cronicles of the Martial God](https://asuratoon.com/0435219386-chronicles-of-the-martial-gods-return-chapter-83/)
-- [Talent Devouring Mage](https://asuratoon.com/0308950452-talent-swallowing-magician-chapter-53/)
+- [Talent Devouring Mage](https://asuratoon.com/0435219386-talent-swallowing-magician-chapter-54/)
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
