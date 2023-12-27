@@ -46,12 +46,13 @@ https://asuratoon.com/4460228866-solo-leveling-chapter-80/
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/6311037131-the-reincarnated-assassin-is-a-genius-swordsman-chapter-30/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
-- [Heavenly Grand Archives Young Master](https://asuratoon.com/0258791518-heavenly-grand-archives-young-master-chapter-53/)
+- [Heavenly Grand Archives Young Master](https://asuratoon.com/0435219386-heavenly-grand-archives-young-master-chapter-55/)
 - [Cronicles of the Martial God](https://asuratoon.com/0435219386-chronicles-of-the-martial-gods-return-chapter-83/)
 - [Talent Devouring Mage](https://asuratoon.com/0308950452-talent-swallowing-magician-chapter-53/)
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
+- Infinite Mage
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
