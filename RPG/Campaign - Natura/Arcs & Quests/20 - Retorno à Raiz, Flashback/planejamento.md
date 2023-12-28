@@ -1,10 +1,10 @@
 - [x] Sharkodile sheet
 	- [x] daddy
 	- [x] baby
-- [ ] sewer map
-	- [ ] rat sheet
-	- [ ] unha sheet
-- [ ] beach map (?)
+- [x] sewer map
+	- [x] rat sheet
+	- [x] unha sheet
+- [x] beach map (?)
 
 Flashback do sonho do lumb
 
