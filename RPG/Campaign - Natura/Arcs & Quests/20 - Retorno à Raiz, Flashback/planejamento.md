@@ -8,6 +8,10 @@
 
 Flashback do sonho do lumb
 
+- [ ] Montar aviso quests
+- [ ] Decidir encounters
+- [ ] sprite ovos
+
 quests no aviso
 - normal work
 	- lenha 40 pratas/tora. CD 10 +2 tora adicional.
