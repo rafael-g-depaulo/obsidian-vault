@@ -1,9 +1,9 @@
 {{monster
-## Sharkodile
+## Adult Sharkodile
 *Huge Beast*
 ___
 **Defense**     :: 14
-**HP**          :: 89
+**HP**          :: 85
 **Speed**       :: 6sqr. 10sqr (swim)
 ___
 |  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
@@ -14,10 +14,12 @@ ___
 **Skills** :: Stealth +5
 **Challenge**            :: 5
 ___
-***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
 
-### Actions
-***Tilt-a-whirl Eye Takedown.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
+### Components
+#### Main Body (60 HP)
+***Mordida.*** *Melee Weapon Attack:* +8 to hit, reach 1sqr., one target. *Hit* 3d10+3 Piercing Damage, and grapples the target (escape CD 16).
+ 
+#### Tail (25 HP)
+***Cauda.*** *Melee Weapon Attack:* +8 to hit, reach 2sqr., one target. *Hit* 2d8+2 Bludgeoning Damage. DC 16 STR or be knocked prone.
 
 }}
-
