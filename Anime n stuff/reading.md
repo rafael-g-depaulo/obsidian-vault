@@ -50,7 +50,7 @@ https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
 - [Im not the Evil God's Lackey](https://zeroscans.com/comics/im-really-not-the-evil-gods-lackey/4674)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
-- Infinite Mage
+- [Infinite Mage](https://asuratoon.com/0435219386-infinite-mage-chapter-62/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
