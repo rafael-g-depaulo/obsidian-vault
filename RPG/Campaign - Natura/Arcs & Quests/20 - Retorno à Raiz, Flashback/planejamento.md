@@ -15,7 +15,7 @@ Flashback do sonho do lumb
 quests no aviso
 - normal work
 	- lenha 40 pratas/tora. CD 10 +2 tora adicional.
-	- planejamento de racionamento. 100 pratas CD 12
+	- planejamento de racionamento. 140 pratas CD 11 (-30 falha)
 	- Pesca. 
 		- CD 5 25 pratas (algumas sardinhas)
 		- CD 10 80 pratas (1 salmão)
