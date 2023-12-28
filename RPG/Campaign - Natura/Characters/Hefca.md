@@ -7,3 +7,5 @@ Descrição física:
 
 Personality
   business-ready, no-bullshit. not that patient, but empathic
+
+Secretário **KEVIN**
