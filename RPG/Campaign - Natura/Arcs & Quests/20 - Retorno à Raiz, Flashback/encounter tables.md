@@ -22,6 +22,8 @@ Beach:
 
 Sewers:
 - 1 [[Hidra, Unha]]
-	- Cantrips: Energy Bkasd
+	- Cantrips: Energy Blast, Sword Burst
+	- 1st: Inflingir Ferimentos, Ray of Sickness
+	- 2nd: Hold Person
 - 6 rats
 - 1 bullywug
