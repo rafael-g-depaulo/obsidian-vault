@@ -15,3 +15,13 @@ Encounter:
 - 1x Nicolau
 - 2x [[Skeleton, Humanoid]]
 - 2x [[Skeleton, Skull]]
+
+
+Beach:
+- 3 younglings and 1 adult that comes 1d4+1 rounds after the combat starts.
+
+Sewers:
+- 1 [[Hidra, Unha]]
+	- Cantrips: Energy Bkasd
+- 6 rats
+- 1 bullywug
