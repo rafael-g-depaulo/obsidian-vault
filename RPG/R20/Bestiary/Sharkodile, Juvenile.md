@@ -10,7 +10,7 @@ ___
 |:------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 19 (+4) | 10 (+0) | 14 (+5) | 2 (-4) | 7 (-2) | 5 (-3) |
 ___
-**Senses**               :: darkvision 60 ft., passive Perception 8
+**Senses**               :: darkvision 60 ft., passive Perception 12
 **Skills** :: Stealth +2
 **Challenge**            :: 3
 ___
