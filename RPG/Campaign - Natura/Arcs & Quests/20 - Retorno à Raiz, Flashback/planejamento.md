@@ -5,12 +5,12 @@
 	- [x] rat sheet
 	- [x] unha sheet
 - [x] beach map (?)
+- [x] Montar aviso quests
+- [x] Decidir encounters
+- [x] sprite ovos
+
 
 Flashback do sonho do lumb
-
-- [ ] Montar aviso quests
-- [ ] Decidir encounters
-- [ ] sprite ovos
 
 quests no aviso
 - normal work
