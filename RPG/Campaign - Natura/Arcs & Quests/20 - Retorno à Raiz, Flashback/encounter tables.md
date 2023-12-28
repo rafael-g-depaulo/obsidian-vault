@@ -12,10 +12,9 @@ Nicolau:
 1 legendary action.
 
 Encounter:
-- 1x Nicolau
+- 1x [[Nickolau Mandrova Inahg]]
 - 2x [[Skeleton, Humanoid]]
 - 2x [[Skeleton, Skull]]
-
 
 Beach:
 - 3 younglings and 1 adult that comes 1d4+1 rounds after the combat starts.

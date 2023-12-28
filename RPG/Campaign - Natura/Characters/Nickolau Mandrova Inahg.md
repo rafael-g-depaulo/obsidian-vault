@@ -6,6 +6,19 @@ Numa viagem dela para [[Dyr]], a [[Fifinia Missilira Ticente]] convenceu o Nicko
 
 Ele é um babaca kkkk, e odeia o Syril.
 
+Nicolau:
+- HP: 70
+- AC: 19
+- Raio necrótico:
+	- range 12sqr, +10 hit. 4d8 necrótico
+- Fenda Espacial:
+	-  Cone 6sqr. 17 Dex save (half damage). 3d10 energia
+- Teleporte:
+	- range 12sqr. doesn't trigger opportunity attacks
+
+1 legendary action.
+
+
 {{monster
 ## Nicolau
 *Medium Humanoid*
