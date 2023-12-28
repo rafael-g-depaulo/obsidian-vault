@@ -29,7 +29,7 @@ https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [Devil Returns to School](https://asuratoon.com/0435219386-devil-returns-to-school-days-chapter-43/)
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
-- [Priest of Corruption](https://asuratoon.com/2423162651-the-priest-of-corruption-chapter-29/)
+- [Priest of Corruption](https://asuratoon.com/3955407132-the-priest-of-corruption-chapter-36/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 - [Absolute Sword Sense](https://asuratoon.com/0435219386-absolute-sword-sense-chapter-63/)
 - [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
