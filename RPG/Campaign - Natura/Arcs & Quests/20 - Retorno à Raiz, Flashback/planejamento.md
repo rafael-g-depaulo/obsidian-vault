@@ -1,6 +1,6 @@
-- [ ] Sharkodile sheet
-	- [ ] daddy
-	- [ ] baby
+- [x] Sharkodile sheet
+	- [x] daddy
+	- [x] baby
 - [ ] sewer map
 	- [ ] rat sheet
 	- [ ] unha sheet
