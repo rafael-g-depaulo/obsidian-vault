@@ -11,7 +11,7 @@ ___
 | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 ___
 **Condition Immunities** :: buzzed, groovy, drunk
-**Senses**               :: darkvision 60 ft., passive Perception 18
+**Senses**               :: darkvision 60 ft., passive Perception 12
 **Languages**            :: Common, Gibberish
 **Challenge**            :: 2
 ___

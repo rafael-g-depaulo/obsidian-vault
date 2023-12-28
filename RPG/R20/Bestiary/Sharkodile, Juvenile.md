@@ -17,9 +17,9 @@ ___
 
 ### Components
 #### Main Body (50 HP)
-***Mordida.*** *Melee Weapon Attack:* +5 to hit, reach 1sqr., one target. *Hit* 2d10+2 Piercing Damage, and grapples the target (escape CD 16).
+***Mordida.*** *Melee Weapon Attack:* +5 to hit, reach 1sqr., one target. *Hit* 2d10+2 Piercing Damage, and grapples the target (escape CD 14).
  
 #### Tail (15 HP)
-***Cauda.*** *Melee Weapon Attack:* +5 to hit, reach 2sqr., one target. *Hit* 1d8+1 Bludgeoning Damage. DC 16 STR or be knocked prone.
+***Cauda.*** *Melee Weapon Attack:* +5 to hit, reach 2sqr., one target. *Hit* 1d8+1 Bludgeoning Damage. DC 14 STR or be knocked prone.
 
 }}
