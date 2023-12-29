@@ -6,12 +6,12 @@ ___
 **HP**          :: 85
 **Speed**       :: 6sqr. 10sqr (swim)
 ___
-|  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
-|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|   STR   |  DEX   |   CON   |  INT   |   WIS   |  PRE   |
+|:-------:|:------:|:-------:|:------:|:-------:|:------:|
 | 21 (+5) | 9 (-1) | 17 (+3) | 2 (-4) | 10 (+0) | 7 (-2) |
 ___
-**Senses**               :: darkvision 60 ft., passive Perception 10
-**Skills** :: Stealth +5
+**Senses**                 :: darkvision 60 ft., passive Perception 10
+**Skills**                     :: Stealth +5
 **Challenge**            :: 5
 ___
 
