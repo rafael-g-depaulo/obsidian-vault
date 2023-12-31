@@ -7,7 +7,6 @@
 - https://aquamanga.org/manga/volcanic-age/
 
 ## Reading
-- [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-145/)
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -16,11 +15,11 @@
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [Spirit Farmer](https://asuratoon.com/1811707406-spirit-farmer-chapter-59/)
-https://asuratoon.com/4460228866-spirit-farmer-chapter-71/
+- [Spirit Farmer](https://asuratoon.com/3955407132-spirit-farmer-chapter-99-s3-start/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
+- [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-161-chapter-161/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
 - [Revenge of the Sword Hound](https://asuratoon.com/3955407132-revenge-of-the-iron-blooded-sword-hound-chapter-58/)
