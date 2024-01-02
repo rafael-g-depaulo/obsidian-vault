@@ -17,7 +17,6 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/3955407132-spirit-farmer-chapter-99-s3-start/)
-- [Youngest Son of Nangum]()
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -52,6 +51,7 @@
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
 - [Infinite Mage](https://asuratoon.com/0435219386-infinite-mage-chapter-62/)
 - [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-102/)
+- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
