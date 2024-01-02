@@ -41,7 +41,7 @@
 - [Reaper of the Drifting Moon](https://asuratoon.com/0435219386-reaper-of-the-drifting-moon-chapter-68/)
 - [Hoarding in Hell](https://asuratoon.com/1811707406-hoarding-in-hell-chapter-56/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
-- [Reincarnated Assassin Swordsman](https://asuratoon.com/3955407132-the-reincarnated-assassin-is-a-genius-swordsman-chapter-31/)
+- [Reincarnated Assassin Swordsman](https://asuratoon.com/0435219386-the-reincarnated-assassin-is-a-genius-swordsman-chapter-32/)
 - [Loyal Sword](https://zeroscans.com/comics/loyal-sword/6207)
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/0435219386-heavenly-grand-archives-young-master-chapter-55/)
 - [Cronicles of the Martial God](https://asuratoon.com/0435219386-chronicles-of-the-martial-gods-return-chapter-83/)
@@ -50,7 +50,7 @@
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
 - [Infinite Mage](https://asuratoon.com/0435219386-infinite-mage-chapter-62/)
-- [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-101/)
+- [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-102/)
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
