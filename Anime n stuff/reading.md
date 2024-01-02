@@ -5,6 +5,7 @@
 - https://asuratoon.com/manga/3619099433-terminally-ill-genius-dark-knight/
 - https://asuratoon.com/manga/3619099433-surviving-the-game-as-a-barbarian/
 - https://aquamanga.org/manga/volcanic-age/
+- https://manhuaus.org/manga/i-used-to-be-a-boss/
 
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -16,6 +17,7 @@
 - [Fish Survival](https://zeroscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/3955407132-spirit-farmer-chapter-99-s3-start/)
+- [Youngest Son of Nangum]()
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -31,7 +33,6 @@
 - [Priest of Corruption](https://asuratoon.com/3955407132-the-priest-of-corruption-chapter-36/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
 - [Absolute Sword Sense](https://asuratoon.com/0435219386-absolute-sword-sense-chapter-63/)
-- [Youngest Son of Nangum](https://reaperscans.com/comics/3667-youngest-son-of-the-namgung-clan/chapters/87681119-chapter-37)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
