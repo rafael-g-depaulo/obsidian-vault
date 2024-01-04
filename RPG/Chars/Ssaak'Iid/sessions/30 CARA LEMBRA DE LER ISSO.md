@@ -1,4 +1,4 @@
-COM O ENCANTAMENTO GRATUITO O SSAK VAI BOTAR O ENCANTAMENTO VELOZ. ROUBADO PARA UM CACETE.
+COM O ENCANTAMENTO GRATUITO O SSAK VAI BOTAR O ENCANTAMENTO VELOZ. ROUBADO PARA UM CACETE. Além disso vai botar melhoria harmonizada.
 
 calma, isso significa 2 ataques em vez de 1 magia golpe elétrico... O QUE DÁ PRA FAZER COM A AÇÃO EXTRA DA VELOCIDADE.
 
@@ -13,3 +13,4 @@ ação 1 (extra da velocidade):
 ação 2:
 - toque chocante
 	- golpe elemental
+
