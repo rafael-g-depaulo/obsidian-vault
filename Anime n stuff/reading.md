@@ -63,7 +63,7 @@ https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-103/
 https://asuratoon.com/0435219386-revenge-of-the-iron-blooded-sword-hound-chapter-59/
 https://zscans.com/comics/loyal-sword/6207
 https://zscans.com/comics/surviving-as-a-fish/5340
-
+https://zscans.com/comics/moon-slayer/6231
 
 
 ## Hiatus
