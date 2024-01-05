@@ -54,6 +54,18 @@
 - [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-102/)
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
 
+https://asuratoon.com/0435219386-heavenly-grand-archives-young-master-chapter-57/
+https://asuratoon.com/0435219386-absolute-sword-sense-chapter-64/
+https://asuratoon.com/0435219386-chronicles-of-the-martial-gods-return-chapter-84/
+https://asuratoon.com/0435219386-return-of-the-mount-hua-sect-chapter-105/
+https://asuratoon.com/0435219386-talent-swallowing-magician-chapter-55/
+https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-103/
+https://asuratoon.com/0435219386-revenge-of-the-iron-blooded-sword-hound-chapter-59/
+https://zscans.com/comics/loyal-sword/6207
+https://zscans.com/comics/surviving-as-a-fish/5340
+
+
+
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
 - [sword fanatic wanders through the night](https://asuratoon.com/0258791518-sword-fanatic-wanders-through-the-night-chapter-83/)
