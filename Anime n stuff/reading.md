@@ -49,7 +49,7 @@
 - [Talent Devouring Mage](https://asuratoon.com/0435219386-talent-swallowing-magician-chapter-54/)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
-- [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-55/)
+- [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
 - [Infinite Mage](https://asuratoon.com/0435219386-infinite-mage-chapter-62/)
 - [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-102/)
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
@@ -65,6 +65,11 @@ https://zscans.com/comics/loyal-sword/6207
 https://zscans.com/comics/surviving-as-a-fish/5340
 https://zscans.com/comics/moon-slayer/6231
 
+https://asuratoon.com/9260952888-murim-login-chapter-181/
+https://asuratoon.com/9260952888-devil-returns-to-school-days-chapter-45/
+https://asuratoon.com/9260952888-the-priest-of-corruption-chapter-38/
+https://asuratoon.com/9260952888-revenge-of-the-iron-blooded-sword-hound-chapter-60/
+https://asuratoon.com/0873280421-spirit-farmer-chapter-134/
 
 ## Hiatus
 - [Devious Daughter of the Duchy](https://asuracomics.com/6429950787-sword-fanatic-wanders-through-the-night-chapter-25/)
@@ -72,6 +77,7 @@ https://zscans.com/comics/moon-slayer/6231
 - [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
+- [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
