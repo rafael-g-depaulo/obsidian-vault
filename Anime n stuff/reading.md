@@ -22,7 +22,7 @@
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-161-chapter-161/)
+- [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
 - [Revenge of the Sword Hound](https://asuratoon.com/9260952888-revenge-of-the-iron-blooded-sword-hound-chapter-60/)
