@@ -26,7 +26,7 @@
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
 - [Revenge of the Sword Hound](https://asuratoon.com/9260952888-revenge-of-the-iron-blooded-sword-hound-chapter-60/)
-- [Life of a Magic Academy Student](https://asuratoon.com/2122552102-life-of-a-magic-academy-mage-chapter-63/)
+- [Life of a Magic Academy Student](https://asuratoon.com/9260952888-life-of-a-magic-academy-mage-chapter-75/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [Devil Returns to School](https://asuratoon.com/9260952888-devil-returns-to-school-days-chapter-45/)
