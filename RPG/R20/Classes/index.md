@@ -58,7 +58,7 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Summoner
+#### Blaster
 ###### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 

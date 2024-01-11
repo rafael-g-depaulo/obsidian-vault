@@ -1,4 +1,4 @@
-{{class-definition "Alquimist (WIP)"
+{{class-definition "Alquimist"
 ARCHETYPE: Specialist
 EQUIPMENT_PROFICIENCIES: NONE
 SAVES:
