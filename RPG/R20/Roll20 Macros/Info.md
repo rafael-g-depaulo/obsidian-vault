@@ -121,7 +121,7 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 &{template:default} {{name=Ignorar Arranhões (@{character_name})}} {{Execução=Movimento}} {{Custo=2PM}} {{Descrição=Pelo resto da cena, todo dano que você tomar igual ou inferior a @{guard} (sua Guarda) é ignorado.}}
 ```
-### rest_roll (lembrar de atualizar o link)
+### rest_roll
 ```
 &{template:default} [[ [[ {-1, floor( ( [[ 1d20 + @{CON} + @{skill_sobrevivencia}[bonus skill] + @{rest_supplies} ]] - ?{CD Descanso} ) / 5), 2}kl2dl1 ]][-1=ruim, 0=normal, 1=boa, 2=otima] ]] {{name=Descanso (@{character_name})}} {{Descrição=@{character_name} descansa, e rola um $[[1]], contra a CD de ?{CD Descanso} }} {{Qualidade=$[[3]] [ruim](`&lbrack;&lbrack; ?{CD Descanso}[CD Descanso] &rbrack;&rbrack; @&lbrace;@{character_name}|rest_level_minus_1&rbrace;) [normal](`@&lbrace;@{character_name}|rest_level_0&rbrace;) [boa](`@&lbrace;@{character_name}|rest_level_1&rbrace;) [ótima](`@&lbrace;@{character_name}|rest_level_2&rbrace;) }} {{Regras= [referência](@{rest_rules_link}) }}
 ```
