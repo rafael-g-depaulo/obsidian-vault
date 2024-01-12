@@ -33,7 +33,7 @@ Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. E
 |     8-10     |         20          |
 |     11+      |         22          |
 
-The companion's size is small. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
+The companion's size is small or tiny. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
 
 | Companion Tier | Companion Maximum Size |
 |:--------------:|:----------------------:|
