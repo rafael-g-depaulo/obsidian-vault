@@ -107,6 +107,14 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
 
+- **poder poção misteriosa 1.** pode criar poções misteriosas
+
+- **poder poção misteriosa 2.** +1PM pra mais 1 
+
+- **poder poção misteriosa 1.** pode criar poções misteriosas
+
+- **poder poção misteriosa 1.** pode criar poções misteriosas
+
 {{dev-comment
 possible changes to witch's brews:
 - negative effects
