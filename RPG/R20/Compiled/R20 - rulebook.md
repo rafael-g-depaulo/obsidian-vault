@@ -146,33 +146,33 @@ ___
 - ### [{{ Spell List }}{{ 65 }}](#p65)
 - #### [{{ All Spells }}{{ 65 }}](#p65)
 - ### [{{ Spells }}{{ 67 }}](#p67)
-- ### [{{ Contracts, Paladins & Entities }}{{ 101 }}](#p101)
-- #### [{{ Paladins }}{{ 101 }}](#p101)
-- #### [{{ Contract }}{{ 101 }}](#p101)
-- #### [{{ Favor }}{{ 101 }}](#p101)
-- #### [{{ Losing Favor }}{{ 101 }}](#p101)
-- #### [{{ Miracles }}{{ 101 }}](#p101)
-- ### [{{ Companions }}{{ 102 }}](#p102)
-- #### [{{ Stats }}{{ 102 }}](#p102)
-- #### [{{ Companion death }}{{ 102 }}](#p102)
-- #### [{{ Rest }}{{ 102 }}](#p102)
-- #### [{{ Companion Skills }}{{ 102 }}](#p102)
-- ### [{{ Conditions }}{{ 104 }}](#p104)
-- ### [{{ Rest & Recovery }}{{ 105 }}](#p105)
-- #### [{{ Provisions }}{{ 105 }}](#p105)
-- #### [{{ How to recover }}{{ 105 }}](#p105)
-- #### [{{ Skipping a Rest }}{{ 105 }}](#p105)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 105 }}](#p105)
+- ### [{{ Contracts, Paladins & Entities }}{{ 102 }}](#p102)
+- #### [{{ Paladins }}{{ 102 }}](#p102)
+- #### [{{ Contract }}{{ 102 }}](#p102)
+- #### [{{ Favor }}{{ 102 }}](#p102)
+- #### [{{ Losing Favor }}{{ 102 }}](#p102)
+- #### [{{ Miracles }}{{ 102 }}](#p102)
+- ### [{{ Companions }}{{ 103 }}](#p103)
+- #### [{{ Stats }}{{ 103 }}](#p103)
+- #### [{{ Companion death }}{{ 103 }}](#p103)
+- #### [{{ Rest }}{{ 103 }}](#p103)
+- #### [{{ Companion Skills }}{{ 103 }}](#p103)
+- ### [{{ Conditions }}{{ 105 }}](#p105)
+- ### [{{ Rest & Recovery }}{{ 106 }}](#p106)
+- #### [{{ Provisions }}{{ 106 }}](#p106)
+- #### [{{ How to recover }}{{ 106 }}](#p106)
+- #### [{{ Skipping a Rest }}{{ 106 }}](#p106)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 106 }}](#p106)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Companions }}{{ 106 }}](#p106)
-- #### [{{ Stats }}{{ 106 }}](#p106)
-- #### [{{ Companion death }}{{ 106 }}](#p106)
-- #### [{{ Rest }}{{ 106 }}](#p106)
-- #### [{{ Companion Skills }}{{ 106 }}](#p106)
+- ### [{{ Companions }}{{ 107 }}](#p107)
+- #### [{{ Stats }}{{ 107 }}](#p107)
+- #### [{{ Companion death }}{{ 107 }}](#p107)
+- #### [{{ Rest }}{{ 107 }}](#p107)
+- #### [{{ Companion Skills }}{{ 107 }}](#p107)
 }}
 
 {{pageNumber,auto}}
@@ -3557,6 +3557,7 @@ nature -> elemental -> wild -> nature
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
+- [[Moonbeam]]
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
@@ -3566,6 +3567,7 @@ nature -> elemental -> wild -> nature
 - [[Spike Growth]]
 - [[Sugestion]]
 - [[Web]]
+- [[Wither and Bloom ]]
 
 ### 3rd Circle
 - [[Campo de Força]]
@@ -4417,7 +4419,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 \page
 
 ### Espelho do Pântano (3 MP)
-<div class="spell-tags">divination trickery summon wild</div>
+<div class="spell-tags">divination no-arcane trickery summon wild</div>
 
 *3rd Circle*
 - **Execução:** 1 minuto
@@ -5057,6 +5059,27 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 
 
+### Moonbeam (2 MP)
+<div class="spell-tags">wild energy radiant holy sacred</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 18sqr
+- **Alvo:** quadrado de tamanho 2sqr
+- **Duração:** concentração
+- **Resistência:** PRE
+___
+
+A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
+
+When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a saving throw. It takes 3d10 radiant damage on a failed save, or half as much damage on a successful one.
+
+A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.
+
+On each of your turns after you cast this spell, you can use a movement action to move the beam up to 60 feet in any direction.
+
+- **+2:** aumente o dano em +1d10.
+
 ### Oração (3 MP)
 <div class="spell-tags">sacred boost occult holy curse enchantment trickery speech</div>
 
@@ -5087,7 +5110,8 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Stealth checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Perdição (1 MP)
 <div class="spell-tags">curse occult</div>
@@ -5102,8 +5126,7 @@ ___
 
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
-- **+2 PM:** aumenta as penalidades em –1.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta as penalidades em –1.
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -5146,7 +5169,8 @@ ___
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d8 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 - **+2 PM:** +1d8 acid damage..
-- **+1 PM:** +1 margem de ameaça..
+- **+1 PM:** +1 margem de ameaça..{{pageNumber,auto}}
+\page
 
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -5163,8 +5187,7 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
 
 ### Raio Solar (3 MP)
 <div class="spell-tags">holy sacred</div>
@@ -5213,7 +5236,8 @@ ___
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-- **+2PM:** increase the damage by +1d8.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
@@ -5226,8 +5250,7 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
@@ -5274,7 +5297,8 @@ You create three rays of fire and hurl them at targets within range. You can hur
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 - **+2PM:** +1 raio.
-- **+4PM:** +1d6 por raio.
+- **+4PM:** +1d6 por raio.{{pageNumber,auto}}
+\page
 
 ### Searing Smite (1 MP)
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
@@ -5289,8 +5313,7 @@ The next time you hit a creature with a melee weapon attack during the spell’s
   
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-- **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
-\page
+- **+1PM:** aumente o dano inicial em +1d6.
 
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
@@ -5342,7 +5365,8 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-
+{{pageNumber,auto}}
+\page
 
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
@@ -5355,8 +5379,7 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
-\page
+- **+1PM:** Add +1d8 to the dice rolled..
 
 ### Snare (1 MP)
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
@@ -5402,7 +5425,8 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
 
 ### Spider Climb (2 MP)
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no-sacred</div>
@@ -5416,8 +5440,7 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
@@ -5467,7 +5490,8 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Teia (1 MP)
 <div class="spell-tags">arcane creation feral wild</div>
@@ -5484,8 +5508,7 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
 
 ### Tentacle Twister (1 MP)
 <div class="spell-tags">occult unholy summon wild</div>
@@ -5530,7 +5553,8 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.
+- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
+\page
 
 ### Thunderous Smite (1 MP)
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
@@ -5543,8 +5567,7 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-- **+1PM:** Aumenta o dano inicial em +1d6.{{pageNumber,auto}}
-\page
+- **+1PM:** Aumenta o dano inicial em +1d6.
 
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
@@ -5588,7 +5611,8 @@ ___
 
 Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, causando 2d8+2 pontos de dano de eletricidade num acerto. Se o alvo usa armadura de metal você tem vantagem no ataque.
 
-- **cost:** description.
+- **cost:** description.{{pageNumber,auto}}
+\page
 
 ### Toque Vampírico (3 MP)
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
@@ -5605,8 +5629,7 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
-\page
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
 
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
@@ -5654,7 +5677,8 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
+\page
 
 ### Web (2 MP)
 <div class="spell-tags">feral wild trickery creation arcane</div>
@@ -5671,8 +5695,7 @@ Each creature that starts its turn in the webs or that enters them during its tu
 
 The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
@@ -5685,9 +5708,27 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 - **Crítico:** 20/3x
 ___
 
-A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target.
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
-- **cost:** description.
+- **+1PM:** increase the initial damage by +1d12.
+
+### Wither and Bloom  (2 MP)
+<div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** ponto (raio de 2sqr)
+- **Duração:** imediata
+- **Resistência:** CON
+___
+
+You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
+
+In addition, one creature of your choice in that area can regain HP equal to their level.
+
+- **+2PM:** Aumente o dano em +1d6.
+- **+2PM:** Escolha uma criatura a mais para recuperar HP.
 
 ### Word of Radiance (0 MP)
 <div class="spell-tags">holy sacred radiant energy speech no-trickery</div>
@@ -5701,7 +5742,8 @@ ___
 
 You utter a divine word, and burning radiance erupts from you. Each creature of your choice that you can see within range must succeed on a Constitution saving throw or take 1d6 radiant damage.
 
-- **+1PM:** increase the damage by +1d6.
+- **+1PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Zephyr Strike (1 MP)
 <div class="spell-tags">warmagic energy force thaumaturgy boost no-sacred wind nature</div>

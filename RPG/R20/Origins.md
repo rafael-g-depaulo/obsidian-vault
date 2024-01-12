@@ -30,8 +30,9 @@ Here's a list of origins:
 **Sorry, i wasn't paying attention**: -1 to Initiative rolls.
 
 ### Animal Friend
-**Attributes**: SEN +2, DEX +1, INT -1.
+**Attributes**: SEN +2, DEX +1, INT -1. Either **Abunak Enbassador** or **Companion: Pet**.
 **Animal Embassador**: double SEN mod in animal handling checks. can comunicate with animals through body language.
+**Companion: Pet**: You have a cute pet that kinda listens to you... sometimes.
 
 ### Initiate
 **Attributes**: PRE +2, INT +1, STR -1.

@@ -434,6 +434,10 @@
 - [[Life Transference]]
 - [[Toque Vampírico]]
 
+## No-arcane Spells
+### 3rd Circle
+- [[Espelho do Pântano]]
+
 ## No-nature Spells
 ### Cantrip
 - [[Toll the Dead]]

@@ -3,6 +3,7 @@
 TAGS:
 - #spell
 - #divination
+- #no-arcane
 - #trickery
 - #summon
 - #wild

@@ -7,6 +7,7 @@ DURATION: concentração
 %%CRIT: 20/2x%%
 RESISTANCE: PRE
 TAGS:
+- #spell
 - #wild 
 - #energy 
 - #radiant

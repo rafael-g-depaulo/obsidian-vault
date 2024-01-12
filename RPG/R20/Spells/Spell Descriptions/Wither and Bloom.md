@@ -7,6 +7,7 @@ DURATION: imediata
 %%CRIT: 20/2x%%
 RESISTANCE: CON
 TAGS: 
+- #spell
 - #occult
 - #curse 
 - #unholy  

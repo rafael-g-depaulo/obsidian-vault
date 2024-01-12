@@ -19,8 +19,8 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire d
 
 INCREASES:
 
-| cost | description   |
-| ---- | ------------- |
-| +2PM | +1 raio       |
-| +4PM | +1d6 por raio | 
+| cost | description |
+| ---- | ---- |
+| +2PM | +1 raio |
+| +4PM | +1d6 por raio |
 }}
