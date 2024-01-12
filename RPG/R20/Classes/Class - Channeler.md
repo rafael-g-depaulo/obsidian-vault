@@ -77,19 +77,28 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 | Wither and Bloom           |
 
-- **Potencial Arcano: XXXXXXXXX.** 1PM: pode re-rolar a tabela
-
-- **Potencial Arcano: XXXXXXXXXX.** XPM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level XXX
-
 - **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
 
 - **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
 
 - **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
 
-- **PODER 6.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano.
+- **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
 
-- **PODER 7.** gasta energia pra canalizar 2x em uma rodada. level 12
+- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo.
+
+| d6  | dano     |
+| --- | -------- |
+| 1   | impacto  |
+| 2   | cortante     |
+| 3   | gelo     |
+| 4   | elétrico |
+| 5   | fogo |
+| 6   | psíquico |
+
+- **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
+
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
 
 - **PODER 7.** Pode gastar **Carga Arcana** em vez de MP em **Invocar Feitiço**.
 
@@ -105,7 +114,10 @@ Misturando sua capacidade mágica e habilidade de invocar magias perdidas no pla
 Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
 }}
 
-- **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
+- **Potencial Arcano: Sorte.** 1 PM: pode re-rolar a tabela
+
+- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level 8 em Canalizador.
+
 
 - **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
 
