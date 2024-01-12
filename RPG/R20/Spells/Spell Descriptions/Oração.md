@@ -5,6 +5,7 @@ TAGS:
 - #sacred
 - #boost
 - #occult
+- #holy
 - #curse
 - #enchantment
 - #trickery

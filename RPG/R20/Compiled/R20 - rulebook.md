@@ -76,102 +76,103 @@ ___
 - ### [{{ Alquimist (Specialist) }}{{ 15 }}](#p15)
 - ### [{{ Beast Warrior (Martial) }}{{ 16 }}](#p16)
 - ### [{{ Blaster (Caster) }}{{ 18 }}](#p18)
-- ### [{{ Champion (Martial) }}{{ 19 }}](#p19)
-- ### [{{ Dancer (Specialist) }}{{ 21 }}](#p21)
-- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Juggernaut (Martial) }}{{ 24 }}](#p24)
-- ### [{{ Plantomancer (Caster) }}{{ 26 }}](#p26)
-- #### [{{  Spells }}{{ 27 }}](#p27)
-- ### [{{ Rogue (Specialist) }}{{ 29 }}](#p29)
-- ### [{{ Spelgard (Off-Caster) }}{{ 31 }}](#p31)
-- #### [{{  Spells }}{{ 32 }}](#p32)
-- ### [{{ Werebeast (Specialist) }}{{ 34 }}](#p34)
-- ### [{{ Witch (Caster) }}{{ 36 }}](#p36)
-- #### [{{ Witch's Brews }}{{ 37 }}](#p37)
-- #### [{{  Spells }}{{ 37 }}](#p37)
-- ### [{{ Combat }}{{ 39 }}](#p39)
-- #### [{{ Round }}{{ 39 }}](#p39)
-- #### [{{ Combat Actions }}{{ 39 }}](#p39)
-- #### [{{ Attacking and Defending }}{{ 39 }}](#p39)
-- #### [{{ Movement }}{{ 40 }}](#p40)
-- #### [{{ Maneuvers }}{{ 40 }}](#p40)
-- #### [{{ Manobras }}{{ 40 }}](#p40)
-- #### [{{ Tamanho }}{{ 41 }}](#p41)
-- ### [{{ Origins }}{{ 42 }}](#p42)
-- #### [{{ Origin Lists }}{{ 42 }}](#p42)
-- ### [{{ Proficiency }}{{ 43 }}](#p43)
-- ### [{{ General Feats }}{{ 44 }}](#p44)
-- ### [{{ Martial Feats }}{{ 45 }}](#p45)
-- ### [{{ Caster Feats }}{{ 46 }}](#p46)
-- ### [{{ Specialist Feats }}{{ 47 }}](#p47)
-- ### [{{ Companion Feats }}{{ 48 }}](#p48)
+- #### [{{  Spells }}{{ 18 }}](#p18)
+- ### [{{ Champion (Martial) }}{{ 20 }}](#p20)
+- ### [{{ Dancer (Specialist) }}{{ 22 }}](#p22)
+- ### [{{ Fighter (Martial) }}{{ 24 }}](#p24)
+- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
+- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
+- #### [{{  Spells }}{{ 28 }}](#p28)
+- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
+- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
+- #### [{{  Spells }}{{ 33 }}](#p33)
+- ### [{{ Werebeast (Specialist) }}{{ 35 }}](#p35)
+- ### [{{ Witch (Caster) }}{{ 37 }}](#p37)
+- #### [{{ Witch's Brews }}{{ 38 }}](#p38)
+- #### [{{  Spells }}{{ 38 }}](#p38)
+- ### [{{ Combat }}{{ 40 }}](#p40)
+- #### [{{ Round }}{{ 40 }}](#p40)
+- #### [{{ Combat Actions }}{{ 40 }}](#p40)
+- #### [{{ Attacking and Defending }}{{ 40 }}](#p40)
+- #### [{{ Movement }}{{ 41 }}](#p41)
+- #### [{{ Maneuvers }}{{ 41 }}](#p41)
+- #### [{{ Manobras }}{{ 41 }}](#p41)
+- #### [{{ Tamanho }}{{ 42 }}](#p42)
+- ### [{{ Origins }}{{ 43 }}](#p43)
+- #### [{{ Origin Lists }}{{ 43 }}](#p43)
+- ### [{{ Proficiency }}{{ 44 }}](#p44)
+- ### [{{ General Feats }}{{ 45 }}](#p45)
+- ### [{{ Martial Feats }}{{ 46 }}](#p46)
+- ### [{{ Caster Feats }}{{ 47 }}](#p47)
+- ### [{{ Specialist Feats }}{{ 48 }}](#p48)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Carga }}{{ 49 }}](#p49)
-- #### [{{ Sobrecarga }}{{ 49 }}](#p49)
-- ### [{{ Coins }}{{ 50 }}](#p50)
-- ### [{{ Equipment }}{{ 51 }}](#p51)
-- #### [{{ Simple Weapons }}{{ 51 }}](#p51)
-- #### [{{ Martial Weapons }}{{ 51 }}](#p51)
-- #### [{{ Armor }}{{ 51 }}](#p51)
-- ### [{{ Consumable Items }}{{ 54 }}](#p54)
-- #### [{{ Potions }}{{ 54 }}](#p54)
-- #### [{{ Poisons }}{{ 54 }}](#p54)
-- #### [{{ Óleos }}{{ 55 }}](#p55)
-- ### [{{ Spell Scrolls }}{{ 56 }}](#p56)
-- #### [{{ Casting a Spell from a Scroll }}{{ 56 }}](#p56)
-- #### [{{ Learning a Spell from a Scroll }}{{ 56 }}](#p56)
-- #### [{{ Creating Spell Scrolls }}{{ 56 }}](#p56)
-- #### [{{ Buying Spell Scrolls }}{{ 56 }}](#p56)
-- #### [{{ Ideas for change }}{{ 56 }}](#p56)
-- #### [{{ Working with item levels. }}{{ 56 }}](#p56)
-- ### [{{ Magic Items }}{{ 57 }}](#p57)
-- ### [{{ Runes }}{{ 59 }}](#p59)
-- ### [{{ Crafting }}{{ 60 }}](#p60)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 60 }}](#p60)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 60 }}](#p60)
-- ### [{{ Spells }}{{ 61 }}](#p61)
-- #### [{{ Learning Spells }}{{ 61 }}](#p61)
-- #### [{{ Prepared vs. Learned Spells }}{{ 61 }}](#p61)
-- #### [{{ Casting Spells }}{{ 61 }}](#p61)
-- #### [{{ Spell levels }}{{ 61 }}](#p61)
-- #### [{{ Spell Tags }}{{ 62 }}](#p62)
-- #### [{{ Flavor }}{{ 62 }}](#p62)
-- ### [{{ Spell Tags }}{{ 63 }}](#p63)
-- #### [{{ Tags }}{{ 63 }}](#p63)
-- ### [{{ Spell List }}{{ 64 }}](#p64)
-- #### [{{ All Spells }}{{ 64 }}](#p64)
-- ### [{{ Spells }}{{ 66 }}](#p66)
-- ### [{{ Contracts, Paladins & Entities }}{{ 100 }}](#p100)
-- #### [{{ Paladins }}{{ 100 }}](#p100)
-- #### [{{ Contract }}{{ 100 }}](#p100)
-- #### [{{ Favor }}{{ 100 }}](#p100)
-- #### [{{ Losing Favor }}{{ 100 }}](#p100)
-- #### [{{ Miracles }}{{ 100 }}](#p100)
-- ### [{{ Companions }}{{ 101 }}](#p101)
-- #### [{{ Stats }}{{ 101 }}](#p101)
-- #### [{{ Companion death }}{{ 101 }}](#p101)
-- #### [{{ Rest }}{{ 101 }}](#p101)
-- #### [{{ Companion Skills }}{{ 101 }}](#p101)
-- ### [{{ Conditions }}{{ 103 }}](#p103)
-- ### [{{ Rest & Recovery }}{{ 104 }}](#p104)
-- #### [{{ Provisions }}{{ 104 }}](#p104)
-- #### [{{ How to recover }}{{ 104 }}](#p104)
-- #### [{{ Skipping a Rest }}{{ 104 }}](#p104)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 104 }}](#p104)
-- ### [{{ Companions }}{{ 105 }}](#p105)
+- ### [{{ Companion Feats }}{{ 49 }}](#p49)
+- ### [{{ Carga }}{{ 50 }}](#p50)
+- #### [{{ Sobrecarga }}{{ 50 }}](#p50)
+- ### [{{ Coins }}{{ 51 }}](#p51)
+- ### [{{ Equipment }}{{ 52 }}](#p52)
+- #### [{{ Simple Weapons }}{{ 52 }}](#p52)
+- #### [{{ Martial Weapons }}{{ 52 }}](#p52)
+- #### [{{ Armor }}{{ 52 }}](#p52)
+- ### [{{ Consumable Items }}{{ 55 }}](#p55)
+- #### [{{ Potions }}{{ 55 }}](#p55)
+- #### [{{ Poisons }}{{ 55 }}](#p55)
+- #### [{{ Óleos }}{{ 56 }}](#p56)
+- ### [{{ Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Casting a Spell from a Scroll }}{{ 57 }}](#p57)
+- #### [{{ Learning a Spell from a Scroll }}{{ 57 }}](#p57)
+- #### [{{ Creating Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Buying Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Ideas for change }}{{ 57 }}](#p57)
+- #### [{{ Working with item levels. }}{{ 57 }}](#p57)
+- ### [{{ Magic Items }}{{ 58 }}](#p58)
+- ### [{{ Runes }}{{ 60 }}](#p60)
+- ### [{{ Crafting }}{{ 61 }}](#p61)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 61 }}](#p61)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 61 }}](#p61)
+- ### [{{ Spells }}{{ 62 }}](#p62)
+- #### [{{ Learning Spells }}{{ 62 }}](#p62)
+- #### [{{ Prepared vs. Learned Spells }}{{ 62 }}](#p62)
+- #### [{{ Casting Spells }}{{ 62 }}](#p62)
+- #### [{{ Spell levels }}{{ 62 }}](#p62)
+- #### [{{ Spell Tags }}{{ 63 }}](#p63)
+- #### [{{ Flavor }}{{ 63 }}](#p63)
+- ### [{{ Spell Tags }}{{ 64 }}](#p64)
+- #### [{{ Tags }}{{ 64 }}](#p64)
+- ### [{{ Spell List }}{{ 65 }}](#p65)
+- #### [{{ All Spells }}{{ 65 }}](#p65)
+- ### [{{ Spells }}{{ 67 }}](#p67)
+- ### [{{ Contracts, Paladins & Entities }}{{ 101 }}](#p101)
+- #### [{{ Paladins }}{{ 101 }}](#p101)
+- #### [{{ Contract }}{{ 101 }}](#p101)
+- #### [{{ Favor }}{{ 101 }}](#p101)
+- #### [{{ Losing Favor }}{{ 101 }}](#p101)
+- #### [{{ Miracles }}{{ 101 }}](#p101)
+- ### [{{ Companions }}{{ 102 }}](#p102)
+- #### [{{ Stats }}{{ 102 }}](#p102)
+- #### [{{ Companion death }}{{ 102 }}](#p102)
+- #### [{{ Rest }}{{ 102 }}](#p102)
+- #### [{{ Companion Skills }}{{ 102 }}](#p102)
+- ### [{{ Conditions }}{{ 104 }}](#p104)
+- ### [{{ Rest & Recovery }}{{ 105 }}](#p105)
+- #### [{{ Provisions }}{{ 105 }}](#p105)
+- #### [{{ How to recover }}{{ 105 }}](#p105)
+- #### [{{ Skipping a Rest }}{{ 105 }}](#p105)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 105 }}](#p105)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Stats }}{{ 105 }}](#p105)
-- #### [{{ Companion death }}{{ 105 }}](#p105)
-- #### [{{ Rest }}{{ 105 }}](#p105)
-- #### [{{ Companion Skills }}{{ 105 }}](#p105)
+- ### [{{ Companions }}{{ 106 }}](#p106)
+- #### [{{ Stats }}{{ 106 }}](#p106)
+- #### [{{ Companion death }}{{ 106 }}](#p106)
+- #### [{{ Rest }}{{ 106 }}](#p106)
+- #### [{{ Companion Skills }}{{ 106 }}](#p106)
 }}
 
 {{pageNumber,auto}}
@@ -962,7 +963,11 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 }}
 
 
+<!-- talvez mudar pra chaneler?? -->
+
 **Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+
+**Juntar Energia.** Movimento: Ganha X carga, +1 por círculo de magia usada no turno. Pode usar quando usa magia pra aumentar dano em +1d6 por carga.
 
 ### Tabela de invocação
 rola 1d6:
@@ -995,7 +1000,105 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 | Wither and Bloom           |
 
-PS: todas as magias são ofensivas/negativas/neutras, assim o personagem pode só mirar em inimigos e ter confiança que não vai curar/buffar um inimigo
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
+
+- **PODER EXEMPLO.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
+
+- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega. pré-requisito: poder de cima.
+
+- **PODER EXEMPLO.** ganha resistência a efeitos mágicos enquanto canaliza. pré-requisito: poder 2 acima.
+
+- **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
+
+- **PODER EXEMPLO.** gasta energia pra canalizar 2x em uma rodada. level 12
+
+- **PODER EXEMPLO.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: aumenta CD da magia
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
+
+- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
+
+- **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
+
+- **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
+
+### Spell List
+
+List of spells available for a Chaneler to learn.
+
+
+##  Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Control Flames]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Guidance]]
+- [[Lightning Lure]]
+- [[Magic Stone]]
+- [[Message]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Shape Water]]
+- [[Thunderclap]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
+
+### 1st Circle
+- [[Benção]]
+- [[Burning Hands]]
+- [[Catapult]]
+- [[Chaos Bolt]]
+- [[Despedaçar]]
+- [[Dissonant Whispers]]
+- [[Earth Tremor]]
+- [[Escuridão]]
+- [[Explosão de chamas]]
+- [[Feather Fall]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Ray of Sickness]]
+- [[Thunderwave]]
+- [[Witch Bolt]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
+
+### 2nd Circle
+- [[Aid]]
+- [[Binding Ice]]
+- [[Blindness Deafness]]
+- [[Calm Emotions]]
+- [[Continual Flame]]
+- [[Crown of Madness]]
+- [[Explosão Sonora]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Manto de Vento]]
+- [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
+- [[Ray of Enfeeblement]]
+- [[Scorching Ray]]
+- [[See invisibility]]
+
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
 
 {{pageNumber,auto}}
 \page
@@ -2019,7 +2122,7 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 {{note
 #### Poções Misteriosas
 
-Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
 
 ##### Efeitos Exotéricos
 
@@ -2039,6 +2142,16 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. 
+
+- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
+
+- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
+
+- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
+
+- **poder poção misteriosa 5.** (alguém toma sua poção) reação: re-rola os efeitos.
 
 
 
@@ -4945,7 +5058,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 
 ### Oração (3 MP)
-<div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
+<div class="spell-tags">sacred boost occult holy curse enchantment trickery speech</div>
 
 *3rd Circle*
 - **Execução:** padrão
@@ -5849,6 +5962,9 @@ When resting, expending more or less resources has an effect on the quality of t
 | 20 silver               | +1            |
 | 50 silver               | +2            |
 | 150 silver              | +3            |
+
+### Levar Mantimentos
+Cada 100 silver de mantimentos requer 1 espaço de inventário para guardar.
 
 ### Improving the condition
 A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.

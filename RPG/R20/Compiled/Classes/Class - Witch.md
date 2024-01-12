@@ -76,7 +76,7 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 {{note
 #### Poções Misteriosas
 
-Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
 
 ##### Efeitos Exotéricos
 
@@ -96,6 +96,16 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. 
+
+- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
+
+- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
+
+- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
+
+- **poder poção misteriosa 5.** (alguém toma sua poção) reação: re-rola os efeitos.
 
 
 

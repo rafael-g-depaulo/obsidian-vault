@@ -363,6 +363,7 @@
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 ### 3rd Circle
+- [[Oração]]
 - [[Raio Solar]]
 
 ## Ilusion Spells

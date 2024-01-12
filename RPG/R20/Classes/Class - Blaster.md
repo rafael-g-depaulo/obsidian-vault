@@ -100,3 +100,26 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
 
+### Spell List
+
+List of spells available for a Chaneler to learn.
+
+
+{{spell-list
+INCLUDE_TAGS:
+- unholy
+- boost
+- arcane
+- thaumaturgy
+- elemental
+- decay
+- energy
+
+EXCLUDE_TAGS:
+- recovery
+- holy
+- warmagic
+- wild
+
+MAX_LEVEL: 3
+}}

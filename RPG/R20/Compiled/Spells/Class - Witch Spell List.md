@@ -551,7 +551,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 \page
 
 ### Oração (3 MP)
-<div class="spell-tags">sacred boost occult curse enchantment trickery speech</div>
+<div class="spell-tags">sacred boost occult holy curse enchantment trickery speech</div>
 
 *3rd Circle*
 - **Execução:** padrão
