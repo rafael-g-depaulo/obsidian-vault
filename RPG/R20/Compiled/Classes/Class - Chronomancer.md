@@ -3,6 +3,11 @@ ideas change initiative of self (cost and buff) and others (buff and debuff)
 
 ### basic skill:
 -  **change initiative**: movement (1PM): increase or decrease a creature's initiative by 1d8
+- has feats to change it
+	- heal with increase
+	- dmg with decrease
+	- add movement buff
+	- do it while casting spell
 ### skill 2:
 - **Speed Up:** movement (4PM): Give a free movement action to 2 different allies of your choice
 

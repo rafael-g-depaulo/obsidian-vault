@@ -1,6 +1,6 @@
 {{pageNumber,auto}}
 \page
-# Alquimist (WIP) (Specialist)
+# Alquimist (Specialist)
 
 <style>.page#p1:after{ display:none; }</style>
 **HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
@@ -12,29 +12,29 @@
 **Resistências:** Strength.
 
 {{classTable,decoration,frame
-##### Alquimist (WIP)
+##### Alquimist
 | Level | Proficiency Bonus | Features |
 | :---: | :---------------: | :------- | 
 | 1st | +1 | Make Concoction? |
-| 2nd | +1 | Alquimist (WIP) Feat, Expertise |
-| 3rd | +2 | Alquimist (WIP) Feat |
-| 4th | +2 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 5th | +3 | Alquimist (WIP) Feat |
-| 6th | +3 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 7th | +4 | Alquimist (WIP) Feat |
-| 8th | +4 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 9th | +5 | Alquimist (WIP) Feat |
-| 10th | +5 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 11th | +6 | Alquimist (WIP) Feat |
-| 12th | +6 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 13th | +7 | Alquimist (WIP) Feat |
-| 14th | +7 | Alquimist (WIP) Feat |
-| 15th | +8 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 16th | +8 | Alquimist (WIP) Feat |
-| 17th | +9 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 18th | +9 | Alquimist (WIP) Feat |
-| 19th | +10 | Alquimist (WIP) Feat, Attribute Score Improvement |
-| 20th | +10 | Alquimist (WIP) Feat |
+| 2nd | +1 | Alquimist Feat, Expertise |
+| 3rd | +2 | Alquimist Feat |
+| 4th | +2 | Alquimist Feat, Attribute Score Improvement |
+| 5th | +3 | Alquimist Feat |
+| 6th | +3 | Alquimist Feat, Attribute Score Improvement |
+| 7th | +4 | Alquimist Feat |
+| 8th | +4 | Alquimist Feat, Attribute Score Improvement |
+| 9th | +5 | Alquimist Feat |
+| 10th | +5 | Alquimist Feat, Attribute Score Improvement |
+| 11th | +6 | Alquimist Feat |
+| 12th | +6 | Alquimist Feat, Attribute Score Improvement |
+| 13th | +7 | Alquimist Feat |
+| 14th | +7 | Alquimist Feat |
+| 15th | +8 | Alquimist Feat, Attribute Score Improvement |
+| 16th | +8 | Alquimist Feat |
+| 17th | +9 | Alquimist Feat, Attribute Score Improvement |
+| 18th | +9 | Alquimist Feat |
+| 19th | +10 | Alquimist Feat, Attribute Score Improvement |
+| 20th | +10 | Alquimist Feat |
 }}
 
 

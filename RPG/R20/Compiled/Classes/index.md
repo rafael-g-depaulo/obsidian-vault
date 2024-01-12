@@ -60,7 +60,7 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Summoner
+#### Blaster
 ###### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 
@@ -203,6 +203,77 @@ Important tips:
 
 {{pageNumber,auto}}
 \page
+# Alquimist (Specialist)
+
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
+
+**MP**: 5 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Strength.
+
+{{classTable,decoration,frame
+##### Alquimist
+| Level | Proficiency Bonus | Features |
+| :---: | :---------------: | :------- | 
+| 1st | +1 | Make Concoction? |
+| 2nd | +1 | Alquimist Feat, Expertise |
+| 3rd | +2 | Alquimist Feat |
+| 4th | +2 | Alquimist Feat, Attribute Score Improvement |
+| 5th | +3 | Alquimist Feat |
+| 6th | +3 | Alquimist Feat, Attribute Score Improvement |
+| 7th | +4 | Alquimist Feat |
+| 8th | +4 | Alquimist Feat, Attribute Score Improvement |
+| 9th | +5 | Alquimist Feat |
+| 10th | +5 | Alquimist Feat, Attribute Score Improvement |
+| 11th | +6 | Alquimist Feat |
+| 12th | +6 | Alquimist Feat, Attribute Score Improvement |
+| 13th | +7 | Alquimist Feat |
+| 14th | +7 | Alquimist Feat |
+| 15th | +8 | Alquimist Feat, Attribute Score Improvement |
+| 16th | +8 | Alquimist Feat |
+| 17th | +9 | Alquimist Feat, Attribute Score Improvement |
+| 18th | +9 | Alquimist Feat |
+| 19th | +10 | Alquimist Feat, Attribute Score Improvement |
+| 20th | +10 | Alquimist Feat |
+}}
+
+
+
+**Elixir Experimental.** Spend PM, get potion with random benefitial effect.
+
+| d6  | Efeito Positivo                                                                                         |
+|:---:|:------------------------------------------------------------------------------------------------------- |
+|  1  | 2d4+INT PV                                                                                              |
+|  2  | +2sqr (3m) velocidade de movimento                                                                      |
+|  3  | +1 Defesa pela cena                                                                                     |
+|  4  | +1d4 em rolagens de ataque e testes de resistência                                                      |
+|  5  | 1d4 PM temporários                                                                                      |
+|  6  | 50% de chance de perder sua ação de movimento ou ganhar uma ação padrão extra no início dos seus turnos |
+
+**Poison.** Spend PM, get poison.
+
+**Ingredients.** Can store up to X ingredients. If you use them, the MP cost of your stuff is decreased.
+
+Ideia: cada dia tem x poções positivas/negativas, limitado pelos ingredientes que coletou.
+
+---
+
+### Alquimist Feats
+
+Begining at level 2, every time you gain a level in Alquimist you gain a Alquimist Feat. You may instead of a Alquimist feat take a Martial or General Feat of your choice.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Alcóolito.**
+{{pageNumber,auto}}
+\page
 # Beast Warrior (Martial)
 
 <style>.page#p1:after{ display:none; }</style>
@@ -295,6 +366,45 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Fúria Raivosa**. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
+archetype: Caster
+
+habilidade principal:
+
+**Summon.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+
+### Tabela de invocação
+rola 1d6:
+- 6: segundo círculo
+- 3-5: primeiro círculo
+- 1-2: truque
+
+Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
+
+### Truque
+| d10  | Magia          |
+| ---- | -------------- |
+| 1-3  | Energy Blast   |
+| 4-8  | Chilling Touch |
+| 9-10 | Firebolt       | 
+
+### 1º Círculo
+| d10  | Magia         |
+| ---- | ------------- |
+| 1-3  | Bane          |
+| 4-6  | Magic Missile |
+| 7-8  | Sleep         |
+| 9-10 | Witch Bolt    |
+
+### 2º Círculo
+| d10  | Magia                      |
+| ---- | -------------------------- |
+| 1-2  | Scorching Ray              |
+| 3-4  | Hold Person                |
+| 5-7  | Maximilian's Earthen Grasp |
+| 8-10 | Wither and Bloom           |
+
+PS: todas as magias são ofensivas/negativas/neutras, assim o personagem pode só mirar em inimigos e ter confiança que não vai curar/buffar um inimigo
+
 {{pageNumber,auto}}
 \page
 # Champion (Martial)
@@ -383,6 +493,11 @@ ideas change initiative of self (cost and buff) and others (buff and debuff)
 
 ### basic skill:
 -  **change initiative**: movement (1PM): increase or decrease a creature's initiative by 1d8
+- has feats to change it
+	- heal with increase
+	- dmg with decrease
+	- add movement buff
+	- do it while casting spell
 ### skill 2:
 - **Speed Up:** movement (4PM): Give a free movement action to 2 different allies of your choice
 

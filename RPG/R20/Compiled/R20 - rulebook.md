@@ -73,103 +73,104 @@ ___
 - #### [{{ List of Classes }}{{ 12 }}](#p12)
 - #### [{{ Resumo e comparação das classes }}{{ 13 }}](#p13)
 - #### [{{ Creating a Class }}{{ 14 }}](#p14)
-- ### [{{ Beast Warrior (Martial) }}{{ 15 }}](#p15)
-- ### [{{ Champion (Martial) }}{{ 17 }}](#p17)
-- ### [{{ Dancer (Specialist) }}{{ 19 }}](#p19)
-- ### [{{ Fighter (Martial) }}{{ 21 }}](#p21)
-- ### [{{ Juggernaut (Martial) }}{{ 22 }}](#p22)
-- ### [{{ Plantomancer (Caster) }}{{ 24 }}](#p24)
-- #### [{{  Spells }}{{ 25 }}](#p25)
-- ### [{{ Rogue (Specialist) }}{{ 27 }}](#p27)
-- ### [{{ Spelgard (Off-Caster) }}{{ 29 }}](#p29)
-- #### [{{  Spells }}{{ 30 }}](#p30)
-- ### [{{ Werebeast (Specialist) }}{{ 32 }}](#p32)
-- ### [{{ Witch (Caster) }}{{ 34 }}](#p34)
-- #### [{{ Witch's Brews }}{{ 35 }}](#p35)
-- #### [{{  Spells }}{{ 35 }}](#p35)
-- ### [{{ Combat }}{{ 37 }}](#p37)
-- #### [{{ Round }}{{ 37 }}](#p37)
-- #### [{{ Combat Actions }}{{ 37 }}](#p37)
-- #### [{{ Attacking and Defending }}{{ 37 }}](#p37)
-- #### [{{ Movement }}{{ 38 }}](#p38)
-- #### [{{ Maneuvers }}{{ 38 }}](#p38)
-- #### [{{ Manobras }}{{ 38 }}](#p38)
-- #### [{{ Tamanho }}{{ 39 }}](#p39)
-- ### [{{ Origins }}{{ 40 }}](#p40)
-- #### [{{ Origin Lists }}{{ 40 }}](#p40)
-- ### [{{ Proficiency }}{{ 41 }}](#p41)
-- ### [{{ General Feats }}{{ 42 }}](#p42)
-- ### [{{ Martial Feats }}{{ 43 }}](#p43)
-- ### [{{ Caster Feats }}{{ 44 }}](#p44)
-- ### [{{ Specialist Feats }}{{ 45 }}](#p45)
-- ### [{{ Companion Feats }}{{ 46 }}](#p46)
-- ### [{{ Carga }}{{ 47 }}](#p47)
-- #### [{{ Sobrecarga }}{{ 47 }}](#p47)
+- ### [{{ Alquimist (Specialist) }}{{ 15 }}](#p15)
+- ### [{{ Beast Warrior (Martial) }}{{ 16 }}](#p16)
+- ### [{{ Champion (Martial) }}{{ 18 }}](#p18)
+- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
+- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
+- ### [{{ Juggernaut (Martial) }}{{ 23 }}](#p23)
+- ### [{{ Plantomancer (Caster) }}{{ 25 }}](#p25)
+- #### [{{  Spells }}{{ 26 }}](#p26)
+- ### [{{ Rogue (Specialist) }}{{ 28 }}](#p28)
+- ### [{{ Spelgard (Off-Caster) }}{{ 30 }}](#p30)
+- #### [{{  Spells }}{{ 31 }}](#p31)
+- ### [{{ Werebeast (Specialist) }}{{ 33 }}](#p33)
+- ### [{{ Witch (Caster) }}{{ 35 }}](#p35)
+- #### [{{ Witch's Brews }}{{ 36 }}](#p36)
+- #### [{{  Spells }}{{ 36 }}](#p36)
+- ### [{{ Combat }}{{ 38 }}](#p38)
+- #### [{{ Round }}{{ 38 }}](#p38)
+- #### [{{ Combat Actions }}{{ 38 }}](#p38)
+- #### [{{ Attacking and Defending }}{{ 38 }}](#p38)
+- #### [{{ Movement }}{{ 39 }}](#p39)
+- #### [{{ Maneuvers }}{{ 39 }}](#p39)
+- #### [{{ Manobras }}{{ 39 }}](#p39)
+- #### [{{ Tamanho }}{{ 40 }}](#p40)
+- ### [{{ Origins }}{{ 41 }}](#p41)
+- #### [{{ Origin Lists }}{{ 41 }}](#p41)
+- ### [{{ Proficiency }}{{ 42 }}](#p42)
+- ### [{{ General Feats }}{{ 43 }}](#p43)
+- ### [{{ Martial Feats }}{{ 44 }}](#p44)
+- ### [{{ Caster Feats }}{{ 45 }}](#p45)
+- ### [{{ Specialist Feats }}{{ 46 }}](#p46)
+- ### [{{ Companion Feats }}{{ 47 }}](#p47)
+- ### [{{ Carga }}{{ 48 }}](#p48)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Coins }}{{ 48 }}](#p48)
-- ### [{{ Equipment }}{{ 49 }}](#p49)
-- #### [{{ Simple Weapons }}{{ 49 }}](#p49)
-- #### [{{ Martial Weapons }}{{ 49 }}](#p49)
-- #### [{{ Armor }}{{ 49 }}](#p49)
-- ### [{{ Consumable Items }}{{ 52 }}](#p52)
-- #### [{{ Potions }}{{ 52 }}](#p52)
-- #### [{{ Poisons }}{{ 52 }}](#p52)
-- #### [{{ Óleos }}{{ 53 }}](#p53)
-- ### [{{ Spell Scrolls }}{{ 54 }}](#p54)
-- #### [{{ Casting a Spell from a Scroll }}{{ 54 }}](#p54)
-- #### [{{ Learning a Spell from a Scroll }}{{ 54 }}](#p54)
-- #### [{{ Creating Spell Scrolls }}{{ 54 }}](#p54)
-- #### [{{ Buying Spell Scrolls }}{{ 54 }}](#p54)
-- #### [{{ Ideas for change }}{{ 54 }}](#p54)
-- #### [{{ Working with item levels. }}{{ 54 }}](#p54)
-- ### [{{ Magic Items }}{{ 55 }}](#p55)
-- ### [{{ Runes }}{{ 57 }}](#p57)
-- ### [{{ Crafting }}{{ 58 }}](#p58)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 58 }}](#p58)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 58 }}](#p58)
-- ### [{{ Spells }}{{ 59 }}](#p59)
-- #### [{{ Learning Spells }}{{ 59 }}](#p59)
-- #### [{{ Prepared vs. Learned Spells }}{{ 59 }}](#p59)
-- #### [{{ Casting Spells }}{{ 59 }}](#p59)
-- #### [{{ Spell levels }}{{ 59 }}](#p59)
-- #### [{{ Spell Tags }}{{ 60 }}](#p60)
-- #### [{{ Flavor }}{{ 60 }}](#p60)
-- ### [{{ Spell Tags }}{{ 61 }}](#p61)
-- #### [{{ Tags }}{{ 61 }}](#p61)
-- ### [{{ Spell List }}{{ 62 }}](#p62)
-- #### [{{ All Spells }}{{ 62 }}](#p62)
-- ### [{{ Spells }}{{ 64 }}](#p64)
-- ### [{{ Contracts, Paladins & Entities }}{{ 98 }}](#p98)
-- #### [{{ Paladins }}{{ 98 }}](#p98)
-- #### [{{ Contract }}{{ 98 }}](#p98)
-- #### [{{ Favor }}{{ 98 }}](#p98)
-- #### [{{ Losing Favor }}{{ 98 }}](#p98)
-- #### [{{ Miracles }}{{ 98 }}](#p98)
-- ### [{{ Companions }}{{ 99 }}](#p99)
-- #### [{{ Stats }}{{ 99 }}](#p99)
-- #### [{{ Companion death }}{{ 99 }}](#p99)
-- #### [{{ Rest }}{{ 99 }}](#p99)
-- #### [{{ Companion Skills }}{{ 99 }}](#p99)
-- ### [{{ Conditions }}{{ 101 }}](#p101)
-- ### [{{ Rest & Recovery }}{{ 102 }}](#p102)
-- #### [{{ Provisions }}{{ 102 }}](#p102)
-- #### [{{ How to recover }}{{ 102 }}](#p102)
-- #### [{{ Skipping a Rest }}{{ 102 }}](#p102)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 102 }}](#p102)
-- ### [{{ Companions }}{{ 103 }}](#p103)
-- #### [{{ Stats }}{{ 103 }}](#p103)
-- #### [{{ Companion death }}{{ 103 }}](#p103)
+- #### [{{ Sobrecarga }}{{ 48 }}](#p48)
+- ### [{{ Coins }}{{ 49 }}](#p49)
+- ### [{{ Equipment }}{{ 50 }}](#p50)
+- #### [{{ Simple Weapons }}{{ 50 }}](#p50)
+- #### [{{ Martial Weapons }}{{ 50 }}](#p50)
+- #### [{{ Armor }}{{ 50 }}](#p50)
+- ### [{{ Consumable Items }}{{ 53 }}](#p53)
+- #### [{{ Potions }}{{ 53 }}](#p53)
+- #### [{{ Poisons }}{{ 53 }}](#p53)
+- #### [{{ Óleos }}{{ 54 }}](#p54)
+- ### [{{ Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Casting a Spell from a Scroll }}{{ 55 }}](#p55)
+- #### [{{ Learning a Spell from a Scroll }}{{ 55 }}](#p55)
+- #### [{{ Creating Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Buying Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Ideas for change }}{{ 55 }}](#p55)
+- #### [{{ Working with item levels. }}{{ 55 }}](#p55)
+- ### [{{ Magic Items }}{{ 56 }}](#p56)
+- ### [{{ Runes }}{{ 58 }}](#p58)
+- ### [{{ Crafting }}{{ 59 }}](#p59)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 59 }}](#p59)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 59 }}](#p59)
+- ### [{{ Spells }}{{ 60 }}](#p60)
+- #### [{{ Learning Spells }}{{ 60 }}](#p60)
+- #### [{{ Prepared vs. Learned Spells }}{{ 60 }}](#p60)
+- #### [{{ Casting Spells }}{{ 60 }}](#p60)
+- #### [{{ Spell levels }}{{ 60 }}](#p60)
+- #### [{{ Spell Tags }}{{ 61 }}](#p61)
+- #### [{{ Flavor }}{{ 61 }}](#p61)
+- ### [{{ Spell Tags }}{{ 62 }}](#p62)
+- #### [{{ Tags }}{{ 62 }}](#p62)
+- ### [{{ Spell List }}{{ 63 }}](#p63)
+- #### [{{ All Spells }}{{ 63 }}](#p63)
+- ### [{{ Spells }}{{ 65 }}](#p65)
+- ### [{{ Contracts, Paladins & Entities }}{{ 99 }}](#p99)
+- #### [{{ Paladins }}{{ 99 }}](#p99)
+- #### [{{ Contract }}{{ 99 }}](#p99)
+- #### [{{ Favor }}{{ 99 }}](#p99)
+- #### [{{ Losing Favor }}{{ 99 }}](#p99)
+- #### [{{ Miracles }}{{ 99 }}](#p99)
+- ### [{{ Companions }}{{ 100 }}](#p100)
+- #### [{{ Stats }}{{ 100 }}](#p100)
+- #### [{{ Companion death }}{{ 100 }}](#p100)
+- #### [{{ Rest }}{{ 100 }}](#p100)
+- #### [{{ Companion Skills }}{{ 100 }}](#p100)
+- ### [{{ Conditions }}{{ 102 }}](#p102)
+- ### [{{ Rest & Recovery }}{{ 103 }}](#p103)
+- #### [{{ Provisions }}{{ 103 }}](#p103)
+- #### [{{ How to recover }}{{ 103 }}](#p103)
+- #### [{{ Skipping a Rest }}{{ 103 }}](#p103)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 103 }}](#p103)
+- ### [{{ Companions }}{{ 104 }}](#p104)
+- #### [{{ Stats }}{{ 104 }}](#p104)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Rest }}{{ 103 }}](#p103)
-- #### [{{ Companion Skills }}{{ 103 }}](#p103)
+- #### [{{ Companion death }}{{ 104 }}](#p104)
+- #### [{{ Rest }}{{ 104 }}](#p104)
+- #### [{{ Companion Skills }}{{ 104 }}](#p104)
 }}
 
 {{pageNumber,auto}}
@@ -614,7 +615,7 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Summoner
+#### Blaster
 ###### Description
 "A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
 
@@ -757,6 +758,77 @@ Important tips:
 
 {{pageNumber,auto}}
 \page
+# Alquimist (Specialist)
+
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 10 (+CON mod.) maximum hit points, and gain an extra 3 (+CON mod.) per level.
+
+**MP**: 5 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Strength.
+
+{{classTable,decoration,frame
+##### Alquimist
+| Level | Proficiency Bonus | Features |
+| :---: | :---------------: | :------- | 
+| 1st | +1 | Make Concoction? |
+| 2nd | +1 | Alquimist Feat, Expertise |
+| 3rd | +2 | Alquimist Feat |
+| 4th | +2 | Alquimist Feat, Attribute Score Improvement |
+| 5th | +3 | Alquimist Feat |
+| 6th | +3 | Alquimist Feat, Attribute Score Improvement |
+| 7th | +4 | Alquimist Feat |
+| 8th | +4 | Alquimist Feat, Attribute Score Improvement |
+| 9th | +5 | Alquimist Feat |
+| 10th | +5 | Alquimist Feat, Attribute Score Improvement |
+| 11th | +6 | Alquimist Feat |
+| 12th | +6 | Alquimist Feat, Attribute Score Improvement |
+| 13th | +7 | Alquimist Feat |
+| 14th | +7 | Alquimist Feat |
+| 15th | +8 | Alquimist Feat, Attribute Score Improvement |
+| 16th | +8 | Alquimist Feat |
+| 17th | +9 | Alquimist Feat, Attribute Score Improvement |
+| 18th | +9 | Alquimist Feat |
+| 19th | +10 | Alquimist Feat, Attribute Score Improvement |
+| 20th | +10 | Alquimist Feat |
+}}
+
+
+
+**Elixir Experimental.** Spend PM, get potion with random benefitial effect.
+
+| d6  | Efeito Positivo                                                                                         |
+|:---:|:------------------------------------------------------------------------------------------------------- |
+|  1  | 2d4+INT PV                                                                                              |
+|  2  | +2sqr (3m) velocidade de movimento                                                                      |
+|  3  | +1 Defesa pela cena                                                                                     |
+|  4  | +1d4 em rolagens de ataque e testes de resistência                                                      |
+|  5  | 1d4 PM temporários                                                                                      |
+|  6  | 50% de chance de perder sua ação de movimento ou ganhar uma ação padrão extra no início dos seus turnos |
+
+**Poison.** Spend PM, get poison.
+
+**Ingredients.** Can store up to X ingredients. If you use them, the MP cost of your stuff is decreased.
+
+Ideia: cada dia tem x poções positivas/negativas, limitado pelos ingredientes que coletou.
+
+---
+
+### Alquimist Feats
+
+Begining at level 2, every time you gain a level in Alquimist you gain a Alquimist Feat. You may instead of a Alquimist feat take a Martial or General Feat of your choice.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Feat Example**. Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
+
+- **Alcóolito.**
+{{pageNumber,auto}}
+\page
 # Beast Warrior (Martial)
 
 <style>.page#p1:after{ display:none; }</style>
@@ -849,6 +921,45 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Fúria Raivosa**. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
+archetype: Caster
+
+habilidade principal:
+
+**Summon.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+
+### Tabela de invocação
+rola 1d6:
+- 6: segundo círculo
+- 3-5: primeiro círculo
+- 1-2: truque
+
+Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
+
+### Truque
+| d10  | Magia          |
+| ---- | -------------- |
+| 1-3  | Energy Blast   |
+| 4-8  | Chilling Touch |
+| 9-10 | Firebolt       | 
+
+### 1º Círculo
+| d10  | Magia         |
+| ---- | ------------- |
+| 1-3  | Bane          |
+| 4-6  | Magic Missile |
+| 7-8  | Sleep         |
+| 9-10 | Witch Bolt    |
+
+### 2º Círculo
+| d10  | Magia                      |
+| ---- | -------------------------- |
+| 1-2  | Scorching Ray              |
+| 3-4  | Hold Person                |
+| 5-7  | Maximilian's Earthen Grasp |
+| 8-10 | Wither and Bloom           |
+
+PS: todas as magias são ofensivas/negativas/neutras, assim o personagem pode só mirar em inimigos e ter confiança que não vai curar/buffar um inimigo
+
 {{pageNumber,auto}}
 \page
 # Champion (Martial)
@@ -937,6 +1048,11 @@ ideas change initiative of self (cost and buff) and others (buff and debuff)
 
 ### basic skill:
 -  **change initiative**: movement (1PM): increase or decrease a creature's initiative by 1d8
+- has feats to change it
+	- heal with increase
+	- dmg with decrease
+	- add movement buff
+	- do it while casting spell
 ### skill 2:
 - **Speed Up:** movement (4PM): Give a free movement action to 2 different allies of your choice
 
