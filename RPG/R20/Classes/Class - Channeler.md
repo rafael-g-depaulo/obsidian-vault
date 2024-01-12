@@ -44,8 +44,7 @@ MULTI_FEATURES:
 
 **Juntar Energia.** Movimento: Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
 
-Toda magia que causa dano ganha a modificação:
-- **+X Cargas Arcanas:** aumenta o dano inicial em +1d6 do elemento da magia
+**Faísca Mágica: Poder** (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano inicial em +1d6 do elemento da magia. (Ver: **Faíscas Mágicas e Potenciais Arcanos**)
 
 ### Tabela de invocação
 rola 1d6:
@@ -97,6 +96,10 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 - **PODER 8.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
 
 - **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
+
+{{class-note "Faíscas Mágicas e Potenciais Arcanos"
+Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**. Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**.
+}}
 
 - **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
 
