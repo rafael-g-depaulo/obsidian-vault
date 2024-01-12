@@ -58,12 +58,12 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Blaster
+#### Channeler
 ###### Description
-"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
+"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Canalizadora focada em magias de fogo. Grande tempo de concentração seguido por um resultado explosivo e obliterador, esse é o método de um canalizador.
 
 ###### Mechanics
-Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
+Summon (invoca uma magia ofensiva de forma aleatória em um inimigo).
 
 #### Plantomancer
 ###### Description
@@ -124,13 +124,13 @@ Can summon and control low CR animals. Probably kill it in favor of expanding th
 ##### Casters
 ____
 
-| Classe             | need to Buff/Nerf?    | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------------ | --- |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch              |     | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer       |     | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith          |     | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner           |     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
-| Chronomancer (TBI) |     | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
+| Classe             | need to Buff/Nerf? | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ | ------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              |                    | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       |                    | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          |                    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Channeler          |                    | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) |                    | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
