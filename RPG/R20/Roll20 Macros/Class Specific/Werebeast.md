@@ -1,3 +1,15 @@
+
+## Info atualizado
+```
+&{template:default} {{name=Info @{character_name} (lv @{Level})}} {{HP=[[@{HP}]]/[[@{Max-HP}]]}} {{MP=[[@{MP}]]/[[@{Max-MP}]]}} ?{Forma?|humana, &lbrace;&lbrace; Defesa=@{defense_humano} &rbrace;&rbrace; &lbrace;&lbrace; Evasão=@{dodge} &rbrace;&rbrace; &lbrace;&lbrace; Guarda=@{guard} &rbrace;&rbrace;  |lobisomem, &lbrace;&lbrace;Defesa = @{defense_besta} &rbrace;&rbrace; &lbrace;&lbrace; Evasão = @{dodge_besta} &rbrace;&rbrace; &lbrace;&lbrace; Guarda= @{guard_besta} &rbrace;&rbrace; }
+```
+
+## defense_besta
+```
+[[ 10 + [[ {@{guard_besta}&#44;@{dodge_besta}}kh1 ]][max(guarda&#44; evasão)]  + @{bonus_defense} ]]
+```
+
+
 ## Beast Form
 ```
 &{template:deafault} {{name=Transformação (@{character_name})}} {{Execução=Completa}}
@@ -15,3 +27,4 @@
 ## {ATB}\_humano
 
 ## {ATB}\_besta
+
