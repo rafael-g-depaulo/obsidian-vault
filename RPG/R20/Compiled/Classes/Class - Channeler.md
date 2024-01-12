@@ -9,7 +9,7 @@
 
 **Equipment Proficiencies:** NONE.
 
-**Resistências:** Presence.
+**Resistências:** Constituition.
 
 **Spellcasting Attribute:** PRE.
 

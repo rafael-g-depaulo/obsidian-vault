@@ -1019,7 +1019,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **Equipment Proficiencies:** NONE.
 
-**Resistências:** Presence.
+**Resistências:** Constituition.
 
 **Spellcasting Attribute:** PRE.
 
