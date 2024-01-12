@@ -77,11 +77,19 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 | Wither and Bloom           |
 
+### Channeler Feats
+
+Begining at level 2, every time you gain a level in Channeler you gain a Channeler Feat. You may instead of a Channeler feat take a Castert or General Feat of your choice.
+
 - **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
 
 - **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
 
 - **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
+
+- **Reinforçamento Mágico.** Invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal.
+
+- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
 
 - **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
 
@@ -100,13 +108,13 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
 
-- **PODER 7.** Pode gastar **Carga Arcana** em vez de MP em **Invocar Feitiço**.
+- **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 
-- **PODER 7.** +2PM Ganha **Carga Arcana** igual ao círculo de magia invocada.
-
-- **PODER 8.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
+- **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pré-requisito: *Level 6 Canalizador*.
 
 - **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
+
+- **Inocação Sortuda.** Durante **Invocar Feitiço**, você pode pagar 1PM uma vez para re-rolar o círculo da magia lançada.
 
 {{class-note "Faíscas Mágicas e Potenciais Arcanos"
 Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
@@ -114,22 +122,17 @@ Misturando sua capacidade mágica e habilidade de invocar magias perdidas no pla
 Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
 }}
 
-- **Potencial Arcano: Sorte.** 1 PM: pode re-rolar a tabela
+- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: *Level 8 em Canalizador*. (ainda tem que pagar o custo normal da magia)
 
-- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level 8 em Canalizador.
+- **Faísca Mágica: Velocidade.**  5 **Carga Arcana**: diminui execução em um passo (completa -> padrão, padrão -> movimento, movimento -> livre).
 
+- **Faísca Mágica: Dispersão.**  3 **Cargas Arcanas**: aumenta o número de alvos em +1.
 
-- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
+- **Faísca Mágica: Visão.**  1 **Carga Arcana**: dobra o alcance.
 
-- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
+- **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
-- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: dobra o alcance.
-
-- **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
-
-- **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
-
-- **Energia Diferente.** Movimento: Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.
+- **Escudo Arcano.** Movimento: Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.
 
 ### Spell List
 
