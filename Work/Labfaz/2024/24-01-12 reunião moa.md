@@ -1,15 +1,12 @@
-### Promessas oficiais
+## Promessas oficiais de entrega
 - manutenção
 - diagnóstico e análise de requisitos
-- evolutivo
-- cursos????????/
+- projeto evolutivo (arquitetura)
 - blog
 
 ## Disponibilização do aplicativo
 lançamento previsto: 15/02-23/02
 - plataforma wix.
-
-### desejos
 
 ## Planejamento
 páginas
@@ -33,7 +30,10 @@ wix tem uns problemas, tipo com a caixinha de de libras, e não tem por padrão 
 - wix? (provavelmente wix)
 - squarespace
 
+## Organização de acesso e arquivo de entregáveis
 
 # Tarefas
 - [ ] pesquisar e apresentar semana que vem as plataformas
 - [ ] email
+	- [ ] pegar com o thales
+	- [ ] imediatamente falar com a Moa
