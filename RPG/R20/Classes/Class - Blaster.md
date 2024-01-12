@@ -39,6 +39,8 @@ MULTI_FEATURES:
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
 
+**Juntar Energia.** Movimento: Ganha X carga, +1 por círculo de magia usada no turno. Pode usar quando usa magia pra aumentar dano em +1d6 por carga.
+
 ### Tabela de invocação
 rola 1d6:
 - 6: segundo círculo
@@ -74,10 +76,27 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
 
-- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega.
+- **PODER EXEMPLO.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
+
+- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega. pré-requisito: poder de cima.
+
+- **PODER EXEMPLO.** ganha resistência a efeitos mágicos enquanto canaliza. pré-requisito: poder 2 acima.
 
 - **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
 
-- **PODER EXEMPLO.** pode canalizar 2x em uma rodada. level 12
+- **PODER EXEMPLO.** gasta energia pra canalizar 2x em uma rodada. level 12
 
 - **PODER EXEMPLO.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: aumenta CD da magia
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
+
+- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
+
+- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
+
+- **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
+
+- **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
+
