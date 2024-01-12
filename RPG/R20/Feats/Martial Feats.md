@@ -6,7 +6,7 @@
   - Climbing doesn’t halve your speed.
   - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
-**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação (2PM): some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
+**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação: some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
 
 **Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
 
