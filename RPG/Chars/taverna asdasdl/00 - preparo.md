@@ -66,7 +66,7 @@ companion: mobile (6sqr flying)
 
 ## Pet
 Tier 2
-HP: 3 + 2\*3
+HP: 3x3 + 2\*3
 Defense: 10+2
 Movement: 6sqr flying
 

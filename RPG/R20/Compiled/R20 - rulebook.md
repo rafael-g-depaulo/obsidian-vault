@@ -5859,8 +5859,7 @@ During combat, the Companion acts on the same initiative as their master. The Co
 
 ## Stats
 The Companion's maximum HP is calculated by:
-- **Player\_Level + (Companion\_Tier * Player\_SEN\_MOD)**
-
+- **3 \* PC\_Level + (Companion\_Tier \* PC\_SEN\_MOD)**
 The Companion has no MP, and uses their master's MP for their ability that cost MP.
 
 The Companion has Defense equal to:
@@ -6093,8 +6092,7 @@ During combat, the Companion acts on the same initiative as their master. The Co
 
 ## Stats
 The Companion's maximum HP is calculated by:
-- **Player\_Level + (Companion\_Tier * Player\_SEN\_MOD)**
-
+- **3 \* PC\_Level + (Companion\_Tier \* PC\_SEN\_MOD)**
 The Companion has no MP, and uses their master's MP for their ability that cost MP.
 
 The Companion has Defense equal to:
