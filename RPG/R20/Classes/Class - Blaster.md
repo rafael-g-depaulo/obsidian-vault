@@ -72,20 +72,12 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
 
-- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level 12
+- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
 
 - **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega.
 
 - **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
 
-- **PODER EXEMPLO.** pode canalizar
+- **PODER EXEMPLO.** pode canalizar 2x em uma rodada. level 12
 
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+- **PODER EXEMPLO.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
