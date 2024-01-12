@@ -111,13 +111,15 @@ ___
 {{toc,wide
 # Table Of Contents
 - ### [{{ Companion Feats }}{{ 49 }}](#p49)
-- ### [{{ Carga }}{{ 50 }}](#p50)
-- #### [{{ Sobrecarga }}{{ 50 }}](#p50)
-- ### [{{ Coins }}{{ 51 }}](#p51)
-- ### [{{ Equipment }}{{ 52 }}](#p52)
-- #### [{{ Simple Weapons }}{{ 52 }}](#p52)
-- #### [{{ Martial Weapons }}{{ 52 }}](#p52)
-- #### [{{ Armor }}{{ 52 }}](#p52)
+- ### [{{ Starting Items }}{{ 50 }}](#p50)
+- ### [{{ Carga }}{{ 51 }}](#p51)
+- #### [{{ Sobrecarga }}{{ 51 }}](#p51)
+- ### [{{ Coins }}{{ 52 }}](#p52)
+- ### [{{ Equipment }}{{ 53 }}](#p53)
+- #### [{{ Simple Weapons }}{{ 53 }}](#p53)
+- #### [{{ Martial Weapons }}{{ 53 }}](#p53)
+- #### [{{ Armor }}{{ 53 }}](#p53)
+- #### [{{ Magic Staves }}{{ 54 }}](#p54)
 - ### [{{ Consumable Items }}{{ 55 }}](#p55)
 - #### [{{ Potions }}{{ 55 }}](#p55)
 - #### [{{ Poisons }}{{ 55 }}](#p55)
@@ -161,13 +163,13 @@ ___
 - ### [{{ Rest & Recovery }}{{ 106 }}](#p106)
 - #### [{{ Provisions }}{{ 106 }}](#p106)
 - #### [{{ How to recover }}{{ 106 }}](#p106)
-- #### [{{ Skipping a Rest }}{{ 106 }}](#p106)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 106 }}](#p106)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
+- #### [{{ Skipping a Rest }}{{ 106 }}](#p106)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 106 }}](#p106)
 - ### [{{ Companions }}{{ 107 }}](#p107)
 - #### [{{ Stats }}{{ 107 }}](#p107)
 - #### [{{ Companion death }}{{ 107 }}](#p107)
@@ -2454,8 +2456,9 @@ Here's a list of origins:
 **Sorry, i wasn't paying attention**: -1 to Initiative rolls.
 
 ### Animal Friend
-**Attributes**: SEN +2, DEX +1, INT -1.
+**Attributes**: SEN +2, DEX +1, INT -1. Either **Abunak Enbassador** or **Companion: Pet**.
 **Animal Embassador**: double SEN mod in animal handling checks. can comunicate with animals through body language.
+**Companion: Pet**: You have a cute pet that kinda listens to you... sometimes.
 
 ### Initiate
 **Attributes**: PRE +2, INT +1, STR -1.
@@ -2740,6 +2743,33 @@ R20's formula: ceil(lv/2)
 
 {{pageNumber,auto}}
 \page
+# Starting Items
+When starting an adventure, you can chose your character's initial equipment by choosing items whose total value are within the table below for that specific level (but remember to validate with your DM if those items are setting and context appropriate for your character to have access to at that point).
+
+##### Typical Difficulty Classes
+{{column-count:2
+
+| Level | Starting Gold |
+|:----- |:-------------:|
+| 1-2   |     100g      | 
+| 3-4   |     200g      |
+| 5-6   |     400g      |
+| 7-8   |     800g      |
+| 9-10  |     2000g     |
+
+| Level | Starting Gold |
+|:----- |:-------------:|
+| 11-12 |    5.000g     |
+| 13-14 |    15.000g    |
+| 15-16 |    30.000g    |
+| 17-18 |    45.000g    |
+| 19-20 |    60.000g    |
+}}
+
+
+
+{{pageNumber,auto}}
+\page
 # Carga
 A quantidade de equipamento que um personagem consegue levar consigo enquanto se aventura é medida em espaços no seu inventário. Um personagem por padrão possui **10 + FOR  + CON** (mínimo: 8) espaços no seu inventário. A maioria dos itens ocupa 1 espaço, porém:
 
@@ -2877,12 +2907,10 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 **Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-{{pageNumber,auto}}
-\page
-
-
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.
 
+
+## Magic Staves
 
 Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por aqueles que possuem alguma habilidade mágica. Ele funciona como um quarterstaff (versátil (1d6/1d8), crit 20/2x). Cajados mágicos funcionam como focos de magia. Além disso, quando um personagem com um Cajado Mágico equipado lança uma magia, parte da Mana gasta é absorvida pelo cajado, e ele ganha 1 carga por círculo da magia lançada. Como uma ação de movimento, você pode gastar um número cargas para executar a habilidade do cajado. Cargas desaparecem no final da cena. Podem existir versões pequenas do cajado, chamadas de varinhas mágicas. Uma varinha ocupa só 1 espaço no inventário, mas não pode ser usada como arma física e custa 50% a mais que um Cajado equivalente.
 

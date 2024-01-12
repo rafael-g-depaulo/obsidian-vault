@@ -1,3 +1,6 @@
+![[Starting Items]]
+
+
 ![[Carrying Capacity]]
 
 ![[Currency]]

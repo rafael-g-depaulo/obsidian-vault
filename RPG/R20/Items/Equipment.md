@@ -103,6 +103,4 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 
 **Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-{{page-break}}
-
 **Mounted**. This weapon is considered Two-Handed unless the user is mounted.

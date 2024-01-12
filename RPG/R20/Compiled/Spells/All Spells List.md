@@ -146,3 +146,6 @@
 
 ### 5th Circle
 - [[Transformação de Guerra]]
+
+### 6th Circle
+- [[Blade Barrier]]

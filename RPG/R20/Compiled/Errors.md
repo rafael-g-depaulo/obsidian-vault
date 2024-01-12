@@ -2,7 +2,6 @@
 Here's a list of all of the errors found.
 
 ## Spell file without a definition
-- [[Blade Barrier]] Spell doesn't have {{spell-defitinition}} macro
 - [[Cloud of Daggers]] Spell doesn't have {{spell-defitinition}} macro
 - [[Contagion]] Spell doesn't have {{spell-defitinition}} macro
 - [[Dawn]] Spell doesn't have {{spell-defitinition}} macro
@@ -37,3 +36,9 @@ Here's a list of all of the errors found.
 - [[Silent Image]] Spell doesn't have {{spell-defitinition}} macro
 - [[Snowball Swarm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sopro da Salvação]] Spell doesn't have {{spell-defitinition}} macro
+
+## Spell Definition Syntax
+- [[Blade Barrier]] Missing "TAGS" item
+
+## Spell Tag
+- [[Blade Barrier]] Spell should have either "wip" or "spell" tag
