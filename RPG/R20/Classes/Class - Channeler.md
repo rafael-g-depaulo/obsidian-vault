@@ -40,7 +40,7 @@ MULTI_FEATURES:
 
 <!-- talvez mudar pra chaneler?? -->
 
-**Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+**Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1).
 
 **Juntar Energia.** Movimento: Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
 
@@ -77,28 +77,32 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 | Wither and Bloom           |
 
-- **PODER 1.** 1PM: pode re-rolar a tabela
+- **Potencial Arcano: XXXXXXXXX.** 1PM: pode re-rolar a tabela
 
-- **PODER 2.** XPM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level XXX
+- **Potencial Arcano: XXXXXXXXXX.** XPM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level XXX
 
-- **PODER 3.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
+- **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
 
-- **PODER 4.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega. pré-requisito: poder de cima.
+- **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
 
-- **PODER 5.** ganha resistência a efeitos mágicos enquanto canaliza. pré-requisito: poder 2 acima.
+- **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
 
-- **PODER 6.** pode usar reação pra dar dano durante canalização
+- **PODER 6.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano.
 
 - **PODER 7.** gasta energia pra canalizar 2x em uma rodada. level 12
 
 - **PODER 7.** Pode gastar **Carga Arcana** em vez de MP em **Invocar Feitiço**.
+
+- **PODER 7.** +2PM Ganha **Carga Arcana** igual ao círculo de magia invocada.
 
 - **PODER 8.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
 
 - **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
 
 {{class-note "Faíscas Mágicas e Potenciais Arcanos"
-Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**. Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**.
+Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
+
+Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
 }}
 
 - **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
