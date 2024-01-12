@@ -11,6 +11,14 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 [[ @{Max-HP} ]]
 ```
 
+### Stats
+- Força
+- Destreza
+- Constituição
+- Inteligência
+- Sensibilidade
+- Presença
+
 ## General
 ### lvl
 ```
@@ -57,17 +65,21 @@ http://journal.roll20.net/handout/-NZd5wTONSKl6m59y0vk
 ```
 @{attack_attb} + @{proficiency} + @{attack_bonus}
 ```
+### attack_dmg_bonus
+```
+@{attack_attb} + @{dmg_bonus}
+```
 ### attack_roll_2
 ```
-[[ @{wpn_2_amt_dice}@{wpn_2_dmg_dice}[base] + @{attack_dmg_bonus} + ([[ceil(floor([[1d20cs>@{wpn_2_crit_range} + @{attack_roll_2_bonus}]]/(@{wpn_2_crit_range} + @{attack_roll_2_bonus}))/1000)]]*(@{wpn_2_crit_mult} - 1) * @{wpn_2_amt_dice})@{wpn_2_dmg_dice}[crit] ]]
+[[ @{wpn_2_amt_dice}@{wpn_2_dmg_dice}[base] + @{attack_dmg_bonus_2} + ([[ceil(floor([[1d20cs>@{wpn_2_crit_range} + @{attack_roll_2_bonus}]]/(@{wpn_2_crit_range} + @{attack_roll_2_bonus}))/1000)]]*(@{wpn_2_crit_mult} - 1) * @{wpn_2_amt_dice})@{wpn_2_dmg_dice}[crit] ]]
 ```
 ### attack_roll_2_bonus
 ```
 @{attack_attb} + @{attack_bonus}
 ```
-### attack_dmg_bonus
+### attack_dmg_bonus_2
 ```
-@{attack_attb} + @{dmg_bonus}
+@{dmg_bonus}
 ```
 ### spell_attack_roll_bonus
 ```
