@@ -109,11 +109,11 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Ao final d
 
 - **poder poção misteriosa 1.** pode criar poções misteriosas
 
-- **poder poção misteriosa 2.** +1PM pra mais 1 
+- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo
 
-- **poder poção misteriosa 1.** pode criar poções misteriosas
+- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo
 
-- **poder poção misteriosa 1.** pode criar poções misteriosas
+- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções
 
 {{dev-comment
 possible changes to witch's brews:

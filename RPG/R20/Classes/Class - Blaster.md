@@ -70,4 +70,22 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 | Wither and Bloom           |
 
-PS: todas as magias são ofensivas/negativas/neutras, assim o personagem pode só mirar em inimigos e ter confiança que não vai curar/buffar um inimigo
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level 12
+
+- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega.
+
+- **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
+
+- **PODER EXEMPLO.** pode canalizar
+
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
+
+- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
