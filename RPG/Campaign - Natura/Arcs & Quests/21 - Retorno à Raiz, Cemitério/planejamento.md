@@ -1,15 +1,3 @@
-- [x] Sharkodile sheet
-	- [x] daddy
-	- [x] baby
-- [x] sewer map
-	- [x] rat sheet
-	- [x] unha sheet
-- [x] beach map (?)
-- [x] Montar aviso quests
-- [x] Decidir encounters
-- [x] sprite ovos
-
-
 Flashback do sonho do lumb
 
 quests no aviso

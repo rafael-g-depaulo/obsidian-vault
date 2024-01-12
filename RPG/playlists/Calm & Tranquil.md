@@ -1,7 +1,7 @@
 - [Donkey Kong Country 2 - Stickerbush Symphony](https://www.youtube.com/watch?v=bQx91RR3Y8o)
-- [Donkey Kong Country compilado](https://youtu.be/dTn8pKWTohw?t=2216)
+- ![Donkey Kong Country compilado](https://youtu.be/dTn8pKWTohw?t=2216)
 - [The Adventure Begins](https://www.youtube.com/watch?v=Jikm8CCRbdM)
-- https://www.youtube.com/watch?v=9osre3R0LvA
-- [City music](https://www.youtube.com/watch?v=CBQshTNwP5w)
+- ![](https://www.youtube.com/watch?v=9osre3R0LvA)
+- ![City music](https://www.youtube.com/watch?v=CBQshTNwP5w)
 - [RPG Playlist - Peaceful/Travel Music](https://www.youtube.com/watch?v=A8qMyBWZNw0)
 - [wuxia mountain vibes](https://www.youtube.com/watch?v=MFkCwixwpwk)
