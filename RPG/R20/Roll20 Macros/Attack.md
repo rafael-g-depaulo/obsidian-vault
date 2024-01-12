@@ -31,3 +31,7 @@ OBS: this needs `attack_bonus` and `dmg_bonus` attributes to exist.
 ```
 &{template:default} {{name=Ataque (@{character_name})}} #attack {{acerto= $[[2]] }} {{dano=$[[5]] }}
 ```
+
+```
+&{template:default} {{name=@{character_name}: Ataque}} @{attack_roll} {{acerto= $[[3]] }} {{dano=$[[7]] }}
+```
