@@ -1,44 +1,45 @@
-{{class-definition "Channeler"
-ARCHETYPE: Caster
-EQUIPMENT_PROFICIENCIES: NONE
-MP_ATTB: PRE
-SPELLCASTING_ATTB: PRE
-SAVES:
-- PRE
+{{pageNumber,auto}}
+\page
+# Channeler (Caster)
 
-FEATURES:
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
-| LEVEL | FEATURE |
-| ---- | ---- |
-| 1 | Invocar Feitiço |
-| 3 | Juntar Energia, Faísca Mágica: Poder |
+**MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Presence.
+
+**Spellcasting Attribute:** PRE.
 
 
-MULTI_FEATURES:
-
-| Level | Cargas Arcanas |
-| ----- | -------------- |
-| 1st   | -              |
-| 2nd   | -              |
-| 3rd   | 3               |
-| 4th   | 4               |
-| 5th   | 5               |
-| 6th   | 6               |
-| 7th   | 7               |
-| 8th   | 8               |
-| 9th   | 9               |
-| 10th  | 10               |
-| 11th  | 11               |
-| 12th  | 12               |
-| 13th  | 13               |
-| 14th  | 14               |
-| 15th  | 15               |
-| 16th  | 16               |
-| 17th  | 17               |
-| 18th  | 18               |
-| 19th  | 19               |
-| 20th  | 20               |
+{{classTable,decoration,frame,wide
+##### Channeler
+| Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Invocar Feitiço | - | 3 | 1 |
+| 2nd | +1 | Channeler Feat | - | 4 | 1 |
+| 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
+| 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
+| 5th | +3 | Channeler Feat | 5 | 7 | 3 |
+| 6th | +3 | Channeler Feat | 6 | 8 | 3 |
+| 7th | +4 | Channeler Feat | 7 | 9 | 4 |
+| 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
+| 9th | +5 | Channeler Feat | 9 | 11 | 5 |
+| 10th | +5 | Channeler Feat | 10 | 12 | 5 |
+| 11th | +6 | Channeler Feat | 11 | 13 | 6 |
+| 12th | +6 | Channeler Feat, Attribute Score Improvement | 12 | 14 | 6 |
+| 13th | +7 | Channeler Feat | 13 | 15 | 7 |
+| 14th | +7 | Channeler Feat | 14 | 16 | 7 |
+| 15th | +8 | Channeler Feat | 15 | 17 | 8 |
+| 16th | +8 | Channeler Feat, Attribute Score Improvement | 16 | 18 | 8 |
+| 17th | +9 | Channeler Feat | 17 | 19 | 9 |
+| 18th | +9 | Channeler Feat | 18 | 20 | 9 |
+| 19th | +10 | Channeler Feat, Attribute Score Improvement | 19 | 21 | 9 |
+| 20th | +10 | Channeler Feat | 20 | 22 | 9 |
 }}
+
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -77,7 +78,9 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 3-4  |        Hold Person         |
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 |      Wither and Bloom      |
-{{page-break}}
+{{pageNumber,auto}}
+\page
+
 ### Channeler Feats
 
 Begining at level 2, every time you gain a level in Channeler you gain a Channeler Feat. You may instead of a Channeler feat take a Castert or General Feat of your choice.
@@ -111,7 +114,9 @@ Begining at level 2, every time you gain a level in Channeler you gain a Channel
 
 - **Invocação Sortuda.** Durante **Invocar Feitiço**, você pode pagar 1PM uma vez para re-rolar o círculo da magia lançada.
 
-{{class-note "Faíscas Mágicas e Potenciais Arcanos"
+{{note
+#### Faíscas Mágicas e Potenciais Arcanos
+
 Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
 
 Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
@@ -139,23 +144,73 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 List of spells available for a Chaneler to learn.
 
-{{page-break}}
+{{pageNumber,auto}}
+\page
 
-{{spell-list
-INCLUDE_TAGS:
-- unholy
-- boost
-- arcane
-- thaumaturgy
-- elemental
-- decay
-- energy
 
-EXCLUDE_TAGS:
-- recovery
-- holy
-- warmagic
-- wild
+##  Spells
 
-MAX_LEVEL: 3
-}}
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Control Flames]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Guidance]]
+- [[Lightning Lure]]
+- [[Magic Stone]]
+- [[Message]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Shape Water]]
+- [[Thunderclap]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
+
+### 1st Circle
+- [[Benção]]
+- [[Burning Hands]]
+- [[Catapult]]
+- [[Chaos Bolt]]
+- [[Despedaçar]]
+- [[Dissonant Whispers]]
+- [[Earth Tremor]]
+- [[Escuridão]]
+- [[Explosão de chamas]]
+- [[Feather Fall]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Ray of Sickness]]
+- [[Thunderwave]]
+- [[Witch Bolt]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
+
+### 2nd Circle
+- [[Aid]]
+- [[Binding Ice]]
+- [[Blindness Deafness]]
+- [[Calm Emotions]]
+- [[Continual Flame]]
+- [[Crown of Madness]]
+- [[Explosão Sonora]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Manto de Vento]]
+- [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
+- [[Ray of Enfeeblement]]
+- [[Scorching Ray]]
+- [[See invisibility]]
+
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]

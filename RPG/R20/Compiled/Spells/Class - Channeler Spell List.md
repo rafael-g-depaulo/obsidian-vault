@@ -1,4 +1,4 @@
-## Blaster Spells
+## Channeler Spells
 
 ### Cantrip
 - [[Acid Splash]]

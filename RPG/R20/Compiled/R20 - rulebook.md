@@ -75,106 +75,106 @@ ___
 - #### [{{ Creating a Class }}{{ 14 }}](#p14)
 - ### [{{ Alquimist (Specialist) }}{{ 15 }}](#p15)
 - ### [{{ Beast Warrior (Martial) }}{{ 16 }}](#p16)
-- ### [{{ Blaster (Caster) }}{{ 18 }}](#p18)
-- #### [{{  Spells }}{{ 18 }}](#p18)
-- ### [{{ Champion (Martial) }}{{ 20 }}](#p20)
-- ### [{{ Dancer (Specialist) }}{{ 22 }}](#p22)
-- ### [{{ Fighter (Martial) }}{{ 24 }}](#p24)
-- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
-- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
-- #### [{{  Spells }}{{ 28 }}](#p28)
-- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
-- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
-- #### [{{  Spells }}{{ 33 }}](#p33)
-- ### [{{ Werebeast (Specialist) }}{{ 35 }}](#p35)
-- ### [{{ Witch (Caster) }}{{ 37 }}](#p37)
-- #### [{{ Witch's Brews }}{{ 38 }}](#p38)
-- #### [{{  Spells }}{{ 38 }}](#p38)
-- ### [{{ Combat }}{{ 40 }}](#p40)
-- #### [{{ Round }}{{ 40 }}](#p40)
-- #### [{{ Combat Actions }}{{ 40 }}](#p40)
-- #### [{{ Attacking and Defending }}{{ 40 }}](#p40)
-- #### [{{ Movement }}{{ 41 }}](#p41)
-- #### [{{ Maneuvers }}{{ 41 }}](#p41)
-- #### [{{ Manobras }}{{ 41 }}](#p41)
-- #### [{{ Tamanho }}{{ 42 }}](#p42)
-- ### [{{ Origins }}{{ 43 }}](#p43)
-- #### [{{ Origin Lists }}{{ 43 }}](#p43)
-- ### [{{ Proficiency }}{{ 44 }}](#p44)
-- ### [{{ General Feats }}{{ 45 }}](#p45)
-- ### [{{ Martial Feats }}{{ 46 }}](#p46)
-- ### [{{ Caster Feats }}{{ 47 }}](#p47)
-- ### [{{ Specialist Feats }}{{ 48 }}](#p48)
+- ### [{{ Champion (Martial) }}{{ 18 }}](#p18)
+- ### [{{ Channeler (Caster) }}{{ 20 }}](#p20)
+- #### [{{  Spells }}{{ 22 }}](#p22)
+- ### [{{ Dancer (Specialist) }}{{ 24 }}](#p24)
+- ### [{{ Fighter (Martial) }}{{ 26 }}](#p26)
+- ### [{{ Juggernaut (Martial) }}{{ 27 }}](#p27)
+- ### [{{ Plantomancer (Caster) }}{{ 29 }}](#p29)
+- #### [{{  Spells }}{{ 30 }}](#p30)
+- ### [{{ Rogue (Specialist) }}{{ 32 }}](#p32)
+- ### [{{ Spelgard (Off-Caster) }}{{ 34 }}](#p34)
+- #### [{{  Spells }}{{ 35 }}](#p35)
+- ### [{{ Werebeast (Specialist) }}{{ 37 }}](#p37)
+- ### [{{ Witch (Caster) }}{{ 39 }}](#p39)
+- #### [{{ Witch's Brews }}{{ 40 }}](#p40)
+- #### [{{  Spells }}{{ 40 }}](#p40)
+- ### [{{ Combat }}{{ 42 }}](#p42)
+- #### [{{ Round }}{{ 42 }}](#p42)
+- #### [{{ Combat Actions }}{{ 42 }}](#p42)
+- #### [{{ Attacking and Defending }}{{ 42 }}](#p42)
+- #### [{{ Movement }}{{ 43 }}](#p43)
+- #### [{{ Maneuvers }}{{ 43 }}](#p43)
+- #### [{{ Manobras }}{{ 43 }}](#p43)
+- #### [{{ Tamanho }}{{ 44 }}](#p44)
+- ### [{{ Origins }}{{ 45 }}](#p45)
+- #### [{{ Origin Lists }}{{ 45 }}](#p45)
+- ### [{{ Proficiency }}{{ 46 }}](#p46)
+- ### [{{ General Feats }}{{ 47 }}](#p47)
+- ### [{{ Martial Feats }}{{ 48 }}](#p48)
+- ### [{{ Caster Feats }}{{ 49 }}](#p49)
+- ### [{{ Specialist Feats }}{{ 50 }}](#p50)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Companion Feats }}{{ 49 }}](#p49)
-- ### [{{ Starting Items }}{{ 50 }}](#p50)
-- ### [{{ Carga }}{{ 51 }}](#p51)
-- #### [{{ Sobrecarga }}{{ 51 }}](#p51)
-- ### [{{ Coins }}{{ 52 }}](#p52)
-- ### [{{ Equipment }}{{ 53 }}](#p53)
-- #### [{{ Simple Weapons }}{{ 53 }}](#p53)
-- #### [{{ Martial Weapons }}{{ 53 }}](#p53)
-- #### [{{ Armor }}{{ 53 }}](#p53)
-- #### [{{ Magic Staves }}{{ 54 }}](#p54)
-- ### [{{ Consumable Items }}{{ 55 }}](#p55)
-- #### [{{ Potions }}{{ 55 }}](#p55)
-- #### [{{ Poisons }}{{ 55 }}](#p55)
-- #### [{{ Óleos }}{{ 56 }}](#p56)
-- ### [{{ Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Casting a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Learning a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Creating Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Buying Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Ideas for change }}{{ 57 }}](#p57)
-- #### [{{ Working with item levels. }}{{ 57 }}](#p57)
-- ### [{{ Magic Items }}{{ 58 }}](#p58)
-- ### [{{ Runes }}{{ 60 }}](#p60)
-- ### [{{ Crafting }}{{ 61 }}](#p61)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 61 }}](#p61)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 61 }}](#p61)
-- ### [{{ Spells }}{{ 62 }}](#p62)
-- #### [{{ Learning Spells }}{{ 62 }}](#p62)
-- #### [{{ Prepared vs. Learned Spells }}{{ 62 }}](#p62)
-- #### [{{ Casting Spells }}{{ 62 }}](#p62)
-- #### [{{ Spell levels }}{{ 62 }}](#p62)
-- #### [{{ Spell Tags }}{{ 63 }}](#p63)
-- #### [{{ Flavor }}{{ 63 }}](#p63)
-- ### [{{ Spell Tags }}{{ 64 }}](#p64)
-- #### [{{ Tags }}{{ 64 }}](#p64)
-- ### [{{ Spell List }}{{ 65 }}](#p65)
-- #### [{{ All Spells }}{{ 65 }}](#p65)
-- ### [{{ Spells }}{{ 67 }}](#p67)
-- ### [{{ Contracts, Paladins & Entities }}{{ 102 }}](#p102)
-- #### [{{ Paladins }}{{ 102 }}](#p102)
-- #### [{{ Contract }}{{ 102 }}](#p102)
-- #### [{{ Favor }}{{ 102 }}](#p102)
-- #### [{{ Losing Favor }}{{ 102 }}](#p102)
-- #### [{{ Miracles }}{{ 102 }}](#p102)
-- ### [{{ Companions }}{{ 103 }}](#p103)
-- #### [{{ Stats }}{{ 103 }}](#p103)
-- #### [{{ Companion death }}{{ 103 }}](#p103)
-- #### [{{ Rest }}{{ 103 }}](#p103)
-- #### [{{ Companion Skills }}{{ 103 }}](#p103)
-- ### [{{ Conditions }}{{ 105 }}](#p105)
-- ### [{{ Rest & Recovery }}{{ 106 }}](#p106)
-- #### [{{ Provisions }}{{ 106 }}](#p106)
-- #### [{{ How to recover }}{{ 106 }}](#p106)
+- ### [{{ Companion Feats }}{{ 51 }}](#p51)
+- ### [{{ Starting Items }}{{ 52 }}](#p52)
+- ### [{{ Carga }}{{ 53 }}](#p53)
+- #### [{{ Sobrecarga }}{{ 53 }}](#p53)
+- ### [{{ Coins }}{{ 54 }}](#p54)
+- ### [{{ Equipment }}{{ 55 }}](#p55)
+- #### [{{ Simple Weapons }}{{ 55 }}](#p55)
+- #### [{{ Martial Weapons }}{{ 55 }}](#p55)
+- #### [{{ Armor }}{{ 55 }}](#p55)
+- #### [{{ Magic Staves }}{{ 56 }}](#p56)
+- ### [{{ Consumable Items }}{{ 57 }}](#p57)
+- #### [{{ Potions }}{{ 57 }}](#p57)
+- #### [{{ Poisons }}{{ 57 }}](#p57)
+- #### [{{ Óleos }}{{ 58 }}](#p58)
+- ### [{{ Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Casting a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Learning a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Creating Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Buying Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Ideas for change }}{{ 59 }}](#p59)
+- #### [{{ Working with item levels. }}{{ 59 }}](#p59)
+- ### [{{ Magic Items }}{{ 60 }}](#p60)
+- ### [{{ Runes }}{{ 62 }}](#p62)
+- ### [{{ Crafting }}{{ 63 }}](#p63)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 63 }}](#p63)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 63 }}](#p63)
+- ### [{{ Spells }}{{ 64 }}](#p64)
+- #### [{{ Learning Spells }}{{ 64 }}](#p64)
+- #### [{{ Prepared vs. Learned Spells }}{{ 64 }}](#p64)
+- #### [{{ Casting Spells }}{{ 64 }}](#p64)
+- #### [{{ Spell levels }}{{ 64 }}](#p64)
+- #### [{{ Spell Tags }}{{ 65 }}](#p65)
+- #### [{{ Flavor }}{{ 65 }}](#p65)
+- ### [{{ Spell Tags }}{{ 66 }}](#p66)
+- #### [{{ Tags }}{{ 66 }}](#p66)
+- ### [{{ Spell List }}{{ 67 }}](#p67)
+- #### [{{ All Spells }}{{ 67 }}](#p67)
+- ### [{{ Spells }}{{ 69 }}](#p69)
+- ### [{{ Contracts, Paladins & Entities }}{{ 104 }}](#p104)
+- #### [{{ Paladins }}{{ 104 }}](#p104)
+- #### [{{ Contract }}{{ 104 }}](#p104)
+- #### [{{ Favor }}{{ 104 }}](#p104)
+- #### [{{ Losing Favor }}{{ 104 }}](#p104)
+- #### [{{ Miracles }}{{ 104 }}](#p104)
+- ### [{{ Companions }}{{ 105 }}](#p105)
+- #### [{{ Stats }}{{ 105 }}](#p105)
+- #### [{{ Companion death }}{{ 105 }}](#p105)
+- #### [{{ Rest }}{{ 105 }}](#p105)
+- #### [{{ Companion Skills }}{{ 105 }}](#p105)
+- ### [{{ Conditions }}{{ 107 }}](#p107)
+- ### [{{ Rest & Recovery }}{{ 108 }}](#p108)
+- #### [{{ Provisions }}{{ 108 }}](#p108)
+- #### [{{ How to recover }}{{ 108 }}](#p108)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Skipping a Rest }}{{ 106 }}](#p106)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 106 }}](#p106)
-- ### [{{ Companions }}{{ 107 }}](#p107)
-- #### [{{ Stats }}{{ 107 }}](#p107)
-- #### [{{ Companion death }}{{ 107 }}](#p107)
-- #### [{{ Rest }}{{ 107 }}](#p107)
-- #### [{{ Companion Skills }}{{ 107 }}](#p107)
+- #### [{{ Skipping a Rest }}{{ 108 }}](#p108)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 108 }}](#p108)
+- ### [{{ Companions }}{{ 109 }}](#p109)
+- #### [{{ Stats }}{{ 109 }}](#p109)
+- #### [{{ Companion death }}{{ 109 }}](#p109)
+- #### [{{ Rest }}{{ 109 }}](#p109)
+- #### [{{ Companion Skills }}{{ 109 }}](#p109)
 }}
 
 {{pageNumber,auto}}
@@ -619,12 +619,12 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Blaster
+#### Channeler
 ###### Description
-"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
+"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Canalizadora focada em magias de fogo. Grande tempo de concentração seguido por um resultado explosivo e obliterador, esse é o método de um canalizador.
 
 ###### Mechanics
-Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
+Summon (invoca uma magia ofensiva de forma aleatória em um inimigo).
 
 #### Plantomancer
 ###### Description
@@ -681,13 +681,13 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 ##### Casters
 ____
 
-| Classe             | need to Buff/Nerf?    | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------------ | --- |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch              |     | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer       |     | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith          |     | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner           |     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
-| Chronomancer (TBI) |     | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
+| Classe             | need to Buff/Nerf? | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ | ------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              |                    | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       |                    | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          |                    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Channeler          |                    | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) |                    | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
@@ -927,183 +927,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 {{pageNumber,auto}}
 \page
-# Blaster (Caster)
-
-<style>.page#p1:after{ display:none; }</style>
-**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
-
-**MP**: 6 per level.
-
-**Equipment Proficiencies:** NONE.
-
-**Resistências:** Presence.
-
-{{classTable,decoration,frame,wide
-##### Blaster
-| Level | Proficiency Bonus | Features |Spells Known | Max Spell Circle | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Invocar Feitiço | 3 | 1 |
-| 2nd | +1 | Blaster Feat | 4 | 1 |
-| 3rd | +2 | Blaster Feat | 5 | 2 |
-| 4th | +2 | Blaster Feat, Attribute Score Improvement | 6 | 2 |
-| 5th | +3 | Blaster Feat | 7 | 3 |
-| 6th | +3 | Blaster Feat | 8 | 3 |
-| 7th | +4 | Blaster Feat | 9 | 4 |
-| 8th | +4 | Blaster Feat, Attribute Score Improvement | 10 | 4 |
-| 9th | +5 | Blaster Feat | 11 | 5 |
-| 10th | +5 | Blaster Feat | 12 | 5 |
-| 11th | +6 | Blaster Feat | 13 | 6 |
-| 12th | +6 | Blaster Feat, Attribute Score Improvement | 14 | 6 |
-| 13th | +7 | Blaster Feat | 15 | 7 |
-| 14th | +7 | Blaster Feat | 16 | 7 |
-| 15th | +8 | Blaster Feat | 17 | 8 |
-| 16th | +8 | Blaster Feat, Attribute Score Improvement | 18 | 8 |
-| 17th | +9 | Blaster Feat | 19 | 9 |
-| 18th | +9 | Blaster Feat | 20 | 9 |
-| 19th | +10 | Blaster Feat, Attribute Score Improvement | 21 | 9 |
-| 20th | +10 | Blaster Feat | 22 | 9 |
-}}
-
-
-<!-- talvez mudar pra chaneler?? -->
-
-**Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
-
-**Juntar Energia.** Movimento: Ganha X carga, +1 por círculo de magia usada no turno. Pode usar quando usa magia pra aumentar dano em +1d6 por carga.
-
-### Tabela de invocação
-rola 1d6:
-- 6: segundo círculo
-- 3-5: primeiro círculo
-- 1-2: truque
-
-Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
-
-### Truque
-| d10  | Magia          |
-| ---- | -------------- |
-| 1-3  | Energy Blast   |
-| 4-8  | Chilling Touch |
-| 9-10 | Firebolt       | 
-
-### 1º Círculo
-| d10  | Magia         |
-| ---- | ------------- |
-| 1-3  | Bane          |
-| 4-6  | Magic Missile |
-| 7-8  | Sleep         |
-| 9-10 | Witch Bolt    |
-
-### 2º Círculo
-| d10  | Magia                      |
-| ---- | -------------------------- |
-| 1-2  | Scorching Ray              |
-| 3-4  | Hold Person                |
-| 5-7  | Maximilian's Earthen Grasp |
-| 8-10 | Wither and Bloom           |
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
-
-- **PODER EXEMPLO.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
-
-- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega. pré-requisito: poder de cima.
-
-- **PODER EXEMPLO.** ganha resistência a efeitos mágicos enquanto canaliza. pré-requisito: poder 2 acima.
-
-- **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
-
-- **PODER EXEMPLO.** gasta energia pra canalizar 2x em uma rodada. level 12
-
-- **PODER EXEMPLO.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: aumenta CD da magia
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
-
-- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
-
-- **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
-
-- **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
-
-### Spell List
-
-List of spells available for a Chaneler to learn.
-
-
-##  Spells
-
-### Cantrip
-- [[Acid Splash]]
-- [[Chill Touch]]
-- [[Control Flames]]
-- [[Energy Blast]]
-- [[Fire Bolt]]
-- [[Frostbite]]
-- [[Guidance]]
-- [[Lightning Lure]]
-- [[Magic Stone]]
-- [[Message]]
-- [[Poison Spray]]
-- [[Ray of Frost]]
-- [[Resistance]]
-- [[Shape Water]]
-- [[Thunderclap]]
-- [[Toll the Dead]]
-- [[Vicious Mockery]]
-
-### 1st Circle
-- [[Benção]]
-- [[Burning Hands]]
-- [[Catapult]]
-- [[Chaos Bolt]]
-- [[Despedaçar]]
-- [[Dissonant Whispers]]
-- [[Earth Tremor]]
-- [[Escuridão]]
-- [[Explosão de chamas]]
-- [[Feather Fall]]
-- [[Hellish Rebuke]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Longstrider]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Ray of Sickness]]
-- [[Thunderwave]]
-- [[Witch Bolt]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
-\page
-
-
-### 2nd Circle
-- [[Aid]]
-- [[Binding Ice]]
-- [[Blindness Deafness]]
-- [[Calm Emotions]]
-- [[Continual Flame]]
-- [[Crown of Madness]]
-- [[Explosão Sonora]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Manto de Vento]]
-- [[Maximilian's Earthen Grasp]]
-- [[Mind Whip]]
-- [[Ray of Enfeeblement]]
-- [[Scorching Ray]]
-- [[See invisibility]]
-
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
-{{pageNumber,auto}}
-\page
 # Champion (Martial)
 
 <style>.page#p1:after{ display:none; }</style>
@@ -1184,6 +1007,223 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
 **TODO:** Mais poderes para palavras afiadas
+
+{{pageNumber,auto}}
+\page
+# Channeler (Caster)
+
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
+
+**MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Presence.
+
+**Spellcasting Attribute:** PRE.
+
+
+{{classTable,decoration,frame,wide
+##### Channeler
+| Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Invocar Feitiço | - | 3 | 1 |
+| 2nd | +1 | Channeler Feat | - | 4 | 1 |
+| 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
+| 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
+| 5th | +3 | Channeler Feat | 5 | 7 | 3 |
+| 6th | +3 | Channeler Feat | 6 | 8 | 3 |
+| 7th | +4 | Channeler Feat | 7 | 9 | 4 |
+| 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
+| 9th | +5 | Channeler Feat | 9 | 11 | 5 |
+| 10th | +5 | Channeler Feat | 10 | 12 | 5 |
+| 11th | +6 | Channeler Feat | 11 | 13 | 6 |
+| 12th | +6 | Channeler Feat, Attribute Score Improvement | 12 | 14 | 6 |
+| 13th | +7 | Channeler Feat | 13 | 15 | 7 |
+| 14th | +7 | Channeler Feat | 14 | 16 | 7 |
+| 15th | +8 | Channeler Feat | 15 | 17 | 8 |
+| 16th | +8 | Channeler Feat, Attribute Score Improvement | 16 | 18 | 8 |
+| 17th | +9 | Channeler Feat | 17 | 19 | 9 |
+| 18th | +9 | Channeler Feat | 18 | 20 | 9 |
+| 19th | +10 | Channeler Feat, Attribute Score Improvement | 19 | 21 | 9 |
+| 20th | +10 | Channeler Feat | 20 | 22 | 9 |
+}}
+
+
+**Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
+
+**Juntar Energia.** Movimento: Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
+
+**Faísca Mágica: Poder** (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano inicial em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).
+
+### Tabela de invocação
+| d6  |        Magia        |
+|:---:|:-------------------:|
+| 1-2 | Truque (0º Círculo) |
+| 3-5 |     1º Círcuio      |
+|  6  |     2º Círculo      |
+
+Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
+
+### Truque
+| d10  |     Magia      |
+|:----:|:--------------:|
+| 1-3  |  Energy Blast  |
+| 4-8  | Chilling Touch |
+| 9-10 |    Firebolt    |
+
+### 1º Círculo
+| d10  |     Magia     |
+|:----:|:-------------:|
+| 1-3  |     Bane      |
+| 4-6  | Magic Missile |
+| 7-8  |     Sleep     |
+| 9-10 |  Witch Bolt   |
+
+### 2º Círculo
+| d10  |           Magia            |
+|:----:|:--------------------------:|
+| 1-2  |       Scorching Ray        |
+| 3-4  |        Hold Person         |
+| 5-7  | Maximilian's Earthen Grasp |
+| 8-10 |      Wither and Bloom      |
+{{pageNumber,auto}}
+\page
+
+### Channeler Feats
+
+Begining at level 2, every time you gain a level in Channeler you gain a Channeler Feat. You may instead of a Channeler feat take a Castert or General Feat of your choice.
+
+- **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
+
+- **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
+
+- **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
+
+- **Reinforçamento Mágico.** Invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal.
+
+- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
+
+- **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
+
+- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo.
+
+| d6  |   dano   |
+|:---:|:--------:|
+|  1  | impacto  |
+|  2  | cortante |
+|  3  |   gelo   |
+|  4  | elétrico |
+|  5  |   fogo   |
+|  6  | psíquico |
+
+- **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pré-requisito: *Level 6 Canalizador*.
+
+- **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
+
+- **Invocação Sortuda.** Durante **Invocar Feitiço**, você pode pagar 1PM uma vez para re-rolar o círculo da magia lançada.
+
+{{note
+#### Faíscas Mágicas e Potenciais Arcanos
+
+Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
+
+Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
+}}
+
+- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: *Level 8 em Canalizador*. (ainda tem que pagar o custo normal da magia)
+
+- **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
+
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+
+- **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
+
+- **Faísca Mágica: Velocidade.**  5 **Carga Arcana**: diminui execução em um passo (completa -> padrão, padrão -> movimento, movimento -> livre).
+
+- **Faísca Mágica: Dispersão.**  3 **Cargas Arcanas**: aumenta o número de alvos em +1.
+
+- **Faísca Mágica: Visão.**  1 **Carga Arcana**: dobra o alcance.
+
+- **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
+
+- **Escudo Arcano.** Movimento: Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.
+
+### Spell List
+
+List of spells available for a Chaneler to learn.
+
+{{pageNumber,auto}}
+\page
+
+
+##  Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Control Flames]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Guidance]]
+- [[Lightning Lure]]
+- [[Magic Stone]]
+- [[Message]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Shape Water]]
+- [[Thunderclap]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
+
+### 1st Circle
+- [[Benção]]
+- [[Burning Hands]]
+- [[Catapult]]
+- [[Chaos Bolt]]
+- [[Despedaçar]]
+- [[Dissonant Whispers]]
+- [[Earth Tremor]]
+- [[Escuridão]]
+- [[Explosão de chamas]]
+- [[Feather Fall]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Ray of Sickness]]
+- [[Thunderwave]]
+- [[Witch Bolt]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
+
+### 2nd Circle
+- [[Aid]]
+- [[Binding Ice]]
+- [[Blindness Deafness]]
+- [[Calm Emotions]]
+- [[Continual Flame]]
+- [[Crown of Madness]]
+- [[Explosão Sonora]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Manto de Vento]]
+- [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
+- [[Ray of Enfeeblement]]
+- [[Scorching Ray]]
+- [[See invisibility]]
+
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
 
 
 ideas change initiative of self (cost and buff) and others (buff and debuff)
@@ -1501,7 +1541,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 **MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
-**Equipment Proficiencies:** Simple weapons..
+**Equipment Proficiencies:** NONE..
 
 **Resistências:** Sensibility.
 
@@ -5873,7 +5913,8 @@ When the Companion is acquired, the DM choses 2 attributes. The Companion has pr
 
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 
-Maximum Attributes
+##### Maximum Attributes
+
 | Master Level | Max Attribute Score |
 |:------------:|:-------------------:|
 |     1-3      |         14          |
@@ -5882,7 +5923,7 @@ Maximum Attributes
 |     8-10     |         20          |
 |     11+      |         22          |
 
-The companion's size is small. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
+The companion's size is small or tiny. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
 
 | Companion Tier | Companion Maximum Size |
 |:--------------:|:----------------------:|
@@ -6106,7 +6147,8 @@ When the Companion is acquired, the DM choses 2 attributes. The Companion has pr
 
 Attributes: Distribute 12, 12, 10, 8, 7, 5 between the Companion's attributes. Every Tier after the first gives the Companion an ASI.
 
-Maximum Attributes
+##### Maximum Attributes
+
 | Master Level | Max Attribute Score |
 |:------------:|:-------------------:|
 |     1-3      |         14          |
@@ -6115,7 +6157,7 @@ Maximum Attributes
 |     8-10     |         20          |
 |     11+      |         22          |
 
-The companion's size is small. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
+The companion's size is small or tiny. The DM may chose to have the companion grow (by time passing, when their master levels up, when it increases in tier, etc.). The maximum size a companion can have is determined by the table below
 
 | Companion Tier | Companion Maximum Size |
 |:--------------:|:----------------------:|

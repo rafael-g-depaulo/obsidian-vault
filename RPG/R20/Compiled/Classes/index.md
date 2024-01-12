@@ -60,12 +60,12 @@ Mestres de maldições, veneno, invocação e cura, Bruxos e Bruxas tem uma pres
 ###### Mechanics
 Witch's Focus (Pode se concentrar em vários efeitos por vez). Hex (amaldiçoa inimigos enquanto manter concentração). Witch's Brews (Poções mágicas com efeitos positivos e negativos).
 
-#### Blaster
+#### Channeler
 ###### Description
-"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Invocadora focada em magias de fogo. Seu foco
+"A melhor defesa é explodir seu inimigo, sua família e todo o seu continente" - Megumin, Canalizadora focada em magias de fogo. Grande tempo de concentração seguido por um resultado explosivo e obliterador, esse é o método de um canalizador.
 
 ###### Mechanics
-Summon (invoca uma magia ofensiva de forma pseudo aleatória em um inimigo).
+Summon (invoca uma magia ofensiva de forma aleatória em um inimigo).
 
 #### Plantomancer
 ###### Description
@@ -122,13 +122,13 @@ Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques fís
 ##### Casters
 ____
 
-| Classe             | need to Buff/Nerf?    | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
-|:------------------ | --- |:-------------------- |:----------- |:----------- |:----- |:------------------- |
-| Witch              |     | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
-| Plantomancer       |     | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
-| Wordsmith          |     | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
-| Summoner           |     | Alto                 | Baixo       | Baixa       | Alto  | -                   |
-| Chronomancer (TBI) |     | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
+| Classe             | need to Buff/Nerf? | Foco em Concentração | Controle    | Utilidade   | Dano  | Habilidades de Cura |
+|:------------------ | ------------------ |:-------------------- |:----------- |:----------- |:----- |:------------------- |
+| Witch              |                    | Alto                 | Médio-Baixo | Alta        | Médio | Muito               |
+| Plantomancer       |                    | Baixo                | Alto        | Média-Alta  | Médio | Médio               |
+| Wordsmith          |                    | Baixo                | Médio-Alto  | Média-Baixa | Alto  | -                   |
+| Channeler          |                    | Alto                 | Baixo       | Baixa       | Alto  | -                   |
+| Chronomancer (TBI) |                    | Médio                | Médio-Alto  | Alta        | Baixo | Baixo               |
 
 ##### Off-Casters
 ____
@@ -368,183 +368,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 {{pageNumber,auto}}
 \page
-# Blaster (Caster)
-
-<style>.page#p1:after{ display:none; }</style>
-**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
-
-**MP**: 6 per level.
-
-**Equipment Proficiencies:** NONE.
-
-**Resistências:** Presence.
-
-{{classTable,decoration,frame,wide
-##### Blaster
-| Level | Proficiency Bonus | Features |Spells Known | Max Spell Circle | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Invocar Feitiço | 3 | 1 |
-| 2nd | +1 | Blaster Feat | 4 | 1 |
-| 3rd | +2 | Blaster Feat | 5 | 2 |
-| 4th | +2 | Blaster Feat, Attribute Score Improvement | 6 | 2 |
-| 5th | +3 | Blaster Feat | 7 | 3 |
-| 6th | +3 | Blaster Feat | 8 | 3 |
-| 7th | +4 | Blaster Feat | 9 | 4 |
-| 8th | +4 | Blaster Feat, Attribute Score Improvement | 10 | 4 |
-| 9th | +5 | Blaster Feat | 11 | 5 |
-| 10th | +5 | Blaster Feat | 12 | 5 |
-| 11th | +6 | Blaster Feat | 13 | 6 |
-| 12th | +6 | Blaster Feat, Attribute Score Improvement | 14 | 6 |
-| 13th | +7 | Blaster Feat | 15 | 7 |
-| 14th | +7 | Blaster Feat | 16 | 7 |
-| 15th | +8 | Blaster Feat | 17 | 8 |
-| 16th | +8 | Blaster Feat, Attribute Score Improvement | 18 | 8 |
-| 17th | +9 | Blaster Feat | 19 | 9 |
-| 18th | +9 | Blaster Feat | 20 | 9 |
-| 19th | +10 | Blaster Feat, Attribute Score Improvement | 21 | 9 |
-| 20th | +10 | Blaster Feat | 22 | 9 |
-}}
-
-
-<!-- talvez mudar pra chaneler?? -->
-
-**Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
-
-**Juntar Energia.** Movimento: Ganha X carga, +1 por círculo de magia usada no turno. Pode usar quando usa magia pra aumentar dano em +1d6 por carga.
-
-### Tabela de invocação
-rola 1d6:
-- 6: segundo círculo
-- 3-5: primeiro círculo
-- 1-2: truque
-
-Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
-
-### Truque
-| d10  | Magia          |
-| ---- | -------------- |
-| 1-3  | Energy Blast   |
-| 4-8  | Chilling Touch |
-| 9-10 | Firebolt       | 
-
-### 1º Círculo
-| d10  | Magia         |
-| ---- | ------------- |
-| 1-3  | Bane          |
-| 4-6  | Magic Missile |
-| 7-8  | Sleep         |
-| 9-10 | Witch Bolt    |
-
-### 2º Círculo
-| d10  | Magia                      |
-| ---- | -------------------------- |
-| 1-2  | Scorching Ray              |
-| 3-4  | Hold Person                |
-| 5-7  | Maximilian's Earthen Grasp |
-| 8-10 | Wither and Bloom           |
-
-- **PODER EXEMPLO.** 1PM: pode re-rolar a tabela
-
-- **PODER EXEMPLO.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
-
-- **PODER EXEMPLO.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
-
-- **PODER EXEMPLO.** ganha resistência na rolagem de resistência de CON e resistência a dano enquanto carrega. pré-requisito: poder de cima.
-
-- **PODER EXEMPLO.** ganha resistência a efeitos mágicos enquanto canaliza. pré-requisito: poder 2 acima.
-
-- **PODER EXEMPLO.** pode usar reação pra dar dano durante canalização
-
-- **PODER EXEMPLO.** gasta energia pra canalizar 2x em uma rodada. level 12
-
-- **PODER EXEMPLO.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: aumenta CD da magia
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
-
-- **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
-
-- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
-
-- **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
-
-- **Energia Diferente.** ao canalisar, pode gastar X energia: cura Y.
-
-### Spell List
-
-List of spells available for a Chaneler to learn.
-
-
-##  Spells
-
-### Cantrip
-- [[Acid Splash]]
-- [[Chill Touch]]
-- [[Control Flames]]
-- [[Energy Blast]]
-- [[Fire Bolt]]
-- [[Frostbite]]
-- [[Guidance]]
-- [[Lightning Lure]]
-- [[Magic Stone]]
-- [[Message]]
-- [[Poison Spray]]
-- [[Ray of Frost]]
-- [[Resistance]]
-- [[Shape Water]]
-- [[Thunderclap]]
-- [[Toll the Dead]]
-- [[Vicious Mockery]]
-
-### 1st Circle
-- [[Benção]]
-- [[Burning Hands]]
-- [[Catapult]]
-- [[Chaos Bolt]]
-- [[Despedaçar]]
-- [[Dissonant Whispers]]
-- [[Earth Tremor]]
-- [[Escuridão]]
-- [[Explosão de chamas]]
-- [[Feather Fall]]
-- [[Hellish Rebuke]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Longstrider]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Ray of Sickness]]
-- [[Thunderwave]]
-- [[Witch Bolt]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
-\page
-
-
-### 2nd Circle
-- [[Aid]]
-- [[Binding Ice]]
-- [[Blindness Deafness]]
-- [[Calm Emotions]]
-- [[Continual Flame]]
-- [[Crown of Madness]]
-- [[Explosão Sonora]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Manto de Vento]]
-- [[Maximilian's Earthen Grasp]]
-- [[Mind Whip]]
-- [[Ray of Enfeeblement]]
-- [[Scorching Ray]]
-- [[See invisibility]]
-
-### 3rd Circle
-- [[Flecha Ácida]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
-
-{{pageNumber,auto}}
-\page
 # Champion (Martial)
 
 <style>.page#p1:after{ display:none; }</style>
@@ -625,6 +448,223 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
 **TODO:** Mais poderes para palavras afiadas
+
+{{pageNumber,auto}}
+\page
+# Channeler (Caster)
+
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
+
+**MP**: You start at 1st level with 6 (+PRE mod.) maximum MP, and gain an extra 6 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Presence.
+
+**Spellcasting Attribute:** PRE.
+
+
+{{classTable,decoration,frame,wide
+##### Channeler
+| Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Invocar Feitiço | - | 3 | 1 |
+| 2nd | +1 | Channeler Feat | - | 4 | 1 |
+| 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
+| 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
+| 5th | +3 | Channeler Feat | 5 | 7 | 3 |
+| 6th | +3 | Channeler Feat | 6 | 8 | 3 |
+| 7th | +4 | Channeler Feat | 7 | 9 | 4 |
+| 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
+| 9th | +5 | Channeler Feat | 9 | 11 | 5 |
+| 10th | +5 | Channeler Feat | 10 | 12 | 5 |
+| 11th | +6 | Channeler Feat | 11 | 13 | 6 |
+| 12th | +6 | Channeler Feat, Attribute Score Improvement | 12 | 14 | 6 |
+| 13th | +7 | Channeler Feat | 13 | 15 | 7 |
+| 14th | +7 | Channeler Feat | 14 | 16 | 7 |
+| 15th | +8 | Channeler Feat | 15 | 17 | 8 |
+| 16th | +8 | Channeler Feat, Attribute Score Improvement | 16 | 18 | 8 |
+| 17th | +9 | Channeler Feat | 17 | 19 | 9 |
+| 18th | +9 | Channeler Feat | 18 | 20 | 9 |
+| 19th | +10 | Channeler Feat, Attribute Score Improvement | 19 | 21 | 9 |
+| 20th | +10 | Channeler Feat | 20 | 22 | 9 |
+}}
+
+
+**Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
+
+**Juntar Energia.** Movimento: Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
+
+**Faísca Mágica: Poder** (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano inicial em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).
+
+### Tabela de invocação
+| d6  |        Magia        |
+|:---:|:-------------------:|
+| 1-2 | Truque (0º Círculo) |
+| 3-5 |     1º Círcuio      |
+|  6  |     2º Círculo      |
+
+Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Uma vez definido qual círculo de magia vai ser usado, role 1d10 e determine qual magia é invocada.
+
+### Truque
+| d10  |     Magia      |
+|:----:|:--------------:|
+| 1-3  |  Energy Blast  |
+| 4-8  | Chilling Touch |
+| 9-10 |    Firebolt    |
+
+### 1º Círculo
+| d10  |     Magia     |
+|:----:|:-------------:|
+| 1-3  |     Bane      |
+| 4-6  | Magic Missile |
+| 7-8  |     Sleep     |
+| 9-10 |  Witch Bolt   |
+
+### 2º Círculo
+| d10  |           Magia            |
+|:----:|:--------------------------:|
+| 1-2  |       Scorching Ray        |
+| 3-4  |        Hold Person         |
+| 5-7  | Maximilian's Earthen Grasp |
+| 8-10 |      Wither and Bloom      |
+{{pageNumber,auto}}
+\page
+
+### Channeler Feats
+
+Begining at level 2, every time you gain a level in Channeler you gain a Channeler Feat. You may instead of a Channeler feat take a Castert or General Feat of your choice.
+
+- **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
+
+- **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
+
+- **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
+
+- **Reinforçamento Mágico.** Invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal.
+
+- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
+
+- **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
+
+- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo.
+
+| d6  |   dano   |
+|:---:|:--------:|
+|  1  | impacto  |
+|  2  | cortante |
+|  3  |   gelo   |
+|  4  | elétrico |
+|  5  |   fogo   |
+|  6  | psíquico |
+
+- **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pré-requisito: *Level 6 Canalizador*.
+
+- **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
+
+- **Invocação Sortuda.** Durante **Invocar Feitiço**, você pode pagar 1PM uma vez para re-rolar o círculo da magia lançada.
+
+{{note
+#### Faíscas Mágicas e Potenciais Arcanos
+
+Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
+
+Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
+}}
+
+- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: *Level 8 em Canalizador*. (ainda tem que pagar o custo normal da magia)
+
+- **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
+
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+
+- **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
+
+- **Faísca Mágica: Velocidade.**  5 **Carga Arcana**: diminui execução em um passo (completa -> padrão, padrão -> movimento, movimento -> livre).
+
+- **Faísca Mágica: Dispersão.**  3 **Cargas Arcanas**: aumenta o número de alvos em +1.
+
+- **Faísca Mágica: Visão.**  1 **Carga Arcana**: dobra o alcance.
+
+- **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
+
+- **Escudo Arcano.** Movimento: Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.
+
+### Spell List
+
+List of spells available for a Chaneler to learn.
+
+{{pageNumber,auto}}
+\page
+
+
+##  Spells
+
+### Cantrip
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Control Flames]]
+- [[Energy Blast]]
+- [[Fire Bolt]]
+- [[Frostbite]]
+- [[Guidance]]
+- [[Lightning Lure]]
+- [[Magic Stone]]
+- [[Message]]
+- [[Poison Spray]]
+- [[Ray of Frost]]
+- [[Resistance]]
+- [[Shape Water]]
+- [[Thunderclap]]
+- [[Toll the Dead]]
+- [[Vicious Mockery]]
+
+### 1st Circle
+- [[Benção]]
+- [[Burning Hands]]
+- [[Catapult]]
+- [[Chaos Bolt]]
+- [[Despedaçar]]
+- [[Dissonant Whispers]]
+- [[Earth Tremor]]
+- [[Escuridão]]
+- [[Explosão de chamas]]
+- [[Feather Fall]]
+- [[Hellish Rebuke]]
+- [[Imagem Espelhada]]
+- [[Infligir Ferimentos]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Ray of Sickness]]
+- [[Thunderwave]]
+- [[Witch Bolt]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
+
+### 2nd Circle
+- [[Aid]]
+- [[Binding Ice]]
+- [[Blindness Deafness]]
+- [[Calm Emotions]]
+- [[Continual Flame]]
+- [[Crown of Madness]]
+- [[Explosão Sonora]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Manto de Vento]]
+- [[Maximilian's Earthen Grasp]]
+- [[Mind Whip]]
+- [[Ray of Enfeeblement]]
+- [[Scorching Ray]]
+- [[See invisibility]]
+
+### 3rd Circle
+- [[Flecha Ácida]]
+- [[Relâmpago]]
+- [[Sopro das Uivantes]]
 
 
 ideas change initiative of self (cost and buff) and others (buff and debuff)
@@ -942,7 +982,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 **MP**: You start at 1st level with 6 (+SEN mod.) maximum MP, and gain an extra 6 per level.
 
-**Equipment Proficiencies:** Simple weapons..
+**Equipment Proficiencies:** NONE..
 
 **Resistências:** Sensibility.
 
