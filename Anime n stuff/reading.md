@@ -8,6 +8,7 @@
 - https://manhuaus.org/manga/i-used-to-be-a-boss/
 - https://zeroscans.com/comics/dominate-the-world-only-by-defense
 - https://mangatoto.com/chapter/2157874
+- orisha
 
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
