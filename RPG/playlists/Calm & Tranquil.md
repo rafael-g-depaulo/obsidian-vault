@@ -4,3 +4,4 @@
 - https://www.youtube.com/watch?v=9osre3R0LvA
 - [City music](https://www.youtube.com/watch?v=CBQshTNwP5w)
 - [RPG Playlist - Peaceful/Travel Music](https://www.youtube.com/watch?v=A8qMyBWZNw0)
+- [wuxia mountain vibes](https://www.youtube.com/watch?v=MFkCwixwpwk)

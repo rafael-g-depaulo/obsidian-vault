@@ -37,6 +37,20 @@ animal friend
 
 **Companion: Pet**
 
+
+#### skills
+points: 9 + 2x1 = 11
+max: 3
+
+iniciativa: 2
+acrobacia: 1
+medicina: 1
+percepção: 3
+intuição: 1
+empatia: 2
+natureza: 1
+adestramento: 0 (engraçado pq só o meu dragão gosta de mim)
+
 #### equip
 longbow 1d8 (18/2x), range 25sqr/50sqr, 2-handed. 50g
 leather armor +3 dodge -2 guard. 50g
