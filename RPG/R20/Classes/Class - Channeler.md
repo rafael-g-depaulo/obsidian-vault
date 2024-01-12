@@ -80,7 +80,7 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **PODER 1.** 1PM: pode re-rolar a tabela
 
-- **PODER 2.** XPM: pode usar uma magia quando lançar a canalização. Pré-requisito: level XXX
+- **PODER 2.** XPM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: level XXX
 
 - **PODER 3.** reduz qualquer dano que toma quando canaliza em PRE+lv/2.
 
@@ -92,15 +92,19 @@ Para cada PM gasto na invocação aumente o círculo rolado em um. Uma vez defin
 
 - **PODER 7.** gasta energia pra canalizar 2x em uma rodada. level 12
 
+- **PODER 7.** Pode gastar **Carga Arcana** em vez de MP em **Invocar Feitiço**.
+
 - **PODER 8.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por um feitiço que vc sabe.
 
-- **Energia .**  toda magia pode ser aumentada com +X energia: aumenta CD da magia
+- **Energia.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
 
 - **Energia Diferente.**  toda magia pode ser aumentada com +2PM: ganha energia igual ao círculo da magia
 
 - **Energia Diferente.**  toda magia pode ser aumentada com +X energia: diminui execução em um passo
 
 - **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: aumenta o número de alvos
+
+- **Energia Diferente.**  toda magia single target pode ser aumentada com +X energia: dobra o alcance.
 
 - **Energia Diferente.**  ao canalisar, pode gastar X energia: execute uma magia com alvo: pessoal.
 
