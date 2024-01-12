@@ -1,8 +1,43 @@
-archetype: Caster
+{{class-definition "Blaster"
+ARCHETYPE: Caster
+EQUIPMENT_PROFICIENCIES: NONE
+SAVES:
+- PRE
 
-habilidade principal:
+FEATURES:
+| LEVEL | FEATURE          |
+| ----- | ---------------- |
+| 1     | Invocar Feitiço | 
 
-**Summon.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+
+MULTI_FEATURES:
+| Level |     | 
+| ----- | --- |
+| 1st   |     |
+| 2nd   |     |
+| 3rd   |     |
+| 4th   |     |
+| 5th   |     |
+| 6th   |     |
+| 7th   |     |
+| 8th   |     |
+| 9th   |     |
+| 10th  |     |
+| 11th  |     |
+| 12th  |     |
+| 13th  |     |
+| 14th  |     |
+| 15th  |     |
+| 16th  |     |
+| 17th  |     |
+| 18th  |     |
+| 19th  |     |
+| 20th  |     |
+}}
+
+<!-- talvez mudar pra chaneler?? -->
+
+**Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
 
 ### Tabela de invocação
 rola 1d6:

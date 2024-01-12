@@ -75,102 +75,103 @@ ___
 - #### [{{ Creating a Class }}{{ 14 }}](#p14)
 - ### [{{ Alquimist (Specialist) }}{{ 15 }}](#p15)
 - ### [{{ Beast Warrior (Martial) }}{{ 16 }}](#p16)
-- ### [{{ Champion (Martial) }}{{ 18 }}](#p18)
-- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
-- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
-- ### [{{ Juggernaut (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Plantomancer (Caster) }}{{ 25 }}](#p25)
-- #### [{{  Spells }}{{ 26 }}](#p26)
-- ### [{{ Rogue (Specialist) }}{{ 28 }}](#p28)
-- ### [{{ Spelgard (Off-Caster) }}{{ 30 }}](#p30)
-- #### [{{  Spells }}{{ 31 }}](#p31)
-- ### [{{ Werebeast (Specialist) }}{{ 33 }}](#p33)
-- ### [{{ Witch (Caster) }}{{ 35 }}](#p35)
-- #### [{{ Witch's Brews }}{{ 36 }}](#p36)
-- #### [{{  Spells }}{{ 36 }}](#p36)
-- ### [{{ Combat }}{{ 38 }}](#p38)
-- #### [{{ Round }}{{ 38 }}](#p38)
-- #### [{{ Combat Actions }}{{ 38 }}](#p38)
-- #### [{{ Attacking and Defending }}{{ 38 }}](#p38)
-- #### [{{ Movement }}{{ 39 }}](#p39)
-- #### [{{ Maneuvers }}{{ 39 }}](#p39)
-- #### [{{ Manobras }}{{ 39 }}](#p39)
-- #### [{{ Tamanho }}{{ 40 }}](#p40)
-- ### [{{ Origins }}{{ 41 }}](#p41)
-- #### [{{ Origin Lists }}{{ 41 }}](#p41)
-- ### [{{ Proficiency }}{{ 42 }}](#p42)
-- ### [{{ General Feats }}{{ 43 }}](#p43)
-- ### [{{ Martial Feats }}{{ 44 }}](#p44)
-- ### [{{ Caster Feats }}{{ 45 }}](#p45)
-- ### [{{ Specialist Feats }}{{ 46 }}](#p46)
-- ### [{{ Companion Feats }}{{ 47 }}](#p47)
-- ### [{{ Carga }}{{ 48 }}](#p48)
+- ### [{{ Blaster (Caster) }}{{ 18 }}](#p18)
+- ### [{{ Champion (Martial) }}{{ 19 }}](#p19)
+- ### [{{ Dancer (Specialist) }}{{ 21 }}](#p21)
+- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
+- ### [{{ Juggernaut (Martial) }}{{ 24 }}](#p24)
+- ### [{{ Plantomancer (Caster) }}{{ 26 }}](#p26)
+- #### [{{  Spells }}{{ 27 }}](#p27)
+- ### [{{ Rogue (Specialist) }}{{ 29 }}](#p29)
+- ### [{{ Spelgard (Off-Caster) }}{{ 31 }}](#p31)
+- #### [{{  Spells }}{{ 32 }}](#p32)
+- ### [{{ Werebeast (Specialist) }}{{ 34 }}](#p34)
+- ### [{{ Witch (Caster) }}{{ 36 }}](#p36)
+- #### [{{ Witch's Brews }}{{ 37 }}](#p37)
+- #### [{{  Spells }}{{ 37 }}](#p37)
+- ### [{{ Combat }}{{ 39 }}](#p39)
+- #### [{{ Round }}{{ 39 }}](#p39)
+- #### [{{ Combat Actions }}{{ 39 }}](#p39)
+- #### [{{ Attacking and Defending }}{{ 39 }}](#p39)
+- #### [{{ Movement }}{{ 40 }}](#p40)
+- #### [{{ Maneuvers }}{{ 40 }}](#p40)
+- #### [{{ Manobras }}{{ 40 }}](#p40)
+- #### [{{ Tamanho }}{{ 41 }}](#p41)
+- ### [{{ Origins }}{{ 42 }}](#p42)
+- #### [{{ Origin Lists }}{{ 42 }}](#p42)
+- ### [{{ Proficiency }}{{ 43 }}](#p43)
+- ### [{{ General Feats }}{{ 44 }}](#p44)
+- ### [{{ Martial Feats }}{{ 45 }}](#p45)
+- ### [{{ Caster Feats }}{{ 46 }}](#p46)
+- ### [{{ Specialist Feats }}{{ 47 }}](#p47)
+- ### [{{ Companion Feats }}{{ 48 }}](#p48)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Sobrecarga }}{{ 48 }}](#p48)
-- ### [{{ Coins }}{{ 49 }}](#p49)
-- ### [{{ Equipment }}{{ 50 }}](#p50)
-- #### [{{ Simple Weapons }}{{ 50 }}](#p50)
-- #### [{{ Martial Weapons }}{{ 50 }}](#p50)
-- #### [{{ Armor }}{{ 50 }}](#p50)
-- ### [{{ Consumable Items }}{{ 53 }}](#p53)
-- #### [{{ Potions }}{{ 53 }}](#p53)
-- #### [{{ Poisons }}{{ 53 }}](#p53)
-- #### [{{ Óleos }}{{ 54 }}](#p54)
-- ### [{{ Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Casting a Spell from a Scroll }}{{ 55 }}](#p55)
-- #### [{{ Learning a Spell from a Scroll }}{{ 55 }}](#p55)
-- #### [{{ Creating Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Buying Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Ideas for change }}{{ 55 }}](#p55)
-- #### [{{ Working with item levels. }}{{ 55 }}](#p55)
-- ### [{{ Magic Items }}{{ 56 }}](#p56)
-- ### [{{ Runes }}{{ 58 }}](#p58)
-- ### [{{ Crafting }}{{ 59 }}](#p59)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 59 }}](#p59)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 59 }}](#p59)
-- ### [{{ Spells }}{{ 60 }}](#p60)
-- #### [{{ Learning Spells }}{{ 60 }}](#p60)
-- #### [{{ Prepared vs. Learned Spells }}{{ 60 }}](#p60)
-- #### [{{ Casting Spells }}{{ 60 }}](#p60)
-- #### [{{ Spell levels }}{{ 60 }}](#p60)
-- #### [{{ Spell Tags }}{{ 61 }}](#p61)
-- #### [{{ Flavor }}{{ 61 }}](#p61)
-- ### [{{ Spell Tags }}{{ 62 }}](#p62)
-- #### [{{ Tags }}{{ 62 }}](#p62)
-- ### [{{ Spell List }}{{ 63 }}](#p63)
-- #### [{{ All Spells }}{{ 63 }}](#p63)
-- ### [{{ Spells }}{{ 65 }}](#p65)
-- ### [{{ Contracts, Paladins & Entities }}{{ 99 }}](#p99)
-- #### [{{ Paladins }}{{ 99 }}](#p99)
-- #### [{{ Contract }}{{ 99 }}](#p99)
-- #### [{{ Favor }}{{ 99 }}](#p99)
-- #### [{{ Losing Favor }}{{ 99 }}](#p99)
-- #### [{{ Miracles }}{{ 99 }}](#p99)
-- ### [{{ Companions }}{{ 100 }}](#p100)
-- #### [{{ Stats }}{{ 100 }}](#p100)
-- #### [{{ Companion death }}{{ 100 }}](#p100)
-- #### [{{ Rest }}{{ 100 }}](#p100)
-- #### [{{ Companion Skills }}{{ 100 }}](#p100)
-- ### [{{ Conditions }}{{ 102 }}](#p102)
-- ### [{{ Rest & Recovery }}{{ 103 }}](#p103)
-- #### [{{ Provisions }}{{ 103 }}](#p103)
-- #### [{{ How to recover }}{{ 103 }}](#p103)
-- #### [{{ Skipping a Rest }}{{ 103 }}](#p103)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 103 }}](#p103)
-- ### [{{ Companions }}{{ 104 }}](#p104)
-- #### [{{ Stats }}{{ 104 }}](#p104)
+- ### [{{ Carga }}{{ 49 }}](#p49)
+- #### [{{ Sobrecarga }}{{ 49 }}](#p49)
+- ### [{{ Coins }}{{ 50 }}](#p50)
+- ### [{{ Equipment }}{{ 51 }}](#p51)
+- #### [{{ Simple Weapons }}{{ 51 }}](#p51)
+- #### [{{ Martial Weapons }}{{ 51 }}](#p51)
+- #### [{{ Armor }}{{ 51 }}](#p51)
+- ### [{{ Consumable Items }}{{ 54 }}](#p54)
+- #### [{{ Potions }}{{ 54 }}](#p54)
+- #### [{{ Poisons }}{{ 54 }}](#p54)
+- #### [{{ Óleos }}{{ 55 }}](#p55)
+- ### [{{ Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Casting a Spell from a Scroll }}{{ 56 }}](#p56)
+- #### [{{ Learning a Spell from a Scroll }}{{ 56 }}](#p56)
+- #### [{{ Creating Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Buying Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Ideas for change }}{{ 56 }}](#p56)
+- #### [{{ Working with item levels. }}{{ 56 }}](#p56)
+- ### [{{ Magic Items }}{{ 57 }}](#p57)
+- ### [{{ Runes }}{{ 59 }}](#p59)
+- ### [{{ Crafting }}{{ 60 }}](#p60)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 60 }}](#p60)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 60 }}](#p60)
+- ### [{{ Spells }}{{ 61 }}](#p61)
+- #### [{{ Learning Spells }}{{ 61 }}](#p61)
+- #### [{{ Prepared vs. Learned Spells }}{{ 61 }}](#p61)
+- #### [{{ Casting Spells }}{{ 61 }}](#p61)
+- #### [{{ Spell levels }}{{ 61 }}](#p61)
+- #### [{{ Spell Tags }}{{ 62 }}](#p62)
+- #### [{{ Flavor }}{{ 62 }}](#p62)
+- ### [{{ Spell Tags }}{{ 63 }}](#p63)
+- #### [{{ Tags }}{{ 63 }}](#p63)
+- ### [{{ Spell List }}{{ 64 }}](#p64)
+- #### [{{ All Spells }}{{ 64 }}](#p64)
+- ### [{{ Spells }}{{ 66 }}](#p66)
+- ### [{{ Contracts, Paladins & Entities }}{{ 100 }}](#p100)
+- #### [{{ Paladins }}{{ 100 }}](#p100)
+- #### [{{ Contract }}{{ 100 }}](#p100)
+- #### [{{ Favor }}{{ 100 }}](#p100)
+- #### [{{ Losing Favor }}{{ 100 }}](#p100)
+- #### [{{ Miracles }}{{ 100 }}](#p100)
+- ### [{{ Companions }}{{ 101 }}](#p101)
+- #### [{{ Stats }}{{ 101 }}](#p101)
+- #### [{{ Companion death }}{{ 101 }}](#p101)
+- #### [{{ Rest }}{{ 101 }}](#p101)
+- #### [{{ Companion Skills }}{{ 101 }}](#p101)
+- ### [{{ Conditions }}{{ 103 }}](#p103)
+- ### [{{ Rest & Recovery }}{{ 104 }}](#p104)
+- #### [{{ Provisions }}{{ 104 }}](#p104)
+- #### [{{ How to recover }}{{ 104 }}](#p104)
+- #### [{{ Skipping a Rest }}{{ 104 }}](#p104)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 104 }}](#p104)
+- ### [{{ Companions }}{{ 105 }}](#p105)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Companion death }}{{ 104 }}](#p104)
-- #### [{{ Rest }}{{ 104 }}](#p104)
-- #### [{{ Companion Skills }}{{ 104 }}](#p104)
+- #### [{{ Stats }}{{ 105 }}](#p105)
+- #### [{{ Companion death }}{{ 105 }}](#p105)
+- #### [{{ Rest }}{{ 105 }}](#p105)
+- #### [{{ Companion Skills }}{{ 105 }}](#p105)
 }}
 
 {{pageNumber,auto}}
@@ -663,7 +664,7 @@ Dancers são, primeiramente, artistas. Suas habilidades são usadas para perform
 ###### Mechanics
 Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques físicos quando se movimenta)
 
-#### Alquimist (WIP)
+#### Alquimist
 ###### Description
 "Hey, toma um gole disso" -David, o Alquimista, prestes a curar seu aliado ou fazer seu oponente explodir em uma poça de gosma verde.
 
@@ -921,11 +922,47 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Fúria Raivosa**. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
 
-archetype: Caster
+{{pageNumber,auto}}
+\page
+# Blaster (Caster)
 
-habilidade principal:
+<style>.page#p1:after{ display:none; }</style>
+**HP**: You start at 1st level with 8 (+CON mod.) maximum hit points, and gain an extra 2 (+CON mod.) per level.
 
-**Summon.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
+**MP**: 6 per level.
+
+**Equipment Proficiencies:** NONE.
+
+**Resistências:** Presence.
+
+{{classTable,decoration,frame,wide
+##### Blaster
+| Level | Proficiency Bonus | Features |Spells Known | Max Spell Circle | 
+| :---: | :---------------: | :------- | :----: |:----: |
+| 1st | +1 | Invocar Feitiço | 3 | 1 |
+| 2nd | +1 | Blaster Feat | 4 | 1 |
+| 3rd | +2 | Blaster Feat | 5 | 2 |
+| 4th | +2 | Blaster Feat, Attribute Score Improvement | 6 | 2 |
+| 5th | +3 | Blaster Feat | 7 | 3 |
+| 6th | +3 | Blaster Feat | 8 | 3 |
+| 7th | +4 | Blaster Feat | 9 | 4 |
+| 8th | +4 | Blaster Feat, Attribute Score Improvement | 10 | 4 |
+| 9th | +5 | Blaster Feat | 11 | 5 |
+| 10th | +5 | Blaster Feat | 12 | 5 |
+| 11th | +6 | Blaster Feat | 13 | 6 |
+| 12th | +6 | Blaster Feat, Attribute Score Improvement | 14 | 6 |
+| 13th | +7 | Blaster Feat | 15 | 7 |
+| 14th | +7 | Blaster Feat | 16 | 7 |
+| 15th | +8 | Blaster Feat | 17 | 8 |
+| 16th | +8 | Blaster Feat, Attribute Score Improvement | 18 | 8 |
+| 17th | +9 | Blaster Feat | 19 | 9 |
+| 18th | +9 | Blaster Feat | 20 | 9 |
+| 19th | +10 | Blaster Feat, Attribute Score Improvement | 21 | 9 |
+| 20th | +10 | Blaster Feat | 22 | 9 |
+}}
+
+
+**Invocar Feitiço.** Ação Completa, concentração (0PM): No final da rodada o invocador escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1)
 
 ### Tabela de invocação
 rola 1d6:

@@ -104,7 +104,7 @@ Dancers são, primeiramente, artistas. Suas habilidades são usadas para perform
 ###### Mechanics
 Passos de Vento (velocidade de movimento a mais e dá mais dano com ataques físicos quando se movimenta)
 
-#### Alquimist (WIP)
+#### Alquimist
 ###### Description
 "Hey, toma um gole disso" -David, o Alquimista, prestes a curar seu aliado ou fazer seu oponente explodir em uma poça de gosma verde.
 
