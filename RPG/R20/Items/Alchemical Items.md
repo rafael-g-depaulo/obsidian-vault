@@ -16,7 +16,7 @@ Itens alquímicos possuem um efeito.
 - *Alvo:* criatura ou objeto
 - *Alcance:* 4sqr
 - *Efeito:* O alvo toma 1d4 de dano de fogo no início dos seus turnos. O alvo pode gastar uma ação para fazer um teste de resistência de **DEX (CD 10)**, e se passar terminar o efeito em si mesmo.
-- *Valor:* 50g
+- *Valor:* 40g
 
 #### Bolsa Explosiva
 - *Descrição:* Um pequeno pacote com um pó cinza altamente volátil e explosivo.
@@ -25,7 +25,7 @@ Itens alquímicos possuem um efeito.
 - *Área:* raio 1sqr
 - *Efeito:* Todas as criaturas na área tomam **3d6** dano de impacto
 - *Resistência:* **DEX (CD 14)** reduz o dano pela metade.
-- *Valor:* 80g
+- *Valor:* 70g
 
 #### Graxa
 - *Descrição:* 
