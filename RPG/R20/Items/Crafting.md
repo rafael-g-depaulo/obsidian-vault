@@ -54,7 +54,7 @@ After rolling and comparing against the item CD, the materials spent and the pro
 **\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
 
 ## Crafting in Bulk
-One may choose to work in many items in series. For example, Frizz the rogue halfling wants to craft 1x portion of **Peçonha Contentrada** (60g/vial), and 2x of **Grude Verde**(30g/vial), in that order, totalling 120g worth of items. He then sets to work for the 3 weeks necessary for that. Lets see the journey taken by him:
+One may choose to work in many items in series. For example, Frizz the rogue halfling wants to craft 1x portion of **Peçonha Concentrada** (60g/vial), and 2x of **Grude Verde**(30g/vial), in that order, totaling 120g worth of items. He then sets to work for the 3 weeks necessary for that. Lets see the journey taken by him:
 
 He only needs to prepare 15g of materials at first, but he decides to get all 30g before starting. Then he spends a few weeks working on it, with the following results
 
@@ -66,10 +66,7 @@ He only needs to prepare 15g of materials at first, but he decides to get all 30
 | 3.2    | make 1x **Grude Verde**                                                                                                                     | 17                | 12              | Success(5+)                                      | **Grude Verde** (2x) done                                                             | 17,5g                                  | 7,5g worth                |
 | 3.3    | progress on **Grude Verde** (0 -> 10g)                                                                                                                     | 5                | 12              | Failure(5+)                                     | none                                                             | 17,5g                                  | 2,5g worth                |
 | 4    | make 1x **Grude Verde**                                                                                                                     | 15                | 12              | Success                                     | **Grude Verde** done                                                             | 5g worth + 5g worth (newly acquired)                                  | 7,5g worth                |
-As a result Frizz took 4 weeks to spend his 30g worth of materials, plus 10g extra he had to buy during the process, to produce 1x **Peçonha Concentrada** and 3x **Grude **
-
-1. At the end of week one, he rolls a 13
-
+As a result Frizz took 4 weeks to spend his 30g worth of materials, plus 10g extra he had to buy during the process, to produce 1x **Peçonha Concentrada** and 3x **Grude Verde**, with 2,5g worth of materials left over. it was a weird process filled with ups and downs, but considering that he spent 37,5g to produce 150g worth of items, he sleeps happily thinking about how many bad guys he's gonna take down with his creations.
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
