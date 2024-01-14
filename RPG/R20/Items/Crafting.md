@@ -39,7 +39,7 @@ When rolling a skill check for crafting, a character should use a set of tools s
 *OBS:* note that poisons can be made either through herbalism or alchemy.
 
 The CD for the skill roll to craft an item is determined by the item's level, according to the formula:
-- **CD = 12 + Item level/ 2**
+- **CD = 12 + Item level/2 (rounded down)**
 
 After rolling and comparing against the item CD, the materials spent and the progress in the production are as follows:
 
@@ -58,9 +58,15 @@ One may choose to work in many items in series. For example, Frizz the rogue hal
 
 He only needs to prepare 15g of materials at first, but he decides to get all 30g before starting. Then he spends a few weeks working on it, with the following results
 
-| week | alchemy roll | item progress | craft CD | result | remaining materials |
-| ---- | ------------ | ------------- | -------- | ------ | ------------------- |
-| 1    |              |               | 12         |        |                     |
+| week | intended production                                                                                                  | alchemy roll    | craft CD      | result                               | item progress                                                | materials at start of week        | materials spent | 
+| ---- | -------------------------------------------------------------------------------------------------------------------- | --------------- | ------------- | ------------------------------------ | ------------------------------------------------------------ | --------------------------------- | --------------- |
+| 1    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 10              | 13            | Failure                              | none                                                         | 30g worth                         | none     |
+| 2    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 13              | 13            | Success                              | **Peçonha Concentrada** partially done (50g/60g)             | 30g worth                       | 12,5g worth      |
+| 3.1    | Finish **Peçonha Concentrada** (50g -> 60g) | 14 | 13 | Success | **Peçonha Concentrada** done | 17,5g | 2,5g worth                |
+| 3.2    | make 1x **Grude Verde**                                                                                                                     | 17                | 12              | Success(5+)                                      | **Grude Verde** (2x) done                                                             | 17,5g                                  | 7,5g worth                |
+| 3.3    | progress on **Grude Verde** (0 -> 10g)                                                                                                                     | 5                | 12              | Failure(5+)                                     | none                                                             | 17,5g                                  | 2,5g worth                |
+| 4    | make 1x **Grude Verde**                                                                                                                     | 15                | 12              | Success                                     | **Grude Verde** done                                                             | 5g worth + 5g worth (newly acquired)                                  | 7,5g worth                |
+As a result Frizz took 4 weeks to spend his 30g worth of materials, plus 10g extra he had to buy during the process, to produce 1x **Peçonha Concentrada** and 3x **Grude **
 
 1. At the end of week one, he rolls a 13
 
