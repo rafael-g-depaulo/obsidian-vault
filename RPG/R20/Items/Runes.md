@@ -1,4 +1,4 @@
-# Runes
+## Runes
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
 
 <!-- have runes that allow you to cast spells as actions, and some as reactions to being hit or when crit -->

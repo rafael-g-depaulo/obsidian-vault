@@ -11,8 +11,6 @@ basic rules:
 use tools. costs 500silver for a set of tools (-5 without tools)
 -->
 
-CD to craft = 12 + Item level / 2
-
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
 
@@ -40,16 +38,10 @@ When rolling a skill check for crafting, a character should use a set of tools s
 
 *OBS:* note that poisons can be made either through herbalism or alchemy.
 
-When rolling the relevant skill the CD is defined by the item rarity.
-#### Crafting roll CD by item rarity
-| Item Rarity | CD  |
-| ----------- | --- |
-| Common      | 10  |
-| Uncommon    | 15  |
-| Rare        | 18  |
-| Very rare   | 20  |
+The CD for the skill roll to craft an item is determined by the item's level, according to the formula:
+- **CD = 12 + Item level/ 2**
 
-After rolling and comparing against the item CD
+After rolling and comparing against the item CD, the materials spent and the progress in the production are as follows:
 
 | Skill check result | Crafting progress                      | Materials spent  |
 | ------------------ | -------------------------------------- | ---------------- |
@@ -60,6 +52,18 @@ After rolling and comparing against the item CD
 | Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
 
 **\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
+
+## Crafting in Bulk
+One may choose to work in many items in series. For example, Frizz the rogue halfling wants to craft 1x portion of **Peçonha Contentrada** (60g/vial), and 2x of **Grude Verde**(30g/vial), in that order, totalling 120g worth of items. He then sets to work for the 3 weeks necessary for that. Lets see the journey taken by him:
+
+He only needs to prepare 15g of materials at first, but he decides to get all 30g before starting. Then he spends a few weeks working on it, with the following results
+
+| week | alchemy roll | item progress | craft CD | result | remaining materials |
+| ---- | ------------ | ------------- | -------- | ------ | ------------------- |
+| 1    |              |               | 12         |        |                     |
+
+1. At the end of week one, he rolls a 13
+
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
