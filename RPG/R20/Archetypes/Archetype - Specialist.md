@@ -60,3 +60,17 @@ MULTI_FEATURES:
 | 19th  |     |
 | 20th  |     |
 }}
+
+Razão Social	RAFAEL GONCALVES DE PAULO
+CNPJ MEI	
+Nome Fantasia	
+Endereço MEI 
+CEP	
+Representante Legal	
+Nacionalidade	
+RG	
+Emissor	CPF	
+Endereço	
+CEP	
+E-mail	
+Telefone
