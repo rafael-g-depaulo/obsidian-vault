@@ -3,8 +3,8 @@ This section exists mostly to let me organize and categorize the classes with si
 
 | Theme | Specialist | Martial | Off-Caster | Caster |
 | ---- | ---- | ---- | ---- | ---- |
-| nature |  |  |  | plantomancer |
-| spooky |  |  |  | witch |
-| knowledge |  |  | spelgard | wordsmith |
-| glass cannon |  |  |  | channeler |
-| simple |  | fighter |  |  |
+| nature | werebeast | beast warrior |  | plantomancer |
+| spooky | alchemist |  |  | witch |
+| knowledge/basic | rogue | fighter | spelgard | wordsmith |
+| simple? single-minded? brutal? |  | juggernaut |  | channeler |
+| charming | dancer | champion | bard |  |
