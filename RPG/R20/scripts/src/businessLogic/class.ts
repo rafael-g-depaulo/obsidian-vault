@@ -34,6 +34,8 @@ export const parseClass = (classMacro: Macro): Class => {
       : undefined,
     feats: getString(classMacro.items.FEATS)
   })
-  console.log(`AAAAAAAAAAAAAAa`, x.feats)
+
+  if (x.name === "Witch")
+    console.log(`AAAAAAAAAAAAAAa`, x.feats, "asdas", x.multi_features)
   return x as any
 }

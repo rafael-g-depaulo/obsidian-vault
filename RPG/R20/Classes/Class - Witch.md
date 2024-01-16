@@ -8,6 +8,7 @@ MP_ATTB: PRE
 SPELLCASTING_ATTB: PRE
 
 FEATURES:
+
 | LEVEL | FEATURE       |
 | ----- | ------------- |
 | 1     | Hex           |
