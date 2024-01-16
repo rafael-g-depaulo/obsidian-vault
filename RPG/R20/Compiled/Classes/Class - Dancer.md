@@ -38,7 +38,13 @@
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Ritmo de Batalha.** undefined
+
+**Passos de Vento.** undefined
+
+**Dança Ilusória.** undefined
+
+**Confie na Estrela.** undefinedtest123
 
 asdasdasdasdasdasdasd
 

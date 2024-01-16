@@ -23,7 +23,7 @@ const getSaves = (saves: string[]) =>
   `**Resistências:** ${saves.map(a => getAttbName(a as Attb)).join(', ')}.`
 
 const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
-  const features = classDefinition.features
+  const features = classDefinition.featuresList
     .map((levelFeatures, i) => {
       const featuresForLevel: string[] = levelFeatures
         .filter(feat => feat !== '')
@@ -83,7 +83,11 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 }
 
 const makeFeaturesSection = (classDefinition: Class) => {
-  return `àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF`
+  console.log(classDefinition.features)
+  return classDefinition.features
+    // .filter(item => !!item[0])
+    .map(({ name, description }) => `**${name}.** ${description}`)
+    .join('\n\n') + "test123"
 }
 
 const makeFeatsSection = (className: string, feats: Feat[]) => {

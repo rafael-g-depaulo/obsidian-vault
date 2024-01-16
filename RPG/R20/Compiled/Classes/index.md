@@ -241,7 +241,7 @@ Important tips:
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Make Concoction?.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -316,7 +316,23 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Rage (+2).** undefined
+
+**Savage Attack.** undefined
+
+**Defesa Animal.** undefined
+
+**Rage (+3).** undefined
+
+**Wild Senses (3).** undefined
+
+**Rage (+4).** undefined
+
+**Wild Senses (4).** undefined
+
+**Rage (+5).** undefined
+
+**Wild Senses (5).** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -414,7 +430,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Smite.** undefined
+
+**Lay on Hands.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -504,7 +522,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Invocar Feitiço.** undefined
+
+**Juntar Energia, Faísca Mágica: Poder.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -742,7 +762,13 @@ feats:
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Ritmo de Batalha.** undefined
+
+**Passos de Vento.** undefined
+
+**Dança Ilusória.** undefined
+
+**Confie na Estrela.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -867,7 +893,13 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Precise Strike.** undefined
+
+**Action Surge.** undefined
+
+**Action Surge (2).** undefined
+
+**Action Surge (3).** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -948,7 +980,9 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Raise Guard, Guts.** undefined
+
+**Powerful Strike.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -1049,7 +1083,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Summon Sapling.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -1222,7 +1256,9 @@ List of spells available for a Plantomancer to learn.
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Sneak Attack.** undefined
+
+**Cunning Action.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -1342,7 +1378,9 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Lay on Hands.** undefined
+
+**Spiritual Weapon.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -1517,7 +1555,9 @@ List of spells available for a Spelgard to learn.
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Beast Form, Wild Dice.** undefined
+
+**Monstruous Blood.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
@@ -1619,7 +1659,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
+
+**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).test123
 
 asdasdasdasdasdasdasd
 

@@ -38,7 +38,23 @@
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Rage (+2).** undefined
+
+**Savage Attack.** undefined
+
+**Defesa Animal.** undefined
+
+**Rage (+3).** undefined
+
+**Wild Senses (3).** undefined
+
+**Rage (+4).** undefined
+
+**Wild Senses (4).** undefined
+
+**Rage (+5).** undefined
+
+**Wild Senses (5).** undefinedtest123
 
 asdasdasdasdasdasdasd
 

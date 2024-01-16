@@ -1,13 +1,22 @@
 import { pad } from '../arrayUtils'
 import { getString } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
+import { Feature } from './class'
 
 export const joinFeatures = (...features: string[][][]) =>
   features.reduce((acc, cur) =>
     acc.map((levelFeatures, i) => [...levelFeatures, ...cur[i]])
   )
 
-export const parseFeatures = (featuresMarkdown: string) => {
+export const parseFeatures = (featuresMarkdown: string = ""): Feature[] => {
+
+  const features = parseMarkdownTable(featuresMarkdown)
+    .map(([level, name, description]): Feature => ({ level, name, description }))
+
+  return features
+}
+
+export const parseFeaturesList = (featuresMarkdown: string) => {
   const featuresArray = parseMarkdownTable(getString(featuresMarkdown) ?? '')
     .map(
       ([level, features]) =>

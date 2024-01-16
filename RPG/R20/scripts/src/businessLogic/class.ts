@@ -1,7 +1,7 @@
 import { groupBy, pad, separateGroups } from '../arrayUtils'
 import { getString, getStringArr, Macro } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
-import { parseFeatures, parseMultiFeatures } from './features'
+import { parseFeatures, parseFeaturesList, parseMultiFeatures } from './features'
 
 export type Feat =
   | {
@@ -11,6 +11,12 @@ export type Feat =
   }
   | string
 
+export type Feature = {
+  name: string,
+  description: string,
+  level: string,
+}
+
 export interface Class {
   archetype: string
   name: string
@@ -18,7 +24,8 @@ export interface Class {
   saves: string[]
   mpAttribute?: string
   spellcastingAttb?: string
-  features: string[][]
+  features: Feature[]
+  featuresList: string[][]
   multi_features: string[][]
   wide?: boolean
   feats: Feat[]
@@ -54,7 +61,7 @@ export const parseClass = (classMacro: Macro): Class => {
     archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
     equipProficiencies:
       getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
-    features: parseFeatures(getString(classMacro.items.FEATURES) ?? ''),
+    featuresList: parseFeaturesList(getString(classMacro.items.FEATURES) ?? ''),
     multi_features: pad(
       parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
       21,
@@ -68,6 +75,7 @@ export const parseClass = (classMacro: Macro): Class => {
       ? getString(classMacro.items.WIDE) === 'true'
       : undefined,
     feats: parseFeats(getString(classMacro.items.FEATS)),
+    features: parseFeatures(getString(classMacro.items.FEATURES))
   }
 
   if (x.name === 'Witch') console.log(`AAAAAAAAAAAAAAa`, x.feats)

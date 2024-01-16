@@ -38,7 +38,9 @@
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Beast Form, Wild Dice.** undefined
+
+**Monstruous Blood.** undefinedtest123
 
 asdasdasdasdasdasdasd
 

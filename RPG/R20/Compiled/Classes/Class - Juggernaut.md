@@ -38,7 +38,9 @@
 }}
 
 
-àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+**Raise Guard, Guts.** undefined
+
+**Powerful Strike.** undefinedtest123
 
 asdasdasdasdasdasdasd
 
