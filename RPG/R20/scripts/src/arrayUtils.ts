@@ -39,22 +39,18 @@ export const separateGroups =
   <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>
     (items: Item[]): { group: Key; items: Item[] }[] => {
 
-      const groups = items.reduce<{
-        groups: { items: Item[]; group: Key }[]
-        previous?: Key
-      }>(
+      type Groups = {
+        items: Item[]; group: Key
+      }[]
+
+      const { groups } = items.reduce<{ groups: Groups, previous?: Key }>(
         (acc, curItem): {
           groups: { items: Item[]; group: Key }[]
           previous?: Key
         } => {
           const groupKind = getGroup(curItem)
 
-          if (!acc.previous)
-            return {
-              groups: [...acc.groups, { group: groupKind, items: [curItem] }],
-              previous: groupKind,
-            }
-
+          // if building on current group
           if (acc.previous === groupKind)
             return {
               ...acc,
@@ -70,14 +66,17 @@ export const separateGroups =
               ],
             }
 
-          return acc
+          // if creating new group
+          return {
+            groups: [...acc.groups, { group: groupKind, items: [curItem] }],
+            previous: groupKind,
+          }
+
         },
         { groups: [] }
       )
 
-      console.table(groups.groups)
-      // groups.items.map(console.table)
-      return []
+      return groups
     }
 
 type FuncList = readonly Function[]

@@ -3,6 +3,14 @@ import { getString, getStringArr, Macro } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
 import { parseFeatures, parseMultiFeatures } from './features'
 
+export type Feat =
+  | {
+    name: string
+    description: string
+    preRequisites?: string
+  }
+  | string
+
 export interface Class {
   archetype: string
   name: string
@@ -13,14 +21,21 @@ export interface Class {
   features: string[][]
   multi_features: string[][]
   wide?: boolean
-  feats: string
+  feats: Feat[]
 }
 
 const groupFeats = separateGroups((line: string) => line[0] === '|' ? 'feat' : 'raw')
 const parseFeats = (content: string = "") => {
   const entries = groupFeats(content.split('\n'),)
 
-  return entries
+  const featsContent = entries.map(({ group, items }) =>
+    group === 'feat' ?
+      parseMarkdownTable(items.join("\n"), true)
+      : items.join("")
+  )
+
+  // return entries
+  return featsContent
 }
 
 export const parseClass = (classMacro: Macro): Class => {
