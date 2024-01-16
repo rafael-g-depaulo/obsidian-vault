@@ -59,6 +59,31 @@ BREAK
 | ---- | ---- | ---- |
 | Cursed Knowledge | learn 2 hexes |  |
 |  |  |  |
+CLASS_NOTE
+
+CLASS_NOTE_NAME: Poções Misteriosas
+CLASS_NOTE_DESCRIPTION: 
+
+Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.
+
+##### Efeitos Exotéricos
+
+| Efeito Primário                       | 1d4 |
+|:------------------------------------- |:---:|
+| Recebe 2d6 cura                       |  1  |
+| Recebe 2d4 MP temporário              |  2  |
+| +PRE rolagens de resistência e defesa |  3  |
+| +PRE velocidade de movimento e ataque |  4  |
+
+| Efeito Secundário                      | 1d4 |
+|:-------------------------------------- |:---:|
+| Sofre 1d4 dano                         |  1  |
+| Desvantagem em rolagens por uma rodada |  2  |
+| Perde próxima ação de movimento        |  3  |
+| Fica cego por 1 rodada\*               |  4  |
+
+**\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
+
 
 
 }}

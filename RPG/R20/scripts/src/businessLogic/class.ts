@@ -19,6 +19,11 @@ export type Feature = {
   level: string
 }
 
+type ClassNote = {
+  name: string
+  description: string
+}
+
 export interface Class {
   archetype: string
   name: string
@@ -31,6 +36,7 @@ export interface Class {
   multi_features: string[][]
   wide?: boolean
   feats: (Feat | string)[]
+  classNote?: ClassNote
 }
 
 const groupFeats = separateGroups((line: string) =>
@@ -56,6 +62,11 @@ const parseFeats = (content: string = '') => {
   return featsContent.flat()
 }
 
+const makeClassNote = (name: string, description: string) => ({
+  name,
+  description,
+})
+
 export const parseClass = (classMacro: Macro): Class => ({
   archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
   equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
@@ -74,4 +85,8 @@ export const parseClass = (classMacro: Macro): Class => ({
     : undefined,
   feats: parseFeats(getString(classMacro.items.FEATS)),
   features: parseFeatures(getString(classMacro.items.FEATURES)),
+  classNote: makeClassNote(
+    getString(classMacro.items.CLASS_NOTE_NAME)!,
+    getString(classMacro.items.CLASS_NOTE_DESCRIPTION)!
+  ),
 })

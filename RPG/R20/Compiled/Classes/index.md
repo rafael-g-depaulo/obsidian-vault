@@ -1701,29 +1701,30 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on
 
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)
+
+- **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
+
+- **NAME HERE.** Scary Look now makes target scared of all your alliesPre-requisites: *13th level in Witch*.
+
+- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on
+
+- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look
+
+- **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
+
+- **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a HexPre-requisites: *8th level witch.*.
+
 {{pageNumber,auto}}
 \page
 
 
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)
+- **Cursed Knowledge.** learn 2 hexes
 
+- **.** 
 
+CLASS_NOTE
 
-- **Focused Cantrip**. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
-
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_). At every 4th level you can spend +2PM to increase the DC by 2.
-
-- **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
-
-- **NAME HERE.** Scary Look now makes target scared of all your allies. 13th level minimum.
-
-- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
-
-- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look.
-
-- **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
-
-- **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
 {{pageNumber,auto}}
 \page
 
