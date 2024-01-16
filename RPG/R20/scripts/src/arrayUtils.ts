@@ -29,6 +29,22 @@ export const groupBy =
         {} as { [key in Key]: Item[] }
       )
 
+export const separateGroups =
+  <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>
+    (items: Item[]): { group: Key, items: Item[] }[] => {
+
+      const groups = items.reduce<{ groups: { items: Item[], group: Key }[], previous?: Key }>((acc, curItem) => {
+        const groupKind = getGroup(curItem)
+
+
+        return acc
+      }
+        , { groups: [] })
+
+      return []
+    }
+
+
 type FuncList = readonly Function[]
 type Promisify<F extends Function> = F extends (i: infer Input) => infer Output
   ? Output extends Promise<infer Inner>

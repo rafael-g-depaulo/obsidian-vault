@@ -1,4 +1,4 @@
-import { groupBy, pad } from '../arrayUtils'
+import { groupBy, pad, separateGroups } from '../arrayUtils'
 import { getString, getStringArr, Macro } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
 import { parseFeatures, parseMultiFeatures } from './features'
@@ -16,11 +16,11 @@ export interface Class {
   feats: string
 }
 
-const groupFeats = groupBy((line: string) => line[0] === '|' ? feat : raw)
+const groupFeats = separateGroups((line: string) => line[0] === '|' ? 'feat' : 'raw')
 const parseFeats = (content: string = "") => {
   const entries = groupFeats(content.split('\n'),)
 
-  return content
+  return entries
 }
 
 export const parseClass = (classMacro: Macro): Class => {
