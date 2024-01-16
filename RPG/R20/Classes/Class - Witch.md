@@ -43,35 +43,26 @@ MULTI_FEATURES:
 FEATS:
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
-| ---- | ----------- | -------------- |
-| Focused Cantrip     | Your damaging cantrips do an extra die of damage per effect you're concentrating on            |                |
+| ---- | ---- | ---- |
+| Focused Cantrip | Your damaging cantrips do an extra die of damage per effect you're concentrating on |  |
+| Scary Look | (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_) |  |
+| NAME HERE | Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1). |  |
+| NAME HERE | Scary Look now makes target scared of all your allies | 13th level in Witch |
+| Cantrip asdaf | Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on |  |
+| NAME HERE | Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look |  |
+| Distant Hex | (while casting a Hex) +1PM: to double it's range. |  |
+| Multi-Hex | (while casting a Hex) +3PM: target an additional creature when you cast a Hex | 8th level witch. |
+
 BREAK
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
-| ---- | ----------- | -------------- |
-| Scary Look     | (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)            |                |
-
-
-
+| ---- | ---- | ---- |
+| Cursed Knowledge | learn 2 hexes |  |
+|  |  |  |
 
 
 }}
 
-- **Focused Cantrip**. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
-
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_). At every 4th level you can spend +2PM to increase the DC by 2.
-
-- **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
-
-- **NAME HERE.** Scary Look now makes target scared of all your allies. 13th level minimum.
-
-- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
-
-- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look.
-
-- **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
-
-- **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a Hex. 8th level witch.
 {{page-break}}
 - **Cursed Knowledge.** learn 2 hexes.
 
@@ -88,7 +79,7 @@ diferenças entre isso e coisas do alquimista:
 	- alquimista pode aplicar nos outros
 	- bruxa tem que dar e a pessoa tomar
 - efeitos
-	- bruxa só são imediatos ou duram 1 turno
+	- ~~bruxa só são imediatos ou duram 1 turno~~ os de bruxa tbm duram cena agora.
 	- alquimista tem coisas com duração cena
 - acesso
 	- bruxa tem que comprar poderes pra poder começar a distribuir
