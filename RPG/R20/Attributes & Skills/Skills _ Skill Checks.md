@@ -25,6 +25,7 @@ Jogar Arcana para INT e adicionar misticismo (separar "vibe" de conhecimento)
 #### Lógica / Logic
 #### História / History
 #### Medicina / Medicine
+#### Religião / Religion
 ### Sen
 #### Percepção / Perception
 #### Empatia / Empathy
@@ -67,17 +68,7 @@ look for something physically
 #### History (INT)
 #### Arcana (SEN)
 Figuring out magic spells or items, understanding mystical beings.
-
-### Miscellaneous
-#### Stealth (DEX)
-#### Sleight of Hand (DEX)
-#### Medicine (INT)
-#### Nature (INT)
-#### Animal Handling (SEN)
-
-### Rest
-#### Survival (SEN)
-#### Cooking (PRE)
+#### Religion (INT)
 
 {{page-break}}
 ### Production
