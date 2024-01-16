@@ -44,9 +44,12 @@
 
 **Action Surge (2).** undefined
 
-**Action Surge (3).** undefinedtest123
+**Action Surge (3).** undefined
 
-asdasdasdasdasdasdasd
+### Fighter Feats
+Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 

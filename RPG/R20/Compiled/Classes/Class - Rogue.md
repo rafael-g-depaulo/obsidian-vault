@@ -40,9 +40,12 @@
 
 **Sneak Attack.** undefined
 
-**Cunning Action.** undefinedtest123
+**Cunning Action.** undefined
 
-asdasdasdasdasdasdasd
+### Rogue Feats
+Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 

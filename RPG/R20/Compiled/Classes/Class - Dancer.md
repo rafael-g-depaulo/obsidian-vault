@@ -44,9 +44,12 @@
 
 **Dança Ilusória.** undefined
 
-**Confie na Estrela.** undefinedtest123
+**Confie na Estrela.** undefined
 
-asdasdasdasdasdasdasd
+### Dancer Feats
+Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 

@@ -83,15 +83,33 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 }
 
 const makeFeaturesSection = (classDefinition: Class) => {
-  console.log(classDefinition.features)
   return classDefinition.features
-    // .filter(item => !!item[0])
     .map(({ name, description }) => `**${name}.** ${description}`)
-    .join('\n\n') + "test123"
+    .join('\n\n')
 }
 
-const makeFeatsSection = (className: string, feats: Feat[]) => {
-  return `asdasdasdasdasdasdasd`
+const singleFeatString = (feat: Feat) =>
+  `- **${feat.name}.** ${feat.description}` + !feat.preRequisites
+    ? ''
+    : `Pre-requisites: *${feat.preRequisites}*.`
+const makeFeatsSection = (
+  className: string,
+  archetype: string,
+  feats: (Feat | string)[]
+) => {
+  const featsList =
+    feats
+      .map(feat => "t" + typeof feat + JSON.stringify(feat))
+      // .map(feat => (!!feat?.name ? singleFeatString(feat) : feat))
+      .join('\n\n')
+
+  console.log("A", featsList)
+  return (
+    `### ${className} Feats\n` +
+    `Beginning at level 2, every time you gain a level in ${className} you gain a Witch Feat. You may instead of a ${className} feat take a ${archetype} or General Feat of your choice.` +
+    `\n\n` +
+    'BBBBBBBBBBBBBBB' + featsList
+  )
 }
 
 export const generateClassDefinition = (
@@ -119,7 +137,11 @@ export const generateClassDefinition = (
     '\n\n' +
     makeFeaturesSection(classDefinition) +
     '\n\n' +
-    makeFeatsSection(classDefinition.name, classDefinition.feats)
+    makeFeatsSection(
+      classDefinition.name,
+      archetype.name,
+      classDefinition.feats
+    )
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
   !spellcastingAttb

@@ -43,9 +43,12 @@
 
 **Lay on Hands.** undefined
 
-**Spiritual Weapon.** undefinedtest123
+**Spiritual Weapon.** undefined
 
-asdasdasdasdasdasdasd
+### Spelgard Feats
+Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 

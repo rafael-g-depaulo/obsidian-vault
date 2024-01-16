@@ -43,9 +43,12 @@
 
 **Invocar Feitiço.** undefined
 
-**Juntar Energia, Faísca Mágica: Poder.** undefinedtest123
+**Juntar Energia, Faísca Mágica: Poder.** undefined
 
-asdasdasdasdasdasdasd
+### Channeler Feats
+Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 

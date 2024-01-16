@@ -38,9 +38,12 @@
 }}
 
 
-**Make Concoction?.** undefinedtest123
+**Make Concoction?.** undefined
 
-asdasdasdasdasdasdasd
+### Alquimist Feats
+Beginning at level 2, every time you gain a level in Alquimist you gain a Witch Feat. You may instead of a Alquimist feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.

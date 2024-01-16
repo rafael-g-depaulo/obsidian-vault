@@ -41,9 +41,12 @@
 }}
 
 
-**Summon Sapling.** undefinedtest123
+**Summon Sapling.** undefined
 
-asdasdasdasdasdasdasd
+### Plantomancer Feats
+Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 

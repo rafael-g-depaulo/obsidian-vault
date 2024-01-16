@@ -54,9 +54,12 @@
 
 **Rage (+5).** undefined
 
-**Wild Senses (5).** undefinedtest123
+**Wild Senses (5).** undefined
 
-asdasdasdasdasdasdasd
+### Beast Warrior Feats
+Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 

@@ -9,7 +9,6 @@ export type Feat =
     description: string
     preRequisites?: string
   }
-  | string
 
 export type Feature = {
   name: string,
@@ -28,7 +27,7 @@ export interface Class {
   featuresList: string[][]
   multi_features: string[][]
   wide?: boolean
-  feats: Feat[]
+  feats: (Feat | string)[]
 }
 
 const groupFeats = separateGroups((line: string) =>

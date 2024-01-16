@@ -793,9 +793,12 @@ Important tips:
 }}
 
 
-**Make Concoction?.** undefinedtest123
+**Make Concoction?.** undefined
 
-asdasdasdasdasdasdasd
+### Alquimist Feats
+Beginning at level 2, every time you gain a level in Alquimist you gain a Witch Feat. You may instead of a Alquimist feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.
@@ -884,9 +887,12 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Rage (+5).** undefined
 
-**Wild Senses (5).** undefinedtest123
+**Wild Senses (5).** undefined
 
-asdasdasdasdasdasdasd
+### Beast Warrior Feats
+Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
@@ -984,9 +990,12 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Smite.** undefined
 
-**Lay on Hands.** undefinedtest123
+**Lay on Hands.** undefined
 
-asdasdasdasdasdasdasd
+### Champion Feats
+Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
@@ -1076,9 +1085,12 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **Invocar Feitiço.** undefined
 
-**Juntar Energia, Faísca Mágica: Poder.** undefinedtest123
+**Juntar Energia, Faísca Mágica: Poder.** undefined
 
-asdasdasdasdasdasdasd
+### Channeler Feats
+Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -1320,9 +1332,12 @@ feats:
 
 **Dança Ilusória.** undefined
 
-**Confie na Estrela.** undefinedtest123
+**Confie na Estrela.** undefined
 
-asdasdasdasdasdasdasd
+### Dancer Feats
+Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
@@ -1451,9 +1466,12 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 
 **Action Surge (2).** undefined
 
-**Action Surge (3).** undefinedtest123
+**Action Surge (3).** undefined
 
-asdasdasdasdasdasdasd
+### Fighter Feats
+Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
@@ -1534,9 +1552,12 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 
 **Raise Guard, Guts.** undefined
 
-**Powerful Strike.** undefinedtest123
+**Powerful Strike.** undefined
 
-asdasdasdasdasdasdasd
+### Juggernaut Feats
+Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
@@ -1635,9 +1656,12 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 }}
 
 
-**Summon Sapling.** undefinedtest123
+**Summon Sapling.** undefined
 
-asdasdasdasdasdasdasd
+### Plantomancer Feats
+Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1810,9 +1834,12 @@ List of spells available for a Plantomancer to learn.
 
 **Sneak Attack.** undefined
 
-**Cunning Action.** undefinedtest123
+**Cunning Action.** undefined
 
-asdasdasdasdasdasdasd
+### Rogue Feats
+Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
@@ -1932,9 +1959,12 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Lay on Hands.** undefined
 
-**Spiritual Weapon.** undefinedtest123
+**Spiritual Weapon.** undefined
 
-asdasdasdasdasdasdasd
+### Spelgard Feats
+Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -2109,9 +2139,12 @@ List of spells available for a Spelgard to learn.
 
 **Beast Form, Wild Dice.** undefined
 
-**Monstruous Blood.** undefinedtest123
+**Monstruous Blood.** undefined
 
-asdasdasdasdasdasdasd
+### Werebeast Feats
+Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtstring""
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
@@ -2213,9 +2246,18 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
-**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).test123
+**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
-asdasdasdasdasdasdasd
+### Witch Feats
+Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
+
+BBBBBBBBBBBBBBBtobject[{"name":"**Focused Cantrip**","description":"Your damaging cantrips do an extra die of damage per effect you're concentrating on"}]
+
+tstring"BREAK"
+
+tobject[{"name":"**Scary Look**","description":"(2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)"}]
+
+tstring""
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
