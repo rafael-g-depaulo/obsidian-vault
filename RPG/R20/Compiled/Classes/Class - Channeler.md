@@ -97,7 +97,7 @@ Begining at level 2, every time you gain a level in Channeler you gain a Channel
 
 - **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
 
-- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo.
+- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
 | d6  |   dano   |
 |:---:|:--------:|
@@ -126,7 +126,7 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 - **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
 
-- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
 
 - **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 

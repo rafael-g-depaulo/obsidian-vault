@@ -132,49 +132,50 @@ ___
 - #### [{{ Ideas for change }}{{ 59 }}](#p59)
 - #### [{{ Working with item levels. }}{{ 59 }}](#p59)
 - ### [{{ Magic Items }}{{ 60 }}](#p60)
-- ### [{{ Runes }}{{ 62 }}](#p62)
-- ### [{{ Crafting }}{{ 63 }}](#p63)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 63 }}](#p63)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 63 }}](#p63)
-- ### [{{ Spells }}{{ 64 }}](#p64)
-- #### [{{ Learning Spells }}{{ 64 }}](#p64)
-- #### [{{ Prepared vs. Learned Spells }}{{ 64 }}](#p64)
-- #### [{{ Casting Spells }}{{ 64 }}](#p64)
-- #### [{{ Spell levels }}{{ 64 }}](#p64)
-- #### [{{ Spell Tags }}{{ 65 }}](#p65)
-- #### [{{ Flavor }}{{ 65 }}](#p65)
-- ### [{{ Spell Tags }}{{ 66 }}](#p66)
-- #### [{{ Tags }}{{ 66 }}](#p66)
-- ### [{{ Spell List }}{{ 67 }}](#p67)
-- #### [{{ All Spells }}{{ 67 }}](#p67)
-- ### [{{ Spells }}{{ 69 }}](#p69)
-- ### [{{ Contracts, Paladins & Entities }}{{ 104 }}](#p104)
-- #### [{{ Paladins }}{{ 104 }}](#p104)
-- #### [{{ Contract }}{{ 104 }}](#p104)
-- #### [{{ Favor }}{{ 104 }}](#p104)
-- #### [{{ Losing Favor }}{{ 104 }}](#p104)
-- #### [{{ Miracles }}{{ 104 }}](#p104)
-- ### [{{ Companions }}{{ 105 }}](#p105)
-- #### [{{ Stats }}{{ 105 }}](#p105)
-- #### [{{ Companion death }}{{ 105 }}](#p105)
-- #### [{{ Rest }}{{ 105 }}](#p105)
-- #### [{{ Companion Skills }}{{ 105 }}](#p105)
-- ### [{{ Conditions }}{{ 107 }}](#p107)
-- ### [{{ Rest & Recovery }}{{ 108 }}](#p108)
-- #### [{{ Provisions }}{{ 108 }}](#p108)
-- #### [{{ How to recover }}{{ 108 }}](#p108)
+- #### [{{ Runes }}{{ 61 }}](#p61)
+- ### [{{ Crafting }}{{ 62 }}](#p62)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 62 }}](#p62)
+- #### [{{ Crafting in Bulk }}{{ 62 }}](#p62)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 62 }}](#p62)
+- ### [{{ Spells }}{{ 63 }}](#p63)
+- #### [{{ Learning Spells }}{{ 63 }}](#p63)
+- #### [{{ Prepared vs. Learned Spells }}{{ 63 }}](#p63)
+- #### [{{ Casting Spells }}{{ 63 }}](#p63)
+- #### [{{ Spell levels }}{{ 63 }}](#p63)
+- #### [{{ Spell Tags }}{{ 64 }}](#p64)
+- #### [{{ Flavor }}{{ 64 }}](#p64)
+- ### [{{ Spell Tags }}{{ 65 }}](#p65)
+- #### [{{ Tags }}{{ 65 }}](#p65)
+- ### [{{ Spell List }}{{ 66 }}](#p66)
+- #### [{{ All Spells }}{{ 66 }}](#p66)
+- ### [{{ Spells }}{{ 68 }}](#p68)
+- ### [{{ Contracts, Paladins & Entities }}{{ 103 }}](#p103)
+- #### [{{ Paladins }}{{ 103 }}](#p103)
+- #### [{{ Contract }}{{ 103 }}](#p103)
+- #### [{{ Favor }}{{ 103 }}](#p103)
+- #### [{{ Losing Favor }}{{ 103 }}](#p103)
+- #### [{{ Miracles }}{{ 103 }}](#p103)
+- ### [{{ Companions }}{{ 104 }}](#p104)
+- #### [{{ Stats }}{{ 104 }}](#p104)
+- #### [{{ Companion death }}{{ 104 }}](#p104)
+- #### [{{ Rest }}{{ 104 }}](#p104)
+- #### [{{ Companion Skills }}{{ 104 }}](#p104)
+- ### [{{ Conditions }}{{ 106 }}](#p106)
+- ### [{{ Rest & Recovery }}{{ 107 }}](#p107)
+- #### [{{ Provisions }}{{ 107 }}](#p107)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Skipping a Rest }}{{ 108 }}](#p108)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 108 }}](#p108)
-- ### [{{ Companions }}{{ 109 }}](#p109)
-- #### [{{ Stats }}{{ 109 }}](#p109)
-- #### [{{ Companion death }}{{ 109 }}](#p109)
-- #### [{{ Rest }}{{ 109 }}](#p109)
-- #### [{{ Companion Skills }}{{ 109 }}](#p109)
+- #### [{{ How to recover }}{{ 107 }}](#p107)
+- #### [{{ Skipping a Rest }}{{ 107 }}](#p107)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 107 }}](#p107)
+- ### [{{ Companions }}{{ 108 }}](#p108)
+- #### [{{ Stats }}{{ 108 }}](#p108)
+- #### [{{ Companion death }}{{ 108 }}](#p108)
+- #### [{{ Rest }}{{ 108 }}](#p108)
+- #### [{{ Companion Skills }}{{ 108 }}](#p108)
 }}
 
 {{pageNumber,auto}}
@@ -281,6 +282,7 @@ Description of skills below:
 #### Lógica / Logic
 #### História / History
 #### Medicina / Medicine
+#### Religião / Religion
 ### Sen
 #### Percepção / Perception
 #### Empatia / Empathy
@@ -323,17 +325,7 @@ look for something physically
 #### History (INT)
 #### Arcana (SEN)
 Figuring out magic spells or items, understanding mystical beings.
-
-### Miscellaneous
-#### Stealth (DEX)
-#### Sleight of Hand (DEX)
-#### Medicine (INT)
-#### Nature (INT)
-#### Animal Handling (SEN)
-
-### Rest
-#### Survival (SEN)
-#### Cooking (PRE)
+#### Religion (INT)
 
 {{pageNumber,auto}}
 \page
@@ -363,7 +355,7 @@ Many situations allow for different ways for a character to achieve their goals,
 {{pageNumber,auto}}
 \page
 
-It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM choses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
+It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM chooses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
 
 ##### DC for using a different skill for a task
 
@@ -526,6 +518,7 @@ Starting at 2nd level, a Specialist gains the **Expertise** feature.
 
 ### Spells
 None by default
+
 
 
 
@@ -1107,7 +1100,7 @@ Begining at level 2, every time you gain a level in Channeler you gain a Channel
 
 - **Magia Energizante.**  toda magia pode ser aumentada com **+2PM:** ganha energia igual ao círculo da magia.
 
-- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo.
+- **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
 | d6  |   dano   |
 |:---:|:--------:|
@@ -1136,7 +1129,7 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 - **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
 
-- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
 
 - **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 
@@ -1437,6 +1430,11 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 - **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
 - **Valentão**. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
+
+
+
+Skill: Pyrexia (heat meter that goes positive and negative and increases the max with level)
+
 
 {{pageNumber,auto}}
 \page
@@ -2659,7 +2657,7 @@ R20's formula: ceil(lv/2)
   - Climbing doesn’t halve your speed.
   - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
-**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação (2PM): some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
+**Defensive Duelist.** (você é atacado enquanto empunha uma arma leve com a qual é proficiente) reação: some sua proficiência na sua defesa contra esse ataque. Prerequisite: Dexterity 13 or higher
 
 **Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
 
@@ -3047,17 +3045,17 @@ invulnerability rare 4000
 
 ## Poisons
 #### Basic Poison
-_Potion, Common. 20g_
+_Potion, Common, lv1. 20g_
 
 You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d12 poison damage.
 
 #### Grude Verde
-_Potion, Common. 30g_
+_Potion, Common, lv2. 30g_
 
 You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 12 Constitution saving throw or take 1d8 poison damage and be slowed for the scene.
 
 #### Peçonha Concentrada
-_Potion, Common. 60g_
+_Potion, Common, lv3. 60g_
 
 You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition {{pageNumber,auto}}
 \page
@@ -3136,9 +3134,6 @@ The level of an item would be equal to the spell's circle (then you can have cha
 | Rare      | 5th or higher   | 501-5,000 gp    |
 | Very rare | 11th or higher  | 5,001-50,000 gp |
 | Legendary | 17th or higher  | 50,001+ gp      |
-
-
-
 ### Magic item list
 
 #### Corda da Escalada
@@ -3226,22 +3221,21 @@ _Legendary (9999gp)_
 -->
 
 
-{{pageNumber,auto}}
-\page
-# Runes
+## Runes
 You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
 
 <!-- have runes that allow you to cast spells as actions, and some as reactions to being hit or when crit -->
 
 Rune effects:
 
-| Name                   | Item Level | Avg. Price | Max Charges | Recharge rate     | Effect                                                                                                                     |
-| ---------------------- | ---------- | ---------- | ----------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Damage Type Change 1   | 1          | 40g        | 4           | 1PM per Charge    | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene                            |
-| Damage Add Elemental 1 | 3          | 100g       | 2           | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
-| Elemental Reflect      | 3          | 80g        | 3           | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker                                                     |
-| Defense Tier 1         | 2          | 50g        | 1           | 1PM per Charge    | (Movement, 1 Charge): Your defense can't be less than 15 for the scene                                                     |
-| Defense Tier 2         | 3          | 150g       | 3           | 1PM per Charge    | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges)                       |
+| Name | Item Level | Avg. Price | Max Charges | Recharge rate | Effect |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Damage Type Change 1 | 1 | 40g | 4 | 1PM per Charge | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene |
+| Damage Add Elemental 1 | 3 | 100g | 2 | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
+| Elemental Reflect | 3 | 80g | 3 | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker |
+| Defense Tier 1 | 2 | 50g | 1 | 1PM per Charge | (Movement, 1 Charge): Your defense can't be less than 15 for the scene |
+| Defense Tier 2 | 4 | 150g | 3 | 1PM per Charge | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges) |
+| Defense Tier 3 | 7 | 450g | 8 | 1PM per Charge | (Movement, 2-4 Charges): Your defense can't be less than 17 for the scene, +1 per charge spent after the second |
 
 
 {{pageNumber,auto}}
@@ -3258,8 +3252,6 @@ basic rules:
 
 use tools. costs 500silver for a set of tools (-5 without tools)
 -->
-
-CD to craft = 12 + Item level / 2
 
 ## Crafting Rolls and time to produce an item
 Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
@@ -3288,16 +3280,10 @@ When rolling a skill check for crafting, a character should use a set of tools s
 
 *OBS:* note that poisons can be made either through herbalism or alchemy.
 
-When rolling the relevant skill the CD is defined by the item rarity.
-#### Crafting roll CD by item rarity
-| Item Rarity | CD  |
-| ----------- | --- |
-| Common      | 10  |
-| Uncommon    | 15  |
-| Rare        | 18  |
-| Very rare   | 20  |
+The CD for the skill roll to craft an item is determined by the item's level, according to the formula:
+- **CD = 12 + Item level/2 (rounded down)**
 
-After rolling and comparing against the item CD
+After rolling and comparing against the item CD, the materials spent and the progress in the production are as follows:
 
 | Skill check result | Crafting progress                      | Materials spent  |
 | ------------------ | -------------------------------------- | ---------------- |
@@ -3308,6 +3294,21 @@ After rolling and comparing against the item CD
 | Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
 
 **\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
+
+## Crafting in Bulk
+One may choose to work in many items in series. For example, Frizz the rogue halfling wants to craft 1x portion of **Peçonha Concentrada** (60g/vial), and 2x of **Grude Verde**(30g/vial), in that order, totaling 120g worth of items. He then sets to work for the 3 weeks necessary for that. Lets see the journey taken by him:
+
+He only needs to prepare 15g of materials at first, but he decides to get all 30g before starting. Then he spends a few weeks working on it, with the following results
+
+| week | intended production                                                                                                  | alchemy roll    | craft CD      | result                               | item progress                                                | materials at start of week        | materials spent | 
+| ---- | -------------------------------------------------------------------------------------------------------------------- | --------------- | ------------- | ------------------------------------ | ------------------------------------------------------------ | --------------------------------- | --------------- |
+| 1    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 10              | 13            | Failure                              | none                                                         | 30g worth                         | none     |
+| 2    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 13              | 13            | Success                              | **Peçonha Concentrada** partially done (50g/60g)             | 30g worth                       | 12,5g worth      |
+| 3.1    | Finish **Peçonha Concentrada** (50g -> 60g) | 14 | 13 | Success | **Peçonha Concentrada** done | 17,5g | 2,5g worth                |
+| 3.2    | make 1x **Grude Verde**                                                                                                                     | 17                | 12              | Success(5+)                                      | **Grude Verde** (2x) done                                                             | 17,5g                                  | 7,5g worth                |
+| 3.3    | progress on **Grude Verde** (0 -> 10g)                                                                                                                     | 5                | 12              | Failure(5+)                                     | none                                                             | 17,5g                                  | 2,5g worth                |
+| 4    | make 1x **Grude Verde**                                                                                                                     | 15                | 12              | Success                                     | **Grude Verde** done                                                             | 5g worth + 5g worth (newly acquired)                                  | 7,5g worth                |
+As a result Frizz took 4 weeks to spend his 30g worth of materials, plus 10g extra he had to buy during the process, to produce 1x **Peçonha Concentrada** and 3x **Grude Verde**, with 2,5g worth of materials left over. it was a weird process filled with ups and downs, but considering that he spent 37,5g to produce 150g worth of items, he sleeps happily thinking about how many bad guys he's gonna take down with his creations.
 
 ## Crafting Materials (Took mostly from D&D)
 An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
@@ -4058,6 +4059,17 @@ You awaken the sense of mortality in one creature you can see within range. A co
 ___
 
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attacks damage type, as shown below.
+
+| d8  | Damage Type |
+| --- | ----------- |
+| 1   | Acid        |
+| 2   | Cold        |
+| 3   | Fire        |
+| 4   | Force       |
+| 5   | Lightning   |
+| 6   | Poison      |
+| 7   | Psychic     |
+| 8   | Thunder     |
 
 
 

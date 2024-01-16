@@ -14,6 +14,7 @@ FEATURES:
 | 2     | Witch's Focus | 
 
 MULTI_FEATURES:
+
 | Level | Witch's Focus |
 | ----- | ------------- |
 | 1st   | -             |
@@ -36,6 +37,9 @@ MULTI_FEATURES:
 | 18th  | 5             |
 | 19th  | 5             |
 | 20th  | 5             |
+
+FEATS:
+
 }}
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
