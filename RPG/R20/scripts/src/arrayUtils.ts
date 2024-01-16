@@ -4,18 +4,24 @@ export const groupByNumber = <T extends unknown>(
   items: T[],
   numberByGroup: number
 ): T[][] => {
-  const groups = items.reduce<{ groups: T[][], currentGroup: T[] }>((acc, cur, index) => {
-    const currentGroupId = Math.floor(index / numberByGroup)
-    return {
-      ...acc,
-      groups: {
-        ...acc.groups,
-        [currentGroupId]: [...(acc.groups[currentGroupId] ?? []), cur]
+  const groups = items.reduce<{ groups: T[][]; currentGroup: T[] }>(
+    (acc, cur, index) => {
+      const currentGroupId = Math.floor(index / numberByGroup)
+      return {
+        ...acc,
+        groups: {
+          ...acc.groups,
+          [currentGroupId]: [...(acc.groups[currentGroupId] ?? []), cur],
+        },
       }
-    }
-  }, { groups: [], currentGroup: [] }).groups
+    },
+    { groups: [], currentGroup: [] }
+  ).groups
 
-  return Array.from({ ...groups, length: Math.ceil(items.length / numberByGroup) })
+  return Array.from({
+    ...groups,
+    length: Math.ceil(items.length / numberByGroup),
+  })
 }
 
 export const groupBy =
@@ -31,19 +37,48 @@ export const groupBy =
 
 export const separateGroups =
   <Item, Key extends string | number = string>(getGroup: (item: Item) => Key) =>
-    (items: Item[]): { group: Key, items: Item[] }[] => {
+    (items: Item[]): { group: Key; items: Item[] }[] => {
 
-      const groups = items.reduce<{ groups: { items: Item[], group: Key }[], previous?: Key }>((acc, curItem) => {
-        const groupKind = getGroup(curItem)
+      const groups = items.reduce<{
+        groups: { items: Item[]; group: Key }[]
+        previous?: Key
+      }>(
+        (acc, curItem): {
+          groups: { items: Item[]; group: Key }[]
+          previous?: Key
+        } => {
+          const groupKind = getGroup(curItem)
 
+          if (!acc.previous)
+            return {
+              groups: [...acc.groups, { group: groupKind, items: [curItem] }],
+              previous: groupKind,
+            }
 
-        return acc
-      }
-        , { groups: [] })
+          if (acc.previous === groupKind)
+            return {
+              ...acc,
+              groups: [
+                ...acc.groups.slice(0, -1),
+                {
+                  group: acc.groups.at(-1)!.group,
+                  items: [
+                    ...acc.groups.at(-1)!.items,
+                    curItem,
+                  ],
+                },
+              ],
+            }
 
+          return acc
+        },
+        { groups: [] }
+      )
+
+      console.table(groups.groups)
+      // groups.items.map(console.table)
       return []
     }
-
 
 type FuncList = readonly Function[]
 type Promisify<F extends Function> = F extends (i: infer Input) => infer Output
