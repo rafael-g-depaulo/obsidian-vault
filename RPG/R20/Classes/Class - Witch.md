@@ -41,6 +41,19 @@ MULTI_FEATURES:
 
 FEATS:
 
+| NAME | DESCRIPTION | PRE_REQUISITES |
+| ---- | ----------- | -------------- |
+| **Focused Cantrip**     | Your damaging cantrips do an extra die of damage per effect you're concentrating on            |                |
+BREAK
+
+| NAME | DESCRIPTION | PRE_REQUISITES |
+| ---- | ----------- | -------------- |
+| **Scary Look**     | (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)            |                |
+
+
+
+
+
 }}
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
