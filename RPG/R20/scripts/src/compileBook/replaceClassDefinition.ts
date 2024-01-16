@@ -2,7 +2,7 @@ import { CompileRulesDeps } from '.'
 import { pad, range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
-import { Class, parseClass } from '../businessLogic/class'
+import { Class, Feat, parseClass } from '../businessLogic/class'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
 import { order } from '../stringOutputUtils'
@@ -82,6 +82,14 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
   )
 }
 
+const makeFeaturesSection = (classDefinition: Class) => {
+  return `àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF`
+}
+
+const makeFeatsSection = (className: string, feats: Feat[]) => {
+  return `asdasdasdasdasdasdasd`
+}
+
 export const generateClassDefinition = (
   classDefinition: Class,
   archetype?: Archetype
@@ -103,7 +111,11 @@ export const generateClassDefinition = (
     getSaves(classDefinition.saves) +
     spellCastingModifier(classDefinition) +
     '\n\n' +
-    makeClassTable(archetype, classDefinition)
+    makeClassTable(archetype, classDefinition) +
+    '\n\n' +
+    makeFeaturesSection(classDefinition) +
+    '\n\n' +
+    makeFeatsSection(classDefinition.name, classDefinition.feats)
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
   !spellcastingAttb

@@ -793,6 +793,10 @@ Important tips:
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.
 
@@ -863,6 +867,10 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 | 20th | +10 | Beast Warrior Feat | 5d4+CON |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
@@ -958,6 +966,10 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
@@ -1043,6 +1055,10 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 | 20th | +10 | Channeler Feat | 20 | 22 | 9 |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -1278,6 +1294,10 @@ feats:
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
 **Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
@@ -1399,6 +1419,10 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
 **ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
@@ -1475,6 +1499,10 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 | 20th | +10 | Juggernaut Feat | CON+10 | 21 | 5d10+STR |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
@@ -1572,6 +1600,10 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 | 20th | +10 | Plantomancer Feat | 12 | 22 | 9 |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1742,6 +1774,10 @@ List of spells available for a Plantomancer to learn.
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
@@ -1857,6 +1893,10 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 | 20th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 11 | 7 |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -2029,6 +2069,10 @@ List of spells available for a Spelgard to learn.
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
 **Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1 **Wild Dice** + your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice Ammount, to increase that by 2 **Wild Dice**. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
@@ -2126,6 +2170,10 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 | 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
+
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
 
 **Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

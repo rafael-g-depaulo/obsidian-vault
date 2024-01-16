@@ -38,6 +38,10 @@
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
 **ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively

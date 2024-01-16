@@ -38,6 +38,10 @@
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.

@@ -9,10 +9,10 @@ SPELLCASTING_ATTB: PRE
 
 FEATURES:
 
-| LEVEL | FEATURE       |
-| ----- | ------------- |
-| 1     | Hex           |
-| 2     | Witch's Focus | 
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Hex | Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels. |
+| 2 | Witch's Focus | With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_). |
 
 MULTI_FEATURES:
 

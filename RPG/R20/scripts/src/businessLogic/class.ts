@@ -24,24 +24,36 @@ export interface Class {
   feats: Feat[]
 }
 
-const groupFeats = separateGroups((line: string) => line[0] === '|' ? 'feat' : 'raw')
-const parseFeats = (content: string = "") => {
-  const entries = groupFeats(content.split('\n'),)
+const groupFeats = separateGroups((line: string) =>
+  line[0] === '|' ? 'feat' : 'raw'
+)
+const parseFeats = (content: string = '') => {
+  const entries = groupFeats(content.split('\n'))
+
+  const parseFeatsTable = (lines: string[]): Feat[] =>
+    parseMarkdownTable(lines.join('\n')).map(
+      ([featName, featDescription, featPreRequisites]) => ({
+        name: featName,
+        description: featDescription,
+        // || here used to transform '' into undefined
+        preRequisites: featPreRequisites || undefined,
+      })
+    )
 
   const featsContent = entries.map(({ group, items }) =>
-    group === 'feat' ?
-      parseMarkdownTable(items.join("\n"), true)
-      : items.join("")
+    group === 'feat'
+      ? parseFeatsTable(items)
+      : items.join('')
   )
 
-  // return entries
   return featsContent
 }
 
 export const parseClass = (classMacro: Macro): Class => {
-  const x = ({
+  const x = {
     archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
-    equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
+    equipProficiencies:
+      getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
     features: parseFeatures(getString(classMacro.items.FEATURES) ?? ''),
     multi_features: pad(
       parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
@@ -55,10 +67,9 @@ export const parseClass = (classMacro: Macro): Class => {
     wide: getString(classMacro.items.WIDE)
       ? getString(classMacro.items.WIDE) === 'true'
       : undefined,
-    feats: parseFeats(getString(classMacro.items.FEATS))
-  })
+    feats: parseFeats(getString(classMacro.items.FEATS)),
+  }
 
-  if (x.name === "Witch")
-    console.log(`AAAAAAAAAAAAAAa`, x.feats)
+  if (x.name === 'Witch') console.log(`AAAAAAAAAAAAAAa`, x.feats)
   return x as any
 }

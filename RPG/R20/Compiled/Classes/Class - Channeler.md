@@ -41,6 +41,10 @@
 }}
 
 
+àsdkasjdaksFGFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+asdasdasdasdasdasdasd
+
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
 **Juntar Energia.** Movimento: Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
