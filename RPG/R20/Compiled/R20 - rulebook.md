@@ -88,94 +88,94 @@ ___
 - #### [{{  Spells }}{{ 35 }}](#p35)
 - ### [{{ Werebeast (Specialist) }}{{ 37 }}](#p37)
 - ### [{{ Witch (Caster) }}{{ 39 }}](#p39)
-- #### [{{ Witch's Brews }}{{ 40 }}](#p40)
-- #### [{{  Spells }}{{ 40 }}](#p40)
-- ### [{{ Combat }}{{ 42 }}](#p42)
-- #### [{{ Round }}{{ 42 }}](#p42)
-- #### [{{ Combat Actions }}{{ 42 }}](#p42)
-- #### [{{ Attacking and Defending }}{{ 42 }}](#p42)
-- #### [{{ Movement }}{{ 43 }}](#p43)
-- #### [{{ Maneuvers }}{{ 43 }}](#p43)
-- #### [{{ Manobras }}{{ 43 }}](#p43)
-- #### [{{ Tamanho }}{{ 44 }}](#p44)
-- ### [{{ Origins }}{{ 45 }}](#p45)
-- #### [{{ Origin Lists }}{{ 45 }}](#p45)
-- ### [{{ Proficiency }}{{ 46 }}](#p46)
-- ### [{{ General Feats }}{{ 47 }}](#p47)
-- ### [{{ Martial Feats }}{{ 48 }}](#p48)
-- ### [{{ Caster Feats }}{{ 49 }}](#p49)
-- ### [{{ Specialist Feats }}{{ 50 }}](#p50)
+- #### [{{ Witch's Brews }}{{ 41 }}](#p41)
+- #### [{{  Spells }}{{ 41 }}](#p41)
+- ### [{{ Combat }}{{ 43 }}](#p43)
+- #### [{{ Round }}{{ 43 }}](#p43)
+- #### [{{ Combat Actions }}{{ 43 }}](#p43)
+- #### [{{ Attacking and Defending }}{{ 43 }}](#p43)
+- #### [{{ Movement }}{{ 44 }}](#p44)
+- #### [{{ Maneuvers }}{{ 44 }}](#p44)
+- #### [{{ Manobras }}{{ 44 }}](#p44)
+- #### [{{ Tamanho }}{{ 45 }}](#p45)
+- ### [{{ Origins }}{{ 46 }}](#p46)
+- #### [{{ Origin Lists }}{{ 46 }}](#p46)
+- ### [{{ Proficiency }}{{ 47 }}](#p47)
+- ### [{{ General Feats }}{{ 48 }}](#p48)
+- ### [{{ Martial Feats }}{{ 49 }}](#p49)
+- ### [{{ Caster Feats }}{{ 50 }}](#p50)
+- ### [{{ Specialist Feats }}{{ 51 }}](#p51)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Companion Feats }}{{ 51 }}](#p51)
-- ### [{{ Starting Items }}{{ 52 }}](#p52)
-- ### [{{ Carga }}{{ 53 }}](#p53)
-- #### [{{ Sobrecarga }}{{ 53 }}](#p53)
-- ### [{{ Coins }}{{ 54 }}](#p54)
-- ### [{{ Equipment }}{{ 55 }}](#p55)
-- #### [{{ Simple Weapons }}{{ 55 }}](#p55)
-- #### [{{ Martial Weapons }}{{ 55 }}](#p55)
-- #### [{{ Armor }}{{ 55 }}](#p55)
-- #### [{{ Magic Staves }}{{ 56 }}](#p56)
-- ### [{{ Consumable Items }}{{ 57 }}](#p57)
-- #### [{{ Potions }}{{ 57 }}](#p57)
-- #### [{{ Poisons }}{{ 57 }}](#p57)
-- #### [{{ Óleos }}{{ 58 }}](#p58)
-- ### [{{ Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Casting a Spell from a Scroll }}{{ 59 }}](#p59)
-- #### [{{ Learning a Spell from a Scroll }}{{ 59 }}](#p59)
-- #### [{{ Creating Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Buying Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Ideas for change }}{{ 59 }}](#p59)
-- #### [{{ Working with item levels. }}{{ 59 }}](#p59)
-- ### [{{ Magic Items }}{{ 60 }}](#p60)
-- #### [{{ Runes }}{{ 61 }}](#p61)
-- ### [{{ Crafting }}{{ 62 }}](#p62)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 62 }}](#p62)
-- #### [{{ Crafting in Bulk }}{{ 62 }}](#p62)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 62 }}](#p62)
-- ### [{{ Spells }}{{ 63 }}](#p63)
-- #### [{{ Learning Spells }}{{ 63 }}](#p63)
-- #### [{{ Prepared vs. Learned Spells }}{{ 63 }}](#p63)
-- #### [{{ Casting Spells }}{{ 63 }}](#p63)
-- #### [{{ Spell levels }}{{ 63 }}](#p63)
-- #### [{{ Spell Tags }}{{ 64 }}](#p64)
-- #### [{{ Flavor }}{{ 64 }}](#p64)
-- ### [{{ Spell Tags }}{{ 65 }}](#p65)
-- #### [{{ Tags }}{{ 65 }}](#p65)
-- ### [{{ Spell List }}{{ 66 }}](#p66)
-- #### [{{ All Spells }}{{ 66 }}](#p66)
-- ### [{{ Spells }}{{ 68 }}](#p68)
-- ### [{{ Contracts, Paladins & Entities }}{{ 103 }}](#p103)
-- #### [{{ Paladins }}{{ 103 }}](#p103)
-- #### [{{ Contract }}{{ 103 }}](#p103)
-- #### [{{ Favor }}{{ 103 }}](#p103)
-- #### [{{ Losing Favor }}{{ 103 }}](#p103)
-- #### [{{ Miracles }}{{ 103 }}](#p103)
-- ### [{{ Companions }}{{ 104 }}](#p104)
-- #### [{{ Stats }}{{ 104 }}](#p104)
-- #### [{{ Companion death }}{{ 104 }}](#p104)
-- #### [{{ Rest }}{{ 104 }}](#p104)
-- #### [{{ Companion Skills }}{{ 104 }}](#p104)
-- ### [{{ Conditions }}{{ 106 }}](#p106)
-- ### [{{ Rest & Recovery }}{{ 107 }}](#p107)
-- #### [{{ Provisions }}{{ 107 }}](#p107)
+- ### [{{ Companion Feats }}{{ 52 }}](#p52)
+- ### [{{ Starting Items }}{{ 53 }}](#p53)
+- ### [{{ Carga }}{{ 54 }}](#p54)
+- #### [{{ Sobrecarga }}{{ 54 }}](#p54)
+- ### [{{ Coins }}{{ 55 }}](#p55)
+- ### [{{ Equipment }}{{ 56 }}](#p56)
+- #### [{{ Simple Weapons }}{{ 56 }}](#p56)
+- #### [{{ Martial Weapons }}{{ 56 }}](#p56)
+- #### [{{ Armor }}{{ 56 }}](#p56)
+- #### [{{ Magic Staves }}{{ 57 }}](#p57)
+- ### [{{ Consumable Items }}{{ 58 }}](#p58)
+- #### [{{ Potions }}{{ 58 }}](#p58)
+- #### [{{ Poisons }}{{ 58 }}](#p58)
+- #### [{{ Óleos }}{{ 59 }}](#p59)
+- ### [{{ Spell Scrolls }}{{ 60 }}](#p60)
+- #### [{{ Casting a Spell from a Scroll }}{{ 60 }}](#p60)
+- #### [{{ Learning a Spell from a Scroll }}{{ 60 }}](#p60)
+- #### [{{ Creating Spell Scrolls }}{{ 60 }}](#p60)
+- #### [{{ Buying Spell Scrolls }}{{ 60 }}](#p60)
+- #### [{{ Ideas for change }}{{ 60 }}](#p60)
+- #### [{{ Working with item levels. }}{{ 60 }}](#p60)
+- ### [{{ Magic Items }}{{ 61 }}](#p61)
+- #### [{{ Runes }}{{ 62 }}](#p62)
+- ### [{{ Crafting }}{{ 63 }}](#p63)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 63 }}](#p63)
+- #### [{{ Crafting in Bulk }}{{ 63 }}](#p63)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 63 }}](#p63)
+- ### [{{ Spells }}{{ 64 }}](#p64)
+- #### [{{ Learning Spells }}{{ 64 }}](#p64)
+- #### [{{ Prepared vs. Learned Spells }}{{ 64 }}](#p64)
+- #### [{{ Casting Spells }}{{ 64 }}](#p64)
+- #### [{{ Spell levels }}{{ 64 }}](#p64)
+- #### [{{ Spell Tags }}{{ 65 }}](#p65)
+- #### [{{ Flavor }}{{ 65 }}](#p65)
+- ### [{{ Spell Tags }}{{ 66 }}](#p66)
+- #### [{{ Tags }}{{ 66 }}](#p66)
+- ### [{{ Spell List }}{{ 67 }}](#p67)
+- #### [{{ All Spells }}{{ 67 }}](#p67)
+- ### [{{ Spells }}{{ 69 }}](#p69)
+- ### [{{ Contracts, Paladins & Entities }}{{ 104 }}](#p104)
+- #### [{{ Paladins }}{{ 104 }}](#p104)
+- #### [{{ Contract }}{{ 104 }}](#p104)
+- #### [{{ Favor }}{{ 104 }}](#p104)
+- #### [{{ Losing Favor }}{{ 104 }}](#p104)
+- #### [{{ Miracles }}{{ 104 }}](#p104)
+- ### [{{ Companions }}{{ 105 }}](#p105)
+- #### [{{ Stats }}{{ 105 }}](#p105)
+- #### [{{ Companion death }}{{ 105 }}](#p105)
+- #### [{{ Rest }}{{ 105 }}](#p105)
+- #### [{{ Companion Skills }}{{ 105 }}](#p105)
+- ### [{{ Conditions }}{{ 107 }}](#p107)
+- ### [{{ Rest & Recovery }}{{ 108 }}](#p108)
+- #### [{{ Provisions }}{{ 108 }}](#p108)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ How to recover }}{{ 107 }}](#p107)
-- #### [{{ Skipping a Rest }}{{ 107 }}](#p107)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 107 }}](#p107)
-- ### [{{ Companions }}{{ 108 }}](#p108)
-- #### [{{ Stats }}{{ 108 }}](#p108)
-- #### [{{ Companion death }}{{ 108 }}](#p108)
-- #### [{{ Rest }}{{ 108 }}](#p108)
-- #### [{{ Companion Skills }}{{ 108 }}](#p108)
+- #### [{{ How to recover }}{{ 108 }}](#p108)
+- #### [{{ Skipping a Rest }}{{ 108 }}](#p108)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 108 }}](#p108)
+- ### [{{ Companions }}{{ 109 }}](#p109)
+- #### [{{ Stats }}{{ 109 }}](#p109)
+- #### [{{ Companion death }}{{ 109 }}](#p109)
+- #### [{{ Rest }}{{ 109 }}](#p109)
+- #### [{{ Companion Skills }}{{ 109 }}](#p109)
 }}
 
 {{pageNumber,auto}}
@@ -798,7 +798,7 @@ Important tips:
 ### Alquimist Feats
 Beginning at level 2, every time you gain a level in Alquimist you gain a Witch Feat. You may instead of a Alquimist feat take a Specialist or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 
 **Elixir Experimental.** Spend PM, get potion with random benefitial effect.
@@ -892,7 +892,7 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 ### Beast Warrior Feats
 Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 2 MP to increase both bonuses by +1.
 
@@ -995,7 +995,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
@@ -1090,7 +1090,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 ### Channeler Feats
 Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Invocar Feitiço.** Ação Completa, concentração (0PM): O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -1337,7 +1337,7 @@ feats:
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
@@ -1471,7 +1471,7 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
@@ -1557,7 +1557,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 ### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
@@ -1661,7 +1661,7 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 ### Plantomancer Feats
 Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1839,7 +1839,7 @@ List of spells available for a Plantomancer to learn.
 ### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
@@ -1964,7 +1964,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 ### Spelgard Feats
 Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
@@ -2144,7 +2144,7 @@ List of spells available for a Spelgard to learn.
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
@@ -2251,21 +2251,15 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 ### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtobject[{"name":"**Focused Cantrip**","description":"Your damaging cantrips do an extra die of damage per effect you're concentrating on"}]
+- **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on
 
-tstring"BREAK"
+{{pageNumber,auto}}
+\page
 
-tobject[{"name":"**Scary Look**","description":"(2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)"}]
 
-tstring""
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)
 
-**Hex**. Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
-**Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
-
-### Witch Feats
-
-Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
 - **Focused Cantrip**. Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 

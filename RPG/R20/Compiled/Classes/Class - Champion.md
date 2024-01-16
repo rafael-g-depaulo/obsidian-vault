@@ -45,7 +45,7 @@
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 

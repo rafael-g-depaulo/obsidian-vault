@@ -45,7 +45,7 @@
 ### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 

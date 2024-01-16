@@ -1,19 +1,22 @@
-import { groupBy, pad, separateGroups } from '../arrayUtils'
+import { pad, separateGroups } from '../arrayUtils'
 import { getString, getStringArr, Macro } from '../macros/types'
 import { parseMarkdownTable } from '../stringOutputUtils'
-import { parseFeatures, parseFeaturesList, parseMultiFeatures } from './features'
+import {
+  parseFeatures,
+  parseFeaturesList,
+  parseMultiFeatures,
+} from './features'
 
-export type Feat =
-  | {
-    name: string
-    description: string
-    preRequisites?: string
-  }
+export type Feat = {
+  name: string
+  description: string
+  preRequisites?: string
+}
 
 export type Feature = {
-  name: string,
-  description: string,
-  level: string,
+  name: string
+  description: string
+  level: string
 }
 
 export interface Class {
@@ -47,36 +50,28 @@ const parseFeats = (content: string = '') => {
     )
 
   const featsContent = entries.map(({ group, items }) =>
-    group === 'feat'
-      ? parseFeatsTable(items)
-      : items.join('')
+    group === 'feat' ? parseFeatsTable(items) : items.join('')
   )
 
-  return featsContent
+  return featsContent.flat()
 }
 
-export const parseClass = (classMacro: Macro): Class => {
-  const x = {
-    archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
-    equipProficiencies:
-      getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
-    featuresList: parseFeaturesList(getString(classMacro.items.FEATURES) ?? ''),
-    multi_features: pad(
-      parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
-      21,
-      []
-    ),
-    name: classMacro.argument ?? 'CLASS NAME NOT FOUND',
-    saves: getStringArr(classMacro.items.SAVES),
-    mpAttribute: getString(classMacro.items.MP_ATTB),
-    spellcastingAttb: getString(classMacro.items.SPELLCASTING_ATTB),
-    wide: getString(classMacro.items.WIDE)
-      ? getString(classMacro.items.WIDE) === 'true'
-      : undefined,
-    feats: parseFeats(getString(classMacro.items.FEATS)),
-    features: parseFeatures(getString(classMacro.items.FEATURES))
-  }
-
-  if (x.name === 'Witch') console.log(`AAAAAAAAAAAAAAa`, x.feats)
-  return x as any
-}
+export const parseClass = (classMacro: Macro): Class => ({
+  archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
+  equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
+  featuresList: parseFeaturesList(getString(classMacro.items.FEATURES) ?? ''),
+  multi_features: pad(
+    parseMultiFeatures(getString(classMacro.items.MULTI_FEATURES) ?? ''),
+    21,
+    []
+  ),
+  name: classMacro.argument ?? 'CLASS NAME NOT FOUND',
+  saves: getStringArr(classMacro.items.SAVES),
+  mpAttribute: getString(classMacro.items.MP_ATTB),
+  spellcastingAttb: getString(classMacro.items.SPELLCASTING_ATTB),
+  wide: getString(classMacro.items.WIDE)
+    ? getString(classMacro.items.WIDE) === 'true'
+    : undefined,
+  feats: parseFeats(getString(classMacro.items.FEATS)),
+  features: parseFeatures(getString(classMacro.items.FEATURES)),
+})

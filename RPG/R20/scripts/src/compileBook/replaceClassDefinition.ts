@@ -1,5 +1,5 @@
 import { CompileRulesDeps } from '.'
-import { pad, range } from '../arrayUtils'
+import { range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
 import { Class, Feat, parseClass } from '../businessLogic/class'
@@ -89,26 +89,23 @@ const makeFeaturesSection = (classDefinition: Class) => {
 }
 
 const singleFeatString = (feat: Feat) =>
-  `- **${feat.name}.** ${feat.description}` + !feat.preRequisites
-    ? ''
-    : `Pre-requisites: *${feat.preRequisites}*.`
+  `- **${feat.name}.** ${feat.description}` +
+  (!feat.preRequisites ? '' : `Pre-requisites: *${feat.preRequisites}*.`)
+
 const makeFeatsSection = (
   className: string,
   archetype: string,
   feats: (Feat | string)[]
 ) => {
-  const featsList =
-    feats
-      .map(feat => "t" + typeof feat + JSON.stringify(feat))
-      // .map(feat => (!!feat?.name ? singleFeatString(feat) : feat))
-      .join('\n\n')
+  const featsList = feats
+    .map(feat => (typeof feat === 'object' ? singleFeatString(feat) : feat.indexOf("BREAK") === -1 ? feat : `{{page-break}}`))
+    .join('\n\n')
 
-  console.log("A", featsList)
   return (
     `### ${className} Feats\n` +
     `Beginning at level 2, every time you gain a level in ${className} you gain a Witch Feat. You may instead of a ${className} feat take a ${archetype} or General Feat of your choice.` +
     `\n\n` +
-    'BBBBBBBBBBBBBBB' + featsList
+    featsList
   )
 }
 

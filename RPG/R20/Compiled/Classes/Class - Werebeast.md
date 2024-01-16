@@ -45,7 +45,7 @@
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
 
-BBBBBBBBBBBBBBBtstring""
+
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
 
