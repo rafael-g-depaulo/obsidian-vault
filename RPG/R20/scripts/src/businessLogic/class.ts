@@ -19,7 +19,7 @@ export type Feature = {
   level: string
 }
 
-type ClassNote = {
+export type ClassNote = {
   name: string
   description: string
 }

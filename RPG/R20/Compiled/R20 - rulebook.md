@@ -88,94 +88,93 @@ ___
 - #### [{{  Spells }}{{ 35 }}](#p35)
 - ### [{{ Werebeast (Specialist) }}{{ 37 }}](#p37)
 - ### [{{ Witch (Caster) }}{{ 39 }}](#p39)
-- #### [{{ Witch's Brews }}{{ 41 }}](#p41)
-- #### [{{  Spells }}{{ 41 }}](#p41)
-- ### [{{ Combat }}{{ 43 }}](#p43)
-- #### [{{ Round }}{{ 43 }}](#p43)
-- #### [{{ Combat Actions }}{{ 43 }}](#p43)
-- #### [{{ Attacking and Defending }}{{ 43 }}](#p43)
-- #### [{{ Movement }}{{ 44 }}](#p44)
-- #### [{{ Maneuvers }}{{ 44 }}](#p44)
-- #### [{{ Manobras }}{{ 44 }}](#p44)
-- #### [{{ Tamanho }}{{ 45 }}](#p45)
-- ### [{{ Origins }}{{ 46 }}](#p46)
-- #### [{{ Origin Lists }}{{ 46 }}](#p46)
-- ### [{{ Proficiency }}{{ 47 }}](#p47)
-- ### [{{ General Feats }}{{ 48 }}](#p48)
-- ### [{{ Martial Feats }}{{ 49 }}](#p49)
-- ### [{{ Caster Feats }}{{ 50 }}](#p50)
-- ### [{{ Specialist Feats }}{{ 51 }}](#p51)
+- #### [{{  Spells }}{{ 40 }}](#p40)
+- ### [{{ Combat }}{{ 42 }}](#p42)
+- #### [{{ Round }}{{ 42 }}](#p42)
+- #### [{{ Combat Actions }}{{ 42 }}](#p42)
+- #### [{{ Attacking and Defending }}{{ 42 }}](#p42)
+- #### [{{ Movement }}{{ 43 }}](#p43)
+- #### [{{ Maneuvers }}{{ 43 }}](#p43)
+- #### [{{ Manobras }}{{ 43 }}](#p43)
+- #### [{{ Tamanho }}{{ 44 }}](#p44)
+- ### [{{ Origins }}{{ 45 }}](#p45)
+- #### [{{ Origin Lists }}{{ 45 }}](#p45)
+- ### [{{ Proficiency }}{{ 46 }}](#p46)
+- ### [{{ General Feats }}{{ 47 }}](#p47)
+- ### [{{ Martial Feats }}{{ 48 }}](#p48)
+- ### [{{ Caster Feats }}{{ 49 }}](#p49)
+- ### [{{ Specialist Feats }}{{ 50 }}](#p50)
+- ### [{{ Companion Feats }}{{ 51 }}](#p51)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Companion Feats }}{{ 52 }}](#p52)
-- ### [{{ Starting Items }}{{ 53 }}](#p53)
-- ### [{{ Carga }}{{ 54 }}](#p54)
-- #### [{{ Sobrecarga }}{{ 54 }}](#p54)
-- ### [{{ Coins }}{{ 55 }}](#p55)
-- ### [{{ Equipment }}{{ 56 }}](#p56)
-- #### [{{ Simple Weapons }}{{ 56 }}](#p56)
-- #### [{{ Martial Weapons }}{{ 56 }}](#p56)
-- #### [{{ Armor }}{{ 56 }}](#p56)
-- #### [{{ Magic Staves }}{{ 57 }}](#p57)
-- ### [{{ Consumable Items }}{{ 58 }}](#p58)
-- #### [{{ Potions }}{{ 58 }}](#p58)
-- #### [{{ Poisons }}{{ 58 }}](#p58)
-- #### [{{ Óleos }}{{ 59 }}](#p59)
-- ### [{{ Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Casting a Spell from a Scroll }}{{ 60 }}](#p60)
-- #### [{{ Learning a Spell from a Scroll }}{{ 60 }}](#p60)
-- #### [{{ Creating Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Buying Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Ideas for change }}{{ 60 }}](#p60)
-- #### [{{ Working with item levels. }}{{ 60 }}](#p60)
-- ### [{{ Magic Items }}{{ 61 }}](#p61)
-- #### [{{ Runes }}{{ 62 }}](#p62)
-- ### [{{ Crafting }}{{ 63 }}](#p63)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 63 }}](#p63)
-- #### [{{ Crafting in Bulk }}{{ 63 }}](#p63)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 63 }}](#p63)
-- ### [{{ Spells }}{{ 64 }}](#p64)
-- #### [{{ Learning Spells }}{{ 64 }}](#p64)
-- #### [{{ Prepared vs. Learned Spells }}{{ 64 }}](#p64)
-- #### [{{ Casting Spells }}{{ 64 }}](#p64)
-- #### [{{ Spell levels }}{{ 64 }}](#p64)
-- #### [{{ Spell Tags }}{{ 65 }}](#p65)
-- #### [{{ Flavor }}{{ 65 }}](#p65)
-- ### [{{ Spell Tags }}{{ 66 }}](#p66)
-- #### [{{ Tags }}{{ 66 }}](#p66)
-- ### [{{ Spell List }}{{ 67 }}](#p67)
-- #### [{{ All Spells }}{{ 67 }}](#p67)
-- ### [{{ Spells }}{{ 69 }}](#p69)
-- ### [{{ Contracts, Paladins & Entities }}{{ 104 }}](#p104)
-- #### [{{ Paladins }}{{ 104 }}](#p104)
-- #### [{{ Contract }}{{ 104 }}](#p104)
-- #### [{{ Favor }}{{ 104 }}](#p104)
-- #### [{{ Losing Favor }}{{ 104 }}](#p104)
-- #### [{{ Miracles }}{{ 104 }}](#p104)
-- ### [{{ Companions }}{{ 105 }}](#p105)
-- #### [{{ Stats }}{{ 105 }}](#p105)
-- #### [{{ Companion death }}{{ 105 }}](#p105)
-- #### [{{ Rest }}{{ 105 }}](#p105)
-- #### [{{ Companion Skills }}{{ 105 }}](#p105)
-- ### [{{ Conditions }}{{ 107 }}](#p107)
-- ### [{{ Rest & Recovery }}{{ 108 }}](#p108)
-- #### [{{ Provisions }}{{ 108 }}](#p108)
+- ### [{{ Starting Items }}{{ 52 }}](#p52)
+- ### [{{ Carga }}{{ 53 }}](#p53)
+- #### [{{ Sobrecarga }}{{ 53 }}](#p53)
+- ### [{{ Coins }}{{ 54 }}](#p54)
+- ### [{{ Equipment }}{{ 55 }}](#p55)
+- #### [{{ Simple Weapons }}{{ 55 }}](#p55)
+- #### [{{ Martial Weapons }}{{ 55 }}](#p55)
+- #### [{{ Armor }}{{ 55 }}](#p55)
+- #### [{{ Magic Staves }}{{ 56 }}](#p56)
+- ### [{{ Consumable Items }}{{ 57 }}](#p57)
+- #### [{{ Potions }}{{ 57 }}](#p57)
+- #### [{{ Poisons }}{{ 57 }}](#p57)
+- #### [{{ Óleos }}{{ 58 }}](#p58)
+- ### [{{ Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Casting a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Learning a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Creating Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Buying Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Ideas for change }}{{ 59 }}](#p59)
+- #### [{{ Working with item levels. }}{{ 59 }}](#p59)
+- ### [{{ Magic Items }}{{ 60 }}](#p60)
+- #### [{{ Runes }}{{ 61 }}](#p61)
+- ### [{{ Crafting }}{{ 62 }}](#p62)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 62 }}](#p62)
+- #### [{{ Crafting in Bulk }}{{ 62 }}](#p62)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 62 }}](#p62)
+- ### [{{ Spells }}{{ 63 }}](#p63)
+- #### [{{ Learning Spells }}{{ 63 }}](#p63)
+- #### [{{ Prepared vs. Learned Spells }}{{ 63 }}](#p63)
+- #### [{{ Casting Spells }}{{ 63 }}](#p63)
+- #### [{{ Spell levels }}{{ 63 }}](#p63)
+- #### [{{ Spell Tags }}{{ 64 }}](#p64)
+- #### [{{ Flavor }}{{ 64 }}](#p64)
+- ### [{{ Spell Tags }}{{ 65 }}](#p65)
+- #### [{{ Tags }}{{ 65 }}](#p65)
+- ### [{{ Spell List }}{{ 66 }}](#p66)
+- #### [{{ All Spells }}{{ 66 }}](#p66)
+- ### [{{ Spells }}{{ 68 }}](#p68)
+- ### [{{ Contracts, Paladins & Entities }}{{ 103 }}](#p103)
+- #### [{{ Paladins }}{{ 103 }}](#p103)
+- #### [{{ Contract }}{{ 103 }}](#p103)
+- #### [{{ Favor }}{{ 103 }}](#p103)
+- #### [{{ Losing Favor }}{{ 103 }}](#p103)
+- #### [{{ Miracles }}{{ 103 }}](#p103)
+- ### [{{ Companions }}{{ 104 }}](#p104)
+- #### [{{ Stats }}{{ 104 }}](#p104)
+- #### [{{ Companion death }}{{ 104 }}](#p104)
+- #### [{{ Rest }}{{ 104 }}](#p104)
+- #### [{{ Companion Skills }}{{ 104 }}](#p104)
+- ### [{{ Conditions }}{{ 106 }}](#p106)
+- ### [{{ Rest & Recovery }}{{ 107 }}](#p107)
+- #### [{{ Provisions }}{{ 107 }}](#p107)
+- #### [{{ How to recover }}{{ 107 }}](#p107)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ How to recover }}{{ 108 }}](#p108)
-- #### [{{ Skipping a Rest }}{{ 108 }}](#p108)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 108 }}](#p108)
-- ### [{{ Companions }}{{ 109 }}](#p109)
-- #### [{{ Stats }}{{ 109 }}](#p109)
-- #### [{{ Companion death }}{{ 109 }}](#p109)
-- #### [{{ Rest }}{{ 109 }}](#p109)
-- #### [{{ Companion Skills }}{{ 109 }}](#p109)
+- #### [{{ Skipping a Rest }}{{ 107 }}](#p107)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 107 }}](#p107)
+- ### [{{ Companions }}{{ 108 }}](#p108)
+- #### [{{ Stats }}{{ 108 }}](#p108)
+- #### [{{ Companion death }}{{ 108 }}](#p108)
+- #### [{{ Rest }}{{ 108 }}](#p108)
+- #### [{{ Companion Skills }}{{ 108 }}](#p108)
 }}
 
 {{pageNumber,auto}}
@@ -2263,9 +2262,9 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look
 
-- **Distant Hex.** (while casting a Hex) +1PM: to double it's range.
+- **Distant Hex.** double the range of your Hexes
 
-- **Multi-Hex.** (while casting a Hex) +3PM: target an additional creature when you cast a HexPre-requisites: *8th level witch.*.
+- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a HexPre-requisites: *5th level witch.*.
 
 {{pageNumber,auto}}
 \page
@@ -2273,18 +2272,21 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Cursed Knowledge.** learn 2 hexes
 
-- **.** 
+- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save.Pre-requisites: *10th level witch*.
 
-CLASS_NOTE
+- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
 
-{{pageNumber,auto}}
-\page
+- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
 
-- **Cursed Knowledge.** learn 2 hexes.
+- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
 
-- **Tricky Spell**. (while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisite: 10th level witch
+- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
 
+- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar)Pre-requisites: *2 poderes de poção misteriosa*.
 
+- **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
+
+- **poder poção misteriosa 7.** Quando alguém toma uma poção sua e rolar pelo menos 2 resultados iguais nos d4 rolados, você e quem consumiu a poção recebem PM temporário igual ao seu modificador de PRE + metade do seu nível de bruxa.Pre-requisites: *2 poderes de poção misteriosa*.
 
 {{note
 #### Poções Misteriosas
@@ -2310,15 +2312,9 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
 
-- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. 
 
-- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
 
-- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
 
-- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
-
-- **poder poção misteriosa 5.** (alguém toma sua poção) reação: re-rola os efeitos.
 
 
 
@@ -2339,10 +2335,6 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 - **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
-
-## Witch's Brews
-
-Spell List:
 
 ##  Spells
 

@@ -6,6 +6,7 @@ SAVES:
 - INT
 
 FEATURES:
+
 | LEVEL | FEATURE               |
 | ----- | --------------------- |
 | 1     | Beast Form, Wild Dice |

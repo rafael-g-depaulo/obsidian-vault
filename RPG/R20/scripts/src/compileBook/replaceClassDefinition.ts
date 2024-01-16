@@ -2,7 +2,7 @@ import { CompileRulesDeps } from '.'
 import { range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
-import { Class, Feat, parseClass } from '../businessLogic/class'
+import { Class, ClassNote, Feat, parseClass } from '../businessLogic/class'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
 import { order } from '../stringOutputUtils'
@@ -92,18 +92,26 @@ const singleFeatString = (feat: Feat) =>
   `- **${feat.name}.** ${feat.description}` +
   (!feat.preRequisites ? '' : `Pre-requisites: *${feat.preRequisites}*.`)
 
+const makeClassNote = (note?: ClassNote) => !note ? "" :
+  `{{class-note "${note.name}"\n${note.description}}}`
+
 const makeFeatsSection = (
-  className: string,
   archetype: string,
-  feats: (Feat | string)[]
+  classDefinition: Class
 ) => {
-  const featsList = feats
-    .map(feat => (typeof feat === 'object' ? singleFeatString(feat) : feat.indexOf("BREAK") === -1 ? feat : `{{page-break}}`))
+  const featsList = classDefinition.feats
+    .map(feat =>
+      typeof feat === 'object'
+        ? singleFeatString(feat)
+        : feat.indexOf('BREAK') !== -1 ? `{{page-break}}`
+          : feat.indexOf("CLASS_NOTE") !== -1 ? makeClassNote(classDefinition.classNote) : feat
+
+    )
     .join('\n\n')
 
   return (
-    `### ${className} Feats\n` +
-    `Beginning at level 2, every time you gain a level in ${className} you gain a Witch Feat. You may instead of a ${className} feat take a ${archetype} or General Feat of your choice.` +
+    `### ${classDefinition.name} Feats\n` +
+    `Beginning at level 2, every time you gain a level in ${classDefinition.name} you gain a Witch Feat. You may instead of a ${classDefinition.name} feat take a ${archetype} or General Feat of your choice.` +
     `\n\n` +
     featsList
   )
@@ -135,9 +143,8 @@ export const generateClassDefinition = (
     makeFeaturesSection(classDefinition) +
     '\n\n' +
     makeFeatsSection(
-      classDefinition.name,
       archetype.name,
-      classDefinition.feats
+      classDefinition,
     )
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
