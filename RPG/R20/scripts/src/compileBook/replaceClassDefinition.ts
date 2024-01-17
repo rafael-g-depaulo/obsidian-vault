@@ -84,7 +84,10 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 
 const makeFeaturesSection = (classDefinition: Class) => {
   return classDefinition.features
-    .map(({ name, description }) => `**${name}.** ${description?.replaceAll("<br>", "\n")}`)
+    .map(
+      ({ name, description }) =>
+        `**${name}.** ${description?.replaceAll('<br>', '\n')}`
+    )
     .join('\n\n')
 }
 
@@ -92,20 +95,19 @@ const singleFeatString = (feat: Feat) =>
   `- **${feat.name}.** ${feat.description}` +
   (!feat.preRequisites ? '' : `Pre-requisites: *${feat.preRequisites}*.`)
 
-const makeClassNote = (note?: ClassNote) => !note ? "" :
-  `{{class-note "${note.name}"\n${note.description}}}`
+const makeClassNote = (note?: ClassNote) =>
+  !note ? '' : `{{class-note "${note.name}"\n${note.description}}}`
 
-const makeFeatsSection = (
-  archetype: string,
-  classDefinition: Class
-) => {
+const makeFeatsSection = (archetype: string, classDefinition: Class) => {
+
   const featsList = classDefinition.feats
     .map(feat =>
       typeof feat === 'object'
         ? singleFeatString(feat)
-        : feat.indexOf('BREAK') !== -1 ? `{{page-break}}`
-          : feat.indexOf("CLASS_NOTE") !== -1 ? makeClassNote(classDefinition.classNote) : feat
-
+        : (feat.indexOf('BREAK') === -1 ? '' : `{{page-break}}`) +
+        (feat.indexOf('CLASS_NOTE') === -1
+          ? ''
+          : makeClassNote(classDefinition.classNote)) || feat
     )
     .join('\n\n')
 
@@ -142,10 +144,7 @@ export const generateClassDefinition = (
     '\n\n' +
     makeFeaturesSection(classDefinition) +
     '\n\n' +
-    makeFeatsSection(
-      archetype.name,
-      classDefinition,
-    )
+    makeFeatsSection(archetype.name, classDefinition)
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
   !spellcastingAttb
