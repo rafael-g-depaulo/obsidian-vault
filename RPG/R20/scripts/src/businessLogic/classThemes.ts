@@ -1,4 +1,5 @@
-import { Macro } from "../macros/types"
+import { Macro } from '../macros/types'
+import { parseMarkdownTable } from '../stringOutputUtils'
 
 export type Themes = {
   [s: string]: {
@@ -10,9 +11,9 @@ export type Themes = {
 export const parseThemes = <T extends Macro>(
   archetypeMacro: T | null
 ): Themes => {
+  const parsedTable = parseMarkdownTable(archetypeMacro?.rawBody ?? '').map(
+    ([name, classes, skills]) => [name, { classes: classes.split(", "), skills }]
+  )
 
-  console.log(archetypeMacro)
-  return {
-
-  }
+  return Object.fromEntries(parsedTable)
 }

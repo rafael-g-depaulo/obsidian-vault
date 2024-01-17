@@ -3,6 +3,7 @@ import { range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
 import { Class, ClassNote, Feat, parseClass } from '../businessLogic/class'
+import { Themes } from '../businessLogic/classThemes'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
 import { order } from '../stringOutputUtils'
@@ -11,14 +12,14 @@ export const removeArchetypeDefinition = replaceMacro('define-archetype', '')
 
 export const removeThemesDefinition = replaceMacro('define-themes', '')
 
-export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
+export const replaceClassDefinition = ({ archetypes, classThemes }: CompileRulesDeps) =>
   replaceMacroAsync('class-definition', async macro => {
     const archetype = archetypes.find(
       archetype => archetype.name === macro.items.ARCHETYPE
     )
     const classDefinition = parseClass(macro)
 
-    return generateClassDefinition(classDefinition, archetype)
+    return generateClassDefinition(classDefinition, classThemes, archetype)
   })
 
 const getSaves = (saves: string[]) =>
@@ -120,9 +121,24 @@ const makeFeatsSection = (archetype: string, classDefinition: Class) => {
   )
 }
 
+const makeThemesSection = (themes: Themes, classDefinition: Class) => {
+
+  const theme = "NATURE"
+  const levels = ["4", "8"]
+
+  if (!themes[theme]) return ""
+
+  return `
+### Especialização 
+A partir do nível ${levels[0]}, escolha uma perícia entre **${themes[theme].skills}**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível ${levels[1]}, escolha uma perícia adicional.
+`
+
+}
+
 export const generateClassDefinition = (
   classDefinition: Class,
-  archetype?: Archetype
+  themes: Themes,
+  archetype?: Archetype,
 ) =>
   !archetype
     ? `ERRROR WHAT SMETHING's WRONG\n\n\`\`\`json\n${JSON.stringify(
@@ -144,6 +160,8 @@ export const generateClassDefinition = (
     makeClassTable(archetype, classDefinition) +
     '\n\n' +
     makeFeaturesSection(classDefinition) +
+    '\n\n' +
+    makeThemesSection(themes, classDefinition) +
     '\n\n' +
     makeFeatsSection(archetype.name, classDefinition)
 

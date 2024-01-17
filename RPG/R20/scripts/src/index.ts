@@ -1,6 +1,6 @@
 import { join } from 'path'
 import { Archetype, parseArchetype } from './businessLogic/archetype'
-import { parseThemes } from './businessLogic/classThemes'
+import { parseThemes, Themes } from './businessLogic/classThemes'
 import { Spell } from './businessLogic/spell'
 import { makeSpellListString } from './businessLogic/spellList'
 import { getClassname, makeClassSpellList } from './classSpellList'
@@ -46,6 +46,7 @@ const cleanResults = async () =>
 interface Content {
   allSpells: Spell[]
   archetypes: Archetype[]
+  classThemes: Themes
   classSpellListRules: {
     filename: string
     rules: TagRules | null
@@ -88,15 +89,14 @@ const parseContent = async () => {
     .then(archetypeMacros => archetypeMacros.map(parseArchetype))
 
   // read class themes skills
-  const themes = await readFile(ClassesFolder, themesFile)
+  const classThemes = await readFile(ClassesFolder, themesFile)
     .then(content => searchMacro(content, 'define-themes')).then(parseThemes)
-
-  console.log("them", themes)
 
   return {
     archetypes,
     allSpells,
     classSpellListRules,
+    classThemes,
   } as Content
 }
 
@@ -162,7 +162,7 @@ const compileBook = async (
 const main = async () => {
   await cleanResults()
 
-  const { allSpells, classSpellListRules, archetypes } = await parseContent()
+  const { allSpells, classSpellListRules, archetypes, classThemes } = await parseContent()
 
   const deps: CompileRulesDeps = {
     currentFolder: baseDir,
@@ -170,9 +170,10 @@ const main = async () => {
     archetypesFolder: ArchetypesFolder,
     allSpells,
     archetypes,
+    classThemes,
   }
 
-  await compileBook({ allSpells, classSpellListRules, archetypes }, deps)
+  await compileBook({ allSpells, classSpellListRules, archetypes, classThemes }, deps)
 }
 
 // run everything

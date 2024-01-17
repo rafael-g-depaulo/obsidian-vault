@@ -56,6 +56,11 @@
 
 **Wild Senses (5).** undefined
 
+
+### Especialização 
+A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+
 ### Beast Warrior Feats
 Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 

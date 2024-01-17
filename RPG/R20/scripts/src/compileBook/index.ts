@@ -19,6 +19,7 @@ import { makeLinksGlobal, replaceLinks } from './replaceLinks'
 import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 import { replaceVerticalSpacers } from './replaceSpacers'
 import { replaceSpellDefinition } from './replaceSpellDefinition'
+import { Themes } from '../businessLogic/classThemes'
 
 export type CompileRulesDeps = {
   currentFolder: string
@@ -26,6 +27,7 @@ export type CompileRulesDeps = {
   archetypesFolder: string
   allSpells: Spell[]
   archetypes: Archetype[]
+  classThemes: Themes
 }
 export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
   readFile(join(deps.currentFolder, filepath))

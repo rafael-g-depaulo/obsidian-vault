@@ -58,6 +58,11 @@ If you lose your temporary hit points, you revert back to your human form. You c
 - *Beast form:* Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.
 
 
+
+### Especialização 
+A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
 
