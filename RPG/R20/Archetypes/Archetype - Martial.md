@@ -27,14 +27,17 @@ HP_LV1: 18
 HP_LV: 5
 MP_LV: 3
 ASI_LEVELS: 4, 6, 9, 12, 15, 17, 19
+SPECIALIZATION_LEVELS: 4, 8
 HAS_MAGIC: false
 
 FEATURES:
+
 | LEVEL | FEATURE      |
 | ----- | ------------ |
 | 5     | Extra Attack | 
 
 MULTI_FEATURES:
+
 | Level |     |
 | ----- | --- |
 | 1st   |     |

@@ -37,13 +37,16 @@ HP_LV1: 8
 HP_LV: 2
 MP_LV: 6
 ASI_LEVELS: 4, 8, 12, 16, 19
+SPECIALIZATION_LEVELS: 2, 6
 HAS_MAGIC: true
 
 FEATURES:
+
 | LEVEL | FEATURE            |
 | ----- | ------------------ |
 
 MULTI_FEATURES:
+
 | Level | Spells Known | Max Spell Circle |
 | ----- |:------------:|:----------------:|
 | 1st   |      3       |        1         |

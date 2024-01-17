@@ -41,15 +41,18 @@ HP_LV1: 14
 HP_LV: 3
 MP_LV: 4
 ASI_LEVELS: 4, 8, 10, 12, 14, 17
+SPECIALIZATION_LEVELS: 3, 6
 HAS_MAGIC: true
 
 FEATURES:
+
 | LEVEL | FEATURE               |
 | ----- | --------------------- |
 | 5     | Attack of Opportunity | 
 | 7     | Extra Attack          |
 
 MULTI_FEATURES:
+
 | Level | Spells Known | Max Spell Circle |
 | ----- |:------------:|:----------------:|
 | 1st   |      1       |        1         |
