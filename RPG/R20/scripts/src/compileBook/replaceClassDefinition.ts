@@ -12,7 +12,10 @@ export const removeArchetypeDefinition = replaceMacro('define-archetype', '')
 
 export const removeThemesDefinition = replaceMacro('define-themes', '')
 
-export const replaceClassDefinition = ({ archetypes, classThemes }: CompileRulesDeps) =>
+export const replaceClassDefinition = ({
+  archetypes,
+  classThemes,
+}: CompileRulesDeps) =>
   replaceMacroAsync('class-definition', async macro => {
     const archetype = archetypes.find(
       archetype => archetype.name === macro.items.ARCHETYPE
@@ -121,27 +124,30 @@ const makeFeatsSection = (archetype: string, classDefinition: Class) => {
   )
 }
 
-const makeThemesSection = (themes: Themes, classDefinition: Class, archetype: Archetype) => {
-
+const makeThemesSection = (
+  themes: Themes,
+  classDefinition: Class,
+  archetype: Archetype
+) => {
   // const theme = "NATURE"
-  const theme = Object.entries(themes)
-    .filter(([, { classes }]) => classes.includes(classDefinition.name))[0]?.[0]
+  const theme = Object.entries(themes).filter(([, { classes }]) =>
+    classes.includes(classDefinition.name)
+  )[0]?.[0]
 
-  const levels = archetype.specialization_levels ?? ["4", "8"]
+  const levels = archetype.specialization_levels ?? ['4', '8']
 
-  if (!themes[theme]) return ""
+  if (!themes[theme]) return ''
 
-  return `
-  ### Especialização
-  A partir do nível ${levels[0]}, escolha uma perícia entre **${themes[theme].skills}**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível ${levels[1]}, escolha uma perícia adicional.
-  `
-
+  return (
+    '### Especialização\n' +
+    `A partir do nível ${levels[0]}, escolha uma perícia entre **${themes[theme].skills}**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível ${levels[1]}, escolha uma perícia adicional.`
+  )
 }
 
 export const generateClassDefinition = (
   classDefinition: Class,
   themes: Themes,
-  archetype?: Archetype,
+  archetype?: Archetype
 ) =>
   !archetype
     ? `ERRROR WHAT SMETHING's WRONG\n\n\`\`\`json\n${JSON.stringify(
@@ -165,7 +171,7 @@ export const generateClassDefinition = (
     makeFeaturesSection(classDefinition) +
     '\n\n' +
     makeThemesSection(themes, classDefinition, archetype) +
-    '\n\n' +
+    // '\n\n' +
     makeFeatsSection(archetype.name, classDefinition)
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
