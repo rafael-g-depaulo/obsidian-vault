@@ -93,13 +93,12 @@ const makeFeaturesSection = (classDefinition: Class) => {
 
 const singleFeatString = (feat: Feat) =>
   `- **${feat.name}.** ${feat.description}` +
-  (!feat.preRequisites ? '' : `Pre-requisites: *${feat.preRequisites}*.`)
+  (!feat.preRequisites ? '' : ` Pre-requisites: *${feat.preRequisites}*.`)
 
 const makeClassNote = (note?: ClassNote) =>
   !note ? '' : `{{class-note "${note.name}"\n${note.description}}}`
 
 const makeFeatsSection = (archetype: string, classDefinition: Class) => {
-
   const featsList = classDefinition.feats
     .map(feat =>
       typeof feat === 'object'

@@ -73,13 +73,11 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
 
-- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo.Pre-requisites: *3º lvl de Werebeast.*.
+- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
 
 - **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
 
 - **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
-
-- **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 
 {{pageNumber,auto}}
 \page
@@ -96,7 +94,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Corpo Aberrante: Escamas.** Beast Form: *(passivo)* Você tem velocidade de nado igual a sua velocidade de movimento. *Human Form (reação):* Ganhe +5 de Defesa até o final do seu próximo turno.
 
-- **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno.Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
+- **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno. Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 
@@ -108,7 +106,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto
 
-- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de ExaustãoPre-requisites: *5º nível de Werebeast*.
+- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão Pre-requisites: *5º nível de Werebeast*.
+
+- **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 
 
 

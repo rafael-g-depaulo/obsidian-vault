@@ -2171,13 +2171,11 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
 
-- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo.Pre-requisites: *3º lvl de Werebeast.*.
+- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
 
 - **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
 
 - **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
-
-- **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 
 {{pageNumber,auto}}
 \page
@@ -2194,7 +2192,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Corpo Aberrante: Escamas.** Beast Form: *(passivo)* Você tem velocidade de nado igual a sua velocidade de movimento. *Human Form (reação):* Ganhe +5 de Defesa até o final do seu próximo turno.
 
-- **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno.Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
+- **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno. Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 
@@ -2206,7 +2204,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto
 
-- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de ExaustãoPre-requisites: *5º nível de Werebeast*.
+- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão Pre-requisites: *5º nível de Werebeast*.
+
+- **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 
 
 
@@ -2269,7 +2269,7 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
 
-- **NAME HERE.** Scary Look now makes target scared of all your alliesPre-requisites: *13th level in Witch*.
+- **NAME HERE.** Scary Look now makes target scared of all your allies Pre-requisites: *13th level in Witch*.
 
 - **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on
 
@@ -2277,30 +2277,16 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Distant Hex.** double the range of your Hexes
 
-- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a HexPre-requisites: *5th level witch.*.
-
-{{pageNumber,auto}}
-\page
-
+- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex Pre-requisites: *5th level witch.*.
 
 - **Cursed Knowledge.** learn 2 hexes
 
-- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save.Pre-requisites: *10th level witch*.
+- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
 
 - **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
 
-- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
-
-- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
-
-- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
-
-- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar)Pre-requisites: *2 poderes de poção misteriosa*.
-
-- **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
-
-- **poder poção misteriosa 7.** Quando alguém toma uma poção sua e rolar pelo menos 2 resultados iguais nos d4 rolados, você e quem consumiu a poção recebem PM temporário igual ao seu modificador de PRE + metade do seu nível de bruxa.Pre-requisites: *2 poderes de poção misteriosa*.
-
+{{pageNumber,auto}}
+\page
 {{note
 #### Poções Misteriosas
 
@@ -2325,6 +2311,20 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
 
+- **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
+
+- **poder poção misteriosa 3.** +1PM pra -1 efeito negativo.
+
+- **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
+
+- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar) Pre-requisites: *2 poderes de poção misteriosa*.
+
+- **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
+
+- **poder poção misteriosa 7.** Quando alguém toma uma poção sua e rolar pelo menos 2 resultados iguais nos d4 rolados, você e quem consumiu a poção recebem PM temporário igual ao seu modificador de PRE + metade do seu nível de bruxa. Pre-requisites: *2 poderes de poção misteriosa*.
+
+
+
 
 
 
@@ -2341,7 +2341,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Ossos de gesso.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* As extremidades do alvo começam a tremer, ele fica pálido e perde o foco.
 
-- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
+- **Hex: Sangue de seiva.** Your first ally each turn that damages the target while in melee range recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
 
 - **Hex: Anemia Arcana.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on. O alvo fica com profundas e escuras olheiras, seus músculos desinflam e suas juntas rangem com cada movimento tortuoso.
 

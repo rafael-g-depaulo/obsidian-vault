@@ -44,30 +44,30 @@ FEATS:
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
-| Focused Cantrip | Your damaging cantrips do an extra die of damage per effect you're concentrating on |  |
-| Scary Look | (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_) |  |
+| Focused Cantrip | Your damaging cantrips do an extra die of damage per effect you're concentrating on. |  |
+| Scary Look | (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_). |  |
 | NAME HERE | Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1). |  |
-| NAME HERE | Scary Look now makes target scared of all your allies | 13th level in Witch |
-| Cantrip asdaf | Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on |  |
-| NAME HERE | Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look |  |
-| Distant Hex | double the range of your Hexes |  |
-| Multi-Hex | (while casting a Hex) +2PM: target an additional creature when you cast a Hex | 5th level witch. |
+| NAME HERE | Scary Look now makes target scared of all your allies. | 13th level in Witch |
+| Cantrip asdaf | Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on. |  |
+| NAME HERE | Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look. |  |
+| Distant Hex | double the range of your Hexes. |  |
+| Multi-Hex | (while casting a Hex) +2PM: target an additional creature when you cast a Hex. | 5th level witch. |
+| Cursed Knowledge | learn 2 hexes. |  |
+| Tricky Spell | while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. | 10th level witch |
+| poder poção misteriosa 1 | Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. |  |
 
 BREAK
 
+CLASS_NOTE
+
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
-| Cursed Knowledge | learn 2 hexes |  |
-| Tricky Spell | while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. | 10th level witch |
-| poder poção misteriosa 1 | Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. |  |
 | poder poção misteriosa 2 | +1PM pra +1 efeito positivo +1 efeito negativo. |  |
 | poder poção misteriosa 3 | +1PM pra -1 efeito negativo. |  |
 | poder poção misteriosa 4 | Todo mundo pode fazer Ação: tomar até 1+PRE poções. |  |
-| poder poção misteriosa 5 | Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar) | 2 poderes de poção misteriosa |
+| poder poção misteriosa 5 | Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar). | 2 poderes de poção misteriosa |
 | poder poção misteriosa 6 | (alguém toma sua poção) reação: re-rola os efeitos. |  |
 | poder poção misteriosa 7 | Quando alguém toma uma poção sua e rolar pelo menos 2 resultados iguais nos d4 rolados, você e quem consumiu a poção recebem PM temporário igual ao seu modificador de PRE + metade do seu nível de bruxa. | 2 poderes de poção misteriosa |
-
-CLASS_NOTE
 
 CLASS_NOTE_NAME: Poções Misteriosas
 CLASS_NOTE_DESCRIPTION: 
@@ -130,7 +130,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Ossos de gesso.** The target has -1 Defense, and -1 for each other effect you're concentrating on. *Descrição:* As extremidades do alvo começam a tremer, ele fica pálido e perde o foco.
 
-- **Hex: Sangue de seiva.** Your first ally each turn that hits the target recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
+- **Hex: Sangue de seiva.** Your first ally each turn that damages the target while in melee range recovers (your Presence mod.) HP, +1 for each other effect you're concentrating on. *Descrição:* O alvo fica desidratado e fraco, como se alguém estivesse espremendo a vida dele. Um líquido branco, doce e cheiroso é jorrado das suas feridas recentes junto com sangue, o que rejuvenesce o causador da ferida.
 
 - **Hex: Anemia Arcana.** The target has -1 to all of their saving throws, -1 for each other effect you're concentrating on. O alvo fica com profundas e escuras olheiras, seus músculos desinflam e suas juntas rangem com cada movimento tortuoso.
 
