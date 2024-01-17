@@ -79,4 +79,5 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 %%
 Feat ideas:
 	- Add option to switch up phys/mental abilities so you can be a beffcake with a wise, frail.
+	- add more buffs for human blood, maybe with a feat tree with a starting one that buffs both versions.
 %%
