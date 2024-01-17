@@ -121,10 +121,32 @@ const makeFeatsSection = (archetype: string, classDefinition: Class) => {
   )
 }
 
-const makeThemesSection = (themes: Themes, classDefinition: Class) => {
+const makeThemesSection = (themes: Themes, classDefinition: Class, archetype: Archetype) => {
 
-  const theme = "NATURE"
-  const levels = ["4", "8"]
+  // const theme = "NATURE"
+  const theme = Object.entries(themes)
+    .filter(([, { classes }]) => classes.includes(classDefinition.name))[0]?.[0]
+
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  // const levels = ["4", "8"]
+  const levels = archetype.specialization_levels ?? ["4", "8"]
 
   if (!themes[theme]) return ""
 
@@ -161,7 +183,7 @@ export const generateClassDefinition = (
     '\n\n' +
     makeFeaturesSection(classDefinition) +
     '\n\n' +
-    makeThemesSection(themes, classDefinition) +
+    makeThemesSection(themes, classDefinition, archetype) +
     '\n\n' +
     makeFeatsSection(archetype.name, classDefinition)
 

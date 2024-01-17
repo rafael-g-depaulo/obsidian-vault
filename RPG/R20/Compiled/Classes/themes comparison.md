@@ -11,7 +11,7 @@ This section exists mostly to let me organize and categorize the classes with si
 | charming                                               | dancer     | champion      | bard       | witch        | persuasion, deception, intimidation |      |
 | creator                                                | inventor??           | smith??              | shaman??           | artificer??             |                                     |      |
 
-{{define-themes
+{{define-theme
 
 | Theme | Classes | Skills |
 | ---- | ---- | ---- |

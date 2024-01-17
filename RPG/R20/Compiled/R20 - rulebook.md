@@ -52,359 +52,115 @@ ___
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Attributes }}{{ 6 }}](#p6)
-- #### [{{ Description }}{{ 6 }}](#p6)
-- #### [{{ Determining Base Attribute Scores }}{{ 6 }}](#p6)
-- #### [{{ Modifiers }}{{ 6 }}](#p6)
-- #### [{{ Effects }}{{ 6 }}](#p6)
-- ### [{{ Skills & Skill Checks }}{{ 7 }}](#p7)
-- #### [{{ Skills: }}{{ 7 }}](#p7)
-- #### [{{ Skills by Attributes }}{{ 7 }}](#p7)
-- #### [{{ Skills by group }}{{ 7 }}](#p7)
-- #### [{{ Skill Checks }}{{ 8 }}](#p8)
-- #### [{{ Skill Bonus & Skill Points }}{{ 9 }}](#p9)
-- #### [{{ Passive Skill Rolls }}{{ 9 }}](#p9)
-- ### [{{ Archetypes }}{{ 10 }}](#p10)
-- #### [{{ Caster }}{{ 10 }}](#p10)
-- #### [{{ Off-Caster }}{{ 10 }}](#p10)
-- #### [{{ Specialist }}{{ 11 }}](#p11)
-- #### [{{ Martial }}{{ 11 }}](#p11)
-- ### [{{ Classes }}{{ 12 }}](#p12)
-- #### [{{ List of Classes }}{{ 12 }}](#p12)
-- #### [{{ Resumo e comparação das classes }}{{ 13 }}](#p13)
-- #### [{{ Creating a Class }}{{ 14 }}](#p14)
-- ### [{{ Alquimist (Specialist) }}{{ 15 }}](#p15)
-- ### [{{ Beast Warrior (Martial) }}{{ 16 }}](#p16)
-- ### [{{ Champion (Martial) }}{{ 18 }}](#p18)
-- ### [{{ Channeler (Caster) }}{{ 20 }}](#p20)
-- #### [{{  Spells }}{{ 22 }}](#p22)
-- ### [{{ Dancer (Specialist) }}{{ 24 }}](#p24)
-- ### [{{ Fighter (Martial) }}{{ 26 }}](#p26)
-- ### [{{ Juggernaut (Martial) }}{{ 27 }}](#p27)
-- ### [{{ Plantomancer (Caster) }}{{ 29 }}](#p29)
-- #### [{{  Spells }}{{ 30 }}](#p30)
-- ### [{{ Rogue (Specialist) }}{{ 32 }}](#p32)
-- ### [{{ Spelgard (Off-Caster) }}{{ 34 }}](#p34)
-- #### [{{  Spells }}{{ 35 }}](#p35)
-- ### [{{ Werebeast (Specialist) }}{{ 37 }}](#p37)
-- ### [{{ Witch (Caster) }}{{ 39 }}](#p39)
-- #### [{{  Spells }}{{ 40 }}](#p40)
-- ### [{{ Combat }}{{ 42 }}](#p42)
-- #### [{{ Round }}{{ 42 }}](#p42)
-- #### [{{ Combat Actions }}{{ 42 }}](#p42)
-- #### [{{ Attacking and Defending }}{{ 42 }}](#p42)
-- #### [{{ Movement }}{{ 43 }}](#p43)
-- #### [{{ Maneuvers }}{{ 43 }}](#p43)
-- #### [{{ Manobras }}{{ 43 }}](#p43)
-- #### [{{ Tamanho }}{{ 44 }}](#p44)
-- ### [{{ Origins }}{{ 45 }}](#p45)
-- #### [{{ Origin Lists }}{{ 45 }}](#p45)
-- ### [{{ Proficiency }}{{ 46 }}](#p46)
-- ### [{{ General Feats }}{{ 47 }}](#p47)
-- ### [{{ Martial Feats }}{{ 48 }}](#p48)
-- ### [{{ Caster Feats }}{{ 49 }}](#p49)
-- ### [{{ Specialist Feats }}{{ 50 }}](#p50)
-- ### [{{ Companion Feats }}{{ 51 }}](#p51)
+- ### [{{ Archetypes }}{{ 6 }}](#p6)
+- #### [{{ Caster }}{{ 6 }}](#p6)
+- #### [{{ Off-Caster }}{{ 6 }}](#p6)
+- #### [{{ Specialist }}{{ 7 }}](#p7)
+- #### [{{ Martial }}{{ 7 }}](#p7)
+- ### [{{ Classes }}{{ 8 }}](#p8)
+- #### [{{ List of Classes }}{{ 8 }}](#p8)
+- #### [{{ Resumo e comparação das classes }}{{ 9 }}](#p9)
+- #### [{{ Creating a Class }}{{ 10 }}](#p10)
+- ### [{{ Alquimist (Specialist) }}{{ 11 }}](#p11)
+- ### [{{ Beast Warrior (Martial) }}{{ 12 }}](#p12)
+- ### [{{ Champion (Martial) }}{{ 14 }}](#p14)
+- ### [{{ Channeler (Caster) }}{{ 16 }}](#p16)
+- #### [{{  Spells }}{{ 18 }}](#p18)
+- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
+- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
+- ### [{{ Juggernaut (Martial) }}{{ 23 }}](#p23)
+- ### [{{ Plantomancer (Caster) }}{{ 25 }}](#p25)
+- #### [{{  Spells }}{{ 26 }}](#p26)
+- ### [{{ Rogue (Specialist) }}{{ 28 }}](#p28)
+- ### [{{ Spelgard (Off-Caster) }}{{ 30 }}](#p30)
+- #### [{{  Spells }}{{ 31 }}](#p31)
+- ### [{{ Werebeast (Specialist) }}{{ 33 }}](#p33)
+- ### [{{ Witch (Caster) }}{{ 35 }}](#p35)
+- #### [{{  Spells }}{{ 36 }}](#p36)
+- ### [{{ Combat }}{{ 38 }}](#p38)
+- #### [{{ Round }}{{ 38 }}](#p38)
+- #### [{{ Combat Actions }}{{ 38 }}](#p38)
+- #### [{{ Attacking and Defending }}{{ 38 }}](#p38)
+- #### [{{ Movement }}{{ 39 }}](#p39)
+- #### [{{ Maneuvers }}{{ 39 }}](#p39)
+- #### [{{ Manobras }}{{ 39 }}](#p39)
+- #### [{{ Tamanho }}{{ 40 }}](#p40)
+- ### [{{ Origins }}{{ 41 }}](#p41)
+- #### [{{ Origin Lists }}{{ 41 }}](#p41)
+- ### [{{ Proficiency }}{{ 42 }}](#p42)
+- ### [{{ General Feats }}{{ 43 }}](#p43)
+- ### [{{ Martial Feats }}{{ 44 }}](#p44)
+- ### [{{ Caster Feats }}{{ 45 }}](#p45)
+- ### [{{ Specialist Feats }}{{ 46 }}](#p46)
+- ### [{{ Companion Feats }}{{ 47 }}](#p47)
+- ### [{{ Starting Items }}{{ 48 }}](#p48)
+- ### [{{ Carga }}{{ 49 }}](#p49)
+- #### [{{ Sobrecarga }}{{ 49 }}](#p49)
+- ### [{{ Coins }}{{ 50 }}](#p50)
+- ### [{{ Equipment }}{{ 51 }}](#p51)
+- #### [{{ Simple Weapons }}{{ 51 }}](#p51)
+- #### [{{ Martial Weapons }}{{ 51 }}](#p51)
+- #### [{{ Armor }}{{ 51 }}](#p51)
+- #### [{{ Magic Staves }}{{ 52 }}](#p52)
+- ### [{{ Consumable Items }}{{ 53 }}](#p53)
+- #### [{{ Potions }}{{ 53 }}](#p53)
+- #### [{{ Poisons }}{{ 53 }}](#p53)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Starting Items }}{{ 52 }}](#p52)
-- ### [{{ Carga }}{{ 53 }}](#p53)
-- #### [{{ Sobrecarga }}{{ 53 }}](#p53)
-- ### [{{ Coins }}{{ 54 }}](#p54)
-- ### [{{ Equipment }}{{ 55 }}](#p55)
-- #### [{{ Simple Weapons }}{{ 55 }}](#p55)
-- #### [{{ Martial Weapons }}{{ 55 }}](#p55)
-- #### [{{ Armor }}{{ 55 }}](#p55)
-- #### [{{ Magic Staves }}{{ 56 }}](#p56)
-- ### [{{ Consumable Items }}{{ 57 }}](#p57)
-- #### [{{ Potions }}{{ 57 }}](#p57)
-- #### [{{ Poisons }}{{ 57 }}](#p57)
-- #### [{{ Óleos }}{{ 58 }}](#p58)
-- ### [{{ Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Casting a Spell from a Scroll }}{{ 59 }}](#p59)
-- #### [{{ Learning a Spell from a Scroll }}{{ 59 }}](#p59)
-- #### [{{ Creating Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Buying Spell Scrolls }}{{ 59 }}](#p59)
-- #### [{{ Ideas for change }}{{ 59 }}](#p59)
-- #### [{{ Working with item levels. }}{{ 59 }}](#p59)
-- ### [{{ Magic Items }}{{ 60 }}](#p60)
-- #### [{{ Runes }}{{ 61 }}](#p61)
-- ### [{{ Crafting }}{{ 62 }}](#p62)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 62 }}](#p62)
-- #### [{{ Crafting in Bulk }}{{ 62 }}](#p62)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 62 }}](#p62)
-- ### [{{ Spells }}{{ 63 }}](#p63)
-- #### [{{ Learning Spells }}{{ 63 }}](#p63)
-- #### [{{ Prepared vs. Learned Spells }}{{ 63 }}](#p63)
-- #### [{{ Casting Spells }}{{ 63 }}](#p63)
-- #### [{{ Spell levels }}{{ 63 }}](#p63)
-- #### [{{ Spell Tags }}{{ 64 }}](#p64)
-- #### [{{ Flavor }}{{ 64 }}](#p64)
-- ### [{{ Spell Tags }}{{ 65 }}](#p65)
-- #### [{{ Tags }}{{ 65 }}](#p65)
-- ### [{{ Spell List }}{{ 66 }}](#p66)
-- #### [{{ All Spells }}{{ 66 }}](#p66)
-- ### [{{ Spells }}{{ 68 }}](#p68)
-- ### [{{ Contracts, Paladins & Entities }}{{ 103 }}](#p103)
-- #### [{{ Paladins }}{{ 103 }}](#p103)
-- #### [{{ Contract }}{{ 103 }}](#p103)
-- #### [{{ Favor }}{{ 103 }}](#p103)
-- #### [{{ Losing Favor }}{{ 103 }}](#p103)
-- #### [{{ Miracles }}{{ 103 }}](#p103)
+- #### [{{ Óleos }}{{ 54 }}](#p54)
+- ### [{{ Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Casting a Spell from a Scroll }}{{ 55 }}](#p55)
+- #### [{{ Learning a Spell from a Scroll }}{{ 55 }}](#p55)
+- #### [{{ Creating Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Buying Spell Scrolls }}{{ 55 }}](#p55)
+- #### [{{ Ideas for change }}{{ 55 }}](#p55)
+- #### [{{ Working with item levels. }}{{ 55 }}](#p55)
+- ### [{{ Magic Items }}{{ 56 }}](#p56)
+- #### [{{ Runes }}{{ 57 }}](#p57)
+- ### [{{ Crafting }}{{ 58 }}](#p58)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 58 }}](#p58)
+- #### [{{ Crafting in Bulk }}{{ 58 }}](#p58)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 58 }}](#p58)
+- ### [{{ Spells }}{{ 59 }}](#p59)
+- #### [{{ Learning Spells }}{{ 59 }}](#p59)
+- #### [{{ Prepared vs. Learned Spells }}{{ 59 }}](#p59)
+- #### [{{ Casting Spells }}{{ 59 }}](#p59)
+- #### [{{ Spell levels }}{{ 59 }}](#p59)
+- #### [{{ Spell Tags }}{{ 60 }}](#p60)
+- #### [{{ Flavor }}{{ 60 }}](#p60)
+- ### [{{ Spell Tags }}{{ 61 }}](#p61)
+- #### [{{ Tags }}{{ 61 }}](#p61)
+- ### [{{ Spell List }}{{ 62 }}](#p62)
+- #### [{{ All Spells }}{{ 62 }}](#p62)
+- ### [{{ Spells }}{{ 64 }}](#p64)
+- ### [{{ Contracts, Paladins & Entities }}{{ 99 }}](#p99)
+- #### [{{ Paladins }}{{ 99 }}](#p99)
+- #### [{{ Contract }}{{ 99 }}](#p99)
+- #### [{{ Favor }}{{ 99 }}](#p99)
+- #### [{{ Losing Favor }}{{ 99 }}](#p99)
+- #### [{{ Miracles }}{{ 99 }}](#p99)
+- ### [{{ Companions }}{{ 100 }}](#p100)
+- #### [{{ Stats }}{{ 100 }}](#p100)
+- #### [{{ Companion death }}{{ 100 }}](#p100)
+- #### [{{ Rest }}{{ 100 }}](#p100)
+- #### [{{ Companion Skills }}{{ 100 }}](#p100)
+- ### [{{ Conditions }}{{ 102 }}](#p102)
+- ### [{{ Rest & Recovery }}{{ 103 }}](#p103)
+- #### [{{ Provisions }}{{ 103 }}](#p103)
+- #### [{{ How to recover }}{{ 103 }}](#p103)
+- #### [{{ Skipping a Rest }}{{ 103 }}](#p103)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 103 }}](#p103)
 - ### [{{ Companions }}{{ 104 }}](#p104)
 - #### [{{ Stats }}{{ 104 }}](#p104)
 - #### [{{ Companion death }}{{ 104 }}](#p104)
 - #### [{{ Rest }}{{ 104 }}](#p104)
 - #### [{{ Companion Skills }}{{ 104 }}](#p104)
-- ### [{{ Conditions }}{{ 106 }}](#p106)
-- ### [{{ Rest & Recovery }}{{ 107 }}](#p107)
-- #### [{{ Provisions }}{{ 107 }}](#p107)
-- #### [{{ How to recover }}{{ 107 }}](#p107)
 }}
 
-\page
-{{toc,wide
-# Table Of Contents
-- #### [{{ Skipping a Rest }}{{ 107 }}](#p107)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 107 }}](#p107)
-- ### [{{ Companions }}{{ 108 }}](#p108)
-- #### [{{ Stats }}{{ 108 }}](#p108)
-- #### [{{ Companion death }}{{ 108 }}](#p108)
-- #### [{{ Rest }}{{ 108 }}](#p108)
-- #### [{{ Companion Skills }}{{ 108 }}](#p108)
-}}
-
-{{pageNumber,auto}}
-\page
-# Attributes
-
-## Description
-### Physical Attributes
-These are primarily responsible in determining a character's physical capabilities.
-
-**Strength**: direct physical power and athelitic prowess.
-
-**Dexterity**: agility.
-
-**Constituition**: endurance.
-
-### Mental Attributes
-
-**Intelligence**: reasoning. memory.
-
-**Sensibility**: perceiving, receiving and understanding. empathy, perception, getting a gut feeling, attuning to a magic item, reading an "aura", stuff like that.
-
-**Presence**: imposing your will, intimidating, convincing, deceiving, manipulating, communicating your intentions, getting others to understand you, manifesting an "aura", stuff like that.
-
-## Determining Base Attribute Scores
-### Rolling (discouraged)
-I don't recommend this because it has a lot of variance and has a really high average. this system gives characters way more ways to increase their attributes as they level, so a stat rolling system that works well for D&D or T20 isn't really well suited for this. Example: a T20 character is expected to increase their attribute scores by ~6 in 16 levels, a D&D character by about ~6 also, and a character in this system by 8-10.
-
-Buuut... if you really want to do it, I recommend using either a "8, 16 and 4 times 3d6", or a "6 times 3d6, repeat until modifier total is >=3"
-
-### Score buy
-You have 27 points to spend on your ability scores. The cost is shown in the table below.
-
-##### Score buy
-
-| Score | Cost |
-|:-----:|:-----|
-| 8     | 0    |
-| 9     | 1    |
-| 10    | 2    |
-| 11    | 3    |
-| 12    | 4    |
-| 13    | 5    |
-| 14    | 7    |
-| 15    | 9    |
-
-### Standard array
-15, 14, 13, 12, 10, 8
-
-## Modifiers
-
-##### Attribute score modifiers
-
-| Score | Modifier | Score | Modifier |
-|:-----:|:---------|:-----:|:---------|
-| 1     | -5       | 16-17 | +3       |
-| 2-3   | -4       | 18-19 | +4       |
-| 4-5   | -3       | 20-21 | +5       |
-| 6-7   | -2       | 22-23 | +6       |
-| 8-9   | -1       | 24-25 | +7       |
-| 10-11 | +0       | 26-27 | +8       |
-| 12-13 | +1       | 28-29 | +9       |
-| 14-15 | +2       | 30+   | +10      |
-
-## Effects
-Besides skill checks, attacks, ability and spell DCs and other class features, most Attributes also have other effects for your character.
-
-**Strength**: Your movement speed is increased by 5ft (1 square) times your strength modifier.
-
-**Dexterity**: Your Dodge is increased by your dexterity modifier (see: Attack rolls, Defense and save DCs).
-
-**Constituition**: Your maximum HP gain each time you level up is X + your constituition modifier, where X is determined by your class' archetype (see: Archetypes). Your Guard is increased by your constituition modifier  (see: Attack rolls, Defense and save DCs).
-
-**Intelligence**: You know a number of aditional languages equal to your intelligence modifier. You gain extra skill proficiency points every level up equal to your intelligence modifier.
-
-**Sensibility**: *nothing yet*
-
-**Presence**: *nothing yet*
-
-
-{{pageNumber,auto}}
-\page
-# Skills & Skill Checks
-
-## Skills:
-blablabla do this intro paragraph later.
-
-Description of skills below:
-
-
-
-## Skills by Attributes
-### Str
-#### Atletismo / Athletics
-### Dex
-#### Acrobacia / Acrobatics
-#### Iniciativa / Initiative
-#### Furtividade / Stealth
-#### Ladinagem / Sleight of Hand
-### Con
-#### Sobrevivência / Survival
-### Int
-#### Investigação / Investigation
-#### Lógica / Logic
-#### História / History
-#### Medicina / Medicine
-#### Religião / Religion
-### Sen
-#### Percepção / Perception
-#### Empatia / Empathy
-#### Intuição / Insight
-#### Arcana / Arcana
-#### Natureza / Nature
-### Pre
-#### Adestramento / Animal Handling
-#### Cozinhar / Cooking
-#### Enganação / Deception
-#### Intimidação / Intimidation
-#### Persuasão / Persuasion
-#### Performance / Performance
-
-## Skills by group
-### Physical Stuff
-#### Athletics (STR)
-#### Acrobatics (DEX)
-#### Initiative (DEX)
-
-### Perceiving Stuff
-#### Perception (SEN)
-See sudden movements. look for something in the distance. react to something
-#### Empathy (SEN)
-Understand someone's motivations or feelings about a subject
-#### Insight (SEN)
-Spider Sense. feel energy. perceive magic. identify magical items.
-
-### Convincing Others
-#### Deception (PRE)
-#### Intimidation (PRE)
-#### Persuasion (PRE)
-#### Performance (PRE)
-While performance is used mainly for displays or artistic expression, it can also be used to roll for a character's ability to express their feelings/ideas/intentions.
-
-### Finding/Remembering/Acquiring information
-#### Investigation (INT)
-look for something physically
-#### Logic (INT)
-#### History (INT)
-#### Arcana (SEN)
-Figuring out magic spells or items, understanding mystical beings.
-#### Religion (INT)
-
-{{pageNumber,auto}}
-\page
-
-### Production
-Production skills are used mainly for crafting items (see: crafting). To perform it a character needs to use a set of tools for that specific trade. Tools cost 50g and can be acquired in most cities and villages. If attempting to make a roll without the respective tool, a character receives a -5 penalty to the roll.
-#### Smithing (STR)
-#### Alquemy (DEX)
-#### Scribing (INT)
-#### Herbalism (SEN)
-#### Rune Crafting (PRE)
-
-## Skill Checks
-When a character makes a skill check, they roll against a pre-determined CR set by the DM. Their roll is determined as follows:
-
-- **Skill Check:** 1d20 + Attribute Modifier + Skill Bonus
-
-Where "Attribute Modifier" is the modifier to the character's corresponding main attribute of the skill (e.g. when rolling an Insight Skill Check a character with 17 SEN would use +3 as their Attribute Modifier). Skill Bonuses are explained below.
-
-In rare circumstances the DM might ask for a different attribute to be used instead of the skill's normal one. Example: Intimidation through a show of force or visual display of apparent strength might use CON or STR as a substitute of PRE, if the DM agrees.
-
-### Using a different attribute for a skill check
-
-### Using a different skill for a skill check
-Many situations allow for different ways for a character to achieve their goals, even if there is a "more common" or "easier" one. A character might want to melt away a locked mechanism with their Alchemist's tools instead of lockpicking it. Another might want to perform crazy stunts and roll acrobatics instead of performance to try to convince The Great Master Artist Cain Delarrouse™ that he should accept them as an apprentice dancer. A third one could try to roll intimidation instead of persuasion to let the guards in the post let them through, convincing them that it's not worth the trouble to get their asses beat for a random traveler just minding their business.
-
-{{pageNumber,auto}}
-\page
-
-It's recommended that the DM encourage the player's creativity and ingenuity, and allow them to substitute a skill check (but not a saving throw!) for another one. The DM themselves can suggest it, but it's recommended to leave that to the player's initiative, instead of just presenting them with the option. When using a different skill than the original one for a check, the DM chooses how much more difficult the task or objective is with the new approach. Then consult the table below for adjusting the DC of the check for that character.
-
-##### DC for using a different skill for a task
-
-| Aditional Dificulty            | DC  |
-| ------------------------------ | --- |
-| about the same or a bit harder | +2  | 
-| considerably harder            | +5  |
-
-Whether the character is allowed to roll a different skill is always at the DM's discretion.
-
-## Skill Bonus & Skill Points
-When a character levels up they gain skill points, which they may distribute among their skills. These represent a character's growth, training and experience. A character starts with **5 + their Inteligence Modifier** skill points at level 1, and gains **2** every even levelup and **2 + their Inteligence Modifier** (min 2) every odd level up.
-
-A character's skill bonus for any given skill can only reach up to the maximum defined in the following table.
-##### Maximum Skill Bonus per level
-
-| Level | Max Skill Bonus |
-|:-----:|:---------------:|
-|   1   |       +2        |
-|   2   |       +3        |
-|   3   |       +3        |
-|   4   |       +4        |
-|   5   |       +5        |
-|   6   |       +5        |
-|   7   |       +7        |
-|   8   |       +7        |
-|   9   |       +7        |
-|  10   |       +9        |
-|  11   |       +9        |
-|  12   |       +9        |
-|  13   |       +12       |
-|  14   |       +12       |
-|  15   |       +12       |
-|  16   |       +15       |
-|  17   |       +15       |
-|  18   |       +15       |
-|  19   |       +15       |
-|  20   |       +15       |
-
-
-
-## Passive Skill Rolls
-
-A character's passive, neutral ability in a skill means that even when not actively trying, they succeed in all checks of DC smaller than or equal to:
-
-- **8 + ATB + Bonus**, with ATB being their bonus with the relevant attribute, and Bonus being their proficiency in that skill.
-
-Example: Ada, the Rogue, has 17 DEX and 4 points in stealth. Her passive stealth, then, is 8 + 3 + 4 = 15.
-
-
+############ INVALID_LINK "null" ############
 
 {{pageNumber,auto}}
 \page
@@ -795,9 +551,6 @@ Important tips:
 **Make Concoction?.** undefined
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Alquimist Feats
 Beginning at level 2, every time you gain a level in Alquimist you gain a Witch Feat. You may instead of a Alquimist feat take a Specialist or General Feat of your choice.
@@ -893,9 +646,6 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Wild Senses (5).** undefined
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Beast Warrior Feats
@@ -1002,9 +752,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 **Lay on Hands.** undefined
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
@@ -1101,9 +848,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 **Juntar Energia, Faísca Mágica: Poder.** undefined
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Channeler Feats
@@ -1354,9 +1098,6 @@ feats:
 **Confie na Estrela.** undefined
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
@@ -1493,9 +1234,6 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 **Action Surge (3).** undefined
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
@@ -1583,9 +1321,6 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 
 **Powerful Strike.** undefined
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Juggernaut Feats
@@ -1692,9 +1427,6 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 
 **Summon Sapling.** undefined
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Plantomancer Feats
@@ -1876,9 +1608,6 @@ List of spells available for a Plantomancer to learn.
 **Cunning Action.** undefined
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
@@ -2005,9 +1734,6 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Spiritual Weapon.** undefined
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Spelgard Feats
@@ -2207,9 +1933,6 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 
 
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
-
 
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
@@ -2315,9 +2038,6 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
-
-### Especialização 
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 
 ### Witch Feats

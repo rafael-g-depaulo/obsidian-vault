@@ -4,7 +4,7 @@
 
 {{summary}}
 
-![[RPG/R20/Attributes & Skills/index]]
+![[RPG/Attributes & Skills/index]]
 
 ![[RPG/R20/Archetypes/index]]
 

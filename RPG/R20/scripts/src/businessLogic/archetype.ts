@@ -11,6 +11,7 @@ export interface Archetype {
   features: string[][]
   multi_features: string[][]
   wide: boolean
+  specialization_levels: string[]
 }
 
 const makeASIFeatures = (ASI_levels: number[]) => {
@@ -42,5 +43,6 @@ export const parseArchetype = <T extends Macro>(
       getString(archetypeMacro.items.MULTI_FEATURES) ?? ''
     ),
     wide: archetypeMacro.items.HAS_MAGIC === 'true',
+    specialization_levels: archetypeMacro.items.SPECIALIZATION_LEVELS as string[]
   }
 }
