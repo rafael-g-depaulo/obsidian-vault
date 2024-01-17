@@ -9,10 +9,14 @@ SPELLCASTING_ATTB: SEN
 
 FEATURES:
 
-| LEVEL | FEATURE          |
-| ----- | ---------------- |
-| 1     | Lay on Hands     |
-| 2     | Spiritual Weapon |
+%%
+**Either nerf damage or add concentration to spiritual weapon.**
+%%
+
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Lay on Hands | You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1 |
+| 2 | Spiritual Weapon | Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.  |
 
 MULTI_FEATURES:
 
@@ -38,17 +42,23 @@ MULTI_FEATURES:
 | 18th  | 5d8+SEN          | 5d8+5        |
 | 19th  | 5d8+SEN          | 5d8+5        |
 | 20th  | 5d8+SEN          | 5d8+5        |
+
+
+FEATS:
+
+| NAME | DESCRIPTION | PRE_REQUISITES |
+| ---- | ---- | ---- |
+|  |  |  |
+
+
+CLASS_NOTE_NAME: Auras
+CLASS_NOTE_DESCRIPTION:
+A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
+
+Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the following stats (unless stated otherwise):
+
+**Movement (2PM):** For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
 }}
-
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
-
-**SPIRITUAL WEAPON.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8. **Either nerf damage or add concentration.**
-
----
-
-### Spelgard Feats
-
-Begining at level 2, every time you gain a level in Spelgard you gain a Spelgard Feat. You may instead of a Spelgard feat take a Martial or General Feat of your choice.
 
 - **Arma Espiritual teleguiada**. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
 
