@@ -84,7 +84,7 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 
 const makeFeaturesSection = (classDefinition: Class) => {
   return classDefinition.features
-    .map(({ name, description }) => `**${name}.** ${description}`)
+    .map(({ name, description }) => `**${name}.** ${description?.replaceAll("<br>", "\n")}`)
     .join('\n\n')
 }
 
