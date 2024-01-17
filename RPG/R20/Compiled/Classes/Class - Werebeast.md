@@ -15,7 +15,7 @@
 ##### Werebeast
 | Level | Proficiency Bonus | Features |Wild Dice | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Beast Form, Wild Dice | 2d8 |
+| 1st | +1 | Wild Dice, Beast Form | 2d8 |
 | 2nd | +1 | Werebeast Feat, Monstruous Blood, Expertise | 2d8 |
 | 3rd | +2 | Werebeast Feat | 2d8 |
 | 4th | +2 | Werebeast Feat, Attribute Score Improvement | 2d8 |
@@ -38,7 +38,9 @@
 }}
 
 
-**Beast Form, Wild Dice.** undefined
+**Wild Dice.** undefined
+
+**Beast Form.** undefined
 
 **Monstruous Blood.** undefined
 
@@ -51,7 +53,7 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 **Beast Form. Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1 **Wild Dice** + your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice Ammount, to increase that by 2 **Wild Dice**. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.
 
-While on beast form you gain a natural weapon of your **Wild Dice** slashing damage (crit 20/2x).
+While on beast form you gain a natural weapon of your **Wild Dice** maximum slashing damage (crit 20/2x).
 
 While on your beast form, you switch your physical and mental attributes. Strength <-> Inteligence, Dexterity <-> Sensibility, Constitution <-> Presence.
 
@@ -71,11 +73,12 @@ Begining at level 2, every time you gain a level in Werebeast you gain a Werebea
 
 - **NOME.** Human form: Sua defesa aumenta em +2.
 - **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça. 
+- **Garras Persistentes.** Você pode usar seu ataque de garra na forma humana, mas dá 1 **Wild Die** a menos de dano. 
 - **Garras Enormes.** Aumente o multiplicador de crítico dos seus ataques em forma bestial em 1.
 - **NOME.** Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso.
 - **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
-- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pré-requisito: 3º lvl de Werebeast.
-- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
+- **Garras Velozes.** (ao realizar um ataque com garras) 2PM: Faça um ataque adicional contra o mesmo alvo. Pré-requisito: 3º lvl de Werebeast.
+- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu máximo de **Wild Dice**.
 - **Transfuzão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
 - **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 

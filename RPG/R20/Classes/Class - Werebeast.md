@@ -7,34 +7,35 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE               |
-| ----- | --------------------- |
-| 1     | Beast Form, Wild Dice |
-| 2     | Monstruous Blood      | 
+| LEVEL | FEATURE | Description |
+| ---- | ---- | ---- |
+| 1 | Wild Dice | Most of your abilities as a Werebeast are based off the amount of Wild Dice you have. By default, your Wild Die is a **d8**, and you have **2** of them. You gain another wild die at 5th, 9th and 14th levels. |
+| 1 | Beast Form | **Full Action (2PM):** You go through a violent transformation, becoming a wild, untamed beast. You gain 1 **Wild Die** + your Werebeast level temporary hit points. You can spend +1 PM, up to your Wild Dice maximum, to increase that by 2 **Wild Dice**. You also lose all weapon/armor proficiencies and ignore all bonuses from armor you were wearing until you leave your **Beast Form**.<br><br>While on beast form you gain a natural weapon of your maximum **Wild Dice** slashing damage (crit 20/2x).<br><br>While on your beast form, you switch your physical and mental attributes. Strength <-> Inteligence, Dexterity <-> Sensibility, Constitution <-> Presence.<br><br>While on beast form, you add your proficiency modifier to guard and dodge.<br><br>If you lose your temporary hit points, you revert back to your human form. You can also voluntarily turn back as a Movement Action.<br> |
+| 2 | Monstruous Blood | **Action (1PM+, up to your Wild Dice maximum):**<br>- Human form: Choose an ally you can see within 6sqr of you. They recover 1 **Wild Dice** HP per PM spent.<br>- Beast form: Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.<br> |
 
 MULTI_FEATURES:
 | Level | Wild Dice    |
 | ----- | --- |
-| 1st   |  2d8   |
-| 2nd   |  2d8   |
-| 3rd   |  2d8   |
-| 4th   |  2d8   |
-| 5th   |  3d8   |
-| 6th   |  3d8   |
-| 7th   |  3d8   |
-| 8th   |  3d8   |
-| 9th   |  4d8   |
-| 10th  |  4d8   |
-| 11th  |  4d8   |
-| 12th  |  4d8   |
-| 13th  |  4d8   |
-| 14th  |  5d8   |
-| 15th  |  5d8   |
-| 16th  |  5d8   |
-| 17th  |  5d8   |
-| 18th  |  5d8   |
-| 19th  |  5d8   |
-| 20th  |  5d8   |
+| 1st   |  2   |
+| 2nd   |  2   |
+| 3rd   |  2   |
+| 4th   |  2   |
+| 5th   |  3   |
+| 6th   |  3   |
+| 7th   |  3   |
+| 8th   |  3   |
+| 9th   |  4   |
+| 10th  |  4   |
+| 11th  |  4   |
+| 12th  |  4   |
+| 13th  |  4   |
+| 14th  |  5   |
+| 15th  |  5   |
+| 16th  |  5   |
+| 17th  |  5   |
+| 18th  |  5   |
+| 19th  |  5   |
+| 20th  |  5   |
 }}
 
 **Wild Dice (2).** Most of your abilities as a Werebeast are based off of your Wild Dice, which is a d8. You start of with 2 Wild Dice, and gain another at 5th, 9th and 14th levels.
@@ -59,7 +60,7 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 Begining at level 2, every time you gain a level in Werebeast you gain a Werebeast Feat. You may instead of a Werebeast feat take a Martial or General Feat of your choice.
 
-- **NOME.** Human form: Sua defesa aumenta em +2.
+- **Defesa Interna.** Human form: Sua defesa aumenta em +3. Beast form: Sua defesa aumenta em +1.
 - **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça. 
 - **Garras Enormes.** Aumente o multiplicador de crítico dos seus ataques em forma bestial em 1.
 - **NOME.** Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso.
@@ -84,7 +85,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 - **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial.
 - 
 - **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice**: Você ganha um bonus de +3\*PM gasto.
-- **Purificar Linha Sanguínea.** Ação Completa (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão. *Pré-requisito:* 8º level de Werebeast. 
+- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão. *Pré-requisito:* 8º level de Werebeast. 
 
 %%
 Feat ideas:

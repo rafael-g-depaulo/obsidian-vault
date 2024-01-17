@@ -2113,7 +2113,7 @@ List of spells available for a Spelgard to learn.
 ##### Werebeast
 | Level | Proficiency Bonus | Features |Wild Dice | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Beast Form, Wild Dice | 2d8 |
+| 1st | +1 | Wild Dice, Beast Form | 2d8 |
 | 2nd | +1 | Werebeast Feat, Monstruous Blood, Expertise | 2d8 |
 | 3rd | +2 | Werebeast Feat | 2d8 |
 | 4th | +2 | Werebeast Feat, Attribute Score Improvement | 2d8 |
@@ -2136,7 +2136,9 @@ List of spells available for a Spelgard to learn.
 }}
 
 
-**Beast Form, Wild Dice.** undefined
+**Wild Dice.** undefined
+
+**Beast Form.** undefined
 
 **Monstruous Blood.** undefined
 
