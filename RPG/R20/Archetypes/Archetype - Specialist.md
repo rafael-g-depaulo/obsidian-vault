@@ -34,11 +34,13 @@ ASI_LEVELS: 4, 6, 8, 10, 12, 15, 17, 19
 SPECIALIZATION_LEVELS: 1, 5
 
 FEATURES:
+
 | LEVEL | FEATURE   |
 | ----- | --------- |
 | 2     | Expertise |
 
 MULTI_FEATURES:
+
 | Level |     | 
 | ----- | --- |
 | 1st   |     |

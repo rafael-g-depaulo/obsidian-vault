@@ -127,33 +127,14 @@ const makeThemesSection = (themes: Themes, classDefinition: Class, archetype: Ar
   const theme = Object.entries(themes)
     .filter(([, { classes }]) => classes.includes(classDefinition.name))[0]?.[0]
 
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
-  // const levels = ["4", "8"]
   const levels = archetype.specialization_levels ?? ["4", "8"]
 
   if (!themes[theme]) return ""
 
   return `
-### Especialização 
-A partir do nível ${levels[0]}, escolha uma perícia entre **${themes[theme].skills}**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível ${levels[1]}, escolha uma perícia adicional.
-`
+  ### Especialização
+  A partir do nível ${levels[0]}, escolha uma perícia entre **${themes[theme].skills}**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível ${levels[1]}, escolha uma perícia adicional.
+  `
 
 }
 

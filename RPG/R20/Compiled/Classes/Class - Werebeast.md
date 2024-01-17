@@ -59,6 +59,9 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 
 
+  ### Especialização
+  A partir do nível 1, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+  
 
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.

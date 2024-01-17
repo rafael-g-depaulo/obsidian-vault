@@ -647,6 +647,9 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 **Wild Senses (5).** undefined
 
 
+  ### Especialização
+  A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+  
 
 ### Beast Warrior Feats
 Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
@@ -752,6 +755,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 **Lay on Hands.** undefined
 
 
+  ### Especialização
+  A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+  
 
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
@@ -849,6 +855,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 **Juntar Energia, Faísca Mágica: Poder.** undefined
 
 
+  ### Especialização
+  A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+  
 
 ### Channeler Feats
 Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
@@ -1098,6 +1107,9 @@ feats:
 **Confie na Estrela.** undefined
 
 
+  ### Especialização
+  A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+  
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
@@ -1234,6 +1246,9 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 **Action Surge (3).** undefined
 
 
+  ### Especialização
+  A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+  
 
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
@@ -1322,6 +1337,9 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 **Powerful Strike.** undefined
 
 
+  ### Especialização
+  A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+  
 
 ### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
@@ -1428,6 +1446,9 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 **Summon Sapling.** undefined
 
 
+  ### Especialização
+  A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+  
 
 ### Plantomancer Feats
 Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
@@ -1608,6 +1629,9 @@ List of spells available for a Plantomancer to learn.
 **Cunning Action.** undefined
 
 
+  ### Especialização
+  A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+  
 
 ### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
@@ -1735,6 +1759,9 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 **Spiritual Weapon.** undefined
 
 
+  ### Especialização
+  A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+  
 
 ### Spelgard Feats
 Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
@@ -1933,6 +1960,9 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 
 
+  ### Especialização
+  A partir do nível 1, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+  
 
 ### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
@@ -2039,6 +2069,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
 
+  ### Especialização
+  A partir do nível 2, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+  
 
 ### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.

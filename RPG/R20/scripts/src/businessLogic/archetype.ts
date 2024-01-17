@@ -43,6 +43,6 @@ export const parseArchetype = <T extends Macro>(
       getString(archetypeMacro.items.MULTI_FEATURES) ?? ''
     ),
     wide: archetypeMacro.items.HAS_MAGIC === 'true',
-    specialization_levels: archetypeMacro.items.SPECIALIZATION_LEVELS as string[]
+    specialization_levels: (getString(archetypeMacro.items.SPECIALIZATION_LEVELS) ?? "").split(", ")
   }
 }

@@ -9,12 +9,12 @@ This section exists mostly to let me organize and categorize the classes with si
 | charming                                               | dancer     | champion      | bard       | witch        | persuasion, deception, intimidation |      |
 | creator                                                | inventor??           | smith??              | shaman??           | artificer??             |                                     |      |
 
-{{define-theme
+{{define-themes
 
 | Theme | Classes | Skills |
 | ---- | ---- | ---- |
 | NATURE | Werebeast, Beast Warrior, Plantomancer | Natureza, Adestramento, Arcana e Sobrevivência |
-| KNOWLEDGE | Alchemist, Fighter, Spellgard, Wordsmith | História, Medicina, Empatia, Lógica |
+| KNOWLEDGE | Alchemist, Fighter, Spelgard, Wordsmith | História, Medicina, Empatia, Lógica |
 | LONER | Rogue, Juggernaut, Channeler | Intuição, Percepção, Investigação, Sobrevivência |
 | CHARM | Dancer, Champion, Bard, Witch | Persuasão, Enganação, Intimidação, Performance |
 
