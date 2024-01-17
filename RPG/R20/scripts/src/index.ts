@@ -1,12 +1,13 @@
 import { join } from 'path'
 import { Archetype, parseArchetype } from './businessLogic/archetype'
+import { parseThemes } from './businessLogic/classThemes'
 import { Spell } from './businessLogic/spell'
 import { makeSpellListString } from './businessLogic/spellList'
 import { getClassname, makeClassSpellList } from './classSpellList'
 import { compileRules, CompileRulesDeps, processContent } from './compileBook'
 import { dealWithErrors } from './error'
 import { cleanFolder, listFiles, readFile, writeToFile } from './file'
-import { searchMacros } from './macros/parseMacro'
+import { searchMacro, searchMacros } from './macros/parseMacro'
 
 import { readSpells } from './spell'
 import { parseTagRules, TagRules } from './tagRules'
@@ -32,6 +33,7 @@ const rootRulesFile = 'index.md'
 const allSpellsFile = 'All Spells List.md'
 const summaryFile = 'Summary.md'
 const rulebookFile = 'R20 - rulebook.md'
+const themesFile = 'themes comparison.md'
 
 // clean results
 const cleanResults = async () =>
@@ -84,6 +86,12 @@ const parseContent = async () => {
       searchMacros(archetypesContent, 'define-archetype')
     )
     .then(archetypeMacros => archetypeMacros.map(parseArchetype))
+
+  // read class themes skills
+  const themes = await readFile(ClassesFolder, themesFile)
+    .then(content => searchMacro(content, 'define-themes')).then(parseThemes)
+
+  console.log("them", themes)
 
   return {
     archetypes,

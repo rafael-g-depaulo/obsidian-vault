@@ -48,23 +48,23 @@
 ### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
-- **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on
+- **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_).
 
 - **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
 
-- **NAME HERE.** Scary Look now makes target scared of all your allies Pre-requisites: *13th level in Witch*.
+- **NAME HERE.** Scary Look now makes target scared of all your allies. Pre-requisites: *13th level in Witch*.
 
-- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on
+- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
 
-- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look
+- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look.
 
-- **Distant Hex.** double the range of your Hexes
+- **Distant Hex.** double the range of your Hexes.
 
-- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex Pre-requisites: *5th level witch.*.
+- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex. Pre-requisites: *5th level witch.*.
 
-- **Cursed Knowledge.** learn 2 hexes
+- **Cursed Knowledge.** learn 2 hexes.
 
 - **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
 
@@ -102,7 +102,7 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 - **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
 
-- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar) Pre-requisites: *2 poderes de poção misteriosa*.
+- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar). Pre-requisites: *2 poderes de poção misteriosa*.
 
 - **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
 

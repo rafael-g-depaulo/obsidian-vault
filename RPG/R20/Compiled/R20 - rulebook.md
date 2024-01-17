@@ -2161,7 +2161,7 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **Defesa Interna.** Human form: Sua defesa aumenta em +3. Beast form: Sua defesa aumenta em +1.
 
-- **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça
+- **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça.
 
 - **Garras Persistentes.** Você pode usar seu ataque de garra na forma humana, mas dá 1 **Wild Die** a menos de dano.
 
@@ -2196,15 +2196,15 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 
-- **Garras Mortais.** Seus ataques na forma bestial tem +2 de margem de ameaça
+- **Garras Mortais.** Seus ataques na forma bestial tem +2 de margem de ameaça.
 
-- **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana
+- **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana.
 
-- **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial
+- **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial.
 
-- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto
+- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto.
 
-- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão Pre-requisites: *5º nível de Werebeast*.
+- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão. Pre-requisites: *5º nível de Werebeast*.
 
 - **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 
@@ -2263,23 +2263,23 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 ### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
-- **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on
+- **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on.
 
-- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_)
+- **Scary Look.** (2PM) Action: A creature you can see rolls a Presence saving throw against your Spell DC. If they fail, they are frightened of you until the end of the scene (See: _Condition: frightened_).
 
 - **NAME HERE.** Scary Look now targets a number of creatures of your choice equal to 1 + your Presence modifier (min 1).
 
-- **NAME HERE.** Scary Look now makes target scared of all your allies Pre-requisites: *13th level in Witch*.
+- **NAME HERE.** Scary Look now makes target scared of all your allies. Pre-requisites: *13th level in Witch*.
 
-- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on
+- **Cantrip asdaf.** Your cantrips have +1 to their DC, and +1 for every effect you're concentrating on.
 
-- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look
+- **NAME HERE.** Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look.
 
-- **Distant Hex.** double the range of your Hexes
+- **Distant Hex.** double the range of your Hexes.
 
-- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex Pre-requisites: *5th level witch.*.
+- **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex. Pre-requisites: *5th level witch.*.
 
-- **Cursed Knowledge.** learn 2 hexes
+- **Cursed Knowledge.** learn 2 hexes.
 
 - **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
 
@@ -2317,7 +2317,7 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 - **poder poção misteriosa 4.** Todo mundo pode fazer Ação: tomar até 1+PRE poções.
 
-- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar) Pre-requisites: *2 poderes de poção misteriosa*.
+- **poder poção misteriosa 5.** Você pode escolher quais resultados dos d4 rolados são positivos e quais são negativos (o número de positivos e negativos não pode mudar). Pre-requisites: *2 poderes de poção misteriosa*.
 
 - **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
 

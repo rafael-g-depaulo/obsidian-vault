@@ -63,7 +63,7 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **Defesa Interna.** Human form: Sua defesa aumenta em +3. Beast form: Sua defesa aumenta em +1.
 
-- **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça
+- **Garras Precisas.** Você pode usar DEX nos seus ataques na forma bestial, e eles tem +1 de margem de ameaça.
 
 - **Garras Persistentes.** Você pode usar seu ataque de garra na forma humana, mas dá 1 **Wild Die** a menos de dano.
 
@@ -98,15 +98,15 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 
-- **Garras Mortais.** Seus ataques na forma bestial tem +2 de margem de ameaça
+- **Garras Mortais.** Seus ataques na forma bestial tem +2 de margem de ameaça.
 
-- **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana
+- **Mente Corrompida.** Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana.
 
-- **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial
+- **Corpo Corrompido.** Você tem resistência a efeitos físicos (STR/DEX/CON) na forma bestial.
 
-- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto
+- **Olhar da Besta.** (ao fazer um teste de intimidação) +XPM, limitado pelo seu **Wild Dice** máximo: Você ganha um bonus de +3\*PM gasto.
 
-- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão Pre-requisites: *5º nível de Werebeast*.
+- **Purificar Linha Sanguínea.** Ação Livre (4PM, 4HP): Até o final da cena você perde 2HP no início de cada turno, e seu **Wild Dice** aumenta em um passo (d8 -> d10, d10 -> d12). Você pode cancelar esse efeito como ação livre. Quando o efeito de **Purificar Linha Sanguínea** acaba, seu **Wild Dice** se torna d6 até o final da cena, e você ganha 1 nível de Exaustão. Pre-requisites: *5º nível de Werebeast*.
 
 - **Transfusão Selvagem.** Aliados afetados pelo seu sangue monstruoso dão 1 **Wild Dice** de dano a mais na próxima habilidade ou ataque deles.
 

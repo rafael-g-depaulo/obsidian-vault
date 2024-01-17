@@ -9,6 +9,8 @@ import { order } from '../stringOutputUtils'
 
 export const removeArchetypeDefinition = replaceMacro('define-archetype', '')
 
+export const removeThemesDefinition = replaceMacro('define-themes', '')
+
 export const replaceClassDefinition = ({ archetypes }: CompileRulesDeps) =>
   replaceMacroAsync('class-definition', async macro => {
     const archetype = archetypes.find(
