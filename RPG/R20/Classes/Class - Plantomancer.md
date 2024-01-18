@@ -8,9 +8,10 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE        |
-| ----- | -------------- |
-| 1     | Summon Sapling | 
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Sementes Mágicas | You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level. |
+| 1 | Herbomancia: Muda Mágica | Movimento (1PM, 1 **Semente Mágica**): uma planta mágica cresce num local visível escolhido em até 9sqr de distância. Você consegue usar seus sentidos através da planta, e pode usar magias e habilidades através dela. |
 
 MULTI_FEATURES:
 
@@ -38,13 +39,6 @@ MULTI_FEATURES:
 | 20th  |     12     |
 }}
 
-**Semente Mágica (Magic Seed).** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
-
-**Criar Muda.** As a movement or main action on your turn, you may spend 1PM and a Magic Seed to summon a sappling to an unnocupied space withing short distance (6sqr) of you. You can cast spells through the sappling, and percieve its surroundings as if you were standing there. (This counts as a Herbomancy power)
-
-### Plantomancer Feats
-
-Begining at level 2, every time you gain a level in Plantomancer you gain a Plantomancer Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
 - **Planta Resistente**. Aumente o HP inicial das suas plantas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
