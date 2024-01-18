@@ -7,10 +7,10 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE        |
-| ----- | -------------- |
-| 1     | Sneak Attack   |
-| 3     | Cunning Action |
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Sneak Attack |  per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6. |
+| 3 | Ataque Ardiloso (Cunning Strike) | No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro |
 
 MULTI_FEATURES:
 
@@ -37,12 +37,21 @@ MULTI_FEATURES:
 | 19th  | 13d6 (6PM)   | 6              |
 | 20th  | 13d6 (6PM)   | 6              |
 
+
+FEATS:
+
+| NAME | DESCRIPTION | PRE_REQUISITES |
+| ---- | ---- | ---- |
+|  |  |  |
+
 }}
 
 **SNEAK ATTACK.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
+%% 
 **EXPERTISE.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
-
+ %%
+ 
 **Ataque Ardiloso (Cunning Strike)**. No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro.
 
 ### Rogue Feats
@@ -75,10 +84,10 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - **Sombra**. Você recebe +2 em Furtividade. Além disso, pode se mover com seu deslocamento normal enquanto usa Furtividade sem sofrer penalidades no teste de perícia. Pré-requisito: DEX 15.
 
-%%
+
 removido pq cunning action foi adicionado como feat de especialista
 - **Velocidade Ladina**. Uma vez por rodada, você pode gastar 2 PM para realizar uma ação de movimento adicional em seu turno. Pré-requisito: DEX 15.
-%%
+
 
 - **Veneno Persistente**. Quando aplica uma dose de veneno a uma arma, este veneno dura por três ataques (em vez de apenas um). Pré-requisito: Veneno Potente, 8º nível de ladino.
 
