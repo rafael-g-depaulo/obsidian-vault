@@ -1,6 +1,6 @@
 import { pad } from '../arrayUtils'
 import { getNumber, getString, Macro } from '../macros/types'
-import { joinFeatures, parseFeaturesList, parseMultiFeatures } from './features'
+import { joinFeatures, parseArchetypeFeatures, parseFeatures, parseFeaturesList, parseMultiFeatures } from './features'
 
 export interface Archetype {
   name: string
@@ -8,7 +8,8 @@ export interface Archetype {
   hp_lv: number
   mp_lv: number
   ASI_levels: number[]
-  features: string[][]
+  features: { level: number, name: string, description: string }[]
+  features_list: string[][]
   multi_features: string[][]
   wide: boolean
   specialization_levels: string[]
@@ -38,7 +39,8 @@ export const parseArchetype = <T extends Macro>(
     hp_lv: getNumber(archetypeMacro.items.HP_LV) ?? 999,
     mp_lv: getNumber(archetypeMacro.items.MP_LV) ?? 999,
     ASI_levels,
-    features: joinFeatures(features, makeASIFeatures(ASI_levels)),
+    features: parseArchetypeFeatures(getString(archetypeMacro.items.FEATURES)),
+    features_list: joinFeatures(features, makeASIFeatures(ASI_levels)),
     multi_features: parseMultiFeatures(
       getString(archetypeMacro.items.MULTI_FEATURES) ?? ''
     ),

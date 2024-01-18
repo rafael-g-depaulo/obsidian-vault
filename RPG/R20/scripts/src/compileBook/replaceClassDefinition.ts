@@ -33,7 +33,7 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
     .map((levelFeatures, i) => {
       const featuresForLevel: string[] = levelFeatures
         .filter(feat => feat !== '')
-        .concat(archetype.features[i])
+        .concat(archetype.features_list[i])
 
       if (i > 0) return [`${classDefinition.name} Feat`, ...featuresForLevel]
       return featuresForLevel
@@ -134,6 +134,8 @@ const makeThemesSection = (
     classes.includes(classDefinition.name)
   )[0]?.[0]
 
+
+  // console.log(archetype)
   const levels = archetype.specialization_levels ?? ['4', '8']
 
   if (!themes[theme]) return ''

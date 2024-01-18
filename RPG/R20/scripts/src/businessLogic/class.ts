@@ -16,7 +16,7 @@ export type Feat = {
 export type Feature = {
   name: string
   description: string
-  level: string
+  level: number
 }
 
 export type ClassNote = {

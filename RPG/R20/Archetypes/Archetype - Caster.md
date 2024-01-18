@@ -42,8 +42,9 @@ HAS_MAGIC: true
 
 FEATURES:
 
-| LEVEL | FEATURE            |
-| ----- | ------------------ |
+| LEVEL | FEATURE |
+| ---- | ---- |
+|  |  |
 
 MULTI_FEATURES:
 
