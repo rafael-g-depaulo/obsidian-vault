@@ -12,7 +12,7 @@ FEATURES:
 %%
 **Either nerf damage or add concentration to spiritual weapon.**
 
-Reverse order of spiritual weapon and heal, and buff heal ammount
+Reverse order of spiritual weapon and heal, and buff heal amount
 %%
 
 | LEVEL | FEATURE | DESCRIPTION |
