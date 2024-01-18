@@ -54,7 +54,7 @@ FEATS:
 
 Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat. You may instead of a Rogue feat take a Martial or General Feat of your choice.
 
-- **Ataque Extra**. Você pode atacar 2 vezes no seu turno quando toma a ação de ataque. Pré-requisitos: 7º nível de ladino.
+- **Ataque Extra**. Você pode atacar 2 vezes no seu turno quando toma a ação de ataque. Pré-requisitos: 5º nível de ladino.
 
 - **Assassinate**. Você pode gastar uma ação de movimento e 3 PM para analisar uma criatura em alcance curto. Até o fim de seu próximo turno, seu primeiro Ataque Furtivo que causar dano a ela tem seus dados de dano extras dessa habilidade dobrados. Pré-requisito: 5º nível de ladino.
 
@@ -62,14 +62,16 @@ Begining at level 2, every time you gain a level in Rogue you gain a Rogue Feat.
 
 - **Disparo Preciso.** Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.
 
-- **Emboscar**. Você pode gastar 2 PM para realizar uma ação padrão adicional em seu turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
+- **Emboscar**. Livre (2 PM): Ganhe uma Ação Padrão adicional nesse turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
 
 - **Escapista**. Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
 
 - **Gatuno**. Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pré-requisito: FOR 11.
 
 - **Capitalizar Distrações**. Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pré-requisito: DEX 17, SEN 13
+
   {{page-break}}
+
 - **Mão na Boca**. Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pré-requisito: FOR 13.
 
 - **Mente Criminosa**. Você soma seu bônus de Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 13.
