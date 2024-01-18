@@ -41,8 +41,6 @@
 }}
 
 
-**.** undefined
-
 **Invocar Feitiço.** undefined
 
 **Juntar Energia, Faísca Mágica: Poder.** undefined

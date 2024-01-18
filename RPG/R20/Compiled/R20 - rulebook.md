@@ -852,8 +852,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 }}
 
 
-**.** undefined
-
 **Invocar Feitiço.** undefined
 
 **Juntar Energia, Faísca Mágica: Poder.** undefined
@@ -1311,7 +1309,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 ##### Juggernaut
 | Level | Proficiency Bonus | Features |Levantar Guarda | Max Guts | Golpe Poderoso | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Raise Guard, Guts | CON | 2 | 1d10+STR |
+| 1st | +1 | Guts, Raise Guard | CON | 2 | 1d10+STR |
 | 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
 | 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
 | 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
@@ -1334,9 +1332,11 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 }}
 
 
-**Raise Guard, Guts.** undefined
+**Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
-**Powerful Strike.** undefined
+**Raise Guard.** Movement (1PM): Gain CON mod. (minimum 0) + your level/2 (rounded down) temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+
+**Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
 **Extra Attack.** undefined
 
@@ -1346,59 +1346,52 @@ A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Inve
 ### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
 
+- **Tanque de Combate.** Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"<br>
 
+- **Vingança.** Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo turno tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).<br>
 
-**RAISE GUARD (LEVANTAR GUARDA).** Movement Action (1PM): Gain CON mod. (minimum 1) + your level/2 temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
+- **"Tragam o próximo".** Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
 
-**Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
+- **"A Melhor Defesa...".** (Guarda Alta) Ação de Movimento (1 PM): Você abaixa a guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
 
-**Powerful Strike (Golpe Poderoso)**. Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +2PM to increase the damage by 1d10
+- **Crítico Paciente.** Você ganha metade do seu **Guts** (arrendondado pra baixo) de margem de ameaça
 
-### Juggernaut Feats
+- **Crítico Fortificador.** Quando acertar um ataque crítico, você ganha +2 Guts. Pre-requisites: *Crítico Paciente*.
 
-Begining at level 2, every time you gain a level in Champion you gain a Juggernaut Feat. You may instead of a Juggernaut Feat take a Martial or General Feat of your choice.
+- **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
 
-- **Tanque de Combate**. Se você está de Guarda Alta, pode gastar 1PM e executar um ataque como ação de movimento"
+- **Crítico Poderoso.** (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). Pre-requisites: *Crítico Paciente*.
 
-- **Vingança**. Se um inimigo tirar a sua guarda, seu próximo ataque contra ele até o fim do seu próximo turno tem vantagem na rolagem do ataque, e dá +FOR mod. de dano (mínimo 1).
-
-- **"Tragam o próximo"**. Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena.
-
-- **"A Melhor Defesa..."**. (Guarda Alta) Ação de Movimento (1 PM): Você abaixa a guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts.
-
-- **Crítico Fortificador**. Quando acertar um ataque crítico, você ganha +2 Guts.
-
-- **Crítico Brutal**. Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.
-
-- **Crítico Poderoso**. (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso).
-
-- **Golpe Brutal**. (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma.
+- **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
 
 {{pageNumber,auto}}
 \page
 
 
-- **Golpe Derrubador**. Ao usar Golpe Poderoso (+2PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]])
+- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]])
 
-- **Golpe em Arco**. Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
+- **Golpe em Arco.** Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
-- **Defesa Imbatível**. Enquanto estiver de Guarda Alta, você tem +2 Guard. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impenetrável.** Some seu modificador de força no HP temporário recebido por **Levantar Guarda** (limitado pelo seu nível) .
 
-- **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre.
+- **Defesa Imbatível.** Enquanto estiver de Guarda Alta, você tem +2 Guard. <br> Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Impenetrável**. Some seu modificador de força no HP temporário recebido por **Levantar Guarda** (limitado pelo seu nível) .
+- **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre (e sem custo de PM). Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Implacável**. Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pré-requisito: Defesa Impenetrável. Pré-requisito: Defesa Impenetrável.
-  
-- **Defesa Intocável**. (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pré-requisito: Defesa Impenetrável.
+- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Impregnável**. (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: Defesa Impenetrável.
+- **Defesa Intocável.** (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Inabalável**. (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pré-requisito: 1 poder que tem Defesa Impenetrável como pré-requisito.
+- **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Impermeável** (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. Pré-requisito: Defesa Impenetrável.
+- **Defesa Impermeável.** (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. Pre-requisites: *Defesa Impenetrável.*.
 
-- **Defesa Indestrutível**. (Guarda Alta) Reação (2PM): Quando você receber dano que quebraria a sua Guarda, imediatamente após tomar o dano Levante Guarda como ação livre. Pré-requisito: 2 poderes que tem Defesa Impenetrável como pré-requisito.
+- **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
+
+- **Defesa Indestrutível.** (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. Pre-requisites: *2 poderes que tem Defesa Impenetrável como pré-requisito.*.
+
+
+
 
 
 
@@ -1444,8 +1437,6 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 | 20th | +10 | Plantomancer Feat | 12 | 22 | 9 |
 }}
 
-
-**.** undefined
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -2038,8 +2029,6 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 | 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
-
-**.** undefined
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

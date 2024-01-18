@@ -11,6 +11,7 @@ export const joinFeatures = (...features: string[][][]) =>
 export const parseFeatures = (featuresMarkdown: string = ""): Feature[] => {
 
   const features = parseMarkdownTable(featuresMarkdown)
+    .filter(([level]) => !isNaN(parseInt(level)))
     .map(([level, name, description]): Feature => ({ level: parseInt(level), name, description }))
 
   return features

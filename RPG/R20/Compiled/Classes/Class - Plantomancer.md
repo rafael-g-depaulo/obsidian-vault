@@ -41,8 +41,6 @@
 }}
 
 
-**.** undefined
-
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
 **Herbomancia: Muda Mágica.** Movimento (1PM, 1 **Semente Mágica**): uma planta mágica cresce num local visível escolhido em até 9sqr de distância. Você consegue usar seus sentidos através da planta, e pode usar magias e habilidades através dela.
