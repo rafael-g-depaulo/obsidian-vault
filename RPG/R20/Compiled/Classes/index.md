@@ -243,6 +243,8 @@ Important tips:
 
 **Make Concoction?.** undefined
 
+
+
 ### Alquimist Feats
 Beginning at level 2, every time you gain a level in Alquimist you gain a Witch Feat. You may instead of a Alquimist feat take a Specialist or General Feat of your choice.
 
@@ -338,7 +340,9 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 **Wild Senses (5).** undefined
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.### Beast Warrior Feats
+A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+### Beast Warrior Feats
 Beginning at level 2, every time you gain a level in Beast Warrior you gain a Witch Feat. You may instead of a Beast Warrior feat take a Martial or General Feat of your choice.
 
 
@@ -442,7 +446,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 **Lay on Hands.** undefined
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.### Champion Feats
+A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
 
 
@@ -538,7 +544,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 **Juntar Energia, Faísca Mágica: Poder.** undefined
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.### Channeler Feats
+A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+
+### Channeler Feats
 Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
 
 
@@ -786,7 +794,9 @@ feats:
 **Confie na Estrela.** undefined
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.### Dancer Feats
+A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+
+### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
 
@@ -921,7 +931,9 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 **Action Surge (3).** undefined
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.### Fighter Feats
+A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
 
 
@@ -1008,7 +1020,9 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 **Powerful Strike.** undefined
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.### Juggernaut Feats
+A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+
+### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
 
 
@@ -1113,7 +1127,9 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 **Summon Sapling.** undefined
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.### Plantomancer Feats
+A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+
+### Plantomancer Feats
 Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
 
@@ -1292,7 +1308,9 @@ List of spells available for a Plantomancer to learn.
 **Cunning Action.** undefined
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.### Rogue Feats
+A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+
+### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
 
 
@@ -1413,23 +1431,34 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 }}
 
 
-**Lay on Hands.** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
+**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
-**Spiritual Weapon.** Movement action (1PM): You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
+**Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 
 ### Especialização
-A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.### Spelgard Feats
+A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+
+### Spelgard Feats
 Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
 
-**Arma Espiritual teleguiada**. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m)..**Spiritual Strike**. You can spend a movement action and 1 PM to use a Spiritual Weapon Attack. Pre-requisite: 5th level Spelgard.**Spiritual Magic**. Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras).**Magically Powered**. Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action..**Defensive Spiritual Weapon**. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Spelgard..**Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+- **Arma Espiritual teleguiada.** O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
 
-**TODO: PODERES PARA AUMENTAR CRÍTICO DA ARMA ESPIRITUAL**
+- **Spiritual Strike.** You can spend a movement action and 1 PM to use a Spiritual Weapon Attack Pre-requisites: *5th level Spelgard*.
 
-- **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura.
+- **Spiritual Magic.** Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras)<br>
+
+- **Magically Powered.** Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
+
+- **Defensive Spiritual Weapon.** While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense.
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
+
+- **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura
+
 {{pageNumber,auto}}
 \page
-
-
 {{note
 #### Auras
 
@@ -1437,36 +1466,38 @@ A Spelgard is always ready to use their unique combo of physique and magic to ai
 
 Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the following stats (unless stated otherwise):
 
-Movement (2PM): For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
+**Movement (2PM):** For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
 }}
 
-- **Aura of Retaliation**. Effect: Whenever one of your allies is damaged, your and their next damaging ability deals an aditional 1d8 damage (of the ability's damage type).
+- **Aura of Retaliation.** Effect: Whenever one of your allies is damaged, your and their next damaging ability deals an aditional 1d8 damage (of the ability's damage type).
 
-- **Aura of Irradiation**. Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save.
+- **Aura of Irradiation.** Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save
 
-- **Aura of Regeneration**. Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura.
+- **Aura of Regeneration.** Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura
 
-- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
+- **Curar Distante.** Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
 
-- **Multi-Aura**. You can have multiple auras active at once. Pre-requisites: At least 1 "Aura of" power
+- **Multi-Aura.** You can have multiple auras active at once
 
-- **Defensive Aura**. You and your allies have +1 Defense while affected by one of your auras. Pre-requisites: At least 1 "Aura of" power
+- **Defensive Aura.** You and your allies have +1 Defense while affected by one of your auras
 
-- **Weakening Aura**. Non-allies have disadvantage to resist your spells and abilities while inside one of your auras.
+- **Weakening Aura.** Non-allies have disadvantage to resist your spells and abilities while inside one of your auras
 
-- **Spiritual Aura**. Your Spiritual Weapon also radiates your aura.
+- **Spiritual Aura.** Your Spiritual Weapon also radiates your aura
 
-- **Long Range Aura**. Your aura's radius is increased to 3sqr (4.5m)
+- **Long Range Aura.** Your aura's radius is increased to 3sqr (4.5m)
 
-- **Um-Dois**. Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
+- **Um-Dois.** Reação (você acertou um oponente com uma magia de primeiro círculo ou maior, 1PM): Um resquício da sua magia fica no inimigo e marca ele. Se você acertar ele com um ataque físico ou com a sua **Arma Espiritual** até o final do seu próximo turno você usa o resquício de energia para aumentar o impacto, e dá +2d6 de dano adicional. A cada 4 níveis você pode gastar +2PM e aumentar o dano em +2d6.
 
-- **Explosão Espiritual**. Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
+- **Explosão Espiritual.** Ao realizar um golpe com a **Arma Espiritual** (+1PM): Em vez de fazer um ataque, sua Arma Espiritual explode em uma onda de energia, aumentando o dano em +3d8. O seu alvo original e todos da sua escolha em um quadrado de lado 3sqr centrado na Arma Espiritual são atingidos. Se os alvos passarem em um teste de Presença, eles tomam metade do dano
 
 - **Conhecimento de Combate.** Você aprende 2 magias de spellgard a sua escolha
 
 - **Combatente Arcano.** Você consegue aprender truques. Aprenda 1 truque de Spelgard.
 
-- **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre.
+- **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre
+
+
 
 ### Spell List
 
@@ -1593,7 +1624,9 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.### Werebeast Feats
+A partir do nível 1, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+
+### Werebeast Feats
 Beginning at level 2, every time you gain a level in Werebeast you gain a Witch Feat. You may instead of a Werebeast feat take a Specialist or General Feat of your choice.
 
 - **Defesa Interna.** Human form: Sua defesa aumenta em +3. Beast form: Sua defesa aumenta em +1.
@@ -1698,7 +1731,9 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.### Witch Feats
+A partir do nível 2, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+
+### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
 
 - **Focused Cantrip.** Your damaging cantrips do an extra die of damage per effect you're concentrating on.

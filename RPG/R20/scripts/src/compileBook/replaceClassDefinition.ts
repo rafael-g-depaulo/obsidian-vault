@@ -171,7 +171,7 @@ export const generateClassDefinition = (
     makeFeaturesSection(classDefinition) +
     '\n\n' +
     makeThemesSection(themes, classDefinition, archetype) +
-    // '\n\n' +
+    '\n\n' +
     makeFeatsSection(archetype.name, classDefinition)
 
 const spellCastingModifier = ({ spellcastingAttb }: Class) =>
