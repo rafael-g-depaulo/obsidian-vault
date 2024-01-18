@@ -19,25 +19,25 @@ MULTI_FEATURES:
 | Level | Rage | Savage Attack |
 | ---- | ---- | ---- |
 | 1st | +2 | - |
-| 2nd |  | 1d4+CON |
-| 3rd |  | 1d4+CON |
-| 4th |  | 1d4+CON |
-| 5th |  | 1d4+CON |
-| 6th |  | 2d4+CON |
-| 7th |  | 2d4+CON |
-| 8th |  | 2d4+CON |
-| 9th |  | 2d4+CON |
-| 10th |  | 3d4+CON |
-| 11th |  | 3d4+CON |
-| 12th |  | 3d4+CON |
-| 13th |  | 3d4+CON |
-| 14th |  | 4d4+CON |
-| 15th |  | 4d4+CON |
-| 16th |  | 4d4+CON |
-| 17th |  | 4d4+CON |
-| 18th |  | 5d4+CON |
-| 19th |  | 5d4+CON |
-| 20th |  | 5d4+CON |
+| 2nd | +2 | 1d4+CON |
+| 3rd | +2 | 1d4+CON |
+| 4th | +2 | 1d4+CON |
+| 5th | +2 | 1d4+CON |
+| 6th | +3 | 2d4+CON |
+| 7th | +3 | 2d4+CON |
+| 8th | +3 | 2d4+CON |
+| 9th | +3 | 2d4+CON |
+| 10th | +3 | 3d4+CON |
+| 11th | +4 | 3d4+CON |
+| 12th | +4 | 3d4+CON |
+| 13th | +4 | 3d4+CON |
+| 14th | +4 | 4d4+CON |
+| 15th | +4 | 4d4+CON |
+| 16th | +5 | 4d4+CON |
+| 17th | +5 | 4d4+CON |
+| 18th | +5 | 5d4+CON |
+| 19th | +5 | 5d4+CON |
+| 20th | +5 | 5d4+CON |
 }}
 
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
@@ -56,18 +56,11 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Keen Reflexes**. Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
 
-- **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
+- **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that amount by another +1d12.
 
 - **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod. Pré-requisito: lv5 de Beast Warrior.
+
 {{page-break}}
-- **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
-
-- **Powerful Savage Attacks**. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
-
-- **Alma de Bronze**. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
-
-- **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
-
 
 {{class-note "Wild Rage"
 
@@ -91,3 +84,12 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Esquiva Sobrenatural**. Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
 
 - **Fúria Raivosa**. Se sua Fúria for terminar por você não ter atacado nem sido alvo de um efeito hostil, você pode pagar 1 PM para continuar em fúria nesta rodada. Se você atacar ou for atacado na rodada seguinte, sua fúria continua normalmente.
+
+- **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover additional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2\*CON mod. 6PM -> 3\*CON mod.)
+
+- **Powerful Savage Attacks**. When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: Level 8 Beast Warrior.
+
+- **Alma de Bronze**. Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
+
+- **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
+
