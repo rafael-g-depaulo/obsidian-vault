@@ -42,6 +42,8 @@
 
 **Action Surge.** undefined
 
+**Extra Attack.** undefined
+
 **Action Surge (2).** undefined
 
 **Action Surge (3).** undefined

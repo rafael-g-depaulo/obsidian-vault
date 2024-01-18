@@ -8,13 +8,6 @@ export const joinFeatures = (...features: string[][][]) =>
     acc.map((levelFeatures, i) => [...levelFeatures, ...cur[i]])
   )
 
-export const parseArchetypeFeatures = (content: string = "") => {
-  const md = content
-
-  console.log(parseMarkdownTable(md))
-  return parseFeatures(md)
-}
-
 export const parseFeatures = (featuresMarkdown: string = ""): Feature[] => {
 
   const features = parseMarkdownTable(featuresMarkdown)

@@ -88,8 +88,10 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
   )
 }
 
-const makeFeaturesSection = (classDefinition: Class) => {
-  return classDefinition.features
+const makeFeaturesSection = (archetype: Archetype, classDefinition: Class) => {
+  console.log(archetype.features)
+  return [...archetype.features, ...classDefinition.features]
+    .sort((a, b) => a.level - b.level)
     .map(
       ({ name, description }) =>
         `**${name}.** ${description?.replaceAll('<br>', '\n')}`
@@ -170,7 +172,7 @@ export const generateClassDefinition = (
     '\n\n' +
     makeClassTable(archetype, classDefinition) +
     '\n\n' +
-    makeFeaturesSection(classDefinition) +
+    makeFeaturesSection(archetype, classDefinition) +
     '\n\n' +
     makeThemesSection(themes, classDefinition, archetype) +
     '\n\n' +

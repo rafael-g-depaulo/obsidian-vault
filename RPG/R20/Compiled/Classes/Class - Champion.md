@@ -42,6 +42,8 @@
 
 **Lay on Hands.** undefined
 
+**Extra Attack.** undefined
+
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 

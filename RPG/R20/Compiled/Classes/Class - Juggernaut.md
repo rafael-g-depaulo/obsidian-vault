@@ -42,6 +42,8 @@
 
 **Powerful Strike.** undefined
 
+**Extra Attack.** undefined
+
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 

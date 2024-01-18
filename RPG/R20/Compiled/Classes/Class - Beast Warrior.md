@@ -44,6 +44,8 @@
 
 **Defesa Animal.** undefined
 
+**Extra Attack.** undefined
+
 **Rage (+3).** undefined
 
 **Wild Senses (3).** undefined

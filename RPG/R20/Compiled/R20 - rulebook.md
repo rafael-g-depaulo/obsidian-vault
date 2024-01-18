@@ -550,6 +550,8 @@ Important tips:
 
 **Make Concoction?.** undefined
 
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
 
 
 ### Alquimist Feats
@@ -633,6 +635,8 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 **Savage Attack.** undefined
 
 **Defesa Animal.** undefined
+
+**Extra Attack.** undefined
 
 **Rage (+3).** undefined
 
@@ -752,6 +756,8 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Lay on Hands.** undefined
 
+**Extra Attack.** undefined
+
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
@@ -845,6 +851,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 | 20th | +10 | Channeler Feat | 20 | 22 | 9 |
 }}
 
+
+**.** undefined
 
 **Invocar Feitiço.** undefined
 
@@ -1096,6 +1104,8 @@ feats:
 
 **Passos de Vento.** undefined
 
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
 **Dança Ilusória.** undefined
 
 **Confie na Estrela.** undefined
@@ -1233,6 +1243,8 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 
 **Action Surge.** undefined
 
+**Extra Attack.** undefined
+
 **Action Surge (2).** undefined
 
 **Action Surge (3).** undefined
@@ -1325,6 +1337,8 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 **Raise Guard, Guts.** undefined
 
 **Powerful Strike.** undefined
+
+**Extra Attack.** undefined
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1430,6 +1444,8 @@ Begining at level 2, every time you gain a level in Champion you gain a Juggerna
 | 20th | +10 | Plantomancer Feat | 12 | 22 | 9 |
 }}
 
+
+**.** undefined
 
 **Summon Sapling.** undefined
 
@@ -1612,6 +1628,8 @@ List of spells available for a Plantomancer to learn.
 
 **Sneak Attack.** per turn, you can deal an extra 1d6 damage to one creature you hit with an attack, if you were hidden or the enemy was flanked by one of your allies. The attack must use a simple or ranged weapon. Starting at level 3, every 3 levels you can spend +1PM to increases the damage by +2d6.
 
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
 **Ataque Ardiloso (Cunning Strike).** No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro
 
 ### Especialização
@@ -1746,6 +1764,10 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 **Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
+
+**Attack of Opportunity.** undefined
+
+**Extra Attack.** undefined
 
 ### Especialização
 A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1930,6 +1952,8 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 **Ability Save DC.** All Werebeast abilities that require the target to make a saving throw use your Human form Presence as the stat for the DC.
 
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
 **Monstruous Blood.** **Action (1PM+, up to your Wild Dice maximum):**
 - *Human form:* Choose an ally you can see within 6sqr of you. They recover 1 **Wild Dice** HP per PM spent.
 - *Beast form:* Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.
@@ -2037,6 +2061,8 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 | 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
+
+**.** undefined
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

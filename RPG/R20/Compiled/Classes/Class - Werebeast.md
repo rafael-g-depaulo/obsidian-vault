@@ -53,6 +53,8 @@ If you lose your temporary hit points, you revert back to your human form. You c
 
 **Ability Save DC.** All Werebeast abilities that require the target to make a saving throw use your Human form Presence as the stat for the DC.
 
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
 **Monstruous Blood.** **Action (1PM+, up to your Wild Dice maximum):**
 - *Human form:* Choose an ally you can see within 6sqr of you. They recover 1 **Wild Dice** HP per PM spent.
 - *Beast form:* Make a ranged attack (DEX) against an enemy you can see within 6sqr of you. On a hit they take 2 **Wild Dice** poison damage, +1 **Wild Dice** per PM spent after the first.
