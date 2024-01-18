@@ -47,18 +47,16 @@ MULTI_FEATURES:
 FEATS:
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
-| ---- | ---- | ---- |
-|  |  |  |
-
-
-CLASS_NOTE_NAME: Auras
-CLASS_NOTE_DESCRIPTION:
-A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
-
-Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the following stats (unless stated otherwise):
-
-**Movement (2PM):** For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
-}}
+| ---- | ----------- | -------------- |
+| Arma Espiritual teleguiada     |             |                |
+| Spiritual Strike     |             |                |
+| Spiritual Magic     |             |                |
+| Magically Powered     |             |                |
+| Defensive Spiritual Weapon     |             |                |
+| Defensive Spiritual Weapon     |             |                |
+|      |             |                |
+|      |             |                |
+|      |             |                |
 
 - **Arma Espiritual teleguiada**. O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m).
 
@@ -71,6 +69,16 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Defensive Spiritual Weapon**. While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. Pre-requisites: 7th level Spelgard.
 
 - **Retaliating Spiritual Weapon**. When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+
+
+CLASS_NOTE_NAME: Auras
+CLASS_NOTE_DESCRIPTION:
+A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
+
+Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the following stats (unless stated otherwise):
+
+**Movement (2PM):** For 2 turns (until the end of your second next turn), you and all your allies within 2sqr (3m) of you get a buff, depending on the aura. The aura only affects allies while they are within it's range. Only one aura may be active at a time.
+}}
 
 **TODO: PODERES PARA AUMENTAR CRÍTICO DA ARMA ESPIRITUAL**
 
