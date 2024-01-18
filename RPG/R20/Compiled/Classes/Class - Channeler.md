@@ -74,6 +74,8 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 1-3  |  Energy Blast  |
 | 4-8  | Chilling Touch |
 | 9-10 |    Firebolt    |
+{{pageNumber,auto}}
+\page
 
 ### 1º Círculo
 | d10  |     Magia     |
@@ -90,8 +92,6 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 3-4  |        Hold Person         |
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 |      Wither and Bloom      |
-{{pageNumber,auto}}
-\page
 
 ### Channeler Feats
 
@@ -139,6 +139,8 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
 
 - **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+{{pageNumber,auto}}
+\page
 
 - **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 

@@ -28,13 +28,13 @@
 | 11th | +6 | Fighter Feat | +8 |
 | 12th | +6 | Fighter Feat, Attribute Score Improvement | +8 |
 | 13th | +7 | Fighter Feat | +12 |
-| 14th | +7 | Fighter Feat, Action Surge (2) | +12 |
+| 14th | +7 | Fighter Feat | +12 |
 | 15th | +8 | Fighter Feat, Attribute Score Improvement | +12 |
 | 16th | +8 | Fighter Feat | +12 |
 | 17th | +9 | Fighter Feat, Attribute Score Improvement | +16 |
 | 18th | +9 | Fighter Feat | +16 |
 | 19th | +10 | Fighter Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Fighter Feat, Action Surge (3) | +16 |
+| 20th | +10 | Fighter Feat | +16 |
 }}
 
 
@@ -43,10 +43,6 @@
 **Action Surge.** undefined
 
 **Extra Attack.** undefined
-
-**Action Surge (2).** undefined
-
-**Action Surge (3).** undefined
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -58,7 +54,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
-**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
+**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3PM per additional action to gain 2 or 3 additional actions instead of 1, respectively
 
 ### Fighter Feats
 
@@ -83,6 +79,8 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 - **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
 
 - **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
+{{pageNumber,auto}}
+\page
 
 - **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 

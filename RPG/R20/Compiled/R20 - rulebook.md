@@ -65,99 +65,99 @@ ___
 - ### [{{ Beast Warrior (Martial) }}{{ 12 }}](#p12)
 - ### [{{ Champion (Martial) }}{{ 14 }}](#p14)
 - ### [{{ Channeler (Caster) }}{{ 16 }}](#p16)
-- #### [{{  Spells }}{{ 18 }}](#p18)
-- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
-- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
-- ### [{{ Juggernaut (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Plantomancer (Caster) }}{{ 25 }}](#p25)
-- #### [{{  Spells }}{{ 26 }}](#p26)
-- ### [{{ Rogue (Specialist) }}{{ 28 }}](#p28)
-- ### [{{ Spelgard (Off-Caster) }}{{ 30 }}](#p30)
-- #### [{{  Spells }}{{ 31 }}](#p31)
-- ### [{{ Werebeast (Specialist) }}{{ 33 }}](#p33)
-- ### [{{ Witch (Caster) }}{{ 35 }}](#p35)
-- #### [{{  Spells }}{{ 36 }}](#p36)
-- ### [{{ Combat }}{{ 38 }}](#p38)
-- #### [{{ Round }}{{ 38 }}](#p38)
-- #### [{{ Combat Actions }}{{ 38 }}](#p38)
-- #### [{{ Attacking and Defending }}{{ 38 }}](#p38)
-- #### [{{ Movement }}{{ 39 }}](#p39)
-- #### [{{ Maneuvers }}{{ 39 }}](#p39)
-- #### [{{ Manobras }}{{ 39 }}](#p39)
-- #### [{{ Tamanho }}{{ 40 }}](#p40)
-- ### [{{ Origins }}{{ 41 }}](#p41)
-- #### [{{ Origin Lists }}{{ 41 }}](#p41)
-- ### [{{ Proficiency }}{{ 42 }}](#p42)
-- ### [{{ General Feats }}{{ 43 }}](#p43)
-- ### [{{ Martial Feats }}{{ 44 }}](#p44)
-- ### [{{ Caster Feats }}{{ 45 }}](#p45)
-- ### [{{ Specialist Feats }}{{ 46 }}](#p46)
-- ### [{{ Companion Feats }}{{ 47 }}](#p47)
-- ### [{{ Starting Items }}{{ 48 }}](#p48)
-- ### [{{ Carga }}{{ 49 }}](#p49)
-- #### [{{ Sobrecarga }}{{ 49 }}](#p49)
-- ### [{{ Coins }}{{ 50 }}](#p50)
-- ### [{{ Equipment }}{{ 51 }}](#p51)
-- #### [{{ Simple Weapons }}{{ 51 }}](#p51)
-- #### [{{ Martial Weapons }}{{ 51 }}](#p51)
-- #### [{{ Armor }}{{ 51 }}](#p51)
-- #### [{{ Magic Staves }}{{ 52 }}](#p52)
-- ### [{{ Consumable Items }}{{ 53 }}](#p53)
-- #### [{{ Potions }}{{ 53 }}](#p53)
-- #### [{{ Poisons }}{{ 53 }}](#p53)
+- #### [{{  Spells }}{{ 19 }}](#p19)
+- ### [{{ Dancer (Specialist) }}{{ 21 }}](#p21)
+- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
+- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
+- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
+- #### [{{  Spells }}{{ 28 }}](#p28)
+- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
+- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
+- #### [{{  Spells }}{{ 33 }}](#p33)
+- ### [{{ Werebeast (Specialist) }}{{ 35 }}](#p35)
+- ### [{{ Witch (Caster) }}{{ 37 }}](#p37)
+- #### [{{  Spells }}{{ 38 }}](#p38)
+- ### [{{ Combat }}{{ 40 }}](#p40)
+- #### [{{ Round }}{{ 40 }}](#p40)
+- #### [{{ Combat Actions }}{{ 40 }}](#p40)
+- #### [{{ Attacking and Defending }}{{ 40 }}](#p40)
+- #### [{{ Movement }}{{ 41 }}](#p41)
+- #### [{{ Maneuvers }}{{ 41 }}](#p41)
+- #### [{{ Manobras }}{{ 41 }}](#p41)
+- #### [{{ Tamanho }}{{ 42 }}](#p42)
+- ### [{{ Origins }}{{ 43 }}](#p43)
+- #### [{{ Origin Lists }}{{ 43 }}](#p43)
+- ### [{{ Proficiency }}{{ 44 }}](#p44)
+- ### [{{ General Feats }}{{ 45 }}](#p45)
+- ### [{{ Martial Feats }}{{ 46 }}](#p46)
+- ### [{{ Caster Feats }}{{ 47 }}](#p47)
+- ### [{{ Specialist Feats }}{{ 48 }}](#p48)
+- ### [{{ Companion Feats }}{{ 49 }}](#p49)
+- ### [{{ Starting Items }}{{ 50 }}](#p50)
+- ### [{{ Carga }}{{ 51 }}](#p51)
+- #### [{{ Sobrecarga }}{{ 51 }}](#p51)
+- ### [{{ Coins }}{{ 52 }}](#p52)
+- ### [{{ Equipment }}{{ 53 }}](#p53)
+- #### [{{ Simple Weapons }}{{ 53 }}](#p53)
+- #### [{{ Martial Weapons }}{{ 53 }}](#p53)
+- #### [{{ Armor }}{{ 53 }}](#p53)
+- #### [{{ Magic Staves }}{{ 54 }}](#p54)
+- ### [{{ Consumable Items }}{{ 55 }}](#p55)
+- #### [{{ Potions }}{{ 55 }}](#p55)
+- #### [{{ Poisons }}{{ 55 }}](#p55)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Óleos }}{{ 54 }}](#p54)
-- ### [{{ Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Casting a Spell from a Scroll }}{{ 55 }}](#p55)
-- #### [{{ Learning a Spell from a Scroll }}{{ 55 }}](#p55)
-- #### [{{ Creating Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Buying Spell Scrolls }}{{ 55 }}](#p55)
-- #### [{{ Ideas for change }}{{ 55 }}](#p55)
-- #### [{{ Working with item levels. }}{{ 55 }}](#p55)
-- ### [{{ Magic Items }}{{ 56 }}](#p56)
-- #### [{{ Runes }}{{ 57 }}](#p57)
-- ### [{{ Crafting }}{{ 58 }}](#p58)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 58 }}](#p58)
-- #### [{{ Crafting in Bulk }}{{ 58 }}](#p58)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 58 }}](#p58)
-- ### [{{ Spells }}{{ 59 }}](#p59)
-- #### [{{ Learning Spells }}{{ 59 }}](#p59)
-- #### [{{ Prepared vs. Learned Spells }}{{ 59 }}](#p59)
-- #### [{{ Casting Spells }}{{ 59 }}](#p59)
-- #### [{{ Spell levels }}{{ 59 }}](#p59)
-- #### [{{ Spell Tags }}{{ 60 }}](#p60)
-- #### [{{ Flavor }}{{ 60 }}](#p60)
-- ### [{{ Spell Tags }}{{ 61 }}](#p61)
-- #### [{{ Tags }}{{ 61 }}](#p61)
-- ### [{{ Spell List }}{{ 62 }}](#p62)
-- #### [{{ All Spells }}{{ 62 }}](#p62)
-- ### [{{ Spells }}{{ 64 }}](#p64)
-- ### [{{ Contracts, Paladins & Entities }}{{ 99 }}](#p99)
-- #### [{{ Paladins }}{{ 99 }}](#p99)
-- #### [{{ Contract }}{{ 99 }}](#p99)
-- #### [{{ Favor }}{{ 99 }}](#p99)
-- #### [{{ Losing Favor }}{{ 99 }}](#p99)
-- #### [{{ Miracles }}{{ 99 }}](#p99)
-- ### [{{ Companions }}{{ 100 }}](#p100)
-- #### [{{ Stats }}{{ 100 }}](#p100)
-- #### [{{ Companion death }}{{ 100 }}](#p100)
-- #### [{{ Rest }}{{ 100 }}](#p100)
-- #### [{{ Companion Skills }}{{ 100 }}](#p100)
-- ### [{{ Conditions }}{{ 102 }}](#p102)
-- ### [{{ Rest & Recovery }}{{ 103 }}](#p103)
-- #### [{{ Provisions }}{{ 103 }}](#p103)
-- #### [{{ How to recover }}{{ 103 }}](#p103)
-- #### [{{ Skipping a Rest }}{{ 103 }}](#p103)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 103 }}](#p103)
-- ### [{{ Companions }}{{ 104 }}](#p104)
-- #### [{{ Stats }}{{ 104 }}](#p104)
-- #### [{{ Companion death }}{{ 104 }}](#p104)
-- #### [{{ Rest }}{{ 104 }}](#p104)
-- #### [{{ Companion Skills }}{{ 104 }}](#p104)
+- #### [{{ Óleos }}{{ 56 }}](#p56)
+- ### [{{ Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Casting a Spell from a Scroll }}{{ 57 }}](#p57)
+- #### [{{ Learning a Spell from a Scroll }}{{ 57 }}](#p57)
+- #### [{{ Creating Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Buying Spell Scrolls }}{{ 57 }}](#p57)
+- #### [{{ Ideas for change }}{{ 57 }}](#p57)
+- #### [{{ Working with item levels. }}{{ 57 }}](#p57)
+- ### [{{ Magic Items }}{{ 58 }}](#p58)
+- #### [{{ Runes }}{{ 59 }}](#p59)
+- ### [{{ Crafting }}{{ 60 }}](#p60)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 60 }}](#p60)
+- #### [{{ Crafting in Bulk }}{{ 60 }}](#p60)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 60 }}](#p60)
+- ### [{{ Spells }}{{ 61 }}](#p61)
+- #### [{{ Learning Spells }}{{ 61 }}](#p61)
+- #### [{{ Prepared vs. Learned Spells }}{{ 61 }}](#p61)
+- #### [{{ Casting Spells }}{{ 61 }}](#p61)
+- #### [{{ Spell levels }}{{ 61 }}](#p61)
+- #### [{{ Spell Tags }}{{ 62 }}](#p62)
+- #### [{{ Flavor }}{{ 62 }}](#p62)
+- ### [{{ Spell Tags }}{{ 63 }}](#p63)
+- #### [{{ Tags }}{{ 63 }}](#p63)
+- ### [{{ Spell List }}{{ 64 }}](#p64)
+- #### [{{ All Spells }}{{ 64 }}](#p64)
+- ### [{{ Spells }}{{ 66 }}](#p66)
+- ### [{{ Contracts, Paladins & Entities }}{{ 101 }}](#p101)
+- #### [{{ Paladins }}{{ 101 }}](#p101)
+- #### [{{ Contract }}{{ 101 }}](#p101)
+- #### [{{ Favor }}{{ 101 }}](#p101)
+- #### [{{ Losing Favor }}{{ 101 }}](#p101)
+- #### [{{ Miracles }}{{ 101 }}](#p101)
+- ### [{{ Companions }}{{ 102 }}](#p102)
+- #### [{{ Stats }}{{ 102 }}](#p102)
+- #### [{{ Companion death }}{{ 102 }}](#p102)
+- #### [{{ Rest }}{{ 102 }}](#p102)
+- #### [{{ Companion Skills }}{{ 102 }}](#p102)
+- ### [{{ Conditions }}{{ 104 }}](#p104)
+- ### [{{ Rest & Recovery }}{{ 105 }}](#p105)
+- #### [{{ Provisions }}{{ 105 }}](#p105)
+- #### [{{ How to recover }}{{ 105 }}](#p105)
+- #### [{{ Skipping a Rest }}{{ 105 }}](#p105)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 105 }}](#p105)
+- ### [{{ Companions }}{{ 106 }}](#p106)
+- #### [{{ Stats }}{{ 106 }}](#p106)
+- #### [{{ Companion death }}{{ 106 }}](#p106)
+- #### [{{ Rest }}{{ 106 }}](#p106)
+- #### [{{ Companion Skills }}{{ 106 }}](#p106)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -525,7 +525,7 @@ Important tips:
 ##### Alquimist
 | Level | Proficiency Bonus | Features |
 | :---: | :---------------: | :------- | 
-| 1st | +1 | Make Concoction? |
+| 1st | +1 | Elixir Experimental |
 | 2nd | +1 | Alquimist Feat, Expertise |
 | 3rd | +2 | Alquimist Feat |
 | 4th | +2 | Alquimist Feat, Attribute Score Improvement |
@@ -548,7 +548,7 @@ Important tips:
 }}
 
 
-**Make Concoction?.** undefined
+**Elixir Experimental.** undefined
 
 **Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
@@ -675,6 +675,8 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 - **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
 - **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod. Pré-requisito: lv5 de Beast Warrior.
+{{pageNumber,auto}}
+\page
 
 - **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
 
@@ -684,12 +686,9 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-{{pageNumber,auto}}
-\page
-
 
 {{note
-#### Wild Rage animal forms
+#### Wild Rage
 
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
@@ -781,6 +780,8 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 - **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
 
 - **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
+{{pageNumber,auto}}
+\page
 
 {{note
 #### Julgamento
@@ -789,8 +790,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 }}
 
 - **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
-{{pageNumber,auto}}
-\page
 
 - **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
@@ -885,6 +884,8 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 1-3  |  Energy Blast  |
 | 4-8  | Chilling Touch |
 | 9-10 |    Firebolt    |
+{{pageNumber,auto}}
+\page
 
 ### 1º Círculo
 | d10  |     Magia     |
@@ -901,8 +902,6 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 3-4  |        Hold Person         |
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 |      Wither and Bloom      |
-{{pageNumber,auto}}
-\page
 
 ### Channeler Feats
 
@@ -950,6 +949,8 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
 
 - **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+{{pageNumber,auto}}
+\page
 
 - **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 
@@ -1139,7 +1140,9 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
 - gain steps on initiative
-- steps can be spent to use skills that use Movement Actions as a Free Action
+- steps can be spent to use skills that use Movement Actions as a Free Action {{pageNumber,auto}}
+\page
+
 - roll performance instead of initiative
 - steps + other stuff on "de raspão"
 - +PRE to dodge 
@@ -1148,10 +1151,6 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - scale movement with level
 	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
-
-{{pageNumber,auto}}
-\page
-
 
 {{note
 #### Danças Marciais
@@ -1227,13 +1226,13 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 | 11th | +6 | Fighter Feat | +8 |
 | 12th | +6 | Fighter Feat, Attribute Score Improvement | +8 |
 | 13th | +7 | Fighter Feat | +12 |
-| 14th | +7 | Fighter Feat, Action Surge (2) | +12 |
+| 14th | +7 | Fighter Feat | +12 |
 | 15th | +8 | Fighter Feat, Attribute Score Improvement | +12 |
 | 16th | +8 | Fighter Feat | +12 |
 | 17th | +9 | Fighter Feat, Attribute Score Improvement | +16 |
 | 18th | +9 | Fighter Feat | +16 |
 | 19th | +10 | Fighter Feat, Attribute Score Improvement | +16 |
-| 20th | +10 | Fighter Feat, Action Surge (3) | +16 |
+| 20th | +10 | Fighter Feat | +16 |
 }}
 
 
@@ -1242,10 +1241,6 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 **Action Surge.** undefined
 
 **Extra Attack.** undefined
-
-**Action Surge (2).** undefined
-
-**Action Surge (3).** undefined
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1257,7 +1252,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 **PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
-**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one aditional main action this turn. At levels 14 and 20 you may spend an extra +3PM per aditional action to gain 2 or 3 aditional actions instead of 1, respectively
+**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3PM per additional action to gain 2 or 3 additional actions instead of 1, respectively
 
 ### Fighter Feats
 
@@ -1282,6 +1277,8 @@ Begining at level 2, every time you gain a level in Fighter you gain a Fighter F
 - **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
 
 - **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
+{{pageNumber,auto}}
+\page
 
 - **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
@@ -1360,13 +1357,13 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
 
-- **Crítico Poderoso.** (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). Pre-requisites: *Crítico Paciente*.
-
-- **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Crítico Poderoso.** (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). Pre-requisites: *Crítico Paciente*.
+
+- **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
 
 - **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]])
 

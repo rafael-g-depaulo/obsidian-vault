@@ -5,12 +5,15 @@ SAVES:
 - STR
 
 FEATURES:
-| LEVEL | FEATURE          |
-| ----- | ---------------- |
-| 1     | Make Concoction? | 
+
+| LEVEL | FEATURE |
+| ---- | ---- |
+| 1 | Elixir Experimental |
+
 
 
 MULTI_FEATURES:
+
 | Level |     | 
 | ----- | --- |
 | 1st   |     |

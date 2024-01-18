@@ -83,6 +83,8 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 - **Thick Hide**. You can spend a movement action and 1 PM to gain 1d12 temporary HP. For every aditional 2PM you spend, increase that ammount by another +1d12.
 
 - **Blood Healing**. While below HP and raging, the first attack you hit on your turn heals you for your CON mod. Pré-requisito: lv5 de Beast Warrior.
+{{pageNumber,auto}}
+\page
 
 - **Hibernation**. During a rest, you can spend any multiple of 2PM. For every 2PM, you recover aditional HP equal to your CON mod (ex: 2PM -> CON mod. 4PM -> 2*CON mod. 6PM -> 3*CON mod.)
 
@@ -92,12 +94,9 @@ Begining at level 2, every time you gain a level in Beast Warrior you gain a Bea
 
 - **Sangue dos Inimigos**. Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
-{{pageNumber,auto}}
-\page
-
 
 {{note
-#### Wild Rage animal forms
+#### Wild Rage
 
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 

@@ -48,16 +48,17 @@ FEATS:
 | "Tragam o próximo" | Quando levar um inimigo a 0, você pode gastar +1PM e usar "Levantar Guarda" como ação livre, e ganha +1 Guts até o final da cena. |  |
 | "A Melhor Defesa..." | (Guarda Alta) Ação de Movimento (1 PM): Você abaixa a guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts. |  |
 | Crítico Paciente | Você ganha metade do seu **Guts** (arrendondado pra baixo) de margem de ameaça |  |
-| Crítico Fortificador |  Quando acertar um ataque crítico, você ganha +2 Guts. | Crítico Paciente |
+| Crítico Fortificador | Quando acertar um ataque crítico, você ganha +2 Guts. | Crítico Paciente |
 | Crítico Brutal | Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> | Crítico Paciente |
-| Crítico Poderoso |  (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). | Crítico Paciente |
-| Golpe Brutal | (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. | Crítico Paciente |
+
 
 
 BREAK
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
+| Crítico Poderoso | (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). | Crítico Paciente |
+| Golpe Brutal | (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. | Crítico Paciente |
 | Golpe Derrubador | Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]]) |  |
 | Golpe em Arco | Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente). |  |
 | Defesa Impenetrável | Some seu modificador de força no HP temporário recebido por **Levantar Guarda** (limitado pelo seu nível) . |  |
@@ -67,7 +68,7 @@ BREAK
 | Defesa Intocável | (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. | Defesa Impenetrável |
 | Defesa Impregnável | (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. | Defesa Impenetrável |
 | Defesa Impermeável | (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. | Defesa Impenetrável. |
-| Defesa Inabalável | (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. |  1 poder que tem Defesa Impenetrável como pré-requisito. |
+| Defesa Inabalável | (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. | 1 poder que tem Defesa Impenetrável como pré-requisito. |
 | Defesa Indestrutível | (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. | 2 poderes que tem Defesa Impenetrável como pré-requisito. |
 
 }}

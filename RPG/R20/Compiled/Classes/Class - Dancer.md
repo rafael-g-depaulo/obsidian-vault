@@ -79,7 +79,9 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
 - gain steps on initiative
-- steps can be spent to use skills that use Movement Actions as a Free Action
+- steps can be spent to use skills that use Movement Actions as a Free Action {{pageNumber,auto}}
+\page
+
 - roll performance instead of initiative
 - steps + other stuff on "de raspão"
 - +PRE to dodge 
@@ -88,10 +90,6 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - scale movement with level
 	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
-
-{{pageNumber,auto}}
-\page
-
 
 {{note
 #### Danças Marciais
