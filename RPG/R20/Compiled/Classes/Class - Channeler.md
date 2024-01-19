@@ -56,9 +56,9 @@ Beginning at level 2, every time you gain a level in Channeler you gain a Witch 
 
 - **Canalização Defensiva.** Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2.
 
-- **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pré-requisito: *Canalização Defensiva*.
+- **Canalização Concentrada.** Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. Pre-requisites: *Canalização Defensiva*.
 
-- **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pré-requisito: *Canalização Defensiva*.
+- **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pre-requisites: *Canalização Defensiva*.
 
 - **Reinforçamento Mágico.** Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre.
 
@@ -95,17 +95,17 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 
 
-- **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pré-requisito: *Level 6 Canalizador*.
+- **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
 
 - **Magia Energizada.** Se você gastou pelo menos uma **Carga Arcana** em uma magia, a CD dela aumenta em +2.
 
 - **Invocação Sortuda.** Durante **Invocar Feitiço**, você pode pagar 1PM uma vez para re-rolar o círculo da magia lançada.
 
-- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. Pré-requisito: *Level 8 em Canalizador*. (ainda tem que pagar o custo normal da magia)
+- **Potencial Arcano: Absoluto.** X PM: pode usar uma magia de Xº Círculo (não truque) quando lançar a canalização. (vc ainda tem que pagar o custo normal da magia) Pre-requisites: *Level 8 em Canalizador*.
 
 - **Potencial Arcano: Múltiplo.** 2 PM: Conjure 2 magias em vez de 1 (todas do mesmo círculo). O segundo vai em um alvo diferente a sua escolha. Para cada 4 níveis de Canalizador, você pode gastar +1PM para aumentar o número de magias em 1. Os feitiços adicionais não aumentam de círculo com o MP gasto para aprimorar o primeiro.
 
-- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pré-requisito: *Potencial Arcano: Múltiplo*.
+- **Potencial Arcano: Focado.** 2 PM: As magias conjuradas podem ter o mesmo alvo. Pre-requisites: *Potencial Arcano: Múltiplo*.
 
 - **Potencial Arcano: Recursão.** 2 PM: Ganha **Carga Arcana** igual ao círculo de magia invocada.
 
