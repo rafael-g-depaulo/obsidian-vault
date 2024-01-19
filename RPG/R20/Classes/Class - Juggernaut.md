@@ -67,7 +67,7 @@ BREAK
 | Defesa Implacável | Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. | Defesa Impenetrável |
 | Defesa Intocável | (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. | Defesa Impenetrável |
 | Defesa Impregnável | (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. | Defesa Impenetrável |
-| Defesa Impermeável | (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. | Defesa Impenetrável. |
+| Defesa Impermeável | (Guarda Alta) (Um aliado adjacente é atacado) Reação (2PM): Diminua o dano pela sua Guard. | Defesa Impenetrável. |
 | Defesa Inabalável | (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. | 1 poder que tem Defesa Impenetrável como pré-requisito. |
 | Defesa Indestrutível | (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. | 2 poderes que tem Defesa Impenetrável como pré-requisito. |
 
