@@ -7,10 +7,10 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE          |
-| ----- | ---------------- |
-| 1     | Precise Strike   |
-| 2     | Action Surge     |
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Precise Strike | **during an attack (1PM):** add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage). |
+| 2 | Action Surge | **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action. |
 
 MULTI_FEATURES:
 
