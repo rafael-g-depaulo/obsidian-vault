@@ -117,6 +117,9 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 List of spells available for a Spelgard to learn.
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip

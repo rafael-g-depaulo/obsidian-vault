@@ -946,6 +946,9 @@ List of spells available for a Chaneler to learn.
 
 
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip
@@ -1440,6 +1443,9 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 List of spells available for a Plantomancer to learn.
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip
@@ -1747,6 +1753,9 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 ### Spell List
 
 List of spells available for a Spelgard to learn.
+
+### Spell List
+List of spells available for a  to learn.
 
 ##  Spells
 
@@ -2068,6 +2077,9 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 - **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
+
+### Spell List
+List of spells available for a  to learn.
 
 ##  Spells
 
@@ -3357,6 +3369,9 @@ nature -> elemental -> wild -> nature
 . Global list of all spells, divided by circle:
 
 
+
+### Spell List
+List of spells available for a All to learn.
 
 ## All Spells
 

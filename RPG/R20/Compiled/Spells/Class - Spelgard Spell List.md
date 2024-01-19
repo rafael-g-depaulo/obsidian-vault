@@ -1,3 +1,6 @@
+### Spell List
+List of spells available for a Spelgard to learn.
+
 ## Spelgard Spells
 
 ### Cantrip

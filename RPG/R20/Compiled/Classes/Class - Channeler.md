@@ -161,6 +161,9 @@ List of spells available for a Chaneler to learn.
 
 
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip

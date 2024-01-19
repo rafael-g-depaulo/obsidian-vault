@@ -1,3 +1,6 @@
+### Spell List
+List of spells available for a Channeler to learn.
+
 ## Channeler Spells
 
 ### Cantrip

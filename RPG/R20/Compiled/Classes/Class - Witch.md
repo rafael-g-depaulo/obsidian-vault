@@ -137,6 +137,9 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip

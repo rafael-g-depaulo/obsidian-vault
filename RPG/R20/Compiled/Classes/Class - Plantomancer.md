@@ -100,6 +100,9 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 List of spells available for a Plantomancer to learn.
 
+### Spell List
+List of spells available for a  to learn.
+
 ##  Spells
 
 ### Cantrip

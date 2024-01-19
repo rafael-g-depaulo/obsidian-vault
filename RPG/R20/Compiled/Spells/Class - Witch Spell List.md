@@ -1,3 +1,6 @@
+### Spell List
+List of spells available for a Witch to learn.
+
 ## Witch Spells
 
 ### Cantrip

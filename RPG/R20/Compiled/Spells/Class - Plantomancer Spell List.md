@@ -1,3 +1,6 @@
+### Spell List
+List of spells available for a Plantomancer to learn.
+
 ## Plantomancer Spells
 
 ### Cantrip
