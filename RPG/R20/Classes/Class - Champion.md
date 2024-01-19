@@ -41,7 +41,7 @@ MULTI_FEATURES:
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Inspirar .** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
+**Inspirar 0.** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
 
 ### Champion Feats
 
