@@ -90,7 +90,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Impermeável.** (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. Pre-requisites: *Defesa Impenetrável.*.
+- **Defesa Impermeável.** (Guarda Alta) (Um aliado adjacente é atacado) Reação (2PM): Diminua o dano pela sua Guard. Pre-requisites: *Defesa Impenetrável.*.
 
 - **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
 

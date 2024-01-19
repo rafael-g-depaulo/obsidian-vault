@@ -64,100 +64,100 @@ ___
 - ### [{{ Alquimist (Specialist) }}{{ 11 }}](#p11)
 - ### [{{ Beast Warrior (Martial) }}{{ 12 }}](#p12)
 - ### [{{ Champion (Martial) }}{{ 14 }}](#p14)
-- ### [{{ Channeler (Caster) }}{{ 16 }}](#p16)
-- #### [{{  Spells }}{{ 19 }}](#p19)
-- ### [{{ Dancer (Specialist) }}{{ 21 }}](#p21)
-- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
-- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
-- #### [{{  Spells }}{{ 28 }}](#p28)
-- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
-- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
-- #### [{{  Spells }}{{ 33 }}](#p33)
-- ### [{{ Werebeast (Specialist) }}{{ 35 }}](#p35)
-- ### [{{ Witch (Caster) }}{{ 37 }}](#p37)
-- #### [{{  Spells }}{{ 38 }}](#p38)
-- ### [{{ Combat }}{{ 40 }}](#p40)
-- #### [{{ Round }}{{ 40 }}](#p40)
-- #### [{{ Combat Actions }}{{ 40 }}](#p40)
-- #### [{{ Attacking and Defending }}{{ 40 }}](#p40)
-- #### [{{ Movement }}{{ 41 }}](#p41)
-- #### [{{ Maneuvers }}{{ 41 }}](#p41)
-- #### [{{ Manobras }}{{ 41 }}](#p41)
-- #### [{{ Tamanho }}{{ 42 }}](#p42)
-- ### [{{ Origins }}{{ 43 }}](#p43)
-- #### [{{ Origin Lists }}{{ 43 }}](#p43)
-- ### [{{ Proficiency }}{{ 44 }}](#p44)
-- ### [{{ General Feats }}{{ 45 }}](#p45)
-- ### [{{ Martial Feats }}{{ 46 }}](#p46)
-- ### [{{ Caster Feats }}{{ 47 }}](#p47)
-- ### [{{ Specialist Feats }}{{ 48 }}](#p48)
-- ### [{{ Companion Feats }}{{ 49 }}](#p49)
-- ### [{{ Starting Items }}{{ 50 }}](#p50)
-- ### [{{ Carga }}{{ 51 }}](#p51)
-- #### [{{ Sobrecarga }}{{ 51 }}](#p51)
-- ### [{{ Coins }}{{ 52 }}](#p52)
-- ### [{{ Equipment }}{{ 53 }}](#p53)
-- #### [{{ Simple Weapons }}{{ 53 }}](#p53)
-- #### [{{ Martial Weapons }}{{ 53 }}](#p53)
-- #### [{{ Armor }}{{ 53 }}](#p53)
-- #### [{{ Magic Staves }}{{ 54 }}](#p54)
-- ### [{{ Consumable Items }}{{ 55 }}](#p55)
-- #### [{{ Potions }}{{ 55 }}](#p55)
-- #### [{{ Poisons }}{{ 55 }}](#p55)
+- ### [{{ Channeler (Caster) }}{{ 15 }}](#p15)
+- #### [{{  Spells }}{{ 18 }}](#p18)
+- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
+- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
+- ### [{{ Juggernaut (Martial) }}{{ 24 }}](#p24)
+- ### [{{ Plantomancer (Caster) }}{{ 26 }}](#p26)
+- #### [{{  Spells }}{{ 27 }}](#p27)
+- ### [{{ Rogue (Specialist) }}{{ 29 }}](#p29)
+- ### [{{ Spelgard (Off-Caster) }}{{ 31 }}](#p31)
+- #### [{{  Spells }}{{ 32 }}](#p32)
+- ### [{{ Werebeast (Specialist) }}{{ 34 }}](#p34)
+- ### [{{ Witch (Caster) }}{{ 36 }}](#p36)
+- #### [{{  Spells }}{{ 37 }}](#p37)
+- ### [{{ Combat }}{{ 39 }}](#p39)
+- #### [{{ Round }}{{ 39 }}](#p39)
+- #### [{{ Combat Actions }}{{ 39 }}](#p39)
+- #### [{{ Attacking and Defending }}{{ 39 }}](#p39)
+- #### [{{ Movement }}{{ 40 }}](#p40)
+- #### [{{ Maneuvers }}{{ 40 }}](#p40)
+- #### [{{ Manobras }}{{ 40 }}](#p40)
+- #### [{{ Tamanho }}{{ 41 }}](#p41)
+- ### [{{ Origins }}{{ 42 }}](#p42)
+- #### [{{ Origin Lists }}{{ 42 }}](#p42)
+- ### [{{ Proficiency }}{{ 43 }}](#p43)
+- ### [{{ General Feats }}{{ 44 }}](#p44)
+- ### [{{ Martial Feats }}{{ 45 }}](#p45)
+- ### [{{ Caster Feats }}{{ 46 }}](#p46)
+- ### [{{ Specialist Feats }}{{ 47 }}](#p47)
+- ### [{{ Companion Feats }}{{ 48 }}](#p48)
+- ### [{{ Starting Items }}{{ 49 }}](#p49)
+- ### [{{ Carga }}{{ 50 }}](#p50)
+- #### [{{ Sobrecarga }}{{ 50 }}](#p50)
+- ### [{{ Coins }}{{ 51 }}](#p51)
+- ### [{{ Equipment }}{{ 52 }}](#p52)
+- #### [{{ Simple Weapons }}{{ 52 }}](#p52)
+- #### [{{ Martial Weapons }}{{ 52 }}](#p52)
+- #### [{{ Armor }}{{ 52 }}](#p52)
+- #### [{{ Magic Staves }}{{ 53 }}](#p53)
+- ### [{{ Consumable Items }}{{ 54 }}](#p54)
+- #### [{{ Potions }}{{ 54 }}](#p54)
+- #### [{{ Poisons }}{{ 54 }}](#p54)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Óleos }}{{ 56 }}](#p56)
-- ### [{{ Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Casting a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Learning a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Creating Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Buying Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Ideas for change }}{{ 57 }}](#p57)
-- #### [{{ Working with item levels. }}{{ 57 }}](#p57)
-- ### [{{ Magic Items }}{{ 58 }}](#p58)
-- #### [{{ Runes }}{{ 59 }}](#p59)
-- ### [{{ Crafting }}{{ 60 }}](#p60)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 60 }}](#p60)
-- #### [{{ Crafting in Bulk }}{{ 60 }}](#p60)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 60 }}](#p60)
-- ### [{{ Spells }}{{ 61 }}](#p61)
-- #### [{{ Learning Spells }}{{ 61 }}](#p61)
-- #### [{{ Prepared vs. Learned Spells }}{{ 61 }}](#p61)
-- #### [{{ Casting Spells }}{{ 61 }}](#p61)
-- #### [{{ Spell levels }}{{ 61 }}](#p61)
-- #### [{{ Spell Tags }}{{ 62 }}](#p62)
-- #### [{{ Flavor }}{{ 62 }}](#p62)
-- ### [{{ Spell Tags }}{{ 63 }}](#p63)
-- #### [{{ Tags }}{{ 63 }}](#p63)
-- ### [{{ Spell List }}{{ 64 }}](#p64)
-- #### [{{ All Spells }}{{ 64 }}](#p64)
-- ### [{{ Spells }}{{ 66 }}](#p66)
-- ### [{{ Contracts, Paladins & Entities }}{{ 101 }}](#p101)
-- #### [{{ Paladins }}{{ 101 }}](#p101)
-- #### [{{ Contract }}{{ 101 }}](#p101)
-- #### [{{ Favor }}{{ 101 }}](#p101)
-- #### [{{ Losing Favor }}{{ 101 }}](#p101)
-- #### [{{ Miracles }}{{ 101 }}](#p101)
-- ### [{{ Companions }}{{ 102 }}](#p102)
-- #### [{{ Stats }}{{ 102 }}](#p102)
-- #### [{{ Companion death }}{{ 102 }}](#p102)
-- #### [{{ Rest }}{{ 102 }}](#p102)
-- #### [{{ Companion Skills }}{{ 102 }}](#p102)
-- ### [{{ Conditions }}{{ 104 }}](#p104)
-- ### [{{ Rest & Recovery }}{{ 105 }}](#p105)
-- #### [{{ Provisions }}{{ 105 }}](#p105)
-- #### [{{ How to recover }}{{ 105 }}](#p105)
-- #### [{{ Skipping a Rest }}{{ 105 }}](#p105)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 105 }}](#p105)
-- ### [{{ Companions }}{{ 106 }}](#p106)
-- #### [{{ Stats }}{{ 106 }}](#p106)
-- #### [{{ Companion death }}{{ 106 }}](#p106)
-- #### [{{ Rest }}{{ 106 }}](#p106)
-- #### [{{ Companion Skills }}{{ 106 }}](#p106)
+- #### [{{ Óleos }}{{ 55 }}](#p55)
+- ### [{{ Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Casting a Spell from a Scroll }}{{ 56 }}](#p56)
+- #### [{{ Learning a Spell from a Scroll }}{{ 56 }}](#p56)
+- #### [{{ Creating Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Buying Spell Scrolls }}{{ 56 }}](#p56)
+- #### [{{ Ideas for change }}{{ 56 }}](#p56)
+- #### [{{ Working with item levels. }}{{ 56 }}](#p56)
+- ### [{{ Magic Items }}{{ 57 }}](#p57)
+- #### [{{ Runes }}{{ 58 }}](#p58)
+- ### [{{ Crafting }}{{ 59 }}](#p59)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 59 }}](#p59)
+- #### [{{ Crafting in Bulk }}{{ 59 }}](#p59)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 59 }}](#p59)
+- ### [{{ Spells }}{{ 60 }}](#p60)
+- #### [{{ Learning Spells }}{{ 60 }}](#p60)
+- #### [{{ Prepared vs. Learned Spells }}{{ 60 }}](#p60)
+- #### [{{ Casting Spells }}{{ 60 }}](#p60)
+- #### [{{ Spell levels }}{{ 60 }}](#p60)
+- #### [{{ Spell Tags }}{{ 61 }}](#p61)
+- #### [{{ Flavor }}{{ 61 }}](#p61)
+- ### [{{ Spell Tags }}{{ 62 }}](#p62)
+- #### [{{ Tags }}{{ 62 }}](#p62)
+- ### [{{ Spell List }}{{ 63 }}](#p63)
+- #### [{{ All Spells }}{{ 63 }}](#p63)
+- ### [{{ Spells }}{{ 65 }}](#p65)
+- ### [{{ Contracts, Paladins & Entities }}{{ 100 }}](#p100)
+- #### [{{ Paladins }}{{ 100 }}](#p100)
+- #### [{{ Contract }}{{ 100 }}](#p100)
+- #### [{{ Favor }}{{ 100 }}](#p100)
+- #### [{{ Losing Favor }}{{ 100 }}](#p100)
+- #### [{{ Miracles }}{{ 100 }}](#p100)
+- ### [{{ Companions }}{{ 101 }}](#p101)
+- #### [{{ Stats }}{{ 101 }}](#p101)
+- #### [{{ Companion death }}{{ 101 }}](#p101)
+- #### [{{ Rest }}{{ 101 }}](#p101)
+- #### [{{ Companion Skills }}{{ 101 }}](#p101)
+- ### [{{ Conditions }}{{ 103 }}](#p103)
+- ### [{{ Rest & Recovery }}{{ 104 }}](#p104)
+- #### [{{ Provisions }}{{ 104 }}](#p104)
+- #### [{{ How to recover }}{{ 104 }}](#p104)
+- #### [{{ Skipping a Rest }}{{ 104 }}](#p104)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 104 }}](#p104)
+- ### [{{ Companions }}{{ 105 }}](#p105)
+- #### [{{ Stats }}{{ 105 }}](#p105)
+- #### [{{ Companion death }}{{ 105 }}](#p105)
+- #### [{{ Rest }}{{ 105 }}](#p105)
+- #### [{{ Companion Skills }}{{ 105 }}](#p105)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -709,7 +709,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Smite | 1d6+PRE | - |
+| 1st | +1 | Golpe Destruidor | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Lay on Hands | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
 | 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
@@ -732,9 +732,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 }}
 
 
-**Smite.** undefined
+**Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Lay on Hands.** undefined
+**Lay on Hands.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
 
 **Extra Attack.** undefined
 
@@ -744,48 +744,10 @@ A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Inti
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
 
+**Golpe Ilustre**. Quando usa Golpe Destruidor, todos os inimigos em alcance curto ficam ofuscados até o início do seu próximo turno (-2 ataque/Percepção)..**Golpe Inspirador**. Ao usar Golpe Destruidor, você pode gastar +1PM, e, se acertar, os seus aliados que verem o golpe ser feito tem +2 em testes de ataque contra o mesmo alvo..**Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
 
 
-**SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**LAY ON HANDS (CURAR PELAS MÃOS).** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
-
-### Champion Feats
-
-Begining at level 2, every time you gain a level in Champion you gain a Champion Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
-
-- **Golpe Ilustre**. Quando usa Golpe Destruidor, todos os inimigos em alcance curto ficam ofuscados até o início do seu próximo turno (-2 ataque/Percepção).
-
-- **Golpe Inspirador**. Ao usar Golpe Destruidor, você pode gastar +1PM, e, se acertar, os seus aliados que verem o golpe ser feito tem +2 em testes de ataque contra o mesmo alvo.
-
-- **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
-
-- **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
-{{pageNumber,auto}}
-\page
-
-{{note
-#### Julgamento
-
-Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
-}}
-
-- **Julgamento: Coragem**. Ação de movimento (2 PM): marque uma criatura em alcance curto (X quadrados). A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
-
-- **Julgamento: Vindicação**. Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
-
-
-- **Estrategista.** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PM por aliado que quiser direcionar (limitado pela sua Presença). No próximo turno do aliado, ele ganha uma Ação de Movimento adicional. Pré-requisitos: 6º nível de Champion.
-
-- **General.** Quando você usa o poder Estrategista, aliados direcionados recebem 1d4 PM temporários. Esses PM duram até o fim do turno do aliado e não podem ser usados em efeitos que concedam PM. Pré-requisitos: Estrategista, 12º nível de Champion.
-
-- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
-
-- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pré-requisitos: Inspirar  Confiança, 8º nível de champion.
-
-- **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pré-requisito: 6º nível de champion. 
-
-- **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
 **TODO:** Mais poderes para palavras afiadas
 
@@ -1362,7 +1324,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Impermeável.** (Guarda Alta) (Um aliado adjacente é atacado) Reação (1PM): Diminua o dano pela sua Guard. Pre-requisites: *Defesa Impenetrável.*.
+- **Defesa Impermeável.** (Guarda Alta) (Um aliado adjacente é atacado) Reação (2PM): Diminua o dano pela sua Guard. Pre-requisites: *Defesa Impenetrável.*.
 
 - **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
 
