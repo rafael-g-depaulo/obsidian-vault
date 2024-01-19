@@ -33,7 +33,7 @@ wix tem uns problemas, tipo com a caixinha de de libras, e não tem por padrão 
 ## Organização de acesso e arquivo de entregáveis
 
 # Tarefas
-- [ ] pesquisar e apresentar semana que vem as plataformas
-- [ ] email
-	- [ ] pegar com o thales
-	- [ ] imediatamente falar com a Moa
+- [x] pesquisar e apresentar semana que vem as plataformas
+- [x] email
+	- [x] pegar com o thales
+	- [x] imediatamente falar com a Moa
