@@ -41,7 +41,7 @@ MULTI_FEATURES:
 
 **SMITE (GOLPE DESTRUIDOR).** (once per turn) During an attack (2PM): infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Inspirar 0.** You may spend a major action and 1PM to touch one creature, and heal them for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
+**Palavras Inspiradoras.** You may spend a major action and 1PM to heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. **Ideia:** mudar para ranged para dar mais opções interessantes e diferenciar do spelgard.
 
 ### Champion Feats
 
@@ -52,8 +52,10 @@ Begining at level 2, every time you gain a level in Champion you gain a Champion
 - **Golpe Inspirador**. Ao usar Golpe Destruidor, você pode gastar +1PM, e, se acertar, os seus aliados que verem o golpe ser feito tem +2 em testes de ataque contra o mesmo alvo.
 
 - **Curar Aprimorado**. Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.
-
+%% 
 - **Curar Distante**. Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto.
+ %%
+
 {{page-break}}
 {{class-note "Julgamento"
 
