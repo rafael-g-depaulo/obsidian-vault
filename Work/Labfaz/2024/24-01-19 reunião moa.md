@@ -9,7 +9,7 @@ ficar com o wix, depender mais do planejamento.
 
 Tamanho de fonte e alto contraste e tal é importante ter.
 
-#### Testes e entregáveis.
+### Testes e entregáveis.
 
 Documentos para documentação de processos, testes e entregáveis de acessibilidade do site.
 
@@ -19,4 +19,13 @@ Documentos para documentação de processos, testes e entregáveis de acessibili
 - relatório de entregáveis
 - material pra "marketing" de captação
 
-### 
+### Comunicação por Email!!
+
+
+### App Stores
+
+pq ignorar app stores?
+- é contra as regras
+- é pior que o app web
+- 
+
