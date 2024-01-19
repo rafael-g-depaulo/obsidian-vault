@@ -67,97 +67,97 @@ ___
 - ### [{{ Channeler (Caster) }}{{ 16 }}](#p16)
 - #### [{{  Spells }}{{ 19 }}](#p19)
 - ### [{{ Dancer (Specialist) }}{{ 21 }}](#p21)
-- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
-- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
-- #### [{{  Spells }}{{ 28 }}](#p28)
-- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
-- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
-- #### [{{  Spells }}{{ 33 }}](#p33)
-- ### [{{ Werebeast (Specialist) }}{{ 35 }}](#p35)
-- ### [{{ Witch (Caster) }}{{ 37 }}](#p37)
-- #### [{{  Spells }}{{ 38 }}](#p38)
-- ### [{{ Combat }}{{ 40 }}](#p40)
-- #### [{{ Round }}{{ 40 }}](#p40)
-- #### [{{ Combat Actions }}{{ 40 }}](#p40)
-- #### [{{ Attacking and Defending }}{{ 40 }}](#p40)
-- #### [{{ Movement }}{{ 41 }}](#p41)
-- #### [{{ Maneuvers }}{{ 41 }}](#p41)
-- #### [{{ Manobras }}{{ 41 }}](#p41)
-- #### [{{ Tamanho }}{{ 42 }}](#p42)
-- ### [{{ Origins }}{{ 43 }}](#p43)
-- #### [{{ Origin Lists }}{{ 43 }}](#p43)
-- ### [{{ Proficiency }}{{ 44 }}](#p44)
-- ### [{{ General Feats }}{{ 45 }}](#p45)
-- ### [{{ Martial Feats }}{{ 46 }}](#p46)
-- ### [{{ Caster Feats }}{{ 47 }}](#p47)
-- ### [{{ Specialist Feats }}{{ 48 }}](#p48)
-- ### [{{ Companion Feats }}{{ 49 }}](#p49)
-- ### [{{ Starting Items }}{{ 50 }}](#p50)
-- ### [{{ Carga }}{{ 51 }}](#p51)
-- #### [{{ Sobrecarga }}{{ 51 }}](#p51)
-- ### [{{ Coins }}{{ 52 }}](#p52)
-- ### [{{ Equipment }}{{ 53 }}](#p53)
-- #### [{{ Simple Weapons }}{{ 53 }}](#p53)
-- #### [{{ Martial Weapons }}{{ 53 }}](#p53)
-- #### [{{ Armor }}{{ 53 }}](#p53)
-- #### [{{ Magic Staves }}{{ 54 }}](#p54)
-- ### [{{ Consumable Items }}{{ 55 }}](#p55)
-- #### [{{ Potions }}{{ 55 }}](#p55)
-- #### [{{ Poisons }}{{ 55 }}](#p55)
+- ### [{{ Fighter (Martial) }}{{ 24 }}](#p24)
+- ### [{{ Juggernaut (Martial) }}{{ 26 }}](#p26)
+- ### [{{ Plantomancer (Caster) }}{{ 28 }}](#p28)
+- #### [{{  Spells }}{{ 29 }}](#p29)
+- ### [{{ Rogue (Specialist) }}{{ 31 }}](#p31)
+- ### [{{ Spelgard (Off-Caster) }}{{ 33 }}](#p33)
+- #### [{{  Spells }}{{ 34 }}](#p34)
+- ### [{{ Werebeast (Specialist) }}{{ 36 }}](#p36)
+- ### [{{ Witch (Caster) }}{{ 38 }}](#p38)
+- #### [{{  Spells }}{{ 39 }}](#p39)
+- ### [{{ Combat }}{{ 41 }}](#p41)
+- #### [{{ Round }}{{ 41 }}](#p41)
+- #### [{{ Combat Actions }}{{ 41 }}](#p41)
+- #### [{{ Attacking and Defending }}{{ 41 }}](#p41)
+- #### [{{ Movement }}{{ 42 }}](#p42)
+- #### [{{ Maneuvers }}{{ 42 }}](#p42)
+- #### [{{ Manobras }}{{ 42 }}](#p42)
+- #### [{{ Tamanho }}{{ 43 }}](#p43)
+- ### [{{ Origins }}{{ 44 }}](#p44)
+- #### [{{ Origin Lists }}{{ 44 }}](#p44)
+- ### [{{ Proficiency }}{{ 45 }}](#p45)
+- ### [{{ General Feats }}{{ 46 }}](#p46)
+- ### [{{ Martial Feats }}{{ 47 }}](#p47)
+- ### [{{ Caster Feats }}{{ 48 }}](#p48)
+- ### [{{ Specialist Feats }}{{ 49 }}](#p49)
+- ### [{{ Companion Feats }}{{ 50 }}](#p50)
+- ### [{{ Starting Items }}{{ 51 }}](#p51)
+- ### [{{ Carga }}{{ 52 }}](#p52)
+- #### [{{ Sobrecarga }}{{ 52 }}](#p52)
+- ### [{{ Coins }}{{ 53 }}](#p53)
+- ### [{{ Equipment }}{{ 54 }}](#p54)
+- #### [{{ Simple Weapons }}{{ 54 }}](#p54)
+- #### [{{ Martial Weapons }}{{ 54 }}](#p54)
+- #### [{{ Armor }}{{ 54 }}](#p54)
+- #### [{{ Magic Staves }}{{ 55 }}](#p55)
+- ### [{{ Consumable Items }}{{ 56 }}](#p56)
+- #### [{{ Potions }}{{ 56 }}](#p56)
+- #### [{{ Poisons }}{{ 56 }}](#p56)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Óleos }}{{ 56 }}](#p56)
-- ### [{{ Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Casting a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Learning a Spell from a Scroll }}{{ 57 }}](#p57)
-- #### [{{ Creating Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Buying Spell Scrolls }}{{ 57 }}](#p57)
-- #### [{{ Ideas for change }}{{ 57 }}](#p57)
-- #### [{{ Working with item levels. }}{{ 57 }}](#p57)
-- ### [{{ Magic Items }}{{ 58 }}](#p58)
-- #### [{{ Runes }}{{ 59 }}](#p59)
-- ### [{{ Crafting }}{{ 60 }}](#p60)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 60 }}](#p60)
-- #### [{{ Crafting in Bulk }}{{ 60 }}](#p60)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 60 }}](#p60)
-- ### [{{ Spells }}{{ 61 }}](#p61)
-- #### [{{ Learning Spells }}{{ 61 }}](#p61)
-- #### [{{ Prepared vs. Learned Spells }}{{ 61 }}](#p61)
-- #### [{{ Casting Spells }}{{ 61 }}](#p61)
-- #### [{{ Spell levels }}{{ 61 }}](#p61)
-- #### [{{ Spell Tags }}{{ 62 }}](#p62)
-- #### [{{ Flavor }}{{ 62 }}](#p62)
-- ### [{{ Spell Tags }}{{ 63 }}](#p63)
-- #### [{{ Tags }}{{ 63 }}](#p63)
-- ### [{{ Spell List }}{{ 64 }}](#p64)
-- #### [{{ All Spells }}{{ 64 }}](#p64)
-- ### [{{ Spells }}{{ 66 }}](#p66)
-- ### [{{ Contracts, Paladins & Entities }}{{ 101 }}](#p101)
-- #### [{{ Paladins }}{{ 101 }}](#p101)
-- #### [{{ Contract }}{{ 101 }}](#p101)
-- #### [{{ Favor }}{{ 101 }}](#p101)
-- #### [{{ Losing Favor }}{{ 101 }}](#p101)
-- #### [{{ Miracles }}{{ 101 }}](#p101)
-- ### [{{ Companions }}{{ 102 }}](#p102)
-- #### [{{ Stats }}{{ 102 }}](#p102)
-- #### [{{ Companion death }}{{ 102 }}](#p102)
-- #### [{{ Rest }}{{ 102 }}](#p102)
-- #### [{{ Companion Skills }}{{ 102 }}](#p102)
-- ### [{{ Conditions }}{{ 104 }}](#p104)
-- ### [{{ Rest & Recovery }}{{ 105 }}](#p105)
-- #### [{{ Provisions }}{{ 105 }}](#p105)
-- #### [{{ How to recover }}{{ 105 }}](#p105)
-- #### [{{ Skipping a Rest }}{{ 105 }}](#p105)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 105 }}](#p105)
-- ### [{{ Companions }}{{ 106 }}](#p106)
-- #### [{{ Stats }}{{ 106 }}](#p106)
-- #### [{{ Companion death }}{{ 106 }}](#p106)
-- #### [{{ Rest }}{{ 106 }}](#p106)
-- #### [{{ Companion Skills }}{{ 106 }}](#p106)
+- #### [{{ Óleos }}{{ 57 }}](#p57)
+- ### [{{ Spell Scrolls }}{{ 58 }}](#p58)
+- #### [{{ Casting a Spell from a Scroll }}{{ 58 }}](#p58)
+- #### [{{ Learning a Spell from a Scroll }}{{ 58 }}](#p58)
+- #### [{{ Creating Spell Scrolls }}{{ 58 }}](#p58)
+- #### [{{ Buying Spell Scrolls }}{{ 58 }}](#p58)
+- #### [{{ Ideas for change }}{{ 58 }}](#p58)
+- #### [{{ Working with item levels. }}{{ 58 }}](#p58)
+- ### [{{ Magic Items }}{{ 59 }}](#p59)
+- #### [{{ Runes }}{{ 60 }}](#p60)
+- ### [{{ Crafting }}{{ 61 }}](#p61)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 61 }}](#p61)
+- #### [{{ Crafting in Bulk }}{{ 61 }}](#p61)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 61 }}](#p61)
+- ### [{{ Spells }}{{ 62 }}](#p62)
+- #### [{{ Learning Spells }}{{ 62 }}](#p62)
+- #### [{{ Prepared vs. Learned Spells }}{{ 62 }}](#p62)
+- #### [{{ Casting Spells }}{{ 62 }}](#p62)
+- #### [{{ Spell levels }}{{ 62 }}](#p62)
+- #### [{{ Spell Tags }}{{ 63 }}](#p63)
+- #### [{{ Flavor }}{{ 63 }}](#p63)
+- ### [{{ Spell Tags }}{{ 64 }}](#p64)
+- #### [{{ Tags }}{{ 64 }}](#p64)
+- ### [{{ Spell List }}{{ 65 }}](#p65)
+- #### [{{ All Spells }}{{ 65 }}](#p65)
+- ### [{{ Spells }}{{ 67 }}](#p67)
+- ### [{{ Contracts, Paladins & Entities }}{{ 102 }}](#p102)
+- #### [{{ Paladins }}{{ 102 }}](#p102)
+- #### [{{ Contract }}{{ 102 }}](#p102)
+- #### [{{ Favor }}{{ 102 }}](#p102)
+- #### [{{ Losing Favor }}{{ 102 }}](#p102)
+- #### [{{ Miracles }}{{ 102 }}](#p102)
+- ### [{{ Companions }}{{ 103 }}](#p103)
+- #### [{{ Stats }}{{ 103 }}](#p103)
+- #### [{{ Companion death }}{{ 103 }}](#p103)
+- #### [{{ Rest }}{{ 103 }}](#p103)
+- #### [{{ Companion Skills }}{{ 103 }}](#p103)
+- ### [{{ Conditions }}{{ 105 }}](#p105)
+- ### [{{ Rest & Recovery }}{{ 106 }}](#p106)
+- #### [{{ Provisions }}{{ 106 }}](#p106)
+- #### [{{ How to recover }}{{ 106 }}](#p106)
+- #### [{{ Skipping a Rest }}{{ 106 }}](#p106)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 106 }}](#p106)
+- ### [{{ Companions }}{{ 107 }}](#p107)
+- #### [{{ Stats }}{{ 107 }}](#p107)
+- #### [{{ Companion death }}{{ 107 }}](#p107)
+- #### [{{ Rest }}{{ 107 }}](#p107)
+- #### [{{ Companion Skills }}{{ 107 }}](#p107)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -1057,7 +1057,7 @@ feats:
 | 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
 | 5th | +3 | Dancer Feat | 4 |
 | 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
-| 7th | +4 | Dancer Feat, Confie na Estrela | 5 |
+| 7th | +4 | Dancer Feat | 5 |
 | 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |
 | 9th | +5 | Dancer Feat | 6 |
 | 10th | +5 | Dancer Feat, Attribute Score Improvement | 6 |
@@ -1074,15 +1074,13 @@ feats:
 }}
 
 
-**Ritmo de Batalha.** undefined
+**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
-**Passos de Vento.** undefined
+**Passos de Vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve até o final do turno dá +1d4 de dano pra cada **Passo de Vento** usado
 
 **Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-**Dança Ilusória.** undefined
-
-**Confie na Estrela.** undefined
+**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
 ### Especialização
 A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
@@ -1090,31 +1088,51 @@ A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Inti
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
+- **NOME.** Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
 
+- **NOME.** **ao fazer uma rolagem social (1PM):** +PRE para a rolagem.
 
-**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
+- **NOME.** +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
 
-**Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
+- **NOME.** Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
-**Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
+{{pageNumber,auto}}
+\page
+{{note
+#### Danças Marciais
 
-**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
+Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
 
-**Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém.
+Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
+maybe add option to upcast?
 
-### Dancer Feats
-Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
+}}
 
-- *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
-- *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
-- *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
-- *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
+- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
+
+- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
+
+- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados
+
+- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque.
+
+- **Dança do Vento.** **Ação (X PM, limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**
+
+- **Dança do Enxame.** **Ação (X\*3 Passos de Vento, X\*2MP).** Você pode realizar X ataques turno, cada um com o efeito de 3 **Passos de Vento**
+
+- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada
+
+- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
+
+- **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
+
 
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
 - gain steps on initiative
+- prevent attacks of opportunity
 - steps can be spent to use skills that use Movement Actions as a Free Action {{pageNumber,auto}}
 \page
 
@@ -1126,32 +1144,6 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - scale movement with level
 	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
-
-{{note
-#### Danças Marciais
-
-Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
-
-Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
-maybe add option to upcast?
-
-}}
-- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
-- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados 
-- **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
-- **Dança do Vento.** Ganhe 4 **Passos do Vento**.
-- **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
-- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada.
-- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
-
-#### outras danças:
-- temp MP (self)
-- "Dança a Dois". Buffs pra um aliado e tal.
-- dance through enemies and damage them
-- whirlwind attack (on future levels can increase radius)
-
-#### Feat ideas continuação
 - move through people
 - increase AC temporarily
 	- if you spent steps, gain +AC equal to steps spent until next turn
@@ -1160,6 +1152,12 @@ maybe add option to upcast?
 - gain adv on resist rolls??? prolly not
 - transform STR/CON resist to DEX resist? prolly not
 - +PM to dance as movement action
+
+#### outras danças:
+- temp MP (self)
+- "Dança a Dois". Buffs pra um aliado e tal.
+- dance through enemies and damage them
+- whirlwind attack (on future levels can increase radius)
 
 ### Conceito
 Acrobatas são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.
@@ -1211,9 +1209,9 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 }}
 
 
-**Precise Strike.** undefined
+**Precise Strike.** **during an attack (1PM):** add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
-**Action Surge.** undefined
+**Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
 **Extra Attack.** undefined
 
@@ -1223,41 +1221,35 @@ A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia,
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
 
+- **Ambidestria.** Se estiver usando duas armas e atacar com as duas usando a ação de Ataque, você soma seu atributo de ataque no dano da segunda arma.
 
+- **Arqueiro.** Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pre-requisites: *Sab 13*.
 
-**PRECISE STRIKE.** When you make an attack, you may spend 1 PM to add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
+- **Bater e Correr.** Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa
 
-**ACTION SURGE.** Once per turn, you may spend 3PM and use an Action Surge. If you do, you gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3PM per additional action to gain 2 or 3 additional actions instead of 1, respectively
+- **Destruidor.** Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma Pre-requisites: *For 13*.
 
-### Fighter Feats
+- **Esgrimista.** Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pre-requisites: *Int 13*.
 
-Begining at level 2, every time you gain a level in Fighter you gain a Fighter Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
+- **Golpe de Raspão.** Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque
 
-- **Ambidestria**. Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de a
+- **Golpe Demolidor.** Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele
 
-- **Arqueiro**. Se estiver usando uma arma de ataque à distância, você soma seu bônus de Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 13.
+- **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
 
-- **Bater e Correr**. Quando faz uma investida, você pode continuar se movendo após o ataque, até o limite de seu deslocamento. Se gastar 2 PM, pode fazer uma investida sobre terreno difícil e sem sofrer a penalidade de Defesa.
+- **Planejamento Marcial.** Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pre-requisites: *10º nível de guerreiro.*.
 
-- **Destruidor**. Quando causa dano com uma arma corpo a corpo de duas mãos, você pode rolar novamente qualquer resultado 1 ou 2 das rolagens de dano da arma. Pré-requisito: For 13
+- **Solidez.** Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
 
-- **Esgrimista**. Quando usa uma arma leve ou ágil, você soma seu bônus de Inteligência nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Int 13.
-
-- **Golpe de Raspão**. Quando erra um ataque, você pode gastar 1 PM. Se fizer isso, causa 1d8 pontos de dano (do tipo da arma) no alvo do ataque.
-
-- **Golpe Demolidor**. Quando usa a manobra quebrar ou ataca um objeto, você pode gastar 2 PM para ignorar a RD dele.
-
-- **Ímpeto**. Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.
-
-- **Planejamento Marcial**. Uma vez por dia, você pode gastar uma hora e 3 PM para escolher um poder de guerreiro ou de combate cujos pré-requisitos cumpra. Você recebe os benefícios desse poder até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.
-
-- **Solidez**. Se estiver usando um escudo, você aplica o bônus na Defesa recebido pelo escudo em testes de resistência.
 {{pageNumber,auto}}
 \page
 
-- **Tornado de Dor**. Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pré-requisito: 6º nível de guerreiro.
 
-- **Valentão**. Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
+- **Tornado de Dor.** Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pre-requisites: *6º nível de guerreiro.*.
+
+- **Valentão.** Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
+
+
 
 
 

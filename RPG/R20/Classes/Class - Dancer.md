@@ -57,21 +57,11 @@ CLASS_NOTE
 | Dança da Inspiração  | Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível). |                |
 | Dança da Velocidade  | ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados                                                                                                                                                                                                   |                |
 | Dança do Desespero   | Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque.                                                                                                          |                |
-| Dança do Vento       | Ação (X)                                                                                                                                                                                                                                                                                     |                |
-|                      |                                                                                                                                                                                                                                                                                      |                |
-|                      |                                                                                                                                                                                                                                                                                      |                |
-|                      |                                                                                                                                                                                                                                                                                      |                |
-|                      |                                                                                                                                                                                                                                                                                      |                |
-**Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
-- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados 
-- **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
-- **Dança do Vento.** Ganhe 4 **Passos do Vento**.
-- **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
-- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada.
-- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
-- **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém.
-
+| Dança do Vento       | **Ação (X PM, limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**                                                                                                                                                                                                                                                                                     |                |
+| Dança do Enxame                     | **Ação (X\*3 Passos de Vento, X\*2MP).** Você pode realizar X ataques turno, cada um com o efeito de 3 **Passos de Vento**                                                                                                                                                                                                                                                                                     |                |
+| Dança do Trance                     | Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada                                                                                                                                                                                                                                                                                     |                |
+| Dança Incorpórea                     | Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.                                                                                                                                                                                                                                                                                     |                |
+| Confie na Estrela                     | Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém                                                                                                                                                                                                                                                                                     |                |
 
 CLASS_NOTE_NAME: Danças Marciais
 CLASS_NOTE_DESCRIPTION:
@@ -81,17 +71,12 @@ Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 *
 maybe add option to upcast?
 
 }}
-
-- *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
-- *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
-- *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
-- *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
-
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
 - gain steps on initiative
+- prevent attacks of opportunity
 - steps can be spent to use skills that use Movement Actions as a Free Action {{page-break}}
 - roll performance instead of initiative
 - steps + other stuff on "de raspão"
@@ -101,15 +86,6 @@ maybe add option to upcast?
 - scale movement with level
 	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
-
-- 
-#### outras danças:
-- temp MP (self)
-- "Dança a Dois". Buffs pra um aliado e tal.
-- dance through enemies and damage them
-- whirlwind attack (on future levels can increase radius)
-
-#### Feat ideas continuação
 - move through people
 - increase AC temporarily
 	- if you spent steps, gain +AC equal to steps spent until next turn
@@ -118,6 +94,12 @@ maybe add option to upcast?
 - gain adv on resist rolls??? prolly not
 - transform STR/CON resist to DEX resist? prolly not
 - +PM to dance as movement action
+
+#### outras danças:
+- temp MP (self)
+- "Dança a Dois". Buffs pra um aliado e tal.
+- dance through enemies and damage them
+- whirlwind attack (on future levels can increase radius)
 
 ### Conceito
 Acrobatas são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.

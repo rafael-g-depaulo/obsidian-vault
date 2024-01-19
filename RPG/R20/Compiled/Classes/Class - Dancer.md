@@ -21,7 +21,7 @@
 | 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
 | 5th | +3 | Dancer Feat | 4 |
 | 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
-| 7th | +4 | Dancer Feat, Confie na Estrela | 5 |
+| 7th | +4 | Dancer Feat | 5 |
 | 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |
 | 9th | +5 | Dancer Feat | 6 |
 | 10th | +5 | Dancer Feat, Attribute Score Improvement | 6 |
@@ -38,15 +38,13 @@
 }}
 
 
-**Ritmo de Batalha.** undefined
+**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
 
-**Passos de Vento.** undefined
+**Passos de Vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve até o final do turno dá +1d4 de dano pra cada **Passo de Vento** usado
 
 **Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
 
-**Dança Ilusória.** undefined
-
-**Confie na Estrela.** undefined
+**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
 ### Especialização
 A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
@@ -54,31 +52,51 @@ A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Inti
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
 
+- **NOME.** Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
 
+- **NOME.** **ao fazer uma rolagem social (1PM):** +PRE para a rolagem.
 
-**Ritmo de Batalha.** Ação Livre: Você ganha 2 **Passos de Vento** (1 se usando armadura). A Cada 2 níveis você pode gastar +1PM para ganhar +1 **Passo de Vento**.
+- **NOME.** +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
 
-**Passos de vento.** Ao se movimentar com uma Ação de Movimento, você pode gastar um número de passos do vento (limitado pelo seu nível + 1) e se mover um número de quadrados adicional igual ao número de passos gastos. Quando você gasta passos de vento seu próximo ataque desarmado ou com uma arma leve dá +1d4 de dano pra cada **Passo de Vento** usado
+- **NOME.** Você ganha 2 **Passos de Vento** ao usar **De Raspão**
 
-**Expertise.** Choose a number of skills equal to you intelligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your intelligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your intelligence modifier.
+{{pageNumber,auto}}
+\page
+{{note
+#### Danças Marciais
 
-**Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
+Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
 
-**Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém.
+Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
+maybe add option to upcast?
 
-### Dancer Feats
-Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
+}}
 
-- *NOME*. Você pode gastar 1PM para substituir uma rolagem de atletismo ou acrobacia por performance
-- *NOME.* ao fazer uma rolagem social (1PM): +PRE para a rolagem.
-- *NOME*. +PRE de evasão se você não estiver usando armadura (limitado pelo seu nível);
-- *NOME.* Você ganha 2 **Passos de Vento** ao usar **De Raspão**
+- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
+
+- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
+
+- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados
+
+- **Dança do Desespero.** Gasta todos os **Passos de Vento**, e 1HP por **Passo de Vento** gasto. Dobre o número de dados rolados para o dano adicional de **Passos de Vento** para o próximo ataque.
+
+- **Dança do Vento.** **Ação (X PM, limitado pelo seu nível):** Ganhe 3 + 2\*X **Passos de Vento**
+
+- **Dança do Enxame.** **Ação (X\*3 Passos de Vento, X\*2MP).** Você pode realizar X ataques turno, cada um com o efeito de 3 **Passos de Vento**
+
+- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada
+
+- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
+
+- **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
+
 
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
 - gain steps on ally crit/enemy down
 - gain steps on initiative
+- prevent attacks of opportunity
 - steps can be spent to use skills that use Movement Actions as a Free Action {{pageNumber,auto}}
 \page
 
@@ -90,32 +108,6 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Dancer Fe
 - scale movement with level
 	- add PRE to movement (default?) (nah i'm killing this idea)
 	- add DEX to movement (feat?)
-
-{{note
-#### Danças Marciais
-
-Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
-
-Esses poderes funcionam como habilidades ativas que custam uma Ação, 2PM e 2 **Passos de Vento** para executar (a não ser que a descrição do poder diga outra coisa). 
-maybe add option to upcast?
-
-}}
-- **Dança da Restauração.** Escolha até 2 aliados que consegue ver. eles ganham PRE+2d4 de HP temporário.
-- **Dança da Inspiração.** Seus aliados que conseguem te ver ganham o seu bônus dos passos do Vento gastos com essa habilidade, e ganham vantagem na próxima ação até o seu próximo turno. Você pode escolher gastar mais que 2 **Passos de Vento** ao executar essa dança (o total é limitado pelo seu nível).
-- **Dança da Velocidade.** ganha +PRE move speed pela cena para você, e para o próximo turno dos seus aliados 
-- **Dança do Desespero.** Gasta todos os passos. dá dano dobrado. custa HP e causa exaustão.
-- **Dança do Vento.** Ganhe 4 **Passos do Vento**.
-- **Dança do Enxame**. Ação (X\*3 **Passos de Vento**, X\*2MP). Você pode realizar X ataques esse turno, cada um com o efeito de 3 **Passos de Vento**. Reword to something better later
-- **Dança do Trance.** Você Ganha +PRE em rolagens de ataque e +2d4 de dano. Duração: sustentada.
-- **Dança Incorpórea.** Você se move em linha reta para algum ponto livre no alcance do seu movimento máximo. Você ignora quaisquer obstáculos no seu caminho, incluindo paredes. Faça um ataque. Todas as criaturas a sua escolha entre o ponto de partida e destino sofrem esse ataque.
-
-#### outras danças:
-- temp MP (self)
-- "Dança a Dois". Buffs pra um aliado e tal.
-- dance through enemies and damage them
-- whirlwind attack (on future levels can increase radius)
-
-#### Feat ideas continuação
 - move through people
 - increase AC temporarily
 	- if you spent steps, gain +AC equal to steps spent until next turn
@@ -124,6 +116,12 @@ maybe add option to upcast?
 - gain adv on resist rolls??? prolly not
 - transform STR/CON resist to DEX resist? prolly not
 - +PM to dance as movement action
+
+#### outras danças:
+- temp MP (self)
+- "Dança a Dois". Buffs pra um aliado e tal.
+- dance through enemies and damage them
+- whirlwind attack (on future levels can increase radius)
 
 ### Conceito
 Acrobatas são, primeiramente, artistas. Suas habilidades são usadas para performances e danças, mas sua agilidade e precisão de movimentos trazem consigo habilidades valiosas em combate.
