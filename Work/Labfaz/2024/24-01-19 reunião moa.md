@@ -39,6 +39,5 @@ Elas concordaram.
 
 #### Conversar com o Dan e Luciano
 
-
 ### Tarefas
 - [ ] lista de acessibilidade
