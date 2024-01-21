@@ -18,7 +18,7 @@
 ##### Plantomancer
 | Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica | 2 | 3 | 1 |
+| 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica, Magia Preparada, Magia Aprendida | 2 | 3 | 1 |
 | 2nd | +1 | Plantomancer Feat | 3 | 4 | 1 |
 | 3rd | +2 | Plantomancer Feat | 3 | 5 | 2 |
 | 4th | +2 | Plantomancer Feat, Attribute Score Improvement | 4 | 6 | 2 |
@@ -40,6 +40,12 @@
 | 20th | +10 | Plantomancer Feat | 12 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 

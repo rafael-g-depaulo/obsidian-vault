@@ -49,7 +49,7 @@ FEATS:
 | Wild Senses | Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each. |  |
 | Superstição | Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild". |  |
 | Ímpeto | Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada. |  |
-| Esquiva Sobrenatural | Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido. |  |
+
 
 BREAK
 
@@ -57,6 +57,7 @@ CLASS_NOTE
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
+| Esquiva Sobrenatural | Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido. |  |
 | Wild Rage: Owlbear | Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack. |  |
 | Wild Rage: Direwolf | Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20). |  |
 | Wild Rage: Sharkodile | Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene). |  |

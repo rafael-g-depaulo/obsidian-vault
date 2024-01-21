@@ -49,7 +49,7 @@ FEATS:
 | "A Melhor Defesa..." | (Guarda Alta) Ação de Movimento (1 PM): Você abaixa a guarda, tem -1 de Guard pela cena e ganha +2 Guts até o final da cena. A cada 3 níveis pode gastar +1PM para receber -1 Guard e +2 Guts. |  |
 | Crítico Paciente | Você ganha metade do seu **Guts** (arrendondado pra baixo) de margem de ameaça |  |
 | Crítico Fortificador | Quando acertar um ataque crítico, você ganha +2 Guts. | Crítico Paciente |
-| Crítico Brutal | Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> | Crítico Paciente |
+
 
 
 
@@ -57,6 +57,7 @@ BREAK
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
+| Crítico Brutal | Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> | Crítico Paciente |
 | Crítico Poderoso | (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). | Crítico Paciente |
 | Golpe Brutal | (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. | Crítico Paciente |
 | Golpe Derrubador | Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]]) |  |

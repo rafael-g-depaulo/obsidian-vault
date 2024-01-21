@@ -15,7 +15,7 @@
 ##### Juggernaut
 | Level | Proficiency Bonus | Features |Levantar Guarda | Max Guts | Golpe Poderoso | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Guts, Raise Guard | CON | 2 | 1d10+STR |
+| 1st | +1 | Guts, Raise Guard, Attack of Opportunity | CON | 2 | 1d10+STR |
 | 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
 | 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
 | 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
@@ -38,13 +38,15 @@
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
 **Raise Guard.** Movement (1PM): Gain CON mod. (minimum 0) + your level/2 (rounded down) temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.

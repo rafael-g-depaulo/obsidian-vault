@@ -15,7 +15,7 @@
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Golpe Destruidor | 1d6+PRE | - |
+| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
 | 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
@@ -38,11 +38,13 @@
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
 **Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -56,6 +58,10 @@ Beginning at level 2, every time you gain a level in Champion you gain a Witch F
 
 - **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.<br>
 
+- **Estrategista.** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PM por aliado que quiser direcionar (limitado pela sua Presença). No próximo turno do aliado, ele ganha uma Ação de Movimento adicional. Pre-requisites: *6º nível de Champion.*.
+
+- **General.** Quando você usa o poder Estrategista, aliados direcionados recebem 1d4 PM temporários. Esses PM duram até o fim do turno do aliado e não podem ser usados em efeitos que concedam PM. Pre-requisites: *Estrategista, 12º nível de Champion*.
+
 {{pageNumber,auto}}
 \page
 {{note
@@ -68,10 +74,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Julgamento: Coragem.** Ação de movimento (2 PM): marque uma criatura. A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
 
 - **Julgamento: Vindicação.** Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
-
-- **Estrategista.** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PM por aliado que quiser direcionar (limitado pela sua Presença). No próximo turno do aliado, ele ganha uma Ação de Movimento adicional. Pre-requisites: *6º nível de Champion.*.
-
-- **General.** Quando você usa o poder Estrategista, aliados direcionados recebem 1d4 PM temporários. Esses PM duram até o fim do turno do aliado e não podem ser usados em efeitos que concedam PM. Pre-requisites: *Estrategista, 12º nível de Champion*.
 
 - **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
 

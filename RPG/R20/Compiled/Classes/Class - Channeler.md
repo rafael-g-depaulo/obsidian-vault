@@ -18,7 +18,7 @@
 ##### Channeler
 | Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Invocar Feitiço | - | 3 | 1 |
+| 1st | +1 | Invocar Feitiço, Magia Preparada, Magia Aprendida | - | 3 | 1 |
 | 2nd | +1 | Channeler Feat | - | 4 | 1 |
 | 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
 | 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
@@ -40,6 +40,12 @@
 | 20th | +10 | Channeler Feat | 20 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 

@@ -15,7 +15,7 @@
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Rage | Savage Attack | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Rage | +2 | - |
+| 1st | +1 | Rage, Attack of Opportunity | +2 | - |
 | 2nd | +1 | Beast Warrior Feat, Savage Attack | +2 | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | +2 | 1d4+CON |
 | 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | +2 | 1d4+CON |
@@ -38,6 +38,8 @@
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
 
 
@@ -45,7 +47,7 @@
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -65,8 +67,6 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
 
-- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -76,6 +76,8 @@ Some powers are wild rage animal forms. While raging and below half HP, you can 
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 }}
+
+- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
 
 - **Wild Rage: Owlbear.** Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 

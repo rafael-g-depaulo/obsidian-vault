@@ -15,7 +15,7 @@
 ##### Fighter
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
+| 1st | +1 | Precise Strike, Attack of Opportunity | +4 |
 | 2nd | +1 | Fighter Feat, Action Surge | +4 |
 | 3rd | +2 | Fighter Feat | +4 |
 | 4th | +2 | Fighter Feat, Attribute Score Improvement | +4 |
@@ -38,11 +38,13 @@
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Precise Strike.** **during an attack (1PM):** add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
 **Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.

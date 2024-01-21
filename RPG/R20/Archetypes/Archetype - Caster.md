@@ -42,9 +42,10 @@ HAS_MAGIC: true
 
 FEATURES:
 
-| LEVEL | FEATURE |
-| ---- | ---- |
-|  |  |
+| LEVEL | FEATURE | DESCRIPTION |
+| ---- | ---- | ---- |
+| 1 | Magia Preparada | Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.<br><br>Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito). |
+| 1 | Magia Aprendida | Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]]) |
 
 MULTI_FEATURES:
 

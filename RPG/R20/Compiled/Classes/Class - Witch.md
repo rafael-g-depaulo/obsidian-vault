@@ -18,7 +18,7 @@
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
+| 1st | +1 | Hex, Magia Preparada, Magia Aprendida | - | 3 | 1 |
 | 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
 | 3rd | +2 | Witch Feat | 2 | 5 | 2 |
 | 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
@@ -40,6 +40,12 @@
 | 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

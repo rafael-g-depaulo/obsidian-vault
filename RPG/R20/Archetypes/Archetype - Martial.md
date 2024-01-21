@@ -34,8 +34,8 @@ FEATURES:
 
 | LEVEL | FEATURE | Description |
 | ---- | ---- | ---- |
-| 5 | Extra Attack | Ao tomar a ação Atacar (ver ) |
-|  |  |  |
+| 1 | Attack of Opportunity  | (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo. |
+| 5 | Extra Attack | Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1. |
 
 MULTI_FEATURES:
 

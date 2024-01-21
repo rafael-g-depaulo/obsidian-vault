@@ -300,7 +300,7 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 ##### Beast Warrior
 | Level | Proficiency Bonus | Features |Rage | Savage Attack | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Rage | +2 | - |
+| 1st | +1 | Rage, Attack of Opportunity | +2 | - |
 | 2nd | +1 | Beast Warrior Feat, Savage Attack | +2 | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | +2 | 1d4+CON |
 | 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | +2 | 1d4+CON |
@@ -323,6 +323,8 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
 
 
@@ -330,7 +332,7 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -350,8 +352,6 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
 
-- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -361,6 +361,8 @@ Some powers are wild rage animal forms. While raging and below half HP, you can 
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 }}
+
+- **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
 
 - **Wild Rage: Owlbear.** Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.
 
@@ -402,7 +404,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 ##### Champion
 | Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Golpe Destruidor | 1d6+PRE | - |
+| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
 | 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
@@ -425,11 +427,13 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
 **Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -443,6 +447,10 @@ Beginning at level 2, every time you gain a level in Champion you gain a Witch F
 
 - **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Presença no total da cura.<br>
 
+- **Estrategista.** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PM por aliado que quiser direcionar (limitado pela sua Presença). No próximo turno do aliado, ele ganha uma Ação de Movimento adicional. Pre-requisites: *6º nível de Champion.*.
+
+- **General.** Quando você usa o poder Estrategista, aliados direcionados recebem 1d4 PM temporários. Esses PM duram até o fim do turno do aliado e não podem ser usados em efeitos que concedam PM. Pre-requisites: *Estrategista, 12º nível de Champion*.
+
 {{pageNumber,auto}}
 \page
 {{note
@@ -455,10 +463,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Julgamento: Coragem.** Ação de movimento (2 PM): marque uma criatura. A criatura fica imune a efeitos de medo e recebe +2 em testes de ataque contra alvos de ND maior que o nível dela.
 
 - **Julgamento: Vindicação.** Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
-
-- **Estrategista.** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PM por aliado que quiser direcionar (limitado pela sua Presença). No próximo turno do aliado, ele ganha uma Ação de Movimento adicional. Pre-requisites: *6º nível de Champion.*.
-
-- **General.** Quando você usa o poder Estrategista, aliados direcionados recebem 1d4 PM temporários. Esses PM duram até o fim do turno do aliado e não podem ser usados em efeitos que concedam PM. Pre-requisites: *Estrategista, 12º nível de Champion*.
 
 - **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
 
@@ -496,7 +500,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 ##### Channeler
 | Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Invocar Feitiço | - | 3 | 1 |
+| 1st | +1 | Invocar Feitiço, Magia Preparada, Magia Aprendida | - | 3 | 1 |
 | 2nd | +1 | Channeler Feat | - | 4 | 1 |
 | 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
 | 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
@@ -518,6 +522,12 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 | 20th | +10 | Channeler Feat | 20 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -861,7 +871,7 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 ##### Fighter
 | Level | Proficiency Bonus | Features |Precise Strike | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Precise Strike | +4 |
+| 1st | +1 | Precise Strike, Attack of Opportunity | +4 |
 | 2nd | +1 | Fighter Feat, Action Surge | +4 |
 | 3rd | +2 | Fighter Feat | +4 |
 | 4th | +2 | Fighter Feat, Attribute Score Improvement | +4 |
@@ -884,11 +894,13 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Precise Strike.** **during an attack (1PM):** add +4 to the attack roll or damage. At levels 7, 13 and 17 you may spend +1 MP to increase the bonus by +4. You can also choose to split the bonus evenly between the damage and attack rolls (ex: if you spend 3PM you can either get +12 to the attack, +12 to the damage or +6 to the attack and +6 to the damage).
 
 **Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -948,7 +960,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 ##### Juggernaut
 | Level | Proficiency Bonus | Features |Levantar Guarda | Max Guts | Golpe Poderoso | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Guts, Raise Guard | CON | 2 | 1d10+STR |
+| 1st | +1 | Guts, Raise Guard, Attack of Opportunity | CON | 2 | 1d10+STR |
 | 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
 | 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
 | 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
@@ -971,13 +983,15 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 }}
 
 
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
+
 **Guts.** You have +1 Strength and -1 movement speed (down to a minimum of 3sqr) for each Guts point you have. You lose all Guts at the end of the scene. You can have up to your Juggernaut level + 1 Guts points. Every 5 Guts you increase your size by 1 category, up to large.
 
 **Raise Guard.** Movement (1PM): Gain CON mod. (minimum 0) + your level/2 (rounded down) temporary HP, and +1 **Guts**. While you have this temporary HP, you're considered as "On Guard".
 
 **Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1054,7 +1068,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 ##### Plantomancer
 | Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica | 2 | 3 | 1 |
+| 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica, Magia Preparada, Magia Aprendida | 2 | 3 | 1 |
 | 2nd | +1 | Plantomancer Feat | 3 | 4 | 1 |
 | 3rd | +2 | Plantomancer Feat | 3 | 5 | 2 |
 | 4th | +2 | Plantomancer Feat, Attribute Score Improvement | 4 | 6 | 2 |
@@ -1076,6 +1090,12 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 | 20th | +10 | Plantomancer Feat | 12 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1348,7 +1368,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
-| 1st | +1 | Lay on Hands | - | 1d8+1 | 1 | 1 |
+| 1st | +1 | Lay on Hands, Magia Inata | - | 1d8+1 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
 | 3rd | +2 | Spelgard Feat | 2d8+SEN | 1d8+1 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
@@ -1371,13 +1391,15 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 }}
 
 
+**Magia Inata.** Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).
+
 **Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 
-**Attack of Opportunity.** undefined
+**Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Extra Attack.** undefined
+**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1652,7 +1674,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 ##### Witch
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Hex | - | 3 | 1 |
+| 1st | +1 | Hex, Magia Preparada, Magia Aprendida | - | 3 | 1 |
 | 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
 | 3rd | +2 | Witch Feat | 2 | 5 | 2 |
 | 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
@@ -1674,6 +1696,12 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 | 20th | +10 | Witch Feat | 5 | 22 | 9 |
 }}
 
+
+**Magia Preparada.** Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.
+
+Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
+
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 

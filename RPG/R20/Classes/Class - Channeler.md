@@ -45,11 +45,9 @@ FEATS:
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
 | Canalização Defensiva | Enquanto estiver **Canalizando**, reduz qualquer dano que toma em PRE+lv/2. |  |
-| Canalização Concentrada | Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR.  | Canalização Defensiva |
-| Canalização Mística | Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza.  | Canalização Defensiva |
-| Reinforçamento Mágico | Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre. |  |
-| Transmutação de Mana | Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**. |  |
-| Magia Energizante | toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia. |  |
+| Canalização Concentrada | Enquanto estiver **Canalizando**, ganha resistência em rolagens de resistência de CON e STR. | Canalização Defensiva |
+| Canalização Mística | Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. | Canalização Defensiva |
+
 
 
 BREAK
@@ -57,6 +55,9 @@ CLASS_NOTE
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
+| Reinforçamento Mágico | Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre. |  |
+| Transmutação de Mana | Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**. |  |
+| Magia Energizante | toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia. |  |
 | Retribuição Arcana | (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados. |  |
 
 | d6  |   dano   |
