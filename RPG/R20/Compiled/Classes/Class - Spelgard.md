@@ -65,14 +65,6 @@ Beginning at level 2, every time you gain a level in Spelgard you gain a Witch F
 
 - **Magically Powered.** Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
 
-- **Defensive Spiritual Weapon.** While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense.
-
-- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
-
-- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
-
-- **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -90,6 +82,14 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Aura of Irradiation.** Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save
 
 - **Aura of Regeneration.** Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
+
+- **Defensive Spiritual Weapon.** While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense.
+
+- **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura
 
 - **Curar Distante.** Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
 
@@ -114,6 +114,9 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre
 
 
+
+{{pageNumber,auto}}
+\page
 
 ### Spell List
 

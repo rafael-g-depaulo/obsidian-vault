@@ -548,12 +548,6 @@ Beginning at level 2, every time you gain a level in Channeler you gain a Witch 
 
 - **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pre-requisites: *Canalização Defensiva*.
 
-- **Reinforçamento Mágico.** Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre.
-
-- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
-
-- **Magia Energizante.** toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -564,6 +558,12 @@ Misturando sua capacidade mágica e habilidade de invocar magias perdidas no pla
 Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
 
 }}
+
+- **Reinforçamento Mágico.** Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre.
+
+- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
+
+- **Magia Energizante.** toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia.
 
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
@@ -1011,11 +1011,11 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Crítico Fortificador.** Quando acertar um ataque crítico, você ganha +2 Guts. Pre-requisites: *Crítico Paciente*.
 
-- **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
 
 - **Crítico Poderoso.** (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). Pre-requisites: *Crítico Paciente*.
 
@@ -1099,7 +1099,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
-**Herbomancia: Muda Mágica.** Movimento (1PM, 1 **Semente Mágica**): uma planta mágica cresce num local visível escolhido em até 9sqr de distância. Você consegue usar seus sentidos através da planta, e pode usar magias e habilidades através dela.
+**Herbomancia: Muda Mágica.** 1PM. Você consegue usar seus sentidos através da Muda Mágica, e pode usar magias e habilidades de Plantomancer através dela. (ver: **Herbomancia e Plantas Mágicas**)
 
 ### Especialização
 A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1107,20 +1107,14 @@ A partir do nível 2, escolha uma perícia entre **Natureza, Adestramento, Arcan
 ### Plantomancer Feats
 Beginning at level 2, every time you gain a level in Plantomancer you gain a Witch Feat. You may instead of a Plantomancer feat take a Caster or General Feat of your choice.
 
-- **Planta Resistente.** Aumente o HP inicial das suas plantas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
+- **Planta Resistente.** Aumente o HP inicial das suas plantas mágicas em 2\* seu nível de Plantomancer, e a defesa delas em 4.
 
-- **Planta Explosiva.** Você pode gastar uma ação maior e 2PM. Escolha uma planta sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
-
-- **Planta Ajudante.** Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
-
-- **Lanchinho Mágico.** Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
-
-- **Plantas Conduentes Arcanas.** Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
+- **Planta Explosiva.** Você pode gastar uma ação maior e 2PM. Escolha uma planta mágica sua em alcance médio. Ela explode violentamente, lançando sua seiva corrosiva em todas as criaturas adjacentes (quadrado de lado 3, centrado na planta), causando 4d6 de dano ácido. A cada 3 níveis você pode gastar mais 2PM e aumentar o dano em 2d6 e o tamanho do quadrado em 2.
 
 {{pageNumber,auto}}
 \page
 {{note
-#### Herbomancia
+#### Herbomancia e Plantas Mágicas
 
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
 
@@ -1129,21 +1123,27 @@ Habilidades de Herbomancia, exceto quando o poder especificar, são habilidades 
 As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP, 14 + o seu modificador de SEN de Defesa, resistência a dano de impacto e perfurante e fraqueza contra dano cortante, de fogo e gelo.
 }}
 
+- **Planta Ajudante.** Suas plantas contam como aliados para fins de flanqueamento. Seus aliados recebem +1 na defesa quando adjacentes às suas plantas.
+
+- **Lanchinho Mágico.** Você pode gastar uma ação maior e um número de sementes mágicas até metade do seu nível. Você enfia essas sementes na boca e mastiga elas, recuperando sua essência mágica e recuperando +1d4 PM por semente.
+
+- **Plantas Conduentes Arcanas.** Quando você usa um truque (feitiço nível 0), você pode escolher um número das suas Plantas Mágicas ativas, limitado pelo seu nível. Gaste essa quantidade de PM, e o truque é executado por você e pelas plantas selecionadas ao mesmo tempo (você escolhe os alvos).
+
 - **Herbomancia: Raizes Mágicas.** 3 PM. escolha 3 cubos contíguos de 1,5m a partir do ponto onde a semente foi plantada. De lá crescem raízes mágicas. Elas podem funcionar como rampas, escadas, paredes, cobertura e/ou terreno difícil. Você pode gastar +2PM para aumentar o número de cubos em 3.
 
 - **Crescimento Acelerado.** Você pode criar plantas com Herbomancia como uma reação, gastando +2PM.
 
-- **Herbomancia: Samambaia Recuperadora.** Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. (As sementes gastas contam como parte das sementes que você receberia ao final do descanso). Pre-requisites: *nível 4 de Plantomancer*.
+- **Herbomancia: Samambaia Recuperadora.** Ao fazer um descanso num ambiente natural, você pode gastar 2 Semente Mágica para invocar uma samambaia mágica, que acalma e reinvigora quem ficar embaixo dela. até 6 alvos a sua escolha recuperam um adicional de 1d4 PM nesse descanso. Você pode gastar mais sementes (até metade do seu nível), e para cada semente adicional os alvos recuperam +1d4 de PM. Pre-requisites: *nível 4 de Plantomancer*.
 
-- **Herbomancia: Troco Paredão.** PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 3sqr de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
+- **Herbomancia: Troco Paredão.** 1 PM. O tronco de uma árvore mágica começa a crescer de lado, numa linha de 3sqr de comprimento, a partir do local onde a semente foi plantada. Troco Paredão funciona como cobertura parcial (+5 Defesa) enquanto está sendo erguida, e cobertura total uma vez erguida.
 
 - **Herbomancia: Trepadeira da Batata de Aço.** 2PM. A planta te protege como uma armadura, e toma dano por você. Dura até o final do seu próximo turno.
 
-- **Raízes Ambulantes.** Suas plantas criadas com Herbomancia tem velocidade de movimento 1sqr (elas se movem no seu turno).
+- **Raízes Ambulantes.** Suas Plantas Mágicas tem velocidade de movimento 1sqr (elas se movem no seu turno).
 
 - **Tunnel pelo solo.** Livre (1PM): Você pode mover uma planta que você plantou com Herbomancia para um lugar que você consiga ver em 12sqr de distância de onde ela está.
 
-- **Crescimento Acelerado.** Você pode gastar +1 PM para crescer uma planta de **Herbomancia** como reação.
+- **Crescimento Acelerado.** Você pode gastar +1 PM para usar uma habilidade de **Herbomancia** como reação.
 
 - **Braço Treinado.** Dobra o alcance das suas habilidades de **Herbomancia**.
 
@@ -1152,9 +1152,10 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 - **Herbomancia: Raizes Enredantes.** 2PM. área: círculo com 2sqr raio. terreno difícil e prende todos que entram.
 
 
-### Spell List
 
-List of spells available for a Plantomancer to learn.
+{{pageNumber,auto}}
+\page
+
 
 ### Spell List
 List of spells available for a  to learn.
@@ -1298,11 +1299,11 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 
 - **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
 
-- **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
 
 - **Mão na Boca.** Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pre-requisites: *FOR 13.*.
 
@@ -1415,14 +1416,6 @@ Beginning at level 2, every time you gain a level in Spelgard you gain a Witch F
 
 - **Magically Powered.** Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action.
 
-- **Defensive Spiritual Weapon.** While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense.
-
-- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
-
-- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
-
-- **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -1440,6 +1433,14 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Aura of Irradiation.** Effect: Whenever an enemy enters or starts their turn inside the aura they must make a Presence saving throw. They take 1d6 fire damage, or half on a save
 
 - **Aura of Regeneration.** Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+
+- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
+
+- **Defensive Spiritual Weapon.** While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense.
+
+- **Curar Aprimorado.** Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura
 
 - **Curar Distante.** Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual
 
@@ -1464,6 +1465,9 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre
 
 
+
+{{pageNumber,auto}}
+\page
 
 ### Spell List
 
@@ -1610,14 +1614,6 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **NOME.** Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso.
 
-- **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
-
-- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
-
-- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
-
-- **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -1634,6 +1630,14 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 - **Corpo Aberrante: Escamas.** Beast Form: *(passivo)* Você tem velocidade de nado igual a sua velocidade de movimento. *Human Form (reação):* Ganhe +5 de Defesa até o final do seu próximo turno.
 
 - **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno. Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
+
+- **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
+
+- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
+
+- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
+
+- **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 
@@ -1729,12 +1733,6 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex. Pre-requisites: *5th level witch.*.
 
-- **Cursed Knowledge.** learn 2 hexes.
-
-- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
-
-- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -1760,6 +1758,12 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+- **Cursed Knowledge.** learn 2 hexes.
+
+- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
+
+- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
 
 - **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
 
@@ -1798,6 +1802,10 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 - **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
+
+{{pageNumber,auto}}
+\page
+
 
 ### Spell List
 List of spells available for a  to learn.

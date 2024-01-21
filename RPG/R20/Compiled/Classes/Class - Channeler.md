@@ -66,12 +66,6 @@ Beginning at level 2, every time you gain a level in Channeler you gain a Witch 
 
 - **Canalização Mística.** Enquanto estiver **Canalizando**, ganha resistência a efeitos mágicos enquanto canaliza. Pre-requisites: *Canalização Defensiva*.
 
-- **Reinforçamento Mágico.** Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre.
-
-- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
-
-- **Magia Energizante.** toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -82,6 +76,12 @@ Misturando sua capacidade mágica e habilidade de invocar magias perdidas no pla
 Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao usar qualquer magia de Canalizador aplicável, usando um número de **Cargas Arcanas**. Se você possui um **Potencial Arcano**, ao final de **Invocar Feitiço** você pode escolher usar ele como modificador, usando um número de **MP**.
 
 }}
+
+- **Reinforçamento Mágico.** Ao invocar uma magia ao final de **Invocar Feitiço**, você pode lançar uma magia com alvo: pessoal e execução: completa/ação/movimento como ação livre.
+
+- **Transmutação de Mana.** Pode gastar **Carga Arcana** em vez de MP em aprimoramentos de **Invocar Feitiço**.
+
+- **Magia Energizante.** toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia.
 
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 

@@ -48,10 +48,7 @@ FEATS:
 | Garras Persistentes | Você pode usar seu ataque de garra na forma humana, mas dá 1 **Wild Die** a menos de dano. |  |
 | Garras Enormes | Aumente o multiplicador de crítico dos seus ataques em forma bestial em 1. |  |
 | NOME | Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso. |  |
-| Sangue Corrosivo | Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos). |  |
-| Garras Velozes | (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. | 3º lvl de Werebeast. |
-| Transformação Veloz | *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**. |  |
-| Transfusão Resistente | Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem. |  |
+
 
 BREAK
 CLASS_NOTE
@@ -62,6 +59,10 @@ CLASS_NOTE
 | Corpo Aberrante: Quadrupede | *Beast Form:* Dobre a sua velocidade de movimento pelo resto da cena. *Human Form: (passivo)* sua velocidade de movimento aumenta em 2sqr. |  |
 | Corpo Aberrante: Escamas | Beast Form: *(passivo)* Você tem velocidade de nado igual a sua velocidade de movimento. *Human Form (reação):* Ganhe +5 de Defesa até o final do seu próximo turno. |  |
 | Corpo Aberrante: Alado | *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno. | 1 outro poder de **Corpo Aberrante**. |
+| Sangue Corrosivo | Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos). |  |
+| Garras Velozes | (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. | 3º lvl de Werebeast. |
+| Transformação Veloz | *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**. |  |
+| Transfusão Resistente | Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem. |  |
 | Transformação Parcial | Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa. |  |
 | Garras Mortais | Seus ataques na forma bestial tem +2 de margem de ameaça. |  |
 | Mente Corrompida | Você tem resistência a efeitos mentais (INT/SEN/PRE) na forma humana. |  |

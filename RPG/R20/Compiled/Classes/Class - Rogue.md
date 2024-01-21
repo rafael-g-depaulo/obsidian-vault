@@ -64,11 +64,11 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 
 - **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
 
-- **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
 
 - **Mão na Boca.** Você recebe +2 em testes de agarrar. Quando faz um ataque furtivo contra uma criatura desprevenida, você pode fazer um teste de agarrar como uma ação livre. Se agarrar a criatura, ela não poderá falar enquanto estiver agarrada. Pre-requisites: *FOR 13.*.
 

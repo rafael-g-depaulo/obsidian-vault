@@ -76,14 +76,6 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 - **NOME.** Seus ataques bestiais dão 1 dado de dano a mais em inimigos afetados pelo seu sangue monstruoso.
 
-- **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
-
-- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
-
-- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
-
-- **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -100,6 +92,14 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 - **Corpo Aberrante: Escamas.** Beast Form: *(passivo)* Você tem velocidade de nado igual a sua velocidade de movimento. *Human Form (reação):* Ganhe +5 de Defesa até o final do seu próximo turno.
 
 - **Corpo Aberrante: Alado.** *Beast Form: (passivo)* Você tem uma velocidade de voo de 4sqr. *Human Form:* Ganhe velocidade de voo igual a sua velocidade de movimento até o final do seu próximo turno. Pre-requisites: *1 outro poder de **Corpo Aberrante**.*.
+
+- **Sangue Corrosivo.** Seu sangue monstruoso pode dar dano ácido em vez de veneno. Você pode gastar +1PM ao usar Sangue Monstruoso, e inimigos afetados tem que passar um teste de resistência CON, ou ficam cegos (podem repetir o teste no início dos seus turnos).
+
+- **Garras Velozes.** (Beast Form, ao realizar um ataque) 2PM: Faça um ataque adicional contra o mesmo alvo. Pre-requisites: *3º lvl de Werebeast.*.
+
+- **Transformação Veloz.** *Beast Form:* Você tem um bonus de velocidade de movimento igual ao seu número de **Wild Dice**.
+
+- **Transfusão Resistente.** Aliados afetados pelo seu sangue monstruoso tem vantagem no próximo teste de resistência que fizerem.
 
 - **Transformação Parcial.** Você pode gastar +2PM e usar uma habilidade de forma humana na forma bestial, ou vice-versa.
 

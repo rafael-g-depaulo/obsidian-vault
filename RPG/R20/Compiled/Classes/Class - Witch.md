@@ -73,12 +73,6 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 - **Multi-Hex.** (while casting a Hex) +2PM: target an additional creature when you cast a Hex. Pre-requisites: *5th level witch.*.
 
-- **Cursed Knowledge.** learn 2 hexes.
-
-- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
-
-- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -104,6 +98,12 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 **\*:** uma criatura pode gastar 1 ação para limpar os olhos de uma criatura cega por esse efeito. Tomar dano também quebra esse efeito.
 }}
+
+- **Cursed Knowledge.** learn 2 hexes.
+
+- **Tricky Spell.** while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. Pre-requisites: *10th level witch*.
+
+- **poder poção misteriosa 1.** Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h.
 
 - **poder poção misteriosa 2.** +1PM pra +1 efeito positivo +1 efeito negativo.
 
@@ -142,6 +142,10 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 - **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
+
+{{pageNumber,auto}}
+\page
+
 
 ### Spell List
 List of spells available for a  to learn.

@@ -66,11 +66,11 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Crítico Fortificador.** Quando acertar um ataque crítico, você ganha +2 Guts. Pre-requisites: *Crítico Paciente*.
 
-- **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Crítico Brutal.** Sua arma dá +1 dado de dano nos seus críticos de estiver de guarda alta.<br> Pre-requisites: *Crítico Paciente*.
 
 - **Crítico Poderoso.** (Guarda Alta) ao realizar um ataque crítico: Você pode realizar um Golpe Poderoso como parte do ataque atual (você ainda tem que pagar PM pelo golpe poderoso). Pre-requisites: *Crítico Paciente*.
 

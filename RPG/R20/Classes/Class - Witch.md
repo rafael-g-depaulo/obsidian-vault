@@ -52,9 +52,7 @@ FEATS:
 | NAME HERE | Advantage on CON saves to keep concentration if the save was triggered by someone affected by your Hex or Scary Look. |  |
 | Distant Hex | double the range of your Hexes. |  |
 | Multi-Hex | (while casting a Hex) +2PM: target an additional creature when you cast a Hex. | 5th level witch. |
-| Cursed Knowledge | learn 2 hexes. |  |
-| Tricky Spell | while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. | 10th level witch |
-| poder poção misteriosa 1 | Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. |  |
+
 
 BREAK
 
@@ -62,6 +60,9 @@ CLASS_NOTE
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |
+| Cursed Knowledge | learn 2 hexes. |  |
+| Tricky Spell | while casting a Spell) +2PM: Be able to change what attribute the target uses for a save. | 10th level witch |
+| poder poção misteriosa 1 | Ao final de cada descanso, ou durante tempo livre você pode escolher produzir um número de poções misteriosas, limitado pelo seu nível de Bruxa. Para cada poção produzida, 1PM e 15min de trabalho com um caldeirão são gastos. Poções misteriosas são muito voláteis, e perdem seu efeito completamente depois de 24h. |  |
 | poder poção misteriosa 2 | +1PM pra +1 efeito positivo +1 efeito negativo. |  |
 | poder poção misteriosa 3 | +1PM pra -1 efeito negativo. |  |
 | poder poção misteriosa 4 | Todo mundo pode fazer Ação: tomar até 1+PRE poções. |  |
@@ -137,6 +138,8 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 - **Hex: Suor de Slime.** The target has their movement speed halved. *Descrição:* A pele do alvo começa a secretar um pus verde fedido que atrapalha o movimento das suas pernas, e faz com que se mova de forma desajeitada.
 
 - **Hex: Pele de Palha.** Your first ally each turn that hits the target deals an extra 1d6 damage, +1d6 for each other effect you're concentrating on. *Descrição:* a pele do alvo seca e racha, revelando sua vulnerável e vermelha carne viva.
+
+{{page-break}}
 
 {{spell-list
 INCLUDE_TAGS:
