@@ -32,9 +32,10 @@ HAS_MAGIC: false
 
 FEATURES:
 
-| LEVEL | FEATURE      |
-| ----- | ------------ |
-| 5     | Extra Attack | 
+| LEVEL | FEATURE | Description |
+| ---- | ---- | ---- |
+| 5 | Extra Attack | Ao tomar a ação Atacar (ver ) |
+|  |  |  |
 
 MULTI_FEATURES:
 
