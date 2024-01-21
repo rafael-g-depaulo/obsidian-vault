@@ -1,4 +1,7 @@
-# Nome 
+# Haim Thos
+name is a reference to dead shot.
+- Haim -> "Life" in hebrew
+- Thos -> anagram of shot
 
 #### Class fighter
 
