@@ -13,7 +13,7 @@
   "newFileLocation": "current",
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
-  "vimMode": false,
+  "vimMode": true,
   "spellcheckLanguages": null,
   "userIgnoreFilters": [
     "RPG/R20/Compiled/"
