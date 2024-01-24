@@ -18,6 +18,8 @@
 - [[Campo de Força]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### 6th Circle
+- [[Blade Barrier]]
 
 ## Acid Spells
 ### Cantrip
@@ -75,6 +77,8 @@
 - [[Sopro das Uivantes]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### 6th Circle
+- [[Blade Barrier]]
 
 ## Boost Spells
 ### Cantrip
@@ -138,6 +142,8 @@
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
+### 6th Circle
+- [[Blade Barrier]]
 
 ## Curse Spells
 ### Cantrip
@@ -697,6 +703,8 @@
 - [[Soco de Arsenal]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### 6th Circle
+- [[Blade Barrier]]
 
 ## Transmutation Spells
 ### Cantrip
@@ -824,6 +832,8 @@
 - [[Campo de Força]]
 - [[Físico Divino]]
 - [[Soco de Arsenal]]
+### 6th Circle
+- [[Blade Barrier]]
 
 ## Water Spells
 ### Cantrip

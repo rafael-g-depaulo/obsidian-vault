@@ -36,9 +36,3 @@ Here's a list of all of the errors found.
 - [[Silent Image]] Spell doesn't have {{spell-defitinition}} macro
 - [[Snowball Swarm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sopro da Salvação]] Spell doesn't have {{spell-defitinition}} macro
-
-## Spell Definition Syntax
-- [[Blade Barrier]] Missing "TAGS" item
-
-## Spell Tag
-- [[Blade Barrier]] Spell should have either "wip" or "spell" tag
