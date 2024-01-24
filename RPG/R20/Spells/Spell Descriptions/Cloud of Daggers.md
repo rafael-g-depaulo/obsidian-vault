@@ -1,26 +1,20 @@
+{{spell-definition "Cloud of Dagges"
+LEVEL: 2
+CAST_TIME: padrão
+RANGE: 12sqr
+TARGET: ponto
+DURATION: Concentração
+%%CRIT: 20/2x%%
+%%TAGS:%%
 
-Cloud of Daggers
+DESCRIPTION:
+You fill the air with spinning daggers in a cube of size 1sqr, centered on a point you choose within range. A creature takes **5d4** slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
 
-Conjuration
+INCREASES:
 
-Level: **2**  
-Casting time: **1 Action**  
-Range: **60 feet**  
-Components: **V, S, M (a sliver of glass)**  
-Duration: **Concentration, up to 1 minute**
+| cost     | description                        |
+| -------- | ---------------------------------- |
+| **+1PM** | Aumente o dano em +1d4             |
+| **+1PM** | Aumente o tamanho do cubo em +1sqr | 
 
----
-
-You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
-
-#### At higher level
-
-When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
-
----
-
-Page: 222 Players Handbook
-
----
-
-A [Bard](https://www.dnd-spells.com/spells/class/Bard), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+}}
