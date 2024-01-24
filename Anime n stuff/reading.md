@@ -41,8 +41,8 @@
 - [Moon Slayer](https://zscans.com/comics/moon-slayer/6231)
 - [Return of Mount Hua](https://asuratoon.com/1398222385-return-of-the-mount-hua-sect-chapter-107/)
 - [Murim Login](https://asuratoon.com/4622438374-murim-login-chapter-183/)
-- [Reaper of the Drifting Moon](https://asuratoon.com/9260952888-reaper-of-the-drifting-moon-chapter-70/)
-- [Hoarding in Hell](https://asuratoon.com/1811707406-hoarding-in-hell-chapter-56/)
+- [Reaper of the Drifting Moon](https://asuratoon.com/1398222385-reaper-of-the-drifting-moon-chapter-71/)
+- [Hoarding in Hell](https://asuratoon.com/4622438374-hoarding-in-hell-chapter-60/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/1398222385-the-reincarnated-assassin-is-a-genius-swordsman-chapter-34/)
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
@@ -57,9 +57,9 @@
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
 - [Surviving the Game as a Barbarian](https://asuratoon.com/4622438374-surviving-the-game-as-a-barbarian-chapter-48/)
 - [Sword Fanatic Wanders Through the Night](https://asuratoon.com/1398222385-sword-fanatic-wanders-through-the-night-chapter-95/)
-
+- [Dungeon Odissey](https://asuratoon.com/1398222385-dungeon-odyssey-chapter-70/)
+- [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 ## Hiatus
-- [Dungeon Odissey](https://asuracomics.com/4533579728-dungeon-odyssey-chapter-65-s1-end/)
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
