@@ -89,7 +89,6 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
 }
 
 const makeFeaturesSection = (archetype: Archetype, classDefinition: Class) => {
-  console.log(archetype.features)
   return [...archetype.features, ...classDefinition.features]
     .sort((a, b) => a.level - b.level)
     .map(
@@ -136,8 +135,6 @@ const makeThemesSection = (
     classes.includes(classDefinition.name)
   )[0]?.[0]
 
-
-  // console.log(archetype)
   const levels = archetype.specialization_levels ?? ['4', '8']
 
   if (!themes[theme]) return ''

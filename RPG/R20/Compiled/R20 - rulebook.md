@@ -52,112 +52,112 @@ ___
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Archetypes }}{{ 6 }}](#p6)
-- #### [{{ Caster }}{{ 6 }}](#p6)
-- #### [{{ Off-Caster }}{{ 6 }}](#p6)
-- #### [{{ Specialist }}{{ 7 }}](#p7)
-- #### [{{ Martial }}{{ 7 }}](#p7)
-- ### [{{ Classes }}{{ 8 }}](#p8)
-- #### [{{ List of Classes }}{{ 8 }}](#p8)
-- #### [{{ Resumo e comparação das classes }}{{ 9 }}](#p9)
-- #### [{{ Creating a Class }}{{ 10 }}](#p10)
-- ### [{{ Alquimist (Specialist) }}{{ 11 }}](#p11)
-- ### [{{ Beast Warrior (Martial) }}{{ 12 }}](#p12)
-- ### [{{ Champion (Martial) }}{{ 14 }}](#p14)
-- ### [{{ Channeler (Caster) }}{{ 16 }}](#p16)
-- #### [{{  Spells }}{{ 18 }}](#p18)
-- ### [{{ Dancer (Specialist) }}{{ 20 }}](#p20)
-- ### [{{ Fighter (Martial) }}{{ 23 }}](#p23)
-- ### [{{ Juggernaut (Martial) }}{{ 25 }}](#p25)
-- ### [{{ Plantomancer (Caster) }}{{ 27 }}](#p27)
-- #### [{{  Spells }}{{ 29 }}](#p29)
-- ### [{{ Rogue (Specialist) }}{{ 31 }}](#p31)
-- ### [{{ Spelgard (Off-Caster) }}{{ 33 }}](#p33)
-- #### [{{  Spells }}{{ 35 }}](#p35)
-- ### [{{ Werebeast (Specialist) }}{{ 37 }}](#p37)
-- ### [{{ Witch (Caster) }}{{ 39 }}](#p39)
-- #### [{{  Spells }}{{ 41 }}](#p41)
-- ### [{{ Combat }}{{ 43 }}](#p43)
-- #### [{{ Round }}{{ 43 }}](#p43)
-- #### [{{ Combat Actions }}{{ 43 }}](#p43)
-- #### [{{ Attacking and Defending }}{{ 43 }}](#p43)
-- #### [{{ Movement }}{{ 44 }}](#p44)
-- #### [{{ Maneuvers }}{{ 44 }}](#p44)
-- #### [{{ Manobras }}{{ 44 }}](#p44)
-- #### [{{ Tamanho }}{{ 45 }}](#p45)
-- ### [{{ Origins }}{{ 46 }}](#p46)
-- #### [{{ Origin Lists }}{{ 46 }}](#p46)
-- ### [{{ Proficiency }}{{ 47 }}](#p47)
-- ### [{{ General Feats }}{{ 48 }}](#p48)
-- ### [{{ Martial Feats }}{{ 49 }}](#p49)
-- ### [{{ Caster Feats }}{{ 50 }}](#p50)
-- ### [{{ Specialist Feats }}{{ 51 }}](#p51)
-- ### [{{ Companion Feats }}{{ 52 }}](#p52)
-- ### [{{ Starting Items }}{{ 53 }}](#p53)
-- ### [{{ Carga }}{{ 54 }}](#p54)
-- #### [{{ Sobrecarga }}{{ 54 }}](#p54)
-- ### [{{ Coins }}{{ 55 }}](#p55)
-- ### [{{ Equipment }}{{ 56 }}](#p56)
-- #### [{{ Simple Weapons }}{{ 56 }}](#p56)
-- #### [{{ Martial Weapons }}{{ 56 }}](#p56)
-- #### [{{ Armor }}{{ 56 }}](#p56)
-- #### [{{ Magic Staves }}{{ 57 }}](#p57)
-- ### [{{ Consumable Items }}{{ 58 }}](#p58)
-- #### [{{ Potions }}{{ 58 }}](#p58)
-- #### [{{ Poisons }}{{ 58 }}](#p58)
+- ### [{{ Archetypes }}{{ 5 }}](#p5)
+- #### [{{ Caster }}{{ 5 }}](#p5)
+- #### [{{ Off-Caster }}{{ 5 }}](#p5)
+- #### [{{ Specialist }}{{ 6 }}](#p6)
+- #### [{{ Martial }}{{ 6 }}](#p6)
+- ### [{{ Classes }}{{ 7 }}](#p7)
+- #### [{{ List of Classes }}{{ 7 }}](#p7)
+- #### [{{ Resumo e comparação das classes }}{{ 8 }}](#p8)
+- #### [{{ Creating a Class }}{{ 9 }}](#p9)
+- ### [{{ Alquimist (Specialist) }}{{ 10 }}](#p10)
+- ### [{{ Beast Warrior (Martial) }}{{ 11 }}](#p11)
+- ### [{{ Champion (Martial) }}{{ 13 }}](#p13)
+- ### [{{ Channeler (Caster) }}{{ 15 }}](#p15)
+- #### [{{  Spells }}{{ 17 }}](#p17)
+- ### [{{ Dancer (Specialist) }}{{ 19 }}](#p19)
+- ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
+- ### [{{ Juggernaut (Martial) }}{{ 24 }}](#p24)
+- ### [{{ Plantomancer (Caster) }}{{ 26 }}](#p26)
+- #### [{{  Spells }}{{ 28 }}](#p28)
+- ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
+- ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
+- #### [{{  Spells }}{{ 34 }}](#p34)
+- ### [{{ Werebeast (Specialist) }}{{ 36 }}](#p36)
+- ### [{{ Witch (Caster) }}{{ 38 }}](#p38)
+- #### [{{  Spells }}{{ 40 }}](#p40)
+- ### [{{ Combat }}{{ 42 }}](#p42)
+- #### [{{ Round }}{{ 42 }}](#p42)
+- #### [{{ Combat Actions }}{{ 42 }}](#p42)
+- #### [{{ Attacking and Defending }}{{ 42 }}](#p42)
+- #### [{{ Movement }}{{ 43 }}](#p43)
+- #### [{{ Maneuvers }}{{ 43 }}](#p43)
+- #### [{{ Manobras }}{{ 43 }}](#p43)
+- #### [{{ Tamanho }}{{ 44 }}](#p44)
+- ### [{{ Origins }}{{ 45 }}](#p45)
+- #### [{{ Origin Lists }}{{ 45 }}](#p45)
+- ### [{{ Proficiency }}{{ 46 }}](#p46)
+- ### [{{ General Feats }}{{ 47 }}](#p47)
+- ### [{{ Martial Feats }}{{ 48 }}](#p48)
+- ### [{{ Caster Feats }}{{ 49 }}](#p49)
+- ### [{{ Specialist Feats }}{{ 50 }}](#p50)
+- ### [{{ Companion Feats }}{{ 51 }}](#p51)
+- ### [{{ Starting Items }}{{ 52 }}](#p52)
+- ### [{{ Carga }}{{ 53 }}](#p53)
+- #### [{{ Sobrecarga }}{{ 53 }}](#p53)
+- ### [{{ Coins }}{{ 54 }}](#p54)
+- ### [{{ Equipment }}{{ 55 }}](#p55)
+- #### [{{ Simple Weapons }}{{ 55 }}](#p55)
+- #### [{{ Martial Weapons }}{{ 55 }}](#p55)
+- #### [{{ Armor }}{{ 55 }}](#p55)
+- #### [{{ Magic Staves }}{{ 56 }}](#p56)
+- ### [{{ Consumable Items }}{{ 57 }}](#p57)
+- #### [{{ Potions }}{{ 57 }}](#p57)
+- #### [{{ Poisons }}{{ 57 }}](#p57)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Óleos }}{{ 59 }}](#p59)
-- ### [{{ Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Casting a Spell from a Scroll }}{{ 60 }}](#p60)
-- #### [{{ Learning a Spell from a Scroll }}{{ 60 }}](#p60)
-- #### [{{ Creating Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Buying Spell Scrolls }}{{ 60 }}](#p60)
-- #### [{{ Ideas for change }}{{ 60 }}](#p60)
-- #### [{{ Working with item levels. }}{{ 60 }}](#p60)
-- ### [{{ Magic Items }}{{ 61 }}](#p61)
-- #### [{{ Runes }}{{ 62 }}](#p62)
-- ### [{{ Crafting }}{{ 63 }}](#p63)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 63 }}](#p63)
-- #### [{{ Crafting in Bulk }}{{ 63 }}](#p63)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 63 }}](#p63)
-- ### [{{ Spells }}{{ 64 }}](#p64)
-- #### [{{ Learning Spells }}{{ 64 }}](#p64)
-- #### [{{ Prepared vs. Learned Spells }}{{ 64 }}](#p64)
-- #### [{{ Casting Spells }}{{ 64 }}](#p64)
-- #### [{{ Spell levels }}{{ 64 }}](#p64)
-- #### [{{ Spell Tags }}{{ 65 }}](#p65)
-- #### [{{ Flavor }}{{ 65 }}](#p65)
-- ### [{{ Spell Tags }}{{ 66 }}](#p66)
-- #### [{{ Tags }}{{ 66 }}](#p66)
-- ### [{{ Spell List }}{{ 67 }}](#p67)
-- #### [{{ All Spells }}{{ 67 }}](#p67)
-- ### [{{ Spells }}{{ 69 }}](#p69)
-- ### [{{ Contracts, Paladins & Entities }}{{ 104 }}](#p104)
-- #### [{{ Paladins }}{{ 104 }}](#p104)
-- #### [{{ Contract }}{{ 104 }}](#p104)
-- #### [{{ Favor }}{{ 104 }}](#p104)
-- #### [{{ Losing Favor }}{{ 104 }}](#p104)
-- #### [{{ Miracles }}{{ 104 }}](#p104)
-- ### [{{ Companions }}{{ 105 }}](#p105)
-- #### [{{ Stats }}{{ 105 }}](#p105)
-- #### [{{ Companion death }}{{ 105 }}](#p105)
-- #### [{{ Rest }}{{ 105 }}](#p105)
-- #### [{{ Companion Skills }}{{ 105 }}](#p105)
-- ### [{{ Conditions }}{{ 107 }}](#p107)
-- ### [{{ Rest & Recovery }}{{ 108 }}](#p108)
-- #### [{{ Provisions }}{{ 108 }}](#p108)
-- #### [{{ How to recover }}{{ 108 }}](#p108)
-- #### [{{ Skipping a Rest }}{{ 108 }}](#p108)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 108 }}](#p108)
-- ### [{{ Companions }}{{ 109 }}](#p109)
-- #### [{{ Stats }}{{ 109 }}](#p109)
-- #### [{{ Companion death }}{{ 109 }}](#p109)
-- #### [{{ Rest }}{{ 109 }}](#p109)
-- #### [{{ Companion Skills }}{{ 109 }}](#p109)
+- #### [{{ Óleos }}{{ 58 }}](#p58)
+- ### [{{ Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Casting a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Learning a Spell from a Scroll }}{{ 59 }}](#p59)
+- #### [{{ Creating Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Buying Spell Scrolls }}{{ 59 }}](#p59)
+- #### [{{ Ideas for change }}{{ 59 }}](#p59)
+- #### [{{ Working with item levels. }}{{ 59 }}](#p59)
+- ### [{{ Magic Items }}{{ 60 }}](#p60)
+- #### [{{ Runes }}{{ 61 }}](#p61)
+- ### [{{ Crafting }}{{ 62 }}](#p62)
+- #### [{{ Crafting Rolls and time to produce an item }}{{ 62 }}](#p62)
+- #### [{{ Crafting in Bulk }}{{ 62 }}](#p62)
+- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 62 }}](#p62)
+- ### [{{ Spells }}{{ 63 }}](#p63)
+- #### [{{ Learning Spells }}{{ 63 }}](#p63)
+- #### [{{ Prepared vs. Learned Spells }}{{ 63 }}](#p63)
+- #### [{{ Casting Spells }}{{ 63 }}](#p63)
+- #### [{{ Spell levels }}{{ 63 }}](#p63)
+- #### [{{ Spell Tags }}{{ 64 }}](#p64)
+- #### [{{ Flavor }}{{ 64 }}](#p64)
+- ### [{{ Spell Tags }}{{ 65 }}](#p65)
+- #### [{{ Tags }}{{ 65 }}](#p65)
+- ### [{{ Spell List }}{{ 66 }}](#p66)
+- #### [{{ All Spells }}{{ 66 }}](#p66)
+- ### [{{ Spells }}{{ 68 }}](#p68)
+- ### [{{ Contracts, Paladins & Entities }}{{ 103 }}](#p103)
+- #### [{{ Paladins }}{{ 103 }}](#p103)
+- #### [{{ Contract }}{{ 103 }}](#p103)
+- #### [{{ Favor }}{{ 103 }}](#p103)
+- #### [{{ Losing Favor }}{{ 103 }}](#p103)
+- #### [{{ Miracles }}{{ 103 }}](#p103)
+- ### [{{ Companions }}{{ 104 }}](#p104)
+- #### [{{ Stats }}{{ 104 }}](#p104)
+- #### [{{ Companion death }}{{ 104 }}](#p104)
+- #### [{{ Rest }}{{ 104 }}](#p104)
+- #### [{{ Companion Skills }}{{ 104 }}](#p104)
+- ### [{{ Conditions }}{{ 106 }}](#p106)
+- ### [{{ Rest & Recovery }}{{ 107 }}](#p107)
+- #### [{{ Provisions }}{{ 107 }}](#p107)
+- #### [{{ How to recover }}{{ 107 }}](#p107)
+- #### [{{ Skipping a Rest }}{{ 107 }}](#p107)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 107 }}](#p107)
+- ### [{{ Companions }}{{ 108 }}](#p108)
+- #### [{{ Stats }}{{ 108 }}](#p108)
+- #### [{{ Companion death }}{{ 108 }}](#p108)
+- #### [{{ Rest }}{{ 108 }}](#p108)
+- #### [{{ Companion Skills }}{{ 108 }}](#p108)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -222,7 +222,7 @@ An off-caster has access to all Caster Feats and all Matial Featst.
 
 ### Attacks
 - **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
-- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [[Combat Actions#Attack of Opportunity]].
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Combat Actions#Attack of Opportunity](#pundefined).
 - **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
 
 ### Spells
@@ -298,7 +298,7 @@ A character from a martial class has access to all Matial Feats.
 - **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
 - **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
 - **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
-- **Attack of Oportunity:** a Martial Character is able to perform [[Combat Actions#Attack of Opportunity]].
+- **Attack of Oportunity:** a Martial Character is able to perform [Combat Actions#Attack of Opportunity](#pundefined).
 
 <!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
 
@@ -357,7 +357,7 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
 
 #### Bard (TBI)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [[RPG/R20/Compiled/Classes/multi-form changing guy|multi-form changing guy]]
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [RPG/R20/Compiled/Classes/multi-form changing guy|multi-form changing guy](#pundefined)
 
 ### Caster Classes
 #### Witch
@@ -639,7 +639,7 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p42)), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -740,7 +740,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p42)), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -834,7 +834,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p59))
 
 **Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -962,69 +962,69 @@ List of spells available for a  to learn.
 ##  Spells
 
 ### Cantrip
-- [[Acid Splash]]
-- [[Chill Touch]]
-- [[Control Flames]]
-- [[Energy Blast]]
-- [[Fire Bolt]]
-- [[Frostbite]]
-- [[Guidance]]
-- [[Lightning Lure]]
-- [[Magic Stone]]
-- [[Message]]
-- [[Poison Spray]]
-- [[Ray of Frost]]
-- [[Resistance]]
-- [[Shape Water]]
-- [[Thunderclap]]
-- [[Toll the Dead]]
-- [[Vicious Mockery]]
+- [Acid Splash](#p68)
+- [Chill Touch](#p75)
+- [Control Flames](#p76)
+- [Energy Blast](#p79)
+- [Fire Bolt](#p82)
+- [Frostbite](#p83)
+- [Guidance](#p84)
+- [Lightning Lure](#p88)
+- [Magic Stone](#p89)
+- [Message](#p90)
+- [Poison Spray](#p92)
+- [Ray of Frost](#p94)
+- [Resistance](#p94)
+- [Shape Water](#p95)
+- [Thunderclap](#p99)
+- [Toll the Dead](#p99)
+- [Vicious Mockery](#p101)
 
 ### 1st Circle
-- [[Benção]]
-- [[Burning Hands]]
-- [[Catapult]]
-- [[Chaos Bolt]]
-- [[Despedaçar]]
-- [[Dissonant Whispers]]
-- [[Earth Tremor]]
-- [[Escuridão]]
-- [[Explosão de chamas]]
-- [[Feather Fall]]
-- [[Hellish Rebuke]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Longstrider]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Ray of Sickness]]
-- [[Thunderwave]]
-- [[Witch Bolt]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
+- [Benção](#p70)
+- [Burning Hands](#p72)
+- [Catapult](#p74)
+- [Chaos Bolt](#p74)
+- [Despedaçar](#p77)
+- [Dissonant Whispers](#p78)
+- [Earth Tremor](#p79)
+- [Escuridão](#p81)
+- [Explosão de chamas](#p81)
+- [Feather Fall](#p82)
+- [Hellish Rebuke](#p85)
+- [Imagem Espelhada](#p86)
+- [Infligir Ferimentos](#p87)
+- [Longstrider](#p88)
+- [Mage Armor](#p89)
+- [Magic Missile](#p89)
+- [Ray of Sickness](#p94)
+- [Thunderwave](#p99)
+- [Witch Bolt](#p101)
+- [Área Escorregadia](#p69){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [[Aid]]
-- [[Binding Ice]]
-- [[Blindness Deafness]]
-- [[Calm Emotions]]
-- [[Continual Flame]]
-- [[Crown of Madness]]
-- [[Explosão Sonora]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Manto de Vento]]
-- [[Maximilian's Earthen Grasp]]
-- [[Mind Whip]]
-- [[Ray of Enfeeblement]]
-- [[Scorching Ray]]
-- [[See invisibility]]
+- [Aid](#p68)
+- [Binding Ice](#p71)
+- [Blindness Deafness](#p71)
+- [Calm Emotions](#p72)
+- [Continual Flame](#p76)
+- [Crown of Madness](#p77)
+- [Explosão Sonora](#p81)
+- [Heat Metal](#p85)
+- [Hold Person](#p86)
+- [Manto de Vento](#p90)
+- [Maximilian's Earthen Grasp](#p90)
+- [Mind Whip](#p91)
+- [Ray of Enfeeblement](#p93)
+- [Scorching Ray](#p95)
+- [See invisibility](#p95)
 
 ### 3rd Circle
-- [[Flecha Ácida]]
-- [[Relâmpago]]
-- [[Sopro das Uivantes]]
+- [Flecha Ácida](#p83)
+- [Relâmpago](#p94)
+- [Sopro das Uivantes](#p97)
 
 {{pageNumber,auto}}
 \page
@@ -1207,7 +1207,7 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 
 **Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p42)), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1298,7 +1298,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 
 **Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p42)), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1328,7 +1328,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
 
-- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [[RPG/R20/Combat/Battle Maneuvers#Derrubar]])
+- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [RPG/R20/Combat/Battle Maneuvers#Derrubar](#pundefined))
 
 - **Golpe em Arco.** Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
@@ -1338,9 +1338,9 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre (e sem custo de PM). Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [[Combat Actions#Endurance]] como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [Combat Actions#Endurance](#pundefined) como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Intocável.** (Você negou um ataque com [[Combat Actions#Endurance]]) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Intocável.** (Você negou um ataque com [Combat Actions#Endurance](#pundefined)) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
 
 - **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
@@ -1402,7 +1402,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p59))
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1470,75 +1470,75 @@ List of spells available for a  to learn.
 ##  Spells
 
 ### Cantrip
-- [[Acid Splash]]
-- [[Blade Ward]]
-- [[Guidance]]
-- [[Lightning Lure]]
-- [[Magic Stone]]
-- [[Poison Spray]]
-- [[Resistance]]
-- [[Shape Water]]
-- [[Shillelagh]]
-- [[Sword Burst]]
-- [[Thorn Whip]]
-- [[Thunderclap]]
+- [Acid Splash](#p68)
+- [Blade Ward](#p71)
+- [Guidance](#p84)
+- [Lightning Lure](#p88)
+- [Magic Stone](#p89)
+- [Poison Spray](#p92)
+- [Resistance](#p94)
+- [Shape Water](#p95)
+- [Shillelagh](#p96)
+- [Sword Burst](#p98)
+- [Thorn Whip](#p98)
+- [Thunderclap](#p99)
 
 ### 1st Circle
-- [[Armor of Agathys]]
-- [[Caminhos da Natureza]]
-- [[Canhão de Ervilha]]
-- [[Catapult]]
-- [[Cause Fear]]
-- [[Charm Person]]
-- [[Compelled Duel]]
-- [[Controlar Plantas]]
-- [[Curar Ferimentos]]
-- [[Despedaçar]]
-- [[Detect Poison and Disease (Ritual)]]
-- [[Earth Tremor]]
-- [[Enfeitiçar]]
-- [[Entangle]]
-- [[Escudo]]
-- [[Feather Fall]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-- [[Hail of Thorns]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Ray of Sickness]]
-- [[Sleep]]
-- [[Thunderwave]]
-- [[Tranquilidade]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
+- [Armor of Agathys](#p69)
+- [Caminhos da Natureza](#p72)
+- [Canhão de Ervilha](#p73)
+- [Catapult](#p74)
+- [Cause Fear](#p74)
+- [Charm Person](#p74)
+- [Compelled Duel](#p75)
+- [Controlar Plantas](#p76)
+- [Curar Ferimentos](#p77)
+- [Despedaçar](#p77)
+- [Detect Poison and Disease (Ritual)](#p78)
+- [Earth Tremor](#p79)
+- [Enfeitiçar](#p79)
+- [Entangle](#p80)
+- [Escudo](#p80)
+- [Feather Fall](#p82)
+- [Fog Cloud](#p83)
+- [Goodberry](#p84)
+- [Hail of Thorns](#p85)
+- [Mage Armor](#p89)
+- [Magic Missile](#p89)
+- [Ray of Sickness](#p94)
+- [Sleep](#p96)
+- [Thunderwave](#p99)
+- [Tranquilidade](#p100)
+- [Área Escorregadia](#p69){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [[Barkskin]]
-- [[Blindness Deafness]]
-- [[Calm Emotions]]
-- [[Crown of Madness]]
-- [[Darkvision]]
-- [[Earthbind]]
-- [[Enlarge/Reduce]]
-- [[Explosão Sonora]]
-- [[Flechas Sentinelas]]
-- [[Hold Person]]
-- [[Laço Protetor]]
-- [[Lesser Restoration]]
-- [[Manto de Vento]]
-- [[Maximilian's Earthen Grasp]]
-- [[Mind Whip]]
-- [[Ray of Enfeeblement]]
-- [[See invisibility]]
-- [[Spike Growth]]
-- [[Sugestion]]
+- [Barkskin](#p70)
+- [Blindness Deafness](#p71)
+- [Calm Emotions](#p72)
+- [Crown of Madness](#p77)
+- [Darkvision](#p77)
+- [Earthbind](#p79)
+- [Enlarge/Reduce](#p80)
+- [Explosão Sonora](#p81)
+- [Flechas Sentinelas](#p83)
+- [Hold Person](#p86)
+- [Laço Protetor](#p87)
+- [Lesser Restoration](#p87)
+- [Manto de Vento](#p90)
+- [Maximilian's Earthen Grasp](#p90)
+- [Mind Whip](#p91)
+- [Ray of Enfeeblement](#p93)
+- [See invisibility](#p95)
+- [Spike Growth](#p97)
+- [Sugestion](#p97)
 
 ### 3rd Circle
-- [[Campo de Força]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Sopro das Uivantes]]
+- [Campo de Força](#p73)
+- [Flecha Ácida](#p83)
+- [Físico Divino](#p82)
+- [Sopro das Uivantes](#p97)
 
 {{pageNumber,auto}}
 \page
@@ -1707,7 +1707,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p42)), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1786,62 +1786,62 @@ List of spells available for a  to learn.
 ##  Spells
 
 ### Cantrip
-- [[Acid Splash]]
-- [[Blade Ward]]
-- [[Energy Blast]]
-- [[Fire Bolt]]
-- [[Green Flame Blade]]
-- [[Guidance]]
-- [[Poison Spray]]
-- [[Ray of Frost]]
-- [[Resistance]]
-- [[Sword Burst]]
-- [[Word of Radiance]]
+- [Acid Splash](#p68)
+- [Blade Ward](#p71)
+- [Energy Blast](#p79)
+- [Fire Bolt](#p82)
+- [Green Flame Blade](#p84)
+- [Guidance](#p84)
+- [Poison Spray](#p92)
+- [Ray of Frost](#p94)
+- [Resistance](#p94)
+- [Sword Burst](#p98)
+- [Word of Radiance](#p102)
 
 ### 1st Circle
-- [[Arma Mágica]]
-- [[Armor of Agathys]]
-- [[Benção]]
-- [[Burning Hands]]
-- [[Chaos Bolt]]
-- [[Concentração de Combate]]
-- [[Curar Ferimentos]]
-- [[Detect Poison and Disease (Ritual)]]
-- [[Detectar Ameaças]]
-- [[Divine Favor]]
-- [[Escudo]]
-- [[Explosão de chamas]]
-- [[Guiding Bolt]]
-- [[Healing Word]]
-- [[Longstrider]]
-- [[Mage Armor]]
-- [[Magic Missile]]
-- [[Primor Atlético]]
-- [[Ray of Sickness]]
-- [[Searing Smite]]
-- [[Thunderous Smite]]
-- [[Toque Chocante]]
-- [[Witch Bolt]]
-- [[Zephyr Strike]]{{pageNumber,auto}}
+- [Arma Mágica](#p69)
+- [Armor of Agathys](#p69)
+- [Benção](#p70)
+- [Burning Hands](#p72)
+- [Chaos Bolt](#p74)
+- [Concentração de Combate](#p75)
+- [Curar Ferimentos](#p77)
+- [Detect Poison and Disease (Ritual)](#p78)
+- [Detectar Ameaças](#p78)
+- [Divine Favor](#p78)
+- [Escudo](#p80)
+- [Explosão de chamas](#p81)
+- [Guiding Bolt](#p84)
+- [Healing Word](#p85)
+- [Longstrider](#p88)
+- [Mage Armor](#p89)
+- [Magic Missile](#p89)
+- [Primor Atlético](#p93)
+- [Ray of Sickness](#p94)
+- [Searing Smite](#p95)
+- [Thunderous Smite](#p99)
+- [Toque Chocante](#p100)
+- [Witch Bolt](#p101)
+- [Zephyr Strike](#p102){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [[Aid]]
-- [[Binding Ice]]
-- [[Continual Flame]]
-- [[Darkvision]]
-- [[Enhance Ability]]
-- [[Enlarge/Reduce]]
-- [[Flame Blade]]
-- [[Flechas Sentinelas]]
-- [[Laço Protetor]]
-- [[Lesser Restoration]]
-- [[Moonbeam]]
-- [[Prayer of Healing]]
-- [[Scorching Ray]]
-- [[See invisibility]]
-- [[Spider Climb]]
+- [Aid](#p68)
+- [Binding Ice](#p71)
+- [Continual Flame](#p76)
+- [Darkvision](#p77)
+- [Enhance Ability](#p80)
+- [Enlarge/Reduce](#p80)
+- [Flame Blade](#p82)
+- [Flechas Sentinelas](#p83)
+- [Laço Protetor](#p87)
+- [Lesser Restoration](#p87)
+- [Moonbeam](#p91)
+- [Prayer of Healing](#p92)
+- [Scorching Ray](#p95)
+- [See invisibility](#p95)
+- [Spider Climb](#p97)
 
 {{pageNumber,auto}}
 \page
@@ -2012,7 +2012,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]])
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p59))
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
@@ -2120,59 +2120,59 @@ List of spells available for a  to learn.
 ##  Spells
 
 ### Cantrip
-- [[Booming Blade]]
-- [[Chill Touch]]
-- [[Control Flames]]
-- [[Frostbite]]
-- [[Infestation]]
-- [[Minor Ilusion]]
-- [[Toll the Dead]]
-- [[Vicious Mockery]]
+- [Booming Blade](#p72)
+- [Chill Touch](#p75)
+- [Control Flames](#p76)
+- [Frostbite](#p83)
+- [Infestation](#p86)
+- [Minor Ilusion](#p91)
+- [Toll the Dead](#p99)
+- [Vicious Mockery](#p101)
 
 ### 1st Circle
-- [[Bane]]
-- [[Casca da Cigarra]]
-- [[Cause Fear]]
-- [[Chaos Bolt]]
-- [[Command]]
-- [[Curar Ferimentos]]
-- [[Detect Poison and Disease (Ritual)]]
-- [[Dissonant Whispers]]
-- [[Escuridão]]
-- [[Fog Cloud]]
-- [[Healing Word]]
-- [[Hellish Rebuke]]
-- [[Hideous Laughter]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Luz]]
-- [[Perdição]]
-- [[Ray of Sickness]]
-- [[Sleep]]
-- [[Snare]]
-- [[Tentacle Twister]]{{pageNumber,auto}}
+- [Bane](#p69)
+- [Casca da Cigarra](#p73)
+- [Cause Fear](#p74)
+- [Chaos Bolt](#p74)
+- [Command](#p75)
+- [Curar Ferimentos](#p77)
+- [Detect Poison and Disease (Ritual)](#p78)
+- [Dissonant Whispers](#p78)
+- [Escuridão](#p81)
+- [Fog Cloud](#p83)
+- [Healing Word](#p85)
+- [Hellish Rebuke](#p85)
+- [Hideous Laughter](#p86)
+- [Imagem Espelhada](#p86)
+- [Infligir Ferimentos](#p87)
+- [Luz](#p88)
+- [Perdição](#p92)
+- [Ray of Sickness](#p94)
+- [Sleep](#p96)
+- [Snare](#p96)
+- [Tentacle Twister](#p98){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [[Blindness Deafness]]
-- [[Crown of Madness]]
-- [[Earthbind]]
-- [[Hold Person]]
-- [[Lesser Restoration]]
-- [[Pass Without a Trace]]
-- [[Prayer of Healing]]
-- [[Ray of Enfeeblement]]
-- [[Wither and Bloom ]]
+- [Blindness Deafness](#p71)
+- [Crown of Madness](#p77)
+- [Earthbind](#p79)
+- [Hold Person](#p86)
+- [Lesser Restoration](#p87)
+- [Pass Without a Trace](#p92)
+- [Prayer of Healing](#p92)
+- [Ray of Enfeeblement](#p93)
+- [Wither and Bloom ](#p101)
 
 ### 3rd Circle
-- [[Camuflagem ilusória]]
-- [[Flecha Ácida]]
-- [[Invisibilidade]]
-- [[Life Transference]]
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Toque Vampírico]]
+- [Camuflagem ilusória](#p73)
+- [Flecha Ácida](#p83)
+- [Invisibilidade](#p87)
+- [Life Transference](#p88)
+- [Mass Healing Word](#p90)
+- [Oração](#p91)
+- [Toque Vampírico](#p100)
 
 
 
@@ -2210,19 +2210,19 @@ If your character has the ability to do so, they can perform an attack of opport
 **Ataque de Oportunidade**: (Um inimigo sai do seu alcance corpo-a-corpo) Reação: Você realiza um ataque corpo-a-corpo contra esse inimigo.
 
 ### Movement
-During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [[Movement]]). 
+During their turn, a character can spend their movement action to move up to their movement speed. (to calculate PC's movement speed, check [Movement](#p43)). 
 
 ### Dash
 Any character can use their Major Action in combat to perform another movement action.
 
 ### Attack
-Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [[Maneuvers]]
+Any character can use their Major Action in combat to perform the Attack Action. When doing so, they can perform a melee or ranged attack (unarmed or with a weapon they are wielding), or perform a [Maneuvers](#p43)
 
 
 ## Attacking and Defending
 ### Attacking
 ##### Physical Attacks
-To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [[RPG/R20/Proficiency]] bonus for your current level (copy of the proficiency table included at the end of the page).
+To make a physical attack you first roll to hit. If you're proficient with the weapon being used, you add your [RPG/R20/Proficiency](#pundefined) bonus for your current level (copy of the proficiency table included at the end of the page).
 
 If making a melee attack:
   - **1d20 + proficiency bonus + Strength modifier**
@@ -2286,14 +2286,14 @@ The formula for a character's Guard is:
 
 - **Equipment bonus + Constituition modifier**
 
-Besides contributing to a character's Defense, Guard also allows them to use [[Combat Actions#Endurance]].
+Besides contributing to a character's Defense, Guard also allows them to use [Combat Actions#Endurance](#pundefined).
 
 ##### Dodge
 The formula for a character's Dodge is:
 
 - **Equipment bonus + Dexterity modifier**
 
-Besides contributing to a character's Defense, Dodge also allows them to use [[Combat Actions#Uncanny Dodge]].
+Besides contributing to a character's Defense, Dodge also allows them to use [Combat Actions#Uncanny Dodge](#pundefined).
 
 
 ## Movement
@@ -2313,7 +2313,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [[Conditions]]). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p106)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -3316,7 +3316,7 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 |      9      |      15      |
 
 ## Spell Tags
-All spells have one or more tags where they fit. The spell [[Toque Chocante]], for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
+All spells have one or more tags where they fit. The spell [Toque Chocante](#p100), for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
 
 For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
 
@@ -3412,156 +3412,156 @@ List of spells available for a All to learn.
 ## All Spells
 
 ### Cantrip
-- [[Acid Splash]]
-- [[Blade Ward]]
-- [[Booming Blade]]
-- [[Chill Touch]]
-- [[Control Flames]]
-- [[Create Bonfire]]
-- [[Energy Blast]]
-- [[Fire Bolt]]
-- [[Frostbite]]
-- [[Green Flame Blade]]
-- [[Guidance]]
-- [[Infestation]]
-- [[Lightning Lure]]
-- [[Magic Stone]]
-- [[Message]]
-- [[Minor Ilusion]]
-- [[Poison Spray]]
-- [[Primal Savagery]]
-- [[Ray of Frost]]
-- [[Resistance]]
-- [[Shape Water]]
-- [[Shillelagh]]
-- [[Sword Burst]]
-- [[Thorn Whip]]
-- [[Thunderclap]]
-- [[Toll the Dead]]
-- [[Vicious Mockery]]
-- [[Word of Radiance]]
+- [Acid Splash](#p68)
+- [Blade Ward](#p71)
+- [Booming Blade](#p72)
+- [Chill Touch](#p75)
+- [Control Flames](#p76)
+- [Create Bonfire](#p76)
+- [Energy Blast](#p79)
+- [Fire Bolt](#p82)
+- [Frostbite](#p83)
+- [Green Flame Blade](#p84)
+- [Guidance](#p84)
+- [Infestation](#p86)
+- [Lightning Lure](#p88)
+- [Magic Stone](#p89)
+- [Message](#p90)
+- [Minor Ilusion](#p91)
+- [Poison Spray](#p92)
+- [Primal Savagery](#p93)
+- [Ray of Frost](#p94)
+- [Resistance](#p94)
+- [Shape Water](#p95)
+- [Shillelagh](#p96)
+- [Sword Burst](#p98)
+- [Thorn Whip](#p98)
+- [Thunderclap](#p99)
+- [Toll the Dead](#p99)
+- [Vicious Mockery](#p101)
+- [Word of Radiance](#p102)
 
 ### 1st Circle
-- [[Abençoar Alimentos]]
-- [[Animal Friendship]]
-- [[Arma Mágica]]
-- [[Armor of Agathys]]
-- [[Bane]]
-- [[Beast Bont]]
-- [[Benção]]
-- [[Burning Hands]]
-- [[Caminhos da Natureza]]
-- [[Canhão de Ervilha]]
-- [[Casca da Cigarra]]
-- [[Catapult]]
-- [[Cause Fear]]
-- [[Chaos Bolt]]
-- [[Charm Person]]
-- [[Command]]
-- [[Compelled Duel]]
-- [[Concentração de Combate]]
-- [[Controlar Plantas]]
-- [[Curar Ferimentos]]
-- [[Despedaçar]]
-- [[Detect Poison and Disease (Ritual)]]
-- [[Detectar Ameaças]]
-- [[Dissonant Whispers]]
-- [[Divine Favor]]
-- [[Earth Tremor]]
-- [[Enfeitiçar]]
-- [[Entangle]]
-- [[Escudo]]
-- [[Escuridão]]
-- [[Explosão de chamas]]
-- [[Feather Fall]]
-- [[Fog Cloud]]
-- [[Goodberry]]
-- [[Guiding Bolt]]
-- [[Hail of Thorns]]
-- [[Healing Word]]
-- [[Hellish Rebuke]]
-- [[Hideous Laughter]]
-- [[Imagem Espelhada]]
-- [[Infligir Ferimentos]]
-- [[Longstrider]]
-- [[Luz]]
-- [[Mage Armor]]
-- [[Mage Hand]]
-- [[Magic Missile]]
-- [[Perdição]]
-- [[Primor Atlético]]
-- [[Ray of Sickness]]
-- [[Searing Smite]]
-- [[Sleep]]
-- [[Snare]]
-- [[Teia]]
-- [[Tentacle Twister]]
-- [[Thunderous Smite]]
-- [[Thunderwave]]
-- [[Toque Chocante]]
-- [[Tranquilidade]]
-- [[Witch Bolt]]
-- [[Zephyr Strike]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
+- [Abençoar Alimentos](#p68)
+- [Animal Friendship](#p68)
+- [Arma Mágica](#p69)
+- [Armor of Agathys](#p69)
+- [Bane](#p69)
+- [Beast Bont](#p70)
+- [Benção](#p70)
+- [Burning Hands](#p72)
+- [Caminhos da Natureza](#p72)
+- [Canhão de Ervilha](#p73)
+- [Casca da Cigarra](#p73)
+- [Catapult](#p74)
+- [Cause Fear](#p74)
+- [Chaos Bolt](#p74)
+- [Charm Person](#p74)
+- [Command](#p75)
+- [Compelled Duel](#p75)
+- [Concentração de Combate](#p75)
+- [Controlar Plantas](#p76)
+- [Curar Ferimentos](#p77)
+- [Despedaçar](#p77)
+- [Detect Poison and Disease (Ritual)](#p78)
+- [Detectar Ameaças](#p78)
+- [Dissonant Whispers](#p78)
+- [Divine Favor](#p78)
+- [Earth Tremor](#p79)
+- [Enfeitiçar](#p79)
+- [Entangle](#p80)
+- [Escudo](#p80)
+- [Escuridão](#p81)
+- [Explosão de chamas](#p81)
+- [Feather Fall](#p82)
+- [Fog Cloud](#p83)
+- [Goodberry](#p84)
+- [Guiding Bolt](#p84)
+- [Hail of Thorns](#p85)
+- [Healing Word](#p85)
+- [Hellish Rebuke](#p85)
+- [Hideous Laughter](#p86)
+- [Imagem Espelhada](#p86)
+- [Infligir Ferimentos](#p87)
+- [Longstrider](#p88)
+- [Luz](#p88)
+- [Mage Armor](#p89)
+- [Mage Hand](#p89)
+- [Magic Missile](#p89)
+- [Perdição](#p92)
+- [Primor Atlético](#p93)
+- [Ray of Sickness](#p94)
+- [Searing Smite](#p95)
+- [Sleep](#p96)
+- [Snare](#p96)
+- [Teia](#p98)
+- [Tentacle Twister](#p98)
+- [Thunderous Smite](#p99)
+- [Thunderwave](#p99)
+- [Toque Chocante](#p100)
+- [Tranquilidade](#p100)
+- [Witch Bolt](#p101)
+- [Zephyr Strike](#p102)
+- [Área Escorregadia](#p69){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [[Aid]]
-- [[Barkskin]]
-- [[Beast Sense]]
-- [[Binding Ice]]
-- [[Blindness Deafness]]
-- [[Calm Emotions]]
-- [[Continual Flame]]
-- [[Crown of Madness]]
-- [[Darkvision]]
-- [[Earthbind]]
-- [[Enhance Ability]]
-- [[Enlarge/Reduce]]
-- [[Explosão Sonora]]
-- [[Flame Blade]]
-- [[Flechas Sentinelas]]
-- [[Heat Metal]]
-- [[Hold Person]]
-- [[Laço Protetor]]
-- [[Lesser Restoration]]
-- [[Manto de Vento]]
-- [[Maximilian's Earthen Grasp]]
-- [[Mind Whip]]
-- [[Moonbeam]]
-- [[Pass Without a Trace]]
-- [[Prayer of Healing]]
-- [[Ray of Enfeeblement]]
-- [[Scorching Ray]]
-- [[See invisibility]]
-- [[Spider Climb]]
-- [[Spike Growth]]
-- [[Sugestion]]
-- [[Web]]
-- [[Wither and Bloom ]]
+- [Aid](#p68)
+- [Barkskin](#p70)
+- [Beast Sense](#p70)
+- [Binding Ice](#p71)
+- [Blindness Deafness](#p71)
+- [Calm Emotions](#p72)
+- [Continual Flame](#p76)
+- [Crown of Madness](#p77)
+- [Darkvision](#p77)
+- [Earthbind](#p79)
+- [Enhance Ability](#p80)
+- [Enlarge/Reduce](#p80)
+- [Explosão Sonora](#p81)
+- [Flame Blade](#p82)
+- [Flechas Sentinelas](#p83)
+- [Heat Metal](#p85)
+- [Hold Person](#p86)
+- [Laço Protetor](#p87)
+- [Lesser Restoration](#p87)
+- [Manto de Vento](#p90)
+- [Maximilian's Earthen Grasp](#p90)
+- [Mind Whip](#p91)
+- [Moonbeam](#p91)
+- [Pass Without a Trace](#p92)
+- [Prayer of Healing](#p92)
+- [Ray of Enfeeblement](#p93)
+- [Scorching Ray](#p95)
+- [See invisibility](#p95)
+- [Spider Climb](#p97)
+- [Spike Growth](#p97)
+- [Sugestion](#p97)
+- [Web](#p101)
+- [Wither and Bloom ](#p101)
 
 ### 3rd Circle
-- [[Campo de Força]]
-- [[Camuflagem ilusória]]
-- [[Espelho do Pântano]]
-- [[Flecha Ácida]]
-- [[Físico Divino]]
-- [[Invisibilidade]]
-- [[Life Transference]]
-- [[Mass Healing Word]]
-- [[Oração]]
-- [[Raio Solar]]
-- [[Relâmpago]]
-- [[Soco de Arsenal]]
-- [[Sopro das Uivantes]]
-- [[Toque Vampírico]]
+- [Campo de Força](#p73)
+- [Camuflagem ilusória](#p73)
+- [Espelho do Pântano](#p81)
+- [Flecha Ácida](#p83)
+- [Físico Divino](#p82)
+- [Invisibilidade](#p87)
+- [Life Transference](#p88)
+- [Mass Healing Word](#p90)
+- [Oração](#p91)
+- [Raio Solar](#p93)
+- [Relâmpago](#p94)
+- [Soco de Arsenal](#p96)
+- [Sopro das Uivantes](#p97)
+- [Toque Vampírico](#p100)
 
 ### 5th Circle
-- [[Transformação de Guerra]]
+- [Transformação de Guerra](#p100)
 
 ### 6th Circle
-- [[Blade Barrier]]
+- [Blade Barrier](#p71)
 
 {{pageNumber,auto}}
 \page
@@ -5977,7 +5977,7 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
 ### Agarrado (Grapple)
-The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [[RPG/R20/Combat/Battle Maneuvers]])
+The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [RPG/R20/Combat/Battle Maneuvers](#pundefined))
 
 
 {{pageNumber,auto}}

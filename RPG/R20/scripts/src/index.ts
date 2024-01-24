@@ -13,6 +13,7 @@ import { readSpells } from './spell'
 import { parseTagRules, TagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
 import { validateSpells } from './validateSpell'
+import { getPostProcessInfo, postProcess } from './postProcessing'
 
 // config
 const baseDir = join(__dirname, '../../')
@@ -103,7 +104,7 @@ const parseContent = async () => {
 const compileBook = async (
   { allSpells, classSpellListRules }: Content,
   compileDeps: CompileRulesDeps
-) => {
+): Promise<string> => {
   // write all spells
   writeToFile(
     CompiledSpelllistsFolder,
@@ -146,16 +147,8 @@ const compileBook = async (
     )
   )
 
-  // compileSummary()  
-  //   .then(summary => writeToFile(CompiledFolder, summaryFile, summary))
-
   // compile all rules
-  compileRules(rootRulesFile, compileDeps).then(compiledRules => {
-    writeToFile(CompiledFolder, rulebookFile, compiledRules)
-    // const tableOfContents = /{{toc,.*}}/.exec(compiledRules)?.[0]
-    // console.log(tableOfContents)
-  }
-  )
+  return compileRules(rootRulesFile, compileDeps)
 }
 
 // read, analyse and compile stuff
@@ -173,11 +166,12 @@ const main = async () => {
     classThemes,
   }
 
-  await compileBook({ allSpells, classSpellListRules, archetypes, classThemes }, deps)
+  const ruleBookRawContent = await compileBook({ allSpells, classSpellListRules, archetypes, classThemes }, deps)
+  const postProcessedBook = postProcess(ruleBookRawContent, getPostProcessInfo(ruleBookRawContent))
+
+  await writeToFile(CompiledFolder, rulebookFile, postProcessedBook)
 }
 
 // run everything
 main()
-// auto compile classes and character sheets
 
-// TODO: implement error warning for a spell description file without a spell definition

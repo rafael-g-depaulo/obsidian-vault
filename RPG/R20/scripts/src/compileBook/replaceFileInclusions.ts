@@ -13,14 +13,14 @@ export const parsePath = (currentFolder: string, markdownLink: string) => {
   return searchPathRecursively(currentFolder, `${link}.md`)
 }
 
-export const makeLinksGlobal = (currentFolder: string) => (content: string) =>
+export const makeInclusionsGlobal = (currentFolder: string) => (content: string) =>
   replaceAsync(content, markdownLinkRegex, matchStr =>
     parsePath(currentFolder, matchStr).then(s => {
       return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
     })
   )
 
-export const replaceLinks = (
+export const replaceFileInclusions = (
   deps: CompileRulesDeps
 ): ((content: string) => Promise<string>) =>
   replaceMacroAsync('rewrite', macro =>

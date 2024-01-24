@@ -15,7 +15,7 @@ import { replaceClasses } from './replaceClasses'
 import { replaceClassNotes } from './replaceClassNotes'
 import { replaceClassSpellLists } from './replaceClassSpellLists'
 import { replaceGlobalSpellList } from './replaceGlobalSpellList'
-import { makeLinksGlobal, replaceLinks } from './replaceLinks'
+import { makeInclusionsGlobal, replaceFileInclusions } from './replaceFileInclusions'
 import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 import { replaceVerticalSpacers } from './replaceSpacers'
 import { replaceSpellDefinition } from './replaceSpellDefinition'
@@ -38,8 +38,8 @@ export const processContent = (deps: CompileRulesDeps) =>
   asyncPipe(
     removeComments,
     removeDevComments,
-    makeLinksGlobal(deps.currentFolder),
-    replaceLinks(deps),
+    makeInclusionsGlobal(deps.currentFolder),
+    replaceFileInclusions(deps),
     replaceClasses(deps),
     replaceClassDefinition(deps),
     replaceClassNotes,

@@ -2,7 +2,6 @@
 Here's a list of all of the errors found.
 
 ## Spell file without a definition
-- [[Cloud of Daggers]] Spell doesn't have {{spell-defitinition}} macro
 - [[Contagion]] Spell doesn't have {{spell-defitinition}} macro
 - [[Dawn]] Spell doesn't have {{spell-defitinition}} macro
 - [[Desintegrar]] Spell doesn't have {{spell-defitinition}} macro
@@ -31,8 +30,18 @@ Here's a list of all of the errors found.
 - [[Revivify]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sanctuary]] Spell doesn't have {{spell-defitinition}} macro
 - [[Shadow Blade]] Spell doesn't have {{spell-defitinition}} macro
-- [[Shatter]] Spell doesn't have {{spell-defitinition}} macro
-- [[Silence]] Spell doesn't have {{spell-defitinition}} macro
-- [[Silent Image]] Spell doesn't have {{spell-defitinition}} macro
-- [[Snowball Swarm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Sopro da Salvação]] Spell doesn't have {{spell-defitinition}} macro
+
+## Spell Definition Syntax
+- [[Cloud of Dagges]] Missing "TAGS" item
+- [[Shatter]] Missing "TAGS" item
+- [[Silence]] Missing "TAGS" item
+- [[Silent Image]] Missing "TAGS" item
+- [[Snowball Swarm]] Missing "TAGS" item
+
+## Spell Tag
+- [[Cloud of Dagges]] Spell should have either "wip" or "spell" tag
+- [[Shatter]] Spell should have either "wip" or "spell" tag
+- [[Silence]] Spell should have either "wip" or "spell" tag
+- [[Silent Image]] Spell should have either "wip" or "spell" tag
+- [[Snowball Swarm]] Spell should have either "wip" or "spell" tag

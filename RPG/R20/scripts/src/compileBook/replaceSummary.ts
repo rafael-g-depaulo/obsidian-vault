@@ -42,7 +42,7 @@ const pageCounter = (lines: string[]): PagedHeading[] => {
           ],
         }
       },
-      { headings: [], currentPage: 5 }
+      { headings: [], currentPage: 4 }
     )
     .headings // that arent h3 or below
     .filter(h => h.line !== '\\page')
