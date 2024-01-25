@@ -55,7 +55,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 **Faísca Mágica: Poder.** (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
 
 ### Channeler Feats
 Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
@@ -203,12 +203,14 @@ List of spells available for a  to learn.
 - [[Explosão de chamas]]
 - [[Feather Fall]]
 - [[Hellish Rebuke]]
+- [[Heroism]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
 - [[Ray of Sickness]]
+- [[Silent Image]]
 - [[Thunderwave]]
 - [[Witch Bolt]]
 - [[Área Escorregadia]]{{pageNumber,auto}}
@@ -225,12 +227,15 @@ List of spells available for a  to learn.
 - [[Explosão Sonora]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Magic Mouth]]
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[Scorching Ray]]
 - [[See invisibility]]
+- [[Silence]]
+- [[Snowball Swarm]]
 
 ### 3rd Circle
 - [[Flecha Ácida]]

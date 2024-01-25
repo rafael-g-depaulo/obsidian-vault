@@ -1,23 +1,24 @@
+{{spell-definition "Misty Step"
+LEVEL: 2
+CAST_TIME: Livre
+TARGET: self
+DURATION: imediata
+%%CRIT: 20/2x%%
+RESISTANCE: DEX
+TAGS:
+- #spell 
+- #wind 
+- #water 
+- #nature 
+- #summon 
+- #wild
 
-
-# Misty Step
-
-Conjuration
-
-Level: **2**  
-Casting time: **1 Bonus Action**  
-Range: **Self**  
-Components: **V**  
-Duration: **Instantaneous**
-
----
-
+DESCRIPTION:
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
----
+INCREASES:
+| cost | description |
+| ---- | ----------- |
+|      |             |
 
-Page: 260 Players Handbook
-
----
-
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Warlock](https://www.dnd-spells.com/spells/class/Warlock), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+}}

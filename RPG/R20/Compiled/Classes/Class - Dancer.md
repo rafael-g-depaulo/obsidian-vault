@@ -47,7 +47,7 @@
 **Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.

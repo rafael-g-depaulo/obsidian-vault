@@ -5,7 +5,12 @@ RANGE: 12sqr
 TARGET: ponto
 DURATION: Concentração
 %%CRIT: 20/2x%%
-%%TAGS:%%
+TAGS:
+- #spell
+- #creation 
+- #arcane 
+- #warmagic 
+- #thaumaturgy 
 
 DESCRIPTION:
 You fill the air with spinning daggers in a cube of size 1sqr, centered on a point you choose within range. A creature takes **5d4** slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.

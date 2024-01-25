@@ -436,7 +436,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 **Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 ### Champion Feats
 Beginning at level 2, every time you gain a level in Champion you gain a Witch Feat. You may instead of a Champion feat take a Martial or General Feat of your choice.
@@ -537,7 +537,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 **Faísca Mágica: Poder.** (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+A partir do nível 2, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
 
 ### Channeler Feats
 Beginning at level 2, every time you gain a level in Channeler you gain a Witch Feat. You may instead of a Channeler feat take a Caster or General Feat of your choice.
@@ -685,12 +685,14 @@ List of spells available for a  to learn.
 - [[Explosão de chamas]]
 - [[Feather Fall]]
 - [[Hellish Rebuke]]
+- [[Heroism]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
 - [[Ray of Sickness]]
+- [[Silent Image]]
 - [[Thunderwave]]
 - [[Witch Bolt]]
 - [[Área Escorregadia]]{{pageNumber,auto}}
@@ -707,12 +709,15 @@ List of spells available for a  to learn.
 - [[Explosão Sonora]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Magic Mouth]]
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[Scorching Ray]]
 - [[See invisibility]]
+- [[Silence]]
+- [[Snowball Swarm]]
 
 ### 3rd Circle
 - [[Flecha Ácida]]
@@ -768,7 +773,7 @@ List of spells available for a  to learn.
 **Dança Ilusória.** Você ganha+3 de Evasão (+2 se usando armadura) até o início do seu próximo turno na primeira vez na rodada que você gasta **Passos de Vento**.
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+A partir do nível 1, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
 
 ### Dancer Feats
 Beginning at level 2, every time you gain a level in Dancer you gain a Witch Feat. You may instead of a Dancer feat take a Specialist or General Feat of your choice.
@@ -903,7 +908,7 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 **Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.
@@ -994,7 +999,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 **Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 ### Juggernaut Feats
 Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch Feat. You may instead of a Juggernaut feat take a Martial or General Feat of your choice.
@@ -1196,9 +1201,11 @@ List of spells available for a  to learn.
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Hail of Thorns]]
+- [[Heroism]]
 - [[Mage Armor]]
 - [[Magic Missile]]
 - [[Ray of Sickness]]
+- [[Sanctuary]]
 - [[Sleep]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
@@ -1210,12 +1217,14 @@ List of spells available for a  to learn.
 - [[Barkskin]]
 - [[Blindness Deafness]]
 - [[Calm Emotions]]
+- [[Cloud of Dagges]]
 - [[Crown of Madness]]
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Enlarge/Reduce]]
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
+- [[Healing Spirit]]
 - [[Hold Person]]
 - [[Laço Protetor]]
 - [[Lesser Restoration]]
@@ -1224,6 +1233,7 @@ List of spells available for a  to learn.
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[See invisibility]]
+- [[Snowball Swarm]]
 - [[Spike Growth]]
 - [[Sugestion]]
 
@@ -1280,7 +1290,7 @@ List of spells available for a  to learn.
 **Ataque Ardiloso (Cunning Strike).** No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
 
 ### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
@@ -1403,7 +1413,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 **Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
-A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
 
 ### Spelgard Feats
 Beginning at level 2, every time you gain a level in Spelgard you gain a Witch Feat. You may instead of a Spelgard feat take a Off-Caster or General Feat of your choice.
@@ -1522,12 +1532,14 @@ List of spells available for a  to learn.
 ### 2nd Circle
 - [[Aid]]
 - [[Binding Ice]]
+- [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Ice Knife]]
 - [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
@@ -1712,7 +1724,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 **Witch's Focus.** With your experience (and particular focus) in long term curses and boons, you can focus on many ongoing magical effects at once. You can concentrate on 2 effects at once instead of 1. This increases by 1 when you reach 6th, 10th and 14th level, respectively. (OBS: _you still need to pay 1PM/turn for each effect you're concentrating on_).
 
 ### Especialização
-A partir do nível 2, escolha uma perícia entre **Persuasão, Enganação, Intimidação, Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
+A partir do nível 2, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
 
 ### Witch Feats
 Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat. You may instead of a Witch feat take a Caster or General Feat of your choice.
@@ -1841,6 +1853,7 @@ List of spells available for a  to learn.
 - [[Luz]]
 - [[Perdição]]
 - [[Ray of Sickness]]
+- [[Silent Image]]
 - [[Sleep]]
 - [[Snare]]
 - [[Tentacle Twister]]{{pageNumber,auto}}
@@ -1851,11 +1864,13 @@ List of spells available for a  to learn.
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
+- [[Healing Spirit]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Shadow Blade]]
 - [[Wither and Bloom ]]
 
 ### 3rd Circle

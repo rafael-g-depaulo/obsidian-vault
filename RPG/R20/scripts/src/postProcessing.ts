@@ -42,13 +42,16 @@ export const getPostProcessInfo = (content: string): PostProcessInfo => {
 }
 
 export const postProcess = (content: string, info: PostProcessInfo) => {
-  const getLinkName = (link: string) => link.slice(2, -2)
+  const getLinkName = (link: string) => /\[\[(?:.*#)?(?<Section>.+)\]\]/.exec(link)?.groups?.Section ?? link
   return content
     .replaceAll(
       /\[\[.+\]\]/g,
-      subs =>
-        `[${getLinkName(subs)}](#p${info.headings[getLinkName(subs)]?.page
-        })`
+      subs => {
+        return `[${getLinkName(subs)}](#p${info.headings[getLinkName(subs)]?.page
+          })`
+      }
     )
+
+
 
 }

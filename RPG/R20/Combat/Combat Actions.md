@@ -9,7 +9,7 @@ English
 OBS: the DM may rule that any specific instance of damage may or may not ignore Endurance depending on the situation, at their discretion.
 %%
 
-**Ignorar Arranhões:** Movimento (2PM): Pelo resto da cena, todo dano que você tomar igual ou inferior a sua **Guarda** é ignorado. **Ignorar Arranhões** não é aplicado em dano psíquico, "DoT" ou dano ambiental (estar em chamas, andar em ácido, sangramento, etc.)
+**Ignorar Arranhões:** Movimento (2PM): Pelo resto da cena, todo dano que você tomar igual ou inferior a sua **Guarda** (limitado por seu nível \* 2 + 2) é ignorado. **Ignorar Arranhões** não é aplicado em dano psíquico, "DoT" ou dano ambiental (estar em chamas, andar em ácido, sangramento, etc.).
 
 ### Uncanny Dodge
 Below is the definition of the Uncanny Dodge ability, that all characters can perform:

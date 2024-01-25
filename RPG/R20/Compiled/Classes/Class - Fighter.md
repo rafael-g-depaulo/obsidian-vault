@@ -47,7 +47,7 @@
 **Extra Attack.** Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
-A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia, Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
+A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
 
 ### Fighter Feats
 Beginning at level 2, every time you gain a level in Fighter you gain a Witch Feat. You may instead of a Fighter feat take a Martial or General Feat of your choice.

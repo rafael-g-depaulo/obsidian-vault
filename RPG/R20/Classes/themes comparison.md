@@ -14,8 +14,8 @@ This section exists mostly to let me organize and categorize the classes with si
 | Theme | Classes | Skills |
 | ---- | ---- | ---- |
 | NATURE | Werebeast, Beast Warrior, Plantomancer | Natureza, Adestramento, Arcana e Sobrevivência |
-| KNOWLEDGE | Alchemist, Fighter, Spelgard, Wordsmith | História, Medicina, Empatia, Lógica |
-| LONER | Rogue, Juggernaut, Channeler | Intuição, Percepção, Investigação, Sobrevivência |
-| CHARM | Dancer, Champion, Bard, Witch | Persuasão, Enganação, Intimidação, Performance |
+| KNOWLEDGE | Alchemist, Fighter, Spelgard, Wordsmith | História, Medicina, Empatia e Lógica |
+| LONER | Rogue, Juggernaut, Channeler | Intuição, Percepção, Investigação e Sobrevivência |
+| CHARM | Dancer, Champion, Bard, Witch | Persuasão, Enganação, Intimidação e Performance |
 
 }}

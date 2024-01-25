@@ -32,6 +32,7 @@ List of spells available for a Witch to learn.
 - [[Luz]]
 - [[Perdição]]
 - [[Ray of Sickness]]
+- [[Silent Image]]
 - [[Sleep]]
 - [[Snare]]
 - [[Tentacle Twister]]{{pageNumber,auto}}
@@ -42,11 +43,13 @@ List of spells available for a Witch to learn.
 - [[Blindness Deafness]]
 - [[Crown of Madness]]
 - [[Earthbind]]
+- [[Healing Spirit]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
 - [[Pass Without a Trace]]
 - [[Prayer of Healing]]
 - [[Ray of Enfeeblement]]
+- [[Shadow Blade]]
 - [[Wither and Bloom ]]
 
 ### 3rd Circle
@@ -359,6 +362,21 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 - **+2PM:** aumente o dano em 1d6.
 
+### Healing Spirit (2 MP)
+<div class="spell-tags">recovery sacred summon wild</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 quadrado 1sqr
+- **Duração:** imediata
+___
+
+You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice). Until the spell ends, whenever you or a creature you can see moves into the spirits space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can’t heal constructs or undead. As a bonus action on your turn, you can move the Spirit up to 30 feet to a space you can see.
+
+- **:** .{{pageNumber,auto}}
+\page
+
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
 
@@ -371,8 +389,7 @@ ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
-\page
+- **+3 PM:** muda o casting para reação.
 
 ### Hellish Rebuke (1 MP)
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
@@ -418,7 +435,8 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.
+- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
+\page
 
 ### Imagem Espelhada (1 MP)
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
@@ -433,8 +451,7 @@ ___
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
 - **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2)..
-- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..{{pageNumber,auto}}
-\page
+- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..
 
 ### Infestation (0 MP)
 <div class="spell-tags">summon wild unholy occult</div>
@@ -483,7 +500,8 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura ou 1 objeto..
 - **+3 PM:** muda a duração para cena. Requer 5º círculo..
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
-- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..
+- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..{{pageNumber,auto}}
+\page
 
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
@@ -496,8 +514,7 @@ ___
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Life Transference (3 MP)
 <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
@@ -541,7 +558,8 @@ As you call out words of restoration equal to 1d4 + your spellcasting ability mo
 
 - **+1 PM:** aumenta o alcanse em 1 passo.
 - **+2 PM:** aumenta a cura em 1d4.
-- **+2 PM:** aumenta o número de alvos em 2.
+- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
+\page
 
 ### Minor Ilusion (0 MP)
 <div class="spell-tags">ilusion trickery</div>
@@ -561,8 +579,7 @@ If you create an image of an object such as a chair, muddy footprints, or a smal
   
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Oração (3 MP)
 <div class="spell-tags">sacred boost occult holy curse enchantment trickery speech</div>
@@ -609,7 +626,8 @@ ___
 
 Amaldiçoa os alvos, que recebem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
-- **+2 PM:** aumenta as penalidades em –1.
+- **+2 PM:** aumenta as penalidades em –1.{{pageNumber,auto}}
+\page
 
 ### Prayer of Healing (2 MP)
 <div class="spell-tags">speech holy recovery sacred no-trickery</div>
@@ -623,8 +641,7 @@ ___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
-- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
@@ -657,6 +674,43 @@ A ray of sickening greenish energy lashes out toward a creature within range. Ma
 
 
 
+### Shadow Blade (2 MP)
+<div class="spell-tags">unholy occult warmagic thaumaturgy psyquic energy</div>
+
+*2nd Circle*
+- **Execução:** movimento
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** cena
+- **Resistência:** DEX
+___
+
+You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60), and has 18/2x crit. In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage. 
+
+If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
+
+- **:** .{{pageNumber,auto}}
+\page
+
+### Silent Image (1 MP)
+<div class="spell-tags">ilusion trickery creation arcane</div>
+
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** 1 criatura
+- **Duração:** cena
+- **Resistência:** DEX
+___
+
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
+
+You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
+
+
+
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -682,8 +736,7 @@ ___
 
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Tentacle Twister (1 MP)
 <div class="spell-tags">occult unholy summon wild</div>
@@ -699,7 +752,8 @@ You invoke the power of Hadar, the Dark Hunger.
 Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.
+- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
+\page
 
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
@@ -745,8 +799,7 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
-\page
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
 
 ### Wither and Bloom  (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>

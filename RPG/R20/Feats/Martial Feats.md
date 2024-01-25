@@ -25,11 +25,12 @@
 **Estilo de Uma Arma.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados). *Pré-requisito*: treinado em Luta.
 
 **Ataque Preciso.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na margem de ameaça e +1 no multiplicador de crítico. *Pré-requisito*: Estilo de Uma Arma.
-
+%% 
 **Estilo de Duas Armas.** Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se você possuir Ambidestria, não sofre essa penalidade. *Pré-requisito*: Des 15, treinado em Luta.
 
 **Arma Secundária grande.** Você pode usar duas armas de uma mão com o poder Estilo de Duas Armas. *Pré-requisito*: Estilo de Duas Armas.
-
+ %%
+ 
 **Estilo de Arremesso.** Você pode sacar armas de arremesso como uma ação livre e recebe +2 nas rolagens de dano com elas.
 
 **Disparo Preciso.** Você pode fazer ataques à distância contra oponentes envolvidos em combate corpo a corpo sem sofrer a penalidade padrão de –5 no teste de ataque.

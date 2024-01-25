@@ -47,12 +47,14 @@ List of spells available for a Spelgard to learn.
 ### 2nd Circle
 - [[Aid]]
 - [[Binding Ice]]
+- [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Ice Knife]]
 - [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
@@ -212,6 +214,21 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 
 
 
+### Cloud of Dagges (2 MP)
+<div class="spell-tags">creation arcane warmagic thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** ponto
+- **Duração:** Concentração
+___
+
+You fill the air with spinning daggers in a cube of size 1sqr, centered on a point you choose within range. A creature takes **5d4** slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
+
+- ****+1PM**:** Aumente o dano em +1d4.
+- ****+1PM**:** Aumente o tamanho do cubo em +1sqr.
+
 ### Concentração de Combate (1 MP)
 <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
@@ -240,7 +257,8 @@ ___
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
 The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Curar Ferimentos (1 MP)
 <div class="spell-tags">recovery sacred</div>
@@ -257,8 +275,7 @@ Você canaliza energia positiva que recupera 2d8+2 pontos de vida na criatura to
 - **+1 PM:** aumenta a cura em +1d8+1..
 - **+2 PM:** também remove uma condição de adiga do alvo..
 - **+2 PM:** muda o alcance para curto..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
-\page
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
 
 ### Darkvision (2 MP)
 <div class="spell-tags">holy divination transmutation sacred arcane boost</div>
@@ -304,7 +321,8 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
+\page
 
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
@@ -317,8 +335,7 @@ ___
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d6 radiant damage on a hit.
 
-- **+2PM:** +1d6 damage.{{pageNumber,auto}}
-\page
+- **+2PM:** +1d6 damage.
 
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
@@ -368,7 +385,8 @@ You cause a creature or an object you can see within range to grow larger or sma
   
 **Reduce**. The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
-
+{{pageNumber,auto}}
+\page
 
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
@@ -386,8 +404,7 @@ Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo r
 - **+1 PM:** também fornece ao alvo camuflagem contra ataques à distância..
 - **+2 PM:** aumenta o bônus na Defesa em +1..
 - **+2 PM:** muda a execução para ação padrão, o alcance para toque e a duração para cena. A magia cria uma conexão mística entre você e o alvo. Além do efeito normal, o alvo sofre apenas metade do dano por ataques e efeitos; a outra metade do dano é transferida a você. Se a qualquer momento o alvo sair de alcance curto de você, a magia é dissipada. Requer 2º círculo..
-- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..{{pageNumber,auto}}
-\page
+- **+3 PM:** muda a duração para 1 dia. Requer 2º círculo..
 
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
@@ -437,7 +454,8 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 - **+2PM:** +1d6 dano.
 - **+2PM:** +1 acerto com ataque com a espada.
-- **+1PM:** +1 margem de ameaça.
+- **+1PM:** +1 margem de ameaça.{{pageNumber,auto}}
+\page
 
 ### Flechas Sentinelas (2 MP)
 <div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
@@ -452,8 +470,7 @@ ___
 
 You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 6sqr of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
 
-- **+1PM:** +1 flecha.{{pageNumber,auto}}
-\page
+- **+1PM:** +1 flecha.
 
 ### Green Flame Blade (0 MP)
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
@@ -497,7 +514,8 @@ A flash of light streaks toward a creature of your choice within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
 - **+1 PM:** aumenta o dano em +1d6.
-- **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..
+- **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..{{pageNumber,auto}}
+\page
 
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
@@ -511,8 +529,23 @@ ___
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
-\page
+- **+3 PM:** muda o casting para reação.
+
+### Ice Knife (2 MP)
+<div class="spell-tags">elemental cold warmagic thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 6sqr
+- **Alvo:** 1 criatura
+- **Duração:** imediata
+- **Crítico:** 17/3x
+- **Resistência:** DEX
+___
+
+You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 1d6 cold damage.
+
+- **:** .
 
 ### Laço Protetor (2 MP)
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
@@ -543,7 +576,8 @@ ___
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -572,8 +606,7 @@ ___
 
 You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target gains +2 Defense. The spell ends it if the target dons armor or if you dismiss the spell as an action.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Magic Missile (1 MP)
 <div class="spell-tags">creation arcane evocation thaumaturgy energy force</div>
@@ -608,7 +641,8 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use a movement action to move the beam up to 60 feet in any direction.
 
-- **+2:** aumente o dano em +1d10.
+- **+2:** aumente o dano em +1d10.{{pageNumber,auto}}
+\page
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -635,8 +669,7 @@ ___
 Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
-- **+2 PM:** aumenta o número de alvos em 2.{{pageNumber,auto}}
-\page
+- **+2 PM:** aumenta o número de alvos em 2.
 
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
@@ -667,7 +700,8 @@ ___
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-- **+2PM:** increase the damage by +1d8.
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
 
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
@@ -694,8 +728,7 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
@@ -728,7 +761,8 @@ The next time you hit a creature with a melee weapon attack during the spell’s
   
 At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, it takes 1d6 fire damage. On a successful save, the spells ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the spell ends.
 
-- **+1PM:** aumente o dano inicial em +1d6.
+- **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
+\page
 
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
@@ -755,8 +789,7 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Sword Burst (0 MP)
 <div class="spell-tags">creation warmagic thaumaturgy arcane</div>
@@ -783,7 +816,8 @@ ___
 
 The first time you hit with a melee weapon attack during this spell’s duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
 
-- **+1PM:** Aumenta o dano inicial em +1d6.
+- **+1PM:** Aumenta o dano inicial em +1d6.{{pageNumber,auto}}
+\page
 
 ### Toque Chocante (1 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
@@ -813,8 +847,7 @@ ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
-- **+1PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
-\page
+- **+1PM:** increase the initial damage by +1d12.
 
 ### Word of Radiance (0 MP)
 <div class="spell-tags">holy sacred radiant energy speech no-trickery</div>

@@ -8,6 +8,7 @@
 - [[Escudo]]
 - [[Imagem Espelhada]]
 - [[Mage Armor]]
+- [[Sanctuary]]
 ### 2nd Circle
 - [[Barkskin]]
 - [[Enhance Ability]]
@@ -17,6 +18,7 @@
 ### 3rd Circle
 - [[Campo de Força]]
 ### 5th Circle
+- [[Pele de Pedra]]
 - [[Transformação de Guerra]]
 ### 6th Circle
 - [[Blade Barrier]]
@@ -50,12 +52,14 @@
 - [[Fog Cloud]]
 - [[Luz]]
 - [[Magic Missile]]
+- [[Silent Image]]
 - [[Teia]]
 - [[Thunderwave]]
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Beast Sense]]
 - [[Blindness Deafness]]
+- [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
@@ -64,9 +68,12 @@
 - [[Flechas Sentinelas]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Magic Mouth]]
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[See invisibility]]
+- [[Silence]]
+- [[Snowball Swarm]]
 - [[Spider Climb]]
 - [[Spike Growth]]
 - [[Web]]
@@ -89,9 +96,11 @@
 - [[Benção]]
 - [[Concentração de Combate]]
 - [[Escudo]]
+- [[Heroism]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Primor Atlético]]
+- [[Sanctuary]]
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Aid]]
@@ -120,6 +129,8 @@
 - [[Chaos Bolt]]
 ### 2nd Circle
 - [[Binding Ice]]
+- [[Ice Knife]]
+- [[Snowball Swarm]]
 ### 3rd Circle
 - [[Sopro das Uivantes]]
 
@@ -132,11 +143,14 @@
 - [[Fog Cloud]]
 - [[Luz]]
 - [[Magic Missile]]
+- [[Silent Image]]
 - [[Teia]]
 - [[Área Escorregadia]]
 ### 2nd Circle
+- [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Maximilian's Earthen Grasp]]
+- [[Snowball Swarm]]
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
@@ -199,6 +213,7 @@
 ### 2nd Circle
 - [[Beast Sense]]
 - [[Darkvision]]
+- [[Magic Mouth]]
 - [[See invisibility]]
 ### 3rd Circle
 - [[Espelho do Pântano]]
@@ -211,6 +226,8 @@
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
+### 5th Circle
+- [[Pele de Pedra]]
 
 ## Elemental Spells
 ### Cantrip
@@ -238,7 +255,9 @@
 - [[Continual Flame]]
 - [[Flame Blade]]
 - [[Heat Metal]]
+- [[Ice Knife]]
 - [[Scorching Ray]]
+- [[Snowball Swarm]]
 ### 3rd Circle
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
@@ -254,7 +273,9 @@
 - [[Compelled Duel]]
 - [[Controlar Plantas]]
 - [[Enfeitiçar]]
+- [[Heroism]]
 - [[Hideous Laughter]]
+- [[Sanctuary]]
 - [[Sleep]]
 - [[Tranquilidade]]
 ### 2nd Circle
@@ -283,6 +304,7 @@
 - [[Crown of Madness]]
 - [[Mind Whip]]
 - [[Moonbeam]]
+- [[Shadow Blade]]
 
 ## Evocation Spells
 ### Cantrip
@@ -362,6 +384,7 @@
 - [[Divine Favor]]
 - [[Guiding Bolt]]
 - [[Luz]]
+- [[Sanctuary]]
 ### 2nd Circle
 - [[Darkvision]]
 - [[Lesser Restoration]]
@@ -380,6 +403,7 @@
 - [[Escuridão]]
 - [[Imagem Espelhada]]
 - [[Luz]]
+- [[Silent Image]]
 - [[Snare]]
 - [[Snare]]
 ### 2nd Circle
@@ -418,10 +442,14 @@
 - [[Explosão Sonora]]
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
+- [[Misty Step]]
+- [[Shatter]]
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
+### 5th Circle
+- [[Pele de Pedra]]
 
 ## Necromancy Spells
 ### 1st Circle
@@ -508,6 +536,7 @@
 - [[Earthbind]]
 - [[Hold Person]]
 - [[Ray of Enfeeblement]]
+- [[Shadow Blade]]
 - [[Wither and Bloom ]]
 ### 3rd Circle
 - [[Flecha Ácida]]
@@ -545,6 +574,7 @@
 ### 2nd Circle
 - [[Crown of Madness]]
 - [[Mind Whip]]
+- [[Shadow Blade]]
 
 ## Radiant Spells
 ### Cantrip
@@ -560,6 +590,7 @@
 - [[Detect Poison and Disease (Ritual)]]
 - [[Healing Word]]
 ### 2nd Circle
+- [[Healing Spirit]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
 - [[Wither and Bloom ]]
@@ -583,10 +614,12 @@
 - [[Escudo]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
+- [[Heroism]]
 - [[Longstrider]]
 - [[Luz]]
 - [[Mage Armor]]
 - [[Primor Atlético]]
+- [[Sanctuary]]
 ### 2nd Circle
 - [[Aid]]
 - [[Barkskin]]
@@ -594,6 +627,7 @@
 - [[Darkvision]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
+- [[Healing Spirit]]
 - [[Laço Protetor]]
 - [[Lesser Restoration]]
 - [[Moonbeam]]
@@ -622,7 +656,10 @@
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 ### 2nd Circle
+- [[Magic Mouth]]
 - [[Prayer of Healing]]
+- [[Shatter]]
+- [[Silence]]
 ### 3rd Circle
 - [[Mass Healing Word]]
 - [[Oração]]
@@ -638,6 +675,9 @@
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Tentacle Twister]]
+### 2nd Circle
+- [[Healing Spirit]]
+- [[Misty Step]]
 ### 3rd Circle
 - [[Espelho do Pântano]]
 - [[Soco de Arsenal]]
@@ -677,6 +717,7 @@
 - [[Magic Missile]]
 - [[Primor Atlético]]
 - [[Ray of Sickness]]
+- [[Sanctuary]]
 - [[Searing Smite]]
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
@@ -685,16 +726,19 @@
 ### 2nd Circle
 - [[Barkskin]]
 - [[Binding Ice]]
+- [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Continual Flame]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Ice Knife]]
 - [[Laço Protetor]]
 - [[Manto de Vento]]
 - [[Pass Without a Trace]]
 - [[Scorching Ray]]
+- [[Shadow Blade]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Flecha Ácida]]
@@ -702,6 +746,7 @@
 - [[Relâmpago]]
 - [[Soco de Arsenal]]
 ### 5th Circle
+- [[Pele de Pedra]]
 - [[Transformação de Guerra]]
 ### 6th Circle
 - [[Blade Barrier]]
@@ -727,7 +772,9 @@
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Heat Metal]]
+- [[Magic Mouth]]
 - [[Manto de Vento]]
+- [[Silence]]
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Físico Divino]]
@@ -753,10 +800,13 @@
 - [[Entangle]]
 - [[Escuridão]]
 - [[Hellish Rebuke]]
+- [[Heroism]]
 - [[Hideous Laughter]]
 - [[Imagem Espelhada]]
 - [[Luz]]
 - [[Mage Hand]]
+- [[Sanctuary]]
+- [[Silent Image]]
 - [[Sleep]]
 - [[Snare]]
 - [[Tranquilidade]]
@@ -768,9 +818,12 @@
 - [[Earthbind]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Magic Mouth]]
 - [[Mind Whip]]
 - [[Pass Without a Trace]]
 - [[Ray of Enfeeblement]]
+- [[Shatter]]
+- [[Silence]]
 - [[Sugestion]]
 - [[Web]]
 ### 3rd Circle
@@ -794,6 +847,7 @@
 ### 2nd Circle
 - [[Crown of Madness]]
 - [[Ray of Enfeeblement]]
+- [[Shadow Blade]]
 - [[Wither and Bloom ]]
 ### 3rd Circle
 - [[Life Transference]]
@@ -823,15 +877,20 @@
 - [[Zephyr Strike]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Cloud of Dagges]]
 - [[Enhance Ability]]
 - [[Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
+- [[Ice Knife]]
 - [[Laço Protetor]]
+- [[Shadow Blade]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
 - [[Soco de Arsenal]]
+### 5th Circle
+- [[Pele de Pedra]]
 ### 6th Circle
 - [[Blade Barrier]]
 
@@ -840,6 +899,8 @@
 - [[Shape Water]]
 ### 1st Circle
 - [[Área Escorregadia]]
+### 2nd Circle
+- [[Misty Step]]
 
 ## Wild Spells
 ### Cantrip
@@ -867,6 +928,8 @@
 - [[Barkskin]]
 - [[Beast Sense]]
 - [[Enhance Ability]]
+- [[Healing Spirit]]
+- [[Misty Step]]
 - [[Moonbeam]]
 - [[Pass Without a Trace]]
 - [[Spider Climb]]
@@ -894,6 +957,8 @@
 - [[Earthbind]]
 - [[Explosão Sonora]]
 - [[Manto de Vento]]
+- [[Misty Step]]
+- [[Shatter]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]

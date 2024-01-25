@@ -1,4 +1,4 @@
-{{spell-definition "SPELL_NAME_HERE "
+{{spell-definition "SPELL_NAME_HERE"
 LEVEL: 2
 CAST_TIME: padrão
 RANGE: 6sqr

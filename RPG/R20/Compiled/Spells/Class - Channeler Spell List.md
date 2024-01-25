@@ -34,12 +34,14 @@ List of spells available for a Channeler to learn.
 - [[Explosão de chamas]]
 - [[Feather Fall]]
 - [[Hellish Rebuke]]
+- [[Heroism]]
 - [[Imagem Espelhada]]
 - [[Infligir Ferimentos]]
 - [[Longstrider]]
 - [[Mage Armor]]
 - [[Magic Missile]]
 - [[Ray of Sickness]]
+- [[Silent Image]]
 - [[Thunderwave]]
 - [[Witch Bolt]]
 - [[Área Escorregadia]]{{pageNumber,auto}}
@@ -56,12 +58,15 @@ List of spells available for a Channeler to learn.
 - [[Explosão Sonora]]
 - [[Heat Metal]]
 - [[Hold Person]]
+- [[Magic Mouth]]
 - [[Manto de Vento]]
 - [[Maximilian's Earthen Grasp]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[Scorching Ray]]
 - [[See invisibility]]
+- [[Silence]]
+- [[Snowball Swarm]]
 
 ### 3rd Circle
 - [[Flecha Ácida]]
@@ -531,6 +536,21 @@ Em resposta a uma criatura te ferir. You point your finger, and the creature tha
 - **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
 \page
 
+### Heroism (1 MP)
+<div class="spell-tags">boost sacred enchantment trickery</div>
+
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** toque
+- **Alvo:** 1 criatura
+- **Duração:** concentração
+___
+
+A willing creature you touch is imbued with bravery.  
+Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
+
+- **:** .
+
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -577,7 +597,8 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
 - **+2 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
 
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
@@ -592,8 +613,7 @@ ___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
 The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **+2PM:** increase damage by +1d8.{{pageNumber,auto}}
-\page
+- **+2PM:** increase damage by +1d8.
 
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
@@ -636,7 +656,28 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
+\page
+
+### Magic Mouth (2 MP)
+<div class="spell-tags">speech trickery arcane divination transmutation</div>
+
+*2nd Circle*
+- **Execução:** 1 minuto
+- **Alcance:** 6sqr
+- **Alvo:** um objeto
+- **Duração:** indefinida
+- **Resistência:** DEX
+___
+
+You implant a message within an object in range, a message that is uttered when a trigger condition is met.  
+Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
+
+When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that words appear to come from the object’s mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeats its message whenever the trigger occurs.
+
+The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
+
+- **:** .
 
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
@@ -651,8 +692,7 @@ ___
 You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged attack (DEX) with one of the pebbles by throwing it or hurling it with a sling. If thrown, a pebble has a range of 12sqr. On a hit, the target takes bludgeoning damage equal to 1d6 + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 - **+3 PM:** Increase the damage by 1d6..
-- **+1 PM:** Increase the number of pebbles by 1..{{pageNumber,auto}}
-\page
+- **+1 PM:** Increase the number of pebbles by 1..
 
 ### Manto de Vento (2 MP)
 <div class="spell-tags">wind nature abjuration thaumaturgy transmutation arcane</div>
@@ -685,7 +725,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.
+- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
+\page
 
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
@@ -716,8 +757,7 @@ ___
 
 You psychically lash out at one creature you can see within range. The target must make an Intelligence saving throw. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must spend it's movement action trying to resist the confusion. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 
-- **+1:** +1d6.{{pageNumber,auto}}
-\page
+- **+1:** +1d6.
 
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
@@ -748,7 +788,8 @@ Make a ranged spell attack against the target. On a hit, the target deals only h
   
 At the end of each of the target’s turns, it can make a Constitution saving throw against the spell. On a success, the spell ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
@@ -775,8 +816,7 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
@@ -805,7 +845,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-
+{{pageNumber,auto}}
+\page
 
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
@@ -836,8 +877,7 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
+
 
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
@@ -862,6 +902,56 @@ You choose an area of water that you can see within range and that fits within a
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
 
+
+### Silence (2 MP)
+<div class="spell-tags">speech trickery transmutation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 30sqr
+- **Alvo:** Ponto
+- **Duração:** Concentração
+- **Resistência:** DEX
+___
+
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+
+- **:** .{{pageNumber,auto}}
+\page
+
+### Silent Image (1 MP)
+<div class="spell-tags">ilusion trickery creation arcane</div>
+
+*1st Circle*
+- **Execução:** padrão
+- **Alcance:** 12sqr
+- **Alvo:** 1 criatura
+- **Duração:** cena
+- **Resistência:** DEX
+___
+
+You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
+
+You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+
+Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
+
+
+
+### Snowball Swarm (2 MP)
+<div class="spell-tags">cold elemental creation arcane</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** 18sqr
+- **Alvo:** ponto
+- **Duração:** imediata
+- **Resistência:** DEX
+___
+
+Uma pequena tempestade de granizo e neve atinge um quadrado de tamanho 2sqr centrado no ponto escolhido. Todas as criaturas dentro tomam 4d6 dano de gelo, ou metade se passarem no teste de resistência.
+
+- ****+1PM**:** +1d6 dano.
 
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
@@ -892,7 +982,8 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.
+- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
+\page
 
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
@@ -907,8 +998,7 @@ A wave of thunderous force sweeps out from you.
 Each creature in a 3sqr-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d6 bludgeoning damage and is pushed 2sqr away from you. On a successful save, the creature takes half as much damage and isn’t pushed.
 
 - **+2PM:** increse the size of the cube by 1sqr..
-- **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
-\page
+- **+1PM:** increase the damage by 1d6..
 
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>

@@ -33,7 +33,7 @@ OBS2: it's possible for a spell to belong to a group without belonging to one of
   - #enchantment
   - #speech
 - #thaumaturgy (general attack stuff + defense)
-  - #warmagic (self buffs, weapon attacks. stuff that a fighter would like)
+  - #warmagic (self buffs, weapon attacks, summoning blades and shit. stuff that a fighter would like)
   - #evocation
   - #abjuration
 - #wild

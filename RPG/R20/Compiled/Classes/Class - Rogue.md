@@ -45,7 +45,7 @@
 **Ataque Ardiloso (Cunning Strike).** No nível 3 você aprende 2 **Ataques Ardilosos** a sua escolha. a cada 4 níveis você aprende outro **Ataque Ardiloso** a sua escolha. Cada vez que você sobe de nível pode trocar um dos Ataques Ardilosos que você sabe por outro
 
 ### Especialização
-A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação, Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
+A partir do nível 1, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 5, escolha uma perícia adicional.
 
 ### Rogue Feats
 Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat. You may instead of a Rogue feat take a Specialist or General Feat of your choice.
