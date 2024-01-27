@@ -53,7 +53,7 @@ FEATS:
 | Arma Espiritual teleguiada | O alcanse inicial da sua Arma Espiritual aumenta para 6 quadrados (9m). |  |
 | Spiritual Strike | You can spend a movement action and 1 PM to use a Spiritual Weapon Attack | 5th level Spelgard |
 | Spiritual Magic | Whenever you cast a Spell or Ability with a range of touch or self, you can cast it through your Spiritual Weapon. (isso inclui curar pelas mãos e auras)<br> |  |
-| Magically Powered | Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action. |  |
+
 
 
 %%
@@ -74,6 +74,7 @@ CLASS_NOTE
 | Defensive Spiritual Weapon | While your Spiritual Weapon is adjacent to an ally, that ally has +2 to their defense. |  |
 | Curar Aprimorado | Quando usar Curar Pelas Mãos, você adiciona o seu modificador de Sensibilidade no total da cura |  |
 | Curar Distante | Quando usar Curar Pelas Mãos, você pode gastar +1PM para aumentar o alcanse de toque para curto. Você também pode usar Curar Pelas Mãos pela sua Arma Espiritual |  |
+| Magically Powered | Whenver you cast a spell of first circle or higher, you can spend another 2PM to perform a Spiritual Weapon Attack as a free action. |  |
 | Multi-Aura | You can have multiple auras active at once |  |
 | Defensive Aura | You and your allies have +1 Defense while affected by one of your auras |  |
 | Weakening Aura | Non-allies have disadvantage to resist your spells and abilities while inside one of your auras |  |
@@ -95,9 +96,6 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 }}
 
 {{page-break}}
-### Spell List
-
-List of spells available for a Spelgard to learn.
 
 {{spell-list
 INCLUDE_TAGS:

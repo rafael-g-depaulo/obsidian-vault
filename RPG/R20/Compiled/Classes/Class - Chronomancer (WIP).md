@@ -1,3 +1,6 @@
+{{pageNumber,auto}}
+\page
+
 
 ideas change initiative of self (cost and buff) and others (buff and debuff)
 

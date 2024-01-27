@@ -143,14 +143,16 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 {{spell-list
 INCLUDE_TAGS:
-	- occult
-	- wild
-	- ilusion
-	- boost
-	- recovery
-	- trickery
+- occult
+- wild
+- ilusion
+- boost
+- recovery
+- trickery
+
 EXCLUDE_TAGS:
-	- holy
-	- warmagic
+- holy
+- warmagic
+- for some reason this needs at least 3 tags, but its okay to exclude something that doesnt exist like this
 }}
 

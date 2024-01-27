@@ -31,7 +31,7 @@ export const getPostProcessInfo = (content: string): PostProcessInfo => {
       )
       .lines.filter(({ line }) => line.startsWith('#'))
       .map(({ line, page }) => [
-        line.slice(getHeadingLevel(line) + 1).replace(/ \(\d+ MP\)/, ""),
+        line.slice(getHeadingLevel(line) + 1).replace(/ \(\d+ MP\)/, ''),
         { level: getHeadingLevel(line), page },
       ])
   )
@@ -42,16 +42,12 @@ export const getPostProcessInfo = (content: string): PostProcessInfo => {
 }
 
 export const postProcess = (content: string, info: PostProcessInfo) => {
-  const getLinkName = (link: string) => /\[\[(?:.*#)?(?<Section>.+)\]\]/.exec(link)?.groups?.Section ?? link
-  return content
-    .replaceAll(
-      /\[\[.+\]\]/g,
-      subs => {
-        return `[${getLinkName(subs)}](#p${info.headings[getLinkName(subs)]?.page
-          })`
-      }
-    )
+  const getLinkName = (link: string) =>
+    /\[\[(?<FilePath>(?:\w+\/)*)(?<SuperTitulo>.*#)?(?<Section>.+)\]\]/.exec(
+      link
+    )?.groups?.Section ?? link
 
-
-
+  return content.replaceAll(/\[\[.+\]\]/g, subs => {
+    return `[${getLinkName(subs)}](#p${info.headings[getLinkName(subs)]?.page})`
+  })
 }

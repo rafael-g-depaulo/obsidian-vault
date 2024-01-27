@@ -1,5 +1,8 @@
 {{pageNumber,auto}}
 \page
+
+{{pageNumber,auto}}
+\page
 # Dancer (Specialist)
 
 <style>.page#p1:after{ display:none; }</style>

@@ -2,7 +2,9 @@ import { join } from 'path'
 import { Archetype, parseArchetype } from './businessLogic/archetype'
 import { parseThemes, Themes } from './businessLogic/classThemes'
 import { Spell } from './businessLogic/spell'
-import { makeSpellListString } from './businessLogic/spellList'
+import {
+  makeSpellListString
+} from './businessLogic/spellList'
 import { getClassname, makeClassSpellList } from './classSpellList'
 import { compileRules, CompileRulesDeps, processContent } from './compileBook'
 import { dealWithErrors } from './error'
@@ -10,10 +12,15 @@ import { cleanFolder, listFiles, readFile, writeToFile } from './file'
 import { searchMacro, searchMacros } from './macros/parseMacro'
 
 import { readSpells } from './spell'
-import { parseTagRules, TagRules } from './tagRules'
+import { parseTagRules } from './tagRules'
 import { parseTagGroups, writeTagSpellLists } from './tags'
 import { validateSpells } from './validateSpell'
 import { getPostProcessInfo, postProcess } from './postProcessing'
+import {
+  compileSingleClassBook,
+  GlobalTagRules,
+  postProccessSingleClassBook,
+} from './compileBook/compileSingleClassBook'
 
 // config
 const baseDir = join(__dirname, '../../')
@@ -32,7 +39,7 @@ const compiledClassSpellList = (classname: string) =>
   `Class - ${classname} Spell List.md`
 const rootRulesFile = 'index.md'
 const allSpellsFile = 'All Spells List.md'
-const summaryFile = 'Summary.md'
+// const summaryFile = 'Summary.md'
 const rulebookFile = 'R20 - rulebook.md'
 const themesFile = 'themes comparison.md'
 
@@ -48,10 +55,7 @@ interface Content {
   allSpells: Spell[]
   archetypes: Archetype[]
   classThemes: Themes
-  classSpellListRules: {
-    filename: string
-    rules: TagRules | null
-  }[]
+  classSpellListRules: GlobalTagRules
 }
 const parseContent = async () => {
   const tagGroups = await readFile(SpellsFolder, tagGroupsFile).then(
@@ -91,7 +95,8 @@ const parseContent = async () => {
 
   // read class themes skills
   const classThemes = await readFile(ClassesFolder, themesFile)
-    .then(content => searchMacro(content, 'define-themes')).then(parseThemes)
+    .then(content => searchMacro(content, 'define-themes'))
+    .then(parseThemes)
 
   return {
     archetypes,
@@ -122,6 +127,8 @@ const compileBook = async (
       classname: getClassname(filename),
       rules,
     }))
+
+  // Write spell rules to spell files
   Promise.all(
     casterSpellRules.map(({ classname, rules }) =>
       makeClassSpellList(classname, rules!, compileDeps).then(spellList =>
@@ -140,8 +147,10 @@ const compileBook = async (
       classfiles.map(classfile =>
         readFile(join(ClassesFolder, classfile))
           .then(processContent(compileDeps))
-          .then(processedContent =>
-            writeToFile(CompiledClassesFolder, classfile, processedContent)
+          .then(compileSingleClassBook(classSpellListRules, allSpells, compileDeps))
+          .then(postProccessSingleClassBook)
+          .then(classContent =>
+            writeToFile(CompiledClassesFolder, classfile, classContent)
           )
       )
     )
@@ -155,7 +164,8 @@ const compileBook = async (
 const main = async () => {
   await cleanResults()
 
-  const { allSpells, classSpellListRules, archetypes, classThemes } = await parseContent()
+  const { allSpells, classSpellListRules, archetypes, classThemes } =
+    await parseContent()
 
   const deps: CompileRulesDeps = {
     currentFolder: baseDir,
@@ -166,12 +176,17 @@ const main = async () => {
     classThemes,
   }
 
-  const ruleBookRawContent = await compileBook({ allSpells, classSpellListRules, archetypes, classThemes }, deps)
-  const postProcessedBook = postProcess(ruleBookRawContent, getPostProcessInfo(ruleBookRawContent))
+  const ruleBookRawContent = await compileBook(
+    { allSpells, classSpellListRules, archetypes, classThemes },
+    deps
+  )
+  const postProcessedBook = postProcess(
+    ruleBookRawContent,
+    getPostProcessInfo(ruleBookRawContent)
+  )
 
   await writeToFile(CompiledFolder, rulebookFile, postProcessedBook)
 }
 
 // run everything
 main()
-

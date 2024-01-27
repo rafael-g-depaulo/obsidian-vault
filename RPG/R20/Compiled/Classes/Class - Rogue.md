@@ -1,5 +1,8 @@
 {{pageNumber,auto}}
 \page
+
+{{pageNumber,auto}}
+\page
 # Rogue (Specialist)
 
 <style>.page#p1:after{ display:none; }</style>

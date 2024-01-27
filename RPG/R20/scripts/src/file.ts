@@ -82,8 +82,8 @@ export const deletePath = (path: string): Promise<any> =>
       !isFolder
         ? deleteFile(path)
         : (listFiles(path).then(items =>
-            Promise.all(items.map(subPath => deletePath(join(path, subPath))))
-          ) as Promise<never>)
+          Promise.all(items.map(subPath => deletePath(join(path, subPath))))
+        ) as Promise<never>)
     )
     .then(() => null as never)
 
