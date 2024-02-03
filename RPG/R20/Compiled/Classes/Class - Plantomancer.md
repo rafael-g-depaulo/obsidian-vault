@@ -22,11 +22,11 @@
 | Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica, Magia Preparada, Magia Aprendida | 2 | 3 | 1 |
-| 2nd | +1 | Plantomancer Feat | 3 | 4 | 1 |
+| 2nd | +1 | Plantomancer Feat, Especialização | 3 | 4 | 1 |
 | 3rd | +2 | Plantomancer Feat | 3 | 5 | 2 |
 | 4th | +2 | Plantomancer Feat, Attribute Score Improvement | 4 | 6 | 2 |
 | 5th | +3 | Plantomancer Feat | 4 | 7 | 3 |
-| 6th | +3 | Plantomancer Feat | 5 | 8 | 3 |
+| 6th | +3 | Plantomancer Feat, Especialização | 5 | 8 | 3 |
 | 7th | +4 | Plantomancer Feat | 5 | 9 | 4 |
 | 8th | +4 | Plantomancer Feat, Attribute Score Improvement | 6 | 10 | 4 |
 | 9th | +5 | Plantomancer Feat | 6 | 11 | 5 |

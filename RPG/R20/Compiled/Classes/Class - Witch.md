@@ -22,11 +22,11 @@
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Hex, Magia Preparada, Magia Aprendida | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
+| 2nd | +1 | Witch Feat, Witch's Focus, Especialização | 2 | 4 | 1 |
 | 3rd | +2 | Witch Feat | 2 | 5 | 2 |
 | 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
 | 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
+| 6th | +3 | Witch Feat, Especialização | 3 | 8 | 3 |
 | 7th | +4 | Witch Feat | 3 | 9 | 4 |
 | 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
 | 9th | +5 | Witch Feat | 3 | 11 | 5 |

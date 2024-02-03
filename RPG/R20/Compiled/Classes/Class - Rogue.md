@@ -18,11 +18,11 @@
 ##### Rogue
 | Level | Proficiency Bonus | Features |Sneak Attack | Cunning Strike | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Sneak Attack | 1d6 | - |
+| 1st | +1 | Sneak Attack, Especialização | 1d6 | - |
 | 2nd | +1 | Rogue Feat, Expertise | 1d6 | - |
 | 3rd | +2 | Rogue Feat, Ataque Ardiloso (Cunning Strike) | 3d6 (1PM) | 2 |
 | 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 1PM) | 2 |
-| 5th | +3 | Rogue Feat | 3d6 1PM) | 2 |
+| 5th | +3 | Rogue Feat, Especialização | 3d6 1PM) | 2 |
 | 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 2 |
 | 7th | +4 | Rogue Feat | 5d6 (2PM) | 3 |
 | 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 3 |
@@ -63,13 +63,13 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 
 - **Emboscar.** Livre (2 PM): Ganhe uma Ação Padrão adicional nesse turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
 
-- **Escapista.** Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
-
-- **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Escapista.** Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
+
+- **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
 
 - **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
 

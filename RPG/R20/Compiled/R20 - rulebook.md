@@ -525,11 +525,11 @@ Important tips:
 ##### Alquimist
 | Level | Proficiency Bonus | Features |
 | :---: | :---------------: | :------- | 
-| 1st | +1 | Elixir Experimental |
+| 1st | +1 | Elixir Experimental, Especialização |
 | 2nd | +1 | Alquimist Feat, Expertise |
 | 3rd | +2 | Alquimist Feat |
 | 4th | +2 | Alquimist Feat, Attribute Score Improvement |
-| 5th | +3 | Alquimist Feat |
+| 5th | +3 | Alquimist Feat, Especialização |
 | 6th | +3 | Alquimist Feat, Attribute Score Improvement |
 | 7th | +4 | Alquimist Feat |
 | 8th | +4 | Alquimist Feat, Attribute Score Improvement |
@@ -610,11 +610,11 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 | 1st | +1 | Rage, Attack of Opportunity | +2 | - |
 | 2nd | +1 | Beast Warrior Feat, Savage Attack | +2 | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | +2 | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | +2 | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement, Especialização | +2 | 1d4+CON |
 | 5th | +3 | Beast Warrior Feat, Extra Attack | +2 | 1d4+CON |
 | 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
 | 7th | +4 | Beast Warrior Feat | +3 | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat | +3 | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Especialização | +3 | 2d4+CON |
 | 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
 | 10th | +5 | Beast Warrior Feat | +3 | 3d4+CON |
 | 11th | +6 | Beast Warrior Feat | +4 | 3d4+CON |
@@ -655,10 +655,6 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Wild Senses.** Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each.
 
-- **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
-
-- **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -676,6 +672,10 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Wild Rage: Direwolf.** Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20).
 
 - **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+
+- **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
+
+- **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
 
 - **Alma de Bronze.** Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
 
@@ -714,11 +714,11 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 | 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |
 | 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
 | 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
 | 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |
 | 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
 | 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
 | 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
@@ -808,11 +808,11 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 | Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Invocar Feitiço, Magia Preparada, Magia Aprendida | - | 3 | 1 |
-| 2nd | +1 | Channeler Feat | - | 4 | 1 |
+| 2nd | +1 | Channeler Feat, Especialização | - | 4 | 1 |
 | 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
 | 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
 | 5th | +3 | Channeler Feat | 5 | 7 | 3 |
-| 6th | +3 | Channeler Feat | 6 | 8 | 3 |
+| 6th | +3 | Channeler Feat, Especialização | 6 | 8 | 3 |
 | 7th | +4 | Channeler Feat | 7 | 9 | 4 |
 | 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
 | 9th | +5 | Channeler Feat | 9 | 11 | 5 |
@@ -1059,11 +1059,11 @@ List of spells available for a  to learn.
 ##### Dancer
 | Level | Proficiency Bonus | Features |Ritmo de Batalha | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Ritmo de Batalha, Passos de Vento | 2 |
+| 1st | +1 | Ritmo de Batalha, Passos de Vento, Especialização | 2 |
 | 2nd | +1 | Dancer Feat, Expertise | 2 |
 | 3rd | +2 | Dancer Feat, Dança Ilusória | 3 |
 | 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
-| 5th | +3 | Dancer Feat | 4 |
+| 5th | +3 | Dancer Feat, Especialização | 4 |
 | 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
 | 7th | +4 | Dancer Feat | 5 |
 | 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |
@@ -1197,11 +1197,11 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 | 1st | +1 | Precise Strike, Attack of Opportunity | +4 |
 | 2nd | +1 | Fighter Feat, Action Surge | +4 |
 | 3rd | +2 | Fighter Feat | +4 |
-| 4th | +2 | Fighter Feat, Attribute Score Improvement | +4 |
+| 4th | +2 | Fighter Feat, Attribute Score Improvement, Especialização | +4 |
 | 5th | +3 | Fighter Feat, Extra Attack | +4 |
 | 6th | +3 | Fighter Feat, Attribute Score Improvement | +4 |
 | 7th | +4 | Fighter Feat | +8 |
-| 8th | +4 | Fighter Feat | +8 |
+| 8th | +4 | Fighter Feat, Especialização | +8 |
 | 9th | +5 | Fighter Feat, Attribute Score Improvement | +8 |
 | 10th | +5 | Fighter Feat | +8 |
 | 11th | +6 | Fighter Feat | +8 |
@@ -1286,11 +1286,11 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 | 1st | +1 | Guts, Raise Guard, Attack of Opportunity | CON | 2 | 1d10+STR |
 | 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
 | 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
-| 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
+| 4th | +2 | Juggernaut Feat, Attribute Score Improvement, Especialização | CON+2 | 5 | 1d10+STR |
 | 5th | +3 | Juggernaut Feat, Extra Attack | CON+2 | 6 | 2d10+STR |
 | 6th | +3 | Juggernaut Feat, Attribute Score Improvement | CON+3 | 7 | 2d10+STR |
 | 7th | +4 | Juggernaut Feat | CON+3 | 8 | 2d10+STR |
-| 8th | +4 | Juggernaut Feat | CON+4 | 9 | 2d10+STR |
+| 8th | +4 | Juggernaut Feat, Especialização | CON+4 | 9 | 2d10+STR |
 | 9th | +5 | Juggernaut Feat, Attribute Score Improvement | CON+4 | 10 | 3d10+STR |
 | 10th | +5 | Juggernaut Feat | CON+5 | 11 | 3d10+STR |
 | 11th | +6 | Juggernaut Feat | CON+5 | 12 | 3d10+STR |
@@ -1392,11 +1392,11 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 | Level | Proficiency Bonus | Features |Magic Seed | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Sementes Mágicas, Herbomancia: Muda Mágica, Magia Preparada, Magia Aprendida | 2 | 3 | 1 |
-| 2nd | +1 | Plantomancer Feat | 3 | 4 | 1 |
+| 2nd | +1 | Plantomancer Feat, Especialização | 3 | 4 | 1 |
 | 3rd | +2 | Plantomancer Feat | 3 | 5 | 2 |
 | 4th | +2 | Plantomancer Feat, Attribute Score Improvement | 4 | 6 | 2 |
 | 5th | +3 | Plantomancer Feat | 4 | 7 | 3 |
-| 6th | +3 | Plantomancer Feat | 5 | 8 | 3 |
+| 6th | +3 | Plantomancer Feat, Especialização | 5 | 8 | 3 |
 | 7th | +4 | Plantomancer Feat | 5 | 9 | 4 |
 | 8th | +4 | Plantomancer Feat, Attribute Score Improvement | 6 | 10 | 4 |
 | 9th | +5 | Plantomancer Feat | 6 | 11 | 5 |
@@ -1589,11 +1589,11 @@ List of spells available for a  to learn.
 ##### Rogue
 | Level | Proficiency Bonus | Features |Sneak Attack | Cunning Strike | 
 | :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Sneak Attack | 1d6 | - |
+| 1st | +1 | Sneak Attack, Especialização | 1d6 | - |
 | 2nd | +1 | Rogue Feat, Expertise | 1d6 | - |
 | 3rd | +2 | Rogue Feat, Ataque Ardiloso (Cunning Strike) | 3d6 (1PM) | 2 |
 | 4th | +2 | Rogue Feat, Attribute Score Improvement | 3d6 1PM) | 2 |
-| 5th | +3 | Rogue Feat | 3d6 1PM) | 2 |
+| 5th | +3 | Rogue Feat, Especialização | 3d6 1PM) | 2 |
 | 6th | +3 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 2 |
 | 7th | +4 | Rogue Feat | 5d6 (2PM) | 3 |
 | 8th | +4 | Rogue Feat, Attribute Score Improvement | 5d6 (2PM) | 3 |
@@ -1634,13 +1634,13 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 
 - **Emboscar.** Livre (2 PM): Ganhe uma Ação Padrão adicional nesse turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: DEX 15.
 
-- **Escapista.** Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
-
-- **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
-
 {{pageNumber,auto}}
 \page
 
+
+- **Escapista.** Você recebe +5 em testes de Acrobacia para escapar e em testes para resistir a efeitos que restrinjam seu movimento.
+
+- **Gatuno.** Você recebe +2 em Atletismo. Quando escala, avança seu deslocamento normal, em vez de metade dele. Pre-requisites: *FOR 11.*.
 
 - **Capitalizar Distrações.** Você tem vantagem em ataques contra inimigos que não tiveram um turno ainda no combate. Ao acertar um ataque contra um inimigo distraído, você pode gastar 4PM para tornar o acerto um crítico. Pre-requisites: *DEX 17, SEN 13.*.
 
@@ -1710,10 +1710,10 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
 | 1st | +1 | Lay on Hands, Magia Inata | - | 1d8+1 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
-| 3rd | +2 | Spelgard Feat | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 1d8+1 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
 | 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 1d8+1 | 3 | 2 |
-| 6th | +3 | Spelgard Feat | 3d8+SEN | 1d8+1 | 4 | 2 |
+| 6th | +3 | Spelgard Feat, Especialização | 3d8+SEN | 1d8+1 | 4 | 2 |
 | 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 2d8+2 | 4 | 2 |
 | 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 2d8+2 | 5 | 3 |
 | 9th | +5 | Spelgard Feat | 3d8+SEN | 2d8+2 | 5 | 3 |
@@ -1902,11 +1902,11 @@ List of spells available for a  to learn.
 ##### Werebeast
 | Level | Proficiency Bonus | Features |Wild Dice | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Wild Dice, Beast Form, Ability Save DC | 2 |
+| 1st | +1 | Wild Dice, Beast Form, Ability Save DC, Especialização | 2 |
 | 2nd | +1 | Werebeast Feat, Monstruous Blood, Expertise | 2 |
 | 3rd | +2 | Werebeast Feat | 2 |
 | 4th | +2 | Werebeast Feat, Attribute Score Improvement | 2 |
-| 5th | +3 | Werebeast Feat | 3 |
+| 5th | +3 | Werebeast Feat, Especialização | 3 |
 | 6th | +3 | Werebeast Feat, Attribute Score Improvement | 3 |
 | 7th | +4 | Werebeast Feat | 3 |
 | 8th | +4 | Werebeast Feat, Attribute Score Improvement | 3 |
@@ -2028,11 +2028,11 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 | Level | Proficiency Bonus | Features |Witch's Focus | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Hex, Magia Preparada, Magia Aprendida | - | 3 | 1 |
-| 2nd | +1 | Witch Feat, Witch's Focus | 2 | 4 | 1 |
+| 2nd | +1 | Witch Feat, Witch's Focus, Especialização | 2 | 4 | 1 |
 | 3rd | +2 | Witch Feat | 2 | 5 | 2 |
 | 4th | +2 | Witch Feat, Attribute Score Improvement | 2 | 6 | 2 |
 | 5th | +3 | Witch Feat | 2 | 7 | 3 |
-| 6th | +3 | Witch Feat | 3 | 8 | 3 |
+| 6th | +3 | Witch Feat, Especialização | 3 | 8 | 3 |
 | 7th | +4 | Witch Feat | 3 | 9 | 4 |
 | 8th | +4 | Witch Feat, Attribute Score Improvement | 3 | 10 | 4 |
 | 9th | +5 | Witch Feat | 3 | 11 | 5 |

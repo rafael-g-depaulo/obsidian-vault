@@ -21,11 +21,11 @@
 | 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
 | 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
 | 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement | 1d6+PRE | 1d8+1 |
+| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |
 | 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
 | 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
 | 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 8th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
+| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |
 | 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
 | 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
 | 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |

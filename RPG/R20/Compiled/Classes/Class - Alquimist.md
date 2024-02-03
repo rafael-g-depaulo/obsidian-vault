@@ -18,11 +18,11 @@
 ##### Alquimist
 | Level | Proficiency Bonus | Features |
 | :---: | :---------------: | :------- | 
-| 1st | +1 | Elixir Experimental |
+| 1st | +1 | Elixir Experimental, Especialização |
 | 2nd | +1 | Alquimist Feat, Expertise |
 | 3rd | +2 | Alquimist Feat |
 | 4th | +2 | Alquimist Feat, Attribute Score Improvement |
-| 5th | +3 | Alquimist Feat |
+| 5th | +3 | Alquimist Feat, Especialização |
 | 6th | +3 | Alquimist Feat, Attribute Score Improvement |
 | 7th | +4 | Alquimist Feat |
 | 8th | +4 | Alquimist Feat, Attribute Score Improvement |

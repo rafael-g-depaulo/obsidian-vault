@@ -71,6 +71,12 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
     .map((f, i) => [...classDefinition.multi_features[i], ...f])
     .slice(1)
 
+  //   const archetypeFeatures = {
+  //     [Number(archetype.specialization_levels[0])]: "Especialização",
+  //     [Number(archetype.specialization_levels[1])]: "Especialização",
+  //   }
+
+
   return (
     header +
     range(1, 20)
@@ -79,6 +85,7 @@ const makeClassTable = (archetype: Archetype, classDefinition: Class) => {
         proficiencyBonus: proficiencyBonus[level - 1],
         classFeatures: features[level - 1],
         multiFeatures: multiFeatures[level - 1],
+        // archetypeFeatures: archetypeFeatures[level - 1],
       }))
       .map(({ classFeatures, level, proficiencyBonus, multiFeatures }) =>
         makeRow(level, proficiencyBonus, [classFeatures, ...multiFeatures])

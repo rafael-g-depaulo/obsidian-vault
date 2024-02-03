@@ -22,11 +22,11 @@
 | Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |
 | 1st | +1 | Invocar Feitiço, Magia Preparada, Magia Aprendida | - | 3 | 1 |
-| 2nd | +1 | Channeler Feat | - | 4 | 1 |
+| 2nd | +1 | Channeler Feat, Especialização | - | 4 | 1 |
 | 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
 | 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
 | 5th | +3 | Channeler Feat | 5 | 7 | 3 |
-| 6th | +3 | Channeler Feat | 6 | 8 | 3 |
+| 6th | +3 | Channeler Feat, Especialização | 6 | 8 | 3 |
 | 7th | +4 | Channeler Feat | 7 | 9 | 4 |
 | 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
 | 9th | +5 | Channeler Feat | 9 | 11 | 5 |

@@ -21,11 +21,11 @@
 | 1st | +1 | Precise Strike, Attack of Opportunity | +4 |
 | 2nd | +1 | Fighter Feat, Action Surge | +4 |
 | 3rd | +2 | Fighter Feat | +4 |
-| 4th | +2 | Fighter Feat, Attribute Score Improvement | +4 |
+| 4th | +2 | Fighter Feat, Attribute Score Improvement, Especialização | +4 |
 | 5th | +3 | Fighter Feat, Extra Attack | +4 |
 | 6th | +3 | Fighter Feat, Attribute Score Improvement | +4 |
 | 7th | +4 | Fighter Feat | +8 |
-| 8th | +4 | Fighter Feat | +8 |
+| 8th | +4 | Fighter Feat, Especialização | +8 |
 | 9th | +5 | Fighter Feat, Attribute Score Improvement | +8 |
 | 10th | +5 | Fighter Feat | +8 |
 | 11th | +6 | Fighter Feat | +8 |

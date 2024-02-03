@@ -5,8 +5,11 @@ not much, really.
 ### Hates
 people "stealing it's food".
 
+### Blessings
+
+
 ### Miracles
-**Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +2FP.
+**Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +3FP.
 
 **Rot**. (As part of an attack, or Action) 2FP: you enhance your weapon with necrotic energy, or make a ranged spell attack (range: 8sqr). If you hit the attack, you deal 3d6 necrotic damage (or +2d6 if it was as part of an attack), and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
 +1MP, +2FP: increase the damage by +2d6

@@ -23,10 +23,10 @@
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
 | 1st | +1 | Lay on Hands, Magia Inata | - | 1d8+1 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
-| 3rd | +2 | Spelgard Feat | 2d8+SEN | 1d8+1 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 1d8+1 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
 | 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 1d8+1 | 3 | 2 |
-| 6th | +3 | Spelgard Feat | 3d8+SEN | 1d8+1 | 4 | 2 |
+| 6th | +3 | Spelgard Feat, Especialização | 3d8+SEN | 1d8+1 | 4 | 2 |
 | 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 2d8+2 | 4 | 2 |
 | 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 2d8+2 | 5 | 3 |
 | 9th | +5 | Spelgard Feat | 3d8+SEN | 2d8+2 | 5 | 3 |

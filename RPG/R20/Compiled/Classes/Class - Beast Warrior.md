@@ -21,11 +21,11 @@
 | 1st | +1 | Rage, Attack of Opportunity | +2 | - |
 | 2nd | +1 | Beast Warrior Feat, Savage Attack | +2 | 1d4+CON |
 | 3rd | +2 | Beast Warrior Feat, Defesa Animal | +2 | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement | +2 | 1d4+CON |
+| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement, Especialização | +2 | 1d4+CON |
 | 5th | +3 | Beast Warrior Feat, Extra Attack | +2 | 1d4+CON |
 | 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
 | 7th | +4 | Beast Warrior Feat | +3 | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat | +3 | 2d4+CON |
+| 8th | +4 | Beast Warrior Feat, Especialização | +3 | 2d4+CON |
 | 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
 | 10th | +5 | Beast Warrior Feat | +3 | 3d4+CON |
 | 11th | +6 | Beast Warrior Feat | +4 | 3d4+CON |
@@ -66,10 +66,6 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Wild Senses.** Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each.
 
-- **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
-
-- **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
-
 {{pageNumber,auto}}
 \page
 {{note
@@ -87,6 +83,10 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Wild Rage: Direwolf.** Passive: Gain your CON mod as extra movement speed. Savage Attack: if you're flanking the attacked enemy, you have +2 in the attack roll, and lower your critical hit threshold by 2 (you crit on 18-20 instead of 20).
 
 - **Wild Rage: Sharkodile.** Passive: You add your SEN mod to your attack rolls against bleeding enemies. Savage Attack: you can spend 1PM or 2HP to make an extra bite attack that deals 1d4 damage and heals you for your CON mod. (An enemy is bleeding if they have blood, are below half their max HP and has been damaged this scene).
+
+- **Superstição.** Você odeia magia arcana, o que faz com que seja mais resistente a ela. Você recebe +2 em testes de resistência contra magias que não tiverem a tag "wild".
+
+- **Ímpeto.** Você pode gastar 1 PM para aumentar seu deslocamento em +3sqr por uma rodada.
 
 - **Alma de Bronze.** Quando entra em fúria, você recebe uma quantidade de pontos de vida temporários igual a metade do seu nível + mod. Constituição.
 

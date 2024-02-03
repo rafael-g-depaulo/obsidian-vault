@@ -21,11 +21,11 @@
 | 1st | +1 | Guts, Raise Guard, Attack of Opportunity | CON | 2 | 1d10+STR |
 | 2nd | +1 | Juggernaut Feat, Powerful Strike | CON+1 | 3 | 1d10+STR |
 | 3rd | +2 | Juggernaut Feat | CON+1 | 4 | 1d10+STR |
-| 4th | +2 | Juggernaut Feat, Attribute Score Improvement | CON+2 | 5 | 1d10+STR |
+| 4th | +2 | Juggernaut Feat, Attribute Score Improvement, Especialização | CON+2 | 5 | 1d10+STR |
 | 5th | +3 | Juggernaut Feat, Extra Attack | CON+2 | 6 | 2d10+STR |
 | 6th | +3 | Juggernaut Feat, Attribute Score Improvement | CON+3 | 7 | 2d10+STR |
 | 7th | +4 | Juggernaut Feat | CON+3 | 8 | 2d10+STR |
-| 8th | +4 | Juggernaut Feat | CON+4 | 9 | 2d10+STR |
+| 8th | +4 | Juggernaut Feat, Especialização | CON+4 | 9 | 2d10+STR |
 | 9th | +5 | Juggernaut Feat, Attribute Score Improvement | CON+4 | 10 | 3d10+STR |
 | 10th | +5 | Juggernaut Feat | CON+5 | 11 | 3d10+STR |
 | 11th | +6 | Juggernaut Feat | CON+5 | 12 | 3d10+STR |

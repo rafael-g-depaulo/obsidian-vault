@@ -49,3 +49,6 @@ Many miracles involve a character's "miracle casting attribute". That attribute 
 
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
+
+## Blessings
+Entities also have blessings, which are Feats that only their paladins have access to.

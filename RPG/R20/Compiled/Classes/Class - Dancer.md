@@ -18,11 +18,11 @@
 ##### Dancer
 | Level | Proficiency Bonus | Features |Ritmo de Batalha | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Ritmo de Batalha, Passos de Vento | 2 |
+| 1st | +1 | Ritmo de Batalha, Passos de Vento, Especialização | 2 |
 | 2nd | +1 | Dancer Feat, Expertise | 2 |
 | 3rd | +2 | Dancer Feat, Dança Ilusória | 3 |
 | 4th | +2 | Dancer Feat, Attribute Score Improvement | 3 |
-| 5th | +3 | Dancer Feat | 4 |
+| 5th | +3 | Dancer Feat, Especialização | 4 |
 | 6th | +3 | Dancer Feat, Attribute Score Improvement | 4 |
 | 7th | +4 | Dancer Feat | 5 |
 | 8th | +4 | Dancer Feat, Attribute Score Improvement | 5 |

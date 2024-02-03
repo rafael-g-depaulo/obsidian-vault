@@ -18,11 +18,11 @@
 ##### Werebeast
 | Level | Proficiency Bonus | Features |Wild Dice | 
 | :---: | :---------------: | :------- | :----: |
-| 1st | +1 | Wild Dice, Beast Form, Ability Save DC | 2 |
+| 1st | +1 | Wild Dice, Beast Form, Ability Save DC, Especialização | 2 |
 | 2nd | +1 | Werebeast Feat, Monstruous Blood, Expertise | 2 |
 | 3rd | +2 | Werebeast Feat | 2 |
 | 4th | +2 | Werebeast Feat, Attribute Score Improvement | 2 |
-| 5th | +3 | Werebeast Feat | 3 |
+| 5th | +3 | Werebeast Feat, Especialização | 3 |
 | 6th | +3 | Werebeast Feat, Attribute Score Improvement | 3 |
 | 7th | +4 | Werebeast Feat | 3 |
 | 8th | +4 | Werebeast Feat, Attribute Score Improvement | 3 |
