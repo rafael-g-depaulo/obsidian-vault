@@ -29,7 +29,7 @@ https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
-- [Revenge of the Sword Hound](https://asuratoon.com/4622438374-revenge-of-the-iron-blooded-sword-hound-chapter-62/)
+- [Revenge of the Sword Hound](https://asuratoon.com/9331846205-revenge-of-the-iron-blooded-sword-hound-chapter-64/)
 - [Life of a Magic Academy Student](https://asuratoon.com/4622438374-life-of-a-magic-academy-mage-chapter-77/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
