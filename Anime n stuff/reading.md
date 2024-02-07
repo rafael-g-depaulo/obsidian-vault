@@ -1,4 +1,4 @@
-https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
+sssssshttps://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 
 ## To read
@@ -43,7 +43,7 @@ https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 - [Moon Slayer](https://zscans.com/comics/moon-slayer/6231)
 - [Return of Mount Hua](https://asuratoon.com/4622438374-return-of-the-mount-hua-sect-chapter-108/)
-- [Murim Login](https://asuratoon.com/4622438374-murim-login-chapter-183/)
+- [Murim Login](https://asuratoon.com/9331846205-murim-login-chapter-185/)
 - [Reaper of the Drifting Moon](https://asuratoon.com/4622438374-reaper-of-the-drifting-moon-chapter-72/)
 - [Hoarding in Hell](https://asuratoon.com/4622438374-hoarding-in-hell-chapter-60/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
