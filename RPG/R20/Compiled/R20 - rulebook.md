@@ -142,6 +142,7 @@ ___
 - #### [{{ Favor }}{{ 105 }}](#p105)
 - #### [{{ Losing Favor }}{{ 105 }}](#p105)
 - #### [{{ Miracles }}{{ 105 }}](#p105)
+- #### [{{ Blessings }}{{ 105 }}](#p105)
 - ### [{{ Companions }}{{ 106 }}](#p106)
 - #### [{{ Stats }}{{ 106 }}](#p106)
 - #### [{{ Companion death }}{{ 106 }}](#p106)
@@ -6054,6 +6055,8 @@ Many miracles involve a character's "miracle casting attribute". That attribute 
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
+## Blessings
+Entities also have blessings, which are Feats that only their paladins have access to.
 
 {{pageNumber,auto}}
 \page
