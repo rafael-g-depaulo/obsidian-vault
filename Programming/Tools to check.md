@@ -24,6 +24,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 - giflex (record desktop gifs)
 - [proton mail](https://medium.com/illumination/gmail-is-dead-and-something-new-is-replacing-it-bc3623a11fbe)
 - evernote/geeknote?
+- [continuous speedtest cli](https://www.youtube.com/watch?v=xqDcIFU27Ko)
 
 ## Extensions
 [tester and code running monitor and shit. super cool](https://itnext.io/sprkl-vscode-extension-for-node-js-5bc40e0ee354)

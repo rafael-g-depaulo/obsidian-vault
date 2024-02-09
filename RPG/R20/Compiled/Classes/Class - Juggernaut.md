@@ -49,7 +49,7 @@
 
 **Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -79,7 +79,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
 
-- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [Derrubar](#pundefined))
+- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [Derrubar (link not found)]())
 
 - **Golpe em Arco.** Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
@@ -89,9 +89,9 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre (e sem custo de PM). Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [Endurance](#pundefined) como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [Endurance (link not found)]() como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Intocável.** (Você negou um ataque com [Endurance](#pundefined)) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Intocável.** (Você negou um ataque com [Endurance (link not found)]()) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
 
 - **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
@@ -100,6 +100,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 - **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
 
 - **Defesa Indestrutível.** (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. Pre-requisites: *2 poderes que tem Defesa Impenetrável como pré-requisito.*.
+
 
 
 

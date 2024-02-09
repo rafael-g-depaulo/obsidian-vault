@@ -53,7 +53,7 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
 
 #### Bard (TBI)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [multi-form changing guy|multi-form changing guy](#pundefined)
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [multi-form changing guy|multi-form changing guy (link not found)]()
 
 ### Caster Classes
 #### Witch
@@ -335,7 +335,7 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -390,6 +390,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 
 
+
+
+
 {{pageNumber,auto}}
 \page
 # Champion (Martial)
@@ -436,7 +439,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -474,6 +477,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pre-requisites: *6º nível de champion*.
 
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
+
+
 
 
 
@@ -530,9 +535,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#pundefined))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
-**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
+**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
 **Juntar Energia.** **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
 
@@ -571,19 +576,14 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
 
-
-- **1.** impacto
-
-- **2.** cortante
-
-- **3.** gelo
-
-- **4.** elétrico
-
-- **5.** fogo
-
-- **6.** psíquico
-
+| d6 | dano |
+| :--: | :--: |
+| 1 | impacto |
+| 2 | cortante |
+| 3 | gelo |
+| 4 | elétrico |
+| 5 | fogo |
+| 6 | psíquico |
 
 
 - **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
@@ -609,6 +609,8 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
 - **Escudo Arcano.** **Movimento:** Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.<br>
+
+
 
 
 
@@ -666,77 +668,77 @@ List of spells available for a Chaneler to learn.
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#pundefined)
-- [Chill Touch](#pundefined)
-- [Control Flames](#pundefined)
-- [Energy Blast](#pundefined)
-- [Fire Bolt](#pundefined)
-- [Frostbite](#pundefined)
-- [Guidance](#pundefined)
-- [Lightning Lure](#pundefined)
-- [Magic Stone](#pundefined)
-- [Message](#pundefined)
-- [Poison Spray](#pundefined)
-- [Ray of Frost](#pundefined)
-- [Resistance](#pundefined)
-- [Shape Water](#pundefined)
-- [Thunderclap](#pundefined)
-- [Toll the Dead](#pundefined)
-- [Vicious Mockery](#pundefined)
+- [Acid Splash (link not found)]()
+- [Chill Touch (link not found)]()
+- [Control Flames (link not found)]()
+- [Energy Blast (link not found)]()
+- [Fire Bolt (link not found)]()
+- [Frostbite (link not found)]()
+- [Guidance (link not found)]()
+- [Lightning Lure (link not found)]()
+- [Magic Stone (link not found)]()
+- [Message (link not found)]()
+- [Poison Spray (link not found)]()
+- [Ray of Frost (link not found)]()
+- [Resistance (link not found)]()
+- [Shape Water (link not found)]()
+- [Thunderclap (link not found)]()
+- [Toll the Dead (link not found)]()
+- [Vicious Mockery (link not found)]()
 
 ### 1st Circle
-- [Benção](#pundefined)
-- [Burning Hands](#pundefined)
-- [Catapult](#pundefined)
-- [Chaos Bolt](#pundefined)
-- [Despedaçar](#pundefined)
-- [Dissonant Whispers](#pundefined)
-- [Earth Tremor](#pundefined)
-- [Escuridão](#pundefined)
-- [Explosão de chamas](#pundefined)
-- [Feather Fall](#pundefined)
-- [Hellish Rebuke](#pundefined)
-- [Heroism](#pundefined)
-- [Imagem Espelhada](#pundefined)
-- [Infligir Ferimentos](#pundefined)
-- [Longstrider](#pundefined)
-- [Mage Armor](#pundefined)
-- [Magic Missile](#pundefined)
-- [Ray of Sickness](#pundefined)
-- [Silent Image](#pundefined)
-- [Thunderwave](#pundefined)
-- [Witch Bolt](#pundefined)
-- [Área Escorregadia](#pundefined){{pageNumber,auto}}
+- [Benção (link not found)]()
+- [Burning Hands (link not found)]()
+- [Catapult (link not found)]()
+- [Chaos Bolt (link not found)]()
+- [Despedaçar (link not found)]()
+- [Dissonant Whispers (link not found)]()
+- [Earth Tremor (link not found)]()
+- [Escuridão (link not found)]()
+- [Explosão de chamas (link not found)]()
+- [Feather Fall (link not found)]()
+- [Hellish Rebuke (link not found)]()
+- [Heroism (link not found)]()
+- [Imagem Espelhada (link not found)]()
+- [Infligir Ferimentos (link not found)]()
+- [Longstrider (link not found)]()
+- [Mage Armor (link not found)]()
+- [Magic Missile (link not found)]()
+- [Ray of Sickness (link not found)]()
+- [Silent Image (link not found)]()
+- [Thunderwave (link not found)]()
+- [Witch Bolt (link not found)]()
+- [Área Escorregadia (link not found)](){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#pundefined)
-- [Binding Ice](#pundefined)
-- [Blindness Deafness](#pundefined)
-- [Calm Emotions](#pundefined)
-- [Continual Flame](#pundefined)
-- [Crown of Madness](#pundefined)
-- [Explosão Sonora](#pundefined)
-- [Heat Metal](#pundefined)
-- [Hold Person](#pundefined)
-- [Magic Mouth](#pundefined)
-- [Manto de Vento](#pundefined)
-- [Maximilian's Earthen Grasp](#pundefined)
-- [Mind Whip](#pundefined)
-- [Ray of Enfeeblement](#pundefined)
-- [Scorching Ray](#pundefined)
-- [See invisibility](#pundefined)
-- [Silence](#pundefined)
-- [Snowball Swarm](#pundefined)
+- [Aid (link not found)]()
+- [Binding Ice (link not found)]()
+- [Blindness Deafness (link not found)]()
+- [Calm Emotions (link not found)]()
+- [Continual Flame (link not found)]()
+- [Crown of Madness (link not found)]()
+- [Explosão Sonora (link not found)]()
+- [Heat Metal (link not found)]()
+- [Hold Person (link not found)]()
+- [Magic Mouth (link not found)]()
+- [Manto de Vento (link not found)]()
+- [Maximilian's Earthen Grasp (link not found)]()
+- [Mind Whip (link not found)]()
+- [Ray of Enfeeblement (link not found)]()
+- [Scorching Ray (link not found)]()
+- [See invisibility (link not found)]()
+- [Silence (link not found)]()
+- [Snowball Swarm (link not found)]()
 
 ### 3rd Circle
-- [Flecha Ácida](#pundefined)
-- [Relâmpago](#pundefined)
-- [Sopro das Uivantes](#pundefined)
+- [Flecha Ácida (link not found)]()
+- [Relâmpago (link not found)]()
+- [Sopro das Uivantes (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -831,6 +833,7 @@ maybe add option to upcast?
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 
 
+
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
@@ -919,7 +922,7 @@ A liberdade de movimento se espelha na sua liberdade de atuação em batalha. Al
 
 **Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -954,6 +957,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 - **Tornado de Dor.** Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pre-requisites: *6º nível de guerreiro.*.
 
 - **Valentão.** Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
+
 
 
 
@@ -1010,7 +1014,7 @@ Skill: Pyrexia (heat meter that goes positive and negative and increases the max
 
 **Powerful Strike.** Movement Action (1PM): Your next melee attack until the end of your next turn deals an extra 1d10 + STR mod. damage. At 5th, 9th, 13th and 17th levels you can spend +1PM to increase the damage by 1d10
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Intuição, Percepção, Investigação e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -1040,7 +1044,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Golpe Brutal.** (durante ataque crítico) Ao usar Golpe Poderoso (+2PM): Multiplique os dados do Golpe Poderoso pelo seu multiplicador de crítico, como se fossem os dados do dano base da sua arma. Pre-requisites: *Crítico Paciente*.
 
-- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [Derrubar](#pundefined))
+- **Golpe Derrubador.** Ao usar Golpe Poderoso (+1PM): Se o golpe acertar, você derruba o alvo. (Veja: [Derrubar (link not found)]())
 
 - **Golpe em Arco.** Ao usar Golpe Poderoso (+1PM): Você ataca todos os inimigos no seu alcance (que estejam na sua frente).
 
@@ -1050,9 +1054,9 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 - **Defesa Imediata.** No início da iniciativa, se você não está surpreso você pode levantar a guarda como ação livre (e sem custo de PM). Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [Endurance](#pundefined) como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Implacável.** Ao Levantar Guarda (+1PM): Você pode pode usar [Endurance (link not found)]() como ação livre, sem custo adicional. Pre-requisites: *Defesa Impenetrável*.
 
-- **Defesa Intocável.** (Você negou um ataque com [Endurance](#pundefined)) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
+- **Defesa Intocável.** (Você negou um ataque com [Endurance (link not found)]()) (Guarda Alta) Reação (1PM): Você pode imediatamente fazer um ataque de oportunidade contra o atacante. Se acertar, ganha +1 Guts. Pre-requisites: *Defesa Impenetrável*.
 
 - **Defesa Impregnável.** (Guarda Alta) reação (2PM): você pode somar sua Guard num teste de resistência físico. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *Defesa Impenetrável*.
 
@@ -1061,6 +1065,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 - **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
 
 - **Defesa Indestrutível.** (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. Pre-requisites: *2 poderes que tem Defesa Impenetrável como pré-requisito.*.
+
 
 
 
@@ -1114,7 +1119,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#pundefined))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1172,6 +1177,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -1190,83 +1196,83 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#pundefined)
-- [Blade Ward](#pundefined)
-- [Guidance](#pundefined)
-- [Lightning Lure](#pundefined)
-- [Magic Stone](#pundefined)
-- [Poison Spray](#pundefined)
-- [Resistance](#pundefined)
-- [Shape Water](#pundefined)
-- [Shillelagh](#pundefined)
-- [Sword Burst](#pundefined)
-- [Thorn Whip](#pundefined)
-- [Thunderclap](#pundefined)
+- [Acid Splash (link not found)]()
+- [Blade Ward (link not found)]()
+- [Guidance (link not found)]()
+- [Lightning Lure (link not found)]()
+- [Magic Stone (link not found)]()
+- [Poison Spray (link not found)]()
+- [Resistance (link not found)]()
+- [Shape Water (link not found)]()
+- [Shillelagh (link not found)]()
+- [Sword Burst (link not found)]()
+- [Thorn Whip (link not found)]()
+- [Thunderclap (link not found)]()
 
 ### 1st Circle
-- [Armor of Agathys](#pundefined)
-- [Caminhos da Natureza](#pundefined)
-- [Canhão de Ervilha](#pundefined)
-- [Catapult](#pundefined)
-- [Cause Fear](#pundefined)
-- [Charm Person](#pundefined)
-- [Compelled Duel](#pundefined)
-- [Controlar Plantas](#pundefined)
-- [Curar Ferimentos](#pundefined)
-- [Despedaçar](#pundefined)
-- [Detect Poison and Disease (Ritual)](#pundefined)
-- [Earth Tremor](#pundefined)
-- [Enfeitiçar](#pundefined)
-- [Entangle](#pundefined)
-- [Escudo](#pundefined)
-- [Feather Fall](#pundefined)
-- [Fog Cloud](#pundefined)
-- [Goodberry](#pundefined)
-- [Hail of Thorns](#pundefined)
-- [Heroism](#pundefined)
-- [Mage Armor](#pundefined)
-- [Magic Missile](#pundefined)
-- [Ray of Sickness](#pundefined)
-- [Sanctuary](#pundefined)
-- [Sleep](#pundefined)
-- [Thunderwave](#pundefined)
-- [Tranquilidade](#pundefined)
-- [Área Escorregadia](#pundefined){{pageNumber,auto}}
+- [Armor of Agathys (link not found)]()
+- [Caminhos da Natureza (link not found)]()
+- [Canhão de Ervilha (link not found)]()
+- [Catapult (link not found)]()
+- [Cause Fear (link not found)]()
+- [Charm Person (link not found)]()
+- [Compelled Duel (link not found)]()
+- [Controlar Plantas (link not found)]()
+- [Curar Ferimentos (link not found)]()
+- [Despedaçar (link not found)]()
+- [Detect Poison and Disease (Ritual) (link not found)]()
+- [Earth Tremor (link not found)]()
+- [Enfeitiçar (link not found)]()
+- [Entangle (link not found)]()
+- [Escudo (link not found)]()
+- [Feather Fall (link not found)]()
+- [Fog Cloud (link not found)]()
+- [Goodberry (link not found)]()
+- [Hail of Thorns (link not found)]()
+- [Heroism (link not found)]()
+- [Mage Armor (link not found)]()
+- [Magic Missile (link not found)]()
+- [Ray of Sickness (link not found)]()
+- [Sanctuary (link not found)]()
+- [Sleep (link not found)]()
+- [Thunderwave (link not found)]()
+- [Tranquilidade (link not found)]()
+- [Área Escorregadia (link not found)](){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Barkskin](#pundefined)
-- [Blindness Deafness](#pundefined)
-- [Calm Emotions](#pundefined)
-- [Cloud of Dagges](#pundefined)
-- [Crown of Madness](#pundefined)
-- [Darkvision](#pundefined)
-- [Earthbind](#pundefined)
-- [Reduce](#pundefined)
-- [Explosão Sonora](#pundefined)
-- [Flechas Sentinelas](#pundefined)
-- [Healing Spirit](#pundefined)
-- [Hold Person](#pundefined)
-- [Laço Protetor](#pundefined)
-- [Lesser Restoration](#pundefined)
-- [Manto de Vento](#pundefined)
-- [Maximilian's Earthen Grasp](#pundefined)
-- [Mind Whip](#pundefined)
-- [Ray of Enfeeblement](#pundefined)
-- [See invisibility](#pundefined)
-- [Snowball Swarm](#pundefined)
-- [Spike Growth](#pundefined)
-- [Sugestion](#pundefined)
+- [Barkskin (link not found)]()
+- [Blindness Deafness (link not found)]()
+- [Calm Emotions (link not found)]()
+- [Cloud of Dagges (link not found)]()
+- [Crown of Madness (link not found)]()
+- [Darkvision (link not found)]()
+- [Earthbind (link not found)]()
+- [Reduce (link not found)]()
+- [Explosão Sonora (link not found)]()
+- [Flechas Sentinelas (link not found)]()
+- [Healing Spirit (link not found)]()
+- [Hold Person (link not found)]()
+- [Laço Protetor (link not found)]()
+- [Lesser Restoration (link not found)]()
+- [Manto de Vento (link not found)]()
+- [Maximilian's Earthen Grasp (link not found)]()
+- [Mind Whip (link not found)]()
+- [Ray of Enfeeblement (link not found)]()
+- [See invisibility (link not found)]()
+- [Snowball Swarm (link not found)]()
+- [Spike Growth (link not found)]()
+- [Sugestion (link not found)]()
 
 ### 3rd Circle
-- [Campo de Força](#pundefined)
-- [Flecha Ácida](#pundefined)
-- [Físico Divino](#pundefined)
-- [Sopro das Uivantes](#pundefined)
+- [Campo de Força (link not found)]()
+- [Flecha Ácida (link not found)]()
+- [Físico Divino (link not found)]()
+- [Sopro das Uivantes (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1361,6 +1367,7 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 - **Confiança Absoluta.** (ao fazer um ataque) Livre (X PM, limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto
 
 
+
 ### Ataque Ardiloso
 
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
@@ -1435,7 +1442,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -1501,6 +1508,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -1519,67 +1527,67 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#pundefined)
-- [Blade Ward](#pundefined)
-- [Energy Blast](#pundefined)
-- [Fire Bolt](#pundefined)
-- [Green Flame Blade](#pundefined)
-- [Guidance](#pundefined)
-- [Poison Spray](#pundefined)
-- [Ray of Frost](#pundefined)
-- [Resistance](#pundefined)
-- [Sword Burst](#pundefined)
-- [Word of Radiance](#pundefined)
+- [Acid Splash (link not found)]()
+- [Blade Ward (link not found)]()
+- [Energy Blast (link not found)]()
+- [Fire Bolt (link not found)]()
+- [Green Flame Blade (link not found)]()
+- [Guidance (link not found)]()
+- [Poison Spray (link not found)]()
+- [Ray of Frost (link not found)]()
+- [Resistance (link not found)]()
+- [Sword Burst (link not found)]()
+- [Word of Radiance (link not found)]()
 
 ### 1st Circle
-- [Arma Mágica](#pundefined)
-- [Armor of Agathys](#pundefined)
-- [Benção](#pundefined)
-- [Burning Hands](#pundefined)
-- [Chaos Bolt](#pundefined)
-- [Concentração de Combate](#pundefined)
-- [Curar Ferimentos](#pundefined)
-- [Detect Poison and Disease (Ritual)](#pundefined)
-- [Detectar Ameaças](#pundefined)
-- [Divine Favor](#pundefined)
-- [Escudo](#pundefined)
-- [Explosão de chamas](#pundefined)
-- [Guiding Bolt](#pundefined)
-- [Healing Word](#pundefined)
-- [Longstrider](#pundefined)
-- [Mage Armor](#pundefined)
-- [Magic Missile](#pundefined)
-- [Primor Atlético](#pundefined)
-- [Ray of Sickness](#pundefined)
-- [Searing Smite](#pundefined)
-- [Thunderous Smite](#pundefined)
-- [Toque Chocante](#pundefined)
-- [Witch Bolt](#pundefined)
-- [Zephyr Strike](#pundefined){{pageNumber,auto}}
+- [Arma Mágica (link not found)]()
+- [Armor of Agathys (link not found)]()
+- [Benção (link not found)]()
+- [Burning Hands (link not found)]()
+- [Chaos Bolt (link not found)]()
+- [Concentração de Combate (link not found)]()
+- [Curar Ferimentos (link not found)]()
+- [Detect Poison and Disease (Ritual) (link not found)]()
+- [Detectar Ameaças (link not found)]()
+- [Divine Favor (link not found)]()
+- [Escudo (link not found)]()
+- [Explosão de chamas (link not found)]()
+- [Guiding Bolt (link not found)]()
+- [Healing Word (link not found)]()
+- [Longstrider (link not found)]()
+- [Mage Armor (link not found)]()
+- [Magic Missile (link not found)]()
+- [Primor Atlético (link not found)]()
+- [Ray of Sickness (link not found)]()
+- [Searing Smite (link not found)]()
+- [Thunderous Smite (link not found)]()
+- [Toque Chocante (link not found)]()
+- [Witch Bolt (link not found)]()
+- [Zephyr Strike (link not found)](){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#pundefined)
-- [Binding Ice](#pundefined)
-- [Cloud of Dagges](#pundefined)
-- [Continual Flame](#pundefined)
-- [Darkvision](#pundefined)
-- [Enhance Ability](#pundefined)
-- [Reduce](#pundefined)
-- [Flame Blade](#pundefined)
-- [Flechas Sentinelas](#pundefined)
-- [Ice Knife](#pundefined)
-- [Laço Protetor](#pundefined)
-- [Lesser Restoration](#pundefined)
-- [Moonbeam](#pundefined)
-- [Prayer of Healing](#pundefined)
-- [Scorching Ray](#pundefined)
-- [See invisibility](#pundefined)
-- [Spider Climb](#pundefined)
+- [Aid (link not found)]()
+- [Binding Ice (link not found)]()
+- [Cloud of Dagges (link not found)]()
+- [Continual Flame (link not found)]()
+- [Darkvision (link not found)]()
+- [Enhance Ability (link not found)]()
+- [Reduce (link not found)]()
+- [Flame Blade (link not found)]()
+- [Flechas Sentinelas (link not found)]()
+- [Ice Knife (link not found)]()
+- [Laço Protetor (link not found)]()
+- [Lesser Restoration (link not found)]()
+- [Moonbeam (link not found)]()
+- [Prayer of Healing (link not found)]()
+- [Scorching Ray (link not found)]()
+- [See invisibility (link not found)]()
+- [Spider Climb (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1703,6 +1711,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 
 
+
 {{pageNumber,auto}}
 \page
 # Witch (Caster)
@@ -1750,7 +1759,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#pundefined))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
@@ -1830,6 +1839,7 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 
 
+
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
@@ -1866,7 +1876,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 
 

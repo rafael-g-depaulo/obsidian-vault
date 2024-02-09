@@ -12,7 +12,7 @@
 ### Spell List
 List of spells available for a Witch to learn.
 
-## Witch Spells
+## Spells
 
 ### Cantrip
 - [[Chill Touch]]
@@ -107,7 +107,7 @@ List of spells available for a Witch to learn.
 - [[Transformação de Guerra]]
 
 ## Spell Descriptions
-
+[[Spells]]
 ### Aid (2 MP)
 <div class="spell-tags">boost sacred</div>
 
@@ -170,7 +170,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Beast Bont (1 MP)
 <div class="spell-tags">feral divination arcane enchantment wild trickery</div>
 
@@ -230,7 +230,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - **+3PM:** target an additional creature..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Calm Emotions (2 MP)
 <div class="spell-tags">enchantment trickery boost sacred</div>
 
@@ -298,7 +298,7 @@ Você convoca uma planta mágica, que cospe ervilhas no seu alvo. Se o alvo é u
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 4º círculo..
 - **+14 PM:** muda o alvo para objeto mundano Colossal. Requer 5º círculo..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Casca da Cigarra (1 MP)
 <div class="spell-tags">occult abjuration necromancy wild feral thaumaturgy arcane</div>
 
@@ -366,7 +366,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Chill Touch (0 MP)
 <div class="spell-tags">cold elemental unholy occult</div>
 
@@ -425,7 +425,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Create Bonfire (0 MP)
 <div class="spell-tags">fire summon wild transmutation arcane elemental</div>
 
@@ -494,7 +494,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 - **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Earthbind (2 MP)
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
@@ -566,7 +566,7 @@ O alvo emana sombras em uma área com 6m de raio. Criaturas dentro da área rece
 - **+2 PM:** muda o alvo para 1 criatura e a resistência para Fortitude arcial. Você lança a magia nos olhos do alvo, que fica cego pela cena. Se passar na resistência, fica cego or 1 rodada. Requer 3º círculo..
 - **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você é oberto or sombras, recebendo +10 em testes de Furtividade e camuflagem por escuridão. Requer 3º círculo..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Espelho do Pântano (3 MP)
 <div class="spell-tags">divination no-arcane trickery summon wild</div>
 
@@ -626,7 +626,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 
 - **+2PM:** aumente o dano em 1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Goodberry (1 MP)
 <div class="spell-tags">plant wild summon</div>
 
@@ -682,7 +682,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4.
 - **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Heat Metal (2 MP)
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
 
@@ -745,7 +745,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -808,7 +808,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Invisibilidade (3 MP)
 <div class="spell-tags">ilusion trickery</div>
 
@@ -868,7 +868,7 @@ You touch a willing creature who isn’t wearing armor, and a protective magical
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Mage Hand (1 MP)
 <div class="spell-tags">trickery</div>
 
@@ -938,7 +938,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Mind Whip (2 MP)
 <div class="spell-tags">trickery enchantment energy psyquic</div>
 
@@ -1003,7 +1003,7 @@ For the duration, each creature you choose within 30 feet of you (including you)
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Perdição (1 MP)
 <div class="spell-tags">curse occult</div>
 
@@ -1066,7 +1066,7 @@ A ray of sickening greenish energy lashes out toward a creature within range. Ma
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -1126,7 +1126,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -1187,7 +1187,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Spike Growth (2 MP)
 <div class="spell-tags">plant wild creation arcane</div>
 
@@ -1257,7 +1257,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -1322,7 +1322,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+2 PM:** aumenta a penalidade em –1..
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Transformação de Guerra (6 MP)
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
 

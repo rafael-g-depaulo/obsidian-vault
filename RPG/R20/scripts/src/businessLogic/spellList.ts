@@ -1,5 +1,6 @@
 import { joinInGroupsOf } from '../arrayUtils'
 import { CompileRulesDeps, processContent } from '../compileBook/index'
+import { breakPage } from '../compileBook/replacePageBreakMacro'
 import { groupByLevel } from '../spellList'
 import { spellLevelStr } from '../stringOutputUtils'
 import { createSpellList, TagRules } from '../tagRules'
@@ -24,7 +25,8 @@ export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
   tagsCss +
   `### Spell List\n` +
   `List of spells available for a ${groupName} to learn.\n\n` +
-  `## ${groupName} Spells\n\n` +
+  // `## ${groupName} Spells\n\n` +
+  `## Spells\n\n` +
   groupByLevel(spells)
     .map(
       ([level, spells]) =>
@@ -34,18 +36,22 @@ export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
     )
     .join('\n\n')
 
+const linkbackStr = (linkback?: string) => (!linkback ? "" : `[[${linkback}]]`)
+
 export const makeSpellDescriptionsListString = (spells: Spell[]) =>
+  linkbackStr("Spells") +
   joinInGroupsOf(4)(
     spells.sort((a, b) => a.name.localeCompare(b.name)).map(spellString)
   )
     .map(group => group.join('\n'))
-    .join('{{page-break}}')
+    .join(breakPage + linkbackStr("Spells"))
 
 export const getClassSpellsSection = async (
   allSpells: Spell[],
   deps: CompileRulesDeps,
   rules?: TagRules,
   className?: string,
+  // linkback?: string,
 ) => {
   if (!className) return ''
 
@@ -54,11 +60,15 @@ export const getClassSpellsSection = async (
   const processClassfileContent = processContent(deps)
 
   const spells = createSpellList(allSpells, rules)
-  const spellListString = makeSpellListString(spells, className)
+  // const spellListString = makeSpellListString(spells, className)
   const spellDescriptionsString = makeSpellDescriptionsListString(spells)
 
+  // const endPageLinkbackStr = (!linkback ? "" : `[[${linkback}|Voltar]]`) + breakPage
+  // console.log(endPageLinkbackStr)
+
   return (
-    (await processClassfileContent(spellListString + '{{page-break}}')) +
+    // (await processClassfileContent(spellListString + breakPage)) +
+    breakPage +
     (await processClassfileContent(spellDescriptionsString))
   )
 }

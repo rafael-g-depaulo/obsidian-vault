@@ -48,9 +48,9 @@
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#pundefined))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
-**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
+**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
 **Juntar Energia.** **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
 
@@ -89,19 +89,14 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
 
-
-- **1.** impacto
-
-- **2.** cortante
-
-- **3.** gelo
-
-- **4.** elétrico
-
-- **5.** fogo
-
-- **6.** psíquico
-
+| d6 | dano |
+| :--: | :--: |
+| 1 | impacto |
+| 2 | cortante |
+| 3 | gelo |
+| 4 | elétrico |
+| 5 | fogo |
+| 6 | psíquico |
 
 
 - **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
@@ -127,6 +122,8 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
 - **Escudo Arcano.** **Movimento:** Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.<br>
+
+
 
 
 
@@ -184,164 +181,80 @@ List of spells available for a Chaneler to learn.
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#p8)
-- [Chill Touch](#p10)
-- [Control Flames](#p11)
-- [Energy Blast](#p12)
-- [Fire Bolt](#p13)
-- [Frostbite](#p14)
-- [Guidance](#p14)
-- [Lightning Lure](#p16)
-- [Magic Stone](#p17)
-- [Message](#p18)
-- [Poison Spray](#p18)
-- [Ray of Frost](#p19)
-- [Resistance](#p19)
-- [Shape Water](#p20)
-- [Thunderclap](#p21)
-- [Toll the Dead](#p22)
-- [Vicious Mockery](#p22)
+- [Acid Splash](#p7)
+- [Chill Touch](#p9)
+- [Control Flames](#p10)
+- [Energy Blast](#p11)
+- [Fire Bolt](#p12)
+- [Frostbite](#p13)
+- [Guidance](#p13)
+- [Lightning Lure](#p15)
+- [Magic Stone](#p16)
+- [Message](#p17)
+- [Poison Spray](#p17)
+- [Ray of Frost](#p18)
+- [Resistance](#p18)
+- [Shape Water](#p19)
+- [Thunderclap](#p20)
+- [Toll the Dead](#p21)
+- [Vicious Mockery](#p21)
 
 ### 1st Circle
-- [Benção](#p8)
-- [Burning Hands](#p9)
-- [Catapult](#p10)
-- [Chaos Bolt](#p10)
-- [Despedaçar](#p11)
-- [Dissonant Whispers](#p11)
-- [Earth Tremor](#p12)
-- [Escuridão](#p12)
-- [Explosão de chamas](#p12)
-- [Feather Fall](#p13)
-- [Hellish Rebuke](#p14)
-- [Heroism](#p15)
-- [Imagem Espelhada](#p15)
-- [Infligir Ferimentos](#p15)
-- [Longstrider](#p16)
-- [Mage Armor](#p16)
-- [Magic Missile](#p16)
-- [Ray of Sickness](#p19)
-- [Silent Image](#p21)
-- [Thunderwave](#p22)
-- [Witch Bolt](#p22)
-- [Área Escorregadia](#p8){{pageNumber,auto}}
+- [Benção](#p7)
+- [Burning Hands](#p8)
+- [Catapult](#p9)
+- [Chaos Bolt](#p9)
+- [Despedaçar](#p10)
+- [Dissonant Whispers](#p10)
+- [Earth Tremor](#p11)
+- [Escuridão](#p11)
+- [Explosão de chamas](#p11)
+- [Feather Fall](#p12)
+- [Hellish Rebuke](#p13)
+- [Heroism](#p14)
+- [Imagem Espelhada](#p14)
+- [Infligir Ferimentos](#p14)
+- [Longstrider](#p15)
+- [Mage Armor](#p15)
+- [Magic Missile](#p15)
+- [Ray of Sickness](#p18)
+- [Silent Image](#p20)
+- [Thunderwave](#p21)
+- [Witch Bolt](#p21)
+- [Área Escorregadia](#p7){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#p8)
-- [Binding Ice](#p9)
-- [Blindness Deafness](#p9)
-- [Calm Emotions](#p9)
-- [Continual Flame](#p10)
-- [Crown of Madness](#p11)
-- [Explosão Sonora](#p13)
-- [Heat Metal](#p14)
-- [Hold Person](#p15)
-- [Magic Mouth](#p17)
-- [Manto de Vento](#p17)
-- [Maximilian's Earthen Grasp](#p17)
-- [Mind Whip](#p18)
-- [Ray of Enfeeblement](#p18)
-- [Scorching Ray](#p20)
-- [See invisibility](#p20)
-- [Silence](#p20)
-- [Snowball Swarm](#p21)
+- [Aid](#p7)
+- [Binding Ice](#p8)
+- [Blindness Deafness](#p8)
+- [Calm Emotions](#p8)
+- [Continual Flame](#p9)
+- [Crown of Madness](#p10)
+- [Explosão Sonora](#p12)
+- [Heat Metal](#p13)
+- [Hold Person](#p14)
+- [Magic Mouth](#p16)
+- [Manto de Vento](#p16)
+- [Maximilian's Earthen Grasp](#p16)
+- [Mind Whip](#p17)
+- [Ray of Enfeeblement](#p17)
+- [Scorching Ray](#p19)
+- [See invisibility](#p19)
+- [Silence](#p19)
+- [Snowball Swarm](#p20)
 
 ### 3rd Circle
-- [Flecha Ácida](#p13)
-- [Relâmpago](#p19)
-- [Sopro das Uivantes](#p21)
-
-<style>
-.spell-tags {
-	color: #ed4512;
-	font-family: 'Open Sans';
-	font-size: 0.8rem;
-	font-weight: 600;
-	margin-top: 0rem !important;
-	margin-bottom: 0.25rem;
-}
-</style>
-### Spell List
-List of spells available for a Channeler to learn.
-
-## Channeler Spells
-
-### Cantrip
-- [Acid Splash](#p8)
-- [Chill Touch](#p10)
-- [Control Flames](#p11)
-- [Energy Blast](#p12)
-- [Fire Bolt](#p13)
-- [Frostbite](#p14)
-- [Guidance](#p14)
-- [Lightning Lure](#p16)
-- [Magic Stone](#p17)
-- [Message](#p18)
-- [Poison Spray](#p18)
-- [Ray of Frost](#p19)
-- [Resistance](#p19)
-- [Shape Water](#p20)
-- [Thunderclap](#p21)
-- [Toll the Dead](#p22)
-- [Vicious Mockery](#p22)
-
-### 1st Circle
-- [Benção](#p8)
-- [Burning Hands](#p9)
-- [Catapult](#p10)
-- [Chaos Bolt](#p10)
-- [Despedaçar](#p11)
-- [Dissonant Whispers](#p11)
-- [Earth Tremor](#p12)
-- [Escuridão](#p12)
-- [Explosão de chamas](#p12)
-- [Feather Fall](#p13)
-- [Hellish Rebuke](#p14)
-- [Heroism](#p15)
-- [Imagem Espelhada](#p15)
-- [Infligir Ferimentos](#p15)
-- [Longstrider](#p16)
-- [Mage Armor](#p16)
-- [Magic Missile](#p16)
-- [Ray of Sickness](#p19)
-- [Silent Image](#p21)
-- [Thunderwave](#p22)
-- [Witch Bolt](#p22)
-- [Área Escorregadia](#p8){{pageNumber,auto}}
+- [Flecha Ácida](#p12)
+- [Relâmpago](#p18)
+- [Sopro das Uivantes](#p20)
+{{pageNumber,auto}}
 \page
-
-
-### 2nd Circle
-- [Aid](#p8)
-- [Binding Ice](#p9)
-- [Blindness Deafness](#p9)
-- [Calm Emotions](#p9)
-- [Continual Flame](#p10)
-- [Crown of Madness](#p11)
-- [Explosão Sonora](#p13)
-- [Heat Metal](#p14)
-- [Hold Person](#p15)
-- [Magic Mouth](#p17)
-- [Manto de Vento](#p17)
-- [Maximilian's Earthen Grasp](#p17)
-- [Mind Whip](#p18)
-- [Ray of Enfeeblement](#p18)
-- [Scorching Ray](#p20)
-- [See invisibility](#p20)
-- [Silence](#p20)
-- [Snowball Swarm](#p21)
-
-### 3rd Circle
-- [Flecha Ácida](#p13)
-- [Relâmpago](#p19)
-- [Sopro das Uivantes](#p21){{pageNumber,auto}}
-\page
-
+[Spells](#p5)
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -409,7 +322,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Binding Ice (2 MP)
 <div class="spell-tags">cold elemental thaumaturgy evocation</div>
 
@@ -472,7 +385,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -543,7 +456,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
 
@@ -613,7 +526,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 - **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Earth Tremor (1 MP)
 <div class="spell-tags">earth nature transmutation arcane</div>
 
@@ -680,7 +593,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -742,7 +655,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágic
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Frostbite (0 MP)
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
 
@@ -802,7 +715,7 @@ Em resposta a uma criatura te ferir. You point your finger, and the creature tha
 
 - **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Heroism (1 MP)
 <div class="spell-tags">boost sacred enchantment trickery</div>
 
@@ -866,7 +779,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -925,7 +838,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Magic Mouth (2 MP)
 <div class="spell-tags">speech trickery arcane divination transmutation</div>
 
@@ -994,7 +907,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -1057,7 +970,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
 
@@ -1114,7 +1027,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
 
@@ -1185,7 +1098,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -1251,7 +1164,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 - **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 

@@ -12,7 +12,7 @@
 ### Spell List
 List of spells available for a Channeler to learn.
 
-## Channeler Spells
+## Spells
 
 ### Cantrip
 - [[Acid Splash]]
@@ -85,7 +85,7 @@ List of spells available for a Channeler to learn.
 - [[Sopro das Uivantes]]
 
 ## Spell Descriptions
-
+[[Spells]]
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -153,7 +153,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Binding Ice (2 MP)
 <div class="spell-tags">cold elemental thaumaturgy evocation</div>
 
@@ -216,7 +216,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -287,7 +287,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
 
@@ -357,7 +357,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 - **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Earth Tremor (1 MP)
 <div class="spell-tags">earth nature transmutation arcane</div>
 
@@ -424,7 +424,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -486,7 +486,7 @@ Você dispara um projétil que causa 4d6 pontos de dano de ácido (ataque mágic
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Frostbite (0 MP)
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
 
@@ -546,7 +546,7 @@ Em resposta a uma criatura te ferir. You point your finger, and the creature tha
 
 - **+2PM:** increase the damage by +1d10.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Heroism (1 MP)
 <div class="spell-tags">boost sacred enchantment trickery</div>
 
@@ -610,7 +610,7 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
 - **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -669,7 +669,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Magic Mouth (2 MP)
 <div class="spell-tags">speech trickery arcane divination transmutation</div>
 
@@ -738,7 +738,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -801,7 +801,7 @@ At the end of each of the target’s turns, it can make a Constitution saving th
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Ray of Frost (0 MP)
 <div class="spell-tags">curse no-occult evocation cold thaumaturgy elemental</div>
 
@@ -858,7 +858,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
 
@@ -929,7 +929,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -995,7 +995,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 - **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 

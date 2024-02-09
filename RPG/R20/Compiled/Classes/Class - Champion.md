@@ -47,7 +47,7 @@
 
 **Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Persuasão, Enganação, Intimidação e Performance**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -85,6 +85,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 - **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pre-requisites: *6º nível de champion*.
 
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
+
+
 
 
 

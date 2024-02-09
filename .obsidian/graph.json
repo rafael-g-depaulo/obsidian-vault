@@ -8,20 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:UnB",
-      "color": {
-        "a": 1,
-        "rgb": 9136163
-      }
-    },
-    {
-      "query": "path:Programming  ",
-      "color": {
-        "a": 1,
-        "rgb": 16774927
-      }
-    },
-    {
       "query": "path:RPG  ",
       "color": {
         "a": 1,
@@ -39,6 +25,6 @@
   "repelStrength": 8.33333333333333,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 0.11899285644244742,
+  "scale": 0.26773392699550647,
   "close": false
 }

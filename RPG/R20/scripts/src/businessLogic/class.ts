@@ -40,7 +40,8 @@ export interface Class {
 }
 
 const groupFeats = separateGroups((line: string) =>
-  line[0] === '|' ? 'feat' : 'raw'
+  // line[0] === '|' ? 'feat' : 'raw'
+  (/\|.*\|.*\|.*\|/.test(line)) ? "feat" : "raw"
 )
 const parseFeats = (content: string = '') => {
   const entries = groupFeats(content.split('\n'))
@@ -56,7 +57,7 @@ const parseFeats = (content: string = '') => {
     )
 
   const featsContent = entries.map(({ group, items }) =>
-    group === 'feat' ? parseFeatsTable(items) : items.join('')
+    group === 'feat' ? parseFeatsTable(items) : items.join('\n')
   )
 
   return featsContent.flat()

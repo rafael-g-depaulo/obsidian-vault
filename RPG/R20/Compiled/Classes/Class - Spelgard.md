@@ -52,7 +52,7 @@
 
 **Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 3, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 6, escolha uma perícia adicional.
@@ -118,6 +118,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -136,144 +137,70 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#p8)
-- [Blade Ward](#p9)
-- [Energy Blast](#p12)
-- [Fire Bolt](#p13)
-- [Green Flame Blade](#p14)
-- [Guidance](#p14)
-- [Poison Spray](#p17)
-- [Ray of Frost](#p17)
-- [Resistance](#p18)
-- [Sword Burst](#p19)
-- [Word of Radiance](#p20)
+- [Acid Splash](#p7)
+- [Blade Ward](#p8)
+- [Energy Blast](#p11)
+- [Fire Bolt](#p12)
+- [Green Flame Blade](#p13)
+- [Guidance](#p13)
+- [Poison Spray](#p16)
+- [Ray of Frost](#p16)
+- [Resistance](#p17)
+- [Sword Burst](#p18)
+- [Word of Radiance](#p19)
 
 ### 1st Circle
-- [Arma Mágica](#p8)
-- [Armor of Agathys](#p8)
-- [Benção](#p9)
-- [Burning Hands](#p9)
-- [Chaos Bolt](#p10)
-- [Concentração de Combate](#p10)
-- [Curar Ferimentos](#p11)
-- [Detect Poison and Disease (Ritual)](#p11)
-- [Detectar Ameaças](#p11)
-- [Divine Favor](#p12)
-- [Escudo](#p13)
-- [Explosão de chamas](#p13)
-- [Guiding Bolt](#p14)
-- [Healing Word](#p15)
-- [Longstrider](#p16)
-- [Mage Armor](#p16)
-- [Magic Missile](#p16)
-- [Primor Atlético](#p17)
-- [Ray of Sickness](#p18)
-- [Searing Smite](#p18)
-- [Thunderous Smite](#p19)
-- [Toque Chocante](#p20)
-- [Witch Bolt](#p20)
-- [Zephyr Strike](#p20){{pageNumber,auto}}
+- [Arma Mágica](#p7)
+- [Armor of Agathys](#p7)
+- [Benção](#p8)
+- [Burning Hands](#p8)
+- [Chaos Bolt](#p9)
+- [Concentração de Combate](#p9)
+- [Curar Ferimentos](#p10)
+- [Detect Poison and Disease (Ritual)](#p10)
+- [Detectar Ameaças](#p10)
+- [Divine Favor](#p11)
+- [Escudo](#p12)
+- [Explosão de chamas](#p12)
+- [Guiding Bolt](#p13)
+- [Healing Word](#p14)
+- [Longstrider](#p15)
+- [Mage Armor](#p15)
+- [Magic Missile](#p15)
+- [Primor Atlético](#p16)
+- [Ray of Sickness](#p17)
+- [Searing Smite](#p17)
+- [Thunderous Smite](#p18)
+- [Toque Chocante](#p19)
+- [Witch Bolt](#p19)
+- [Zephyr Strike](#p19){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#p8)
-- [Binding Ice](#p9)
-- [Cloud of Dagges](#p10)
-- [Continual Flame](#p10)
-- [Darkvision](#p11)
-- [Enhance Ability](#p12)
-- [Reduce](#pundefined)
-- [Flame Blade](#p13)
-- [Flechas Sentinelas](#p14)
-- [Ice Knife](#p15)
-- [Laço Protetor](#p15)
-- [Lesser Restoration](#p15)
-- [Moonbeam](#p16)
-- [Prayer of Healing](#p17)
-- [Scorching Ray](#p18)
-- [See invisibility](#p19)
-- [Spider Climb](#p19)
-
-<style>
-.spell-tags {
-	color: #ed4512;
-	font-family: 'Open Sans';
-	font-size: 0.8rem;
-	font-weight: 600;
-	margin-top: 0rem !important;
-	margin-bottom: 0.25rem;
-}
-</style>
-### Spell List
-List of spells available for a Spelgard to learn.
-
-## Spelgard Spells
-
-### Cantrip
-- [Acid Splash](#p8)
-- [Blade Ward](#p9)
-- [Energy Blast](#p12)
-- [Fire Bolt](#p13)
-- [Green Flame Blade](#p14)
-- [Guidance](#p14)
-- [Poison Spray](#p17)
-- [Ray of Frost](#p17)
-- [Resistance](#p18)
-- [Sword Burst](#p19)
-- [Word of Radiance](#p20)
-
-### 1st Circle
-- [Arma Mágica](#p8)
-- [Armor of Agathys](#p8)
-- [Benção](#p9)
-- [Burning Hands](#p9)
-- [Chaos Bolt](#p10)
-- [Concentração de Combate](#p10)
-- [Curar Ferimentos](#p11)
-- [Detect Poison and Disease (Ritual)](#p11)
-- [Detectar Ameaças](#p11)
-- [Divine Favor](#p12)
-- [Escudo](#p13)
-- [Explosão de chamas](#p13)
-- [Guiding Bolt](#p14)
-- [Healing Word](#p15)
-- [Longstrider](#p16)
-- [Mage Armor](#p16)
-- [Magic Missile](#p16)
-- [Primor Atlético](#p17)
-- [Ray of Sickness](#p18)
-- [Searing Smite](#p18)
-- [Thunderous Smite](#p19)
-- [Toque Chocante](#p20)
-- [Witch Bolt](#p20)
-- [Zephyr Strike](#p20){{pageNumber,auto}}
+- [Aid](#p7)
+- [Binding Ice](#p8)
+- [Cloud of Dagges](#p9)
+- [Continual Flame](#p9)
+- [Darkvision](#p10)
+- [Enhance Ability](#p11)
+- [Reduce (link not found)]()
+- [Flame Blade](#p12)
+- [Flechas Sentinelas](#p13)
+- [Ice Knife](#p14)
+- [Laço Protetor](#p14)
+- [Lesser Restoration](#p14)
+- [Moonbeam](#p15)
+- [Prayer of Healing](#p16)
+- [Scorching Ray](#p17)
+- [See invisibility](#p18)
+- [Spider Climb](#p18)
+{{pageNumber,auto}}
 \page
-
-
-### 2nd Circle
-- [Aid](#p8)
-- [Binding Ice](#p9)
-- [Cloud of Dagges](#p10)
-- [Continual Flame](#p10)
-- [Darkvision](#p11)
-- [Enhance Ability](#p12)
-- [Reduce](#pundefined)
-- [Flame Blade](#p13)
-- [Flechas Sentinelas](#p14)
-- [Ice Knife](#p15)
-- [Laço Protetor](#p15)
-- [Lesser Restoration](#p15)
-- [Moonbeam](#p16)
-- [Prayer of Healing](#p17)
-- [Scorching Ray](#p18)
-- [See invisibility](#p19)
-- [Spider Climb](#p19){{pageNumber,auto}}
-\page
-
+[Spells](#p5)
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -334,7 +261,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 - **+1PM:** aumenta os PV temporários em 5.
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Benção (1 MP)
 <div class="spell-tags">boost sacred speech no-trickery</div>
 
@@ -396,7 +323,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 - **+1 PM:** dano +1d6..
 - **+2PM:** aumenta o tamanho do cone em +1sqr.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
@@ -468,7 +395,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Curar Ferimentos (1 MP)
 <div class="spell-tags">recovery sacred</div>
 
@@ -532,7 +459,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
 - **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
@@ -596,7 +523,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -665,7 +592,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 - **+2PM:** +1 acerto com ataque com a espada.
 - **+1PM:** +1 margem de ameaça.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Flechas Sentinelas (2 MP)
 <div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
 
@@ -725,7 +652,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 - **+1 PM:** aumenta o dano em +1d6.
 - **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
 
@@ -787,7 +714,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
 
@@ -852,7 +779,7 @@ On each of your turns after you cast this spell, you can use a movement action t
 
 - **+2:** aumente o dano em +1d10.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -911,7 +838,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -972,7 +899,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 - **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
 
@@ -1027,7 +954,7 @@ The first time you hit with a melee weapon attack during this spell’s duration
 
 - **+1PM:** Aumenta o dano inicial em +1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Toque Chocante (1 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
 

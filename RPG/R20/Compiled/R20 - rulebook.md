@@ -65,18 +65,18 @@ ___
 - ### [{{ Beast Warrior (Martial) }}{{ 11 }}](#p11)
 - ### [{{ Champion (Martial) }}{{ 13 }}](#p13)
 - ### [{{ Channeler (Caster) }}{{ 15 }}](#p15)
-- #### [{{  Spells }}{{ 17 }}](#p17)
+- #### [{{ Spells }}{{ 17 }}](#p17)
 - ### [{{ Dancer (Specialist) }}{{ 19 }}](#p19)
 - ### [{{ Fighter (Martial) }}{{ 22 }}](#p22)
 - ### [{{ Juggernaut (Martial) }}{{ 24 }}](#p24)
 - ### [{{ Plantomancer (Caster) }}{{ 26 }}](#p26)
-- #### [{{  Spells }}{{ 28 }}](#p28)
+- #### [{{ Spells }}{{ 28 }}](#p28)
 - ### [{{ Rogue (Specialist) }}{{ 30 }}](#p30)
 - ### [{{ Spelgard (Off-Caster) }}{{ 32 }}](#p32)
-- #### [{{  Spells }}{{ 34 }}](#p34)
+- #### [{{ Spells }}{{ 34 }}](#p34)
 - ### [{{ Werebeast (Specialist) }}{{ 36 }}](#p36)
 - ### [{{ Witch (Caster) }}{{ 38 }}](#p38)
-- #### [{{  Spells }}{{ 40 }}](#p40)
+- #### [{{ Spells }}{{ 40 }}](#p40)
 - ### [{{ Combat }}{{ 41 }}](#p41)
 - #### [{{ Round }}{{ 41 }}](#p41)
 - #### [{{ Combat Actions }}{{ 41 }}](#p41)
@@ -134,7 +134,7 @@ ___
 - ### [{{ Spell Tags }}{{ 64 }}](#p64)
 - #### [{{ Tags }}{{ 64 }}](#p64)
 - ### [{{ Spell List }}{{ 65 }}](#p65)
-- #### [{{ All Spells }}{{ 65 }}](#p65)
+- #### [{{ Spells }}{{ 65 }}](#p65)
 - ### [{{ Spells }}{{ 67 }}](#p67)
 - ### [{{ Contracts, Paladins & Entities }}{{ 105 }}](#p105)
 - #### [{{ Paladins }}{{ 105 }}](#p105)
@@ -358,7 +358,7 @@ off-caster who fights and can apply temporary buffs that make them hit harder an
 can use HP for spells, and has a lot of regen and life leech. skills use a ton of MP.
 
 #### Bard (TBI)
-Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [multi-form changing guy|multi-form changing guy](#pundefined)
+Inspiration (flat bonus or dice? AoE or single target?). off-caster. Can substitue an attack for a trick using artistic instrument. talvez usar a ideia do [multi-form changing guy|multi-form changing guy (link not found)]()
 
 ### Caster Classes
 #### Witch
@@ -695,6 +695,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 
 
+
+
+
 {{pageNumber,auto}}
 \page
 # Champion (Martial)
@@ -785,6 +788,8 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 
 
+
+
 **TODO:** Mais poderes para palavras afiadas
 
 **TODO:** integrar poderes "Inspirar \_\_\_\_\_\_\_" com a habilidade básica de cura
@@ -837,7 +842,7 @@ Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo d
 
 **Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p58))
 
-**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
+**Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
 **Juntar Energia.** **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.
 
@@ -876,19 +881,14 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
 
-
-- **1.** impacto
-
-- **2.** cortante
-
-- **3.** gelo
-
-- **4.** elétrico
-
-- **5.** fogo
-
-- **6.** psíquico
-
+| d6 | dano |
+| :--: | :--: |
+| 1 | impacto |
+| 2 | cortante |
+| 3 | gelo |
+| 4 | elétrico |
+| 5 | fogo |
+| 6 | psíquico |
 
 
 - **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
@@ -914,6 +914,8 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
 - **Escudo Arcano.** **Movimento:** Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.<br>
+
+
 
 
 
@@ -971,7 +973,7 @@ List of spells available for a Chaneler to learn.
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
 - [Acid Splash](#p67)
@@ -1136,6 +1138,7 @@ maybe add option to upcast?
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 
 
+
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
@@ -1264,6 +1267,7 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 
 
+
 Skill: Pyrexia (heat meter that goes positive and negative and increases the max with level)
 
 
@@ -1366,6 +1370,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 - **Defesa Inabalável.** (Guarda Alta) Você pode gastar 3PM para adicionar sua Guard em qualquer teste de resistência de um atributo mental. Após a ação que causou o teste se resolver, você abaixa a guarda. Pre-requisites: *1 poder que tem Defesa Impenetrável como pré-requisito.*.
 
 - **Defesa Indestrutível.** (Guarda Alta, ao receber dano que quebraria sua guarda) Reação (2PM): imediatamente após tomar o dano, **Levante Guarda**. Pre-requisites: *2 poderes que tem Defesa Impenetrável como pré-requisito.*.
+
 
 
 
@@ -1477,6 +1482,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -1495,7 +1501,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
 - [Acid Splash](#p67)
@@ -1551,7 +1557,7 @@ List of spells available for a  to learn.
 - [Crown of Madness](#p76)
 - [Darkvision](#p76)
 - [Earthbind](#p78)
-- [Reduce](#pundefined)
+- [Reduce (link not found)]()
 - [Explosão Sonora](#p81)
 - [Flechas Sentinelas](#p82)
 - [Healing Spirit](#p84)
@@ -1664,6 +1670,7 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 - **Ardiloso ao Quadrado.** Você pode fazer 2 ataques ardilosos no mesmo ataque furtivo  (somando o custo dos 2).
 
 - **Confiança Absoluta.** (ao fazer um ataque) Livre (X PM, limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto
+
 
 
 ### Ataque Ardiloso
@@ -1806,6 +1813,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -1824,7 +1832,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
 - [Acid Splash](#p67)
@@ -1874,7 +1882,7 @@ List of spells available for a  to learn.
 - [Continual Flame](#p75)
 - [Darkvision](#p76)
 - [Enhance Ability](#p79)
-- [Reduce](#pundefined)
+- [Reduce (link not found)]()
 - [Flame Blade](#p82)
 - [Flechas Sentinelas](#p82)
 - [Ice Knife](#p86)
@@ -2008,6 +2016,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 
 
+
 {{pageNumber,auto}}
 \page
 # Witch (Caster)
@@ -2135,6 +2144,7 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 
 
+
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.
@@ -2171,7 +2181,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 
 
@@ -3418,7 +3428,7 @@ nature -> elemental -> wild -> nature
 ### Spell List
 List of spells available for a All to learn.
 
-## All Spells
+## Spells
 
 ### Cantrip
 - [Acid Splash](#p67)
@@ -3531,7 +3541,7 @@ List of spells available for a All to learn.
 - [Darkvision](#p76)
 - [Earthbind](#p78)
 - [Enhance Ability](#p79)
-- [Reduce](#pundefined)
+- [Reduce (link not found)]()
 - [Explosão Sonora](#p81)
 - [Flame Blade](#p82)
 - [Flechas Sentinelas](#p82)
@@ -3589,7 +3599,7 @@ List of spells available for a All to learn.
 \page
 # Spells
 . Here is a list of all spells, sorted alphabetically
-
+[Spells](#p67)
 ### Abençoar Alimentos (1 MP)
 <div class="spell-tags">holy sacred plant feral wild</div>
 
@@ -3650,7 +3660,7 @@ Choose a beast that you can see within range. It must see and hear you. If the b
 
 - **+2PM:** you can affect one additional beast for each slot level above 1st..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Área Escorregadia (1 MP)
 <div class="spell-tags">arcane creation trickery water nature</div>
 
@@ -3714,7 +3724,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Barkskin (2 MP)
 <div class="spell-tags">plant wild boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -3775,7 +3785,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Binding Ice (2 MP)
 <div class="spell-tags">cold elemental thaumaturgy evocation</div>
 
@@ -3832,7 +3842,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - **+3PM:** target an additional creature..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Booming Blade (0 MP)
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
 
@@ -3898,7 +3908,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+1 PM:** além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM:** aumenta o bônus de deslocamento em +3m.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Campo de Força (3 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
 
@@ -3961,7 +3971,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 - **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -4030,7 +4040,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Chill Touch (0 MP)
 <div class="spell-tags">cold elemental unholy occult</div>
 
@@ -4092,7 +4102,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 - **+XPM:** you gain an offensive buff against the target.
 - **+XPM:** both you and the target have +# movement speed when running towards eachother.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Concentração de Combate (1 MP)
 <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
@@ -4152,7 +4162,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Create Bonfire (0 MP)
 <div class="spell-tags">fire summon wild transmutation arcane elemental</div>
 
@@ -4221,7 +4231,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 - **+2 PM:** +1 alvo.
 - **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Despedaçar (1 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -4287,7 +4297,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 - **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
@@ -4347,7 +4357,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **+3 PM:** você lança +1 raio contra o alvo principal.
 - **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Enfeitiçar (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -4418,7 +4428,7 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta a CD em 1..
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -4487,7 +4497,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -4549,7 +4559,7 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 - **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas..
 - **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Flame Blade (2 MP)
 <div class="spell-tags">elemental fire warmagic thaumaturgy</div>
 
@@ -4614,7 +4624,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Frostbite (0 MP)
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
 
@@ -4670,7 +4680,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Guiding Bolt (1 MP)
 <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
 
@@ -4729,7 +4739,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4.
 - **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Heat Metal (2 MP)
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
 
@@ -4792,7 +4802,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -4853,7 +4863,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 
 - **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Infligir Ferimentos (1 MP)
 <div class="spell-tags">unholy occult necrotic decay</div>
 
@@ -4920,7 +4930,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Life Transference (3 MP)
 <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -4980,7 +4990,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 - **+2 PM:** muda a duração para 1 dia..
 - **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Mage Armor (1 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -5047,7 +5057,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -5111,7 +5121,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -5177,7 +5187,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Moonbeam (2 MP)
 <div class="spell-tags">wild energy radiant holy sacred</div>
 
@@ -5248,7 +5258,7 @@ Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 - **+4 PM:** sua pele ganha aspecto e dureza de aço. Você recebe resistência a dano 10. Requer 7º círculo..
 - **+4 PM:** muda o alcance para toque, o alvo para 1 criatura, a duração para 1d4 rodadas e adiciona **Resistência:** Fortitude anula..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Perdição (1 MP)
 <div class="spell-tags">curse occult</div>
 
@@ -5307,7 +5317,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 - **+2 PM:** +1d8 acid damage..
 - **+1 PM:** +1 margem de ameaça..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
 
@@ -5374,7 +5384,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -5435,7 +5445,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
 
@@ -5499,7 +5509,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -5571,7 +5581,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 - **:** .{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -5633,7 +5643,7 @@ Uma pequena tempestade de granizo e neve atinge um quadrado de tamanho 2sqr cent
 
 - ****+1PM**:** +1d6 dano.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Soco de Arsenal (3 MP)
 <div class="spell-tags">summon wild wind nature warmagic thaumaturgy</div>
 
@@ -5696,7 +5706,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -5764,7 +5774,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -5822,7 +5832,7 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 - **+2PM:** increse the size of the cube by 1sqr..
 - **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
@@ -5887,7 +5897,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+2 PM:** aumenta a penalidade em –1..
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Transformação de Guerra (6 MP)
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
 
@@ -5950,7 +5960,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 - **+1PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
 \page
-
+[Spells](#p67)
 ### Wither and Bloom  (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
 
@@ -6216,7 +6226,7 @@ fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured
 Bright light lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius. Dim light, also called shadows, creates a lightly obscured area. Darkness creates a heavily obscured area.
 
 ### Agarrado (Grapple)
-The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [Battle Maneuvers](#pundefined))
+The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [Battle Maneuvers (link not found)]())
 
 
 {{pageNumber,auto}}

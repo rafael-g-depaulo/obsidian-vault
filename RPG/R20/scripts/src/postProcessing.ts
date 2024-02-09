@@ -1,3 +1,5 @@
+import { isNumber } from "util";
+
 export interface PostProcessInfo {
   headings: { [name: string]: { level: number; page: number } }
 }
@@ -48,6 +50,19 @@ export const postProcess = (content: string, info: PostProcessInfo) => {
     )?.groups?.Section ?? link
 
   return content.replaceAll(/\[\[.+\]\]/g, subs => {
+    const page = info.headings[getLinkName(subs)]?.page
+
+    if (subs.includes("Spells") && Object.entries(info.headings).length < 400) {
+      console.log(info)
+      // console.log(info.headings[getLinkName(subs)])
+      // if (info.headings[getLinkName(subs)] === undefined) {
+      //   console.log(subs, getLinkName(subs), info.headings["Spells"])
+      // }
+    }
+
+    if (typeof page !== 'number')
+      return `[${getLinkName(subs)} (link not found)]()`
+
     return `[${getLinkName(subs)}](#p${info.headings[getLinkName(subs)]?.page})`
   })
 }

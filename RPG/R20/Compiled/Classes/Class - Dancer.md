@@ -94,6 +94,7 @@ maybe add option to upcast?
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 
 
+
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)

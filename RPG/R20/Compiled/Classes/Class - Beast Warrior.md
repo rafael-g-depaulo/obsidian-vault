@@ -50,7 +50,7 @@
 
 **Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **Natureza, Adestramento, Arcana e Sobrevivência**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -101,6 +101,9 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Powerful Savage Attacks.** When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: *Level 5 Beast Warrior*.
 
 - **Sangue dos Inimigos.** Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
+
+
+
 
 
 

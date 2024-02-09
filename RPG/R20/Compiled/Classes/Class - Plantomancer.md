@@ -48,7 +48,7 @@
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#pundefined))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -106,6 +106,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 {{pageNumber,auto}}
 \page
 
@@ -124,176 +125,86 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 ### Spell List
 List of spells available for a  to learn.
 
-##  Spells
+## Spells
 
 ### Cantrip
-- [Acid Splash](#p8)
-- [Blade Ward](#p9)
-- [Guidance](#p16)
-- [Lightning Lure](#p18)
-- [Magic Stone](#p19)
-- [Poison Spray](#p20)
-- [Resistance](#p20)
-- [Shape Water](#p21)
-- [Shillelagh](#p21)
-- [Sword Burst](#p23)
-- [Thorn Whip](#p23)
-- [Thunderclap](#p23)
+- [Acid Splash](#p7)
+- [Blade Ward](#p8)
+- [Guidance](#p15)
+- [Lightning Lure](#p17)
+- [Magic Stone](#p18)
+- [Poison Spray](#p19)
+- [Resistance](#p19)
+- [Shape Water](#p20)
+- [Shillelagh](#p20)
+- [Sword Burst](#p22)
+- [Thorn Whip](#p22)
+- [Thunderclap](#p22)
 
 ### 1st Circle
-- [Armor of Agathys](#p8)
-- [Caminhos da Natureza](#p9)
-- [Canhão de Ervilha](#p10)
-- [Catapult](#p10)
-- [Cause Fear](#p10)
-- [Charm Person](#p11)
-- [Compelled Duel](#p11)
-- [Controlar Plantas](#p11)
-- [Curar Ferimentos](#p12)
-- [Despedaçar](#p12)
-- [Detect Poison and Disease (Ritual)](#p13)
-- [Earth Tremor](#p13)
-- [Enfeitiçar](#p13)
-- [Entangle](#p14)
-- [Escudo](#p14)
-- [Feather Fall](#p15)
-- [Fog Cloud](#p16)
-- [Goodberry](#p16)
-- [Hail of Thorns](#p16)
-- [Heroism](#p17)
-- [Mage Armor](#p18)
-- [Magic Missile](#p18)
-- [Ray of Sickness](#p20)
-- [Sanctuary](#p21)
-- [Sleep](#p22)
-- [Thunderwave](#p24)
-- [Tranquilidade](#p24)
-- [Área Escorregadia](#p8){{pageNumber,auto}}
+- [Armor of Agathys](#p7)
+- [Caminhos da Natureza](#p8)
+- [Canhão de Ervilha](#p9)
+- [Catapult](#p9)
+- [Cause Fear](#p9)
+- [Charm Person](#p10)
+- [Compelled Duel](#p10)
+- [Controlar Plantas](#p10)
+- [Curar Ferimentos](#p11)
+- [Despedaçar](#p11)
+- [Detect Poison and Disease (Ritual)](#p12)
+- [Earth Tremor](#p12)
+- [Enfeitiçar](#p12)
+- [Entangle](#p13)
+- [Escudo](#p13)
+- [Feather Fall](#p14)
+- [Fog Cloud](#p15)
+- [Goodberry](#p15)
+- [Hail of Thorns](#p15)
+- [Heroism](#p16)
+- [Mage Armor](#p17)
+- [Magic Missile](#p17)
+- [Ray of Sickness](#p19)
+- [Sanctuary](#p20)
+- [Sleep](#p21)
+- [Thunderwave](#p23)
+- [Tranquilidade](#p23)
+- [Área Escorregadia](#p7){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Barkskin](#p8)
-- [Blindness Deafness](#p9)
-- [Calm Emotions](#p9)
-- [Cloud of Dagges](#p11)
-- [Crown of Madness](#p12)
-- [Darkvision](#p12)
-- [Earthbind](#p13)
-- [Reduce](#pundefined)
-- [Explosão Sonora](#p14)
-- [Flechas Sentinelas](#p15)
-- [Healing Spirit](#p17)
-- [Hold Person](#p17)
-- [Laço Protetor](#p17)
-- [Lesser Restoration](#p18)
-- [Manto de Vento](#p19)
-- [Maximilian's Earthen Grasp](#p19)
-- [Mind Whip](#p19)
-- [Ray of Enfeeblement](#p20)
-- [See invisibility](#p21)
-- [Snowball Swarm](#p22)
-- [Spike Growth](#p22)
-- [Sugestion](#p23)
+- [Barkskin](#p7)
+- [Blindness Deafness](#p8)
+- [Calm Emotions](#p8)
+- [Cloud of Dagges](#p10)
+- [Crown of Madness](#p11)
+- [Darkvision](#p11)
+- [Earthbind](#p12)
+- [Reduce (link not found)]()
+- [Explosão Sonora](#p13)
+- [Flechas Sentinelas](#p14)
+- [Healing Spirit](#p16)
+- [Hold Person](#p16)
+- [Laço Protetor](#p16)
+- [Lesser Restoration](#p17)
+- [Manto de Vento](#p18)
+- [Maximilian's Earthen Grasp](#p18)
+- [Mind Whip](#p18)
+- [Ray of Enfeeblement](#p19)
+- [See invisibility](#p20)
+- [Snowball Swarm](#p21)
+- [Spike Growth](#p21)
+- [Sugestion](#p22)
 
 ### 3rd Circle
-- [Campo de Força](#p10)
-- [Flecha Ácida](#p15)
-- [Físico Divino](#p15)
-- [Sopro das Uivantes](#p22)
-
-<style>
-.spell-tags {
-	color: #ed4512;
-	font-family: 'Open Sans';
-	font-size: 0.8rem;
-	font-weight: 600;
-	margin-top: 0rem !important;
-	margin-bottom: 0.25rem;
-}
-</style>
-### Spell List
-List of spells available for a Plantomancer to learn.
-
-## Plantomancer Spells
-
-### Cantrip
-- [Acid Splash](#p8)
-- [Blade Ward](#p9)
-- [Guidance](#p16)
-- [Lightning Lure](#p18)
-- [Magic Stone](#p19)
-- [Poison Spray](#p20)
-- [Resistance](#p20)
-- [Shape Water](#p21)
-- [Shillelagh](#p21)
-- [Sword Burst](#p23)
-- [Thorn Whip](#p23)
-- [Thunderclap](#p23)
-
-### 1st Circle
-- [Armor of Agathys](#p8)
-- [Caminhos da Natureza](#p9)
-- [Canhão de Ervilha](#p10)
-- [Catapult](#p10)
-- [Cause Fear](#p10)
-- [Charm Person](#p11)
-- [Compelled Duel](#p11)
-- [Controlar Plantas](#p11)
-- [Curar Ferimentos](#p12)
-- [Despedaçar](#p12)
-- [Detect Poison and Disease (Ritual)](#p13)
-- [Earth Tremor](#p13)
-- [Enfeitiçar](#p13)
-- [Entangle](#p14)
-- [Escudo](#p14)
-- [Feather Fall](#p15)
-- [Fog Cloud](#p16)
-- [Goodberry](#p16)
-- [Hail of Thorns](#p16)
-- [Heroism](#p17)
-- [Mage Armor](#p18)
-- [Magic Missile](#p18)
-- [Ray of Sickness](#p20)
-- [Sanctuary](#p21)
-- [Sleep](#p22)
-- [Thunderwave](#p24)
-- [Tranquilidade](#p24)
-- [Área Escorregadia](#p8){{pageNumber,auto}}
+- [Campo de Força](#p9)
+- [Flecha Ácida](#p14)
+- [Físico Divino](#p14)
+- [Sopro das Uivantes](#p21)
+{{pageNumber,auto}}
 \page
-
-
-### 2nd Circle
-- [Barkskin](#p8)
-- [Blindness Deafness](#p9)
-- [Calm Emotions](#p9)
-- [Cloud of Dagges](#p11)
-- [Crown of Madness](#p12)
-- [Darkvision](#p12)
-- [Earthbind](#p13)
-- [Reduce](#pundefined)
-- [Explosão Sonora](#p14)
-- [Flechas Sentinelas](#p15)
-- [Healing Spirit](#p17)
-- [Hold Person](#p17)
-- [Laço Protetor](#p17)
-- [Lesser Restoration](#p18)
-- [Manto de Vento](#p19)
-- [Maximilian's Earthen Grasp](#p19)
-- [Mind Whip](#p19)
-- [Ray of Enfeeblement](#p20)
-- [See invisibility](#p21)
-- [Snowball Swarm](#p22)
-- [Spike Growth](#p22)
-- [Sugestion](#p23)
-
-### 3rd Circle
-- [Campo de Força](#p10)
-- [Flecha Ácida](#p15)
-- [Físico Divino](#p15)
-- [Sopro das Uivantes](#p22){{pageNumber,auto}}
-\page
-
+[Spells](#p5)
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -361,7 +272,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 - **+2PM:** increase the minimum Defense by +1.
 - **+3PM:** increase the number of targets by 1.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
@@ -422,7 +333,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+1 PM:** além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM:** aumenta o bônus de deslocamento em +3m.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Campo de Força (3 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
 
@@ -485,7 +396,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Charm Person (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -547,7 +458,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Crown of Madness (2 MP)
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
 
@@ -620,7 +531,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
 - **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
@@ -679,7 +590,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
 - **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Enlarge/Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
@@ -753,7 +664,7 @@ Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no pont
 - **+2 PM:** aumenta o  ano em +1d8..
 - **+2 PM:** aumenta diâmetro da explosão em 1sqr..{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
@@ -815,7 +726,7 @@ You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in
 
 - **+1PM:** +1 flecha.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
 
@@ -870,7 +781,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Healing Spirit (2 MP)
 <div class="spell-tags">recovery sacred summon wild</div>
 
@@ -933,7 +844,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -990,7 +901,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -1054,7 +965,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 - **+1:** +1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -1113,7 +1024,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Sanctuary (1 MP)
 <div class="spell-tags">boost holy sacred enchantment trickery abjuration thaumaturgy</div>
 
@@ -1184,7 +1095,7 @@ For the duration, you can use your spellcasting ability instead of Strength for 
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -1246,7 +1157,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 {{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -1310,7 +1221,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 - **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
 \page
-
+[Spells](#p5)
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 

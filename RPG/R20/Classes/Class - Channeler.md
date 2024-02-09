@@ -10,7 +10,7 @@ FEATURES:
 
 | LEVEL | FEATURE         | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Invocar Feitiço | **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 12sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1. |
+| 1     | Invocar Feitiço | **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1. |
 | 3     | Juntar Energia  | **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 3      | Faísca Mágica: Poder                | (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
@@ -60,14 +60,14 @@ CLASS_NOTE
 | Magia Energizante | toda magia pode ser aumentada com **+2PM:** ganha **Cargas Arcanas** igual ao círculo da magia. |  |
 | Retribuição Arcana | (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados. |  |
 
-| d6  |   dano   |
-|:---:|:--------:|
-|  1  | impacto  |
-|  2  | cortante |
-|  3  |   gelo   |
-|  4  | elétrico |
-|  5  |   fogo   |
-|  6  | psíquico |
+| d6 | dano |
+| :--: | :--: |
+| 1 | impacto |
+| 2 | cortante |
+| 3 | gelo |
+| 4 | elétrico |
+| 5 | fogo |
+| 6 | psíquico |
 
 | NAME | DESCRIPTION | PRE_REQUISITES |
 | ---- | ---- | ---- |

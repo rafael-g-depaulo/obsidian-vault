@@ -122,3 +122,4 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 
 
+

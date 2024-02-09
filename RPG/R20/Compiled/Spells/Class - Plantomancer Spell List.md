@@ -12,7 +12,7 @@
 ### Spell List
 List of spells available for a Plantomancer to learn.
 
-## Plantomancer Spells
+## Spells
 
 ### Cantrip
 - [[Acid Splash]]
@@ -91,7 +91,7 @@ List of spells available for a Plantomancer to learn.
 - [[Sopro das Uivantes]]
 
 ## Spell Descriptions
-
+[[Spells]]
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -159,7 +159,7 @@ You touch a willing creature. Until the spell ends, the target’s skin has a ro
 - **+2PM:** increase the minimum Defense by +1.
 - **+3PM:** increase the number of targets by 1.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Blade Ward (0 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy</div>
 
@@ -220,7 +220,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+1 PM:** além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM:** aumenta o bônus de deslocamento em +3m.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Campo de Força (3 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
 
@@ -283,7 +283,7 @@ You awaken the sense of mortality in one creature you can see within range. A co
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Charm Person (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -345,7 +345,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Crown of Madness (2 MP)
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
 
@@ -418,7 +418,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
 - **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Detect Poison and Disease (Ritual) (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
@@ -477,7 +477,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
 - **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Enlarge/Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
@@ -551,7 +551,7 @@ Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no pont
 - **+2 PM:** aumenta o  ano em +1d8..
 - **+2 PM:** aumenta diâmetro da explosão em 1sqr..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
@@ -613,7 +613,7 @@ You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in
 
 - **+1PM:** +1 flecha.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
 
@@ -668,7 +668,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Healing Spirit (2 MP)
 <div class="spell-tags">recovery sacred summon wild</div>
 
@@ -731,7 +731,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Lesser Restoration (2 MP)
 <div class="spell-tags">holy recovery sacred holy</div>
 
@@ -788,7 +788,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 - **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -852,7 +852,7 @@ You psychically lash out at one creature you can see within range. The target mu
 
 - **+1:** +1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -911,7 +911,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Sanctuary (1 MP)
 <div class="spell-tags">boost holy sacred enchantment trickery abjuration thaumaturgy</div>
 
@@ -982,7 +982,7 @@ For the duration, you can use your spellcasting ability instead of Strength for 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -1044,7 +1044,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -1108,7 +1108,7 @@ Each creature other than you within 5 feet of you must make a Constitution savin
 
 - **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 

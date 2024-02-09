@@ -12,7 +12,7 @@
 ### Spell List
 List of spells available for a Spelgard to learn.
 
-## Spelgard Spells
+## Spells
 
 ### Cantrip
 - [[Acid Splash]]
@@ -75,7 +75,7 @@ List of spells available for a Spelgard to learn.
 - [[Spider Climb]]
 
 ## Spell Descriptions
-
+[[Spells]]
 ### Acid Splash (0 MP)
 <div class="spell-tags">acid decay evocation thaumaturgy</div>
 
@@ -136,7 +136,7 @@ You gain 5 temporary hit points for the duration. If a creature hits you with a 
 - **+1PM:** aumenta os PV temporários em 5.
 - **+1PM:** aumenta o dano em 5.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Benção (1 MP)
 <div class="spell-tags">boost sacred speech no-trickery</div>
 
@@ -198,7 +198,7 @@ The fire ignites any flammable objects in the area that aren’t being worn or c
 - **+1 PM:** dano +1d6..
 - **+2PM:** aumenta o tamanho do cone em +1sqr.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
@@ -270,7 +270,7 @@ The effect looks like a regular flame, but it creates no heat and doesn’t use 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Curar Ferimentos (1 MP)
 <div class="spell-tags">recovery sacred</div>
 
@@ -334,7 +334,7 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
 - **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
@@ -398,7 +398,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -467,7 +467,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 - **+2PM:** +1 acerto com ataque com a espada.
 - **+1PM:** +1 margem de ameaça.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Flechas Sentinelas (2 MP)
 <div class="spell-tags">warmagic thaumaturgy transmutation arcane</div>
 
@@ -527,7 +527,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 - **+1 PM:** aumenta o dano em +1d6.
 - **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Healing Word (1 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
 
@@ -589,7 +589,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 {{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
 
@@ -654,7 +654,7 @@ On each of your turns after you cast this spell, you can use a movement action t
 
 - **+2:** aumente o dano em +1d10.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -713,7 +713,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -774,7 +774,7 @@ At the start of each of its turns until the spell ends, the target must make a C
 
 - **+1PM:** aumente o dano inicial em +1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
 
@@ -829,7 +829,7 @@ The first time you hit with a melee weapon attack during this spell’s duration
 
 - **+1PM:** Aumenta o dano inicial em +1d6.{{pageNumber,auto}}
 \page
-
+[[Spells]]
 ### Toque Chocante (1 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy warmagic</div>
 

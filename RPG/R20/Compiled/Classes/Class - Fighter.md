@@ -47,7 +47,7 @@
 
 **Action Surge.** **Free Action (3PM):** gain one additional main action this turn. At levels 14 and 20 you may spend an extra +3 PM to gain an additional action.
 
-**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#pundefined)), você pode fazer 2 ataques em vez de 1.
+**Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
 ### Especialização
 A partir do nível 4, escolha uma perícia entre **História, Medicina, Empatia e Lógica**. Ao rolar essa perícia, você adiciona seu bonus de proficiência. No nível 8, escolha uma perícia adicional.
@@ -82,5 +82,6 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 - **Tornado de Dor.** Você pode gastar uma ação padrão e 2 PM para desferir uma série de golpes giratórios. Faça um ataque corpo a corpo e compare-o com a Defesa de cada inimigo adjacente. Então faça uma rolagem de dano com um bônus cumulativo de +2 para cada acerto e aplique-a em cada inimigo atingido. Pre-requisites: *6º nível de guerreiro.*.
 
 - **Valentão.** Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
+
 
 

@@ -94,6 +94,7 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 - **Confiança Absoluta.** (ao fazer um ataque) Livre (X PM, limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto
 
 
+
 ### Ataque Ardiloso
 
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:

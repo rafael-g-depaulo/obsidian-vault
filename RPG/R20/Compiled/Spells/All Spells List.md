@@ -12,7 +12,7 @@
 ### Spell List
 List of spells available for a All to learn.
 
-## All Spells
+## Spells
 
 ### Cantrip
 - [[Acid Splash]]
