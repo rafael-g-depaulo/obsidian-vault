@@ -85,5 +85,14 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }
