@@ -3,9 +3,10 @@
 
 ---
 
-1. O que é o Labfaz Digital?
-2. Equipe de Produto?
-3. Como a equipe de produto se integra com a minha?
+1. Porque essa apresentação existe?
+2. O que é o Labfaz Digital?
+3. Equipe de Produto?
+4. Como a equipe de produto se integra com a minha?
 
 ---
 
@@ -17,9 +18,43 @@
 
 ---
 
-Temos um problema de nome
+## Porque esse slide?
+
+Problema de nome -> Problema de entendimento -> Ineficiências e complexidade desnecessária
 
 ---
 
 
 ![[Drawing 2024-02-16 10.18.42.excalidraw]]
+
+---
+
+## LABFAZ DIGITAL
+
+- conjunto de produtos (ferramentas) de TI internas que o LabFaz usa para atingir os seus objetivos e missões
+	- site
+	- aplicativo web/mobile
+	- cadastro
+	- análise de dados
+	- arquitetura de ti para cursos híbridos/remotos
+
+---
+
+Equipe LabFaz digital Fase 4:
+- Eu
+
+---
+
+Como foi desenvolvimento do LabFaz digital nas fases 1-3:
+
+![[tracks.gif]]
+
+---
+
+Equipe LabFaz digital Fase 4:
+- Eu
+- Vc!
+
+---
+
+Muito obrigado por ouvir. Vamos mandar bem juntos!
