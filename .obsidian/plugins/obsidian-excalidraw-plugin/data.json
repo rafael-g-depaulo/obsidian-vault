@@ -14,7 +14,7 @@
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
-  "displayExportedImageIfAvailable": false,
+  "displayExportedImageIfAvailable": true,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "dynamicStyling": "colorful",

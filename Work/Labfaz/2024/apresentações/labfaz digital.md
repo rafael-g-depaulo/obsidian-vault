@@ -24,8 +24,9 @@ Problema de nome -> Problema de entendimento -> Ineficiências e complexidade de
 
 ---
 
-
 ![[Drawing 2024-02-16 10.18.42.excalidraw]]
+
+![[Pasted image 20240216105109.png]]
 
 ---
 
@@ -41,19 +42,20 @@ Problema de nome -> Problema de entendimento -> Ineficiências e complexidade de
 ---
 
 Equipe LabFaz digital Fase 4:
+- Eu*
+
+--
+
+Equipe LabFaz digital Fase 4:
 - Eu
+- Vc!
+
 
 ---
 
 Como foi desenvolvimento do LabFaz digital nas fases 1-3:
 
 ![[tracks.gif]]
-
----
-
-Equipe LabFaz digital Fase 4:
-- Eu
-- Vc!
 
 ---
 
