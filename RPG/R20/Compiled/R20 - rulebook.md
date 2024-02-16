@@ -93,72 +93,46 @@ ___
 - ### [{{ Caster Feats }}{{ 48 }}](#p48)
 - ### [{{ Specialist Feats }}{{ 49 }}](#p49)
 - ### [{{ Companion Feats }}{{ 50 }}](#p50)
-- ### [{{ Starting Items }}{{ 51 }}](#p51)
-- ### [{{ Carga }}{{ 52 }}](#p52)
-- #### [{{ Sobrecarga }}{{ 52 }}](#p52)
-- ### [{{ Coins }}{{ 53 }}](#p53)
-- ### [{{ Equipment }}{{ 54 }}](#p54)
-- #### [{{ Simple Weapons }}{{ 54 }}](#p54)
-- #### [{{ Martial Weapons }}{{ 54 }}](#p54)
-- #### [{{ Armor }}{{ 54 }}](#p54)
-- #### [{{ Magic Staves }}{{ 55 }}](#p55)
-- ### [{{ Consumable Items }}{{ 56 }}](#p56)
-- #### [{{ Potions }}{{ 56 }}](#p56)
-- #### [{{ Poisons }}{{ 56 }}](#p56)
+- ### [{{ Spells }}{{ 51 }}](#p51)
+- #### [{{ Learning Spells }}{{ 51 }}](#p51)
+- #### [{{ Prepared vs. Learned Spells }}{{ 51 }}](#p51)
+- #### [{{ Casting Spells }}{{ 51 }}](#p51)
+- #### [{{ Spell levels }}{{ 51 }}](#p51)
+- #### [{{ Spell Tags }}{{ 52 }}](#p52)
+- #### [{{ Flavor }}{{ 52 }}](#p52)
+- ### [{{ Spell Tags }}{{ 53 }}](#p53)
+- #### [{{ Tags }}{{ 53 }}](#p53)
+- ### [{{ Spell List }}{{ 54 }}](#p54)
+- #### [{{ Spells }}{{ 54 }}](#p54)
+- ### [{{ Spells }}{{ 56 }}](#p56)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Óleos }}{{ 57 }}](#p57)
-- ### [{{ Spell Scrolls }}{{ 58 }}](#p58)
-- #### [{{ Casting a Spell from a Scroll }}{{ 58 }}](#p58)
-- #### [{{ Learning a Spell from a Scroll }}{{ 58 }}](#p58)
-- #### [{{ Creating Spell Scrolls }}{{ 58 }}](#p58)
-- #### [{{ Buying Spell Scrolls }}{{ 58 }}](#p58)
-- #### [{{ Ideas for change }}{{ 58 }}](#p58)
-- #### [{{ Working with item levels. }}{{ 58 }}](#p58)
-- ### [{{ Magic Items }}{{ 59 }}](#p59)
-- #### [{{ Runes }}{{ 60 }}](#p60)
-- ### [{{ Crafting }}{{ 61 }}](#p61)
-- #### [{{ Crafting Rolls and time to produce an item }}{{ 61 }}](#p61)
-- #### [{{ Crafting in Bulk }}{{ 61 }}](#p61)
-- #### [{{ Crafting Materials (Took mostly from D&D) }}{{ 61 }}](#p61)
-- ### [{{ Spells }}{{ 62 }}](#p62)
-- #### [{{ Learning Spells }}{{ 62 }}](#p62)
-- #### [{{ Prepared vs. Learned Spells }}{{ 62 }}](#p62)
-- #### [{{ Casting Spells }}{{ 62 }}](#p62)
-- #### [{{ Spell levels }}{{ 62 }}](#p62)
-- #### [{{ Spell Tags }}{{ 63 }}](#p63)
-- #### [{{ Flavor }}{{ 63 }}](#p63)
-- ### [{{ Spell Tags }}{{ 64 }}](#p64)
-- #### [{{ Tags }}{{ 64 }}](#p64)
-- ### [{{ Spell List }}{{ 65 }}](#p65)
-- #### [{{ Spells }}{{ 65 }}](#p65)
-- ### [{{ Spells }}{{ 67 }}](#p67)
-- ### [{{ Contracts, Paladins & Entities }}{{ 105 }}](#p105)
-- #### [{{ Paladins }}{{ 105 }}](#p105)
-- #### [{{ Contract }}{{ 105 }}](#p105)
-- #### [{{ Favor }}{{ 105 }}](#p105)
-- #### [{{ Losing Favor }}{{ 105 }}](#p105)
-- #### [{{ Miracles }}{{ 105 }}](#p105)
-- #### [{{ Blessings }}{{ 105 }}](#p105)
-- ### [{{ Companions }}{{ 106 }}](#p106)
-- #### [{{ Stats }}{{ 106 }}](#p106)
-- #### [{{ Companion death }}{{ 106 }}](#p106)
-- #### [{{ Rest }}{{ 106 }}](#p106)
-- #### [{{ Companion Skills }}{{ 106 }}](#p106)
-- ### [{{ Conditions }}{{ 108 }}](#p108)
-- ### [{{ Rest & Recovery }}{{ 109 }}](#p109)
-- #### [{{ Provisions }}{{ 109 }}](#p109)
-- #### [{{ How to recover }}{{ 109 }}](#p109)
-- #### [{{ Skipping a Rest }}{{ 109 }}](#p109)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 109 }}](#p109)
-- ### [{{ Companions }}{{ 110 }}](#p110)
-- #### [{{ Stats }}{{ 110 }}](#p110)
-- #### [{{ Companion death }}{{ 110 }}](#p110)
-- #### [{{ Rest }}{{ 110 }}](#p110)
-- #### [{{ Companion Skills }}{{ 110 }}](#p110)
+- ### [{{ Contracts, Paladins & Entities }}{{ 94 }}](#p94)
+- #### [{{ Paladins }}{{ 94 }}](#p94)
+- #### [{{ Contract }}{{ 94 }}](#p94)
+- #### [{{ Favor }}{{ 94 }}](#p94)
+- #### [{{ Losing Favor }}{{ 94 }}](#p94)
+- #### [{{ Miracles }}{{ 94 }}](#p94)
+- #### [{{ Blessings }}{{ 94 }}](#p94)
+- ### [{{ Companions }}{{ 95 }}](#p95)
+- #### [{{ Stats }}{{ 95 }}](#p95)
+- #### [{{ Companion death }}{{ 95 }}](#p95)
+- #### [{{ Rest }}{{ 95 }}](#p95)
+- #### [{{ Companion Skills }}{{ 95 }}](#p95)
+- ### [{{ Conditions }}{{ 97 }}](#p97)
+- ### [{{ Rest & Recovery }}{{ 98 }}](#p98)
+- #### [{{ Provisions }}{{ 98 }}](#p98)
+- #### [{{ How to recover }}{{ 98 }}](#p98)
+- #### [{{ Skipping a Rest }}{{ 98 }}](#p98)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 98 }}](#p98)
+- ### [{{ Companions }}{{ 99 }}](#p99)
+- #### [{{ Stats }}{{ 99 }}](#p99)
+- #### [{{ Companion death }}{{ 99 }}](#p99)
+- #### [{{ Rest }}{{ 99 }}](#p99)
+- #### [{{ Companion Skills }}{{ 99 }}](#p99)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -840,7 +814,7 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p58))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Invocar Feitiço.** **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1.
 
@@ -976,74 +950,74 @@ List of spells available for a  to learn.
 ## Spells
 
 ### Cantrip
-- [Acid Splash](#p67)
-- [Chill Touch](#p74)
-- [Control Flames](#p75)
-- [Energy Blast](#p78)
-- [Fire Bolt](#p81)
-- [Frostbite](#p83)
-- [Guidance](#p83)
-- [Lightning Lure](#p88)
-- [Magic Stone](#p90)
-- [Message](#p91)
-- [Poison Spray](#p93)
-- [Ray of Frost](#p94)
-- [Resistance](#p95)
-- [Shape Water](#p97)
-- [Thunderclap](#p101)
-- [Toll the Dead](#p102)
-- [Vicious Mockery](#p103)
+- [Acid Splash](#p56)
+- [Chill Touch](#p63)
+- [Control Flames](#p64)
+- [Energy Blast](#p67)
+- [Fire Bolt](#p70)
+- [Frostbite](#p72)
+- [Guidance](#p72)
+- [Lightning Lure](#p77)
+- [Magic Stone](#p79)
+- [Message](#p80)
+- [Poison Spray](#p82)
+- [Ray of Frost](#p83)
+- [Resistance](#p84)
+- [Shape Water](#p86)
+- [Thunderclap](#p90)
+- [Toll the Dead](#p91)
+- [Vicious Mockery](#p92)
 
 ### 1st Circle
-- [Benção](#p69)
-- [Burning Hands](#p71)
-- [Catapult](#p73)
-- [Chaos Bolt](#p73)
-- [Despedaçar](#p77)
-- [Dissonant Whispers](#p77)
-- [Earth Tremor](#p78)
-- [Escuridão](#p80)
-- [Explosão de chamas](#p80)
-- [Feather Fall](#p81)
-- [Hellish Rebuke](#p85)
-- [Heroism](#p85)
-- [Imagem Espelhada](#p86)
-- [Infligir Ferimentos](#p87)
-- [Longstrider](#p88)
-- [Mage Armor](#p89)
-- [Magic Missile](#p89)
-- [Ray of Sickness](#p95)
-- [Silent Image](#p98)
-- [Thunderwave](#p101)
-- [Witch Bolt](#p103)
-- [Área Escorregadia](#p68){{pageNumber,auto}}
+- [Benção](#p58)
+- [Burning Hands](#p60)
+- [Catapult](#p62)
+- [Chaos Bolt](#p62)
+- [Despedaçar](#p66)
+- [Dissonant Whispers](#p66)
+- [Earth Tremor](#p67)
+- [Escuridão](#p69)
+- [Explosão de chamas](#p69)
+- [Feather Fall](#p70)
+- [Hellish Rebuke](#p74)
+- [Heroism](#p74)
+- [Imagem Espelhada](#p75)
+- [Infligir Ferimentos](#p76)
+- [Longstrider](#p77)
+- [Mage Armor](#p78)
+- [Magic Missile](#p78)
+- [Ray of Sickness](#p84)
+- [Silent Image](#p87)
+- [Thunderwave](#p90)
+- [Witch Bolt](#p92)
+- [Área Escorregadia](#p57){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#p67)
-- [Binding Ice](#p70)
-- [Blindness Deafness](#p70)
-- [Calm Emotions](#p71)
-- [Continual Flame](#p75)
-- [Crown of Madness](#p76)
-- [Explosão Sonora](#p81)
-- [Heat Metal](#p85)
-- [Hold Person](#p86)
-- [Magic Mouth](#p89)
-- [Manto de Vento](#p90)
-- [Maximilian's Earthen Grasp](#p90)
-- [Mind Whip](#p91)
-- [Ray of Enfeeblement](#p94)
-- [Scorching Ray](#p96)
-- [See invisibility](#p96)
-- [Silence](#p97)
-- [Snowball Swarm](#p98)
+- [Aid](#p56)
+- [Binding Ice](#p59)
+- [Blindness Deafness](#p59)
+- [Calm Emotions](#p60)
+- [Continual Flame](#p64)
+- [Crown of Madness](#p65)
+- [Explosão Sonora](#p70)
+- [Heat Metal](#p74)
+- [Hold Person](#p75)
+- [Magic Mouth](#p78)
+- [Manto de Vento](#p79)
+- [Maximilian's Earthen Grasp](#p79)
+- [Mind Whip](#p80)
+- [Ray of Enfeeblement](#p83)
+- [Scorching Ray](#p85)
+- [See invisibility](#p85)
+- [Silence](#p86)
+- [Snowball Swarm](#p87)
 
 ### 3rd Circle
-- [Flecha Ácida](#p82)
-- [Relâmpago](#p95)
-- [Sopro das Uivantes](#p99)
+- [Flecha Ácida](#p71)
+- [Relâmpago](#p84)
+- [Sopro das Uivantes](#p88)
 
 {{pageNumber,auto}}
 \page
@@ -1424,7 +1398,7 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p58))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Sementes Mágicas.** You grow and maintain a small garden of magical plants. That garden provides you at the start of the day with a number of seeds filled with magical potential (they rot away if not used by the end of the day). Your garden produces 2 per day at level 1, and its production increases by 1 at every even level.
 
@@ -1504,80 +1478,80 @@ List of spells available for a  to learn.
 ## Spells
 
 ### Cantrip
-- [Acid Splash](#p67)
-- [Blade Ward](#p70)
-- [Guidance](#p83)
-- [Lightning Lure](#p88)
-- [Magic Stone](#p90)
-- [Poison Spray](#p93)
-- [Resistance](#p95)
-- [Shape Water](#p97)
-- [Shillelagh](#p97)
-- [Sword Burst](#p100)
-- [Thorn Whip](#p101)
-- [Thunderclap](#p101)
+- [Acid Splash](#p56)
+- [Blade Ward](#p59)
+- [Guidance](#p72)
+- [Lightning Lure](#p77)
+- [Magic Stone](#p79)
+- [Poison Spray](#p82)
+- [Resistance](#p84)
+- [Shape Water](#p86)
+- [Shillelagh](#p86)
+- [Sword Burst](#p89)
+- [Thorn Whip](#p90)
+- [Thunderclap](#p90)
 
 ### 1st Circle
-- [Armor of Agathys](#p68)
-- [Caminhos da Natureza](#p71)
-- [Canhão de Ervilha](#p72)
-- [Catapult](#p73)
-- [Cause Fear](#p73)
-- [Charm Person](#p73)
-- [Compelled Duel](#p74)
-- [Controlar Plantas](#p75)
-- [Curar Ferimentos](#p76)
-- [Despedaçar](#p77)
-- [Detect Poison and Disease (Ritual)](#p77)
-- [Earth Tremor](#p78)
-- [Enfeitiçar](#p79)
-- [Entangle](#p79)
-- [Escudo](#p80)
-- [Feather Fall](#p81)
-- [Fog Cloud](#p82)
-- [Goodberry](#p83)
-- [Hail of Thorns](#p84)
-- [Heroism](#p85)
-- [Mage Armor](#p89)
-- [Magic Missile](#p89)
-- [Ray of Sickness](#p95)
-- [Sanctuary](#p95)
-- [Sleep](#p98)
-- [Thunderwave](#p101)
-- [Tranquilidade](#p102)
-- [Área Escorregadia](#p68){{pageNumber,auto}}
+- [Armor of Agathys](#p57)
+- [Caminhos da Natureza](#p60)
+- [Canhão de Ervilha](#p61)
+- [Catapult](#p62)
+- [Cause Fear](#p62)
+- [Charm Person](#p62)
+- [Compelled Duel](#p63)
+- [Controlar Plantas](#p64)
+- [Curar Ferimentos](#p65)
+- [Despedaçar](#p66)
+- [Detect Poison and Disease (Ritual)](#p66)
+- [Earth Tremor](#p67)
+- [Enfeitiçar](#p68)
+- [Entangle](#p68)
+- [Escudo](#p69)
+- [Feather Fall](#p70)
+- [Fog Cloud](#p71)
+- [Goodberry](#p72)
+- [Hail of Thorns](#p73)
+- [Heroism](#p74)
+- [Mage Armor](#p78)
+- [Magic Missile](#p78)
+- [Ray of Sickness](#p84)
+- [Sanctuary](#p84)
+- [Sleep](#p87)
+- [Thunderwave](#p90)
+- [Tranquilidade](#p91)
+- [Área Escorregadia](#p57){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Barkskin](#p69)
-- [Blindness Deafness](#p70)
-- [Calm Emotions](#p71)
-- [Cloud of Dagges](#p74)
-- [Crown of Madness](#p76)
-- [Darkvision](#p76)
-- [Earthbind](#p78)
+- [Barkskin](#p58)
+- [Blindness Deafness](#p59)
+- [Calm Emotions](#p60)
+- [Cloud of Dagges](#p63)
+- [Crown of Madness](#p65)
+- [Darkvision](#p65)
+- [Earthbind](#p67)
 - [Reduce (link not found)]()
-- [Explosão Sonora](#p81)
-- [Flechas Sentinelas](#p82)
-- [Healing Spirit](#p84)
-- [Hold Person](#p86)
-- [Laço Protetor](#p87)
-- [Lesser Restoration](#p87)
-- [Manto de Vento](#p90)
-- [Maximilian's Earthen Grasp](#p90)
-- [Mind Whip](#p91)
-- [Ray of Enfeeblement](#p94)
-- [See invisibility](#p96)
-- [Snowball Swarm](#p98)
-- [Spike Growth](#p99)
-- [Sugestion](#p100)
+- [Explosão Sonora](#p70)
+- [Flechas Sentinelas](#p71)
+- [Healing Spirit](#p73)
+- [Hold Person](#p75)
+- [Laço Protetor](#p76)
+- [Lesser Restoration](#p76)
+- [Manto de Vento](#p79)
+- [Maximilian's Earthen Grasp](#p79)
+- [Mind Whip](#p80)
+- [Ray of Enfeeblement](#p83)
+- [See invisibility](#p85)
+- [Snowball Swarm](#p87)
+- [Spike Growth](#p88)
+- [Sugestion](#p89)
 
 ### 3rd Circle
-- [Campo de Força](#p72)
-- [Flecha Ácida](#p82)
-- [Físico Divino](#p81)
-- [Sopro das Uivantes](#p99)
+- [Campo de Força](#p61)
+- [Flecha Ácida](#p71)
+- [Físico Divino](#p70)
+- [Sopro das Uivantes](#p88)
 
 {{pageNumber,auto}}
 \page
@@ -1835,64 +1809,64 @@ List of spells available for a  to learn.
 ## Spells
 
 ### Cantrip
-- [Acid Splash](#p67)
-- [Blade Ward](#p70)
-- [Energy Blast](#p78)
-- [Fire Bolt](#p81)
-- [Green Flame Blade](#p83)
-- [Guidance](#p83)
-- [Poison Spray](#p93)
-- [Ray of Frost](#p94)
-- [Resistance](#p95)
-- [Sword Burst](#p100)
-- [Word of Radiance](#p104)
+- [Acid Splash](#p56)
+- [Blade Ward](#p59)
+- [Energy Blast](#p67)
+- [Fire Bolt](#p70)
+- [Green Flame Blade](#p72)
+- [Guidance](#p72)
+- [Poison Spray](#p82)
+- [Ray of Frost](#p83)
+- [Resistance](#p84)
+- [Sword Burst](#p89)
+- [Word of Radiance](#p93)
 
 ### 1st Circle
-- [Arma Mágica](#p68)
-- [Armor of Agathys](#p68)
-- [Benção](#p69)
-- [Burning Hands](#p71)
-- [Chaos Bolt](#p73)
-- [Concentração de Combate](#p75)
-- [Curar Ferimentos](#p76)
-- [Detect Poison and Disease (Ritual)](#p77)
-- [Detectar Ameaças](#p77)
-- [Divine Favor](#p78)
-- [Escudo](#p80)
-- [Explosão de chamas](#p80)
-- [Guiding Bolt](#p84)
-- [Healing Word](#p84)
-- [Longstrider](#p88)
-- [Mage Armor](#p89)
-- [Magic Missile](#p89)
-- [Primor Atlético](#p94)
-- [Ray of Sickness](#p95)
-- [Searing Smite](#p96)
-- [Thunderous Smite](#p101)
-- [Toque Chocante](#p102)
-- [Witch Bolt](#p103)
-- [Zephyr Strike](#p104){{pageNumber,auto}}
+- [Arma Mágica](#p57)
+- [Armor of Agathys](#p57)
+- [Benção](#p58)
+- [Burning Hands](#p60)
+- [Chaos Bolt](#p62)
+- [Concentração de Combate](#p64)
+- [Curar Ferimentos](#p65)
+- [Detect Poison and Disease (Ritual)](#p66)
+- [Detectar Ameaças](#p66)
+- [Divine Favor](#p67)
+- [Escudo](#p69)
+- [Explosão de chamas](#p69)
+- [Guiding Bolt](#p73)
+- [Healing Word](#p73)
+- [Longstrider](#p77)
+- [Mage Armor](#p78)
+- [Magic Missile](#p78)
+- [Primor Atlético](#p83)
+- [Ray of Sickness](#p84)
+- [Searing Smite](#p85)
+- [Thunderous Smite](#p90)
+- [Toque Chocante](#p91)
+- [Witch Bolt](#p92)
+- [Zephyr Strike](#p93){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#p67)
-- [Binding Ice](#p70)
-- [Cloud of Dagges](#p74)
-- [Continual Flame](#p75)
-- [Darkvision](#p76)
-- [Enhance Ability](#p79)
+- [Aid](#p56)
+- [Binding Ice](#p59)
+- [Cloud of Dagges](#p63)
+- [Continual Flame](#p64)
+- [Darkvision](#p65)
+- [Enhance Ability](#p68)
 - [Reduce (link not found)]()
-- [Flame Blade](#p82)
-- [Flechas Sentinelas](#p82)
-- [Ice Knife](#p86)
-- [Laço Protetor](#p87)
-- [Lesser Restoration](#p87)
-- [Moonbeam](#p92)
-- [Prayer of Healing](#p93)
-- [Scorching Ray](#p96)
-- [See invisibility](#p96)
-- [Spider Climb](#p99)
+- [Flame Blade](#p71)
+- [Flechas Sentinelas](#p71)
+- [Ice Knife](#p75)
+- [Laço Protetor](#p76)
+- [Lesser Restoration](#p76)
+- [Moonbeam](#p81)
+- [Prayer of Healing](#p82)
+- [Scorching Ray](#p85)
+- [See invisibility](#p85)
+- [Spider Climb](#p88)
 
 {{pageNumber,auto}}
 \page
@@ -2064,7 +2038,7 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito).
 
-**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls](#p58))
+**Magia Aprendida.** Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [Spell Scrolls (link not found)]())
 
 **Hex.** Hexes are concentration spell-like abilities. At level 1 you learn one Hex from the Witch's Hex List, and learn a new one every 4 levels.
 
@@ -2324,7 +2298,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p108)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p97)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -2687,560 +2661,32 @@ R20's formula: ceil(lv/2)
 | 16+          | 6                              |
 
 
-{{pageNumber,auto}}
-\page
-# Starting Items
-When starting an adventure, you can chose your character's initial equipment by choosing items whose total value are within the table below for that specific level (but remember to validate with your DM if those items are setting and context appropriate for your character to have access to at that point).
 
-##### Typical Difficulty Classes
-{{column-count:2
+[Carrying Capacity (link not found)]()
+[Currency (link not found)]()
+[Item Level (link not found)]()
+[Starting Items (link not found)]()
 
-| Level | Starting Gold |
-|:----- |:-------------:|
-| 1-2   |     100g      | 
-| 3-4   |     200g      |
-| 5-6   |     400g      |
-| 7-8   |     800g      |
-| 9-10  |     2000g     |
 
-| Level | Starting Gold |
-|:----- |:-------------:|
-| 11-12 |    5.000g     |
-| 13-14 |    15.000g    |
-| 15-16 |    30.000g    |
-| 17-18 |    45.000g    |
-| 19-20 |    60.000g    |
-}}
+[Equipment (link not found)]()
+[Magic Staves (link not found)]()
 
 
+[Adventuring Items (link not found)]()
+[Provisions](#p98)
 
-{{pageNumber,auto}}
-\page
-# Carga
-A quantidade de equipamento que um personagem consegue levar consigo enquanto se aventura é medida em espaços no seu inventário. Um personagem por padrão possui **10 + FOR  + CON** (mínimo: 8) espaços no seu inventário. A maioria dos itens ocupa 1 espaço, porém:
+ 
+[Munição Especial (link not found)]()
+[Oils (link not found)]()
+[Poisons (link not found)]()
+[Potions (link not found)]()
 
-- Ingredientes, matérias primas e outros itens minúsculos ocupam 1/2 espaço.
-- Itens alquímicos, poções, pergaminhos e outros itens consumíveis ocupam 1 espaço.
-- Armas de duas mãos, escudos, criaturas minúsculas e armaduras leves e médias ocupam 2 espaços.
-- Armaduras pesadas e criaturas pequenas ocupam 5 espaços.
 
-## Sobrecarga
-Se um personagem ultrapassar seu limite de carga, ele fica sobrecarregado. Um personagem sobrecarregado tem -2sqr de movimento. Um personagem não consegue carregar mais do que o dobro do seu limite.
+[Magic items (link not found)]()
+[Runes (link not found)]()
 
 
-{{pageNumber,auto}}
-\page
-# Coins
-All items and services referred to in this book are measured in copper, silver, gold and platinum coins. These are the currencies the system expects you to use, though your table may adapt this to something more suitable for your setting.
-
-In it's original intention, copper and silver are the coins of the populous. when you buy groceries, pay tolls, or get a new set of tools for your job, you use silvers and get some coppers for change. gold is used for rent, buying a horse, a weapon or other substantial expenses, which are usually worth multiple days' worth of an average person's wage. Platinum is then the coin of the rich, of institutions and of governments. It's the choice for those who only don't use gold because they're dealing with sums of money so astronomical that the weight of the gold itself would be a hassle.
-
-The conversion between the currencies follows the ratio:
-- 50 copper = 10 silver = 1 gold = 1/5 platinum
-
-These units are usually shortened using the following symbols:
-
-| Coin     | Shortened version |
-| -------- | ----------------- |
-| copper   | c                 |
-| silver   | s                 | 
-| gold     | g                 |
-| platinum | p                 |
-
-
-{{pageNumber,auto}}
-\page
-# Equipment
-
-A lv1 character starts with 100gp (around 3 month's worth of a normal working person's living wage, representing them selling most of their posetions and using their saved up money to go on an adventure).
-## Simple Weapons
-
-| Melee Weapons  | Damage | Crit |           Properties            | Preço |
-|:--------------:|:------:|:----:|:-------------------------------:| ----- |
-|     Dagger     |  1d4   |  -   | finesse, light, thrown (20/60)  | 2gp   |
-| Unarmed Attack |  1d2   |  -   |                -                | -     |
-|      Club      |  1d4   |  -   |              light              | 1sp   |
-|   Greatclub    |  1d8   |  -   |            2-handed             | 2sp   |
-|    Handaxe     |  1d6   |  -   |      light, thrown (20/60)      | 5gp   |
-|    Javelin     |  1d6   |  -   |         thrown (30/120)         | 5sp   |
-|  Light Hammer  |  1d4   |  -   |      light, thrown (20/60)      | 2gp   |
-|      Mace      |  1d6   |  19  |                                 | 5gp   |
-|  Quarterstaff  |  1d6   |  -   |         versatile (1d8)         | 2sp   |
-|     Spear      |  1d6   |  x3  | Thrown (20/60), versatile (1d8) | 1gp   |
-|     Scythe     |  1d4   |  x4  |             finesse             | 1gp   |
-|      Claw      |  1d4   |  19  |         light, finesse          | 5sp   |
-
-| Ranged Weapons  | Damage | Crit |                    Properties                    | Preço |
-|:---------------:|:------:|:----:|:------------------------------------------------:|:-----:|
-| Crossbow, light |  1d8   |  19  | Range (10sqr/20sqr), loading(movement), 2-handed |  25gp     | 
-|    Shortbow     |  1d6   |  x3  |          Range (15sqr/30sqr), 2-handed           |  25gp     |
-
-## Martial Weapons
-
-| Melee Weapons | Damage | Crit | Properties       | Preço |
-|:-------------:|:------:|:----:|:---------------- | ----- |
-|   Battleaxe   |  1d8   |  19  | light            | 10gp  |
-|  Shortsword   |  1d6   |  x3  | Finesse, light   | 10gp  |
-|     Flail     |  1d8   |  -   | Reach            | 10gp  |
-|     Lance     |  1d10  |  -   | Reach, Mounted   | 10gp  |
-|   Longsword   |  1d8   |  19  | Versatile (1d10) | 15gp  |
-|    Rapier     |  1d6   |  18  | Finesse          | 25gp  |
-|   Greataxe    |  1d12  |  x3  | 2-handed         | 30gp  |
-|  Greatsword   |  2d6   |  19  | 2-handed         | 50gp  |
-
-| Ranged Weapons  | Damage | Crit |                   Properties                   | Preço |
-|:---------------:|:------:|:----:|:----------------------------------------------:| ----- |
-| Crossbow, hand  |  1d6   |  x3  |   Range (6sqr/24sqr), light, loading(action)   | 75gp  |
-| Crossbow, heavy |  1d10  |  x3  | Range (20sqr/40sqr), loading(action), 2-handed | 50gp  |
-|     Longbow     |  1d8   |  18  |         Range (25sqr/50sqr), 2-handed          | 50gp  |
-
-## Armor
-
-
-| Light Armor                    | Dodge | Guard | Cost | STR |
-| ------------------------------ | ----- | ----- | ---- | --- |
-| Padded (Acolchoada)            | 2     | 0     | 10g  | -   |
-| Leather (Couro)                | 3     | -2    | 50g  | -   |
-| Studded leather (Couro Batido) | 4     | -3    | 500g | -   |
-| Entskin Hide (Pele de Ente)    | 6     | -5    | 850g | -   |
-
-| Medium Armor                       | Dodge | Guard | Cost | STR |
-| ---------------------------------- | ----- | ----- | ---- | --- |
-| Hide (Gibão de peles)              | 1     | 1     | 10g  | 8   |
-| Camisa de couro de Cobra           | 2     | 1     | 75g  | 8   |
-| Camisa de couro de Crocodilo       | 1     | 2     | 75g  | 9   |
-| Scale Mail (Brunea)                | 3     | 2     | 150g | 9   |
-| Chain shirt (Cota de malha)        | 2     | 3     | 150g | 11  |
-| Breast Plate (Armadura Segmentada) | 3     | 3     | 400g | 11  |
-| Half plate (Meia Armadura)         | 4     | 4     | 750g | 13  |
-
-| Heavy Armor                    | Dodge | Guard | Cost   | STR | Movement |
-| ------------------------------ | ----- | ----- | ------ | --- | -------- |
-| Ring mail                      | -1    | 2     | 30g    | 12  | 0        |
-| Chain mail                     | -2    | 3     | 75g    | 13  | 0        |
-| Splint                         | -3    | 4     | 200g   | 14  | -1sqr    |
-| Full Plate (Armadura completa) | -5    | 5     | 1,500g | 16  | -2sqr    |
-
-| Shield       | Dodge | Guard | Cost | STR |
-| ------------ | ----- | ----- | ---- | --- |
-| Buckler      | 2     | 1     | 5g   | -   |
-| Light Shield | -3    | 2     | 15g  | -   |
-| Heavy Shield | -4    | 3     | 200g | 13  |
-
-\**STR*: The minimum strength score requirement to wear the armor.
-
-\*Movement: Movement speed penalty while wearing.
-
-**Finesse**. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
-
-**Heavy**. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively.
-
-**Light**. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
-
-**Loading**. This weapons needs to be reloaded before it can be fired again.
-
-**Thrown**. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
-
-**Two-Handed**. This weapon requires two hands to use.
-
-{{pageNumber,auto}}
-\page
-
-
-**Range**. A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
-
-**Reach**. This weapon adds 5 feet to your reach when you attack with it.
-
-**Versatile**. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
-
-**Mounted**. This weapon is considered Two-Handed unless the user is mounted.
-
-
-## Magic Staves
-
-Cajados mágicos são itens mágicos relativamente comuns. Eles são usados por aqueles que possuem alguma habilidade mágica. Ele funciona como um quarterstaff (versátil (1d6/1d8), crit 20/2x). Cajados mágicos funcionam como focos de magia. Além disso, quando um personagem com um Cajado Mágico equipado lança uma magia, parte da Mana gasta é absorvida pelo cajado, e ele ganha 1 carga por círculo da magia lançada. Como uma ação de movimento, você pode gastar um número cargas para executar a habilidade do cajado. Cargas desaparecem no final da cena. Podem existir versões pequenas do cajado, chamadas de varinhas mágicas. Uma varinha ocupa só 1 espaço no inventário, mas não pode ser usada como arma física e custa 50% a mais que um Cajado equivalente.
-
-| Name               | Cost | Max Charges | Effect                                                                                                                                                              |
-| ------------------ | ---- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ferro Encantado    | 30g  | 3           | Lança 1 dardo de Magic Missile por carga usada.                                                                                                                     |
-| Casco de Tartaruga | 20g  | 5           | Ganha 2 HP temporário por carga usada.                                                                                                                              | 
-| Cajado de Batalha  | 45g  | 3           | Dá 1d8 de dano de impacto a mais no próximo ataque com o cajado por carga usada.                                                                                    |
-| Galho Queimado     | 50g  | 4           | Lança 1 raio da magia Scorching Ray para cada 2 cargas usadas.                                                                                                      |
-| Cajado Vampírico   | 200g | 6           | Passivo: Você toma 1 dano necrótico no início de cada turno por carga. Ativo (min 3): 1 criatura a sua escolha em 18sqr recupera 3d6 HP (por cada 3 cargas gastas). |
-
-<!-- Ideas:
-- bees: insect swarm.
-- charm: charm
-- ilusion: + DC to ilusion spells
-- something wholesome: buffs alliess' saves or something
-- swiftness: gives you an extra movement action
-- web: web
--->
-
-{{pageNumber,auto}}
-\page
-# Consumable Items
-
-| Name              | Tool              | Price |
-|:----------------- | ----------------- | -----:|
-| Acid              | Alchemist's tools |   25g |
-| Alchemist's Fire  | Alchemist's tools |   50g | 
-| Potion of Healing | Alchemist's tools |   50g |
-| Poison, basic     | Alchemist's tools |  100g |
-| Healer’s Kit      | -                 |    5g |
-
-Poisons and Healing potions have their own sections.
-
-**Healer’s Kit.** This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.
-
-############ INVALID_LINK "null" ############
-
-## Potions
-Drinking a potion requires an Action, and if it has a long-lasting effect it's duration is scene, unless it states otherwise.
-
-### Curative Potions
-#### Healing Potion
-_Potion, Common_
-A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
-
-| Potion of ...    |     | Rarity    | Price  | HP      |
-| ---------------- | --- | --------- | ------ | ------- |
-| Healing          |     | Common    | 50g    | 2d4+2   |
-| Greater healing  |     | Uncommon  | 200g   | 4d4+4   |
-| Superior healing |     | Rare      | 2000g  | 8d4+8   |
-| Supreme healing  |     | Very rare | 20000g | 10d4+20 |
-
-#### Mana Potion
-_Potion, Common_
-A character who drinks the magical purple fluid in this vial regains 2d4 MP. Drinking or administering a potion takes an action.
-
-| Essence of ... | Rarity   | Price | MP  |
-| -------------- | -------- | ----- | --- |
-| Mana           | Common   | 25g   | 2d4 |
-| Greater Mana   | Uncommon | 150g  | 4d4 | 
-
-### Miscelaneous Potions
-| Name            | Rarity   | Price |
-| --------------- | -------- | ----- |
-| climbing        | common   | 100g  |
-| fire breath     | uncommon | 150g  |
-| Troll Strength  | uncommon | 400g  |
-| growth          | uncommon | 200g  |
-| water breathing | common   | 100g  |
-
-### Effects
-#### Potion of Climbing
-Você tem +10 para testes de Atletismo para escalar.
-
-#### Potion of Fire Breath
-Você pode executar **Bafo de Dragão** até 3x durante a duração.
-
-**Bafo de Dragão.** Ação: Você toma 1d6 de dano de fogo, e uma criatura que você pode ver em até 6sqr de você toma 5d6 dano de fogo se falhar num teste de resistência de Destreza (CD 13). Se passar, toma metade do dano.
-
-#### Potion of Troll Strength
-Pela duração, sua Força é sempre pelo menos 21
-
-#### Potion of Growth
-Você aumenta de tamanho em uma categoria.
-
-#### Potion of Water Breathing
-Você consegue respirar de baixo d'água, e tem velocidade de nado 9sqr.
-
-<!--
-heroism rare 500
-invulnerability rare 4000
--->
-
-## Poisons
-#### Basic Poison
-_Potion, Common, lv1. 20g_
-
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d12 poison damage.
-
-#### Grude Verde
-_Potion, Common, lv2. 30g_
-
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 12 Constitution saving throw or take 1d8 poison damage and be slowed for the scene.
-
-#### Peçonha Concentrada
-_Potion, Common, lv3. 60g_
-
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition {{pageNumber,auto}}
-\page
-{{}}must make a DC 16 Constitution saving throw or take 3d6 poison damage.
-
-
-## Óleos
-Óleos são itens consumíveis de uso único. Como uma ação de movimento, um personagem pode despejar um óleo que já esteja segurando em uma peça de armadura, arma ou munição que esteja segurando ou de uma criatura adjacente. Uma criatura pode tentar evitar o óleo, fazendo um teste de resistência de Destreza contra uma CD 8+prof+DEX de quem estiver tentando espalhar o óleo. O óleo escorre e perde seu efeito no final da cena.
-
-### Oils
-| Name     | price | target                  |
-| -------- | ----- | ----------------------- |
-| Fadaísca | 5g    | Armadura, Arma, Munição |
-| Firucum  | 10g   | Arma, Munição           | 
-
-- **Fadaísca.** Efeito: Um impacto forte (um ataque acertando) acende o óleo, que gera um brilho cegante em um raio de 1sqr. Todas as criaturas (fora você) no alcance devem passar em um teste de resistência SEN (CD 10), ou ficam cegos até o final do seu próximo turno.
-- **Firucum.** Um líquido viscoso, levemente laranja e com um cheiro agridoce. Ele é extremamente volátil, e pega fogo com o menor impacto. *Efeito:* O próximo ataque dá 3d6 dano de fogo adicional.
-
-
-{{pageNumber,auto}}
-\page
-# Spell Scrolls
-
-Spell Scrolls are consumable items that contain a spell. They can be used either to:
-
-- Cast the spell
-- Learn the spell
-
-All spell scrolls have a tier. The tier of a spell scroll is equal to the MP cost of the spell stored inside it (including all spell modifiers).
-
-## Casting a Spell from a Scroll
-
-Any sentient creature may attempt to cast a spell from a scroll.
-
-**Read Spell Scroll.** Action: make an Arcana skill check (DC 5 + tier). On a success the spell is cast, and the scroll is destroyed. On a failure by 5 or more, the scroll is destroyed. On a failure by 10 or more, the stored mana explodes in a 5sqr side square centered on the scroll, dealing 1d6 energy damage times the scroll tier and destroying the scroll.
-
-If the creature reading the spell doesn't already have a spellcasting ability, they have -5 to their check. If the creature knows the language used to write the scroll, they have +2 to the check.
-
-If the spell uses a spellcasting ability the caster can use one they already have. If the caster doesn't have one, they use PRE.
-
-## Learning a Spell from a Scroll
-
-A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
-
-To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
-
-## Creating Spell Scrolls
-
-At the start of the crafting attempt, the spellcaster decides on what spell and what modifiers to use. The total MP cost of the spell (that the spellcaster should be able to cast) becomes the intended spell scroll's tier. To craft a spell scroll, the caster must have ready materials (special parchment, magic ink, etc.) equal to 5gp per MP cost of the spell (including all spell modifiers, that the crafter decides during the crafting process). They then spend 3 hours and 1MP per tier transcribing the spell. At the end of the process, they make an Arcana check (DC 10 + tier). If they succeed, the materials are expended and scroll is created. If they fail by 5 or more, the crafting materials are expended.
-
-## Buying Spell Scrolls
-
-In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tier.
-
-## Ideas for change
-Maybe make it be different checks instead of all Arcana?
-
-Change cost to like $circle*tier*5gp$, so a tier 2 darkness (circle 1) would cost 10gp, a tier 2 hold person (circle 2) would cost 20gp and a tier 6 fireball (circle 3) would cost 180gp.
-
-Ignore the previous crafting rules and use the simpler general ones.
-
-## Working with item levels.
-The level of an item would be equal to the spell's circle (then you can have characters having access to higher spells as a consumable, but not having lv1's casting wish).
-
-
-
-{{pageNumber,auto}}
-\page
-# Magic Items
-
-### MAGIC ITEM RARITY
-| Rarity    | Character Level | Value           |
-| --------- | --------------- | --------------- |
-| Common    | 1st or higher   | 50-100 gp       |
-| Uncommon  | 1st or higher   | 101-500 gp      |
-| Rare      | 5th or higher   | 501-5,000 gp    |
-| Very rare | 11th or higher  | 5,001-50,000 gp |
-| Legendary | 17th or higher  | 50,001+ gp      |
-### Magic item list
-
-#### Corda da Escalada
-_Common (50gp), lv2_
-Esta corda de 16m é bastante fina, mas forte o suficiente para suportar até 1.500 kg. Com um comando (uma ação de movimento), a corda se move em qualquer direção (incluindo para cima) a 3m por rodada, fixando-se firmemente onde seu usuário desejar. Ela pode se desamarrar e voltar da mesma forma.
-
-#### Garrafa da Fumaça Eterna
-_Common (50g) lv2_
-Quando a tampa desta ânfora de metal é retirada, uma grande quantidade de fumaça é liberada, deixando toda a áera em 12m de raio obscura. A fumaça persiste até a garrafa ser tampada. Após isso, dissipa-se no fim da cena (ou após 4 rodadas, sob vento forte, ou 1 rodada, sob um vendaval).
-
-#### Gema da Luminosidade.
-*Common (50gp) lv2*
-Este cristal tem a aparência de um longo prisma. Com um comando (movimento), emite luz equivalente a uma tocha ou então um raio brilhante, que força uma criatura em alcance (6sqr) a passar em um teste de resistência de Sensibilidade (CD 12) ou ficar cega por 1d4 rodadas.
-
-#### Manto Élfico
-*Uncommon (100gp-350gp) lv3-lv7*
-Indistinguível de um manto cinza comum. Entretanto, quando usado com o capuz cobrindo o rosto, fornece +2/+5 em Furtividade.
-
-#### Mochila de Carga (Bag of Holding)
-*Uncommon (100gp-500gp) lv3/lv6*
-Este item, que parece uma simples mochila de pano, está na verdade ligado a um espaço interdimensional — fazendo com que seja maior por dentro do que por fora. Você pode guardar até 100 kg dentro de uma mochila de carga, mas ela pesará no máximo 5 kg. Se a mochila for rasgada, os objetos em seu interior são destruídos. Criaturas vivas colocadas no interior da mochila podem sobreviver até 10 minutos, mas depois disso ficarão sem ar. Ter uma mochila de carga equipada dá 5/10 espaços a mais de inventário.
-
-#### Chapéu do Estilo
-*Common (50gp) lv0*
-Esse chapéu preto simples mas bem cuidado não parece fora do comum. Como ação quem estiver usando o chapéu pode tocar nele, e ele se transforma em qualquer tipo de chapéu ou adereço de usar na cabeça. Role um d20 ao colocar ou transformar o chapéu. Se tirar 10+, você tem +2 em rolagens de presença enquanto usar o chapéu. Se tirar 20, esse bônus dobra. (hidden until players roll 1: Se você tirar 1, o chapéu fica preso em você por 1 dia, você tem desvantagem em rolagens de presença e ele vira um fedora)
-
-### Enciclopédia do Biólogo Sumido
-_Common (50gp) lv1_
-Livro mágico de um antigo biólogo que morreu fazendo o que ele amava: catalogando criaturas poderosas e bizarras. Rolagens de Arcana/Natureza para identificar criaturas recebem +5 enquanto você tem esse livro aberto. Usar o livro faz com que ele grite em voz alta a informação desejada, alertando todas as criaturas não-surdas em um raio de 10sqr.
-
-### Deque de algumas coisas
-_Common (80gp) lv2_
-Um pequeno e levemente danificado deque de cartas (faltando a maioria delas). Dele é fácil notar uma leve aura mágica. Ele começa com 10 cartas, e se um personagem sacar uma carta com uma Ação, ele ativa um dos efeitos abaixo (role 1d6) e a carta se desintegra.
-
-| d6  | Efeito                                                                           |
-| --- | -------------------------------------------------------------------------------- |
-| 1   | Você é afetado por Vicious Mockery (falha automática).                           |
-| 2   | Você e um alvo a sua escolhe são afetador por Toll the Dead.                     |
-| 3   | A magia Thunderclap é executada pela carta (você pode ser afetado).              |
-| 4   | Você e um alvo a sua escolha são afetados por Guidance.                          |
-| 5   | 3 bolas de vidro aparecem na sua frente e te orbitam, com efeito de Magic Stone. |
-| 6   | Fire Bolt, Word of Radiance e Frostbite são executadas em 3 alvos a sua escolha. |
-
-OBS: Se o efeito requer o seu atributo de magia use o seu normal se tiver um, se não use PRE.
-
-### Rolo de Papel de Embrulho Espacial
-*Common (100gp) lv4*
-Um rolo de papel de embrulho com fundo preto e ilustrações de estrelas. Você pode gastar 10 minutos para embrulhar um conjunto de itens que pese até 50kg e ocupe até 5m³ com o Papel de Embrulho Espacial. Você produz um embrulho de presente que cabe na palma da sua mão, e é um item minúsculo (1/2 espaços) e pesa no máximo 100g. Se o papel for rasgado todos os itens guardados nele são despejados pra fora, e o papel usado perde o efeito. O Rolo de Papel de Embrulho Espacial tem 10 usos.
-
-{{pageNumber,auto}}
-\page
-
-### Braceletes da Falsa Força
-_Uncommon (150gp) lv2_
-Braceletes reforçados que parecem aumentar a resistência de quem os usar. O material usado é menos útil do que parece, e acaba não tendo o efeito desejado, apesar de ainda ser de alguma ajuda. *Efeito:* -3 Defesa, +2 Guarda
-
-### Botas da Falsa Dextreza
-_Uncommon (150gp) lv2_
-Botas decoradas que parecem dar mobilidade e agilidade adicional para o usuário, o deixando desviar com mais facilidade. Na verdade o couro inflexível e baixa anti-aderência da sola acabam não ajudando muito. *Efeito:* -3 Defesa, +2 Evasão
-
-### Estatueta da Coruja
-_Common (150gp) lv3_
-Uma estátua pequena em mármore de uma coruja. Como uma ação, você pode acordar a coruja, que se transforma por até um dia em uma coruja de verdade que ouve aos seus comandos e segue eles. Ela consegue se comunicar telepaticamente com você se estiver a menos que 200m de distância. Ela reverte ao formato de estátua se tomar dano, e uma vez revertida se torna inativa por 3 dias.
-
-### Lança de Raios
-_Uncommon (1000gp) lv7_
-Uma Lança brilhante com detalhes em ouro e uma ponta cerrada no formato de um raio. Um personagem equipado com a Lança de Raios que seja proficiente com ela tem acesso à habilidade **Zeus**.
-
-**Zeus.** Ação: você joga a Lança de Raios na direção de um alvo que vê em um alcance de 25sqr. Cada criatura entre você e o alvo toma 4d6 dano elétrico, ou metade se passar em uma resistência de Destreza (CD 13). Faça um ataque de arremesso contra o alvo, e se acertar ele toma 4d6 de dano adicional. A lança perde sua carga, e recupera ela depois de 1 dia.
-
-### Lança de Raios (Menor)
-*Comum (90gp) lv4*
-Mesmo efeito da lança de raios, mas ao usar a habilidade **Zeus**, se algum dos dados do dano elétrico rolado for 6, a lança é destruída.
-
-### Nine Lives Stealer
-_Rare (900gp) lv5_
-Uma adaga simples, com um relevo de um gato no punhal, com 1d8+1 caudas. Se você acertar um ataque crítico com a adaga contra uma criatura e ela ficou com 30 HP ou menos, ela deve passar numa resistência de Constituição (CD 14) ou morrer instantaneamente. Quando uma criatura morre por esse efeito, uma das caudas do gato some. Se o gato perder todas as caudas, o item reverte para uma adaga normal.
-
-<!--
-### Ninety Nine Lives Stealer
-_Very Rare (9000gp)_
-
-### Nine Hundred Ninety Nine Lives Stealer
-_Legendary (9999gp)_
--->
-
-
-## Runes
-You can enchant an item with runes to add a special effect to it. You create runes by rolling Arcana. Each rune has a number of uses, and after that it must be recharged with MP during a rest.
-
-<!-- have runes that allow you to cast spells as actions, and some as reactions to being hit or when crit -->
-
-Rune effects:
-
-| Name | Item Level | Avg. Price | Max Charges | Recharge rate | Effect |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| Damage Type Change 1 | 1 | 40g | 4 | 1PM per Charge | (Movement, 1 Charge): change the damage type of a weapon to another physical type for the scene |
-| Damage Add Elemental 1 | 3 | 100g | 2 | 1PM per 2 Charges | (Movement, 1-2 Charges): add 1d6 (+1d6 per charge spent) of the element of the rune to the weapon's damage for next attack |
-| Elemental Reflect | 3 | 80g | 3 | 1PM per 3 Charges | (Reaction, 1 Charge): Deal 1d8 damage of the type back to the attacker |
-| Defense Tier 1 | 2 | 50g | 1 | 1PM per Charge | (Movement, 1 Charge): Your defense can't be less than 15 for the scene |
-| Defense Tier 2 | 4 | 150g | 3 | 1PM per Charge | (Movement, 1-2 Charge): Your defense can't be less than 16 for the scene (17 if you spent 2 charges) |
-| Defense Tier 3 | 7 | 450g | 8 | 1PM per Charge | (Movement, 2-4 Charges): Your defense can't be less than 17 for the scene, +1 per charge spent after the second |
-
-
-{{pageNumber,auto}}
-\page
-# Crafting
-
-**IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
-
-<!--
-basic rules:
-- needs 25% of the item's value worth of ingredients
-- 50gp worth of item/workweek. (increase to more gp/week at later levels.)
-- 1 check per workweek
-
-use tools. costs 500silver for a set of tools (-5 without tools)
--->
-
-## Crafting Rolls and time to produce an item
-Some items are relatively simple and quick to produce, while others become a huge project spanning multiple months. A character can spend their downtime working to craft one or more items. For that, they spend time and materials, and need to use a specific crafting skill and tools. A set of tools of any craft are worth 500 silver.
-
-### Materials
-When crafting an item, a character needs to have prepared materials for it, worth 25% of the items total value. The materials must be proper for the item in question, and some items might have particularly hard to acquire materials.
-
-Depending on how the crafter rolls on the skill checks for the item creation, materials may be saved or wasted.
-
-### Time
-Crafting an item might be quick or complex, depending on the item. The expected crafting time equals 1 week of work per 50 gold of the item's worth. This time can be taken while adventuring, (during downtime and/or while resting).
-
-If the item being crafted is worth 50 gold or less, then at the end of the crafting time you roll a skill check with the relevant skill. If the item is worth more than 50 gold, at the end of every week spend working on it you roll a new skill check. That check may improve the item's progress, do nothing, regress it or even completely destroy the partially built item.
-### Skill
-Below is a list of all crafting-related skills. 
-
-| Skill         | Relevant Attribute | Items crafted using it                                |
-| ------------- | ------------------ | ----------------------------------------------------- |
-| Alchemy       | DEX                | Poisons, explosives, oils and other alchemical items. |
-| Herbalism     | SEN                | Potions and poisons.                                  | 
-| Rune Crafting | PRE                | Standalone runes and imbuing runes into items.        |
-| Scribing      | INT                | Spell Scrolls.                                        |
-| Smithing      | STR                | Armor, weapons and ammunition.                        |
-
-When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
-
-*OBS:* note that poisons can be made either through herbalism or alchemy.
-
-The CD for the skill roll to craft an item is determined by the item's level, according to the formula:
-- **CD = 12 + Item level/2 (rounded down)**
-
-After rolling and comparing against the item CD, the materials spent and the progress in the production are as follows:
-
-| Skill check result | Crafting progress                      | Materials spent  |
-| ------------------ | -------------------------------------- | ---------------- |
-| Passed by 5+       | Item crafting progresses.              | 50% of expected* |
-| Passed             | Item crafting progresses.              | 100% of expected |
-| Failed             | Item crafting doesn't progress.        | 0                |
-| Failed by 5+       | Item crafting doesn't progress.        | 100% of expected |
-| Failed by 10+      | Item crafting regresses by 2 workweeks | 100% of expected |
-
-**\*Note:** when crafting a consumable item the character crafting may choose to instead of spending 50% materials to produce the intended amount of items, produce twice the amount with 100% of materials consumed.
-
-## Crafting in Bulk
-One may choose to work in many items in series. For example, Frizz the rogue halfling wants to craft 1x portion of **Peçonha Concentrada** (60g/vial), and 2x of **Grude Verde**(30g/vial), in that order, totaling 120g worth of items. He then sets to work for the 3 weeks necessary for that. Lets see the journey taken by him:
-
-He only needs to prepare 15g of materials at first, but he decides to get all 30g before starting. Then he spends a few weeks working on it, with the following results
-
-| week | intended production                                                                                                  | alchemy roll    | craft CD      | result                               | item progress                                                | materials at start of week        | materials spent | 
-| ---- | -------------------------------------------------------------------------------------------------------------------- | --------------- | ------------- | ------------------------------------ | ------------------------------------------------------------ | --------------------------------- | --------------- |
-| 1    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 10              | 13            | Failure                              | none                                                         | 30g worth                         | none     |
-| 2    | progress on **Peçonha Concentrada** (0g -> 50g)                                                                      | 13              | 13            | Success                              | **Peçonha Concentrada** partially done (50g/60g)             | 30g worth                       | 12,5g worth      |
-| 3.1    | Finish **Peçonha Concentrada** (50g -> 60g) | 14 | 13 | Success | **Peçonha Concentrada** done | 17,5g | 2,5g worth                |
-| 3.2    | make 1x **Grude Verde**                                                                                                                     | 17                | 12              | Success(5+)                                      | **Grude Verde** (2x) done                                                             | 17,5g                                  | 7,5g worth                |
-| 3.3    | progress on **Grude Verde** (0 -> 10g)                                                                                                                     | 5                | 12              | Failure(5+)                                     | none                                                             | 17,5g                                  | 2,5g worth                |
-| 4    | make 1x **Grude Verde**                                                                                                                     | 15                | 12              | Success                                     | **Grude Verde** done                                                             | 5g worth + 5g worth (newly acquired)                                  | 7,5g worth                |
-As a result Frizz took 4 weeks to spend his 30g worth of materials, plus 10g extra he had to buy during the process, to produce 1x **Peçonha Concentrada** and 3x **Grude Verde**, with 2,5g worth of materials left over. it was a weird process filled with ups and downs, but considering that he spent 37,5g to produce 150g worth of items, he sleeps happily thinking about how many bad guys he's gonna take down with his creations.
-
-## Crafting Materials (Took mostly from D&D)
-An item invariably re quires an exotic material to complete it. This material can range from the s kin of a yeti to a vial of water taken from a whirlpool o n the Elemental Plane of Water. Finding that material should take place as part of an adventure. The Magic Item Ingredients table suggests the challenge rating of a creature that the characters need to face to acquire the materials for an item. Note that facing a creature does not necessarily mean that the characters must collect items from its corpse. Rather, the creature might guard a location or a resource that the characters need access to. 
-
-#### MAGIC ITEM INGREDIENTS
-| Item Rarity | CR Range |
-| ----------- | -------- |
-| Common      | 1-3      |
-| Uncommon    | 4-8      | 
-| Rare        | 9-12     |
-| Very rare   | 13- 18   |
-| Legendary   | 19+      |
-
-<!--
-#### MAGIC ITEM CRAFTING TIME AND COST
-| Item Rarity | Workweeks\* | Cost\*      | 
-| ----------- | ----------- | ----------- |
-| Common      | 1           | 50 gp       |
-| Uncommon    | 2           | 200 gp      |
-| Rare        | 10          | 2,000 gp    |
-| Very rare   | 25          | 20,000 gp   |
-| Legendary   | 50          | 100, 000 gp |
-\*Halved for a consumable item like a potion or scroll
--->
+[Crafting (link not found)]()
 
 
 {{pageNumber,auto}}
@@ -3324,7 +2770,7 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 |      9      |      15      |
 
 ## Spell Tags
-All spells have one or more tags where they fit. The spell [Toque Chocante](#p102), for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
+All spells have one or more tags where they fit. The spell [Toque Chocante](#p91), for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
 
 For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
 
@@ -3431,175 +2877,175 @@ List of spells available for a All to learn.
 ## Spells
 
 ### Cantrip
-- [Acid Splash](#p67)
-- [Blade Ward](#p70)
-- [Booming Blade](#p71)
-- [Chill Touch](#p74)
-- [Control Flames](#p75)
-- [Create Bonfire](#p76)
-- [Energy Blast](#p78)
-- [Fire Bolt](#p81)
-- [Frostbite](#p83)
-- [Green Flame Blade](#p83)
-- [Guidance](#p83)
-- [Infestation](#p86)
-- [Lightning Lure](#p88)
-- [Magic Stone](#p90)
-- [Message](#p91)
-- [Minor Ilusion](#p91)
-- [Poison Spray](#p93)
-- [Primal Savagery](#p93)
-- [Ray of Frost](#p94)
-- [Resistance](#p95)
-- [Shape Water](#p97)
-- [Shillelagh](#p97)
-- [Sword Burst](#p100)
-- [Thorn Whip](#p101)
-- [Thunderclap](#p101)
-- [Toll the Dead](#p102)
-- [Vicious Mockery](#p103)
-- [Word of Radiance](#p104)
+- [Acid Splash](#p56)
+- [Blade Ward](#p59)
+- [Booming Blade](#p60)
+- [Chill Touch](#p63)
+- [Control Flames](#p64)
+- [Create Bonfire](#p65)
+- [Energy Blast](#p67)
+- [Fire Bolt](#p70)
+- [Frostbite](#p72)
+- [Green Flame Blade](#p72)
+- [Guidance](#p72)
+- [Infestation](#p75)
+- [Lightning Lure](#p77)
+- [Magic Stone](#p79)
+- [Message](#p80)
+- [Minor Ilusion](#p80)
+- [Poison Spray](#p82)
+- [Primal Savagery](#p82)
+- [Ray of Frost](#p83)
+- [Resistance](#p84)
+- [Shape Water](#p86)
+- [Shillelagh](#p86)
+- [Sword Burst](#p89)
+- [Thorn Whip](#p90)
+- [Thunderclap](#p90)
+- [Toll the Dead](#p91)
+- [Vicious Mockery](#p92)
+- [Word of Radiance](#p93)
 
 ### 1st Circle
-- [Abençoar Alimentos](#p67)
-- [Animal Friendship](#p67)
-- [Arma Mágica](#p68)
-- [Armor of Agathys](#p68)
-- [Bane](#p68)
-- [Beast Bont](#p69)
-- [Benção](#p69)
-- [Burning Hands](#p71)
-- [Caminhos da Natureza](#p71)
-- [Canhão de Ervilha](#p72)
-- [Casca da Cigarra](#p72)
-- [Catapult](#p73)
-- [Cause Fear](#p73)
-- [Chaos Bolt](#p73)
-- [Charm Person](#p73)
-- [Command](#p74)
-- [Compelled Duel](#p74)
-- [Concentração de Combate](#p75)
-- [Controlar Plantas](#p75)
-- [Curar Ferimentos](#p76)
-- [Despedaçar](#p77)
-- [Detect Poison and Disease (Ritual)](#p77)
-- [Detectar Ameaças](#p77)
-- [Dissonant Whispers](#p77)
-- [Divine Favor](#p78)
-- [Earth Tremor](#p78)
-- [Enfeitiçar](#p79)
-- [Entangle](#p79)
-- [Escudo](#p80)
-- [Escuridão](#p80)
-- [Explosão de chamas](#p80)
-- [Feather Fall](#p81)
-- [Fog Cloud](#p82)
-- [Goodberry](#p83)
-- [Guiding Bolt](#p84)
-- [Hail of Thorns](#p84)
-- [Healing Word](#p84)
-- [Hellish Rebuke](#p85)
-- [Heroism](#p85)
-- [Hideous Laughter](#p85)
-- [Imagem Espelhada](#p86)
-- [Infligir Ferimentos](#p87)
-- [Longstrider](#p88)
-- [Luz](#p88)
-- [Mage Armor](#p89)
-- [Mage Hand](#p89)
-- [Magic Missile](#p89)
-- [Perdição](#p93)
-- [Primor Atlético](#p94)
-- [Ray of Sickness](#p95)
-- [Sanctuary](#p95)
-- [Searing Smite](#p96)
-- [Silent Image](#p98)
-- [Sleep](#p98)
-- [Snare](#p98)
-- [Teia](#p100)
-- [Tentacle Twister](#p100)
-- [Thunderous Smite](#p101)
-- [Thunderwave](#p101)
-- [Toque Chocante](#p102)
-- [Tranquilidade](#p102)
-- [Witch Bolt](#p103)
-- [Zephyr Strike](#p104)
-- [Área Escorregadia](#p68){{pageNumber,auto}}
+- [Abençoar Alimentos](#p56)
+- [Animal Friendship](#p56)
+- [Arma Mágica](#p57)
+- [Armor of Agathys](#p57)
+- [Bane](#p57)
+- [Beast Bont](#p58)
+- [Benção](#p58)
+- [Burning Hands](#p60)
+- [Caminhos da Natureza](#p60)
+- [Canhão de Ervilha](#p61)
+- [Casca da Cigarra](#p61)
+- [Catapult](#p62)
+- [Cause Fear](#p62)
+- [Chaos Bolt](#p62)
+- [Charm Person](#p62)
+- [Command](#p63)
+- [Compelled Duel](#p63)
+- [Concentração de Combate](#p64)
+- [Controlar Plantas](#p64)
+- [Curar Ferimentos](#p65)
+- [Despedaçar](#p66)
+- [Detect Poison and Disease (Ritual)](#p66)
+- [Detectar Ameaças](#p66)
+- [Dissonant Whispers](#p66)
+- [Divine Favor](#p67)
+- [Earth Tremor](#p67)
+- [Enfeitiçar](#p68)
+- [Entangle](#p68)
+- [Escudo](#p69)
+- [Escuridão](#p69)
+- [Explosão de chamas](#p69)
+- [Feather Fall](#p70)
+- [Fog Cloud](#p71)
+- [Goodberry](#p72)
+- [Guiding Bolt](#p73)
+- [Hail of Thorns](#p73)
+- [Healing Word](#p73)
+- [Hellish Rebuke](#p74)
+- [Heroism](#p74)
+- [Hideous Laughter](#p74)
+- [Imagem Espelhada](#p75)
+- [Infligir Ferimentos](#p76)
+- [Longstrider](#p77)
+- [Luz](#p77)
+- [Mage Armor](#p78)
+- [Mage Hand](#p78)
+- [Magic Missile](#p78)
+- [Perdição](#p82)
+- [Primor Atlético](#p83)
+- [Ray of Sickness](#p84)
+- [Sanctuary](#p84)
+- [Searing Smite](#p85)
+- [Silent Image](#p87)
+- [Sleep](#p87)
+- [Snare](#p87)
+- [Teia](#p89)
+- [Tentacle Twister](#p89)
+- [Thunderous Smite](#p90)
+- [Thunderwave](#p90)
+- [Toque Chocante](#p91)
+- [Tranquilidade](#p91)
+- [Witch Bolt](#p92)
+- [Zephyr Strike](#p93)
+- [Área Escorregadia](#p57){{pageNumber,auto}}
 \page
 
 
 ### 2nd Circle
-- [Aid](#p67)
-- [Barkskin](#p69)
-- [Beast Sense](#p69)
-- [Binding Ice](#p70)
-- [Blindness Deafness](#p70)
-- [Calm Emotions](#p71)
-- [Cloud of Dagges](#p74)
-- [Continual Flame](#p75)
-- [Crown of Madness](#p76)
-- [Darkvision](#p76)
-- [Earthbind](#p78)
-- [Enhance Ability](#p79)
+- [Aid](#p56)
+- [Barkskin](#p58)
+- [Beast Sense](#p58)
+- [Binding Ice](#p59)
+- [Blindness Deafness](#p59)
+- [Calm Emotions](#p60)
+- [Cloud of Dagges](#p63)
+- [Continual Flame](#p64)
+- [Crown of Madness](#p65)
+- [Darkvision](#p65)
+- [Earthbind](#p67)
+- [Enhance Ability](#p68)
 - [Reduce (link not found)]()
-- [Explosão Sonora](#p81)
-- [Flame Blade](#p82)
-- [Flechas Sentinelas](#p82)
-- [Healing Spirit](#p84)
-- [Heat Metal](#p85)
-- [Hold Person](#p86)
-- [Ice Knife](#p86)
-- [Laço Protetor](#p87)
-- [Lesser Restoration](#p87)
-- [Magic Mouth](#p89)
-- [Manto de Vento](#p90)
-- [Maximilian's Earthen Grasp](#p90)
-- [Mind Whip](#p91)
-- [Misty Step](#p91)
-- [Moonbeam](#p92)
-- [Pass Without a Trace](#p92)
-- [Prayer of Healing](#p93)
-- [Ray of Enfeeblement](#p94)
-- [Scorching Ray](#p96)
-- [See invisibility](#p96)
-- [Shadow Blade](#p96)
-- [Shatter](#p97)
-- [Silence](#p97)
-- [Snowball Swarm](#p98)
-- [Spider Climb](#p99)
-- [Spike Growth](#p99)
-- [Sugestion](#p100)
-- [Web](#p103)
-- [Wither and Bloom ](#p104)
+- [Explosão Sonora](#p70)
+- [Flame Blade](#p71)
+- [Flechas Sentinelas](#p71)
+- [Healing Spirit](#p73)
+- [Heat Metal](#p74)
+- [Hold Person](#p75)
+- [Ice Knife](#p75)
+- [Laço Protetor](#p76)
+- [Lesser Restoration](#p76)
+- [Magic Mouth](#p78)
+- [Manto de Vento](#p79)
+- [Maximilian's Earthen Grasp](#p79)
+- [Mind Whip](#p80)
+- [Misty Step](#p80)
+- [Moonbeam](#p81)
+- [Pass Without a Trace](#p81)
+- [Prayer of Healing](#p82)
+- [Ray of Enfeeblement](#p83)
+- [Scorching Ray](#p85)
+- [See invisibility](#p85)
+- [Shadow Blade](#p85)
+- [Shatter](#p86)
+- [Silence](#p86)
+- [Snowball Swarm](#p87)
+- [Spider Climb](#p88)
+- [Spike Growth](#p88)
+- [Sugestion](#p89)
+- [Web](#p92)
+- [Wither and Bloom ](#p93)
 
 ### 3rd Circle
-- [Campo de Força](#p72)
-- [Camuflagem ilusória](#p72)
-- [Espelho do Pântano](#p80)
-- [Flecha Ácida](#p82)
-- [Físico Divino](#p81)
-- [Invisibilidade](#p87)
-- [Life Transference](#p88)
-- [Mass Healing Word](#p90)
-- [Oração](#p92)
-- [Raio Solar](#p94)
-- [Relâmpago](#p95)
-- [Soco de Arsenal](#p99)
-- [Sopro das Uivantes](#p99)
-- [Toque Vampírico](#p102)
+- [Campo de Força](#p61)
+- [Camuflagem ilusória](#p61)
+- [Espelho do Pântano](#p69)
+- [Flecha Ácida](#p71)
+- [Físico Divino](#p70)
+- [Invisibilidade](#p76)
+- [Life Transference](#p77)
+- [Mass Healing Word](#p79)
+- [Oração](#p81)
+- [Raio Solar](#p83)
+- [Relâmpago](#p84)
+- [Soco de Arsenal](#p88)
+- [Sopro das Uivantes](#p88)
+- [Toque Vampírico](#p91)
 
 ### 5th Circle
-- [Pele de Pedra](#p92)
-- [Transformação de Guerra](#p103)
+- [Pele de Pedra](#p81)
+- [Transformação de Guerra](#p92)
 
 ### 6th Circle
-- [Blade Barrier](#p70)
+- [Blade Barrier](#p59)
 
 {{pageNumber,auto}}
 \page
 # Spells
 . Here is a list of all spells, sorted alphabetically
-[Spells](#p67)
+[Spells](#p56)
 ### Abençoar Alimentos (1 MP)
 <div class="spell-tags">holy sacred plant feral wild</div>
 
@@ -3660,7 +3106,7 @@ Choose a beast that you can see within range. It must see and hear you. If the b
 
 - **+2PM:** you can affect one additional beast for each slot level above 1st..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Área Escorregadia (1 MP)
 <div class="spell-tags">arcane creation trickery water nature</div>
 
@@ -3724,7 +3170,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Barkskin (2 MP)
 <div class="spell-tags">plant wild boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -3785,7 +3231,7 @@ You bless up to three creatures of your choice within range. Each target gains a
 - **+4 PM:** muda o tipo dos dados de auxílio para d8. Requer 2º círculo.
 - **+1 PM:** muda o alvo para 1 cadáver e a duração para 1 semana. O cadáver não se decompõe nem pode ser transformado em morto-vivo pela duração da magia..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Binding Ice (2 MP)
 <div class="spell-tags">cold elemental thaumaturgy evocation</div>
 
@@ -3842,7 +3288,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 - **+3PM:** target an additional creature..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Booming Blade (0 MP)
 <div class="spell-tags">warmagic wind trickery curse occult nature thaumaturgy</div>
 
@@ -3908,7 +3354,7 @@ Você invoca espíritos da natureza, pedindo que eles abram seu caminho. As cria
 - **+1 PM:** além do normal, a CD para rastrear os alvos em terreno natural aumenta em +10.
 - **+2 PM:** aumenta o bônus de deslocamento em +3m.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Campo de Força (3 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred warmagic</div>
 
@@ -3971,7 +3417,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 - **+1PM:** aumenta +1d4 nos PV temporários.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -4040,7 +3486,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 - **+2PM:** target one additional creature.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Chill Touch (0 MP)
 <div class="spell-tags">cold elemental unholy occult</div>
 
@@ -4102,7 +3548,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 - **+XPM:** you gain an offensive buff against the target.
 - **+XPM:** both you and the target have +# movement speed when running towards eachother.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Concentração de Combate (1 MP)
 <div class="spell-tags">boost no-sacred thaumaturgy warmagic</div>
 
@@ -4162,7 +3608,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Create Bonfire (0 MP)
 <div class="spell-tags">fire summon wild transmutation arcane elemental</div>
 
@@ -4231,7 +3677,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 - **+2 PM:** +1 alvo.
 - **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Despedaçar (1 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -4297,7 +3743,7 @@ The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psych
 
 - **+2PM:** +1d6 dmg.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Divine Favor (1 MP)
 <div class="spell-tags">warmagic holy sacred radiant energy thaumaturgy</div>
 
@@ -4357,7 +3803,7 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **+3 PM:** você lança +1 raio contra o alvo principal.
 - **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Enfeitiçar (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -4428,7 +3874,7 @@ When the spell ends, the conjured plants wilt away.
 - **+2 PM:** Aumenta a CD em 1..
 - **+2 PM:** Aumenta o tamanho do quadrado em 1sqr..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -4497,7 +3943,7 @@ Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo à
 
 - **cost:** description.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -4559,7 +4005,7 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 - **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas..
 - **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Flame Blade (2 MP)
 <div class="spell-tags">elemental fire warmagic thaumaturgy</div>
 
@@ -4624,7 +4070,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Frostbite (0 MP)
 <div class="spell-tags">curse elemental cold unholy curse occult</div>
 
@@ -4680,7 +4126,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Guiding Bolt (1 MP)
 <div class="spell-tags">holy sacred fire elemental warmagic thaumaturgy</div>
 
@@ -4739,7 +4185,7 @@ A creature of your choice that you can see within range regains hit points equal
 - **+2 PM:** aumenta a cura em 1d4.
 - **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Heat Metal (2 MP)
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
 
@@ -4802,7 +4248,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -4863,7 +4309,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 
 - **+1PM:** increases the damage by 1d6 (limitado por círculo máximo).{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Infligir Ferimentos (1 MP)
 <div class="spell-tags">unholy occult necrotic decay</div>
 
@@ -4930,7 +4376,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Life Transference (3 MP)
 <div class="spell-tags">unholy occult feral wild necromancy necrotic decay recovery no-sacred</div>
 
@@ -4990,7 +4436,7 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 - **+2 PM:** muda a duração para 1 dia..
 - **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Mage Armor (1 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -5057,7 +4503,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -5121,7 +4567,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -5187,7 +4633,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Moonbeam (2 MP)
 <div class="spell-tags">wild energy radiant holy sacred</div>
 
@@ -5258,7 +4704,7 @@ Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 - **+4 PM:** sua pele ganha aspecto e dureza de aço. Você recebe resistência a dano 10. Requer 7º círculo..
 - **+4 PM:** muda o alcance para toque, o alvo para 1 criatura, a duração para 1d4 rodadas e adiciona **Resistência:** Fortitude anula..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Perdição (1 MP)
 <div class="spell-tags">curse occult</div>
 
@@ -5317,7 +4763,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 - **+2 PM:** +1d8 acid damage..
 - **+1 PM:** +1 margem de ameaça..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Primor Atlético (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy warmagic</div>
 
@@ -5384,7 +4830,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 - **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -5445,7 +4891,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
 
@@ -5509,7 +4955,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -5581,7 +5027,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 - **:** .{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -5643,7 +5089,7 @@ Uma pequena tempestade de granizo e neve atinge um quadrado de tamanho 2sqr cent
 
 - ****+1PM**:** +1d6 dano.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Soco de Arsenal (3 MP)
 <div class="spell-tags">summon wild wind nature warmagic thaumaturgy</div>
 
@@ -5706,7 +5152,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 {{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -5774,7 +5220,7 @@ Tendrils of dark energy erupt from you and batter all creatures within 10 feet o
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Thorn Whip (0 MP)
 <div class="spell-tags">wild plant summon creation arcane</div>
 
@@ -5832,7 +5278,7 @@ Each creature in a 3sqr-foot cube originating from you must make a Constitution 
 - **+2PM:** increse the size of the cube by 1sqr..
 - **+1PM:** increase the damage by 1d6..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
@@ -5897,7 +5343,7 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+2 PM:** aumenta a penalidade em –1..
 - **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Transformação de Guerra (6 MP)
 <div class="spell-tags">boost sacred arcane abjuration thaumaturgy</div>
 
@@ -5960,7 +5406,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 - **+1PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
 \page
-[Spells](#p67)
+[Spells](#p56)
 ### Wither and Bloom  (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
 
@@ -6254,9 +5700,6 @@ When resting, expending more or less resources has an effect on the quality of t
 | 20 silver               | +1            |
 | 50 silver               | +2            |
 | 150 silver              | +3            |
-
-### Levar Mantimentos
-Cada 100 silver de mantimentos requer 1 espaço de inventário para guardar.
 
 ### Improving the condition
 A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
