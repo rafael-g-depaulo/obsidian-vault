@@ -17,4 +17,9 @@
 
 ---
 
+Temos um problema de nome
 
+---
+
+
+![[Drawing 2024-02-16 10.18.42.excalidraw]]
