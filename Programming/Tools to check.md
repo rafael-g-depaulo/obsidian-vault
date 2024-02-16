@@ -6,6 +6,10 @@ https://github.com/polybar/polybar-scripts
 ## Tests
 https://vitest.dev/
 
+## OS, UI and UX
+- tint2
+	- [themes](https://terminalroot.com.br/2021/12/os-12-melhores-temas-para-seu-tint2.html)
+
 ## Documentation
 - Archi + C4 for arquitecture documentation
   - [agile software architecture using archimate and the c4 model](https://medium.com/@jeanb.rocher/agile-software-architecture-using-archimate-and-the-c4-model-e98c15e75106)

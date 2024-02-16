@@ -21,7 +21,7 @@ If the spell uses a spellcasting ability the caster can use one they already hav
 
 A spellcaster may attempt to learn the spell stored in the scroll, if they have that ability (All Casters have this ability, while Off-casters don't by default). The reader must already be able to learn spells from that circle (a level 1 caster can only learn scrolls that contain spells of first circle or cantrips).
 
-To attempt it the reader must spend 4 hours reading the scroll for each tier. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 14 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
+To attempt it the reader must spend 4 hours reading the scroll for each tier. They also spend 10g worth of magic incense every 4 hours. At the end of this study (that can happen over multiple sessions), the reader makes an Arcana  check, with DC 12 + tier. If they succeed, the reader learns that spell, and adds it to their spell list.
 
 ## Creating Spell Scrolls
 
@@ -34,7 +34,7 @@ In general, Spell Scrolls sold by merchants and other casters cost ~10gp per tie
 ## Ideas for change
 Maybe make it be different checks instead of all Arcana?
 
-Change cost to like $circle*tier*5gp$, so a tier 2 darkness (circle 1) would cost 10gp, a tier 2 hold person (circle 2) would cost 20gp and a tier 6 fireball (circle 3) would cost 180gp.
+Change cost to like $circle*tier*10gp$ (5gp for cantrips), so a tier 2 darkness (circle 1) would cost 10gp, a tier 2 hold person (circle 2) would cost 20gp and a tier 6 fireball (circle 3) would cost 180gp.
 
 Ignore the previous crafting rules and use the simpler general ones.
 

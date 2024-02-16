@@ -1,0 +1,2 @@
+## Item Level
+All adventuring equipment has a specific level assigned to it, from 0-20. That level roughly indicates what level of adventurer would have access to that item, which helps DMs choose appropriate loot for the party, set rarity for certain items, etc. The level of the item is also important when it comes to crafting, as it both limits the minimum level of the crafter and helps determine how difficult it would be to craft (see: [[Crafting]].).

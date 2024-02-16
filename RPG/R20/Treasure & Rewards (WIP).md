@@ -7,10 +7,17 @@ Remember:
 
 ## Averages
 ### Single Encounter
-- CR 0-4: 200 Copper = 4 gold
+- CR 0-4: 300 Copper = 6 gold
+- CR 5-10: ~105 Gold
+- CR 11-16: ~735 Gold
+- CR 17-20: ~5300 Gold
 
 ### Hoard Encounter
 - CR 0-4: ~350g + 1-3 magic items
+- CR 5-10: 533 (gems) +  Gold
+- CR 11-16: xxx Gold
+- CR 17-20: xxx Gold
+
 
 #### Single Encounter Treasure Table
 ![[Treasure Table.png]]

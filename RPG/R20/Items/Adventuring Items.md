@@ -1,13 +1,17 @@
 ## Itens de aventura
 Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam muito qualquer aventureiro.
 
-| Item                       | Valor     | Efeito                                                                                                                                                 |
-| -------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Tocha                      | 5 silver  | Quando acesa, ilumina uma região de 10sqr de raio                                                                                                      |
-| Algemas                    | 10 silver | Prende alguém. CD 5 DEX save para evitar ser pego, CD 20 atletismo para quebrar                                                                        |
-| Mochila de Aventureiro     | 50 silver | Ajuda a organizar seus itens. Dá +2 espaços de inventário e -2 em Furtividade                                                                          |
-| Organizador de Pergaminhos | 30 silver | Pasta segmentada para guardar pergaminhos. Pode sacar pergaminhos como ação livre                                                                      |
-| Bandoleira de Poções       | 30 silver | Bolsa de couro para organizar poções. Pode sacar itens alquímicos como ação livre                                                                      |
-| Saco de Ingredientes       | 30 silver | Sacola desorganizada que de alguma forma não danifica materiais. Pode guardar até 5 espaços de materiais brutos dentro dela, mas só conta por 1 espaço |
-| Aljava Reforçada           | 80 silver | Bolsa de couro especializada para guardar munições especiais. Pode sacar munições especiais como ação livre. Pode guardar até 10 munições.             |
+| Item | Valor | Efeito |
+| ---- | ---- | ---- |
+| Tocha | 5 silver | Quando acesa, ilumina uma região de 10sqr de raio. Precisa ser segurada com 1 mão para ser eficaz. |
+| Algemas | 10 silver | Prende alguém. CD 5 DEX save para evitar ser pego, CD 20 atletismo para quebrar |
+| Mochila de Aventureiro | 50 silver | Ajuda a organizar seus itens. Dá +2 espaços de inventário e -2 em Furtividade |
+| Organizador de Pergaminhos | 30 silver | Pasta segmentada para guardar pergaminhos. Pode sacar pergaminhos como ação livre |
+| Bandoleira de Poções | 30 silver | Bolsa de couro para organizar poções. Pode sacar itens alquímicos como ação livre |
+| Saco de Ingredientes | 30 silver | Sacola desorganizada que de alguma forma não danifica materiais. Pode guardar até 5 espaços de materiais brutos dentro dela, mas só conta por 1 espaço |
+| Aljava Reforçada | 80 silver | Bolsa de couro especializada para guardar munições especiais. Pode sacar munições especiais como ação livre. Pode guardar até 10 munições. |
+| Healer’s Kit | 10 gold | This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check. |
+| Caixa de Merenda Profissional | 15 gold | Uma bolsa grande intricadamente construída de couro especialmente tratado para resistência e compressão, limitando também apodrecimento. Ela ocupa 2 espaços de inventário, e consegue guardar o equivalente de 10 espaços de inventário de mantimentos (500 pratas). |
+
+
 

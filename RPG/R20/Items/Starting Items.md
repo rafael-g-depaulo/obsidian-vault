@@ -1,7 +1,7 @@
 # Starting Items
 When starting an adventure, you can chose your character's initial equipment by choosing items whose total value are within the table below for that specific level (but remember to validate with your DM if those items are setting and context appropriate for your character to have access to at that point).
 
-##### Typical Difficulty Classes
+##### Starting gold
 {{column-count:2
 
 | Level | Starting Gold |

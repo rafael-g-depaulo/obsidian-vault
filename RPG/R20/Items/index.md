@@ -1,18 +1,26 @@
-![[Starting Items]]
+%% Basic Rules %%
+[[Carrying Capacity]]
+[[Currency]]
+[[Item Level]]
+[[Starting Items]]
 
+%% Main Equipment %%
+[[Equipment]]
+[[Magic Staves]]
 
-![[Carrying Capacity]]
+%% Common support items %%
+[[Adventuring Items]]
+[[Provisions]]
 
-![[Currency]]
+%% Battle Consumables %% 
+[[Munição Especial]]
+[[Oils]]
+[[Poisons]]
+[[Potions]]
 
-![[Equipment]]
+%% Magic Items %%
+[[Magic items]]
+[[Runes]]
 
-![[Magic Staves]]
-
-![[Consumable Items]]
-
-![[Magic items]]
-
-![[Runes]]
-
-![[Crafting]]
+%% Advanced Rules %%
+[[Crafting]]

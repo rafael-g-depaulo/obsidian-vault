@@ -22,9 +22,6 @@ When resting, expending more or less resources has an effect on the quality of t
 | 50 silver               | +2            |
 | 150 silver              | +3            |
 
-### Levar Mantimentos
-Cada 100 silver de mantimentos requer 1 espaço de inventário para guardar.
-
 ### Improving the condition
 A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
 
