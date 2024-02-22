@@ -1,4 +1,4 @@
-polybar is a cool program to make a simplistic workspace utility bar.
+/polybar is a cool program to make a simplistic workspace utility bar.
 
 ## Useful mods
 - from [polybar-scripts](https://github.com/polybar/polybar-scripts)
