@@ -2,6 +2,7 @@
 ### i3expo
 [repo](https://gitlab.com/d.reis/i3expo). among the things in the readme, it's important to remember to use XDG_HOME_DIR, and also how to send kill -SIGUSR1.
 
+https://github.com/fsaintjacques/semver-tool
 https://github.com/polybar/polybar-scripts
 ## Tests
 https://vitest.dev/
