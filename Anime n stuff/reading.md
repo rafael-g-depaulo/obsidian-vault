@@ -23,6 +23,9 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Fish Survival](https://zscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
 - [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
+- https://mangatoto.com/chapter/2174716
+- https://mangatoto.com/chapter/2370921
+- https://mangatoto.com/chapter/1933835
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
