@@ -1,4 +1,4 @@
-sssssshttps://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
+https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapter-164/
 ## To read

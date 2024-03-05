@@ -24,7 +24,6 @@ Problema de nome -> Problema de entendimento -> Ineficiências e complexidade de
 
 ---
 
-![[Drawing 2024-02-16 10.18.42.excalidraw]]
 
 ![[Pasted image 20240216105109.png]]
 
