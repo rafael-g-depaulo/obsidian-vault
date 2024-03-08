@@ -18,4 +18,4 @@ https://cutcodedown.com/for_others/medium_articles/vuetify/wireframe/
 # HTML
 HTML Elements
 
-![[Pasted image 20221008235841.png]]
+![[Pasted image 20221008235841.png|1307]]
