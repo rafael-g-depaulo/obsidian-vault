@@ -12,3 +12,10 @@
 ## Passar pelo documento feito
 
 ## Refinar só pro labfaz digital
+
+# Versão App
+## 3 Objetivos
+### Conexão
+### Capacitação
+### Articulação
+### Mobilização
