@@ -6,6 +6,12 @@ kanban-plugin: basic
 
 ## backlog
 
+- [ ] study delta/git diff
+- [ ] montar orçamento testes acessibilidade
+- [ ] add ripgrep to config
+- [ ] add find to config
+- [ ] add batcat to config
+- [ ] add batcat by default to fzf
 - [ ] go through old vimconfig and add stuff to lazyvim config
 - [ ] mitologia trocar cloudflare e desligar heroku
 - [ ] mitologia testar gcloud gerenciado em vez de manual
@@ -30,17 +36,15 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] net adicionar ponto
-- [ ] add batcat to config
-- [ ] add find to config
-- [ ] add batcat by default to fzf
-- [ ] add ripgrep to config
-- [ ] montar orçamento testes acessibilidade
-- [ ] study delta/git diff
+- [ ] Decide arquitecture
+- [ ] decide deliverables
 
 
 ## doing
 
+- [ ] fabão contato
+- [ ] falar moara
+- [ ] reunião geral
 
 
 ## done
@@ -165,6 +169,7 @@ kanban-plugin: basic
 - [x] 2023-06-05 11:04 ARRANJAR FOLHAS PARA A PROVA DE LÓGICA
 - [x] 2023-06-05 11:04 rodar ragic. convidar sig
 - [x] 2023-09-07 20:15 trocar senha gov.br
+- [x] 2024-03-12 10:13 net adicionar ponto
 
 %% kanban:settings
 ```
