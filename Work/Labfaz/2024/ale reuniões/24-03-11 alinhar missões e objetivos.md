@@ -12,8 +12,6 @@
 ## Passar pelo documento feito
 feito
 
-## Refinar só pro labfaz digital
-
 # Versão App
 ## 3 Objetivos
 ### Conexão
