@@ -6,12 +6,21 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
 - https://askubuntu.com/questions/20953/sudo-source-command-not-found
 - https://asuratoon.com/manga/3619099433-terminally-ill-genius-dark-knight/
-- https://asuratoon.com/manga/3619099433-surviving-the-game-as-a-barbarian/
 - https://aquamanga.org/manga/volcanic-age/
 - https://manhuaus.org/manga/i-used-to-be-a-boss/
 - https://zeroscans.com/comics/dominate-the-world-only-by-defense
 - https://mangatoto.com/chapter/2157874
 - orisha
+- [Against the Gods](https://manhwatop.com/manga/against-the-gods/)
+- [Lightning Decree](https://manhwatop.com/manga/lightning-degree-series/)
+- [Player Can't Level Up](https://manhwatop.com/manga/the-player-that-cant-level-up/)
+- [Does Your Mother Need a Son in Law](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/)
+- [Immortal Swordsman in Reverse World](https://manhwatop.com/manga/immortal-swordsman-in-the-reverse-world/)
+- [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/)
+- [DOM Enlightenment](https://domenlightenment.com/)
+- [Eloquent Javascript](https://domenlightenment.com/)
+- [Git Stuff](https://git-scm.com/book/en/v2)
+- [SQL stuff](https://sqlzap.com/)
 
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)

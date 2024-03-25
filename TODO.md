@@ -36,15 +36,13 @@ kanban-plugin: basic
 
 ## todo
 
-- [ ] Decide arquitecture
-- [ ] decide deliverables
+- [ ] contato bárbara<br>- [ ] alê<br>- [ ] fabão
+- [ ] mind map obisidian
+- [ ] calendar obsidia
 
 
 ## doing
 
-- [ ] fabão contato
-- [ ] falar moara
-- [ ] reunião geral
 
 
 ## done
@@ -170,6 +168,9 @@ kanban-plugin: basic
 - [x] 2023-06-05 11:04 rodar ragic. convidar sig
 - [x] 2023-09-07 20:15 trocar senha gov.br
 - [x] 2024-03-12 10:13 net adicionar ponto
+- [x] 2024-03-19 11:33 falar moara
+- [x] 2024-03-19 11:33 fabão contato
+- [x] 2024-03-19 11:33 reunião geral
 
 %% kanban:settings
 ```
