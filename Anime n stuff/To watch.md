@@ -11,52 +11,53 @@
 11. Oshi no Ko
 12. Buddy Daddies
 13. Glitch Techs
-14. Tengoku-Daimakyo
-15. Akudama Drive
-16. Ya Boy Kongming
-17. Nimona
-18. Dead Mount Dead Play
-19. Grimgar of Fantasy And Ash
-20. Kaiba
-21. Talentless Nana
-22. Trollhunters
-23. [Dahufa (2017)](https://t.co/RYNjpVOFpX)
-24. Fog Hill of Five Elements
-25. The Yakuza's Guide to Babysitting
-26. Kujira no Korai
-27. The Executioner and Her Way of Life
-28. Birdie Wing: Golf Girls' Story
-29. Bee and Puppycat
-30. call of the night
-31. Tanya the Evil Movie
-32. Final Space
-33. Kengan Ashura
-34. Inuyasha
-35. Love After World Domination
-36. Harley Quin S3
-37. pantheon
-38. The Ancient Magus' Bride
-39. The Fire Hunter
-40. Moriarty the Patriot
-41. One-hit Onee-san
-42. Scooby Doo Mistery Inc.
-43. Hell's Paradise
-44. Do It Yourself
-45. Engage Kiss (maybe? kinda NSFW but at least looks cool)
-46. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
-47. Maya and the Three
-48. Devils' Line (vampire romance stuff)
-49. inu-oh
-50. Giant Beasts of Ars
-51. Three Below
-52. The Hollow
-53. Carmen Sandiego
-54. Kid Cosmic
-55. Seis Manos
-56. That one that was called "13" or something i don't remember
-57. Final Space
-58. Revenger
-59. the Eminence in Shadow (satire edgy isekai)
-60. Akiba MAid War
-61. Wendel & Wild
-62. To Be Hero X
+14. Kizazi Moto
+15. Tengoku-Daimakyo
+16. Akudama Drive
+17. Ya Boy Kongming
+18. Nimona
+19. Dead Mount Dead Play
+20. Grimgar of Fantasy And Ash
+21. Kaiba
+22. Talentless Nana
+23. Trollhunters
+24. [Dahufa (2017)](https://t.co/RYNjpVOFpX)
+25. Fog Hill of Five Elements
+26. The Yakuza's Guide to Babysitting
+27. Kujira no Korai
+28. The Executioner and Her Way of Life
+29. Birdie Wing: Golf Girls' Story
+30. Bee and Puppycat
+31. call of the night
+32. Tanya the Evil Movie
+33. Final Space
+34. Kengan Ashura
+35. Inuyasha
+36. Love After World Domination
+37. Harley Quin S3
+38. pantheon
+39. The Ancient Magus' Bride
+40. The Fire Hunter
+41. Moriarty the Patriot
+42. One-hit Onee-san
+43. Scooby Doo Mistery Inc.
+44. Hell's Paradise
+45. Do It Yourself
+46. Engage Kiss (maybe? kinda NSFW but at least looks cool)
+47. Akashik Records (looks like isekai trash, but sometimes that's just what i need lol)
+48. Maya and the Three
+49. Devils' Line (vampire romance stuff)
+50. inu-oh
+51. Giant Beasts of Ars
+52. Three Below
+53. The Hollow
+54. Carmen Sandiego
+55. Kid Cosmic
+56. Seis Manos
+57. That one that was called "13" or something i don't remember
+58. Final Space
+59. Revenger
+60. the Eminence in Shadow (satire edgy isekai)
+61. Akiba MAid War
+62. Wendel & Wild
+63. To Be Hero X
