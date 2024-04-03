@@ -48,10 +48,47 @@ Planejamento:
 
 > What problem do we want to solve?
 
+- Entrevistas em Profundidade (qualitativo)
+- Questionários (quantitativo)
+- Diário de Uso
+- Mapeamento de Jornada do Usuário
+- Análise de Concorrência (Benchmark)
+- Desk Research (compilação de pesquisas acadêmicas)
+
 #### Avaliativa
 **Refinar**
 
 > How well is our current solution working?
+
+- Testes de usabilidade
+- Avaliação Heurística
+	- Checklist com Heurísticas de Nielsen
+- Testes A/B
+- Análise de Métricas de Desempenho
+- Heatmaps
+
+## User Flow e Wireframe
+Primeira e mais importante demanda para o UX contratado pontualmente para a fase X.
+
+## Protótipos e Ferramentas
+### Figma
+Usa figma cara. Cobre uso de **bibliotecas de estilo** do UX.
+
+Para permanência: Conta paga do LabFazs, com Branches do histórico. Talvez tenha como fazer com a gratuita, principalmente a curto prazo.
+
+#### Comunidades
+Uma feature massa do figma. Asset library, basicamente.
+
+### InVision/Protopie
+Voltados pra microinterações, bem pontual
+
+## Handoff e Style Guides
+Ir cobrando modularidade aos poucos, não só wireframe/UI pronto.
+
+## E o LabFaz?
+- Guidelines de:
+	- asdsad
+- Templates de documentos ao redor das 5 camadas de Garrett.
 
 ## Dever de casa
 - [ ] Montar BMC do LabFaz Digital
@@ -59,4 +96,6 @@ Planejamento:
 # Comprovante
 
 ![[Pasted image 20240403182416.png]]
+
 ![[Pasted image 20240403183131.png]]
+
