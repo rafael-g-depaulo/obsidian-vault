@@ -4,13 +4,8 @@
 - Visão
 - Valores
 
-- Missão = Visão
-- Objetivo = Missão
-
-**TROCAR NOME MISSÃO E OBJETIVO**
-
-## Passar pelo documento feito
-feito
+- Missão = Missão
+- Objetivo = Visão
 
 # Versão App
 ## 3 Objetivos
