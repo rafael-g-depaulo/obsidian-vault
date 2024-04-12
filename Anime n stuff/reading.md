@@ -35,7 +35,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - https://mangatoto.com/chapter/2174716
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
-- Virus Girlfriends
+- [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
