@@ -10,7 +10,9 @@
 | Benção da Subsistência | Pelo amor de Aequor, ajude os fracos, sustente os inocentes e purifique a maldade. Benção da Subsistência!   |
 | xxxxxxxxxx             | Encare o vazio dos meus olhos. Procure na sua cavernosa imensidão pelo perdão que não existe, e afogue nela. |
 | Escudo de Aequor       | Proteja sua criação. Escudo de Aequor.                                                                       |
-| Invocar Monstro        |                                                                                                        | 
+| Pena                   | Apóstolo sagrado, aliado divino. Emerja do vazio e mostre sua Pena.                                          |
+|                        |                                                                                                              |
+
 ## Deuses
 ### Ignis, do fogo
 - Coragem, Força
