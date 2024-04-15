@@ -36,7 +36,6 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
-- https://asuratoon.com/8612194254-my-school-life-pretending-to-be-a-worthless-person-chapter-44/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
