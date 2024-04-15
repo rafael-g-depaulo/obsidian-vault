@@ -77,6 +77,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Dungeon Odissey](https://asuratoon.com/1398222385-dungeon-odyssey-chapter-70/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Logging 10k Years into the Future](https://asuratoon.com/9643503911-logging-10000-years-into-the-future-chapter-88/)
+- School Life Pretending to be Wo
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
