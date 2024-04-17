@@ -36,7 +36,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
-- https://asuratoon.com/8612194254-ill-be-taking-a-break-for-personal-reasons-chapter-59/
+- [I'll be taking a break for personal reasons](https://asuratoon.com/8612194254-ill-be-taking-a-break-for-personal-reasons-chapter-69/)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
 
 ## Caught up
