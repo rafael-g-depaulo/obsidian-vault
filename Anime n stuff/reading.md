@@ -36,6 +36,8 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
+- https://asuratoon.com/8612194254-ill-be-taking-a-break-for-personal-reasons-chapter-59/
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -65,7 +67,6 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)
 - [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
 - [Talent Devouring Mage](https://asuratoon.com/4622438374-talent-swallowing-magician-chapter-58/)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
 - [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
