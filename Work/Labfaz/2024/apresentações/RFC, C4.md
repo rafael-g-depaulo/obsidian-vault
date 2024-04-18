@@ -120,5 +120,7 @@ Documentação arquitetural/estratégica.
 
 É aí que vem o nosso primeiro **[RFC](https://docs.google.com/document/d/18y4v70gm1oIhVOQkL6IpVtrc4RT1CS0q/edit?usp=sharing&ouid=102436749873471323518&rtpof=true&sd=true)**!
 
+---
 
-Pense, comente
+## Valeu!
+É isso gente, pfv soltem o verbo e vamos construir, refinar e documentar nossa visão do labfaz digital para orientar a equipe das fases futuras que vão construir esses sistemas.
