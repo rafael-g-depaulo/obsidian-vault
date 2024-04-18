@@ -87,5 +87,38 @@ Para isso é necessária a construção de um **glossário comum**. Quando um de
 # 3. C4
 Modelagem de sistemas de software, pessoas e interação entre eles
 
+- Contexto ⬅ Único que importa aqui
+- Contêiner
+- Componente
+- Código
+
 --
 
+Documentação arquitetural/estratégica. 
+![[Pasted image 20240417233633.png]]
+
+
+--
+
+É preciso:
+1. Definir pessoas de interesse
+	1. interno/externo
+	2. quais suas características
+	3. o que quer/precisa
+	4. como queremos afetar a pessoa
+	5. como que ela interage com os sistemas
+2. Definir os sistemas
+	1. o que ele faz
+	2. se/como ele interage com sistemas externos *(ex: meet, zoom, google forms, redes sociais, gov.br)*
+	3. quais são as limitações e expectativas que temos dele
+3. Definir relações pessoa-pessoa e pessoa-sistema
+	1. como é a interface
+	2. **acessibilidade!!**
+	3. limitações e necessidades, sejam legais/estratégicas/etc *(ex: LGPD, segurança de dados, **quais** informações que o sistema precisa guardar/processar)*
+
+--
+
+É aí que vem o nosso primeiro **[RFC](https://docs.google.com/document/d/18y4v70gm1oIhVOQkL6IpVtrc4RT1CS0q/edit?usp=sharing&ouid=102436749873471323518&rtpof=true&sd=true)**!
+
+
+Pense, comente

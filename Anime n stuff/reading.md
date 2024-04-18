@@ -36,7 +36,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
-- [I'll be taking a break for personal reasons](https://asuratoon.com/8612194254-ill-be-taking-a-break-for-personal-reasons-chapter-69/)
+- [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-98/)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
 
 ## Caught up
@@ -76,7 +76,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Sword Fanatic Wanders Through the Night](https://asuratoon.com/4622438374-sword-fanatic-wanders-through-the-night-chapter-96/)
 - [Dungeon Odissey](https://asuratoon.com/1398222385-dungeon-odyssey-chapter-70/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
-- [Logging 10k Years into the Future](https://asuratoon.com/9643503911-logging-10000-years-into-the-future-chapter-88/)
+- [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-107/)
 - [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-57/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-108/)
 ## Hiatus
