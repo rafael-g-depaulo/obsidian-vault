@@ -1,6 +1,9 @@
 +https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapter-164/
+
+https://topmanhua.com/manhua/legend-of-the-northern-blade/
+
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
@@ -21,6 +24,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Eloquent Javascript](https://domenlightenment.com/)
 - [Git Stuff](https://git-scm.com/book/en/v2)
 - [SQL stuff](https://sqlzap.com/)
+- https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
 
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -38,6 +42,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-98/)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
+- [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-65/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
