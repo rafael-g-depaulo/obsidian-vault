@@ -41,8 +41,9 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-217/)
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-98/)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-54/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-94/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-65/)
+- [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-98/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
