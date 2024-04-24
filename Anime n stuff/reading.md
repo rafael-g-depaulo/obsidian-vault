@@ -41,7 +41,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-94/)
-- [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-65/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-98/)
 
 ## Caught up
@@ -86,6 +85,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-99/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-109/)
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-108/)
+- [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-70/)
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
