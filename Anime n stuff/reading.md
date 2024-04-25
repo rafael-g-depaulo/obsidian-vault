@@ -40,7 +40,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-94/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-108/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-98/)
 
 ## Caught up
