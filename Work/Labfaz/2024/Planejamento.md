@@ -56,6 +56,10 @@
 - Mapeamento de repositórios da equipe
 - Mapeamento de logins
 
+## TODO
+- [ ] RFC Cadastro
+- [ ] RFC Busca
+
 ## Cronograma
 
 | Semana | Início | Conteúdo           |
