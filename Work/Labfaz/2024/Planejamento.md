@@ -59,6 +59,7 @@
 ## TODO
 - [ ] RFC Cadastro
 - [ ] RFC Busca
+- [ ] Repo ADR.
 
 ## Cronograma
 
