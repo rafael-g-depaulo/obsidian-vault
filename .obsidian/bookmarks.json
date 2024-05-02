@@ -2,8 +2,18 @@
   "items": [
     {
       "type": "file",
+      "ctime": 1714658439901,
+      "path": "Work/Labfaz/2024/Planejamento.md"
+    },
+    {
+      "type": "file",
       "path": "TODO.md",
       "ctime": 1683120759159
+    },
+    {
+      "type": "file",
+      "ctime": 1693273158489,
+      "path": "Anime n stuff/reading.md"
     },
     {
       "type": "file",
@@ -19,11 +29,6 @@
       "type": "file",
       "ctime": 1685040403679,
       "path": "RPG/R20/Spells/Spell Tags.md"
-    },
-    {
-      "type": "file",
-      "ctime": 1693273158489,
-      "path": "Anime n stuff/reading.md"
     }
   ]
 }
