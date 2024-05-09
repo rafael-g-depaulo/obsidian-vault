@@ -38,6 +38,8 @@ Bora aplicar lógica, com a seguinte cadeia de preposições/operações/esqueci
 2. eu gosto de dinheiro (💰 ➡ 😄)
 3. Virar arquiteto é uma boa opção (arquiteto ➡ 😄)
 
+**Q.E.D.**
+
 ---
 
 ## Como arranjei o job?
@@ -47,3 +49,23 @@ Bora aplicar lógica, com a seguinte cadeia de preposições/operações/esqueci
 1. Qual é a teoria?
 2. Quais são as ferramentas?
 3. Como apliquei isso no contexto?
+---
+## Qual a teoria?
+- C4
+- ADR
+- RFC
+- Documentação
+
+---
+
+## Quais as ferramentas?
+- Gaphor
+- Drive
+- Markdown
+- Git
+- Github
+
+---
+
+## Uhhh, acho que Q&A agora?
+to escrevendo os slides uns 5min antes da hora de começar to nervouser

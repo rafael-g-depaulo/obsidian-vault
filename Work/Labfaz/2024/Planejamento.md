@@ -77,3 +77,4 @@
 | 3      | 15/06  | Guia Dev           |
 | 2      | 22/06  | Revisão Final 2    |
 | 1      | 29/06  | Entrega Constantes |
+
