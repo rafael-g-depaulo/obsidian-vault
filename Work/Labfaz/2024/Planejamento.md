@@ -32,7 +32,8 @@
 	- [ ] Estrutural
 		- [ ] Mapa (mental) dos produtos
 		- [ ] Análise de Requisitos (relacionar com C4 - Contexts)
-		- [ ] Definição Funcional (relacionar com C4 - Containers)
+			- [ ] Requisitos funcionais
+			- [ ] Requisitos não-funcionais (operação)
 - [x] Guia Design
 	- [x] Consultoria com designer externo
 	- [ ] Testes
@@ -48,6 +49,7 @@
 	- [ ] CI/CD
 	- [ ] Monorepo
 
+![[Pasted image 20240509115943.png]]
 
 ## Constantes
 - Glossário
@@ -57,10 +59,6 @@
 - Mapeamento de logins
 
 ## TODO
-- [ ] RFC Cadastro
-- [ ] RFC Busca
-- [ ] Repo ADR.
-
 ## Cronograma
 
 | Semana | Início | Conteúdo           |
@@ -71,8 +69,8 @@
 | 11     | 22/04  |                    |
 | 10     | 27/04  | C4 - Container     |
 | 9      | 03/05  | C4 - Pessoas       |
-| 8      | 10/05  | Acessibilidade     |
-| 7      | 17/05  |                    |
+| 8      | 10/05  |                    |
+| 7      | 17/05  | Acessibilidade     |
 | 6      | 24/05  | Testes             |
 | 5      | 01/06  | Guia Ops           |
 | 4      | 08/06  | Revisão Final 1    |
