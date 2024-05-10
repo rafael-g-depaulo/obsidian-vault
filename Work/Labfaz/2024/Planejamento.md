@@ -1,19 +1,19 @@
 ## Checklist geral
 - [ ] C4
 	- [ ] Contextos
-		- [ ] Articulação
-		- [ ] Conexão
+		- [x] Articulação
+		- [x] Conexão
 		- [ ] Construção
 		- [ ] (opcional) Capacitação
 		- [ ] (opcional) Captação
 	- [ ] Pessoas
-		- [ ] Visual Designer
-		- [ ] Content Manager
-		- [ ] Data Scientist
-		- [ ] Articulator
-		- [ ] Contratante
-		- [ ] Político
-		- [ ] Profissional
+		- [x] Visual Designer
+		- [x] Content Manager
+		- [x] Data Scientist
+		- [x] Articulator
+		- [x] Contratante
+		- [x] Político
+		- [x] Profissional
 	- [ ] Sistemas (Container)
 		- [ ] Cadastro
 		- [ ] Busca
