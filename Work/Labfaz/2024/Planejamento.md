@@ -59,6 +59,8 @@
 - Mapeamento de logins
 
 ## TODO
+- [ ] C4 Contianers
+- [ ] Draft Acessibilidade Dev
 ## Cronograma
 
 | Semana | Início | Conteúdo           |
