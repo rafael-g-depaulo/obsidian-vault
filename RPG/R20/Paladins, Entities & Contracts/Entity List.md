@@ -1,12 +1,12 @@
 # Entities
-![[Atarp - Treos]]
+%% ! [[Atarp - Treos]] %%
 
 ![[Lyf]]
 ![[Rosa Maria]]
 
 ![[Odrel]]
 
-%%
+
 ## Designer Only
 
 ### Comparing gods

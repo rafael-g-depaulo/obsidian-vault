@@ -58,3 +58,5 @@ The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle cas
 Entities also have blessings, which are Feats that only their paladins have access to. A Paladin may on level up choose to gain a Blessing instead of one of their classe's feats.
 
 ![[Blessings]]
+
+![[Entity List]]
