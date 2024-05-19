@@ -1,7 +1,7 @@
 +https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapter-164/
-
+https://manhuaus.org/manga/i-randomly-have-a-new-career-every-week-manhuaus/chapter-1/
 https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 ## To read
@@ -40,11 +40,12 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-123/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
+- https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-92/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-123/)
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
