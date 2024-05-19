@@ -39,6 +39,10 @@ Just as upholding their Entity's values and working towards their mission can he
 ## Miracles
 Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mechanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
 
+### Learning Miracles
+By default, a Paladin knows up to 1 + half their level (rounded down) of their Entity's Miracles for which they have the pre-requisites, and they can perform them.
+
+### Using Miracles
 By default, you can spend up to 2 + your level FP on a single miracle. If it costs more than that, you cannot perform it.
 
 ### Spells as Miracles
@@ -51,4 +55,6 @@ Many miracles involve a character's "miracle casting attribute". That attribute 
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
 ## Blessings
-Entities also have blessings, which are Feats that only their paladins have access to.
+Entities also have blessings, which are Feats that only their paladins have access to. A Paladin may on level up choose to gain a Blessing instead of one of their classe's feats.
+
+![[Blessings]]

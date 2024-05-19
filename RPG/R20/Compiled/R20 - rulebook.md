@@ -139,6 +139,8 @@ ___
 - #### [{{ Losing Favor }}{{ 105 }}](#p105)
 - #### [{{ Miracles }}{{ 105 }}](#p105)
 - #### [{{ Blessings }}{{ 105 }}](#p105)
+- #### [{{ General Blessings }}{{ 105 }}](#p105)
+- #### [{{ Entity Specific Blessings }}{{ 105 }}](#p105)
 - ### [{{ Companions }}{{ 106 }}](#p106)
 - #### [{{ Stats }}{{ 106 }}](#p106)
 - #### [{{ Companion death }}{{ 106 }}](#p106)
@@ -6031,6 +6033,10 @@ Just as upholding their Entity's values and working towards their mission can he
 ## Miracles
 Every entity has a set of miracles their Paladins can perform with their help. All miracles work like active abilities a Paladin may use by spending their Entity's energy (and usually also their own). Mechanically, this means that performing Miracles always spends FP, and sometimes also MP/HP (the MP cost of a Miracle is exempt from the Mana Tax).
 
+### Learning Miracles
+By default, a Paladin knows up to 1 + half their level (rounded down) of their Entity's Miracles for which they have the pre-requisites, and they can perform them.
+
+### Using Miracles
 By default, you can spend up to 2 + your level FP on a single miracle. If it costs more than that, you cannot perform it.
 
 ### Spells as Miracles
@@ -6043,7 +6049,23 @@ Many miracles involve a character's "miracle casting attribute". That attribute 
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
 ## Blessings
-Entities also have blessings, which are Feats that only their paladins have access to.
+Entities also have blessings, which are Feats that only their paladins have access to. A Paladin may on level up choose to gain a Blessing instead of one of their classe's feats.
+
+## General Blessings
+Toda benção tem como pré-requisito ser paladino.
+
+**Conhecimento Sagrado.** Você aprende 2 Milagres do seu deus.
+
+**NAME_HERE.** Você ganha +1FP por nível de personagem ao final de um descanso.
+
+**NAME_HERE.** Ao fazer um teste de uma perícia de atributo mental (X FP, limitado pela sua proficiência): Você ganha +2 no teste por FP gasto. Os casos de uso válido desse Milagre passam pela discrição do mestre.
+
+## Entity Specific Blessings
+
+### Rosa Maria
+
+### Lyf
+
 
 {{pageNumber,auto}}
 \page
