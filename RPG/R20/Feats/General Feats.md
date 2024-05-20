@@ -22,6 +22,8 @@
 
 **Investigador.** Você recebe +2 em Investigação e soma seu bônus de Inteligência em Intuição. *Pré-requisito*: Int 13.
 
+**Inventário Organizado.** Você soma sua Inteligência no limite de espaços que pode carregar. Para você, itens muito leves ou pequenos, que normalmente ocupam meio espaço, em vez disso ocupam 1/4 de espaço. *Pré-requisito:* Int 13.
+
 **Sentidos Aguçados.** Você recebe +2 em Percepção, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem ou camuflagem total, pode rolar mais uma vez o dado da chance de falha. *Pré-requisitos*: SEN 13, treinado em Percepção.
 
 **Linguista.** Você aprende 2 línguas a sua escolha.
@@ -41,7 +43,7 @@
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
 
-**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
+**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 11 Dex.
 
 **Reflexos de Desvio.** Você pode se esconder como ação livre imediatamente após usar "**de Raspão**".
 

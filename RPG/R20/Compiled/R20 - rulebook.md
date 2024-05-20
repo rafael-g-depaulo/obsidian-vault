@@ -141,22 +141,24 @@ ___
 - #### [{{ Blessings }}{{ 105 }}](#p105)
 - #### [{{ General Blessings }}{{ 105 }}](#p105)
 - #### [{{ Entity Specific Blessings }}{{ 105 }}](#p105)
-- ### [{{ Companions }}{{ 106 }}](#p106)
-- #### [{{ Stats }}{{ 106 }}](#p106)
-- #### [{{ Companion death }}{{ 106 }}](#p106)
-- #### [{{ Rest }}{{ 106 }}](#p106)
-- #### [{{ Companion Skills }}{{ 106 }}](#p106)
-- ### [{{ Conditions }}{{ 108 }}](#p108)
-- ### [{{ Rest & Recovery }}{{ 109 }}](#p109)
-- #### [{{ Provisions }}{{ 109 }}](#p109)
-- #### [{{ How to recover }}{{ 109 }}](#p109)
-- #### [{{ Skipping a Rest }}{{ 109 }}](#p109)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 109 }}](#p109)
-- ### [{{ Companions }}{{ 110 }}](#p110)
-- #### [{{ Stats }}{{ 110 }}](#p110)
-- #### [{{ Companion death }}{{ 110 }}](#p110)
-- #### [{{ Rest }}{{ 110 }}](#p110)
-- #### [{{ Companion Skills }}{{ 110 }}](#p110)
+- ### [{{ Entities }}{{ 106 }}](#p106)
+- #### [{{ Designer Only }}{{ 106 }}](#p106)
+- ### [{{ Companions }}{{ 107 }}](#p107)
+- #### [{{ Stats }}{{ 107 }}](#p107)
+- #### [{{ Companion death }}{{ 107 }}](#p107)
+- #### [{{ Rest }}{{ 107 }}](#p107)
+- #### [{{ Companion Skills }}{{ 107 }}](#p107)
+- ### [{{ Conditions }}{{ 109 }}](#p109)
+- ### [{{ Rest & Recovery }}{{ 110 }}](#p110)
+- #### [{{ Provisions }}{{ 110 }}](#p110)
+- #### [{{ How to recover }}{{ 110 }}](#p110)
+- #### [{{ Skipping a Rest }}{{ 110 }}](#p110)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 110 }}](#p110)
+- ### [{{ Companions }}{{ 111 }}](#p111)
+- #### [{{ Stats }}{{ 111 }}](#p111)
+- #### [{{ Companion death }}{{ 111 }}](#p111)
+- #### [{{ Rest }}{{ 111 }}](#p111)
+- #### [{{ Companion Skills }}{{ 111 }}](#p111)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -2322,7 +2324,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p108)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p109)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -2523,6 +2525,8 @@ R20's formula: ceil(lv/2)
 
 **Investigador.** Você recebe +2 em Investigação e soma seu bônus de Inteligência em Intuição. *Pré-requisito*: Int 13.
 
+**Inventário Organizado.** Você soma sua Inteligência no limite de espaços que pode carregar. Para você, itens muito leves ou pequenos, que normalmente ocupam meio espaço, em vez disso ocupam 1/4 de espaço. *Pré-requisito:* Int 13.
+
 **Sentidos Aguçados.** Você recebe +2 em Percepção, não fica desprevenido contra inimigos que não possa ver e, sempre que erra um ataque devido a camuflagem ou camuflagem total, pode rolar mais uma vez o dado da chance de falha. *Pré-requisitos*: SEN 13, treinado em Percepção.
 
 **Linguista.** Você aprende 2 línguas a sua escolha.
@@ -2542,7 +2546,7 @@ R20's formula: ceil(lv/2)
 
 **Resilient.** Choose one attribute. You gain proficiency in saving throws using the chosen attribute.
 
-**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 12 Dex.
+**Começo Forte.** Você ganha +2 Dodge no início de uma cena, e perde esse bonus na primeira vez que toma dano durante ela. *Pré-requisito*: 11 Dex.
 
 **Reflexos de Desvio.** Você pode se esconder como ação livre imediatamente após usar "**de Raspão**".
 
@@ -6065,6 +6069,37 @@ Toda benção tem como pré-requisito ser paladino.
 ### Rosa Maria
 
 ### Lyf
+
+
+{{pageNumber,auto}}
+\page
+# Entities
+
+
+############ INVALID_LINK "null" ############
+############ INVALID_LINK "null" ############
+
+############ INVALID_LINK "null" ############
+
+
+## Designer Only
+
+### Comparing gods
+
+| God                | Element        | Offensive Magic | Offensive Buffs | Defensive Buffs | Debuffs    | Utility     | Healing     |
+| ------------------ | -------------- | --------------- | --------------- | --------------- | ---------- | ----------- | ----------- |
+| Treos              | Metal (Silver) | Médio           | Médio-Alto      | -               | Médio      | Média-Alta  | -           |
+| Odrel              | Metal (Gold)   | Médio           | Médio           | Médio           | -          | Alta        | -           |
+| Lyf                | Necrotic       | Médio-Alto      | Médio           | Médio           | Médio-Alto | Baixa       | Médio-Baixo |
+| Auvetre            | Light          | -               | Baixo           | Médio           | -          | Alta        | Baixo       |
+| David WIP          | Darkness/Moon  | Médio-Alto      | Baixo           | -               | Alto       | Média       | Alto        |
+| Rosa Maria         | Plant          | Baixo           | -               | Baixo           | Super-Alto | Média-Baixa | Médio       |
+| Justice and Fire   | Fire/Sun       | Médio           | Alto            | Médio-Alto      | -          | Baixa       | Alto        |
+| Ice and Kndowledge | Ice            | Alto            | -               | Médio-Baixo     | Médio-Alto | Média       | -           |
+| Deep Sea fuckery   | Water          | Médio-Alto      | Médio           | Médio           | Alto       | Média-Alta  | -           |
+| Physical Strength  | Earth          | -               | Alto            | Alto            | -          | Média-Alta  | -           |
+
+%%
 
 
 {{pageNumber,auto}}
