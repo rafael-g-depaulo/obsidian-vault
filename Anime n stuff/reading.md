@@ -74,7 +74,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
 - [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
-- [Return of the Crazy Demon](https://asuratoon.com/0435219386-the-return-of-the-crazy-demon-chapter-103/)
+- [Return of the Crazy Demon](https://asuratoon.com/1908287720-the-return-of-the-crazy-demon-chapter-119/)
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
 - [Surviving the Game as a Barbarian](https://asuratoon.com/4622438374-surviving-the-game-as-a-barbarian-chapter-48/)
 - [Sword Fanatic Wanders Through the Night](https://asuratoon.com/1908287720-sword-fanatic-wanders-through-the-night-chapter-109/)
@@ -85,7 +85,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
-- [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-70/)
+- [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-75/)
 - [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-104/)
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
