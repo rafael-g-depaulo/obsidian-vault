@@ -46,7 +46,7 @@ Hierarquia:
 	1. acabou de entrar na organização. grande maioria são orfãos recebidos pela igreja
 
 ### Geral
-em geral a igreja prega que enquanto os animais e criaturas recebiam poderes ou da natureza ou de demonios, os humanos são uma raça especial pois receberam os poderes dos deuses. E por isso devem ser gratos e usar com responsabilidade esse presente. Tem algumas histórias tbm sobre algumas pessoas específicas no começo do reino que são contadas da mesma forma que parábolas da biblia são contadas
+em geral a igreja prega que enquanto os animais e criaturas recebiam poderes ou da natureza ou de demonios, os humanos são uma raça especial pois receberam os poderes dos deuses. E por isso devem ser gratos e usar com responsabilidade esse presente. Tem algumas histórias tbm sobre algumas pessoas específicas no começo do reino que são contadas da mesma forma que parábolas da biblia são contadas.
 
 ### Tabus
 questionar a existencia dos deuses, aceitar outros (falsos) deuses, fazer coisas que interfiram na habilidade (direito sagrado) de alguém de usar magia.
