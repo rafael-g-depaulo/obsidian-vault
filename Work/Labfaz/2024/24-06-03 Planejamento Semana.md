@@ -1,0 +1,5 @@
+- [ ] Relatório Maio
+- [ ] Toques Finais Persona
+- [ ] Terminar C4 - Sistemas
+- [ ] Separar fontes - Guia Ops
+- [ ] Separar fontes - Guia acessibilidade
