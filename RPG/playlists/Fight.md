@@ -5,3 +5,4 @@
 	- [Living in the Light (dogma fight)](https://open.spotify.com/track/0S0cy7X96AvN2hoTfZZeeD?si=a6ba926e37684bc6)
 	- [Living in the Light (narrationless)](https://www.youtube.com/watch?v=WT-ktPiDr24)
 - [cool robot swag](https://youtu.be/ayUlxINB5CM)
+- [Chop Suey but OSRS](https://youtu.be/Mh3FdhXtKRw?si=1DYaNaVkDLgFZayg)

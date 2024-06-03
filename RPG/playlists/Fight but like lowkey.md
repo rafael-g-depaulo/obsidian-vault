@@ -6,3 +6,4 @@ https://youtu.be/51vYKjbchtU
 https://youtu.be/Cclxu9T0tcQ
 https://youtu.be/eZjQnrhUdsM
 https://youtu.be/ZuV38DZQgvM
+[Chop Suey but OSRS](https://youtu.be/Mh3FdhXtKRw?si=1DYaNaVkDLgFZayg)
