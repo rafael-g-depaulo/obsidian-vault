@@ -20,17 +20,17 @@ A Caster has access to all Caster Feats.
 - **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
 
 ##### Caster maximum spell circle per Level
-| Level | Spell's Circle |
-|:-----:|:--------------:|
-|  1-2  |       1        |
-|  3-4  |       2        |
-|  5-6  |       3        |
-|  7-8  |       4        |
-| 9-10  |       5        |
-| 11-12 |       6        |
-| 13-14 |       7        |
-| 15-16 |       8        | 
-| 17-20 |       9        |
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
 
 {{define-archetype "Caster"
 HP_LV1: 8
@@ -42,10 +42,10 @@ HAS_MAGIC: true
 
 FEATURES:
 
-| LEVEL | FEATURE | DESCRIPTION |
-| ---- | ---- | ---- |
-| 1 | Magia Preparada | Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.<br><br>Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito). |
-| 1 | Magia Aprendida | Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls]]) |
+| LEVEL | FEATURE         | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                     |
+| ----- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Magia Preparada | Você pode lançar magias dessa classe. No final de cada descanso, escolha metade (arredondado pra cima) das suas magias dessa classe. Você tem essas magias preparadas até o próximo descanso.<br><br>Lançar uma magia não-preparada exige uma rolagem de Arcana de CD 10+Círculo da Magia (em uma falha, você gasta os custos da magia mas ela não tem efeito). |
+| 1     | Magia Aprendida | Você pode aprender magias a partir de **Pergaminhos Mágicos** (ver: [[Spell Scrolls#Spell Scrolls]])                                                                                                                                                                                                                                                            |
 
 MULTI_FEATURES:
 

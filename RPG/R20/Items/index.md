@@ -11,7 +11,7 @@
 %% Common support items %%
 ![[Adventuring Items]]
 ![[Provisions]]
-
+![[Food]]
 %% Battle Consumables %% 
 ![[Munição Especial]]
 ![[Oils]]

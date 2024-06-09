@@ -110,6 +110,7 @@ ___
 \page
 {{toc,wide
 # Table Of Contents
+- #### [{{ Comidas Especiais }}{{ 55 }}](#p55)
 - #### [{{ Munição Especial }}{{ 55 }}](#p55)
 - #### [{{ Óleos }}{{ 56 }}](#p56)
 - #### [{{ Poisons }}{{ 56 }}](#p56)
@@ -2904,7 +2905,12 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 Ao realizar um descanso (Ver: [Rest|Rest (link not found)]()), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
 Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 50 pratas equivalente de mantimentos.
+## Comidas Especiais
+Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer? cadê o tûmpero? Pra isso existem comidas especiais, feitas de ingredientes cheios de Mana e preparadas por chefes experientes.
 
+A maioria das Comidas Especiais que existem não estão disponíveis em qualquer cidade (Comidas Especiais com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p60) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
+
+- A tentativa de criar uma Comida Especial é feita durante um [Rest & Recovery](#p110), e 
  
 ## Munição Especial
 Munições especiais são flechas, dardos, balas, etc. especiais com efeitos específicos, feitos para serem usados com uma arma a distância respectiva. {{pageNumber,auto}}
@@ -3155,10 +3161,11 @@ Below is a list of all crafting-related skills.
 | Skill         | Relevant Attribute | Items crafted using it                                |
 | ------------- | ------------------ | ----------------------------------------------------- |
 | Alchemy       | DEX                | Poisons, explosives, oils and other alchemical items. |
-| Herbalism     | SEN                | Potions and poisons.                                  | 
-| Rune Crafting | PRE                | Standalone runes and imbuing runes into items.        |
+| Herbalism     | SEN                | Potions and poisons.                                  |
+| Rune Crafting | INT                | Standalone runes and imbuing runes into items.        |
 | Scribing      | INT                | Spell Scrolls.                                        |
 | Smithing      | STR                | Armor, weapons and ammunition.                        |
+| Cooking       | PRE                | Food.                                                 |
 
 When rolling a skill check for crafting, a character should use a set of tools specific for that skill (alchemy set, smithing's tools, etc.). If they don't have the kit, they have a -5 to the roll.
 
@@ -6332,6 +6339,7 @@ If they fail the character gains 1 level of exhaustion, +1 for every 5 points be
 
 ## Regra Opcional: Mantimentos automáticos
 Para grupos que preferirem não lidar com gerenciamento de mantimentos ao longo de viagens longas, uma opção recomendada é ignorar as regras de mantimentos, e considerar que todas as rolagens de descanso são feitas com 5 ou 20 pratas.
+
 
 {{pageNumber,auto}}
 \page
