@@ -14,4 +14,4 @@ A maioria das **Comidas Especiais** que existem não estão disponíveis em qual
 
 
 ### Guardar uma **Comida Especial**
-Uma porção de **Comida Especial** ocupa meio espaço de inventário. Depois de 24 horas ela perde seu efeito e pode ser usada como uma por, e depois de 1 semana ela apodrece e 
+Uma porção de **Comida Especial** ocupa meio espaço de inventário. Depois de 24 horas ela perde seu efeito e pode ser usada como uma porção de comida comum , e depois de 1 semana ela apodrece e 
