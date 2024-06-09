@@ -17,6 +17,7 @@
 ![[Oils]]
 ![[Poisons]]
 ![[Potions]]
+![[Spell Scrolls]]
 
 %% Magic Items %%
 ![[Magic items]]
