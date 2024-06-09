@@ -1,7 +1,6 @@
 ## Comidas Especiais
 Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer? cadê o tûmpero? Pra isso existem comidas especiais, feitas de ingredientes cheios de Mana e preparadas por chefes experientes.
 
-
 ### Produzir uma **Comida Especial**
 A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [[Crafting]] usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
@@ -11,7 +10,9 @@ A maioria das **Comidas Especiais** que existem não estão disponíveis em qual
 - Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
 
 ### Consumir uma **Comida Especial**
-
+Uma **Comida Especial** pode ser consumida no mesmo descanso que foi produzida, e quaisquer efeitos que tenha relativos ao "próximo descanso" são ativados. Uma criatura só pode receber o efeito de uma **Comida Especial** por vez. Caso não seja especificado de outra forma, o efeito de uma **Comida Especial** dura até o seu próximo descanso. Comer uma **Comida Especial** não conta como uso de provisões no descanso.
 
 ### Guardar uma **Comida Especial**
-Uma porção de **Comida Especial** ocupa meio espaço de inventário. Depois de 24 horas ela perde seu efeito e pode ser usada como uma porção de comida comum , e depois de 1 semana ela apodrece e 
+Uma porção de **Comida Especial** ocupa meio espaço de inventário. Depois de 24 horas ela perde seu efeito e pode ser usada como uma porção de comida comum para provisão, valendo 20 moedas de prata. Depois de 1 semana ela apodrece e perde completamente seu valor.
+
+### Comidas Especiais
