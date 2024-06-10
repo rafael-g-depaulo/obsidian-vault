@@ -1,4 +1,4 @@
-{{spell-definition "Enlarge/Reduce"
+{{spell-definition "Enlarge Reduce"
 
 TAGS:
 - #spell

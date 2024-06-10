@@ -187,7 +187,7 @@ List of spells available for a  to learn.
 - [Continual Flame](#p9)
 - [Darkvision](#p10)
 - [Enhance Ability](#p11)
-- [Reduce (link not found)]()
+- [Enlarge Reduce](#p11)
 - [Flame Blade](#p12)
 - [Flechas Sentinelas](#p13)
 - [Ice Knife](#p14)
@@ -505,7 +505,7 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 
 - **+2PM:** aumente o número de alvos em 1.
 
-### Enlarge/Reduce (2 MP)
+### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*

@@ -68,7 +68,7 @@ List of spells available for a Plantomancer to learn.
 - [[Crown of Madness]]
 - [[Darkvision]]
 - [[Earthbind]]
-- [[Enlarge/Reduce]]
+- [[Enlarge Reduce]]
 - [[Explosão Sonora]]
 - [[Flechas Sentinelas]]
 - [[Healing Spirit]]
@@ -478,7 +478,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
 \page
 [[Spells]]
-### Enlarge/Reduce (2 MP)
+### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*

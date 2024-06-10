@@ -181,7 +181,7 @@ List of spells available for a  to learn.
 - [Crown of Madness](#p11)
 - [Darkvision](#p11)
 - [Earthbind](#p12)
-- [Reduce (link not found)]()
+- [Enlarge Reduce](#p13)
 - [Explosão Sonora](#p13)
 - [Flechas Sentinelas](#p14)
 - [Healing Spirit](#p16)
@@ -591,7 +591,7 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 - **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
 \page
 [Spells](#p5)
-### Enlarge/Reduce (2 MP)
+### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*

@@ -111,9 +111,9 @@ ___
 {{toc,wide
 # Table Of Contents
 - #### [{{ Comidas Especiais }}{{ 55 }}](#p55)
-- #### [{{ Munição Especial }}{{ 55 }}](#p55)
+- #### [{{ Munição Especial }}{{ 56 }}](#p56)
 - #### [{{ Óleos }}{{ 56 }}](#p56)
-- #### [{{ Poisons }}{{ 56 }}](#p56)
+- #### [{{ Poisons }}{{ 57 }}](#p57)
 - #### [{{ Potions }}{{ 57 }}](#p57)
 - ### [{{ Spell Scrolls }}{{ 58 }}](#p58)
 - #### [{{ Casting a Spell from a Scroll }}{{ 58 }}](#p58)
@@ -1570,7 +1570,7 @@ List of spells available for a  to learn.
 - [Crown of Madness](#p78)
 - [Darkvision](#p78)
 - [Earthbind](#p80)
-- [Reduce (link not found)]()
+- [Enlarge Reduce](#p81)
 - [Explosão Sonora](#p83)
 - [Flechas Sentinelas](#p84)
 - [Healing Spirit](#p86)
@@ -1895,7 +1895,7 @@ List of spells available for a  to learn.
 - [Continual Flame](#p77)
 - [Darkvision](#p78)
 - [Enhance Ability](#p81)
-- [Reduce (link not found)]()
+- [Enlarge Reduce](#p81)
 - [Flame Blade](#p84)
 - [Flechas Sentinelas](#p84)
 - [Ice Knife](#p88)
@@ -2916,18 +2916,42 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 
 Ao realizar um descanso (Ver: [Rest & Recovery](#p112)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
-Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 50 pratas equivalente de mantimentos.
+Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 100 pratas equivalente de mantimentos.
 ## Comidas Especiais
-Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer? cadê o tûmpero? Pra isso existem comidas especiais, feitas de ingredientes cheios de Mana e preparadas por chefes experientes.
+Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer? cadê o tûmpero? {{pageNumber,auto}}
+\page
+{{}}Pra isso existem comidas especiais, feitas de ingredientes cheios de Mana e preparadas por chefes experientes.
 
-A maioria das Comidas Especiais que existem não estão disponíveis em qualquer cidade (Comidas Especiais com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p62) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
+### Produzir uma **Comida Especial**
+A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p62) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
-- A tentativa de criar uma Comida Especial é feita durante um [Rest & Recovery](#p112), e 
+- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p112), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
+- Os materiais necessários são mantimentos comuns (ver: [Provisions](#p112)), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial**.
+- Com a quantia necessária de materiais gastos, a rolagem de crafting é feita como normalmente, contra a CD do item a ser criado (12 + nível do item / 2).
+- Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
+- **Comidas Especiais** acima do nível 2 são consideradas iguarias raras, especiais e difíceis de fazer. Para conseguir cozinhar uma **Comida Especial** acima do nível 2 o cozinheiro precisa ter aprendido a receita dessa **Comida Especial** específica. Receitas podem ser compradas em cidades grandes, achadas em grimórios antigos guardados em ruínas ou aprendidas de primeira mão com um cozinheiro mais experiente te ensinando. Receitas custam 10x o preço da respectiva **Comida Especial**
+
+### Consumir uma **Comida Especial**
+Uma **Comida Especial** pode ser consumida no mesmo descanso que foi produzida, e quaisquer efeitos que tenha relativos ao "próximo descanso" são ativados. Uma criatura só pode receber o efeito de uma **Comida Especial** por vez. Caso não seja especificado de outra forma, o efeito de uma **Comida Especial** dura até o seu próximo descanso. Comer uma **Comida Especial** não conta como uso de provisões no descanso.
+
+### Guardar uma **Comida Especial**
+Uma porção de **Comida Especial** ocupa meio espaço de inventário. Depois de 24 horas ela perde seu efeito e pode ser usada como uma porção de comida comum para provisão, valendo 20 moedas de prata. Depois de 1 semana ela apodrece e perde completamente seu valor.
+
+### Comidas Especiais
+| Nome                 | Nível | Custo | Efeito                                                         |
+| -------------------- | ----- | ----- | -------------------------------------------------------------- |
+| Carreteiro Reforçado | 1     | 10g   | Dá +2 para a rolagem de sobrevivência para o próximo descanso. |
+| Pudim de Café        | 2     | 8g    | Você ganha +5 na próxima rolagem de iniciativa.                |
+| Sopa de Atum Lutador | 2     | 16g   | Recupera +3d4 HP no próximo descanso.                          |
+| Salada de Mandrágora | 3     | 20g   | Recupera +2d6 MP no próximo descanso.                          |
+| Gatotuille           | 5     | 5g    | Dá +3 para a rolagem de sobrevivência para o próximo descanso. |
+| Manjar dos Deuses    | 6     | 40g   | Recupera +2d12 FP no próximo descanso.                         |
+| Chá de Calmo-mila    | 4     | 16g   | Recebe vantagem em rolagens para resistir efeitos mentais.     |
+| Burrito Flamejante   | 3     | 10g   | Recebe +1sqr velocidade de movimento.                          |
+
  
 ## Munição Especial
-Munições especiais são flechas, dardos, balas, etc. especiais com efeitos específicos, feitos para serem usados com uma arma a distância respectiva. {{pageNumber,auto}}
-\page
- Eles são consumidos no uso, e não é possível recuperar seus efeitos, mesmo se o ataque errar. Sacar uma munição especial é uma ação de movimento
+Munições especiais são flechas, dardos, balas, etc. especiais com efeitos específicos, feitos para serem usados com uma arma a distância respectiva. Eles são consumidos no uso, e não é possível recuperar seus efeitos, mesmo se o ataque errar. Sacar uma munição especial é uma ação de movimento
 
 | Name               | Cost | Restrição |
 | ------------------ | ---- | --------- |
@@ -2941,6 +2965,10 @@ Munições especiais são flechas, dardos, balas, etc. especiais com efeitos esp
 Óleos são itens consumíveis de uso único. Como uma ação de movimento, um personagem pode despejar um óleo que já esteja segurando em uma peça de armadura, arma ou munição que esteja segurando ou de uma criatura adjacente. Uma criatura pode tentar evitar o óleo, fazendo um teste de resistência de Destreza contra uma CD 8+prof+DEX de quem estiver tentando espalhar o óleo. O óleo escorre e perde seu efeito no final da cena.
 
 ### Oils
+ {{pageNumber,auto}}
+\page
+
+
 | Name     | price | target                  |
 | -------- | ----- | ----------------------- |
 | Fadaísca | 5g    | Armadura, Arma, Munição |
@@ -2963,9 +2991,7 @@ You can use the poison in this vial to coat one slashing or piercing weapon or u
 #### Peçonha Concentrada
 _Potion, Common, lv3. 45g_
 
-You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition {{pageNumber,auto}}
-\page
-{{}}must make a DC 16 Constitution saving throw or take 3d6 poison damage.
+You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 16 Constitution saving throw or take 3d6 poison damage.
 
 ## Potions
 Drinking a potion requires an Action, and if it has a long-lasting effect it's duration is scene, unless it states otherwise.
@@ -2975,12 +3001,12 @@ Drinking a potion requires an Action, and if it has a long-lasting effect it's d
 _Potion, Common_
 A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
-| Potion of ...    |     | Rarity    | Price  | HP      |
-| ---------------- | --- | --------- | ------ | ------- |
-| Healing          |     | Common    | 50g    | 2d4+2   |
-| Greater healing  |     | Uncommon  | 200g   | 4d4+4   |
-| Superior healing |     | Rare      | 2000g  | 8d4+8   |
-| Supreme healing  |     | Very rare | 20000g | 10d4+20 |
+| Potion of ...    | Rarity    | Price  | HP      |
+| ---------------- | --------- | ------ | ------- |
+| Healing          | Common    | 50g    | 3d4+3   |
+| Greater healing  | Uncommon  | 200g   | 6d4+6   |
+| Superior healing | Rare      | 2000g  | 9d4+9   |
+| Supreme healing  | Very rare | 20000g | 12d4+40 |
 
 #### Mana Potion
 _Potion, Common_
@@ -2988,8 +3014,8 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 
 | Essence of ... | Rarity   | Price | MP  |
 | -------------- | -------- | ----- | --- |
-| Mana           | Common   | 25g   | 2d4 |
-| Greater Mana   | Uncommon | 150g  | 4d4 | 
+| Mana           | Common   | 25g   | 3d4 |
+| Greater Mana   | Uncommon | 150g  | 6d4 |
 
 ### Miscelaneous Potions
 | Name            | Rarity   | Price |
@@ -3588,7 +3614,7 @@ List of spells available for a All to learn.
 - [Darkvision](#p78)
 - [Earthbind](#p80)
 - [Enhance Ability](#p81)
-- [Reduce (link not found)]()
+- [Enlarge Reduce](#p81)
 - [Explosão Sonora](#p83)
 - [Flame Blade](#p84)
 - [Flechas Sentinelas](#p84)
@@ -4436,7 +4462,7 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 
 - **+2PM:** aumente o número de alvos em 1.
 
-### Enlarge/Reduce (2 MP)
+### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*

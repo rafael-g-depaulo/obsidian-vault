@@ -1,5 +1,5 @@
 ## Munição Especial
-Munições especiais são flechas, dardos, balas, etc. especiais com efeitos específicos, feitos para serem usados com uma arma a distância respectiva. {{page-break}} Eles são consumidos no uso, e não é possível recuperar seus efeitos, mesmo se o ataque errar. Sacar uma munição especial é uma ação de movimento
+Munições especiais são flechas, dardos, balas, etc. especiais com efeitos específicos, feitos para serem usados com uma arma a distância respectiva. Eles são consumidos no uso, e não é possível recuperar seus efeitos, mesmo se o ataque errar. Sacar uma munição especial é uma ação de movimento
 
 | Name               | Cost | Restrição |
 | ------------------ | ---- | --------- |

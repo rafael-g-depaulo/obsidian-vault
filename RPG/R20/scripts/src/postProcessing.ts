@@ -4,6 +4,8 @@ export interface PostProcessInfo {
   headings: { [name: string]: { level: number; page: number } }
 }
 
+const PageCountStart = 2
+
 export const getPostProcessInfo = (content: string): PostProcessInfo => {
   const getHeadingLevel = (line: string) => /^#+/.exec(line)?.[0].length!
 

@@ -123,7 +123,7 @@ List of spells available for a All to learn.
 - [[Darkvision]]
 - [[Earthbind]]
 - [[Enhance Ability]]
-- [[Enlarge/Reduce]]
+- [[Enlarge Reduce]]
 - [[Explosão Sonora]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]

@@ -6,12 +6,12 @@ Drinking a potion requires an Action, and if it has a long-lasting effect it's d
 _Potion, Common_
 A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 
-| Potion of ...    |     | Rarity    | Price  | HP      |
-| ---------------- | --- | --------- | ------ | ------- |
-| Healing          |     | Common    | 50g    | 2d4+2   |
-| Greater healing  |     | Uncommon  | 200g   | 4d4+4   |
-| Superior healing |     | Rare      | 2000g  | 8d4+8   |
-| Supreme healing  |     | Very rare | 20000g | 10d4+20 |
+| Potion of ...    | Rarity    | Price  | HP      |
+| ---------------- | --------- | ------ | ------- |
+| Healing          | Common    | 50g    | 3d4+3   |
+| Greater healing  | Uncommon  | 200g   | 6d4+6   |
+| Superior healing | Rare      | 2000g  | 9d4+9   |
+| Supreme healing  | Very rare | 20000g | 12d4+40 |
 
 #### Mana Potion
 _Potion, Common_
@@ -19,8 +19,8 @@ A character who drinks the magical purple fluid in this vial regains 2d4 MP. Dri
 
 | Essence of ... | Rarity   | Price | MP  |
 | -------------- | -------- | ----- | --- |
-| Mana           | Common   | 25g   | 2d4 |
-| Greater Mana   | Uncommon | 150g  | 4d4 | 
+| Mana           | Common   | 25g   | 3d4 |
+| Greater Mana   | Uncommon | 150g  | 6d4 |
 
 ### Miscelaneous Potions
 | Name            | Rarity   | Price |

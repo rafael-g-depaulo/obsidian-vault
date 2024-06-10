@@ -1,6 +1,6 @@
 # Crafting
 
-**IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD.
+%% **IDEA:** Maybe steal pathfinder's idea of magic item levels and use it here for ingredient and roll CD. %%
 
 <!--
 basic rules:

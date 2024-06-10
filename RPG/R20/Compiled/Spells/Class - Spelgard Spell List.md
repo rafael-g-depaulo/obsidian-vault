@@ -62,7 +62,7 @@ List of spells available for a Spelgard to learn.
 - [[Continual Flame]]
 - [[Darkvision]]
 - [[Enhance Ability]]
-- [[Enlarge/Reduce]]
+- [[Enlarge Reduce]]
 - [[Flame Blade]]
 - [[Flechas Sentinelas]]
 - [[Ice Knife]]
@@ -380,7 +380,7 @@ Bear’s Endurance. The target has advantage on Constitution checks. It also gai
 
 - **+2PM:** aumente o número de alvos em 1.
 
-### Enlarge/Reduce (2 MP)
+### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
 *2nd Circle*
