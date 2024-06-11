@@ -6,3 +6,5 @@
 - Isaac
 	- [Genesis Retake Light](https://open.spotify.com/track/4G6vjWRH9bbgbRk8sut5wR?si=a113a6aa6cbb4d7b)
 - [Sword of Damocles](https://www.youtube.com/watch?v=j1x3f-Bmmjc)
+- [Dark Wood](https://www.youtube.com/watch?v=d97_XnvrAhc)
+- [Gloomy Heart](https://www.youtube.com/watch?v=Abts5bZoMqw)
