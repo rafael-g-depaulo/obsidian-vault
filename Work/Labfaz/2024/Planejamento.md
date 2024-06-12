@@ -80,3 +80,5 @@
 | 2      | 22/06  | Revisão Final 2    |
 | 1      | 29/06  | Entrega Constantes |
 
+https://www.linkedin.com/advice/0/what-best-ways-make-your-content-readable-users-foatf?lang=pt&originalSubdomain=pt
+https://telesintese.com.br/levantamento-mostra-a-diferenca-de-velocidade-do-acesso-a-internet-no-pais/#:~:text=Os%20dados%20apontam%20que%20no,velocidade%20de%2086%2C64%20Mbps.
