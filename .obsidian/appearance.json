@@ -4,5 +4,6 @@
   "interfaceFontFamily": "",
   "textFontFamily": "fira code",
   "accentColor": "",
-  "cssTheme": "Dracula Official"
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian"
 }
