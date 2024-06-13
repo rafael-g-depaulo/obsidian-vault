@@ -1,4 +1,4 @@
-pq +https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
+https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapter-164/
 https://manhuaus.org/manga/i-randomly-have-a-new-career-every-week-manhuaus/chapter-1/
@@ -41,7 +41,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
-- https://night-scans.com/9792396216-endless-devourer-chapter-04/
+- https://night-scans.com/9792396216-endless-devourer-34/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
