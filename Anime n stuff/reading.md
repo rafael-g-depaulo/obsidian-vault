@@ -27,8 +27,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
 - https://night-scans.com/series/1096448977-crazy-leveling-system/
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
-- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-01/
-
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
@@ -45,6 +43,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - https://night-scans.com/9792396216-endless-devourer-chapter-157/
+- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-27/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
