@@ -51,6 +51,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 ## Design
 https://twitter.com/penpotapp
 https://twitter.com/sketch
+https://www.edrawmind.com/download-desktop.html
 
 ## CLI
 Apps:
