@@ -42,8 +42,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
-- https://night-scans.com/9792396216-endless-devourer-chapter-157/
-- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-27/
+- https://night-scans.com/9792396216-endless-devourer-chapter-171/
+- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-28/s
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
