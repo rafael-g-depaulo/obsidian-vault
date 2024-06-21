@@ -15,18 +15,18 @@
 		- [x] Político
 		- [x] Profissional
 	- [ ] Sistemas (Container)
-		- [ ] Cadastro
-		- [ ] Busca
-		- [ ] Observatório
-		- [ ] Blog
-		- [ ] Institucional
+		- [x] Cadastro
+		- [x] Busca
+		- [x] Observatório
+		- [x] Blog
+		- [x] Institucional
 - [ ] Guia Acessibilidade
 	- [ ] WAI
 	- [ ] testes
 	- [ ] ferramentas
 - [ ] Design
 	- [ ] Estratégico
-		- [ ] Personas
+		- [x] Personas
 		- [ ] Proposta de Valor
 		- [ ] Visão e Objetivos
 	- [ ] Estrutural
