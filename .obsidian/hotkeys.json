@@ -127,5 +127,14 @@
       "key": "-"
     }
   ],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
 }
