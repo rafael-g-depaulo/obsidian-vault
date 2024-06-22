@@ -25,11 +25,32 @@
 		- Quero navegar para o login
 		- Quero ir para buscar profissionais
 	- As político
-		- Quero navegar para o observat
+		- Quero navegar para o observatório e engajar com os dados que refletem as necessidades da classe para avançar minha agenda política.
 	- As contratante
+		- Quero navegar para a busca de profissionais para encontrar pessoas para contratar
 - At Register
+	- As a Profissional técnico
+		- 
 - At Login
-- At Profile
+	- As a Profissional técnico
+		- 
+- At Profile (another person's one, that is)
+	- As a Profissional técnico
+		- 
+	- AS a contratante
+		- 
 - At Profile Edit
+	- as a profissional técnico
+		- 
 - At Search Page
+	- As a profissional técnico
+		- 
+	- As a contratante
+		- 
 - At Search Results Page
+	- As a profissional técnico
+		- 
+	- As a contratante
+		- 
+
+
