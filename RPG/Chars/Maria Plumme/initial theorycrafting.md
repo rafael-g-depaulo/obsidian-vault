@@ -64,3 +64,14 @@ comprar depois:
 - líquen lilaz (30)
 - cosmético (30)
 - essência de mana (50)
+
+
+
+---------------------
+
+magias:
+- proteçao divina (+ resist)
+- escudo da fé (+ defesa)
+- santuário (passar em teste pra atacar)
+- detectar ameaças
+- Invocar (animal, pássaro)

@@ -27,7 +27,7 @@
 ### Organização
 Hierarquia:
 1. Papa
-2. Apóstolo(a)
+2. Apóstolo(a) (vossa santidade)
 	1. Tem 4, um de cada elemento
 3. Cardinal 
 	1. ficam junto do papa, são basicamente os subordinados diretos dele e cuidam da política em nível macro
