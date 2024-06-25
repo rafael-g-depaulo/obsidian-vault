@@ -37,8 +37,6 @@ mais em horário comercial.
 ##### Horário de acesso.
 bem distribuído, quase qualquer horário. 
 
-
-
 ## Prioridades
 
 ### Dano de ficar fora do ar
@@ -48,3 +46,12 @@ bem distribuído, quase qualquer horário.
 
 ### Confiabilidade
 - importante, mas não essencial
+
+### Horário de downtime
+madrugada é ok.
+
+
+## Acessibilidade
+BOTAR_AQUI
+
+![[Pasted image 20240625113141.png]]
