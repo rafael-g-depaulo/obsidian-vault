@@ -28,15 +28,15 @@
 	- [ ] Estratégico
 		- [x] Personas
 		- [ ] Proposta de Valor
-		- [ ] Visão e Objetivos
+		- [x] Visão e Objetivos
 	- [ ] Estrutural
-		- [ ] Mapa (mental) dos produtos
+		- [x] Mapa (mental) dos produtos
 		- [ ] Análise de Requisitos (relacionar com C4 - Contexts)
 			- [ ] Requisitos funcionais
 			- [ ] Requisitos não-funcionais (operação)
 - [x] Guia Design
 	- [x] Consultoria com designer externo
-	- [ ] Testes
+	- [x] Testes
 - [ ] Guia Dev
 	- [ ] Metodologia
 	- [ ] Testes
@@ -59,8 +59,9 @@
 - Mapeamento de logins
 
 ## TODO
-- [ ] C4 Contianers
 - [ ] Draft Acessibilidade Dev
+- [ ] ADR firebase
+
 ## Cronograma
 
 | Semana | Início | Conteúdo           |
