@@ -27,10 +27,11 @@
 - [ ] Design
 	- [ ] Estratégico
 		- [x] Personas
-		- [ ] Proposta de Valor
+		- [x] Proposta de Valor
 		- [x] Visão e Objetivos
 	- [ ] Estrutural
 		- [x] Mapa (mental) dos produtos
+		- [ ] Histórias de usuário
 		- [ ] Análise de Requisitos (relacionar com C4 - Contexts)
 			- [ ] Requisitos funcionais
 			- [ ] Requisitos não-funcionais (operação)
