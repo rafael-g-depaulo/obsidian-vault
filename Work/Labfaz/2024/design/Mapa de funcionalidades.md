@@ -52,5 +52,14 @@
 		- Quero achar pessoas da mesma comunidade que eu e/ou com habilidades relevantes e/ou próximas de mim para fazer networking
 	- As a contratante
 		- Quero achar pessoas com habilidades relevantes e/ou que fazem parte de uma categoria identitária relevante (gênero, sexualidade, deficiência, raça) para contratar
+- Everywhere
+	- As a user with impaired vision
+		- Quero alterar o tamanho da fonte e/ou contraste de cores do site.
+	- As a user with reduced mobility
+		- Quero poder navegar para o conteúdo principal de qualquer página com poucos e previsíveis movimentos do teclado.
+		- Quero poder navegar para os outros apps/páginas do LabFaz Digital com poucos e previsíveis movimentos do teclado.
+		- Quero poder navegar pelo conteúdo principal de qualquer página na ordem correta exclusivamente com movimentos de teclado.
+	- As a user that uses a screen reader
+		- Quero ler e interpretar todo o conteúdo relevante da página em ordem e de forma compreensível.
 
 

@@ -1,4 +1,4 @@
-## Checklist geral
+****## Checklist geral
 - [ ] C4
 	- [ ] Contextos
 		- [x] Articulação
@@ -21,7 +21,7 @@
 		- [x] Blog
 		- [x] Institucional
 - [ ] Guia Acessibilidade
-	- [ ] WAI
+	- [x] WAI
 	- [ ] testes
 	- [ ] ferramentas
 - [ ] Design
@@ -31,7 +31,7 @@
 		- [x] Visão e Objetivos
 	- [ ] Estrutural
 		- [x] Mapa (mental) dos produtos
-		- [ ] Histórias de usuário
+		- [x] Histórias de usuário
 		- [ ] Análise de Requisitos (relacionar com C4 - Contexts)
 			- [ ] Requisitos funcionais
 			- [ ] Requisitos não-funcionais (operação)
