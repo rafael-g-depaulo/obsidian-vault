@@ -27,6 +27,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
 - https://night-scans.com/series/1096448977-crazy-leveling-system/
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
+- https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-4
+- https://flamecomics.me/the-novels-extra-remake-official-illustrations/
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
