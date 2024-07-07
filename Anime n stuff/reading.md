@@ -45,8 +45,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - https://night-scans.com/9792396216-endless-devourer-chapter-171/
-- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-28/
-- https://night-scans.com/endless-devourer-chapter-218/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -94,6 +92,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-75/)
 - [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-104/)
+- https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
+- https://night-scans.com/endless-devourer-chapter-218/
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
