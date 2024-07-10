@@ -48,12 +48,12 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-127/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-130/)
 - https://glitterandguilt.thecomicseries.com/comics/62/#content-start
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
-- [Revenge of the Sword Hound](https://asuratoon.com/9331846205-revenge-of-the-iron-blooded-sword-hound-chapter-64/)
+- [Revenge of the Sword Hound](https://asuratoon.com/8612194254-revenge-of-the-iron-blooded-sword-hound-chapter-74/)
 - [Life of a Magic Academy Student](https://asuratoon.com/4622438374-life-of-a-magic-academy-mage-chapter-77/)
 - [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -76,7 +76,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)
 - [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
 - [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
-- [Peerless Alchemist](https://zeroscans.com/comics/peerless-alchemist/2614)
+- [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
 - [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
 - [Return of the Crazy Demon](https://asuratoon.com/1908287720-the-return-of-the-crazy-demon-chapter-119/)
