@@ -94,6 +94,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-77/)
 - [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-117/)
+- [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
 ## Hiatus
