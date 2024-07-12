@@ -25,12 +25,13 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Git Stuff](https://git-scm.com/book/en/v2)
 - [SQL stuff](https://sqlzap.com/)
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
+- https://zscans.com/comics/hero-i-quit-a-long-time-ago-hero-return
 - https://night-scans.com/series/1096448977-crazy-leveling-system/
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
-- https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-4
 - https://flamecomics.me/the-novels-extra-remake-official-illustrations/
 - https://mangaeffect.com/manga/drawing-the-greatest-mangaka-becomes-a-skilled-martial-artist-in-another-world/
 - https://beanstalked.thecomicseries.com/comics/2#content-start
+- https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
