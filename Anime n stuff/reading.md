@@ -48,6 +48,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - https://night-scans.com/9792396216-endless-devourer-chapter-171/
+- https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-53/
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
