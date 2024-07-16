@@ -49,6 +49,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - https://night-scans.com/9792396216-endless-devourer-chapter-171/
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-60-5/)
+- [Wandering Warrior of Wudang](https://asuratoon.com/8612194254-wandering-warrior-of-wudang-chapter-78/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
