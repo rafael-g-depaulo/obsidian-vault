@@ -14,3 +14,7 @@ kitchen stuff:
 - [reusable chopsticks (haven't checked if they are cooking-safe)](https://www.mercadolivre.com.br/hashi-5-pares-resistente-melamina-reutilizavel-hauskraft/p/MLB26325839?pdp_filters=category:MLB271791#searchVariation=MLB26325839&position=6&search_layout=grid&type=product&tracking_id=1e45fef8-906c-438d-95a9-a86d17ebc088)
 - [oven thermometer](https://produto.mercadolivre.com.br/MLB-2802095039-termmetro-analogico-forno-400-alta-qualidade-inox-com-base-_JM#position=35&search_layout=grid&type=item&tracking_id=323b7c66-de91-4613-b5d0-ef8d3a059b6d)
 - [roast thermometer](https://www.mercadolivre.com.br/termmetro-culinario-tipo-espeto-em-aco-inox-cozinha-forno/p/MLB24403839#reco_item_pos=0&reco_backend=recomm-platform_v2p_univb&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=76f7824d-6f52-421c-8ee3-5931c9266db3)
+
+
+pc stuff:
+- https://www.amazon.com/Audio-Technica-ATR2100x-USB-Cardioid-Microphone-ATR/dp/B07ZPBFVKK/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=BMwod&content-id=amzn1.sym.352fa4e9-2aa8-47c3-b5ac-8a90ddbece20%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=352fa4e9-2aa8-47c3-b5ac-8a90ddbece20&pf_rd_r=16JXT1VJBHK4192K4APG&pd_rd_wg=RaQkf&pd_rd_r=d7cf8f7a-36dc-49e9-a106-17f30d6971fc&pd_rd_i=B07ZPBFVKK
