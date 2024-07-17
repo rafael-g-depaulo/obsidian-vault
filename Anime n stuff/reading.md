@@ -49,7 +49,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - https://night-scans.com/9792396216-endless-devourer-chapter-171/
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-60-5/)
-- [Wandering Warrior of Wudang](https://asuratoon.com/8612194254-wandering-warrior-of-wudang-chapter-78/)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -66,6 +65,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
 - [Priest of Corruption](https://asuratoon.com/8612194254-the-priest-of-corruption-chapter-50/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
+- [Wandering Warrior of Wudang](https://asuratoon.com/8612194254-wandering-warrior-of-wudang-chapter-118/)
 - [Absolute Sword Sense](https://asuratoon.com/4622438374-absolute-sword-sense-chapter-68/)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
