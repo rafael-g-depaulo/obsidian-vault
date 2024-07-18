@@ -31,7 +31,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://flamecomics.me/the-novels-extra-remake-official-illustrations/
 - https://mangaeffect.com/manga/drawing-the-greatest-mangaka-becomes-a-skilled-martial-artist-in-another-world/
 - https://beanstalked.thecomicseries.com/comics/2#content-start
-- https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
@@ -47,8 +46,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mangatoto.com/chapter/1933835
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-223/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
-- https://night-scans.com/9792396216-endless-devourer-chapter-171/
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-60-5/)
+- [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5048)
 
 ## Caught up
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
