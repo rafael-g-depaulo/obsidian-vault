@@ -6,14 +6,13 @@ A Ordem da Hidra tem uma forte hierarquia. E no topo dela tem as 7 Cabeças. 7 l
 
 | Name                          | Rapper      | Sin      | Color         | Species    | Status | Has Neck? | Gimmick                         |
 | ----------------------------- | ----------- | -------- | ------------- | ---------- | ------ | --------- | ------------------------------- |
-| [[Dr. Drenio E. Stein]]       | Dr. Dre     | pride    | purple/indigo | gnome      |        | no        | Frankenstein Combos             |
+| [[Dr. Drenio E. Stein]]       | Dr. Dre     | luxury   | voilet        | gnome      |        | no        | Frankenstein Combos             |
 | [[Fifinia Missilira Ticente]] | 50 cent     | greed    | yellow        | Elf        |        | yes       | Geared out skeletons            |
 | [[Emin Nemdrago]]             | eminem      | envy     | green         | half-elf   |        | no        | magical creatures               |
-| [[Drahke]]                    | Drake       | luxury   | voilet        | dragonborn |        | yes       | pimped out skele-gear & Dragons |
+| [[Drahke]]                    | Drake       | pride    | purple/indigo | dragonborn |        | yes       | pimped out skele-gear & Dragons |
 | [[Hikrôss]]                   | Rick Ross   | gluttony | orange        | toucan     | lich   | yes       | Animals                         |
 | [[Lupina Fiasco]]             | Lupe Fiasco | sloth    | blue          | human      |        | yes       | Skeleton Boats & Sea Creatures  |
 | [[Sinoop Do'og]]              | Snoop Dog   | wrath    | Red           | orc        |        | yes       | Big things                      |
-
 
 #### Os pescoços atuais
 
