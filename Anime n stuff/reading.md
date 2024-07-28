@@ -31,6 +31,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://flamecomics.me/the-novels-extra-remake-official-illustrations/
 - https://mangaeffect.com/manga/drawing-the-greatest-mangaka-becomes-a-skilled-martial-artist-in-another-world/
 - https://beanstalked.thecomicseries.com/comics/2#content-start
+- https://demonscans.com/projects/1/rebirth-of-the-urban-immortal-cultivator
 
 ## Reading
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
