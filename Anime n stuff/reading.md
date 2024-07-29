@@ -35,7 +35,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
 
 ## Reading
-- [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-133/)
@@ -53,6 +52,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5533)
 
 ## Caught up
+- [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-130/)
 - https://glitterandguilt.thecomicseries.com/comics/62/#content-start
