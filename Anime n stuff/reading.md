@@ -50,6 +50,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-125/)
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
 - [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5533)
+- https://night-scans.com/8781815493-i-can-summon-god-redone-chapter-61/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
