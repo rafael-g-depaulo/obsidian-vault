@@ -103,6 +103,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
+- https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
