@@ -104,6 +104,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
+- https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
