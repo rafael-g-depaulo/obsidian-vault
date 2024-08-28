@@ -18,3 +18,5 @@ kitchen stuff:
 
 pc stuff:
 - https://www.amazon.com/Audio-Technica-ATR2100x-USB-Cardioid-Microphone-ATR/dp/B07ZPBFVKK/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=BMwod&content-id=amzn1.sym.352fa4e9-2aa8-47c3-b5ac-8a90ddbece20%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=352fa4e9-2aa8-47c3-b5ac-8a90ddbece20&pf_rd_r=16JXT1VJBHK4192K4APG&pd_rd_wg=RaQkf&pd_rd_r=d7cf8f7a-36dc-49e9-a106-17f30d6971fc&pd_rd_i=B07ZPBFVKK
+
+https://www.gorilashield.com.br/capa-a-prova-d-agua-nautical-para-iphone-x-e-xs-gshield?srsltid=AfmBOopQ-sEwX5I68H8SbTDKo6simke6yvGRXb2UT-lZDkLPPD_XtE63
