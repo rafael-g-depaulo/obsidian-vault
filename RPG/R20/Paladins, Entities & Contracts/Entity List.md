@@ -7,6 +7,7 @@
 ![[Odrel]]
 
 
+% %
 ## Designer Only
 
 ### Comparing gods
@@ -23,5 +24,9 @@
 | Ice and Kndowledge | Ice            | Alto            | -               | Médio-Baixo     | Médio-Alto | Média       | -           |
 | Deep Sea fuckery   | Water          | Médio-Alto      | Médio           | Médio           | Alto       | Média-Alta  | -           |
 | Physical Strength  | Earth          | -               | Alto            | Alto            | -          | Média-Alta  | -           |
+
+Entity Ideas:
+- **Rat king guy.** buncha rats together. god of secrets, sneaking, filth, truth, keeping deals.
+- 
 
 %%

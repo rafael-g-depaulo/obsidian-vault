@@ -41,10 +41,10 @@ Consult the table below to see how the rest affected the characters.
 
 | Condition             | HP Recovery | MP Recovery | Duration | Exhaustion        |
 | --------------------- | ----------- | ----------- | -------- | ----------------- |
-| Poor Condition         | 0           | level/2     | 5 hours  | See below         |
+| Poor Condition        | 0           | level/2     | 5 hours  | See below         |
 | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
 | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
-| Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
+| Exceptional Condition | level\*2    | level\*3    | 8 hours  | recovers 2 levels |
 | Full Reset            | 100%        | 100%        | 1 week   | fully recovers    |
 
 **Poor Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
@@ -53,7 +53,7 @@ Consult the table below to see how the rest affected the characters.
 - **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
 - **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a night-watch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
 - **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
-- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 8 hours.
 - **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
 
 ## Skipping a Rest
