@@ -29,5 +29,6 @@ Entity Ideas:
 - **Rat king guy.** buncha rats together. god of secrets, sneaking, filth, truth, keeping deals.
 - **Auvetre.** humanoid mass of ligh covered in broken chains
 - **FFXIII tunnel guy.** looks kinda like the fal'cie + a mole + armored bits. raw strength. earth. kindness and charity. technology, metal, weapons and progress
+- **Lost Child.** small 4-8yo child with oversized black clothes and snow white pale skin (not like white person white, but bone white), ocean blue eyes and dirty black hair with snow on top. goddess of ice, curiosity, knowledge (and forbidden knowledge). children and orfans
 
 %%
