@@ -16,16 +16,16 @@ A Ordem da Hidra tem uma forte hierarquia. E no topo dela tem as 7 Cabeças. 7 l
 
 #### Os pescoços atuais
 
-| Name                        | Rapper      | Sin      | Species  |
-| --------------------------- | ----------- | -------- | -------- |
-|                             |             | pride    |          |
-| [[Nickolau Mandrova Inahg]] | Nicky Minaj | greed    | half-elf |
-| none                        |             | envy     |          |
-|                             |             | luxury   |          |
-|                             |             | wrath    |          |
-|                             |             | gluttony |          |
-| Istea Faan                  | Ice Tea     | sloth    |          |
-|                             |             | wrath    |          |
+| Name                        | Rapper      | Sin      | Species  | Description                                 |
+| --------------------------- | ----------- | -------- | -------- | ------------------------------------------- |
+|                             |             | pride    |          |                                             |
+| [[Nickolau Mandrova Inahg]] | Nicky Minaj | greed    | half-elf |                                             |
+| none                        |             | envy     |          |                                             |
+|                             |             | luxury   |          |                                             |
+|                             |             | wrath    |          |                                             |
+|                             |             | gluttony |          |                                             |
+| Istea Faan                  | Ice Tea     | sloth    | human    | vocalist for the revenge of the mariner bit |
+|                             |             | wrath    |          |                                             |
 
 
 ## Descrição
