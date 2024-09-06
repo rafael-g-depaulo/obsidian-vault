@@ -21,7 +21,7 @@ ___
 - **Atributo:** PRE
 - **CD:** 12
 - **to hit:** +3
-- **MP:** 6?
+- **MP:** 6
 
 #### Magias
 - **Cantrip (2):** [[Blade Ward]], [[Chill Touch]], [[Energy Blast]], [[Fire Bolt]], [[Sword Burst]] (bones).
