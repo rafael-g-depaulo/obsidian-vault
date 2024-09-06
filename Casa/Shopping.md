@@ -20,3 +20,4 @@ pc stuff:
 - https://www.amazon.com/Audio-Technica-ATR2100x-USB-Cardioid-Microphone-ATR/dp/B07ZPBFVKK/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=BMwod&content-id=amzn1.sym.352fa4e9-2aa8-47c3-b5ac-8a90ddbece20%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=352fa4e9-2aa8-47c3-b5ac-8a90ddbece20&pf_rd_r=16JXT1VJBHK4192K4APG&pd_rd_wg=RaQkf&pd_rd_r=d7cf8f7a-36dc-49e9-a106-17f30d6971fc&pd_rd_i=B07ZPBFVKK
 
 https://www.gorilashield.com.br/capa-a-prova-d-agua-nautical-para-iphone-x-e-xs-gshield?srsltid=AfmBOopQ-sEwX5I68H8SbTDKo6simke6yvGRXb2UT-lZDkLPPD_XtE63
+https://www.mercadolivre.com.br/adaptador-plug-usb-tipoc-fmea-x-usb-macho-compativel-iphone/p/MLB27718083#wid%3DMLB3700958219%26sid%3Dsearch%26searchVariation%3DMLB27718083%26position%3D14%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3Dc65c20b7-2003-40d6-93b3-2cbf3aac436e
