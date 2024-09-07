@@ -30,5 +30,6 @@ Entity Ideas:
 - **Auvetre.** humanoid mass of ligh covered in broken chains. god of freedom, wind, destruction, sun.
 - **FFXIII tunnel guy.** looks kinda like the fal'cie + a mole + armored bits. raw strength. earth. kindness and charity. technology, metal, weapons and progress
 - **Lost Child.** small 4-8yo child with oversized black clothes and snow white pale skin (not like white person white, but bone white), ocean blue eyes and dirty black hair with snow on top. goddess of ice, the moon, curiosity, knowledge (and forbidden knowledge), children, orfans, tracking, hunger.
+- **Some lovecraftian name.** huge squid larger than the universe, covered in eyes and with 10k tentacles. it swims in the ocean, the horizon and the night sky. god of the sea, water, stars
 
 %%
