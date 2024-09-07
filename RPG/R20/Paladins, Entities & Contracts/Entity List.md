@@ -7,7 +7,7 @@
 ![[Odrel]]
 
 
-% %
+{{dev-comment
 ## Designer Only
 
 ### Comparing gods
@@ -32,4 +32,4 @@ Entity Ideas:
 - **Lost Child.** small 4-8yo child with oversized black clothes and snow white pale skin (not like white person white, but bone white), ocean blue eyes and dirty black hair with snow on top. goddess of ice, the moon, curiosity, knowledge (and forbidden knowledge), children, orfans, tracking, hunger.
 - **Some lovecraftian name.** huge squid larger than the universe, covered in eyes and with 10k tentacles. it swims in the ocean, the horizon and the night sky. god of the sea, water, stars (every star is one of it's eyes), madness, art (inspires artists), lovers (invisibly connects fated lovers and has one eye for each one, that shines brighter when they first meet and join as one).
 
-%%
+}}
