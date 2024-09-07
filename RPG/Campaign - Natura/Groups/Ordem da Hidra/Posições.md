@@ -1,3 +1,5 @@
+## Magos
+
 | Nome    | CR  | Ficha           | Squad                                                         |
 | ------- | --- | --------------- | ------------------------------------------------------------- |
 | Unha    | 2+2 | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
@@ -5,6 +7,14 @@
 | Dedo    | 6   |                 |                                                               |
 | Mão     | 8   |                 |                                                               |
 | Braço   | 10  |                 |                                                               |
+
+### Inspo monsters
+
+| Name    | CR  | Source                                                               | Image                                                                              |
+| ------- | --- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Acolyte | 1/4 | D&D monster manual pg. 342                                           | ![[Pasted image 20240907173744.png\|150]]![[Pasted image 20240907173804.png\|150]] |
+| Fanatic | 2   | D&D monster manual pg. 345                                           | ![[Pasted image 20240907173602.png\|150]]                                          |
+| Mage    | 6   | [D&D Beyond Homebrew](https://www.dndbeyond.com/monsters/16947-mage) | ![[Pasted image 20240907174225.png\|150]]                                          |
 
 ideia:
 - pegar um inimigo mago do D&D, botar só um ou dois ataques básicos.
