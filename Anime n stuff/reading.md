@@ -94,7 +94,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-112/)
 - [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-59/)
-- [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
@@ -105,13 +104,14 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
+- [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
-- [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
 
 ## Done
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-105/)
+- [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
