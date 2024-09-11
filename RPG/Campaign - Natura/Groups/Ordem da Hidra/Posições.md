@@ -1,12 +1,13 @@
 ## Magos
 
-| Nome    | CR  | Ficha           | Squad                                                         |
-| ------- | --- | --------------- | ------------------------------------------------------------- |
-| Unha    | 2+2 | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
-| Falange | 4   |                 | (1 Medium) **OR** (2 starter + (2d4 Parts **OR** 1 Complete)) |
-| Dedo    | 6   |                 |                                                               |
-| Mão     | 8   |                 |                                                               |
-| Braço   | 10  |                 |                                                               |
+| Nome    | CR  | AC  | HP  | Ficha           | Squad                                                         |
+| ------- | --- | --- | --- | --------------- | ------------------------------------------------------------- |
+| Unha    | 2+2 |     |     | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
+| Falange | 4   |     |     |                 | (1 Medium) **OR** (2 starter + (2d4 Parts **OR** 1 Complete)) |
+| Dedo    | 6   |     |     |                 |                                                               |
+| Mão     | 8   |     |     |                 |                                                               |
+| Braço   | 10  |     |     |                 |                                                               |
+|         |     |     |     |                 |                                                               |
 
 ### Inspo monsters
 
