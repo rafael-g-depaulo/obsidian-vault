@@ -87,7 +87,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
 - [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
 - [Return of the Crazy Demon](https://asuratoon.com/1908287720-the-return-of-the-crazy-demon-chapter-119/)
-- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-52/)
+- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-60/)
 - [Surviving the Game as a Barbarian](https://asuratoon.com/8612194254-surviving-the-game-as-a-barbarian-chapter-53/)
 - [Sword Fanatic Wanders Through the Night](https://asuratoon.com/1908287720-sword-fanatic-wanders-through-the-night-chapter-109/)
 - [Dungeon Odissey](https://asuratoon.com/1908287720-dungeon-odyssey-chapter-85/)
