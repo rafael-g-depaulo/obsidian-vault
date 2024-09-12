@@ -115,3 +115,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 ## Done
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-105/)
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
+
+## Re-reading
+- [Villain Elder Brother and Yandere Junior Sisters](https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch89.html)
+- 
