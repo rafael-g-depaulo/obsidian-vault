@@ -20,7 +20,7 @@ Beach:
 - 3 younglings and 1 adult that comes 1d4+1 rounds after the combat starts.
 
 Sewers:
-- 1 [[Hidra, Unha]]
+- 1 [[Hidra, Caster]]
 	- Cantrips: Energy Blast, Sword Burst
 	- 1st: Inflingir Ferimentos, Ray of Sickness
 	- 2nd: Hold Person
