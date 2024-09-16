@@ -1,13 +1,15 @@
 ## Magos
 
-| Nome    | CR  | AC  | HP  | Ficha           | Squad                                                         |
-| ------- | --- | --- | --- | --------------- | ------------------------------------------------------------- |
-| Unha    | 2+2 |     |     | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
-| Falange | 4   |     |     |                 | (1 Medium) **OR** (2 starter + (2d4 Parts **OR** 1 Complete)) |
-| Dedo    | 6   |     |     |                 |                                                               |
-| Mão     | 8   |     |     |                 |                                                               |
-| Braço   | 10  |     |     |                 |                                                               |
-|         |     |     |     |                 |                                                               |
+| Tipo     | Patente | CR  | AC  | HP  | DC  | to hit | Avg. dpr | Max Circle | Ficha           | Squad                                                         |
+| -------- | ------- | --- | --- | --- | --- | ------ | -------- | ---------- | --------------- | ------------------------------------------------------------- |
+| Caster   | Unha    | 2+2 | 15  | 45  | 12  | +4     | -        | 2          | [[Hidra, Unha]] | (2d3 Parts) **OR** (2 Starter)                                |
+| Fighter  | Unha    | 3+1 |     |     |     |        |          | -          |                 |                                                               |
+| Assassin | Unha    | 3+1 |     |     |     |        |          | -          |                 |                                                               |
+|          | Falange | 4   |     |     |     |        |          |            |                 | (1 Medium) **OR** (2 starter + (2d4 Parts **OR** 1 Complete)) |
+|          | Dedo    | 6   |     |     |     |        |          |            |                 |                                                               |
+|          | Mão     | 8   |     |     |     |        |          |            |                 |                                                               |
+|          | Braço   | 10  |     |     |     |        |          |            |                 |                                                               |
+|          |         |     |     |     |     |        |          |            |                 |                                                               |
 
 ### Inspo monsters
 
