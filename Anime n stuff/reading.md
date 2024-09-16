@@ -33,6 +33,9 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://beanstalked.thecomicseries.com/comics/2#content-start
 - https://demonscans.com/projects/1/rebirth-of-the-urban-immortal-cultivator
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
+- https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
+- https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
+- https://manhwatop.com/manga/infinite-level-up-in-murim-series/
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
@@ -51,6 +54,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5533)
 - https://night-scans.com/8781815493-i-can-summon-god-redone-chapter-69/
 - https://night-scans.com/8781815493-global-killing-awakening-sss-level-talent-at-the-beginning-chapter-45/
+- https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-8/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
