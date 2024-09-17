@@ -15,3 +15,5 @@
 - [ ] ranged attack disadvantage on enemy in melee, not on target in melee
 
 
+- [ ] Beast Warrior
+	- [ ] Remove rage ending if didn't take dmg
