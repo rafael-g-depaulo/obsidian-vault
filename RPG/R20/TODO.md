@@ -17,3 +17,11 @@
 
 - [ ] Beast Warrior
 	- [ ] Remove rage ending if didn't take dmg
+	- [ ] Add synergy with companion (companion feats)
+	- [ ] buff savage attack (prolly double base d4 and the +MP d4's too)
+	- [ ] feat: when below 50%, use d8 instead of d4 for savage strike
+	- [ ] buff sharkodile rage buff
+	- [ ] add a bunch of feats that increase max hp
+
+
+- [ ] make class skills scale with proficiency instead of arbitrarily
