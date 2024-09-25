@@ -70,6 +70,7 @@ Apps:
 - [fkill](https://github.com/snapcrafters/fkill) (fuzzy kill runninc procceses)
 - [portal](https://github.com/SpatiumPortae/portal) cool way to send files. downside is both need to have portal installed
 - [gpustat](https://github.com/wookayin/gpustat) gpu monitoring (just for nvidia currently)
+- [lazygit](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#ubuntu)
 
 Curated lists:
 - https://github.com/agarrharr/awesome-cli-apps
