@@ -22,3 +22,11 @@ sh -c "$(curl -Ls https://raw.githubusercontent.com/jarun/nnn/master/plugins/get
 # add this to your zshrc or whatever to enable and configure the plugins
 export NNN_PLUG='f:finder;o:fzopen;p:mocq;d:diffs;t:nmount;v:imgview'
 ```
+
+
+Config with tmux + kitty:
+
+```
+# TODO: look into configuring nnn to open in current dir if no arg provided
+kitten @ launch --type=window --location=vsplit --color="background=black" --env NNN_PLUG='c:fcd;d:dragd;f:finder;o:fzopen;p:preview-tui;j:jump;i:imgview' --env  NNN_FIFO="/tmp/nnn.fifo" nnn
+```
