@@ -20,8 +20,11 @@
 	- [ ] Add synergy with companion (companion feats)
 	- [ ] buff savage attack (prolly double base d4 and the +MP d4's too)
 	- [ ] feat: when below 50%, use d8 instead of d4 for savage strike
+	- [ ] feat gain temp HP when below 50%
 	- [ ] buff sharkodile rage buff
 	- [ ] add a bunch of feats that increase max hp
+	- [ ] more healing when under 50%
 
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
+- [ ] Make class "movement action" skills still allow half-movement

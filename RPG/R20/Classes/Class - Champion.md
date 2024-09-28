@@ -7,36 +7,36 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE | DESCRIPTION |
-| ---- | ---- | ---- |
-| 1 | Golpe Destruidor | **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage. |
-| 2 | Palavras Inspiradoras | **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing. |
+| LEVEL | FEATURE               | DESCRIPTION                                                                                                                                                                                                                                                              |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | Golpe Destruidor      | **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage. |
+| 2     | Palavras Inspiradoras | **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.                                                                                            |
 
 WIDE: true
 MULTI_FEATURES:
 
-| Level | Smite   | Lay on Hands |
-| ----- | ------- | ------------ |
-| 1st   | 1d6+PRE | -            | 
-| 2nd   | 1d6+PRE | 1d8+1        |
-| 3rd   | 1d6+PRE | 1d8+1        |
-| 4th   | 1d6+PRE | 1d8+1        |
-| 5th   | 2d6+PRE | 1d8+1        |
-| 6th   | 2d6+PRE | 1d8+1        |
-| 7th   | 2d6+PRE | 2d8+2        |
-| 8th   | 2d6+PRE | 2d8+2        |
-| 9th   | 3d6+PRE | 2d8+2        |
-| 10th  | 3d6+PRE | 3d8+3        |
-| 11th  | 3d6+PRE | 3d8+3        |
-| 12th  | 3d6+PRE | 3d8+3        |
-| 13th  | 4d6+PRE | 3d8+3        |
-| 14th  | 4d6+PRE | 4d8+4        |
-| 15th  | 4d6+PRE | 4d8+4        |
-| 16th  | 4d6+PRE | 4d8+4        |
-| 17th  | 5d6+PRE | 4d8+4        |
-| 18th  | 5d6+PRE | 5d8+5        |
-| 19th  | 5d6+PRE | 5d8+5        |
-| 20th  | 5d6+PRE | 5d8+5        |
+| Level | Smite   | Palavras Inspiradoras |     |
+| ----- | ------- | --------------------- | --- |
+| 1st   | 1d6+PRE | -                     |     |
+| 2nd   | 1d6+PRE | 1d8+1                 |     |
+| 3rd   | 1d6+PRE | 1d8+1                 |     |
+| 4th   | 1d6+PRE | 1d8+1                 |     |
+| 5th   | 2d6+PRE | 1d8+1                 |     |
+| 6th   | 2d6+PRE | 1d8+1                 |     |
+| 7th   | 2d6+PRE | 2d8+2                 |     |
+| 8th   | 2d6+PRE | 2d8+2                 |     |
+| 9th   | 3d6+PRE | 2d8+2                 |     |
+| 10th  | 3d6+PRE | 3d8+3                 |     |
+| 11th  | 3d6+PRE | 3d8+3                 |     |
+| 12th  | 3d6+PRE | 3d8+3                 |     |
+| 13th  | 4d6+PRE | 3d8+3                 |     |
+| 14th  | 4d6+PRE | 4d8+4                 |     |
+| 15th  | 4d6+PRE | 4d8+4                 |     |
+| 16th  | 4d6+PRE | 4d8+4                 |     |
+| 17th  | 5d6+PRE | 4d8+4                 |     |
+| 18th  | 5d6+PRE | 5d8+5                 |     |
+| 19th  | 5d6+PRE | 5d8+5                 |     |
+| 20th  | 5d6+PRE | 5d8+5                 |     |
 
 FEATS:
 

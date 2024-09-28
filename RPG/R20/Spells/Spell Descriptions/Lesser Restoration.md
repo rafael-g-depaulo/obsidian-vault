@@ -5,7 +5,6 @@ TAGS:
 - #holy
 - #recovery
 - #sacred
-- #holy
 
 LEVEL: 2
 CAST_TIME: 1 Action

@@ -15,35 +15,35 @@ FEATURES:
 Reverse order of spiritual weapon and heal, and buff heal amount
 %%
 
-| LEVEL | FEATURE | DESCRIPTION |
-| ---- | ---- | ---- |
-| 1 | Lay on Hands | **Action (1PM):** touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1 |
-| 2 | Spiritual Weapon | **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.  |
+| LEVEL | FEATURE          | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Lay on Hands     | **Action (1PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 2     | Spiritual Weapon | **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8. |
 
 MULTI_FEATURES:
 
 | Level | Spiritual Weapon | Lay on Hands |
 | ----- | ---------------- | ------------ |
-| 1st   | -                | 1d8+1        |
-| 2nd   | 2d8+SEN          | 1d8+1        |
-| 3rd   | 2d8+SEN          | 1d8+1        |
-| 4th   | 2d8+SEN          | 1d8+1        |
-| 5th   | 2d8+SEN          | 1d8+1        |
-| 6th   | 3d8+SEN          | 1d8+1        |
-| 7th   | 3d8+SEN          | 2d8+2        |
-| 8th   | 3d8+SEN          | 2d8+2        |
-| 9th   | 3d8+SEN          | 2d8+2        |
-| 10th  | 3d8+SEN          | 3d8+3        |
-| 11th  | 4d8+SEN          | 3d8+3        |
-| 12th  | 4d8+SEN          | 3d8+3        |
-| 13th  | 4d8+SEN          | 3d8+3        |
-| 14th  | 4d8+SEN          | 4d8+4        |
-| 15th  | 4d8+SEN          | 4d8+4        |
-| 16th  | 5d8+SEN          | 4d8+4        |
-| 17th  | 5d8+SEN          | 4d8+4        |
-| 18th  | 5d8+SEN          | 5d8+5        |
-| 19th  | 5d8+SEN          | 5d8+5        |
-| 20th  | 5d8+SEN          | 5d8+5        |
+| 1st   | -                | 2d8+2        |
+| 2nd   | 2d8+SEN          | 2d8+2        |
+| 3rd   | 2d8+SEN          | 2d8+2        |
+| 4th   | 2d8+SEN          | 2d8+2        |
+| 5th   | 2d8+SEN          | 2d8+2        |
+| 6th   | 3d8+SEN          | 2d8+2        |
+| 7th   | 3d8+SEN          | 3d8+3        |
+| 8th   | 3d8+SEN          | 3d8+3        |
+| 9th   | 3d8+SEN          | 3d8+3        |
+| 10th  | 3d8+SEN          | 4d8+4        |
+| 11th  | 4d8+SEN          | 4d8+4        |
+| 12th  | 4d8+SEN          | 4d8+4        |
+| 13th  | 4d8+SEN          | 4d8+4        |
+| 14th  | 4d8+SEN          | 5d8+5        |
+| 15th  | 4d8+SEN          | 5d8+5        |
+| 16th  | 5d8+SEN          | 5d8+5        |
+| 17th  | 5d8+SEN          | 5d8+5        |
+| 18th  | 5d8+SEN          | 6d8+6        |
+| 19th  | 5d8+SEN          | 6d8+6        |
+| 20th  | 5d8+SEN          | 6d8+6        |
 
 
 FEATS:
