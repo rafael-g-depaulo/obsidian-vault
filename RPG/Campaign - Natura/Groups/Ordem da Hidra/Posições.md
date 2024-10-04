@@ -11,7 +11,7 @@
 |           | Mão          | 8   |     |     |     |        |          |            |                 |
 |           | Braço        | 10  |     |     |     |        |          |            |                 |
 |           |              |     |     |     |     |        |          |            |                 |
-
+  
 ## Inventário
 Cada nível dentro da Ordem da Hidra tem uma quantidade e qualidade padrão de esqueletos que um membro desse nível tem. Existem ramos mais ricos (Ganância e Luxúria) e menos ricos (Gula e Inveja) que tem um inventário médio melhor ou melhor que os outros, mas de forma geral o inventário esperado de um membro da Ordem da Hidra é:
 
