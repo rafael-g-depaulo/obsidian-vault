@@ -1,4 +1,5 @@
 
+
 | Tipo      | Patente      | CR  | AC  | HP  | DC  | to hit | Avg. dpr | Max Circle | Ficha           |
 | --------- | ------------ | --- | --- | --- | --- | ------ | -------- | ---------- | --------------- |
 | Caster    | Unha         | 2   | 15  | 45  | 12  | +4     | -        | 2          | [[Hidra, Caster]] |
