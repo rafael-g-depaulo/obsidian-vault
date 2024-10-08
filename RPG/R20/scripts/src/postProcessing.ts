@@ -4,8 +4,6 @@ export interface PostProcessInfo {
   headings: { [name: string]: { level: number; page: number } }
 }
 
-const PageCountStart = 2
-
 export const getPostProcessInfo = (content: string): PostProcessInfo => {
   const getHeadingLevel = (line: string) => /^#+/.exec(line)?.[0].length!
 
@@ -55,7 +53,6 @@ export const postProcess = (content: string, info: PostProcessInfo) => {
     const page = info.headings[getLinkName(subs)]?.page
 
     if (subs.includes("Spells") && Object.entries(info.headings).length < 400) {
-      console.log(info)
       // console.log(info.headings[getLinkName(subs)])
       // if (info.headings[getLinkName(subs)] === undefined) {
       //   console.log(subs, getLinkName(subs), info.headings["Spells"])

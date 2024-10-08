@@ -17,6 +17,7 @@ type PagedHeadingTempObject = {
   currentPage: number
 }
 
+const startingPageCounter = 5
 const pageCounter = (lines: string[]): PagedHeading[] => {
   return lines
     .reduce<PagedHeadingTempObject>(
@@ -42,7 +43,7 @@ const pageCounter = (lines: string[]): PagedHeading[] => {
           ],
         }
       },
-      { headings: [], currentPage: 4 }
+      { headings: [], currentPage: startingPageCounter }
     )
     .headings // that arent h3 or below
     .filter(h => h.line !== '\\page')
