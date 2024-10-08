@@ -846,7 +846,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 \page
 [Spells](#p5)
 ### Lesser Restoration (2 MP)
-<div class="spell-tags">holy recovery sacred holy</div>
+<div class="spell-tags">holy recovery sacred</div>
 
 *2nd Circle*
 - **Execução:** 1 Action

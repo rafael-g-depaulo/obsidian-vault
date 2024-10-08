@@ -16,28 +16,28 @@
 
 {{classTable,decoration,frame,wide
 ##### Champion
-| Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
-| 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |
+| Level | Proficiency Bonus | Features |Smite | Palavras Inspiradoras |  | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |  |
+| 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |  |
+| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |  |
+| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |  |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |  |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |  |
+| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |  |
+| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |  |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |  |
+| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |  |
+| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |  |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |  |
+| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |  |
+| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |  |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |  |
+| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |  |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |  |
+| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |  |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |  |
+| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |  |
 }}
 
 

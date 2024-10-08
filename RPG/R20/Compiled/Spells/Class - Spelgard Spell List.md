@@ -537,10 +537,10 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d6 fi
 - **Duração:** Instantaneous
 ___
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.
+- **+2 PM:** muda o casting para reação.
 
 ### Ice Knife (2 MP)
 <div class="spell-tags">elemental cold warmagic thaumaturgy</div>
@@ -577,7 +577,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 
 ### Lesser Restoration (2 MP)
-<div class="spell-tags">holy recovery sacred holy</div>
+<div class="spell-tags">holy recovery sacred</div>
 
 *2nd Circle*
 - **Execução:** 1 Action
@@ -677,7 +677,7 @@ You extend your hand toward a creature you can see within range and project a pu
 - **Duração:** Instantaneous
 ___
 
-Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Up to 3 creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
 - **+2 PM:** aumenta o número de alvos em 2.

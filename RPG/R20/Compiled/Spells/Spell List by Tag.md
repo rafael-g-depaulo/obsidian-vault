@@ -388,7 +388,6 @@
 ### 2nd Circle
 - [[Darkvision]]
 - [[Lesser Restoration]]
-- [[Lesser Restoration]]
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 ### 3rd Circle

@@ -150,7 +150,6 @@ ___
 - #### [{{ General Blessings }}{{ 106 }}](#p106)
 - #### [{{ Entity Specific Blessings }}{{ 106 }}](#p106)
 - ### [{{ Entities }}{{ 107 }}](#p107)
-- #### [{{ Designer Only }}{{ 107 }}](#p107)
 - ### [{{ Companions }}{{ 108 }}](#p108)
 - #### [{{ Stats }}{{ 108 }}](#p108)
 - #### [{{ Companion death }}{{ 108 }}](#p108)
@@ -163,12 +162,12 @@ ___
 - #### [{{ Skipping a Rest }}{{ 111 }}](#p111)
 - #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 111 }}](#p111)
 - ### [{{ Companions }}{{ 112 }}](#p112)
+- #### [{{ Stats }}{{ 112 }}](#p112)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Stats }}{{ 112 }}](#p112)
 - #### [{{ Companion death }}{{ 112 }}](#p112)
 - #### [{{ Rest }}{{ 112 }}](#p112)
 - #### [{{ Companion Skills }}{{ 112 }}](#p112)
@@ -726,28 +725,28 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 {{classTable,decoration,frame,wide
 ##### Champion
-| Level | Proficiency Bonus | Features |Smite | Lay on Hands | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |
-| 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |
-| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |
-| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |
-| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |
-| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |
-| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |
-| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |
-| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |
-| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |
-| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |
-| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |
-| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |
-| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |
-| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |
-| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |
-| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |
-| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |
+| Level | Proficiency Bonus | Features |Smite | Palavras Inspiradoras |  | 
+| :---: | :---------------: | :------- | :----: |:----: |:----: |
+| 1st | +1 | Golpe Destruidor, Attack of Opportunity | 1d6+PRE | - |  |
+| 2nd | +1 | Champion Feat, Palavras Inspiradoras | 1d6+PRE | 1d8+1 |  |
+| 3rd | +2 | Champion Feat | 1d6+PRE | 1d8+1 |  |
+| 4th | +2 | Champion Feat, Attribute Score Improvement, Especialização | 1d6+PRE | 1d8+1 |  |
+| 5th | +3 | Champion Feat, Extra Attack | 2d6+PRE | 1d8+1 |  |
+| 6th | +3 | Champion Feat, Attribute Score Improvement | 2d6+PRE | 1d8+1 |  |
+| 7th | +4 | Champion Feat | 2d6+PRE | 2d8+2 |  |
+| 8th | +4 | Champion Feat, Especialização | 2d6+PRE | 2d8+2 |  |
+| 9th | +5 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 2d8+2 |  |
+| 10th | +5 | Champion Feat | 3d6+PRE | 3d8+3 |  |
+| 11th | +6 | Champion Feat | 3d6+PRE | 3d8+3 |  |
+| 12th | +6 | Champion Feat, Attribute Score Improvement | 3d6+PRE | 3d8+3 |  |
+| 13th | +7 | Champion Feat | 4d6+PRE | 3d8+3 |  |
+| 14th | +7 | Champion Feat | 4d6+PRE | 4d8+4 |  |
+| 15th | +8 | Champion Feat, Attribute Score Improvement | 4d6+PRE | 4d8+4 |  |
+| 16th | +8 | Champion Feat | 4d6+PRE | 4d8+4 |  |
+| 17th | +9 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 4d8+4 |  |
+| 18th | +9 | Champion Feat | 5d6+PRE | 5d8+5 |  |
+| 19th | +10 | Champion Feat, Attribute Score Improvement | 5d6+PRE | 5d8+5 |  |
+| 20th | +10 | Champion Feat | 5d6+PRE | 5d8+5 |  |
 }}
 
 
@@ -1729,32 +1728,32 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
-| 1st | +1 | Lay on Hands, Magia Inata | - | 1d8+1 | 1 | 1 |
-| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 1d8+1 | 2 | 1 |
-| 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 1d8+1 | 2 | 1 |
-| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 1d8+1 | 3 | 1 |
-| 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 1d8+1 | 3 | 2 |
-| 6th | +3 | Spelgard Feat, Especialização | 3d8+SEN | 1d8+1 | 4 | 2 |
-| 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 2d8+2 | 4 | 2 |
-| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 2d8+2 | 5 | 3 |
-| 9th | +5 | Spelgard Feat | 3d8+SEN | 2d8+2 | 5 | 3 |
-| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 6 | 3 |
-| 11th | +6 | Spelgard Feat | 4d8+SEN | 3d8+3 | 6 | 4 |
-| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 3d8+3 | 7 | 4 |
-| 13th | +7 | Spelgard Feat | 4d8+SEN | 3d8+3 | 7 | 5 |
-| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 8 | 5 |
-| 15th | +8 | Spelgard Feat | 4d8+SEN | 4d8+4 | 8 | 6 |
-| 16th | +8 | Spelgard Feat | 5d8+SEN | 4d8+4 | 9 | 6 |
-| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 5d8+SEN | 4d8+4 | 9 | 7 |
-| 18th | +9 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
-| 19th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 10 | 7 |
-| 20th | +10 | Spelgard Feat | 5d8+SEN | 5d8+5 | 11 | 7 |
+| 1st | +1 | Lay on Hands, Magia Inata | - | 2d8+2 | 1 | 1 |
+| 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 2d8+2 | 2 | 1 |
+| 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 2d8+2 | 2 | 1 |
+| 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 3 | 1 |
+| 5th | +3 | Spelgard Feat, Attack of Opportunity | 2d8+SEN | 2d8+2 | 3 | 2 |
+| 6th | +3 | Spelgard Feat, Especialização | 3d8+SEN | 2d8+2 | 4 | 2 |
+| 7th | +4 | Spelgard Feat, Extra Attack | 3d8+SEN | 3d8+3 | 4 | 2 |
+| 8th | +4 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 3d8+3 | 5 | 3 |
+| 9th | +5 | Spelgard Feat | 3d8+SEN | 3d8+3 | 5 | 3 |
+| 10th | +5 | Spelgard Feat, Attribute Score Improvement | 3d8+SEN | 4d8+4 | 6 | 3 |
+| 11th | +6 | Spelgard Feat | 4d8+SEN | 4d8+4 | 6 | 4 |
+| 12th | +6 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 4d8+4 | 7 | 4 |
+| 13th | +7 | Spelgard Feat | 4d8+SEN | 4d8+4 | 7 | 5 |
+| 14th | +7 | Spelgard Feat, Attribute Score Improvement | 4d8+SEN | 5d8+5 | 8 | 5 |
+| 15th | +8 | Spelgard Feat | 4d8+SEN | 5d8+5 | 8 | 6 |
+| 16th | +8 | Spelgard Feat | 5d8+SEN | 5d8+5 | 9 | 6 |
+| 17th | +9 | Spelgard Feat, Attribute Score Improvement | 5d8+SEN | 5d8+5 | 9 | 7 |
+| 18th | +9 | Spelgard Feat | 5d8+SEN | 6d8+6 | 10 | 7 |
+| 19th | +10 | Spelgard Feat | 5d8+SEN | 6d8+6 | 10 | 7 |
+| 20th | +10 | Spelgard Feat | 5d8+SEN | 6d8+6 | 11 | 7 |
 }}
 
 
 **Magia Inata.** Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).
 
-**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 1d8+1. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
+**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 
@@ -1792,7 +1791,9 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 - **Aura of Regeneration.** Effect: Your allies recover 1d4 HP whenever they first enter or start their turn within the aura
 
-- **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off. Pre-requisites: Defensive Spiritual Weapon.
+- **Everlasting Aura.** Even if someone moves away from your Aura, they are still affected by it until the end of the round
+
+- **Extended Aura.** Your auras last 1 more round.
 
 - **Retaliating Spiritual Weapon.** When an opponent attacks an ally while your Spiritual Weapon is adjacent to the attacker, you can use yout reaction and 1PM to perform a Spiritual Weapon Attack on the attack immediately after the attack goes off Pre-requisites: *Defensive Spiritual Weapon*.
 
@@ -4807,10 +4808,10 @@ You call forth a nature spirit to soothe the wounded. The intangible spirit appe
 - **Duração:** Instantaneous
 ___
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
+- **+2 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
 [Spells](#p69)
 ### Heat Metal (2 MP)
@@ -4991,7 +4992,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 
 ### Lesser Restoration (2 MP)
-<div class="spell-tags">holy recovery sacred holy</div>
+<div class="spell-tags">holy recovery sacred</div>
 
 *2nd Circle*
 - **Execução:** 1 Action
@@ -5369,7 +5370,7 @@ You extend your hand toward a creature you can see within range and project a pu
 - **Duração:** Instantaneous
 ___
 
-Up to 3 creatures of your choice that you can see within range each regain hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+Up to 3 creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d8.
 - **+2 PM:** aumenta o número de alvos em 2.
@@ -6172,24 +6173,7 @@ Toda benção tem como pré-requisito ser paladino.
 ############ INVALID_LINK "null" ############
 
 
-## Designer Only
 
-### Comparing gods
-
-| God                | Element        | Offensive Magic | Offensive Buffs | Defensive Buffs | Debuffs    | Utility     | Healing     |
-| ------------------ | -------------- | --------------- | --------------- | --------------- | ---------- | ----------- | ----------- |
-| Treos              | Metal (Silver) | Médio           | Médio-Alto      | -               | Médio      | Média-Alta  | -           |
-| Odrel              | Metal (Gold)   | Médio           | Médio           | Médio           | -          | Alta        | -           |
-| Lyf                | Necrotic       | Médio-Alto      | Médio           | Médio           | Médio-Alto | Baixa       | Médio-Baixo |
-| Auvetre            | Light          | -               | Baixo           | Médio           | -          | Alta        | Baixo       |
-| David WIP          | Darkness/Moon  | Médio-Alto      | Baixo           | -               | Alto       | Média       | Alto        |
-| Rosa Maria         | Plant          | Baixo           | -               | Baixo           | Super-Alto | Média-Baixa | Médio       |
-| Justice and Fire   | Fire/Sun       | Médio           | Alto            | Médio-Alto      | -          | Baixa       | Alto        |
-| Ice and Kndowledge | Ice            | Alto            | -               | Médio-Baixo     | Médio-Alto | Média       | -           |
-| Deep Sea fuckery   | Water          | Médio-Alto      | Médio           | Médio           | Alto       | Média-Alta  | -           |
-| Physical Strength  | Earth          | -               | Alto            | Alto            | -          | Média-Alta  | -           |
-
-%%
 
 
 {{pageNumber,auto}}
@@ -6398,10 +6382,10 @@ Consult the table below to see how the rest affected the characters.
 
 | Condition             | HP Recovery | MP Recovery | Duration | Exhaustion        |
 | --------------------- | ----------- | ----------- | -------- | ----------------- |
-| Poor Condition         | 0           | level/2     | 5 hours  | See below         |
+| Poor Condition        | 0           | level/2     | 5 hours  | See below         |
 | Normal Condition      | level/2     | level       | 8 hours  | recovers 1 level  |
 | Good Condition        | level       | level\*2    | 8 hours  | recovers 2 levels |
-| Exceptional Condition | level\*2    | level\*3    | 12 hours | recovers 2 levels |
+| Exceptional Condition | level\*2    | level\*3    | 8 hours  | recovers 2 levels |
 | Full Reset            | 100%        | 100%        | 1 week   | fully recovers    |
 
 **Poor Condition Rest.** At the end of the rest you must pass a CON save (DC: Rest DC) or gain 1 level of Exhaustion. Gain +1 level for every 5 below the CD.
@@ -6410,7 +6394,7 @@ Consult the table below to see how the rest affected the characters.
 - **Bad Condition**: Sleeping outdoors without proper equipment and on an empty stomach doesn't give the body, mind and soul the ease and support to properly recover. Takes 5 hours.
 - **Normal Condition**: Sleeping outdoors in a sleeping bag and doing a night-watch rotation shift is enough to give a moment of rest and recovery. Takes 8 hours.
 - **Good Condition**: Having hearty meal, not taking night watch, sleeping in a cozy tent or next to a warm fire for a long time really makes a difference out there in the wild. Takes 8 hours.
-- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 12 hours.
+- **Exceptional Condition**: Having a feast, not taking night watch, sleeping in a warm and comfortable condition reinvigorates someone's spirits entirely! Takes 8 hours.
 - **Full Reset**: Completely recover's a character's HP & MP, and removes any debilitating conditions except for diseases and curses. Takes 1 week of rest with no adverse conditions (having time off in a Town in between adventures). Recovers fully from exhaustion.
 
 ## Skipping a Rest

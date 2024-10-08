@@ -741,10 +741,10 @@ You call forth a nature spirit to soothe the wounded. The intangible spirit appe
 - **Duração:** Instantaneous
 ___
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature of your choice that you can see within range regains hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+3 PM:** muda o casting para reação.{{pageNumber,auto}}
+- **+2 PM:** muda o casting para reação.{{pageNumber,auto}}
 \page
 [Spells](#p5)
 ### Heat Metal (2 MP)
