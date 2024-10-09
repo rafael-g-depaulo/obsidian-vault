@@ -33,7 +33,7 @@ Though not common, some Paladins are given a specific mission by their Entity. W
 ### Upholding the Entity's values
 Doing something their Entity likes. Working towards their Entity's goals (if they have any), or helping them in general, is an obvious and very effective way of gaining their Favor, and improving the relationship between them and their Paladin.
 
-## Losing Favor
+### Losing Favor
 Just as upholding their Entity's values and working towards their mission can help a Paladin earn their Favor, going against their values, helping their enemies or simply getting on their Entity's bad side can cause a Paladin to lose Favor (FP) with their Entity.
 
 ## Miracles
