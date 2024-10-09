@@ -36,8 +36,8 @@ Entity Ideas:
 - **Lost Child.** small 4-8yo child with oversized black clothes and snow white pale skin (not like white person white, but bone white), ocean blue eyes and dirty black hair with snow on top. goddess of ice, the moon, curiosity, knowledge, children, orfans, tracking, hunger.
 - **Some lovecraftian name.** huge squid larger than the universe, covered in eyes and with 10k tentacles. it swims in the ocean, the horizon and the night sky. god of the sea, water, stars (every star is one of it's eyes), madness, art (inspires artists), lovers (invisibly connects fated lovers and has one eye for each one, that shines brighter when they first meet and join as one).
 
-}}
 
+### Descrições pro gris
 
 Esqueci ontem, então vai aqui os deuses (a maioria tá bem incompleta pq não tive motivo pra expandir neles até agora. se vc curtir de algum dá pra expandir ele). Começando com os que já são relevantes pra party atual:
 
@@ -55,8 +55,12 @@ Agora os outros deuses que já tem uma ideia mas não tão super bem definidos p
 
 *Wuzei.* Uma lula gigante cósmica com infinitos olhos ao longo de todo seu corpo e seus 10 mil tentáculos, que nada no céu, no mar e no vazio. Deus com vibe de horror cósmico bloodbourne-iano. Wuzei é deus do infinito, do mar, do horizonte, das águas, da arte, da loucura e do amor (é dito que Wuzei tem um olho olhando para cada indivíduo de um casal destinado, e quando eles se veem pela primeira vez os dois olhos de Wuzi brilham e se fundem, e esse novo olho observa e protege o casal por toda a sua vida).
 
-*Auvetre*
+*Auvetre.* Deus dos escravos, liberdade, vento, sol, movimento e destruição. Auvetre é representado como uma bola de luz coberta de correntes quebradas. Possui habilidades de remover debuffs, ataque e utilidade geral (principalmente movimento)
 
-*Forisaltus*
+*Forisaltus.* Forisaltus costumava ser um elfo protetor de um bosque. Ele e seu bosque foram removidos desse plano material quando um lorde vampiro local e seu reino (onde seu bosque estava) foram banidos (sim, é Straahd. esse deus foi criado pra mesa de straahd que to preparando faz tempo). Cheio de raiva e corrompido pela energia negativa que vinha para o seu bosque do castelo maldito do morto-vivo e sem esperança por estar preso nesse reino sem luz nem dia, Forisaltus pouco a pouco foi ganhando mais rancor e virando o que ele é hoje (ele continua eternamente preso, mas a energia dele ainda consegue se manifestar no mundo material). Ele é deus das florestas, da noite e da lua, da vingança, dos animais e da violência. Possui habilidades de cura, debuffs, dano e crowd control.
 
-*Orfã*
+*Orfã.* Uma criança pequena de cabelo branco longo usando farrapos e descalça no meio da neve, sempre procurando sua família e um lugar quente e aconchegante para descansar. A orfã é deusa do gelo e neve, conhecimento, tracking(esqueci o termo em pt), curiosidade, orfãos e crianças, fome e abundância. Ela é louvada por mães e parteiras, estudiosos, magos, pesquisadores, caçadores, mendigos e orfãos. Habilidades de gelo, com dano e debuffs e manipulação de Mana no geral.
+
+*Rei Rato.* Todos os ratos do mundo fazem parte do Rei Rato. Quando ele decide se mostrar para alguém, centenas de ratos se juntam e formam uma massa enorme no formato de um rato gigante. O Rei Rato ouve tudo que um rato ouve, então ele sabe de quase tudo. Ele adora ouvir segredos novos, então ele está sempre aberto para te contar o que você quiser se você oferecer um segredo equivalente como preço. O Rei Rato é o deus dos segredos, de stealth, da verdade e de cumprir contratos. Ele é louvado por ladinos, advogados, juízes, ladrões, comerciantes, espiões e algumas nobrezas e realezas. Habilidades de stealth, observação e controle sobre ratos.
+
+}}

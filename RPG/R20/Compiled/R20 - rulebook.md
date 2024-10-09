@@ -146,31 +146,31 @@ ___
 - #### [{{ Favor }}{{ 107 }}](#p107)
 - #### [{{ Losing Favor }}{{ 107 }}](#p107)
 - #### [{{ Miracles }}{{ 107 }}](#p107)
-- #### [{{ Blessings }}{{ 107 }}](#p107)
-- #### [{{ General Blessings }}{{ 107 }}](#p107)
-- #### [{{ Entity Specific Blessings }}{{ 107 }}](#p107)
-- ### [{{ Entities }}{{ 108 }}](#p108)
-- ### [{{ Companions }}{{ 109 }}](#p109)
-- #### [{{ Stats }}{{ 109 }}](#p109)
-- #### [{{ Companion death }}{{ 109 }}](#p109)
-- #### [{{ Rest }}{{ 109 }}](#p109)
-- #### [{{ Companion Skills }}{{ 109 }}](#p109)
-- ### [{{ Conditions }}{{ 111 }}](#p111)
-- ### [{{ Rest & Recovery }}{{ 112 }}](#p112)
-- #### [{{ Provisions }}{{ 112 }}](#p112)
-- #### [{{ How to recover }}{{ 112 }}](#p112)
-- #### [{{ Skipping a Rest }}{{ 112 }}](#p112)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 112 }}](#p112)
-- ### [{{ Companions }}{{ 113 }}](#p113)
-- #### [{{ Stats }}{{ 113 }}](#p113)
+- #### [{{ Blessings }}{{ 108 }}](#p108)
+- #### [{{ General Blessings }}{{ 108 }}](#p108)
+- #### [{{ Entity Specific Blessings }}{{ 108 }}](#p108)
+- ### [{{ Entities }}{{ 109 }}](#p109)
+- ### [{{ Companions }}{{ 110 }}](#p110)
+- #### [{{ Stats }}{{ 110 }}](#p110)
+- #### [{{ Companion death }}{{ 110 }}](#p110)
+- #### [{{ Rest }}{{ 110 }}](#p110)
+- #### [{{ Companion Skills }}{{ 110 }}](#p110)
+- ### [{{ Conditions }}{{ 112 }}](#p112)
+- ### [{{ Rest & Recovery }}{{ 113 }}](#p113)
+- #### [{{ Provisions }}{{ 113 }}](#p113)
+- #### [{{ How to recover }}{{ 113 }}](#p113)
+- #### [{{ Skipping a Rest }}{{ 113 }}](#p113)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 113 }}](#p113)
+- ### [{{ Companions }}{{ 114 }}](#p114)
+- #### [{{ Stats }}{{ 114 }}](#p114)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Companion death }}{{ 113 }}](#p113)
-- #### [{{ Rest }}{{ 113 }}](#p113)
-- #### [{{ Companion Skills }}{{ 113 }}](#p113)
+- #### [{{ Companion death }}{{ 114 }}](#p114)
+- #### [{{ Rest }}{{ 114 }}](#p114)
+- #### [{{ Companion Skills }}{{ 114 }}](#p114)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -2338,7 +2338,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p111)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p112)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -2915,7 +2915,7 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 
 ## Mantimento
 
-Ao realizar um descanso (Ver: [Rest & Recovery](#p112)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
+Ao realizar um descanso (Ver: [Rest & Recovery](#p113)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
 Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 100 pratas equivalente de mantimentos.
 ## Comidas Especiais
@@ -2926,8 +2926,8 @@ Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer?
 ### Produzir uma **Comida Especial**
 A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p62) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
-- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p112), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
-- Os materiais necessários são mantimentos comuns (ver: [Provisions](#p112)), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial**.
+- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p113), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
+- Os materiais necessários são mantimentos comuns (ver: [Provisions](#p113)), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial**.
 - Com a quantia necessária de materiais gastos, a rolagem de crafting é feita como normalmente, contra a CD do item a ser criado (12 + nível do item / 2).
 - Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
 - **Comidas Especiais** acima do nível 2 são consideradas iguarias raras, especiais e difíceis de fazer. Para conseguir cozinhar uma **Comida Especial** acima do nível 2 o cozinheiro precisa ter aprendido a receita dessa **Comida Especial** específica. Receitas podem ser compradas em cidades grandes, achadas em grimórios antigos guardados em ruínas ou aprendidas de primeira mão com um cozinheiro mais experiente te ensinando. Receitas custam 10x o preço da respectiva **Comida Especial**
@@ -6140,6 +6140,9 @@ Most miracles mechanically function as spells. When adding a spell as one of the
 ### Miracle casting attribute
 Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
 
+{{pageNumber,auto}}
+\page
+
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
@@ -6171,7 +6174,6 @@ Toda benção tem como pré-requisito ser paladino.
 ############ INVALID_LINK "null" ############
 
 ############ INVALID_LINK "null" ############
-
 
 
 

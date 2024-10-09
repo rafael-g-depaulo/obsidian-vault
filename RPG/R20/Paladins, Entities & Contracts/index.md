@@ -51,6 +51,7 @@ Most miracles mechanically function as spells. When adding a spell as one of the
 ### Miracle casting attribute
 Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
 
+{{page-break}}
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
