@@ -61,3 +61,7 @@ Entities also have blessings, which are Feats that only their paladins have acce
 ![[Blessings]]
 
 ![[Entity List]]
+
+![[Miracle List]]
+
+![[Blessing List]]

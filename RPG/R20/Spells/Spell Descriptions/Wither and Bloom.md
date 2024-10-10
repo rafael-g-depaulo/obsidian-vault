@@ -1,4 +1,4 @@
-{{spell-definition "Wither and Bloom "
+{{spell-definition "Wither and Bloom"
 LEVEL: 2
 CAST_TIME: padrão
 RANGE: 12sqr
