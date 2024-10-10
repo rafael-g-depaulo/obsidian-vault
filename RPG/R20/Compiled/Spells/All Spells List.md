@@ -152,7 +152,7 @@ List of spells available for a All to learn.
 - [[Spike Growth]]
 - [[Sugestion]]
 - [[Web]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 
 ### 3rd Circle
 - [[Campo de Força]]

@@ -29,10 +29,14 @@
 **Blindness (pensar num nome depois).** Você usa a magia [[Blindness Deafness]] (só pode cegar).
 
 ### 3FP
+**Crown of Madness.** Você usa a magia [[Crown of Madness]].
 
-Crown of Madness
-Darkvision
-Hold Person
-Laço Protetor
-Mind Whip
-See Invisibility
+**Darkvision.** Você usa a magia [[Darkvision]].
+
+**Hold Person.** Você usa a magia [[Hold Person]].
+
+**Laço Protetor.** Você usa a magia [[Laço Protetor]].
+
+**Mind Whip.** Você usa a magia [[Mind Whip]].
+
+**See Invisibility.** Você usa a magia [[See Invisibility]].

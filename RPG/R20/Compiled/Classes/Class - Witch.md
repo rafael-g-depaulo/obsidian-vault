@@ -1315,8 +1315,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 - **Duração:** imediata.
 ___
 
-You invoke the power of Hadar, the Dark Hunger.  
-Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+You invoke the power of Wuzei, the swimmer of the infinite.  
+Cursed tentacles filled with all seeing eyes of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
@@ -1434,7 +1434,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 
 
-### Wither and Bloom  (2 MP)
+### Wither and Bloom (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
 
 *2nd Circle*

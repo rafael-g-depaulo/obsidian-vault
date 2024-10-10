@@ -144,33 +144,38 @@ ___
 - #### [{{ Paladins }}{{ 107 }}](#p107)
 - #### [{{ Contract }}{{ 107 }}](#p107)
 - #### [{{ Favor }}{{ 107 }}](#p107)
-- #### [{{ Losing Favor }}{{ 107 }}](#p107)
 - #### [{{ Miracles }}{{ 107 }}](#p107)
 - #### [{{ Blessings }}{{ 108 }}](#p108)
 - #### [{{ General Blessings }}{{ 108 }}](#p108)
 - #### [{{ Entity Specific Blessings }}{{ 108 }}](#p108)
 - ### [{{ Entities }}{{ 109 }}](#p109)
-- ### [{{ Companions }}{{ 110 }}](#p110)
-- #### [{{ Stats }}{{ 110 }}](#p110)
-- #### [{{ Companion death }}{{ 110 }}](#p110)
-- #### [{{ Rest }}{{ 110 }}](#p110)
-- #### [{{ Companion Skills }}{{ 110 }}](#p110)
-- ### [{{ Conditions }}{{ 112 }}](#p112)
-- ### [{{ Rest & Recovery }}{{ 113 }}](#p113)
-- #### [{{ Provisions }}{{ 113 }}](#p113)
-- #### [{{ How to recover }}{{ 113 }}](#p113)
-- #### [{{ Skipping a Rest }}{{ 113 }}](#p113)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 113 }}](#p113)
-- ### [{{ Companions }}{{ 114 }}](#p114)
-- #### [{{ Stats }}{{ 114 }}](#p114)
+- ### [{{ Miracle List }}{{ 110 }}](#p110)
+- #### [{{ Lyf }}{{ 110 }}](#p110)
+- #### [{{ Auvetre }}{{ 110 }}](#p110)
+- #### [{{ Rosa Maria }}{{ 110 }}](#p110)
+- #### [{{ Wuzei }}{{ 110 }}](#p110)
+- ### [{{ Blessing List }}{{ 111 }}](#p111)
+- ### [{{ Companions }}{{ 112 }}](#p112)
+- #### [{{ Stats }}{{ 112 }}](#p112)
+- #### [{{ Companion death }}{{ 112 }}](#p112)
+- #### [{{ Rest }}{{ 112 }}](#p112)
+- #### [{{ Companion Skills }}{{ 112 }}](#p112)
+- ### [{{ Conditions }}{{ 114 }}](#p114)
+- ### [{{ Rest & Recovery }}{{ 115 }}](#p115)
+- #### [{{ Provisions }}{{ 115 }}](#p115)
 }}
 
 \page
 {{toc,wide
 # Table Of Contents
-- #### [{{ Companion death }}{{ 114 }}](#p114)
-- #### [{{ Rest }}{{ 114 }}](#p114)
-- #### [{{ Companion Skills }}{{ 114 }}](#p114)
+- #### [{{ How to recover }}{{ 115 }}](#p115)
+- #### [{{ Skipping a Rest }}{{ 115 }}](#p115)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 115 }}](#p115)
+- ### [{{ Companions }}{{ 116 }}](#p116)
+- #### [{{ Stats }}{{ 116 }}](#p116)
+- #### [{{ Companion death }}{{ 116 }}](#p116)
+- #### [{{ Rest }}{{ 116 }}](#p116)
+- #### [{{ Companion Skills }}{{ 116 }}](#p116)
 }}
 
 ############ INVALID_LINK "null" ############
@@ -2338,7 +2343,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p112)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p114)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -2915,7 +2920,7 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 
 ## Mantimento
 
-Ao realizar um descanso (Ver: [Rest & Recovery](#p113)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
+Ao realizar um descanso (Ver: [Rest & Recovery](#p115)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
 Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 100 pratas equivalente de mantimentos.
 ## Comidas Especiais
@@ -2926,8 +2931,8 @@ Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer?
 ### Produzir uma **Comida Especial**
 A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p62) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
-- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p113), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
-- Os materiais necessários são mantimentos comuns (ver: [Provisions](#p113)), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial**.
+- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p115), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
+- Os materiais necessários são mantimentos comuns (ver: [Provisions](#p115)), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial**.
 - Com a quantia necessária de materiais gastos, a rolagem de crafting é feita como normalmente, contra a CD do item a ser criado (12 + nível do item / 2).
 - Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
 - **Comidas Especiais** acima do nível 2 são consideradas iguarias raras, especiais e difíceis de fazer. Para conseguir cozinhar uma **Comida Especial** acima do nível 2 o cozinheiro precisa ter aprendido a receita dessa **Comida Especial** específica. Receitas podem ser compradas em cidades grandes, achadas em grimórios antigos guardados em ruínas ou aprendidas de primeira mão com um cozinheiro mais experiente te ensinando. Receitas custam 10x o preço da respectiva **Comida Especial**
@@ -3644,7 +3649,7 @@ List of spells available for a All to learn.
 - [Spike Growth](#p101)
 - [Sugestion](#p102)
 - [Web](#p105)
-- [Wither and Bloom ](#p106)
+- [Wither and Bloom](#p106)
 
 ### 3rd Circle
 - [Campo de Força](#p74)
@@ -5842,8 +5847,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 - **Duração:** imediata.
 ___
 
-You invoke the power of Hadar, the Dark Hunger.  
-Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+You invoke the power of Wuzei, the swimmer of the infinite.  
+Cursed tentacles filled with all seeing eyes of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
 - **+1PM:** increase damage by +1d6.
 - **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
@@ -6035,7 +6040,7 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 - **+1PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
 \page
 [Spells](#p69)
-### Wither and Bloom  (2 MP)
+### Wither and Bloom (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
 
 *2nd Circle*
@@ -6122,7 +6127,7 @@ Though not common, some Paladins are given a specific mission by their Entity. W
 ### Upholding the Entity's values
 Doing something their Entity likes. Working towards their Entity's goals (if they have any), or helping them in general, is an obvious and very effective way of gaining their Favor, and improving the relationship between them and their Paladin.
 
-## Losing Favor
+### Losing Favor
 Just as upholding their Entity's values and working towards their mission can help a Paladin earn their Favor, going against their values, helping their enemies or simply getting on their Entity's bad side can cause a Paladin to lose Favor (FP) with their Entity.
 
 ## Miracles
@@ -6135,14 +6140,12 @@ By default, a Paladin knows up to 1 + their proficiency modifier of their Entity
 By default, you can spend up to 2 + your level FP on a single miracle. If it costs more than that, you cannot perform it.
 
 ### Spells as Miracles
-Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc.
+Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc. Unless stated otherwise, a Miracle version of a Spell can't be used with the original spell's modifications.
 
 ### Miracle casting attribute
-Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
-
-{{pageNumber,auto}}
+Many miracles involve a character's "miracle casting attribute". That attribute is determined when the{{pageNumber,auto}}
 \page
-
+ {{}}contract is formed, and is usually either Presence or Sensibility.
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
@@ -6176,6 +6179,56 @@ Toda benção tem como pré-requisito ser paladino.
 ############ INVALID_LINK "null" ############
 
 
+
+
+{{pageNumber,auto}}
+\page
+# Miracle List
+
+## Lyf
+
+## Auvetre
+
+## Rosa Maria
+
+## Wuzei
+
+### 1 FP
+**Visão limitada de Wuzei.** Você usa a magia [Guidance](#p85).
+
+### 2FP
+**Inspirar Medo.** Você usa a magia [Cause Fear](#p75).
+
+**Detectar Ameaças.** Você usa a magia [Detectar Ameaças](#p79), Você pode usar aprimoramentos (gasta FP em vez de MP nos aprimoramentos).
+
+**Suspiros do Infinito.** Você usa a magia [Dissonant Whispers](#p79).
+
+**Escuridão.** Você usa a magia [Escuridão](#p82).
+
+**Raio do Caminho.** Você usa a magia [Guiding Bolt](#p86). O milagre dá dano psiquico em vez de de fogo.
+
+**Realização Fútil.** Você usa a magia [Hideous Laughter](#p87).
+
+**Turbilhão de Wuzei.** Você usa a magia [Tentacle Twister](#p102). Você pode usar aprimoramentos (gasta FP em vez de MP nos aprimoramentos).
+
+**Blindness (pensar num nome depois).** Você usa a magia [Blindness Deafness](#p72) (só pode cegar).
+
+### 3FP
+**Crown of Madness.** Você usa a magia [Crown of Madness](#p78).
+
+**Darkvision.** Você usa a magia [Darkvision](#p78).
+
+**Hold Person.** Você usa a magia [Hold Person](#p88).
+
+**Laço Protetor.** Você usa a magia [Laço Protetor](#p89).
+
+**Mind Whip.** Você usa a magia [Mind Whip](#p93).
+
+**See Invisibility.** Você usa a magia [See Invisibility (link not found)]().
+
+{{pageNumber,auto}}
+\page
+# Blessing List
 
 
 {{pageNumber,auto}}

@@ -183,7 +183,7 @@
 - [[Earthbind]]
 - [[Hold Person]]
 - [[Ray of Enfeeblement]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Oração]]
@@ -197,7 +197,7 @@
 - [[Infligir Ferimentos]]
 - [[Ray of Sickness]]
 ### 2nd Circle
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Life Transference]]
@@ -462,7 +462,7 @@
 ### 1st Circle
 - [[Infligir Ferimentos]]
 ### 2nd Circle
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Toque Vampírico]]
@@ -536,7 +536,7 @@
 - [[Hold Person]]
 - [[Ray of Enfeeblement]]
 - [[Shadow Blade]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Life Transference]]
@@ -592,7 +592,7 @@
 - [[Healing Spirit]]
 - [[Lesser Restoration]]
 - [[Prayer of Healing]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Mass Healing Word]]
@@ -632,7 +632,7 @@
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 - [[See invisibility]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
@@ -847,7 +847,7 @@
 - [[Crown of Madness]]
 - [[Ray of Enfeeblement]]
 - [[Shadow Blade]]
-- [[Wither and Bloom ]]
+- [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
 - [[Toque Vampírico]]

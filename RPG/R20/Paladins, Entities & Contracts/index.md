@@ -49,9 +49,7 @@ By default, you can spend up to 2 + your level FP on a single miracle. If it cos
 Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc. Unless stated otherwise, a Miracle version of a Spell can't be used with the original spell's modifications.
 
 ### Miracle casting attribute
-Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
-
-{{page-break}}
+Many miracles involve a character's "miracle casting attribute". That attribute is determined when the{{page-break}} {{}}contract is formed, and is usually either Presence or Sensibility.
 ### Miracle DC
 The DC to resist your miracles is equal to **8 + proficiency bonus + Miracle casting attribute mod.**
 
