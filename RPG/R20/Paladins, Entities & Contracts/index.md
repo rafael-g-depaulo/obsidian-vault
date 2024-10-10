@@ -46,7 +46,7 @@ By default, a Paladin knows up to 1 + their proficiency modifier of their Entity
 By default, you can spend up to 2 + your level FP on a single miracle. If it costs more than that, you cannot perform it.
 
 ### Spells as Miracles
-Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc.
+Most miracles mechanically function as spells. When adding a spell as one of the miracles a god grants access to, it's recommended to make it's cost **(1 + orignal MP cost) FP**. So a cantrip would cost 1FP, a 1st level spell 2FP, a 6th level spell 9FP, etc. Unless stated otherwise, a Miracle version of a Spell can't be used with the original spell's modifications.
 
 ### Miracle casting attribute
 Many miracles involve a character's "miracle casting attribute". That attribute is determined when the contract is formed, and is usually either Presence or Sensibility.
