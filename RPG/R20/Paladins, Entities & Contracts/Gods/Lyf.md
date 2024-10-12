@@ -22,7 +22,7 @@ if corpse: 4d6 healing.
 
 **Maldição de Zehbub.** Ação (2FP, 1MP): Escolha uma criatura com corpo orgânico que consegue ver em 10sqr. Um enxame de insetos começa a devorar o alvo vivo, causando 5d4 de dano. Você pode concentrar nesse milagre, causando 2d4 de dano adicional no início de cada um dos seus turnos.
 
-**Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn
+**Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn. Pré-requisito: ser Spelgard.
 
 %%
 **Path of Mycelium/Caminho do Micélio**. teleport a short/medium distance, all spooky-like
