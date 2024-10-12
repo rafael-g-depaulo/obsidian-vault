@@ -63,5 +63,6 @@ When skipping a Rest, a character needs to roll a CON or PRE saving throw with D
 
 If they fail the character gains 1 level of exhaustion, +1 for every 5 points below the DC. (e.g. a 10 roll against a DC of 20 would give a character +3 exhaustion levels)
 
+{{page-break}}
 ## Regra Opcional: Mantimentos automáticos
 Para grupos que preferirem não lidar com gerenciamento de mantimentos ao longo de viagens longas, uma opção recomendada é ignorar as regras de mantimentos, e considerar que todas as rolagens de descanso são feitas com 5 ou 20 pratas.
