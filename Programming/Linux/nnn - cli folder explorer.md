@@ -1,4 +1,4 @@
-Install (from source because it makes fontAwesome and plugins available):
+dotInstall (from source because it makes fontAwesome and plugins available):
 
 ## Tutorial
 ![](https://www.youtube.com/watch?v=-knZwdd1ScU)
