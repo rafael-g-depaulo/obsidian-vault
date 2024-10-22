@@ -27,22 +27,53 @@ Delineamento macro dos papéis que queremos que os nossos diferentes produtos ex
 Planejamento e orientação sobre a metodologia e modo de operação de design de produto, *UI* e *UX* no LabFaz Digital. Planejamento e definição de testes, práticas, políticas internas e padrões de acessibilidade do LabFaz digital, que foram e serão usados para orientar design de produto, *UI*, *UX*, desenvolvimento (Dev) e operações (DevOps/Ops). Alinhado à consultoria de design *UX* realizada com Fábio Zabeu, construimos os documentos de "Estratégia de UX do LabFaz", "Guia de Acessibilidade do LabFaz Digital", as instruções sobre "Montagem do Plano de Pesquisa UX do LabFaz" e "Manual de Teste de Usabilidade", mapeamos o "Mapa de Épicos e Histórias de Usuário" .
 
 ## Arquitetura e *DevOps*
+Planejamento da infraestrutura a ser construída, como ela vai operar, quais serviços de terceiros vão ser usados e análise de requisitos não-funcionais. Definição de padrões de desenvolvimento, tecnologias, metodologias e políticas orientadoras para a equipe de desenvolvimento do produto. Para planejamento da arquitetura de software do LabFaz Digital, foram produzidos os ADR's, RFC's, Personas (para definição de pre-requisitos não-funcionais de compatibilidade e performance), glossário da Linguagem Ubíqua e a modelagem C4 do LabFaz digital (em especial a camada de *Container*).
 
+## Prints dos arquivos mencionados (todos disponíveis no Drive do LabFaz Digital)
 
+### ADR's (*Architecture Decision Records*)
 ![[Pasted image 20241021182311.png]]
+
+### Personas
+Lista das Personas:
 ![[Pasted image 20241021182327.png]]
 
+Exemplo de uma Persona:
 ![[Pasted image 20241021182412.png]]
 
+### RFC's (*Request For Comment*)
+Lista de RFC's:
 ![[Pasted image 20241021182523.png]]
-![[Pasted image 20241021182541.png]]
-![[Pasted image 20241021182553.png]]
+Exemplo de RFC:
+![[Pasted image 20241021182541.png|750]]
+![[Pasted image 20241021182553.png|550]]
 
-![[Pasted image 20241021182838.png]]
+### VPC's (*Value Proposition Canvas*)
+Lista dos VPC's:
+![[Pasted image 20241021182838.png|475]]
 
+Exemplo de VPC:
 ![[Pasted image 20241021182907.png]]
+### Estratégia de UX do LabFAz
 ![[Pasted image 20241021183050.png]]
 
+### Guia geral de Acessibilidade do LabFaz Digital
 ![[Pasted image 20241021183019.png]]
 
-![[Pasted image 20241021183116.png]]
+### Glossário da Linguagem Ubíqua do LabFaz
+![[Pasted image 20241021183116.png|550]]
+
+### Mapeamento C4
+Prints de alguns dos elementos mapeados no modelo C4 do LabFaz Digital, suas relações e descrições:
+
+Lista de Modelos, Pessoas de Interesse, Sistemas e Relações:
+![[Pasted image 20241021225618.png]]
+
+Modelo do contexto de articulação:
+![[Pasted image 20241021225716.png]]
+
+Print da descrição do sub-produto de software "Observatório":
+![[Pasted image 20241021225732.png]]
+
+Modelo da camada de *Container* do sistema de cadastro:
+![[Pasted image 20241021225923.png|825]]
