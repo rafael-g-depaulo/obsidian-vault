@@ -13,14 +13,14 @@ The DM chooses the base difficulty for the rest. Chose a base condition level fo
 ### Expending Provisions
 When resting, expending more or less resources has an effect on the quality of the teams' sleep. This gives that character a bonus for their Survival Roll for the rest.
 
-| amount spent per person | Bonus to Roll |
-| ----------------------- | ------------- |
-| 0                       | -3            |
-| 2 silver                | -1            |
-| 5 silver                | 0             |
-| 20 silver               | +1            |
-| 50 silver               | +2            |
-| 150 silver              | +3            |
+| Description       | amount spent per person | Bonus to Roll |
+| ----------------- | ----------------------- | ------------- |
+| Passando Fome     | 0                       | -3            |
+| Racionando Comida | 2 silver                | -1            |
+| Humilde           | 5 silver                | 0             |
+| Confortável       | 20 silver               | +1            |
+| Luxuoso           | 50 silver               | +2            |
+| Ostentando        | 150 silver              | +3            |
 
 ### Improving the condition
 A character may attempt to use a skill to improve their rest condition (cooking and survival being the most common ones). The DC is equal to the rest DC.
