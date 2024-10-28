@@ -1,3 +1,1 @@
 - [ ] Add especialização
-- [ ] Bugfix de pontos de 
-- [ ] Regular Itens have NaN weight
