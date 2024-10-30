@@ -71,6 +71,8 @@ Apps:
 - [portal](https://github.com/SpatiumPortae/portal) cool way to send files. downside is both need to have portal installed
 - [gpustat](https://github.com/wookayin/gpustat) gpu monitoring (just for nvidia currently)
 - [lazygit](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#ubuntu)
+- [preevy](https://github.com/livecycle/preevy) provision testing environments and share them
+- [just](https://github.com/casey/just?tab=readme-ov-file) make-like for general stuff
 
 Curated lists:
 - https://github.com/agarrharr/awesome-cli-apps
