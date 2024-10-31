@@ -11,4 +11,3 @@ Olhando uma pele necrosada de algo que foi atacado pelo lobo, a maria lembrou de
 ![[Pasted image 20240918201143.png]]
 
 Assassino que tentou atacar o kookie era "Claymore", um conhecido local que ataca nobres.
-
