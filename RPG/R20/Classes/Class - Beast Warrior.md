@@ -13,7 +13,7 @@ FEATURES:
 | 2     | Savage Attack | Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.                                                                                                                                                                                               |
 | 3     | Defesa Animal | Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).                                                                                                                                                                                                                                            |
 
-
+\
 MULTI_FEATURES:
 
 | Level | Rage | Savage Attack |
