@@ -88,6 +88,7 @@ https://medium.com/leapp-cloud/top-10-uncommon-devops-tools-you-should-know-91da
 - [PlanetScale](https://planetscale.com/): mySQL hosting
 - Neon: postgres hosting
 - [Jam](https://jam.dev/c/1589a1f0-cbfc-45b3-95cc-a3ea2a58dac8) - Replay and record front stuff
+- Changeset = create changelogs automatically and stuff
 
 ### Secret Management
 https://www.vaultproject.io/, which i got from this article: https://dev.to/gregorygaines/stop-using-env-files-now-kp0
