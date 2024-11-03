@@ -23,6 +23,9 @@ https://github.com/theripper93/token-z/releases/download/1.0.1/module.json
 https://github.com/arcanistzed/acelib/releases/download/1.8.3/module.json
 https://raw.githubusercontent.com/ardittristan/VTTMacroEditor/1.1.2/module.json
 
+## Tools
+https://foundryvtt.com/packages/mkah-compendium-importer
+
 ## Add R20 support
 https://foundryvtt.com/packages/actor-attribute-list
 https://wiki.theripper93.com/free/enhancedcombathud
