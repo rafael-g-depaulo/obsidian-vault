@@ -637,6 +637,8 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 4-6  | Magic Missile |
 | 7-8  |     Sleep     |
 | 9-10 |  Witch Bolt   |
+{{pageNumber,auto}}
+\page
 
 ### 2º Círculo
 | d10  |           Magia            |
@@ -645,8 +647,6 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 3-4  |        Hold Person         |
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 |      Wither and Bloom      |
-{{pageNumber,auto}}
-\page
 
 ### Spell List
 

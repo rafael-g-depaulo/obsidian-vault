@@ -8,11 +8,11 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE         | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Invocar Feitiço | **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1. |
-| 3     | Juntar Energia  | **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 3      | Faísca Mágica: Poder                | (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| LEVEL | FEATURE              | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Invocar Feitiço      | **Ação Completa, concentração (0PM):** O Canalizador se concentra para conjurar uma magia poderosa (é considerado **Canalizando**, e exige concentração para se manter nesse estado). No final da rodada, se ainda estiver **Canalizando**, ele escolhe um alvo que consiga ver em 13sqr e rola um feitiço na tabela de invocação. O feitiço correspondente da tabela de invocação é usado no alvo. A cada círculo de magia acima do 1º que conseguir usar, pode gastar +1PM para aumentar o círculo da magia usada em 1. |
+| 3     | Juntar Energia       | **Movimento:** Ganha 2 **Cargas Arcanas**, +1 por círculo de magia usada no turno. Você pode ter um máximo de **Cargas Arcanas** igual ao seu nível de Canalizador.<br>                                                                                                                                                                                                                                                                                                                                                   |
+| 3     | Faísca Mágica: Poder | (magia causa dano) **+X Cargas Arcanas:** Aumenta o dano em +1d6 por **Carga Arcana** usada. (Ver: **Faíscas Mágicas e Potenciais Arcanos**).                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 MULTI_FEATURES:
@@ -116,7 +116,7 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 4-6  | Magic Missile |
 | 7-8  |     Sleep     |
 | 9-10 |  Witch Bolt   |
-
+{{page-break}}
 ### 2º Círculo
 | d10  |           Magia            |
 |:----:|:--------------------------:|
@@ -124,7 +124,7 @@ Para cada PM gasto na invocação aumente o círculo da magia invocada em um. Um
 | 3-4  |        Hold Person         |
 | 5-7  | Maximilian's Earthen Grasp |
 | 8-10 |      Wither and Bloom      |
-{{page-break}}
+
 ### Spell List
 
 List of spells available for a Chaneler to learn.

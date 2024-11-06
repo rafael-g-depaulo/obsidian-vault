@@ -1,8 +1,8 @@
 ## Óleos
 Óleos são itens consumíveis de uso único. Como uma ação de movimento, um personagem pode despejar um óleo que já esteja segurando em uma peça de armadura, arma ou munição que esteja segurando ou de uma criatura adjacente. Uma criatura pode tentar evitar o óleo, fazendo um teste de resistência de Destreza contra uma CD 8+prof+DEX de quem estiver tentando espalhar o óleo. O óleo escorre e perde seu efeito no final da cena.
 
+{{page-break}}
 ### Oils
- {{page-break}}
 
 | Name     | price | target                  |
 | -------- | ----- | ----------------------- |

@@ -4,7 +4,7 @@ Drinking a potion requires an Action, and if it has a long-lasting effect it's d
 ### Curative Potions
 #### Healing Potion
 _Potion, Common_
-A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
+A character who drinks the magical red fluid in this vial regains hit points. Drinking or administering a potion takes an action.
 
 | Potion of ...    | Rarity    | Price  | HP      |
 | ---------------- | --------- | ------ | ------- |
@@ -12,10 +12,10 @@ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit po
 | Greater healing  | Uncommon  | 200g   | 6d4+6   |
 | Superior healing | Rare      | 2000g  | 9d4+9   |
 | Supreme healing  | Very rare | 20000g | 12d4+40 |
-
+{{page-break}}
 #### Mana Potion
 _Potion, Common_
-A character who drinks the magical purple fluid in this vial regains 2d4 MP. Drinking or administering a potion takes an action.
+A character who drinks the magical purple fluid in this vial regains MP. Drinking or administering a potion takes an action.
 
 | Essence of ... | Rarity   | Price | MP  |
 | -------------- | -------- | ----- | --- |
