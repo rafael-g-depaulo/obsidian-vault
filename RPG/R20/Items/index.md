@@ -15,6 +15,8 @@
 %% Battle Consumables %% 
 ![[Munição Especial]]
 ![[Oils]]
+![[Alchemical Items]]
+
 ![[Poisons]]
 ![[Potions]]
 ![[Spell Scrolls]]
