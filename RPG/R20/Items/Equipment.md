@@ -76,7 +76,7 @@ A lv1 character starts with 100gp (around 3 month's worth of a normal working pe
 | Shield       | Dodge | Guard | Cost | STR |
 | ------------ | ----- | ----- | ---- | --- |
 | Buckler      | 2     | 1     | 5g   | -   |
-| Light Shield | -3    | 2     | 15g  | -   |
+| Light Shield | -1    | 2     | 15g  | -   |
 | Heavy Shield | -4    | 3     | 200g | 13  |
 
 \**STR*: The minimum strength score requirement to wear the armor.
