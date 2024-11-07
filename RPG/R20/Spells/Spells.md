@@ -53,18 +53,19 @@ Some spells require you to maintain concentration in order to keep their magic a
 ## Spell levels
 Spells are divided into 9 levels and cantrips (0-level spells).
 {{page-break}}
-| Spell Level | Base MP Cost |
-|:-----------:|:------------:|
-|  cantrips   |      0       |
-|      1      |      1       |
-|      2      |      2       |
-|      3      |      3       |
-|      4      |      4       |
-|      5      |      6       |
-|      6      |      8       |
-|      7      |      10      |
-|      8      |      12      |
-|      9      |      15      |
+
+| Spell Circle | Base MP Cost |
+| :----------: | :----------: |
+|   cantrips   |      0       |
+|      1       |      1       |
+|      2       |      2       |
+|      3       |      3       |
+|      4       |      4       |
+|      5       |      6       |
+|      6       |      8       |
+|      7       |      10      |
+|      8       |      12      |
+|      9       |      15      |
 
 ## Spell Tags
 All spells have one or more tags where they fit. The spell [[Toque Chocante]], for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
