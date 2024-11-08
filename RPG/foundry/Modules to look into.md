@@ -4,6 +4,8 @@ Check out [his wiki](https://wiki.theripper93.com/)
 - https://theripper93.com/module/levels
 - https://theripper93.com/module/splatter
 
+https://foundryvtt.com/packages/walledtemplates
+
 talvez:
 https://github.com/Mallander/playlist-enhancer
 https://github.com/League-of-Foundry-Developers/fvtt-module-popout
@@ -21,6 +23,7 @@ https://github.com/theripper93/Splatter/releases/download/4.0.4/module.json
 https://github.com/theripper93/token-z/releases/download/1.0.1/module.json
 https://foundryvtt.com/packages/token-ease
 https://github.com/theripper93/quick-grid-align/releases/download/1.3.1/module.json
+https://bitbucket.org/Fyorl/token-auras/raw/master/module.json
 ## Macro editor
 https://github.com/arcanistzed/acelib/releases/download/1.8.3/module.json
 https://raw.githubusercontent.com/ardittristan/VTTMacroEditor/1.1.2/module.json
@@ -34,3 +37,7 @@ https://wiki.theripper93.com/free/enhancedcombathud
 
 ## Future
 https://wiki.theripper93.com/free/wall-height
+https://foundryvtt.com/packages/rideable
+
+![[Pasted image 20241107232931.png]]
+![[Pasted image 20241107232938.png]]
