@@ -39,6 +39,7 @@ https://foundryvtt.com/packages/mkah-compendium-importer
 ## Add R20 support
 https://foundryvtt.com/packages/actor-attribute-list
 https://wiki.theripper93.com/free/enhancedcombathud
+https://gitlab.com/woodentavern/foundryvtt-chat-command-lib
 
 ## Future
 https://wiki.theripper93.com/free/wall-height
