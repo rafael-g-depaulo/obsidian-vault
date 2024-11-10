@@ -5,6 +5,11 @@ Check out [his wiki](https://wiki.theripper93.com/)
 - https://theripper93.com/module/splatter
 
 https://foundryvtt.com/packages/walledtemplates
+https://foundryvtt.com/packages/chat-media
+https://foundryvtt.com/packages/sleek-chat
+https://foundryvtt.com/packages/chatreactions
+https://github.com/flamewave000/dragonflagon-fvtt/tree/master/df-chat-enhance
+
 
 talvez:
 https://github.com/Mallander/playlist-enhancer
