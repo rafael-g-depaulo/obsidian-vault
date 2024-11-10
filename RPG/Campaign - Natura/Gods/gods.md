@@ -4,7 +4,7 @@ Lyf                             (Rot, Vermin, Flies, Entropy, Food going bad)
 José                            (Carpe Diem, Protecting those too weak to protect themselves, Comradery)
 Hael                            (Clerics, Healing, Regeneration, Hates Undead)
 
-Panteão das Estações:
+Panteão das Estações: (sufixo -er pra estação)
   Ratew                         (Water, Spring, light rains)
   Hacma (she)                   (Fire, Summer, Heat)
   Toven                         (Wind, Fall, Rainstorms, Storm, Thunder)
