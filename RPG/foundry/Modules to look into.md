@@ -44,6 +44,7 @@ https://gitlab.com/woodentavern/foundryvtt-chat-command-lib
 ## Future
 https://wiki.theripper93.com/free/wall-height
 https://foundryvtt.com/packages/rideable
+https://github.com/League-of-Foundry-Developers/Torch
 
 ![[Pasted image 20241107232931.png]]
 ![[Pasted image 20241107232938.png]]
