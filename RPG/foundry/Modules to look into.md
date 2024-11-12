@@ -56,3 +56,9 @@ https://foundryvtt.com/packages/vamdnd5e
 
 ![[Pasted image 20241107232931.png]]
 ![[Pasted image 20241107232938.png]]
+
+
+## Issues
+sequencer sometimes breaks token magic fx:
+
+https://github.com/Feu-Secret/Tokenmagic/issues/274#issuecomment-2408888889
