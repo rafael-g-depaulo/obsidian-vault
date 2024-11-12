@@ -30,6 +30,8 @@ https://foundryvtt.com/packages/token-ease
 https://github.com/theripper93/quick-grid-align/releases/download/1.3.1/module.json
 https://bitbucket.org/Fyorl/token-auras/raw/master/module.json
 https://foundryvtt.com/packages/art-gallery
+https://foundryvtt.com/packages/gm-screen/
+
 ## Macro editor
 https://github.com/arcanistzed/acelib/releases/download/1.8.3/module.json
 https://raw.githubusercontent.com/ardittristan/VTTMacroEditor/1.1.2/module.json
@@ -52,6 +54,9 @@ https://foundryvtt.com/packages/foundry-summons <- prolly not
 https://foundryvtt.com/packages/earthquake
 https://foundryvtt.com/packages/tokenmagic
 https://foundryvtt.com/packages/vamdnd5e
+token mould <-- seriously this is great you need to figure out how to integrate r20 with it
+https://github.com/ironmonk88/monks-enhanced-journal
+
 
 
 ![[Pasted image 20241107232931.png]]
