@@ -56,8 +56,9 @@ https://foundryvtt.com/packages/tokenmagic
 https://foundryvtt.com/packages/vamdnd5e
 token mould <-- seriously this is great you need to figure out how to integrate r20 with it
 https://github.com/ironmonk88/monks-enhanced-journal
-
-
+https://github.com/KitCat420/foundryvtt-better-roll-formulas?tab=readme-ov-file#foundryvtt-better-roll-formulas
+https://foundryvtt.com/packages/emphasis-roll
+https://foundryvtt.com/packages/trinium-chat-buttons
 
 ![[Pasted image 20241107232931.png]]
 ![[Pasted image 20241107232938.png]]
