@@ -40,6 +40,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 ## Front
 - [loki](https://github.com/oblador/loki) (cli tool to run storybook in a cool headless way)
 - https://youtube.com/shorts/5MOTRAfgYTc?feature=share
+- [gsap](https://gsap.com/text/) animation library
 
 ## General Use
 ### Antivirus
