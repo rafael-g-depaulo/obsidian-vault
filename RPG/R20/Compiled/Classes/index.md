@@ -437,7 +437,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
+**Palavras Inspiradoras.** **Movement (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
 **Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
@@ -470,14 +470,25 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 - **Julgamento: Vindicação.** Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
-- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
+- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Inspiradoras**)
 
-- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pré-requisitos: Inspirar  Confiança, 8º nível de champion. Pre-requisites: *Inspirar  Confiança, 8º nível de champion.*.
+- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pre-requisites: *Inspirar  Confiança, 8º nível de champion. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Afiadas**)*.
 
 - **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pre-requisites: *6º nível de champion*.
 
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
+- **Schadenfreude.** (um inimigo falhou na resistência contra suas **Palavras Afiadas**) livre (1 PM): uma criatura a sua escolha que consegue ver o inimigo ganha PV temporários igual a metade do dano inflingido. Pre-requisites: *Palavras Afiadas*.
+
+- **"Paus e Pedras".** Você tem +2 de acerto em ataques e causa +2d6 de dano com **Golpe Destruidor** contra um inimigo que falhou na resistência contra suas **Palavras Afiadas**. Pre-requisites: *Palavras Afiadas*.
+
+- **Voz Distante.** O alcance das suas **Palavras Afiadas** aumenta em 6sqr. Pre-requisites: *Palavras Afiadas*.
+
+- **Multi-insulto.** Você pode gastar +3 PM ao usar **Palavras Afiadas** e escolher 1 alvo a mais. Pre-requisites: *Palavras Afiadas, 6º nível de Champion*.
+
+- **Inspirar Velocidade.** (ao usar **Palavras Inspiradoras**) +2PM: o alvo ganha uma ação de Movimento a mais no seu próximo turno. Pre-requisites: *6º nível de Champion*.
+
+- **Inpirar Poder.** (ao usar **Palavras Inspiradoras**) +1PM: o alvo tem +2 no acerto no próximo ataque que realizar até o fim do próximo turno dele, e dá +1 dado de dano da arma caso seja um ataque físico.
 
 
 
@@ -485,9 +496,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 
 
-**TODO:** Mais poderes para palavras afiadas
-
-**TODO:** integrar poderes "Inspirar \_\_\_\_\_\_\_" com a habilidade básica de cura
 {{pageNumber,auto}}
 \page
 # Channeler (Caster)
@@ -1411,7 +1419,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
-| 1st | +1 | Lay on Hands, Magia Inata | - | 2d8+2 | 1 | 1 |
+| 1st | +1 | Cura de Combate, Magia Inata | - | 2d8+2 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 3 | 1 |
@@ -1436,7 +1444,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Magia Inata.** Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).
 
-**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
+**Cura de Combate.** **Movement (2PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 

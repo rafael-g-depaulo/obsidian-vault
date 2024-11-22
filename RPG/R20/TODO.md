@@ -28,3 +28,6 @@
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [ ] Make class "movement action" skills still allow half-movement
+
+## IDEAS
+- [ ] give "estilo de" to martials for free.

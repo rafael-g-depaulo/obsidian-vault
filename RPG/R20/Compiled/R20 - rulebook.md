@@ -998,7 +998,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 **Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
+**Palavras Inspiradoras.** **Movement (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
 **Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions](#p46)), você pode fazer 2 ataques em vez de 1.
 
@@ -1031,14 +1031,25 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 - **Julgamento: Vindicação.** Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
-- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
+- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Inspiradoras**)
 
-- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pré-requisitos: Inspirar  Confiança, 8º nível de champion. Pre-requisites: *Inspirar  Confiança, 8º nível de champion.*.
+- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pre-requisites: *Inspirar  Confiança, 8º nível de champion. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Afiadas**)*.
 
 - **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pre-requisites: *6º nível de champion*.
 
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
+- **Schadenfreude.** (um inimigo falhou na resistência contra suas **Palavras Afiadas**) livre (1 PM): uma criatura a sua escolha que consegue ver o inimigo ganha PV temporários igual a metade do dano inflingido. Pre-requisites: *Palavras Afiadas*.
+
+- **"Paus e Pedras".** Você tem +2 de acerto em ataques e causa +2d6 de dano com **Golpe Destruidor** contra um inimigo que falhou na resistência contra suas **Palavras Afiadas**. Pre-requisites: *Palavras Afiadas*.
+
+- **Voz Distante.** O alcance das suas **Palavras Afiadas** aumenta em 6sqr. Pre-requisites: *Palavras Afiadas*.
+
+- **Multi-insulto.** Você pode gastar +3 PM ao usar **Palavras Afiadas** e escolher 1 alvo a mais. Pre-requisites: *Palavras Afiadas, 6º nível de Champion*.
+
+- **Inspirar Velocidade.** (ao usar **Palavras Inspiradoras**) +2PM: o alvo ganha uma ação de Movimento a mais no seu próximo turno. Pre-requisites: *6º nível de Champion*.
+
+- **Inpirar Poder.** (ao usar **Palavras Inspiradoras**) +1PM: o alvo tem +2 no acerto no próximo ataque que realizar até o fim do próximo turno dele, e dá +1 dado de dano da arma caso seja um ataque físico.
 
 
 
@@ -1046,9 +1057,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 
 
-**TODO:** Mais poderes para palavras afiadas
-
-**TODO:** integrar poderes "Inspirar \_\_\_\_\_\_\_" com a habilidade básica de cura
 {{pageNumber,auto}}
 \page
 # Channeler (Caster)
@@ -1972,7 +1980,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
-| 1st | +1 | Lay on Hands, Magia Inata | - | 2d8+2 | 1 | 1 |
+| 1st | +1 | Cura de Combate, Magia Inata | - | 2d8+2 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 3 | 1 |
@@ -1997,7 +2005,7 @@ A partir do nível 3, um ladino executando um ataque furtivo pode escolher em ve
 
 **Magia Inata.** Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).
 
-**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
+**Cura de Combate.** **Movement (2PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 
@@ -2832,8 +2840,6 @@ R20's formula: ceil(lv/2)
 
 **Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
 
-**Acuidade com Arma.** Quando usa uma arma leve de corpo a corpo ou uma arma de arremesso, você pode usar seu modificador de Destreza em vez de Força nos testes de ataque e rolagens de dano. *Pré-requisito*: Des 13.
-
 **Ataque Poderoso.** Declare que está usando este poder antes de fazer um ataque corpo a corpo. Você sofre –2 no teste de ataque, mas recebe +5 na rolagem de dano. *Pré-requisito*: For 13.
 
 **Arremesso Potente.** Quando usa uma arma de arremesso, você pode usar seu modificador de Força em vez de Destreza nos testes de ataque. Se você possuir o poder Ataque Poderoso, poderá usá-lo com armas de arremesso. *Pré-requisitos*: For 13, Estilo de Arremesso.
@@ -2848,6 +2854,7 @@ R20's formula: ceil(lv/2)
 
 **Ataque Preciso.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na margem de ameaça e +1 no multiplicador de crítico. *Pré-requisito*: Estilo de Uma Arma.
 
+
  
 **Estilo de Arremesso.** Você pode sacar armas de arremesso como uma ação livre e recebe +2 nas rolagens de dano com elas.
 
@@ -2861,6 +2868,16 @@ R20's formula: ceil(lv/2)
 
 **Sentinel.** When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn. Pre-requisite: Opportunity Attack
 
+**Estilo de Escudo.** Você ganha +2 em Defesa se estiver empunhando um escudo.
+
+**Defensor.** (um aliado adjacente a você é atacado) Reação: aumente a defesa do aliado em +2 para esse ataque. Se o ataque ainda acertar, diminua o dano infligido em 4.
+
+**Piqueiro.** (um inimigo entra no seu alcance enquanto você empunha uma arma corpo-a-corpo alongada) Reação (1PM): Realize um ataque contra o inimigo.
+
+{{note
+#### Estilos de Combate
+Um personagem só pode usar um poder "Estilo de \_\_\_\_\_\_\_".
+}}
 
 {{pageNumber,auto}}
 \page
@@ -3150,7 +3167,7 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 | Organizador de Pergaminhos    | 30 silver | Pasta segmentada para guardar pergaminhos. Pode sacar pergaminhos como ação livre                                                                                                                                                                                     |
 | Bandoleira de Poções          | 30 silver | Bolsa de couro para organizar poções. Pode sacar itens alquímicos como ação livre                                                                                                                                                                                     |
 | Saco de Ingredientes          | 30 silver | Sacola desorganizada que de alguma forma não danifica materiais. Pode guardar até 5 espaços de materiais brutos dentro dela, mas só conta por 1 espaço                                                                                                                |
-| Aljava Reforçada              | 80 silver | Bolsa de couro especializada para guardar munições especiais. Pode sacar munições especiais como ação livre. Pode guardar até 10 munições.                                                                                                                            |
+| Aljava Reforçada              | 80 silver | Bolsa de couro especializada para guardar munições especiais. Pode sacar munições especiais como ação livre. Pode guardar até 10 unidades de munição especial de qualquer tipo.                                                                                       |
 | Healer’s Kit                  | 10 gold   | This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check.                                  |
 | Caixa de Merenda Profissional | 15 gold   | Uma bolsa grande intricadamente construída de couro especialmente tratado para resistência e compressão, limitando também apodrecimento. Ela ocupa 2 espaços de inventário, e consegue guardar o equivalente de 10 espaços de inventário de mantimentos (500 pratas). |
 
@@ -3669,18 +3686,19 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 {{pageNumber,auto}}
 \page
 
-| Spell Level | Base MP Cost |
-|:-----------:|:------------:|
-|  cantrips   |      0       |
-|      1      |      1       |
-|      2      |      2       |
-|      3      |      3       |
-|      4      |      4       |
-|      5      |      6       |
-|      6      |      8       |
-|      7      |      10      |
-|      8      |      12      |
-|      9      |      15      |
+
+| Spell Circle | Base MP Cost |
+| :----------: | :----------: |
+|   cantrips   |      0       |
+|      1       |      1       |
+|      2       |      2       |
+|      3       |      3       |
+|      4       |      4       |
+|      5       |      6       |
+|      6       |      8       |
+|      7       |      10      |
+|      8       |      12      |
+|      9       |      15      |
 
 ## Spell Tags
 All spells have one or more tags where they fit. The spell [Toque Chocante](#p109), for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
@@ -6466,10 +6484,38 @@ Toda benção tem como pré-requisito ser paladino.
 # Miracle List
 
 ## Lyf
+**Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +4FP, +1HP.
+
+**Rot**. (As part of an attack, or Action) 2FP: you enhance your weapon with necrotic energy, or make a ranged spell attack (range: 8sqr). If you hit the attack, you deal 3d6 necrotic damage (or +2d6 if it was as part of an attack), and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
++1MP, +2FP: increase the damage by +2d6
+
+**Eat/Devorar**. 2FP. melee spell. PRE save
+if alive: 4d6 dmg, heal for half.
+if corpse: 4d6 healing.
+
+**Benção de Bael.** Ação (2FP, 1MP): Escolha uma aliado que você consegue ver em 10sqr. Ele recupera 3d4 HP. Você pode gastar +1FP e +1MP para aumentar a cura em 2d4.
+
+**Maldição de Zehbub.** Ação (2FP, 1MP): Escolha uma criatura com corpo orgânico que consegue ver em 10sqr. Um enxame de insetos começa a devorar o alvo vivo, causando 5d4 de dano. Você pode concentrar nesse milagre, causando 2d4 de dano adicional no início de cada um dos seus turnos.
+
+**Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn. Pré-requisito: ser Spelgard.
+
+**Path of Mycelium/Caminho do Micélio**. Ação (4FP): Um portal de micélios se forma na sua frente, e ao passar por ele você sai em um portal equivalente que aparece em um ponto a sua escolha que possa ver em até 30sqr de distância do original.
+
+**Detonar Corpo.** Ação (5FP): Um cadaver a sua escolha em 18sqr é devorado de dentro pra fora por uma massa de vermes e bactérias. O cadaver incha com um buildup de ácido, gás, mana e outros resultados da digestão do corpo. O corpo explode, jorrando uma mistura escura e espessa em um raio de 2sqr. Todas as criaturas acertadas pela mistura recebem 6d6 dano necrótico, ou metade se passarem num teste de resistência de CON.
 
 ## Auvetre
 
 ## Rosa Maria
+
+**Herbomancia: Nhac.** Ação (3FP, 2MP, concentração):
+
+Nasce uma planta piranha. Ela ataca um inimigo a sua escolha em 1sqr de alcance. A planta faz um ataque mágico usando seu atributo mágico +3 para acertar. Se acertar ela causa 3d6 de dano perfurante, e restringe o alvo (condição agarrado). O alvo pode usar uma ação maior em cada turno para realizar um teste de resistência de força (CD milagre) para tentar escapar. Nos seus turnos o alvo toma 3d8 de dano ácido. Se você perder concentração a planta morre e o alvo é solto.
+
+**Sleep**. Ação (2FP): [Sleep](#p105) Spell
+
+**Charm Person**. Ação (2FP) [Charm Person](#p80) Spell
+
+[Healing Spirit](#p91)
 
 ## Wuzei
 

@@ -10,8 +10,6 @@
 
 **Reflexos de Combate.** Você ganha uma ação de movimento extra no seu primeiro turno de cada combate. *Pré-requisito*: Des 13.
 
-**Acuidade com Arma.** Quando usa uma arma leve de corpo a corpo ou uma arma de arremesso, você pode usar seu modificador de Destreza em vez de Força nos testes de ataque e rolagens de dano. *Pré-requisito*: Des 13.
-
 **Ataque Poderoso.** Declare que está usando este poder antes de fazer um ataque corpo a corpo. Você sofre –2 no teste de ataque, mas recebe +5 na rolagem de dano. *Pré-requisito*: For 13.
 
 **Arremesso Potente.** Quando usa uma arma de arremesso, você pode usar seu modificador de Força em vez de Destreza nos testes de ataque. Se você possuir o poder Ataque Poderoso, poderá usá-lo com armas de arremesso. *Pré-requisitos*: For 13, Estilo de Arremesso.
@@ -25,6 +23,7 @@
 **Estilo de Uma Arma.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na Defesa e nos testes de ataque com essa arma (exceto ataques desarmados). *Pré-requisito*: treinado em Luta.
 
 **Ataque Preciso.** Se estiver usando uma arma corpo a corpo em uma das mãos e nada na outra, você recebe +2 na margem de ameaça e +1 no multiplicador de crítico. *Pré-requisito*: Estilo de Uma Arma.
+
 %% 
 **Estilo de Duas Armas.** Se estiver usando duas armas (e pelo menos uma delas for leve) e fizer a ação atacar, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Se você possuir Ambidestria, não sofre essa penalidade. *Pré-requisito*: Des 15, treinado em Luta.
 
@@ -43,8 +42,13 @@
 
 **Sentinel.** When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn. Pre-requisite: Opportunity Attack
 
-**Estilo de Escudo**
+**Estilo de Escudo.** Você ganha +2 em Defesa se estiver empunhando um escudo.
 
-{{note\n#### ${macro.argument ?? 'NO_TITLE'}\n\n${macro.rawBody}}}`
-){{note\n#### ${macro.argument ?? 'NO_TITLE'}\n\n${macro.rawBody}}}`
-)
+**Defensor.** (um aliado adjacente a você é atacado) Reação: aumente a defesa do aliado em +2 para esse ataque. Se o ataque ainda acertar, diminua o dano infligido em 4.
+
+**Piqueiro.** (um inimigo entra no seu alcance enquanto você empunha uma arma corpo-a-corpo alongada) Reação (1PM): Realize um ataque contra o inimigo.
+
+{{note
+#### Estilos de Combate
+Um personagem só pode usar um poder "Estilo de \_\_\_\_\_\_\_".
+}}

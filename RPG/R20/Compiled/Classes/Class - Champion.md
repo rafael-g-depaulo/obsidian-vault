@@ -45,7 +45,7 @@
 
 **Golpe Destruidor.** **(once per turn) During an attack (2PM):** infuse your attack with all your might! Add your Presence modifier to the attack roll, and you Presence modifier +1d6 to the damage. At 5th, 9th, 13th and 17th level, you can spend +1PM to add another +1d6 to the damage.
 
-**Palavras Inspiradoras.** **Action (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
+**Palavras Inspiradoras.** **Movement (1PM):** heal one creature of your choice in 9sqr for 1d8+1. At 7th, 10th, 14th and 18th level respectively, you can spend +1PM to add another 1d8+1 to the healing.
 
 **Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
@@ -78,21 +78,28 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 - **Julgamento: Vindicação.** Ação de movimento (2 PM): marque um inimigo que tenha causado dano a você ou a seus aliados na cena. Você recebe +1 em testes de ataque e +1d8 em rolagens de dano contra o inimigo escolhido, mas sofre –5 em testes de ataque contra quaisquer outros alvos. No 5º nível, e a cada cinco níveis seguintes, você pode pagar +1 PM para aumentar o bônus de ataque em +1 e o bônus de dano em +1d8. O efeito termina caso o alvo fique inconsciente.
 
-- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente.
+- **Inspirar Confiança.** Sua presença faz as pessoas darem o melhor de si. Quando um aliado em alcance curto faz um teste, você pode  gastar 2 PM para fazer com que ele possa rolar esse teste novamente. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Inspiradoras**)
 
-- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pré-requisitos: Inspirar  Confiança, 8º nível de champion. Pre-requisites: *Inspirar  Confiança, 8º nível de champion.*.
+- **Inspirar Glória.** Uma vez por rodada, você pode gastar 5 PM para fazer um aliado em alcance curto ganhar uma ação padrão adicional no próximo turno dele. Você só pode usar esta habilidade uma vez por cena em cada aliado. Pre-requisites: *Inspirar  Confiança, 8º nível de champion. (*TODO:* renomear para não confundir com os poderes relacionados com **Palavras Afiadas**)*.
 
 - **Liderar pelo Exemplo.** Você pode gastar 2 PM para servir de inspiração. Até o início de seu próximo turno, sempre que você passar em um teste de perícia, aliados em alcance curto que fizerem um teste da mesma perícia podem usar o resultado do seu teste em vez de fazer o seu próprio. Pre-requisites: *6º nível de champion*.
 
 - **Palavras Afiadas.** Você pode gastar uma ação padrão e 1 PM para fazer uma criatura inteligente fazer um teste de resistência de Presença. Se el falhar, você causa 2d6 pontos de dano psíquico não letal à criatura. Se ela passar, causa metade deste dano. Se a criatura for reduzida a 0 ou menos HP, em vez de cair inconsciente, ela se rende ou fica apavorada e foge de você da maneira mais eficiente possível. A cada quatro níveis, você pode gastar +1 PM para aumentar o dano em +1d6.
 
+- **Schadenfreude.** (um inimigo falhou na resistência contra suas **Palavras Afiadas**) livre (1 PM): uma criatura a sua escolha que consegue ver o inimigo ganha PV temporários igual a metade do dano inflingido. Pre-requisites: *Palavras Afiadas*.
+
+- **"Paus e Pedras".** Você tem +2 de acerto em ataques e causa +2d6 de dano com **Golpe Destruidor** contra um inimigo que falhou na resistência contra suas **Palavras Afiadas**. Pre-requisites: *Palavras Afiadas*.
+
+- **Voz Distante.** O alcance das suas **Palavras Afiadas** aumenta em 6sqr. Pre-requisites: *Palavras Afiadas*.
+
+- **Multi-insulto.** Você pode gastar +3 PM ao usar **Palavras Afiadas** e escolher 1 alvo a mais. Pre-requisites: *Palavras Afiadas, 6º nível de Champion*.
+
+- **Inspirar Velocidade.** (ao usar **Palavras Inspiradoras**) +2PM: o alvo ganha uma ação de Movimento a mais no seu próximo turno. Pre-requisites: *6º nível de Champion*.
+
+- **Inpirar Poder.** (ao usar **Palavras Inspiradoras**) +1PM: o alvo tem +2 no acerto no próximo ataque que realizar até o fim do próximo turno dele, e dá +1 dado de dano da arma caso seja um ataque físico.
 
 
 
 
 
 
-
-**TODO:** Mais poderes para palavras afiadas
-
-**TODO:** integrar poderes "Inspirar \_\_\_\_\_\_\_" com a habilidade básica de cura

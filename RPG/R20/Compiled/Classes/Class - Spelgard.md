@@ -21,7 +21,7 @@
 ##### Spelgard
 | Level | Proficiency Bonus | Features |Spiritual Weapon | Lay on Hands | Spells Known | Max Spell Circle | 
 | :---: | :---------------: | :------- | :----: |:----: |:----: |:----: |
-| 1st | +1 | Lay on Hands, Magia Inata | - | 2d8+2 | 1 | 1 |
+| 1st | +1 | Cura de Combate, Magia Inata | - | 2d8+2 | 1 | 1 |
 | 2nd | +1 | Spelgard Feat, Spiritual Weapon | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 3rd | +2 | Spelgard Feat, Especialização | 2d8+SEN | 2d8+2 | 2 | 1 |
 | 4th | +2 | Spelgard Feat, Attribute Score Improvement | 2d8+SEN | 2d8+2 | 3 | 1 |
@@ -46,7 +46,7 @@
 
 **Magia Inata.** Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).
 
-**Lay on Hands.** **Action (1PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
+**Cura de Combate.** **Movement (2PM):** touch one creature, and heal them for 2d8+2. At levels 4, 9, 15 and 18, you can spend +1PM to increate the heal amount by 1d8+1
 
 **Spiritual Weapon.** **Movement action (1PM):** You create a floating, spectral weapon within range (2sqr radius of you). When you take the attack action, you can substitute one of your attacks for a Spiritual Weapon Attack. For a Spiritual Weapon Attack, you can move the Spiritual Weapon up to 4sqr, make a melee spell attack, and it deals 2d8 + SEN physical damage of the weapon's type if it hits. The weapon follows your movement, but you can move it to another spot within the ability's range as a free action once per turn. At levels 6, 11 and 16 you can spend +2PM to increase the weapon's damage by 1d8.
 
