@@ -42,3 +42,9 @@
 **Mira Apurada.** Você pode gastar uma ação de movimento para mirar. Se fizer isso, recebe +2 em testes de ataque e na margem de ameaça com ataques à distância até o fim do turno. *Pré-requisitos*: Sab 13, Disparo Preciso.
 
 **Sentinel.** When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn. Pre-requisite: Opportunity Attack
+
+**Estilo de Escudo**
+
+{{note\n#### ${macro.argument ?? 'NO_TITLE'}\n\n${macro.rawBody}}}`
+){{note\n#### ${macro.argument ?? 'NO_TITLE'}\n\n${macro.rawBody}}}`
+)
