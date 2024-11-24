@@ -9,4 +9,3 @@ dia off pra coisas aleatórias
 
 foram falar com a Hefca
 - Seguiram pistas para o esgoto
-- 

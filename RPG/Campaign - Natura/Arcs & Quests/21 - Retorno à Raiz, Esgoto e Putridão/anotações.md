@@ -20,4 +20,3 @@ lá eles encontraram a unha, e depois de uma enchente de ratos, syril defendeu t
 lyf apareceu e syril fez o contrato.
 
 syril matou a unha e desmaiou
-
