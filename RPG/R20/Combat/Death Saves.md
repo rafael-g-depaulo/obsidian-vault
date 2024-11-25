@@ -1,3 +1,4 @@
+# Death & Dying
 When a character reaches or goes below 0hp they start rolling death saving throws at the start of their turns. (1d20 no modifiers, DC 10). If a character goes below half of their maximum HP into the negatives, they instantly die.
 
 Nat1 means 2 failures, Nat20 means the character stabilizes at 0.
@@ -10,7 +11,7 @@ If they hit 3 successes, they stabilize at 1HP and regain consciousness at the e
 
 An ally can also perform a Medicine check as an action (DC 15) to remove one failed save. For every 5 above the DC remove one aditional fail. This does not add successes.
 
-## Em português
+## Resumo
 1. Quando um personagem chega em 0 ou menos HP, ele cai inconsciente e está morrendo.
 2. HP pode ir pro negativo, e o HP de um personagem chegar em metade do máximo negativo, é morte instantânea.
 3. Se o personagem subir para acima de 0HP por qualquer motivo, ele deixa de estar morrendo e recupera consciência

@@ -96,7 +96,9 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 - **Inspirar Velocidade.** (ao usar **Palavras Inspiradoras**) +2PM: o alvo ganha uma ação de Movimento a mais no seu próximo turno. Pre-requisites: *6º nível de Champion*.
 
-- **Inpirar Poder.** (ao usar **Palavras Inspiradoras**) +1PM: o alvo tem +2 no acerto no próximo ataque que realizar até o fim do próximo turno dele, e dá +1 dado de dano da arma caso seja um ataque físico.
+- **Inpirar Força.** (ao usar **Palavras Inspiradoras**) +1PM: o alvo tem +2 no acerto no próximo ataque que realizar até o fim do próximo turno dele, e dá +1 dado de dano da arma caso seja um ataque físico.
+
+- **Inspirar Energia.** (ao usar **Palavras Inspiradoras**) +2PM: o alvo recebe PM temporários igual a seu modificador de Presença (min: 1). Você só pode afetar um mesmo alvo com **Inspirar Energia** uma vez por cena. Pre-requisites: *11º nível de Champion*.
 
 
 
