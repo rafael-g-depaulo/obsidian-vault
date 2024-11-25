@@ -12,7 +12,7 @@ An ally can also perform a Medicine check as an action (DC 15) to remove one fai
 
 ## Em português
 1. Quando um personagem chega em 0 ou menos HP, ele cai inconsciente e está morrendo.
-2. 3. HP pode ir pro negativo, e o HP de um personagem chegar em metade do máximo negativo, é morte instantânea.
+2. HP pode ir pro negativo, e o HP de um personagem chegar em metade do máximo negativo, é morte instantânea.
 3. Se o personagem subir para acima de 0HP por qualquer motivo, ele deixa de estar morrendo e recupera consciência
 4. No início de seus turnos, um personagem morrendo rola 1 teste de resistência de morte (1d20 puro, CD 10) (recomendado de ser uma rolagem secreta feita pelo mestre). Conte o número de falhas e sucessos.
 5. 1 Natural conta como 2 falhas. 20 natural dá 3 sucessos.
