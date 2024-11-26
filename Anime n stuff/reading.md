@@ -36,6 +36,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
 - https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/
+- https://kaliscan.io/manga/70680-the-academys-genius-tamer
+- https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
@@ -110,6 +112,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
+- https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
