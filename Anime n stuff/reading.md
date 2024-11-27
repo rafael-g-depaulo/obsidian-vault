@@ -16,7 +16,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - orisha
 - [Against the Gods](https://manhwatop.com/manga/against-the-gods/)
 - [Lightning Decree](https://manhwatop.com/manga/lightning-degree-series/)
-- [Player Can't Level Up](https://manhwatop.com/manga/the-player-that-cant-level-up/)
 - [Does Your Mother Need a Son in Law](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/)
 - [Immortal Swordsman in Reverse World](https://manhwatop.com/manga/immortal-swordsman-in-the-reverse-world/)
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/)
