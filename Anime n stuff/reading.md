@@ -7,6 +7,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
+- https://dev.to/a0viedo/nodejs-typescript-and-esm-it-doesnt-have-to-be-painful-438e
 - https://askubuntu.com/questions/20953/sudo-source-command-not-found
 - https://asuratoon.com/manga/3619099433-terminally-ill-genius-dark-knight/
 - https://aquamanga.org/manga/volcanic-age/
