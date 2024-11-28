@@ -11,3 +11,5 @@ TODO:
 - pegar essa missão![[Pasted image 20241127204856.png]]
 
 ganhou legend point
+
+rolou combate, e a gente destruiu os bandidos (mas 1 fugiu)
