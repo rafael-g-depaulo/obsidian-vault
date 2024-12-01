@@ -19,14 +19,14 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Lightning Decree](https://manhwatop.com/manga/lightning-degree-series/)
 - [Does Your Mother Need a Son in Law](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/)
 - [Immortal Swordsman in Reverse World](https://manhwatop.com/manga/immortal-swordsman-in-the-reverse-world/)
-- [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/)
+- [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/)sdfdsf
 - [DOM Enlightenment](https://domenlightenment.com/)
 - [Eloquent Javascript](https://domenlightenment.com/)
 - [Git Stuff](https://git-scm.com/book/en/v2)
 - [SQL stuff](https://sqlzap.com/)
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
 - https://zscans.com/comics/hero-i-quit-a-long-time-ago-hero-return
-- https://night-scans.com/series/1096448977-crazy-leveling-system/
+- https://night-scans.com/series/1096448977-crazy-leveling-system/s
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
 - https://flamecomics.me/the-novels-extra-remake-official-illustrations/
 - https://mangaeffect.com/manga/drawing-the-greatest-mangaka-becomes-a-skilled-martial-artist-in-another-world/
