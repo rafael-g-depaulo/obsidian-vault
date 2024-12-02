@@ -38,6 +38,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
+- Rogue Sun
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
