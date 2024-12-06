@@ -1,1 +1,1 @@
-followed [this](https://www.tuxtips.info/linux/how-to-find-applications-window-class-in-i3-window-manager)
+**followed** [this](https://www.tuxtips.info/linux/how-to-find-applications-window-class-in-i3-window-manager)
