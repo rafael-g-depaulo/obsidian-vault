@@ -75,3 +75,5 @@ magias:
 - santuário (passar em teste pra atacar)
 - detectar ameaças
 - Invocar (animal, pássaro)
+
+- mão poderosa (cobertura leve +5 defesa)
