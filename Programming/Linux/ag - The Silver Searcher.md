@@ -2,6 +2,6 @@ a super fast "grep for code in the directory". [repo here](https://github.com/gg
 
 Install with
 
-```
-sudo apt install ag
+```shell
+  sudo apt install silversearcher-ag
 ```
