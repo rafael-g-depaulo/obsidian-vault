@@ -19,28 +19,28 @@
 
 {{classTable,decoration,frame,wide
 ##### Channeler
-| Level | Proficiency Bonus | Features |Cargas Arcanas | Spells Known | Max Spell Circle | 
-| :---: | :---------------: | :------- | :----: |:----: |:----: |
-| 1st | +1 | Invocar Feitiço, Magia Preparada, Magia Aprendida | - | 3 | 1 |
-| 2nd | +1 | Channeler Feat, Especialização | - | 4 | 1 |
-| 3rd | +2 | Channeler Feat, Juntar Energia, Faísca Mágica: Poder | 3 | 5 | 2 |
-| 4th | +2 | Channeler Feat, Attribute Score Improvement | 4 | 6 | 2 |
-| 5th | +3 | Channeler Feat | 5 | 7 | 3 |
-| 6th | +3 | Channeler Feat, Especialização | 6 | 8 | 3 |
-| 7th | +4 | Channeler Feat | 7 | 9 | 4 |
-| 8th | +4 | Channeler Feat, Attribute Score Improvement | 8 | 10 | 4 |
-| 9th | +5 | Channeler Feat | 9 | 11 | 5 |
-| 10th | +5 | Channeler Feat | 10 | 12 | 5 |
-| 11th | +6 | Channeler Feat | 11 | 13 | 6 |
-| 12th | +6 | Channeler Feat, Attribute Score Improvement | 12 | 14 | 6 |
-| 13th | +7 | Channeler Feat | 13 | 15 | 7 |
-| 14th | +7 | Channeler Feat | 14 | 16 | 7 |
-| 15th | +8 | Channeler Feat | 15 | 17 | 8 |
-| 16th | +8 | Channeler Feat, Attribute Score Improvement | 16 | 18 | 8 |
-| 17th | +9 | Channeler Feat | 17 | 19 | 9 |
-| 18th | +9 | Channeler Feat | 18 | 20 | 9 |
-| 19th | +10 | Channeler Feat, Attribute Score Improvement | 19 | 21 | 9 |
-| 20th | +10 | Channeler Feat | 20 | 22 | 9 |
+| Level | Proficiency Bonus | Features                                             | Cargas Arcanas | Spells Known | Max Spell Circle |     |
+| :---: | :---------------: | :--------------------------------------------------- | :------------: | :----------: | :--------------: | --- |
+|  1st  |        +1         | Invocar Feitiço, Magia Preparada, Magia Aprendida    |       -        |      3       |        1         |     |
+|  2nd  |        +1         | Channeler Feat, Especialização                       |       -        |      4       |        1         |     |
+|  3rd  |        +2         | Channeler Feat, Juntar Energia, Faísca Mágica: Poder |       3        |      5       |        2         |     |
+|  4th  |        +2         | Channeler Feat, Attribute Score Improvement          |       4        |      6       |        2         |     |
+|  5th  |        +3         | Channeler Feat                                       |       5        |      7       |        3         |     |
+|  6th  |        +3         | Channeler Feat, Especialização                       |       6        |      8       |        3         |     |
+|  7th  |        +4         | Channeler Feat                                       |       7        |      9       |        4         |     |
+|  8th  |        +4         | Channeler Feat, Attribute Score Improvement          |       8        |      10      |        4         |     |
+|  9th  |        +5         | Channeler Feat                                       |       9        |      11      |        5         |     |
+| 10th  |        +5         | Channeler Feat                                       |       10       |      12      |        5         |     |
+| 11th  |        +6         | Channeler Feat                                       |       11       |      13      |        6         |     |
+| 12th  |        +6         | Channeler Feat, Attribute Score Improvement          |       12       |      14      |        6         |     |
+| 13th  |        +7         | Channeler Feat                                       |       13       |      15      |        7         |     |
+| 14th  |        +7         | Channeler Feat                                       |       14       |      16      |        7         |     |
+| 15th  |        +8         | Channeler Feat                                       |       15       |      17      |        8         |     |
+| 16th  |        +8         | Channeler Feat, Attribute Score Improvement          |       16       |      18      |        8         |     |
+| 17th  |        +9         | Channeler Feat                                       |       17       |      19      |        9         |     |
+| 18th  |        +9         | Channeler Feat                                       |       18       |      20      |        9         |     |
+| 19th  |        +10        | Channeler Feat, Attribute Score Improvement          |       19       |      21      |        9         |     |
+| 20th  |        +10        | Channeler Feat                                       |       20       |      22      |        9         |     |
 }}
 
 
