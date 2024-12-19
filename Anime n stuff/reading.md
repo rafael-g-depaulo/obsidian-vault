@@ -39,6 +39,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 - Rogue Sun
+- https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-1/
+- https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-1/
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
@@ -57,9 +59,10 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5533)
 - https://night-scans.com/8781815493-i-can-summon-god-redone-chapter-69/
 - https://night-scans.com/8781815493-global-killing-awakening-sss-level-talent-at-the-beginning-chapter-45/
-- https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-8/
+- https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-10/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-6
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-150
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-355/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
