@@ -68,7 +68,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
 - [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-130/)
-- https://glitterandguilt.thecomicseries.com/comics/62/#content-start
+- https://glitterandguilt.thecomicseries.com/comics/81/#content-start
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
 - [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
