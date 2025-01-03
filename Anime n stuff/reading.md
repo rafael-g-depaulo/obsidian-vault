@@ -62,6 +62,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/8781815493-global-killing-awakening-sss-level-talent-at-the-beginning-chapter-45/
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-10/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-6
+- https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-150
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
