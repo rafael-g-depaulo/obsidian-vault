@@ -30,8 +30,8 @@ https://foundryvtt.com/packages/token-ease
 https://github.com/theripper93/quick-grid-align/releases/download/1.3.1/module.json
 https://bitbucket.org/Fyorl/token-auras/raw/master/module.json
 https://foundryvtt.com/packages/art-gallery
-https://foundryvtt.com/packages/gm-screen/
 https://foundryvtt.com/packages/token-attacher
+https://foundryvtt.com/packages/region-active-effects
 
 ## Macro editor
 https://github.com/arcanistzed/acelib/releases/download/1.8.3/module.json
@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/ardittristan/VTTMacroEditor/1.1.2/module.json
 
 ## Tools
 https://foundryvtt.com/packages/mkah-compendium-importer
+https://foundryvtt.com/packages/gm-screen/
 
 ## Add R20 support
 https://foundryvtt.com/packages/actor-attribute-list
