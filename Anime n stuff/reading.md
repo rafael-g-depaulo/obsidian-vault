@@ -42,6 +42,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-1/
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-1/
 - https://www.bilibilicomics.net/comic/2179-the-saintess-has-a-showdown
+- price for freedom
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
