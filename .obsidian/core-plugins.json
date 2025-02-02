@@ -21,12 +21,12 @@
   "word-count": true,
   "slides": true,
   "audio-recorder": true,
-  "workspaces": false,
+  "workspaces": true,
   "file-recovery": true,
   "publish": false,
   "sync": false,
   "canvas": true,
   "bookmarks": true,
   "properties": true,
-  "webviewer": false
+  "webviewer": true
 }
