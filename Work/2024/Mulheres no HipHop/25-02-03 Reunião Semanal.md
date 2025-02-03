@@ -24,6 +24,7 @@
 - [ ] contrato
 
 ## Objetivos
+### Dev e Ops
 - [ ] Deploy vazio
 	- [ ] Polir o workflow
 	- [ ] Criar conta AWS
@@ -34,5 +35,13 @@
 		- [ ] Build
 	- [ ] (opcional) Ci/CD github actions
 
+### Organização
+- [ ] Cobrar contrato
+- [ ] Cobrar designer
+- [ ] Marcar reuniões Vera
+- [ ] Pedir lista artistas
+
+### Design
+- [ ] Figma vazio com convidados
 
 ![[Pasted image 20250203090531.png]]
