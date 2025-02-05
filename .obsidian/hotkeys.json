@@ -8,14 +8,6 @@
       "key": "B"
     }
   ],
-  "hotkeysplus-obsidian:better-toggle-todo": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -135,6 +127,31 @@
         "Mod"
       ],
       "key": "N"
+    }
+  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-outliner:indent-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "obsidian-outliner:outdent-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
     }
   ]
 }
