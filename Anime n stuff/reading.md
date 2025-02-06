@@ -65,6 +65,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-6
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-150
+- https://manhuatop.org/manhua/god-of-martial-arts/chapter-133-3/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
