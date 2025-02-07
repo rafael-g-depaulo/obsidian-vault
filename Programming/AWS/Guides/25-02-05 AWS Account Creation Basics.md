@@ -18,9 +18,14 @@ Verify phone number:
 
 
 
+
+## Setup basic IAM
+
 ## Setup Billing Safeguards
-https://aws.amazon.com/awstv/watch/3d4c8571417/
-https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html
+
+### Sources
+- https://aws.amazon.com/awstv/watch/3d4c8571417/
+- https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html
 
 ## Checklist
 ### Info necessária do cliente
