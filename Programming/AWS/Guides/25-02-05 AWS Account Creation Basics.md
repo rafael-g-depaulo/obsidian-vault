@@ -21,7 +21,12 @@ Verify phone number:
 
 ## Setup basic IAM
 
+TODO.
+OBS: também falar de identity center e identidades cross-accounts
+
 ## Setup Billing Safeguards
+
+TODO
 
 ### Sources
 - https://aws.amazon.com/awstv/watch/3d4c8571417/
