@@ -18,15 +18,41 @@
 - [x] Pedir lista artistas
 
 ### Design
-- [ ] Figma vazio com convidados
-
+- [x] Figma vazio
+	- [ ] com convidados
+- [x] Começar 2 telas
 
 ## Objetivos
 
 ### Atrasado (PRIORIDADE!)
 - [ ] Deploy vazio
 	- [ ] Polir o workflow
-	- Terminar de configurar o código
+		- [ ] issues / PR
+	- [ ] Terminar de configurar o código
 		- [ ] Storybook
-		- [x] Build
-	- [ ] (opcional) CI/CD github actions
+	- [ ] CI/CD github actions
+- [ ] Figma vazio com convidados
+
+### Ops
+- [ ] Terminar deploy vazio (hoje)
+- [ ] comprar domínio
+- [ ] CI/CD
+- [ ] configurar domínio
+
+### Dev
+- [ ] HomePage (completo)
+- [ ] Quem Somos (completo)
+- [ ] Storybook Componentes
+- [ ] componente de popup
+- [ ] (opcional) Começar ViewArtista
+
+### Design
+- [ ] Polir homepage/about us + mobile
+- [ ] Todas as telas mesmo.
+
+### Organização
+- [ ] pagamento
+	- [ ] guardar asdasldkjsadkl
+	- [ ] conversar moisés divisão
+
+![[Pasted image 20250210091537.png]]
