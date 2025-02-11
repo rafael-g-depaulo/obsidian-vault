@@ -96,7 +96,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/1398222385-the-reincarnated-assassin-is-a-genius-swordsman-chapter-34/)
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
-- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)
+- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)s
 - [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
 - [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
