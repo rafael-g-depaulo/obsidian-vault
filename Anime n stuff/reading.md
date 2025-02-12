@@ -66,7 +66,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-150
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-455/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-494/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
