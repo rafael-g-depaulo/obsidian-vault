@@ -65,7 +65,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-10/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-6
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
-- https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-150
+- https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-192
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
@@ -139,4 +139,3 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 ## Re-reading
 - [Villain Elder Brother and Yandere Junior Sisters](https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch89.html)
-- 
