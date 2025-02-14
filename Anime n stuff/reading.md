@@ -43,6 +43,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-1/
 - https://www.bilibilicomics.net/comic/2179-the-saintess-has-a-showdown
 - price for freedom
+- https://kaliscan.io/manga/11173-mookhyang-dark-lady
 
 ## Reading
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
