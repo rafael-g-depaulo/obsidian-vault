@@ -139,4 +139,4 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 ## Re-reading
 - [Villain Elder Brother and Yandere Junior Sisters](https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch89.html)
-- https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch103.html9+++
+- https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch103.html
