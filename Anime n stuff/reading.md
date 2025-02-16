@@ -129,7 +129,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
 - https://hivetoon.com/2024/records-of-the-demonic-path-s-return-chapter-45/
-
+,
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
 
