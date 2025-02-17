@@ -34,4 +34,4 @@
 - [ ] flavor feats required at certain levels
 	- [ ] martials get more flavor feats (martial combat feats become more powerful by default. mostly passive stuff, not mana consuming)
 - [ ] class ideas
-	- [ ] bleed-centric martial, with **Bloody Strike.** (while attacking) free (1PM): the enemy rolls resist (CON). if they fail, they gain 2 bleed stacks. for every bleed stack, they lose 1d4-1 HP at the start of their turn
+	- [ ] bleed-centric martial, with **Bloody Strike.** (while attacking) free (1PM): the enemy rolls resist (CON). if they fail, they gain 2 bleed stacks. At the start of a creature's turn, if they are bleeding they lose 1d4-1 HP for every stack of bleed and lose 1 stack of bleed.

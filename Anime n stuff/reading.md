@@ -69,6 +69,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-20
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
