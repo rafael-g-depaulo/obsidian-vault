@@ -70,6 +70,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
 - https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-106/
+
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -125,7 +126,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-501/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-502/
+- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
