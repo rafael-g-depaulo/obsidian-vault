@@ -69,12 +69,11 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
-- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-106/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-130/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-150/)
 - https://glitterandguilt.thecomicseries.com/comics/81/#content-start
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)

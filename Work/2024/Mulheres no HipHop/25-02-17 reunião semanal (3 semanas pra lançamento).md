@@ -39,11 +39,21 @@
 - [ ] componente de popup
 
 ### Dev
+- [ ] wireframe
 - [ ] Página em construção
+- [ ] mapa (versão merreca)
+- [ ] lista de artista (mega difícil)
 
 ### Design
 - [ ] Página em construção
+- [ ] feito e **revisado**
+	- [ ] home
+	- [ ] sobre nós
+	- [ ] lista de artista
 
 ### Ops
+- [ ] Cobrar lista de artistas
+	- [ ] montar JSON (prioritário)
+- [ ] domínio
 
 ![[Pasted image 20250217091054.png]]

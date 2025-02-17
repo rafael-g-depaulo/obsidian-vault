@@ -31,3 +31,4 @@
 
 ## IDEAS
 - [ ] give "estilo de" to martials for free.
+- [ ] flavor feats required at certain
