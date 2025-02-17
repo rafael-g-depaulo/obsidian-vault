@@ -55,4 +55,5 @@
 	- [ ] guardar asdasldkjsadkl
 	- [ ] conversar moisés divisão
 
+
 ![[Pasted image 20250210091537.png]]
