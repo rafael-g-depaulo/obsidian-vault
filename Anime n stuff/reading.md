@@ -127,7 +127,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-502/
-- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
@@ -139,7 +138,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 ## Done
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-105/)
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
+- [Heroine's in love with me after reading my mind](<- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/>)
 
 ## Re-reading
-- [Villain Elder Brother and Yandere Junior Sisters](https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch89.html)
 - https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch103.html
