@@ -25,7 +25,6 @@
 	- [ ] add a bunch of feats that increase max hp
 	- [ ] more healing when under 50%
 
-
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [ ] Make class "movement action" skills still allow half-movement
 

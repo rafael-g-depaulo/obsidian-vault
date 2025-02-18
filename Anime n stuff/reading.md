@@ -69,7 +69,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-82
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-89
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-43
 
 ## Caught up
