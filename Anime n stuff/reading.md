@@ -35,12 +35,11 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
 - https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
 - https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
-- https://manhwatop.com/manga/infinite-level-up-in-murim-series/
+	- https://manhwatop.com/manga/infinite-level-up-in-murim-series/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 - Rogue Sun
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-1/
-- https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-1/
 - https://www.bilibilicomics.net/comic/2179-the-saintess-has-a-showdown
 - price for freedom
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
@@ -63,12 +62,11 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/8781815493-i-can-summon-god-redone-chapter-69/
 - https://night-scans.com/8781815493-global-killing-awakening-sss-level-talent-at-the-beginning-chapter-45/
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-10/
-- https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-35
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-203
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
-- https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-46/
+- https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-47/
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-89
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-43
 
