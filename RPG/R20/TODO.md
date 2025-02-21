@@ -25,7 +25,8 @@
 	- [ ] add a bunch of feats that increase max hp
 	- [ ] more healing when under 50%
 	- [ ] max hp increase feats
-		- [ ] debuffs while above 
+		- [ ] debuffs while above 50%
+		- [ ] buffs while below 50%
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [ ] Make class "movement action" skills still allow half-movement
