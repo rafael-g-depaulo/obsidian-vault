@@ -78,7 +78,7 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 {{pageNumber,auto}}
 \page
-{{note
+{{descriptive
 #### Poções Misteriosas
 
 Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.

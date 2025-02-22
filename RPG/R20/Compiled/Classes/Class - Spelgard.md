@@ -68,7 +68,7 @@ Beginning at level 2, every time you gain a level in Spelgard you gain a Witch F
 
 {{pageNumber,auto}}
 \page
-{{note
+{{descriptive
 #### Auras
 
 A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!

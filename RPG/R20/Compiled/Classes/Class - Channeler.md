@@ -71,7 +71,7 @@ Beginning at level 2, every time you gain a level in Channeler you gain a Witch 
 
 {{pageNumber,auto}}
 \page
-{{note
+{{descriptive
 #### Faíscas Mágicas e Potenciais Arcanos
 
 Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.

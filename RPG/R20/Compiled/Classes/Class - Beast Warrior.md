@@ -68,7 +68,7 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 {{pageNumber,auto}}
 \page
-{{note
+{{descriptive
 #### Wild Rage
 
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.

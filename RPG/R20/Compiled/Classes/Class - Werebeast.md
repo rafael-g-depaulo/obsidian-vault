@@ -81,7 +81,7 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 {{pageNumber,auto}}
 \page
-{{note
+{{descriptive
 #### Corpo Aberrante
 
 Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem efeitos diferentes na sua forma humana e forma bestial.  Poderes de Corpo Aberrante funcionam como habilidades ativas que custam uma Ação Maior e 1PM para uma forma, e um modificador passivo para a outra forma. (a não ser que a descrição do poder diga outra coisa).
