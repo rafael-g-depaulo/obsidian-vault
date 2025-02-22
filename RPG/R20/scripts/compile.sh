@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Source nvm if it isn't loaded yet
-command -v nvm &>/dev/null || source ~/.nvm/nvm.sh
+command -v nvm &>/dev/null || source "$NVM_DIR/nvm.sh"
 
 nvm use &>/dev/null
 yarn compile &>/dev/null
