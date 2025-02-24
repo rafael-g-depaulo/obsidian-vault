@@ -65,7 +65,7 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Witch Fea
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Danças Marciais
 
 Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"

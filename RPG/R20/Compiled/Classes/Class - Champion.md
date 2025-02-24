@@ -67,7 +67,7 @@ Beginning at level 2, every time you gain a level in Champion you gain a Witch F
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Julgamentos
 
 Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.

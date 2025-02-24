@@ -44,7 +44,6 @@ export const processContent = (deps: CompileRulesDeps) =>
     replaceClasses(deps),
     replaceClassDefinition(deps),
     replaceClassNotes,
-    replaceNotes,
     replaceClassSpellLists(deps.allSpells),
     addPageBreakBeforeH1,
     replaceGlobalSpellList(deps),

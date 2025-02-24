@@ -353,7 +353,7 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Wild Rage
 
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
@@ -459,7 +459,7 @@ Beginning at level 2, every time you gain a level in Champion you gain a Witch F
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Julgamentos
 
 Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma ação de movimento, a menos que a descrição diga o contrário. Julgamentos que não têm um efeito instantâneo duram até o fim da cena. Uma mesma criatura pode ser alvo de vários julgamentos diferentes, mas efeitos do mesmo julgamento não se acumulam.
@@ -568,7 +568,7 @@ Beginning at level 2, every time you gain a level in Channeler you gain a Witch 
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Faíscas Mágicas e Potenciais Arcanos
 
 Misturando sua capacidade mágica e habilidade de invocar magias perdidas no plano arcano, Canalizadores tem acesso a **Faíscas Mágicas** e **Potenciais Arcanos**.
@@ -814,7 +814,7 @@ Beginning at level 2, every time you gain a level in Dancer you gain a Witch Fea
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Danças Marciais
 
 Técnicas fascinantes que os tornam experts e dominantes no combate, alguns dos poderes de Dancer são as "Danças Marciais". Elas tem a nomenclatura de "**Dança da(o) \_\_\_\_**"
@@ -1147,7 +1147,7 @@ Beginning at level 2, every time you gain a level in Plantomancer you gain a Wit
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Herbomancia e Plantas Mágicas
 
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
@@ -1468,7 +1468,7 @@ Beginning at level 2, every time you gain a level in Spelgard you gain a Witch F
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Auras
 
 A Spelgard is always ready to use their unique combo of physique and magic to aid themselves and their allies' combat prowess!
@@ -1681,7 +1681,7 @@ Beginning at level 2, every time you gain a level in Werebeast you gain a Witch 
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Corpo Aberrante
 
 Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem efeitos diferentes na sua forma humana e forma bestial.  Poderes de Corpo Aberrante funcionam como habilidades ativas que custam uma Ação Maior e 1PM para uma forma, e um modificador passivo para a outra forma. (a não ser que a descrição do poder diga outra coisa).
@@ -1801,7 +1801,7 @@ Beginning at level 2, every time you gain a level in Witch you gain a Witch Feat
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Poções Misteriosas
 
 Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatura em posse de uma poção pode beber ela como uma ação de movimento. Ao tomar uma poção misteriosa, role 2d4 e aplique um efeito primário e secundário das tabelas abaixo, que duram pela cena. Ao tomar uma nova poção misteriosa, o efeito da anterior é removido.

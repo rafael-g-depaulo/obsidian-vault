@@ -66,7 +66,7 @@ Beginning at level 2, every time you gain a level in Plantomancer you gain a Wit
 
 {{pageNumber,auto}}
 \page
-{{descriptive
+{{note
 #### Herbomancia e Plantas Mágicas
 
 Alguns dos poderes de Plantomancer envolvem usar suas Sementes Mágicas para criar plantas mágicas, por meio de Herbomancia.
