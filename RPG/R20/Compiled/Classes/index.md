@@ -362,21 +362,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 }}
 
-- **Keen Reflexes.** Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
-
-- **Thick Hide.** You can spend a movement action and 1 PM to gain 1d12 temporary HP. You can spend a multiple of +2PM, and increase the temporary HP by that amount of d12.
-
-- **Blood Healing.** While below HP and raging, the first attack you hit on your turn heals you for your CON mod Pre-requisites: *lv5 de Beast Warrior.*.
-
-{{descriptive
-this is a test note hiiii
-
-### header inside note
-
-asdsafsdfsdf.....
-
-}}
-
 - **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
 
 - **Wild Rage: Owlbear.** Passive: Gain your STR mod as extra Guard. Savage Attack: Add +1 dice to the damage of your weapon for this attack.

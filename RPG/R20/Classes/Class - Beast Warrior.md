@@ -7,11 +7,11 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE       | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ----- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Rage          | While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.<br> |
-| 2     | Savage Attack | Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.                                                                                                                                                                                               |
-| 3     | Defesa Animal | Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).                                                                                                                                                                                                                                            |
+| LEVEL | FEATURE       | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | Rage          | While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.<br> |
+| 2     | Savage Attack | Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.                                                                                                                                                                                                                                                            |
+| 3     | Defesa Animal | Enquanto você está **Sangrando** e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).                                                                                                                                                                                                                                                                                                                                |
 
 
 MULTI_FEATURES:
@@ -39,6 +39,9 @@ MULTI_FEATURES:
 | 19th  | +5   | 5d4+CON       |
 | 20th  | +5   | 5d4+CON       |
 
+NOTE_BLOODIED:
+**Sangrando (Bloodied).** Você é considerado **Sangrando** se você está com metade ou menos do seu HP máximo.
+
 FEATS:
 
 | NAME          | DESCRIPTION                                                                                                                                                                                                                                                                                                                                  | PRE_REQUISITES        |
@@ -50,7 +53,7 @@ FEATS:
 
 BREAK
 
-CLASS_NOTE
+NOTE_BLOODIED
 
 | NAME                    | DESCRIPTION                                                                                                                                                                                                                                                                                                     | PRE_REQUISITES        |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
@@ -67,6 +70,8 @@ CLASS_NOTE
 | Hibernation             | During a rest in a natural environment, you can spend MP, limited by your level. For every MP spent, you recover additional HP equal to your CON mod.<br>                                                                                                                                                       |                       |
 | Powerful Savage Attacks | When using a Savage Attack you re-roll 1's on the damage dice.                                                                                                                                                                                                                                                  | Level 5 Beast Warrior |
 | Sangue dos Inimigos     | Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.                                                                                                      |                       |
+
+CLASS_NOTE
 
 CLASS_NOTE_NAME: Wild Rage
 CLASS_NOTE_DESCRIPTION:
