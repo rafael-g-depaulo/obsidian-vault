@@ -84,4 +84,3 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 - **Valentão.** Você recebe +2 em testes de ataque e rolagens de dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.
 
 
-

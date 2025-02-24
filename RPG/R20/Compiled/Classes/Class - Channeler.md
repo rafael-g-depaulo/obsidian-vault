@@ -88,16 +88,7 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
-
-| d6 | dano |
-| :--: | :--: |
-| 1 | impacto |
-| 2 | cortante |
-| 3 | gelo |
-| 4 | elétrico |
-| 5 | fogo |
-| 6 | psíquico |
-
+| d6 | dano || :--: | :--: || 1 | impacto || 2 | cortante || 3 | gelo || 4 | elétrico || 5 | fogo || 6 | psíquico |
 
 - **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
 
@@ -122,8 +113,6 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
 - **Escudo Arcano.** **Movimento:** Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.<br>
-
-
 
 
 

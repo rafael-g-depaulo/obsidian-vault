@@ -328,12 +328,12 @@ Begining at level 2, every time you gain a level in Alquimist you gain a Alquimi
 
 **Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Rage.** While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Rage's attack roll and damage bonus is doubled if you're below half maximum HP. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
+**Rage.** While in combat, you can spend 2 MP to enter a rage. While **Raging**, you have +2 to melee attack rolls and damage and can't cast spells. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
 
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
 
-**Defesa Animal.** Enquanto você está com metade ou menos do seu HP máximo e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
+**Defesa Animal.** Enquanto você está **Sangrando** e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).
 
 **Extra Attack.** Ao tomar a ação Atacar (ver [Combat Actions (link not found)]()), você pode fazer 2 ataques em vez de 1.
 
@@ -351,6 +351,10 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Wild Senses.** Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each.
 
+{{descriptive
+**Sangrando (Bloodied).** Você é considerado **Sangrando** se você está com metade ou menos do seu HP máximo.
+
+}}
 {{pageNumber,auto}}
 \page
 {{note
@@ -359,7 +363,6 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
-
 }}
 
 - **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
@@ -388,6 +391,18 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 - **Sangue dos Inimigos.** Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
 
+{{descriptive
+### Beastly Constituition
+Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**.
+
+}}
+
+
+- **Beastly Constituition: Lentidão do Dragão.** **Negativo:** -1 velocidade de movimento. **HP máximo:** +3 HP máximo por nível de Beast Warrior. *O luxo de agir só quando quer é dado somente para o predador.*
+
+- **Beastly Constituition: Preguiça da Serpente.** **Negativo:** -4 iniciativa. **HP máximo:** +2 HP máximo por nível de Beast Warrior. *A serpente só dá o bote depois da emboscada ser garantida*.
+
+- **Beastly Constituition: Paciência do Urso.** **Negativo:** -2 Defesa. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *O meu couro é toda a defesa que preciso*.
 
 
 
@@ -495,8 +510,6 @@ Alguns poderes do paladino são Julgamentos. Proferir um julgamento gasta uma a�
 
 
 
-
-
 {{pageNumber,auto}}
 \page
 # Channeler (Caster)
@@ -584,16 +597,7 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 
 - **Retribuição Arcana.** (ao ser atacado enquanto **Canalizando**) Reação: um jato de energia ricocheteia e acerta o atacante, dando 1d6 de dano. Por cada Círculo de magia que você pode lançar, você pode gastar +1PM para aumentar o número de dados em +1d6. Escolha 1 dos dados rolados. O tipo do dano é determinado pelo valor rolado, segundo a tabela abaixo. Você ganha **Cargas Arcanas** igual ao número de dados rolados.
 
-
-| d6 | dano |
-| :--: | :--: |
-| 1 | impacto |
-| 2 | cortante |
-| 3 | gelo |
-| 4 | elétrico |
-| 5 | fogo |
-| 6 | psíquico |
-
+| d6 | dano || :--: | :--: || 1 | impacto || 2 | cortante || 3 | gelo || 4 | elétrico || 5 | fogo || 6 | psíquico |
 
 - **Controle do Destino.** cada dia, pode trocar 1 linha das tabelas de invocação de cada círculo por uma magia que você sabe. Pre-requisites: *Level 6 Canalizador*.
 
@@ -618,8 +622,6 @@ Se você possui uma **Faísca Mágica**, você pode usar ela como modificador ao
 - **Faísca Mágica: Recuperar.** X **Cargas Arcanas**. Você e o alvo recuperam 1d4 HP por **Carga Arcana** usada nesse modificador.
 
 - **Escudo Arcano.** **Movimento:** Se você gastou pelo menos 1 **Carga Arcana** nesse turno, você ganha hp temporário igual a metade do seu nível de canalizador (arredondado pra baixo) mais 2 por **Carga Arcana** usada. Esse hp temporário some no início do seu próximo turno.<br>
-
-
 
 
 
@@ -842,7 +844,6 @@ maybe add option to upcast?
 - **Confie na Estrela.** Você pode gastar 1PM e usar Performance em vez de Intimidação, Persuasão ou Enganação para convencer alguém
 
 
-
 #### Feat Ideas
 - ganha coisas com reação
 - no damage on dex saves, half on fail (specialist, dex minimum)
@@ -971,7 +972,6 @@ Beginning at level 2, every time you gain a level in Fighter you gain a Witch Fe
 
 
 
-
 Skill: Pyrexia (heat meter that goes positive and negative and increases the max with level)
 
 
@@ -1080,7 +1080,6 @@ Beginning at level 2, every time you gain a level in Juggernaut you gain a Witch
 
 
 
-
 {{pageNumber,auto}}
 \page
 # Plantomancer (Caster)
@@ -1183,7 +1182,6 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 - **Se é verde faz bem.** Você ignora resistência a veneno e ácido de inimigos, e dá metade de dano em inimigos imunes a ácido e veneno Pre-requisites: *4º nível de Plantomancer*.
 
 - **Herbomancia: Raizes Enredantes.** 2PM. área: círculo com 2sqr raio. terreno difícil e prende todos que entram.
-
 
 
 
@@ -1376,7 +1374,6 @@ Beginning at level 2, every time you gain a level in Rogue you gain a Witch Feat
 - **Confiança Absoluta.** (ao fazer um ataque) Livre (X PM, limitado pela sua proficiência): Você pode escolher tomar uma penalidade de -1 no ataque, e aumentar a sua margem de ameaça em +1 no ataque por cada PM gasto
 
 
-
 ### Ataque Ardiloso
 
 A partir do nível 3, um ladino executando um ataque furtivo pode escolher em vez disso executar um ataque ardiloso. Ataques ardilosos são como Ataques Furtivos normais, mas um número de dados de dano do Ataque Furtivo é sacrificado para afligir o alvo com um efeito debilitante. O efeito tem duração Cena. A CD para o alvo resistir ao efeito do ataque é definida com a sua Inteligência:
@@ -1516,7 +1513,6 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 - **Combatente Arcano.** Você consegue aprender truques. Aprenda 1 truque de Spelgard.
 
 - **Golpe Arcano.** Quando você usa um truque que não envolva um ataque físico e com casting time padrão você pode gastar 2PM para realizar um ataque como ação livre
-
 
 
 
@@ -1722,7 +1718,6 @@ Alguns poderes de Werebeast são do tipo "Corpo Aberrante". Esses poderes tem ef
 
 
 
-
 {{pageNumber,auto}}
 \page
 # Witch (Caster)
@@ -1841,7 +1836,6 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 - **poder poção misteriosa 6.** (alguém toma sua poção) reação: re-rola os efeitos.
 
 - **poder poção misteriosa 7.** Quando alguém toma uma poção sua e rolar pelo menos 2 resultados iguais nos d4 rolados, você e quem consumiu a poção recebem PM temporário igual ao seu modificador de PRE + metade do seu nível de bruxa. Pre-requisites: *2 poderes de poção misteriosa*.
-
 
 
 

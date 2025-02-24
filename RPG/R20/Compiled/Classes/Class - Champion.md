@@ -103,5 +103,3 @@ Alguns poderes do paladino s√£o Julgamentos. Proferir um julgamento gasta uma a√
 
 
 
-
-

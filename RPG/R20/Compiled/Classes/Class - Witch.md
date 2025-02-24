@@ -128,7 +128,6 @@ Algumas bruxas conseguem produzir as chamadas "poções misteriosas". Uma criatu
 
 
 
-
 ### Hex List:
 
 A witch's Hex is an inescapable effect. While you concentrate on it, the target cannot get rid of the hex.

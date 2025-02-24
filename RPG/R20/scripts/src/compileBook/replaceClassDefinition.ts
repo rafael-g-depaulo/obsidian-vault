@@ -114,17 +114,26 @@ const makeClassNote = (note?: ClassNote) =>
 
 const makeGenericNote = (noteId: string, classDeff: Class) => {
   return !classDeff.genericNotes[noteId] ? `ERROR!!! tried to add note "${noteId}", but it doesn't exist` :
-    `{{descriptive\n${classDeff.genericNotes[noteId].description}}}`
+    `{{descriptive\n${classDeff.genericNotes[noteId].description}}}\n`
 }
 
 const makeFeatsSection = (archetype: string, classDefinition: Class) => {
+  const macroStringReplace = (featStr: string) => {
+    if (classDefinition.name === "Beast Warrior") {
+      console.log("SADSDFSDF|||", featStr, "|||")
+    }
+    if (featStr.indexOf('BREAK') !== -1) return `{{page-break}}`
+
+    if (featStr.indexOf('CLASS_NOTE') !== -1) return makeClassNote(classDefinition.classNote)
+    if (featStr.indexOf("NOTE_") !== -1) return makeGenericNote(featStr.match(genericNoteRegex)?.[0] ?? "", classDefinition)
+
+    return featStr
+  }
+
   const featsList = classDefinition.feats
     .map(feat =>
       typeof feat === 'object' ? singleFeatString(feat) :
-        (feat.indexOf('BREAK') === -1 ? '' : `{{page-break}}`)
-        + (feat.indexOf('CLASS_NOTE') === -1 ? '' : makeClassNote(classDefinition.classNote))
-        + (feat.indexOf("NOTE_") === -1 ? '' : makeGenericNote(feat.match(genericNoteRegex)?.[0] ?? "", classDefinition))
-        || feat
+        feat.split('\n').map(macroStringReplace).join("")
     )
     .join('\n\n')
 

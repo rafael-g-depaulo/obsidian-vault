@@ -7,11 +7,11 @@ SAVES:
 
 FEATURES:
 
-| LEVEL | FEATURE       | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | Rage          | While in combat, you can spend 2 MP to enter a rage. While raging, you have +2 to melee attack rolls and damage, -1 to Defense, and can't cast spells. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.<br> |
-| 2     | Savage Attack | Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.                                                                                                                                                                                                                                                            |
-| 3     | Defesa Animal | Enquanto você está **Sangrando** e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).                                                                                                                                                                                                                                                                                                                                |
+| LEVEL | FEATURE       | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | Rage          | While in combat, you can spend 2 MP to enter a rage. While **Raging**, you have +2 to melee attack rolls and damage and can't cast spells. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.<br> |
+| 2     | Savage Attack | Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.                                                                                                                                                                                                                                                |
+| 3     | Defesa Animal | Enquanto você está **Sangrando** e em fúria, você dobra seu bônus de constituição na guard e de destreza na evasão, se não estiver usando armadura (limitado pelo seu nível).                                                                                                                                                                                                                                                                                                                    |
 
 
 MULTI_FEATURES:
@@ -39,6 +39,10 @@ MULTI_FEATURES:
 | 19th  | +5   | 5d4+CON       |
 | 20th  | +5   | 5d4+CON       |
 
+NOTE_BEASTLY_CONSTITUITION:
+### Beastly Constituition
+Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**.
+
 NOTE_BLOODIED:
 **Sangrando (Bloodied).** Você é considerado **Sangrando** se você está com metade ou menos do seu HP máximo.
 
@@ -51,9 +55,11 @@ FEATS:
 | Blood Healing | While below HP and raging, the first attack you hit on your turn heals you for your CON mod                                                                                                                                                                                                                                                  | lv5 de Beast Warrior. |
 | Wild Senses   | Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each. |                       |
 
+NOTE_BLOODIED
+
 BREAK
 
-NOTE_BLOODIED
+CLASS_NOTE
 
 | NAME                    | DESCRIPTION                                                                                                                                                                                                                                                                                                     | PRE_REQUISITES        |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
@@ -71,7 +77,13 @@ NOTE_BLOODIED
 | Powerful Savage Attacks | When using a Savage Attack you re-roll 1's on the damage dice.                                                                                                                                                                                                                                                  | Level 5 Beast Warrior |
 | Sangue dos Inimigos     | Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.                                                                                                      |                       |
 
-CLASS_NOTE
+NOTE_BEASTLY_CONSTITUITION
+
+| NAME                                        | DESCRIPTION                                                                                                                                                       | PRE_REQUISITES |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Beastly Constituition: Lentidão do Dragão   | **Negativo:** -1 velocidade de movimento. **HP máximo:** +3 HP máximo por nível de Beast Warrior. *O luxo de agir só quando quer é dado somente para o predador.* |                |
+| Beastly Constituition: Preguiça da Serpente | **Negativo:** -4 iniciativa. **HP máximo:** +2 HP máximo por nível de Beast Warrior. *A serpente só dá o bote depois da emboscada ser garantida*.                 |                |
+| Beastly Constituition: Paciência do Urso    | **Negativo:** -2 Defesa. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *O meu couro é toda a defesa que preciso*.                                       |                |
 
 CLASS_NOTE_NAME: Wild Rage
 CLASS_NOTE_DESCRIPTION:
@@ -79,6 +91,4 @@ CLASS_NOTE_DESCRIPTION:
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
-
 }}
-

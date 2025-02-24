@@ -120,7 +120,6 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
-
 {{pageNumber,auto}}
 \page
 

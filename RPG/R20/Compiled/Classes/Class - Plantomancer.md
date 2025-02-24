@@ -106,7 +106,6 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
-
 {{pageNumber,auto}}
 \page
 
