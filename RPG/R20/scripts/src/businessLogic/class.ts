@@ -24,6 +24,10 @@ export type ClassNote = {
   description: string
 }
 
+export type GenericNote = {
+  description: string
+}
+
 export interface Class {
   archetype: string
   name: string
@@ -37,6 +41,7 @@ export interface Class {
   wide?: boolean
   feats: (Feat | string)[]
   classNote?: ClassNote
+  genericNotes: { [id: string]: GenericNote }
 }
 
 const groupFeats = separateGroups((line: string) =>
@@ -68,6 +73,14 @@ const makeClassNote = (name: string, description: string) => ({
   description,
 })
 
+export const genericNoteRegex = /NOTE_([\w_]+)/
+const getGenericNotes = (macro: Macro) =>
+  Object.fromEntries(Object.entries(macro.items)
+    .filter(([noteId]) => genericNoteRegex.test(noteId))
+    .filter(([, note]) => typeof note === 'string')
+    .map(([noteId, noteItem]) => [noteId, { description: noteItem as string }])
+  )
+
 export const parseClass = (classMacro: Macro): Class => ({
   archetype: getString(classMacro.items.ARCHETYPE) ?? 'NO_ARCHETYPE',
   equipProficiencies: getString(classMacro.items.EQUIPMENT_PROFICIENCIES) ?? '',
@@ -90,4 +103,5 @@ export const parseClass = (classMacro: Macro): Class => ({
     getString(classMacro.items.CLASS_NOTE_NAME)!,
     getString(classMacro.items.CLASS_NOTE_DESCRIPTION)!
   ),
+  genericNotes: getGenericNotes(classMacro),
 })

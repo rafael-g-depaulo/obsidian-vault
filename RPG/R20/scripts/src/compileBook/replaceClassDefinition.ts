@@ -2,7 +2,7 @@ import { CompileRulesDeps } from '.'
 import { range } from '../arrayUtils'
 import { Archetype } from '../businessLogic/archetype'
 import { Attb, getAttbName } from '../businessLogic/attributes'
-import { Class, ClassNote, Feat, parseClass } from '../businessLogic/class'
+import { Class, ClassNote, Feat, genericNoteRegex, parseClass } from '../businessLogic/class'
 import { Themes } from '../businessLogic/classThemes'
 import { proficiencyBonus } from '../businessLogic/proficiency'
 import { replaceMacro, replaceMacroAsync } from '../macros/replaceMacro'
@@ -112,15 +112,19 @@ const singleFeatString = (feat: Feat) =>
 const makeClassNote = (note?: ClassNote) =>
   !note ? '' : `{{class-note "${note.name}"\n${note.description}}}`
 
+const makeGenericNote = (noteId: string, classDeff: Class) => {
+  return !classDeff.genericNotes[noteId] ? `ERROR!!! tried to add note "${noteId}", but it doesn't exist` :
+    `{{descriptive\n${classDeff.genericNotes[noteId].description}}}`
+}
+
 const makeFeatsSection = (archetype: string, classDefinition: Class) => {
   const featsList = classDefinition.feats
     .map(feat =>
-      typeof feat === 'object'
-        ? singleFeatString(feat)
-        : (feat.indexOf('BREAK') === -1 ? '' : `{{page-break}}`) +
-        (feat.indexOf('CLASS_NOTE') === -1
-          ? ''
-          : makeClassNote(classDefinition.classNote)) || feat
+      typeof feat === 'object' ? singleFeatString(feat) :
+        (feat.indexOf('BREAK') === -1 ? '' : `{{page-break}}`)
+        + (feat.indexOf('CLASS_NOTE') === -1 ? '' : makeClassNote(classDefinition.classNote))
+        + (feat.indexOf("NOTE_") === -1 ? '' : makeGenericNote(feat.match(genericNoteRegex)?.[0] ?? "", classDefinition))
+        || feat
     )
     .join('\n\n')
 

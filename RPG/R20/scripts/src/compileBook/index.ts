@@ -20,7 +20,6 @@ import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 import { replaceVerticalSpacers } from './replaceSpacers'
 import { replaceSpellDefinition } from './replaceSpellDefinition'
 import { Themes } from '../businessLogic/classThemes'
-import { replaceNotes } from './replaceNotes'
 
 export type CompileRulesDeps = {
   currentFolder: string
