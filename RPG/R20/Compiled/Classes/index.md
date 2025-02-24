@@ -359,6 +359,22 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
+
+}}
+
+- **Keen Reflexes.** Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
+
+- **Thick Hide.** You can spend a movement action and 1 PM to gain 1d12 temporary HP. You can spend a multiple of +2PM, and increase the temporary HP by that amount of d12.
+
+- **Blood Healing.** While below HP and raging, the first attack you hit on your turn heals you for your CON mod Pre-requisites: *lv5 de Beast Warrior.*.
+
+{{descriptive
+this is a test note hiiii
+
+### header inside note
+
+asdsafsdfsdf.....
+
 }}
 
 - **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
@@ -386,8 +402,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Powerful Savage Attacks.** When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: *Level 5 Beast Warrior*.
 
 - **Sangue dos Inimigos.** Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
-
-
 
 
 

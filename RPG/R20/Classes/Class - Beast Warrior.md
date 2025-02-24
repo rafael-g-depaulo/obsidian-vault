@@ -68,13 +68,12 @@ CLASS_NOTE
 | Powerful Savage Attacks | When using a Savage Attack you re-roll 1's on the damage dice.                                                                                                                                                                                                                                                  | Level 5 Beast Warrior |
 | Sangue dos Inimigos     | Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.                                                                                                      |                       |
 
-
-
 CLASS_NOTE_NAME: Wild Rage
 CLASS_NOTE_DESCRIPTION:
 
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
+
 }}
 

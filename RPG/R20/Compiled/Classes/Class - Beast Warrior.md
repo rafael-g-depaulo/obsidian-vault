@@ -16,28 +16,28 @@
 
 {{classTable,decoration,frame
 ##### Beast Warrior
-| Level | Proficiency Bonus | Features |Rage | Savage Attack | 
-| :---: | :---------------: | :------- | :----: |:----: |
-| 1st | +1 | Rage, Attack of Opportunity | +2 | - |
-| 2nd | +1 | Beast Warrior Feat, Savage Attack | +2 | 1d4+CON |
-| 3rd | +2 | Beast Warrior Feat, Defesa Animal | +2 | 1d4+CON |
-| 4th | +2 | Beast Warrior Feat, Attribute Score Improvement, Especialização | +2 | 1d4+CON |
-| 5th | +3 | Beast Warrior Feat, Extra Attack | +2 | 1d4+CON |
-| 6th | +3 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
-| 7th | +4 | Beast Warrior Feat | +3 | 2d4+CON |
-| 8th | +4 | Beast Warrior Feat, Especialização | +3 | 2d4+CON |
-| 9th | +5 | Beast Warrior Feat, Attribute Score Improvement | +3 | 2d4+CON |
-| 10th | +5 | Beast Warrior Feat | +3 | 3d4+CON |
-| 11th | +6 | Beast Warrior Feat | +4 | 3d4+CON |
-| 12th | +6 | Beast Warrior Feat, Attribute Score Improvement | +4 | 3d4+CON |
-| 13th | +7 | Beast Warrior Feat | +4 | 3d4+CON |
-| 14th | +7 | Beast Warrior Feat | +4 | 4d4+CON |
-| 15th | +8 | Beast Warrior Feat, Attribute Score Improvement | +4 | 4d4+CON |
-| 16th | +8 | Beast Warrior Feat | +5 | 4d4+CON |
-| 17th | +9 | Beast Warrior Feat, Attribute Score Improvement | +5 | 4d4+CON |
-| 18th | +9 | Beast Warrior Feat | +5 | 5d4+CON |
-| 19th | +10 | Beast Warrior Feat, Attribute Score Improvement | +5 | 5d4+CON |
-| 20th | +10 | Beast Warrior Feat | +5 | 5d4+CON |
+| Level | Proficiency Bonus | Features                                                        | Rage | Savage Attack |
+| :---: | :---------------: | :-------------------------------------------------------------- | :--: | :-----------: |
+|  1st  |        +1         | Rage, Attack of Opportunity                                     |  +2  |       -       |
+|  2nd  |        +1         | Beast Warrior Feat, Savage Attack                               |  +2  |    1d4+CON    |
+|  3rd  |        +2         | Beast Warrior Feat, Defesa Animal                               |  +2  |    1d4+CON    |
+|  4th  |        +2         | Beast Warrior Feat, Attribute Score Improvement, Especialização |  +2  |    1d4+CON    |
+|  5th  |        +3         | Beast Warrior Feat, Extra Attack                                |  +2  |    1d4+CON    |
+|  6th  |        +3         | Beast Warrior Feat, Attribute Score Improvement                 |  +3  |    2d4+CON    |
+|  7th  |        +4         | Beast Warrior Feat                                              |  +3  |    2d4+CON    |
+|  8th  |        +4         | Beast Warrior Feat, Especialização                              |  +3  |    2d4+CON    |
+|  9th  |        +5         | Beast Warrior Feat, Attribute Score Improvement                 |  +3  |    2d4+CON    |
+| 10th  |        +5         | Beast Warrior Feat                                              |  +3  |    3d4+CON    |
+| 11th  |        +6         | Beast Warrior Feat                                              |  +4  |    3d4+CON    |
+| 12th  |        +6         | Beast Warrior Feat, Attribute Score Improvement                 |  +4  |    3d4+CON    |
+| 13th  |        +7         | Beast Warrior Feat                                              |  +4  |    3d4+CON    |
+| 14th  |        +7         | Beast Warrior Feat                                              |  +4  |    4d4+CON    |
+| 15th  |        +8         | Beast Warrior Feat, Attribute Score Improvement                 |  +4  |    4d4+CON    |
+| 16th  |        +8         | Beast Warrior Feat                                              |  +5  |    4d4+CON    |
+| 17th  |        +9         | Beast Warrior Feat, Attribute Score Improvement                 |  +5  |    4d4+CON    |
+| 18th  |        +9         | Beast Warrior Feat                                              |  +5  |    5d4+CON    |
+| 19th  |        +10        | Beast Warrior Feat, Attribute Score Improvement                 |  +5  |    5d4+CON    |
+| 20th  |        +10        | Beast Warrior Feat                                              |  +5  |    5d4+CON    |
 }}
 
 
@@ -74,6 +74,22 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
+
+}}
+
+- **Keen Reflexes.** Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.
+
+- **Thick Hide.** You can spend a movement action and 1 PM to gain 1d12 temporary HP. You can spend a multiple of +2PM, and increase the temporary HP by that amount of d12.
+
+- **Blood Healing.** While below HP and raging, the first attack you hit on your turn heals you for your CON mod Pre-requisites: *lv5 de Beast Warrior.*.
+
+{{descriptive
+this is a test note hiiii
+
+### header inside note
+
+asdsafsdfsdf.....
+
 }}
 
 - **Esquiva Sobrenatural.** Seus instintos ficam tão apurados que você consegue reagir ao perigo antes que seus sentidos percebam. Você nunca fica surpreendido.
@@ -101,8 +117,6 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 - **Powerful Savage Attacks.** When using a Savage Attack you re-roll 1's on the damage dice. Pre-requisites: *Level 5 Beast Warrior*.
 
 - **Sangue dos Inimigos.** Enquanto está em fúria, quando faz um acerto crítico ou reduz um inimigo a 0 PV, você recebe um bônus cumulativo de +1 em testes de ataque e rolagens de dano, limitado pelo seu nível, até o fim da cena.
-
-
 
 
 
