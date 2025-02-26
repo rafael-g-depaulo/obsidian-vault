@@ -43,7 +43,7 @@
 
 **Attack of Opportunity.** (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo.
 
-**Rage.** While in combat, you can spend 2 MP to enter a rage. While **Raging**, you have +2 to melee attack rolls and damage and can't cast spells. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
+**Rage.** While in combat, you can spend 1 MP to enter a rage. While **Raging**, you have +1 to melee attack rolls and damage and can't cast spells. If you are **Bloodied** (**Sangrando**) while raging, you double the bonuses. If you are not **Bloodied** while raging, you have -1 Defense. Rage ends at the start of your turn if you have not taken damage or attacked something since the start of your last turn. Every 5 levels you can spend an extra 1 MP to increase both bonuses by +1.
 
 
 **Savage Attack.** Once per turn, when you make an attack, you can spend 1 MP to increase the damage by 1d4 + your constituition modifier. At levels 6, 10, 14 and 18 you can spend +1PM to add 1d4 to the damage. If you're raging, you can spend HP instead of MP.
@@ -119,5 +119,6 @@ Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses p
 
 - **Beastly Constituition: Paciência do Urso.** **Negativo:** -2 Defesa. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *O meu couro é toda a defesa que preciso*.
 
+- **Beastly Constituition: Fome do Leão.** **Negativo:** -1 testes de ataque. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *A maior inspiração para a caça é a fome*.
 
 
