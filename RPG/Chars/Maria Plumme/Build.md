@@ -1,16 +1,18 @@
 
-
+## Respec
+| Remover                             | Ganhar                    |
+| ----------------------------------- | ------------------------- |
+| escudo de aequor (+2 Defesa reação) | Consagrar (maximiza cura) |
 ## Level 4
 - troquei nativo **Atraente** por **Comandar**.
 - *Feat:* Missa de PM temporário
 - *Magia:* proteção divina (benção de gaia)
 
-
-
 ## Ideias
 ideias poderes:
 - Missas (PM temporário, bonus ataque, defesa...)
 - coisas de encouraçado
+- prece de combate pra economizar ação
 
 magias:
 - *proteçao divina (+ resist)*
@@ -30,3 +32,7 @@ magias:
 - Sopro das uivantes (aoe cold dmg)
 	- Has -1PM because of "Interior turbulento"
 
+
+## Level 5
+- Poder: Comunhão vital (+2PM pra curar outra pessoa)
+- Magia:

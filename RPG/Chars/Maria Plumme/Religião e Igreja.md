@@ -12,6 +12,8 @@
 | Escudo de Aequor                       | Proteja sua criação. Escudo de Aequor.                                                                            |
 | Pena                                   | Apóstolo sagrado, aliado divino. Emerja do vazio e mostre sua Pena.                                               |
 | Benção de Gaia                         | Defenda seus filhos. Escudo de Gaia.                                                                              |
+| Consagrar                              | Inspire seus filhos e proteja sua criação. Consagrar.                                                             |
+| Inverno Cruel                          | Conserve a bondade e congele o mal. Pela justiça de Aequor: Inverno Cruel.                                        |
 
 ## Deuses
 ### Ignis, do fogo

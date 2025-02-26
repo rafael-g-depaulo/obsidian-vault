@@ -84,6 +84,7 @@ NOTE_BEASTLY_CONSTITUITION
 | Beastly Constituition: Lentidão do Dragão   | **Negativo:** -1 velocidade de movimento. **HP máximo:** +3 HP máximo por nível de Beast Warrior. *O luxo de agir só quando quer é dado somente para o predador.* |                |
 | Beastly Constituition: Preguiça da Serpente | **Negativo:** -4 iniciativa. **HP máximo:** +2 HP máximo por nível de Beast Warrior. *A serpente só dá o bote depois da emboscada ser garantida*.                 |                |
 | Beastly Constituition: Paciência do Urso    | **Negativo:** -2 Defesa. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *O meu couro é toda a defesa que preciso*.                                       |                |
+| Beastly Constituition: Fome do Leão         | **Negativo:** -1 testes de ataque. **HP máximo:** +4 HP máximo por nível de Beast Warrior. *A maior inspiração para a caça é a fome*.                             |                |
 
 CLASS_NOTE_NAME: Wild Rage
 CLASS_NOTE_DESCRIPTION:

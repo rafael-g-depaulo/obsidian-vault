@@ -39,7 +39,8 @@
 
 ### Ops
 - [ ] Domínio
-- [ ] **prioritário** Consertar CI/CD
+- [ ] Lista de artistas
+- [x] **prioritário** Consertar CI/CD
 - [ ] **prioritário** JSON
 
 ![[Pasted image 20250224091048.png]]
