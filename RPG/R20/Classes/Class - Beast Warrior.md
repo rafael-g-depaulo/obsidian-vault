@@ -41,7 +41,7 @@ MULTI_FEATURES:
 
 NOTE_BEASTLY_CONSTITUITION:
 ### Beastly Constituition
-Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**.
+Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**. %%Alguns também tem um efeito positivo se você está **Sangrando**.%%
 
 NOTE_BLOODIED:
 **Sangrando (Bloodied).** Você é considerado **Sangrando** se você está com metade ou menos do seu HP máximo.
@@ -53,7 +53,7 @@ FEATS:
 | Keen Reflexes | Whenever you're raging, you add your SEN mod to defense if you're not wearing heavy armor.                                                                                                                                                                                                                                                   |                       |
 | Thick Hide    | You can spend a movement action and 1 PM to gain 1d12 temporary HP. You can spend a multiple of +2PM, and increase the temporary HP by that amount of d12.                                                                                                                                                                                   |                       |
 | Blood Healing | While below HP and raging, the first attack you hit on your turn heals you for your CON mod                                                                                                                                                                                                                                                  | lv5 de Beast Warrior. |
-| Wild Senses   | Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each. |                       |
+| Wild Senses   | Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 1 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each. |                       |
 
 NOTE_BLOODIED
 
