@@ -1,4 +1,5 @@
 {
   "format": "YY-MM-DD",
-  "folder": "Journal"
+  "folder": "Journal",
+  "autorun": true
 }

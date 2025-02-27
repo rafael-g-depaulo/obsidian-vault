@@ -9,7 +9,7 @@
   "tabSize": 2,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "newFileLocation": "current",
   "showLineNumber": true,
   "attachmentFolderPath": "./attachments",
