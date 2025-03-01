@@ -126,7 +126,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-502/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-514/
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
