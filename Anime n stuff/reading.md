@@ -70,7 +70,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-121
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-52
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-12/
-- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-25
+- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-44
 - https://hivetoon.com/series/study-group/chapter-13
 
 ## Caught up
