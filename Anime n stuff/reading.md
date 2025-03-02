@@ -35,7 +35,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
 - https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
 - https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
-	- https://manhwatop.com/manga/infinite-level-up-in-murim-series/
+	- https://kaliscan.io/manga/76124-rock-is-a-ladys-modesty
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 - Rogue Sun
