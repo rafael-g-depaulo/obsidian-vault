@@ -71,7 +71,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-52
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-12/
 - https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-44
-- https://hivetoon.com/series/study-group/chapter-13
+- https://hivetoon.com/series/study-group/chapter-40
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
