@@ -35,7 +35,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
 - https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
 - https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
-	- https://kaliscan.io/manga/76124-rock-is-a-ladys-modesty
+- https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants
+- https://kaliscan.io/manga/76124-rock-is-a-ladys-modesty
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 - Rogue Sun
@@ -70,8 +71,8 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-121
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-52
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-12/
-- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-47
-- https://hivetoon.com/series/study-group/chapter-40
+- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-62
+- https://hivetoon.com/series/study-group/chapter-55
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
