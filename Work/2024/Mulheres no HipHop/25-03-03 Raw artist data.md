@@ -2,8 +2,6 @@
 
 Quebradas: Candangolândia, Cidade Estrutural, Guará, Park Way, Núcleo Bandeirante, Riacho Fundo I, Riacho Fundo II, Setor de Indústria e Abastecimento (SIA) e Setor Complementar de Indústria e Abastecimento (SCIA).
 
-  
-  
 
 ### VERA VERONICA  
 
@@ -1235,7 +1233,7 @@ Grafitti
 
 Valparaizo de Goias- GO 
 
-Siga - @maybucar instagram 
+Siga - @maybucar
 
 Mai entrou na cultura hip hop jovem, convivendo com rappers e se envolvendo com grafite, mas nunca se sentiu talentosa para fazer rap. Após um período de busca pessoal e maternidade, reencontrou sua paixão pela arte, especialmente através de encontros de grafite femininos e mistos. A pintura sempre esteve presente em sua vida, e você expressa gratidão ao hip hop por proporcionar um espaço para seu trabalho artístico. Agora, fazer arte é uma forma de ser quem você realmente é. 
 
