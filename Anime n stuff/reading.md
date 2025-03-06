@@ -90,14 +90,14 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-60/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
-- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-117/)
+- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-124/)
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-514/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-520/
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
