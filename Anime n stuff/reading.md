@@ -46,14 +46,11 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
 
 ## Reading
-- [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
 - [I Roved Out (NSFW)](https://www.irovedout.com/comic/p-133/)
-- [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [MookHyang - Dark Lady](https://mangalivre.net/mookhyang---dark-lady/online/413334/capitulo/154#/!page29)
 - [Fish Survival](https://zscans.com/comics/surviving-as-a-fish/5340)
 - [Knuckle Girl](https://zeroscans.com/comics/knuckle-girl/2305)
-- [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
 - https://mangatoto.com/chapter/2174716
 - https://mangatoto.com/chapter/2370921
 - https://mangatoto.com/chapter/1933835
@@ -77,59 +74,65 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-150/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-151/)
 - https://glitterandguilt.thecomicseries.com/comics/81/#content-start
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
-- [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
-- [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
-- [Revenge of the Sword Hound](https://asuratoon.com/8612194254-revenge-of-the-iron-blooded-sword-hound-chapter-74/)
-- [Life of a Magic Academy Student](https://asuratoon.com/4622438374-life-of-a-magic-academy-mage-chapter-77/)
-- [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
-- [Devil Returns to School](https://asuratoon.com/4622438374-devil-returns-to-school-days-chapter-47/)
-- [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
-- [Priest of Corruption](https://asuratoon.com/8612194254-the-priest-of-corruption-chapter-50/)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
-- [Wandering Warrior of Wudang](https://asuratoon.com/8612194254-wandering-warrior-of-wudang-chapter-118/)
-- [Absolute Sword Sense](https://asuratoon.com/4622438374-absolute-sword-sense-chapter-68/)
 - [Estio](https://reaperscans.com/comics/4364-estio/chapters/33683072-chapter-92)
 - [Dororo Re:Verse](https://reaperscans.com/comics/3399-dororo-reverse/chapters/43088150-chapter-32)
 - [18 Levels of Hell](https://zeroscans.com/comics/horror-comes-i-have-18-levels-of-hell-inside-me)
 - [Moon Slayer](https://zscans.com/comics/moon-slayer/6231)
-- [Return of Mount Hua](https://asuratoon.com/4622438374-return-of-the-mount-hua-sect-chapter-108/)
-- [Murim Login](https://asuratoon.com/9331846205-murim-login-chapter-185/)
-- [Reaper of the Drifting Moon](https://asuratoon.com/1908287720-reaper-of-the-drifting-moon-chapter-85/)
-- [Hoarding in Hell](https://asuratoon.com/4622438374-hoarding-in-hell-chapter-60/)
 - [FFF trash hero](https://fffclasstrashero.com/manga/fff-class-trashero-chapter-172/)
-- [Reincarnated Assassin Swordsman](https://asuratoon.com/1398222385-the-reincarnated-assassin-is-a-genius-swordsman-chapter-34/)
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
-- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)s
-- [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
-- [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
-- [Return of the Crazy Demon](https://asuratoon.com/1908287720-the-return-of-the-crazy-demon-chapter-119/)
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-60/)
-- [Surviving the Game as a Barbarian](https://asuratoon.com/8612194254-surviving-the-game-as-a-barbarian-chapter-53/)
-- [Sword Fanatic Wanders Through the Night](https://asuratoon.com/1908287720-sword-fanatic-wanders-through-the-night-chapter-109/)
-- [Dungeon Odissey](https://asuratoon.com/1908287720-dungeon-odyssey-chapter-85/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
-- [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-112/)
-- [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-59/)
-- [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
-- [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
 - [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-117/)
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
-- https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
-- [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-514/
+
+## Reading on Asura
+- https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
+- [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
+- [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-112/)
+- [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-59/)
+- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)s
+- [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
+- [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
+- [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
+- [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
+- [Reincarnated Assassin Swordsman](https://asuratoon.com/1398222385-the-reincarnated-assassin-is-a-genius-swordsman-chapter-34/)
+- [Surviving the Game as a Barbarian](https://asuratoon.com/8612194254-surviving-the-game-as-a-barbarian-chapter-53/)
+- [Sword Fanatic Wanders Through the Night](https://asuratoon.com/1908287720-sword-fanatic-wanders-through-the-night-chapter-109/)
+- [Infinite Mage](https://asuratoon.com/infinite-mage-chapter-65-s1-end/)
+- [Return of the Crazy Demon](https://asuratoon.com/1908287720-the-return-of-the-crazy-demon-chapter-119/)
+- [Dungeon Odissey](https://asuratoon.com/1908287720-dungeon-odyssey-chapter-85/)
+- [Return of Mount Hua](https://asuratoon.com/4622438374-return-of-the-mount-hua-sect-chapter-108/)
+- [Murim Login](https://asuratoon.com/9331846205-murim-login-chapter-185/)
+- [Reaper of the Drifting Moon](https://asuratoon.com/1908287720-reaper-of-the-drifting-moon-chapter-85/)
+- [Hoarding in Hell](https://asuratoon.com/4622438374-hoarding-in-hell-chapter-60/)
+- [Wandering Warrior of Wudang](https://asuratoon.com/8612194254-wandering-warrior-of-wudang-chapter-118/)
+- [Absolute Sword Sense](https://asuratoon.com/4622438374-absolute-sword-sense-chapter-68/)
+- [Devil Returns to School](https://asuratoon.com/4622438374-devil-returns-to-school-days-chapter-47/)
+- [S-Classes that i Raised](https://asuracomics.com/4485330618-the-s-classes-that-i-raised-chapter-100/)
+- [Priest of Corruption](https://asuratoon.com/8612194254-the-priest-of-corruption-chapter-50/)
+- [My Healing Game](https://asuracomics.com/4485330618-my-healing-game-chapter-12/)
+- [Dragon Devouring Mage](https://asuracomics.com/dragon-devouring-mage-24/)
+- [Revenge of the Sword Hound](https://asuratoon.com/8612194254-revenge-of-the-iron-blooded-sword-hound-chapter-74/)
+- [Life of a Magic Academy Student](https://asuratoon.com/4622438374-life-of-a-magic-academy-mage-chapter-77/)
+- [SSS-Class Suicide Hunter](https://asura.nacm.xyz/sss-class-suicide-hunter-chapter-92/)
+- [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
+- [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
+- [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
+
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
 - [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
