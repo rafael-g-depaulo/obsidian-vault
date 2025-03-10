@@ -19,7 +19,7 @@
           "MC",
           "Rapper",
           "Cantora"
-        ],
+        ],z
         "location": "Estrutural - DF",
         "socials": "@Ingridgabrielybrito",
         "description": "Ingrid Gabriely, 24 anos, viveu intensamente e enfrentou desafios que a transformaram. Depois de passar por uma unidade de internação na adolescência, ela encontrou na música e na educação um caminho de reconstrução. O projeto RAP, criado dentro da unidade, foi essencial para seu despertar artístico e pessoal, contando com o apoio de educadores e referências do hip-hop, como Vera Verônika e Markão Aborígenes. Hoje, cursa Ciências Políticas e segue determinada a ampliar sua visão de mundo e sua atuação na sociedade. \n\nSua trajetória é marcada por aprendizado, resiliência e a certeza de que a arte e o conhecimento podem mudar vidas. A experiência com a medida socioeducativa reforçou seu compromisso com a justiça e a transformação pessoal. Inspirada por aqueles que acreditaram nela, Ingrid busca ser uma voz ativa para jovens em situação de vulnerabilidade, provando que é possível recomeçar e construir um novo futuro."
