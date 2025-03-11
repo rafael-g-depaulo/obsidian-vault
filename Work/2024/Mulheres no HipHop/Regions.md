@@ -620,6 +620,17 @@ TODO: revisar que 1 - de cada região não sumiu
         "description": "Minha trajetória artística começou aos 7 anos, quando aprendi a tocar violão, e logo os outros instrumentos começaram a me chamar atenção, como contrabaixo, guitarra, percussão e bateria. O canto também entrou na minha vida e, com o tempo, o freestyle e as batalhas de rima me conquistaram. Já escrevia poesias, mas a rima ao vivo nas batalhas foi uma experiência encantadora. Em 2015, passei a integrar a organização da Batalha das Gurias e, em 2018, entrei para o grupo de Rap África Tática. Em 2019, me envolvi com a Associação Molec. \n\nAtualmente, me apresento de forma solo, participo de shows com outros artistas e sou musicista em diversas bandas. Também realizo produção cultural itinerante com a Batalha das Gurias e a Batalha do Cinzeiro, em Brazlândia-DF. Além disso, sou Assistente Social, especializada pela FIOCRUZ no programa de Residência Multiprofissional em Álcool e Outras Drogas, onde exploro a importância da arte em processos terapêuticos, usando o \n\nHip Hop como ferramenta de diálogo. Participo ativamente de fóruns de mulheres no Hip Hop, como o Fórum Nacional de Mulheres no Hip Hop, e de outros espaços de formação, como o projeto \"Dona Imperatriz\", idealizado por Thabata Lorena."
       },
       {
+			  "name": "Loury",
+			  "titles": [
+			    "Grafitti",
+			    "Produção"
+			  ],
+			  "location": "Ceilândia- DF",
+			  "socials": "loury_lyma",
+			  "description": "Eu sou a artista Lou e nasci surda, pertencendo à comunidade surda. Fui forçada a tentar me comunicar pela voz, algo que nunca desejei. Desde pequena, enfrentei piadas sobre minha altura, pelos e até mesmo sobre minha aparência, sendo chamada de \"macaca\". Sempre tentei me encaixar, mas o preconceito por ser surda e ter características que não correspondiam aos padrões me fez sentir rejeitada. Isso me levou a tentar mudar, me raspando e buscando agradar aos outros. \n\nCom o tempo, percebi que nunca fui diferente de ninguém, apenas tenho características diferentes. A arte me ajudou a entender que sou especial do jeito que sou. Ela se tornou minha forma de expressão, me permitindo mostrar quem eu realmente sou e como me sinto. Meu corpo é exclusivamente meu, e eu sou quem decide quem quero ser.",
+			  "foto": "13- loury-OESTE.jpeg"
+			},
+      {
         "name": "Larissa de Oyá",
         "foto": "14-larissa oya- OESTE.jpg",
         "titles": [
@@ -655,7 +666,7 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Brazlândia- DF",
         "socials": "@ketlen_hoope",
-        "foto": "foto_here___________________________",
+        "foto": "16 - Ketlen Hoope - OESTE.jpeg",
         "description": "Nascida e criada em Brazlândia, Distrito Federal, frequentava desde pequenos eventos sociais na cidade, como a batalha do cinzeiro entre outros culturais da cidade. Comecei compor aos 10 anos fiz meu primeiro som com 14 anos tenho um álbum intitulado “Dona firmeza”, o rap pra mim foi minha porta de entrada pro futuro onde aprendi a importância de estudar e evoluir academicamente continuo na função e brevemente trazendo novos projetos e um novo álbum.  \n\nO Turismo e a cultura da minha quebrada, traz a raiz do hip hop e com tudo merece ser respeitado dentro da Brazlândia, onde indico o Ensaiaço e as batalhas da escada e do cinzeiro"
       },
       {
@@ -667,10 +678,10 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Ceilândia e Samambaia - DF",
         "socials": "@julianaraofc",
-        "foto": "foto_here___________________________",
+        "foto": "17 - Júlia Nara 0ESTE.jpg",
         "description": "A cultura hip hop aparece pra mim desde a adolescência quando adquiri meus primeiros \n\nCDs de rap nacional. Rádios comunitárias ainda no Piauí, aquela sequência me tocou. Em 2010 fundei o grupo Função Periférica em Samambaia, rap independente e consciente. Desde então passei a participar de grupos, coletivos e seminários sobre o hip hop. Fui me fortalecendo dentro da narrativa periférica onde a poesia me ajuda a entender o que sou hoje. Música, arte, compreensão da vida e fortalecimento das nossas raízes. \n\nLancei dois clipes com apoio de mulheres negras e apoio da Casa Akotirene residido em \n\nCeilândia norte. É o rap. Eu também sou fruto desse movimento"
       },
-      { "foto": "foto_here___________________________",
+      { "foto": "18- Tay Aires- OESTE.jpg",
         
         "name": "MINA TAY",
         "titles": [
@@ -692,11 +703,11 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Ceilândia Norte – DF",
         "socials": "@sterheidy",
-        "foto": "foto_here___________________________",
+        "foto": "19-STEPHANE HEIDY- OESTE .jpeg",
         
         "description": "Stephane Heidy, natural de Ceilândia Norte – DF, iniciou sua trajetória na cultura hip hop como assessora do Grupo de Rap Versão 157, entre 2013 e 2014. Em 2015, fundou o Coletivo Social Cultural Sol Nascente Trecho 3, e logo em seguida, junto com Débora Glamourosa, criou o grupo de rap feminino \"Minas de Stylu\". O grupo participou de eventos como \"Hip Hop Contra a Fome\" e \"Outubro Rosa\", mas após quatro anos de atividades, Stephane se afastou por questões pessoais, com a esperança de retornar. \n\nAlém do rap, Stephane é grafiteira desde 2015, tendo trabalhado com a empresa Rodrigo \n\nSilva por dois anos. Seu trabalho pode ser encontrado em locais como a Praça da Bíblia (P Norte), Casa do Cantador (PSul), e Praça dos Eucaliptos, mais conhecida como Zoca, em sua comunidade. Ela destaca a falta de oportunidades e espaços, especialmente para as mulheres, mas segue com o desejo de contribuir mais para a cultura e a arte local."
       },
-      { "foto": "foto_here___________________________",
+      { "foto": "20- Gabrielle Inocencio Kashuu- OESTE.jpg",
         
         "name": "Gabi Kashuu",
         "titles": [
@@ -724,7 +735,7 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Sol Nascente, Ceilândia – DF",
         "socials": "@_realleza",
-        "foto": "foto_here___________________________",
+        "foto": "21- Realleza- oeste.jpg",
         "description": "Rebeca Elen, conhecida artisticamente como Realleza, nasceu em outubro de 1995, filha de mãe mineira e pai moçambicano, e cresceu na Ceilândia/Sol Nascente, DF. Começou a cantar na igreja aos 10 anos e aos 13 migrou para o RAP, influenciada por um projeto social na escola que abordava temas como racismo e preservação do meio ambiente. Realleza é rapper, cantora, compositora, advogada, arte educadora e pesquisadora acadêmica, e atua com uma visão interseccional de raça, gênero e sexualidade. \n\nSua música é marcada por empoderamento ancestral matriarcal, com rimas originais e um estilo que transita entre o RAP e o R&B. Como mulher negra, bissexual e periférica, ela expressa sua estética afrofuturista e autêntica. Como advogada, criou o projeto Minha Arte Meus Direitos, oferecendo consultoria jurídica para artistas independentes, com foco em mulheres, negros, indígenas, LGBTQIAP+ e periféricos. Além disso, é pesquisadora dos Direitos Humanos e do Movimento Hip-Hop, com ênfase em temas sociais e culturais."
       },
       {
@@ -734,7 +745,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "danças urbanas"
         ],
         "location": "Ceilândia- DF",
-        "foto": "foto_here___________________________",
+        "foto": "22- Angela Rocha. OESTE.jpg",
         "socials": "@angelarocha52",
         "description": "Tudo começou em 1995, quando morava em Brazlândia e acompanhava meu irmão nos eventos. Na época, não havia referências de meninas, então me juntava aos meninos e treinava com meu amigo Lila. Foi assim que comecei a entrar nas rodas, e todo mês íamos para o encontro no Conjunto Nacional. Depois, fui para uma excursão em Goiânia e conheci as meninas Jane e Rose da Reforços Break. Comecei a treinar de verdade, fazer apresentações e viajar com elas, formando uma verdadeira família. \n\nAlguns anos depois, Cabala (Rivas), nosso líder, se converteu e conheci as BSBGirls (Bianca e Fabiana), mas minha passagem pelo grupo foi curta devido à dificuldade com a logística dos treinos. Foi quando conheci Fuzio (Júlio) da DF Zulu, com quem comecei a treinar, e logo entrei para a crew. Decidi sair e montei minha própria crew, o Soul Gueto \n\nStyle, em 2007, inicialmente formado por mim, Bgirl Jô e Bgirl Ellenzinha. Posteriormente, entraram Bgirl Tuca, Bgirl Tay, Bgirl Vanessa e Bgirl Dayse, com o objetivo de incentivar o B.girling feminino, transformando-as em verdadeiras guerreiras."
       },
@@ -747,7 +758,7 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Brazlândia – DF",
         "socials": "@belladona_oficial",
-        "foto": "foto_here___________________________",
+        "foto": "23-BELADONA- OESTE.jpeg",
         
         "description": "BellaDona, nascida Tatiane Nunes Lima em Brazlândia, é uma rapper, cantora, compositora, escritora e assistente social. Com raízes indígenas, iniciou sua carreira cantando na igreja e, na adolescência, se envolveu com o rap. Começou como backing vocal e logo se destacou como MC, compondo suas próprias letras. Com a mixtape Por Amor às Moedas, entrou para o grupo Kamika-Z, solidificando sua posição no rap. \n\nCom um estilo que mistura gangsta rap, r&b e funk, BellaDona aborda temas como empoderamento feminino e a realidade da periferia. Seu primeiro disco, A Flor da Pele, e a música \"Coração de Neon\", da trilha do filme Coração de Neon, a destacaram nacionalmente. BellaDona também teve seu trabalho registrado no documentário Elas na Rima e foi homenageada no Mural da Ceilândia. Após um acidente de carro em 2024, segue firme na recuperação e trabalha em seu quarto disco, Senhor e Senhora Smith."
       }

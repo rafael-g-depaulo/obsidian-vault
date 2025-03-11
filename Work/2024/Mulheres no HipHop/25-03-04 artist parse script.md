@@ -18,7 +18,7 @@ const regions = rawString
 	    artistas: artistasStr,
 	  } = region.groups ?? {}
 	  
-	  const artistaRegex = /### (?<name>.+)\W+(?<titles>.+)\W+(?<location>.+)\W+Siga - (?<socials>.+)\W+(?<description>(?:[^#].*\n+)+)/gmu
+	  const artistaRegex = /### (?<name>.+)\W+(?<titles>.+)\W+(?<location>.+)\W+Siga ?-? ?(?<socials>.+)\W+(?<description>(?:[^#].*\n+)+)/gmu
 	
 	  const artistas = artistasStr
 	  	.matchAll(artistaRegex)
