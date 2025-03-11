@@ -364,7 +364,7 @@ Conhecimento/Produção
 
 Varjão DF
 
-Siga @marcelacoelho03 / @palcocultura 
+Siga - @marcelacoelho03 / @palcocultura 
 
 Marcela Coelho, turismóloga e produtora cultural, é uma das líderes do coletivo Batidão Sonoro e tem sido uma peça chave na promoção da cultura hip hop no Distrito Federal. Ao longo de 20 anos de atuação, ela criou eventos importantes como Luau Sonoro, Hip Hop vs Ragga e Skate Sound System, contribuindo para a valorização do hip hop em espaços públicos e promovendo a integração da comunidade. 
 
@@ -378,7 +378,7 @@ Conhecimento / Produção/ Curadoria
 
 Varjão DF 
 
-Siga @jaqueffernandess / @afrolatinas / @festivalatinidades 
+Siga - @jaqueffernandess / @afrolatinas / @festivalatinidades 
 
 Jaqueline Fernandes, nascida em Planaltina-DF, é uma das principais figuras na promoção da cultura hip hop e das culturas negras no Distrito Federal. Sua trajetória inclui mais de 100 produções no hip hop, como festivais, shows e documentários, além de textos na coleção "Pelas Periferias do Brasil". Fundadora da Griô Produções, coordenou o I Prêmio Hip Hop e o palco dedicado ao hip hop no evento Brasília Outros 50, em 2010, um marco histórico para a cidade. Como subsecretária de cultura (2015-2018), foi fundamental para a criação de editais e prêmios para agentes do hip hop e contribuiu para a política de livro e leitura, incluindo batalhas de rima e slams. 
 
@@ -537,7 +537,7 @@ MC/ Rapper/Cantora/Produção
 
 Ceilândia -DF 
 
-Siga @laiz.cecilia 
+Siga - @laiz.cecilia 
 
 Laiz Cecília, natural de Brasília/DF, é uma artista multifacetada da cultura Hip Hop, atuando como rapper MC, apresentadora e redatora. Desde a infância, foi impactada pelas batidas e letras do Rap, e em 1998 iniciou sua jornada no movimento Hip Hop gospel, onde teve seu primeiro contato com o microfone. Ao longo dos anos 2000, se envolveu em eventos culturais e dividiu palco com grandes nomes do rap nacional. Em 2010, após um diagnóstico de câncer hepático, se afastou da cena, mas o Rap continuou sendo sua fonte de força e inspiração. 
 
@@ -793,7 +793,7 @@ MC/ Rapper / Grafitti / Produção Cultural / Literatura de Rua
 
 Taguatinga sul -DF 
 
-Siga @vulgomarinao 
+Siga - @vulgomarinao 
 
 Tenho minha trajetória iniciada pelo meu nascimento que já vem de quebrada, criado em QnQ na Ceilândia norte desde 1992 e já familiarizado com o rap e o grafitti e com o teatro representando as figuras importantes do graffiti que foram criminalizadas. Desde então me apaixonei pelo teatro e pela arte de rua ao mesmo tempo e com isso veio os saraus de poesia que me permitia expor minhas escritas que antes eram só minhas e já faziam parte de várias realidades além da minha. Quanto tive consciência de que já não se tratava mais só de mim e da minha história, foi que aprendi a andar em coletivo e que várias histórias juntas formam uma comunidade mais forte e capaz. E foi quando comecei a participar de coletivos como sarau-vá , slam das minas, comboio percussivo, entre vários outros até hoje com a Transcrew que é um coletivo de grafiteires trans. 
 
@@ -813,7 +813,7 @@ MC/ Rapper/Cantora/Produção/Literatura de Rua
 
 Taguatinga – DF 
 
-Siga @isiszavlyn 
+Siga - @isiszavlyn 
 
 Me chamo Isís Zavlyn, sou uma travesti preta, nascida e criada na M-Norte, moro em Taguatinga-DF, sou uma artista independente e periférica que desde de pequena esteve inserida no âmbito da arte. Já realizei diversas apresentações e Participei de vários projetos culturais, sou a idealizadora da Batalha do Grude 1° batalha de rap voltada ao público LGBTQIA+. Hoje, estou fomentando a minha carreira solo com o intuito de transformar e inspirar vidas com a minha arte. Atualmente sou integrante da casa de Laffond onde carrego o título de Princesa da Casa. (Cultura Ballroom). 
 
@@ -823,7 +823,7 @@ MC/ Rapper/Cantora/ Grafitti / Produção /Conhecimento
 
 Samambaia – DF 
 
-Siga @Karolynetuyane 
+Siga - @Karolynetuyane 
 
 Karolyne Tuyane, conhecida como MC Lorak, é natural de Paraíso do Tocantins (TO) e mora em Samambaia (DF). Formada em Serviço Social pela UnB, conheceu as batalhas de rima na Batalha da Escada, em 2015, em um evento exclusivo para mulheres. Desde então, permaneceu ativa no cenário do rap e integrou a organização da Batalha das Gurias (BdG), um movimento feminino de empoderamento no hip-hop, onde atua até hoje. Também fez parte do coletivo Batalha da Escada por quatro anos, promovendo a cultura negra e periférica na UnB. Participou de eventos importantes como Hip-Hop contra a fome e Elemento em Movimento. Em 2018, iniciou sua trajetória no grafite, assinando como Lork, e tem conquistado espaço pela representatividade e resistência. Para Lorak, o Hip-Hop é uma ferramenta de luta e transformação social. Samambaia sempre acolheu o Hip-Hop, com pontos de encontro como o Complexo Cultural, Galpão do Riso e o Parque Três Meninas. 
 
@@ -999,7 +999,7 @@ Marginal 
 
 Planaltina - DF 
 
-Siga @ravenacarmo / @poesianasquebradas /@casadohiphopplanaltina / @institutoperiferialivre 
+Siga - @ravenacarmo / @poesianasquebradas /@casadohiphopplanaltina / @institutoperiferialivre 
 
 Ravena do Carmo Silva é uma mulher inspiradora de Planaltina, DF, cuja trajetória é marcada por superação, ativismo e dedicação à Cultura Hip Hop. Mãe solo, pedagoga, mestre em políticas públicas e educadora popular, encontrou no graffiti uma expressão libertadora durante um período de internação, influenciada pelo grafiteiro Rafael Jet Mix. Determinada a mudar de vida, formou-se na UnB em Licenciatura em Ciências Naturais e Pedagogia, e concluiu seu mês. Fundadora do coletivo Poesia nas Quebradas e do NEOLIM, publicou seis livros, com destaque para "Poesia nas Quebradas" e "Vozes e Escritos do Gueto". Idealizadora de diversos projetos sociais, como o Empodera Quebrada e Saberes Inclusivos da Cultura Hip Hop, atua pela inclusão e valorização da comunidade periférica. Ravena também fundou o Instituto Periferia Livre e a Casa de Hip Hop de Planaltina. 
 
@@ -1069,7 +1069,7 @@ Grafitti / Produção / Arte- Educação 
 
 Planaltina - DF 
 
-Siga @iasmimkali @kali.grafita 
+Siga - @iasmimkali @kali.grafita 
 
 Nascida no interior de São Paulo, de família goiana e paulista, mora em Planaltina-DF desde 2011. Formada em Desenho Industrial pela UnB, é grafiteira, artista plástica, designer e tatuadora. Faz graffiti desde 2011 e fundou a Trupe S.A. Crew em 2016, com quem realiza projetos culturais e educacionais. Coordenadora do projeto Trupe Urbana desde 2019, promove a formação de jovens artistas da periferia de Brasília. Feminista, retrata mulheres reais em suas obras e ensina graffiti a adolescentes. Ganhou o 
 
@@ -1193,7 +1193,7 @@ Produção/Conhecimento 
 
 Planaltina DF 
 
-SIGA @eullayaa 
+Siga - @eullayaa 
 
 Eulla Yaá, 31 anos, travesti, moradora de Planaltina DF. Professora formada pela 
 
@@ -1207,7 +1207,7 @@ MC/RAP 
 
 Planaltina DF 
 
-Siga @alinemc_ 
+Siga - @alinemc_ 
 
 Aline Florêncio da Silva, conhecida como Aline Mc, é uma influente artista de 26 anos de Planaltina, destacando-se na cena cultural do Distrito Federal. Sua carreira começou nas batalhas de rima do Hip Hop, onde rapidamente ganhou visibilidade através do YouTube. Além de sua trajetória artística, Aline é comprometida com a comunidade, participando de projetos sociais em escolas e centros de ressocialização infantil. Ela também promove a cultura afro-brasileira por meio de sua arte, fortalecendo a identidade cultural. Em 2019, Aline se mudou para São Paulo, onde trabalhou com produtores renomados como DJ Kaique e a produtora Love Funk. Atualmente, acumula mais de 1,2 milhões de seguidores nas redes sociais e é reconhecida como uma das maiores influenciadoras da região, consolidando sua presença na música e nas atividades sociais. 
 
@@ -1417,6 +1417,6 @@ Breaking/Danças Urbanas 
 
 Cidade Ocidental – GO 
 
-Siga @branca.aguilar 
+Siga - @branca.aguilar 
 
 Esta artista conheceu o hip-hop em 2011 através de um projeto social que a introduziu ao breaking. Apaixonou-se pela dança e venceu competições como Mulheres Batom Battle e Quando as Ruas Chamam. Fez parte dos grupos Rock Ninjas e WE CAN DO IT BGIRLS. Em 2016, após uma lesão medular que a deixou cadeirante e tetraplégica, manteve-se resiliente e determinada, continuando a atuar como jurada no mundo do breaking. É vista como um símbolo de superação e inspiração, dedicando-se a estudar e a partilhar a sua história para motivar outros. Vive o hip-hop com amor e gratidão, servindo de exemplo de força e resistência.**
