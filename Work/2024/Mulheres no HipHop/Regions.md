@@ -761,7 +761,19 @@ TODO: revisar que 1 - de cada região não sumiu
         "foto": "23-BELADONA- OESTE.jpeg",
         
         "description": "BellaDona, nascida Tatiane Nunes Lima em Brazlândia, é uma rapper, cantora, compositora, escritora e assistente social. Com raízes indígenas, iniciou sua carreira cantando na igreja e, na adolescência, se envolveu com o rap. Começou como backing vocal e logo se destacou como MC, compondo suas próprias letras. Com a mixtape Por Amor às Moedas, entrou para o grupo Kamika-Z, solidificando sua posição no rap. \n\nCom um estilo que mistura gangsta rap, r&b e funk, BellaDona aborda temas como empoderamento feminino e a realidade da periferia. Seu primeiro disco, A Flor da Pele, e a música \"Coração de Neon\", da trilha do filme Coração de Neon, a destacaram nacionalmente. BellaDona também teve seu trabalho registrado no documentário Elas na Rima e foi homenageada no Mural da Ceilândia. Após um acidente de carro em 2024, segue firme na recuperação e trabalha em seu quarto disco, Senhor e Senhora Smith."
-      }
+      },
+      {
+          "name": "Nay Luz",
+          "titles": [
+            "MC",
+            "Produção",
+            "Conhecimento"
+          ],
+          "location": "Ceilândia - DF",
+          "socials": "@nayanex",
+          "description": "Nayane, nascida em Ceilândia e vinda de uma família de nordestinos e mineiros, sempre teve o sonho de fazer algo grande. Sua determinação moldou sua trajetória, marcada pela busca incessante por conhecimento e pelo entendimento da vida por meio dos espaços e das pessoas ao seu redor. Ela estuda e pesquisa a saúde mental dos artistas do Distrito Federal. \n\nCom habilidades diversas, Nayane é artesã, cosmetóloga, comunicadora, terapeuta comunitária, empreendedora, produtora cultural, poeta e mestre de cerimônias. Fundadora da Cangaço Produções Periféricas e co-fundadora da Propro Produções, ela é uma referência na cultura Hip Hop do DF, trabalhando na preservação da memória artística e na construção do inventário local do movimento. Além de coordenar o projeto Odara Melanina, ela é reconhecida por sua atuação em eventos como o Porão do Rock e Bienal do Livro, e foi premiada com o Prêmio Mulher Negra da Cultura FAC 2022.",
+          "foto": "24 Nay Luz "
+        },
     ]
   },
   {
@@ -784,34 +796,78 @@ TODO: revisar que 1 - de cada região não sumiu
 		        "Produção ",
 		        "Conhecimento"
 		    ],
+        "foto": "0 - Thabata Lorena- SUDESTE .jpg",
 		    "location": "Taguatinga sul -DF",
 		    "socials": "@thabata.lorena",
 		    "description": "Sou maranhense de Imperatriz (MA) e migrei para Brasília em busca de uma vida melhor, estabelecendo-me em Samambaia. Lá, conheci o rap do DF, que transformou minha visão de mundo e foi minha escola, especialmente por ter abandonado os estudos cedo. Comecei a rimar em 2004 e participei da formação da primeira roda de freestyle do DF, os MC's de Classe, até 2009. Com o nascimento do meu primeiro filho, descobri-me arte-educadora no Sol Nascente, ensinando cultura afro-brasileira com o hip hop como método de educação crítica. Integrei o coletivo Mercado Sul Vive, valorizando saberes tradicionais, o que influencia minha produção musical até hoje. Lançei meu primeiro álbum em 2014 e o DVD Novidades Ancestrais em 2017. Em 2021, criei o projeto Dona Imperatriz, impulsionando carreiras de cantoras do DF e fortalecendo mulheres no rap. Este ano, lançarei um disco em um espetáculo teatral com orquestra, explorando futuridades afro-brasileiras e convidando a periferia a ocupar espaços culturais."
 			},
 			{
-        "name": "Dona Gi",
+				"name": "Rodrigues Marion",
+				"titles": [
+					"MC",
+					"Rapper ",
+					"Grafitti ",
+					"Produção Cultural ",
+					"Literatura de Rua"
+				],
+				"location": "Taguatinga sul -DF",
+				"socials": "@vulgomarinao",
+				"description": "Tenho minha trajetória iniciada pelo meu nascimento que já vem de quebrada, criado em QnQ na Ceilândia norte desde 1992 e já familiarizado com o rap e o grafitti e com o teatro representando as figuras importantes do graffiti que foram criminalizadas. Desde então me apaixonei pelo teatro e pela arte de rua ao mesmo tempo e com isso veio os saraus de poesia que me permitia expor minhas escritas que antes eram só minhas e já faziam parte de várias realidades além da minha. Quanto tive consciência de que já não se tratava mais só de mim e da minha história, foi que aprendi a andar em coletivo e que várias histórias juntas formam uma comunidade mais forte e capaz. E foi quando comecei a participar de coletivos como sarau-vá , slam das minas, comboio percussivo, entre vários outros até hoje com a Transcrew que é um coletivo de grafiteires trans.",
+				"foto": "1-RODRIGUES- SUDESTE.jpeg"
+			},
+			{
+				"name": "Dona Gi",
+				"titles": [
+					"MC",
+					"Rapper",
+					"Cantora"
+				],
+				"foto": "2- DONA GI- SUDESTE-.jpg",
+				"location": "Samambaia – DF",
+				"socials": "@ddonaggi",
+				"description": "Sou parte da cultura e iniciei a carreira aos 14 anos !Com o grupo Cenáculo, segmento gospel!Em 2009 Participei do grupo As foras da lei !2011 dei início à carreira solo! Mais de 100 músicas entre participação e solo. Dona de casa, mãe solo, mas com muitos sonhos e muita coragem pra enfrentar a vida...Em minhas letras falo, sobre traumas, protesto, amor, empoderamento, um vendaval de emoções vividas e sofridas ...Sempre quis mostrar a força da mulher preta e que a desigualdade social não prevaleça. A voz tem que ser ouvida em todos nós cantos...Resistência, lealdade, fé e esperança! Sou forte, sou guerreira, sou a mulher brasileira...25 anos ..."
+			},
+			{
+				"name": "Isís Zavlyn Bratz",
+				"titles": [
+					"MC",
+					"Rapper",
+					"Cantora",
+					"Produção",
+					"Literatura de Rua"
+				],
+				"location": "Taguatinga – DF",
+				"socials": "@isiszavlyn",
+				"description": "Me chamo Isís Zavlyn, sou uma travesti preta, nascida e criada na M-Norte, moro em Taguatinga-DF, sou uma artista independente e periférica que desde de pequena esteve inserida no âmbito da arte. Já realizei diversas apresentações e Participei de vários projetos culturais, sou a idealizadora da Batalha do Grude 1° batalha de rap voltada ao público LGBTQIA+. Hoje, estou fomentando a minha carreira solo com o intuito de transformar e inspirar vidas com a minha arte. Atualmente sou integrante da casa de Laffond onde carrego o título de Princesa da Casa. (Cultura Ballroom).",
+				"foto": "3 - Ísis SUDESTE.JPG"
+			},
+      {
+        "name": "Lorak/ Lork",
         "titles": [
           "MC",
           "Rapper",
-          "Cantora"
+          "Cantora",
+          "Grafitti ",
+          "Produção ",
+          "Conhecimento"
         ],
-        "foto": "foto_here___________________________",
         "location": "Samambaia – DF",
-        "socials": "@ddonaggi",
-        "description": "Sou parte da cultura e iniciei a carreira aos 14 anos !Com o grupo Cenáculo, segmento gospel!Em 2009 Participei do grupo As foras da lei !2011 dei início à carreira solo! Mais de 100 músicas entre participação e solo. Dona de casa, mãe solo, mas com muitos sonhos e muita coragem pra enfrentar a vida...Em minhas letras falo, sobre traumas, protesto, amor, empoderamento, um vendaval de emoções vividas e sofridas ...Sempre quis mostrar a força da mulher preta e que a desigualdade social não prevaleça. A voz tem que ser ouvida em todos nós cantos...Resistência, lealdade, fé e esperança! Sou forte, sou guerreira, sou a mulher brasileira...25 anos ..."
+        "socials": "@Karolynetuyane",
+        "description": "Karolyne Tuyane, conhecida como MC Lorak, é natural de Paraíso do Tocantins (TO) e mora em Samambaia (DF). Formada em Serviço Social pela UnB, conheceu as batalhas de rima na Batalha da Escada, em 2015, em um evento exclusivo para mulheres. Desde então, permaneceu ativa no cenário do rap e integrou a organização da Batalha das Gurias (BdG), um movimento feminino de empoderamento no hip-hop, onde atua até hoje. Também fez parte do coletivo Batalha da Escada por quatro anos, promovendo a cultura negra e periférica na UnB. Participou de eventos importantes como Hip-Hop contra a fome e Elemento em Movimento. Em 2018, iniciou sua trajetória no grafite, assinando como Lork, e tem conquistado espaço pela representatividade e resistência. Para Lorak, o Hip-Hop é uma ferramenta de luta e transformação social. Samambaia sempre acolheu o Hip-Hop, com pontos de encontro como o Complexo Cultural, Galpão do Riso e o Parque Três Meninas.",
+        "foto": "3- Karolyne - SUDESTE.jpg"
       },
-      {
+			{
         "name": "Mamá",
         "titles": [
           "Produção"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "5-MAMA- SUDESTE .jpg",
         "location": "Recanto das Emas– DF",
         "socials": "@projetorapdf",
         "description": "Marcilene Gomes, conhecida como Mamá, é produtora cultural, arte-educadora, estudante de Pedagogia e Diretora Artística do Projeto RAP (Ressocialização, Autonomia e Protagonismo). É idealizadora de diversos projetos culturais voltados ao empoderamento da juventude preta e periférica do DF, como Sarau da Falsa Abolição, Slam Afronta, Escola do Flow e Batalha das Gurias. Fundou o Espaço Cultural Ubuntu em 2015, um ponto de encontro para a juventude negra periférica no Recanto das Emas, promovendo arte, educação e integração comunitária. O Ubuntu se destacou por seu impacto cultural, ganhando prêmios como Cultura e Cidadania (2016) e Elemento 5 (2017). Atualmente, Mamá lidera o multipremiado Projeto RAP, que utiliza o hip-hop como ferramenta de ressocialização e transformação social para adolescentes em vulnerabilidade. O projeto começou na Unidade de Internação de Santa Maria e se expandiu para outras unidades socioeducativas e escolas regulares. Mamá acredita na arte como meio de emancipação e transformação social, inspirada na filosofia Ubuntu, que valoriza compaixão, partilha e respeito."
       },
       {
-        "foto": "foto_here___________________________",
+        "foto": "6.1 prix SUDESTE.jpg",
         "name": "Prix Paixão",
         "titles": [
           "DJ ",
@@ -825,7 +881,6 @@ TODO: revisar que 1 - de cada região não sumiu
       {
         "name": "Bekka MC",
         "titles": [
-        "foto": "foto_here___________________________",
           "MC",
           "Rapper",
           "Cantora",
@@ -836,7 +891,7 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Samambaia– DF",
         "socials": "@souabekka ou @nerddoguetto",
-        "foto": "foto_here___________________________",
+        "foto": "7- BEKKA - SUDESTE .jpeg",
         "description": "Bekka MC teve seu primeiro contato com o rap aos 13 anos, no programa Jovem de Expressão, por meio do break e das rimas. Em 2014, encontrou na Batalha das Gurias (BDG) um espaço seguro e respeitoso para as mulheres rimarem, rompendo com o cenário predominantemente masculino e carregado de preconceitos de gênero. Isso a inspirou a sair da plateia e encarar o microfone, percebendo o impacto positivo da BDG na valorização de mulheres e pessoas trans na cena do DF. Desde então, tem apoiado o trabalho das organizadoras e acredita no poder transformador desses espaços de expressão. Além disso, participa do Sarau da Quarta, que ocorre no Cio das Artes em Ceilândia, e frequenta a Batalha do Metrô na estação terminal de Samambaia Norte, utilizando também o Centro Cultural da 302 para eventos e encontros da cultura Hip Hop."
       },
       {
@@ -844,22 +899,22 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "Grafitti"
         ],
+        "foto": "8 - Naiana Nati - SUDESTE.jpg",
         "location": "Recanto das Emas e Ceilândia- DF",
         "socials": "@naianatti",
         "description": "Iniciei no graffiti em 2006, inspirada pela revista Graffiti da Editora Escala. Comecei a pintar na rua ao conhecer a grafiteira Miah, e juntas formamos o grupo feminino SRA (Spray Rosa Atack Crew). Na época, havia poucas mulheres na cena, mas éramos unidas e participávamos de diversos eventos em Brasília e fora. Apesar de altos e baixos, nunca deixei de pintar.Hoje, trabalho com ilustração tradicional e digital, pinto telas e produzo produtos com minhas artes originais. Também organizo o Circuito Muralha com meu marido, o grafiteiro Soneka, revitalizando prédios em periferias e dando oportunidade a artistas periféricos de pintar em grande escala. Em 2020, abrimos a Graffiti Shop em Ceilândia Norte, focada em materiais de qualidade a preços acessíveis.Em 2021, fui a primeira mulher do DF selecionada para o Meeting Of Styles, o maior evento de graffiti do mundo, realizado no Paraná. Esse reconhecimento foi um marco na minha jornada de quase duas décadas no graffiti."
-      },"foto": "foto_here___________________________",
-        
+      },
       {
         "name": "Amanda Antunes",
         "titles": [
           "Conhecimento"
         ],
+        "foto": "9- AMANDA ANTUNES - SUDESTE.jpeg",
         "location": "Samambaia – DF",
         "socials": "@amandaarso",
         "description": "Sou Amanda Antunes, 29 anos, mãe, antropóloga e fotógrafa de Samambaia (Brasília/DF). Minha conexão com as mulheres do rap do DF começou em 2015, durante a graduação em Antropologia na UnB, inspirada pela professora Fabiene Gama. Investiguei a atuação de mulheres em grupos urbanos, explorando identidades, expressões culturais e resistência no rap de Brasília. De 2015 a 2018, acompanhei mulheres protagonistas do hip-hop em coletivos como Donas da Rima, Slam das Minas e Batalha das Gurias. Documentei suas histórias através da fotografia, destacando suas lutas e a energia do movimento nas periferias. Meu TCC foi “Mulheres do rap: uma antropologia compartilhada” (2018). Momentos marcantes incluem fotografar os 25 anos de carreira de Vera Verônika e acompanhar o nascimento do \"Slam Qbrada\" de Meimei Bastos. Essas experiências revelaram o poder transformador da arte na construção de identidades coletivas."
       },
       {
-        "foto": "foto_here___________________________",
         "name": "Majestosa",
         "titles": [
           "MC",
@@ -867,7 +922,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Conhecimento"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "10- Majestosa- SUDESTE.jpeg",
         "location": "Samambaia – DF",
         "socials": "@majestosa_ofc",
         "description": "Sou MC Majestosa (Kelly Cristina de S. Arruda) e iniciei no Rap em 2020, após ter um contato profundo com a cultura hip hop em 2019, enquanto cumpria medida socioeducativa no Projeto Rap. Nascida e criada no Guará com minha mãe diarista, enfrentei dificuldades financeiras e racismo na escola, o que me levou a me envolver com o crime. No Rap, encontrei um espaço de desabafo e liberdade de expressão, decidindo transformar isso em carreira. Hoje, sou artista, atriz, mãe e tenho músicas lançadas, poesias e textos em livros, além de prêmios conquistados. O Rap me resgatou de momentos difíceis e agora é minha fonte de renda. Me apresento em escolas, projetos sociais, saraus, slams e festas no DF e Entorno, fazendo parte da Coletânea Projeto RAP Volume 4."
@@ -877,7 +932,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "11- Amanda Silva - SUDESTE.jpg",
         "location": "Samambaia Norte - DF",
         "socials": "@amandaowls @lumeowls",
         "description": "Sou Amanda, conhecida como Owls no graffiti, mãe, artista, tatuadora, graffiteira e educadora social. Meu interesse pelo graffiti surgiu na infância, inspirado pelos amigos do meu irmão. Anos depois, comecei a frequentar eventos de break e batalhas de MCs, resgatando o encanto pelo graffiti. Com a ajuda de Soutto, Turko e DJ Léo Zulu, mergulhei nesse universo e entrei na crew Caligrafia Mardita, ligada ao Sarau Voz e Alma.Desde 2011, tenho levado minha arte a diversos lugares, participando de eventos como Graffiti Queens (SP), Bahia de Todas as Cores, Delas (BH) e outros pelo Brasil, além de atuar na cena do DF e Entorno. Desde 2017, ensino graffiti para crianças e jovens em áreas de vulnerabilidade social. Em 2019, fundei o espaço Cosmos Treze, inicialmente pensado para oficinas comunitárias, mas que hoje funciona como meu estúdio de tatuagem."
@@ -890,7 +945,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Conhecimento",
           "Rádio Comunitária e TV Cultural Periférica"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "12 - Edivânia Rachel- sudeste.jpg",
         "location": "Recanto da Emas – DF",
         "socials": "@edivaniarachel",
         "description": "Minha paixão pela música me levou a me tornar DJ, inspirada pelas Divas da Black Music como símbolos de empoderamento feminino. Formei-me na DJ \n\nAcademy Brasil, em Taguatinga-Sul, onde o incentivo do professor DJ Theo Andrade foi essencial para minha trajetória em um cenário predominantemente masculino. Iniciei com uma bolsa de curso básico em 2006, concedida por DJ Fabinho Tila, que reconheceu meu talento e paixão pela música eletrônica.Desde então, atuei em boates, projetos sociais e lutas sindicais, usando minha arte como forma de ativismo. Em 2023, entrevistei o Movimento Hip-hop no meu Programa de Música Eletrônica, destacando a luta por mais mulheres nos palcos. Além de DJ, sou educadora social, arte-educadora, arte-terapeuta e agente cultural, atuando em coletivos como Firma de Scratch, Reflexo das Ruas, Ubuntu, BPM e Positive. Recebi o Prêmio Hip-hop - Zumbi Edição Descentralizada, consolidando minha contribuição ao movimento Hip-hop no DF."
@@ -904,7 +959,7 @@ TODO: revisar que 1 - de cada região não sumiu
         ],
         "location": "Recanto da Emas e Taguatinga - DF",
         "socials": "@raissamiah",
-        "foto": "foto_here___________________________",
+        "foto": "13- Raissa Miah- SUDESTE.jpg",
         "description": "Raissa Miah entrou na cultura Hip Hop aos 14 anos, no Recanto das Emas-DF, começando pelo break e se apaixonando pelo graffiti. Inspirada por murais locais e amizades, encontrou na arte um senso de pertencimento e autoestima. Mesmo após engravidar aos 18 anos, continuou pintando e levou seu filho aos eventos. Aos 22 anos, conquistou uma bolsa integral em jornalismo na Universidade Católica. Desde então, atua como produtora cultural, empreendedora e artista visual, organizando eventos para mulheres e lançando produtos com suas estampas. Hoje, dedica-se ao graffiti, à comunicação e inspira seus dois filhos, valorizando o Hip Hop por ter moldado sua trajetória."
       },
       {
@@ -915,7 +970,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Literaturas de rua"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "14- NAJHU - SUDESTE.jpg",
         "location": "Taguatinga Norte - DF",
         "socials": "@najuh.mc",
         "description": "Najuh MC entrou no Hip Hop em 2022, escrevendo poesias e participando como espectadora. Em fevereiro de 2024, estreou como MC na Batalha da Dimas, em Taguatinga Sul, onde descobriu seu potencial artístico. Ingressou na organização das Batalhas da Fonte e da Dimas, mas fez uma pausa em julho para se dedicar à sua espiritualidade no Candomblé, conectando sua arte às suas raízes africanas. Focada em representar mulheres negras periféricas e seguidores de religiões de matriz africana, Najuh criou laços importantes nas batalhas de rima. Participa de saraus e sonha em unir \n\nCandomblé e Hip Hop em um evento inclusivo. Almeja reconhecimento nacional e deseja valorizar a cultura local de Brasília, especialmente a cena underground das batalhas de Taguatinga."
@@ -925,7 +980,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "DJ"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "15- DJ Janna- SUDESTE.jpeg",
         "location": "Taguatinga - DF",
         "socials": "@dj.janna",
         "description": "DJ Janna é pioneira no Hip Hop do Distrito Federal, sendo a segunda mulher a se tornar DJ de rap na região, inspirando outras mulheres a seguirem esse caminho. Cresceu em Ceilândia, berço do rap, e sua trajetória é um símbolo de resistência em um cenário dominado por homens. Com 13 anos de carreira, Janna conquistou reconhecimento por meio de dedicação e profissionalismo, mostrando que as mulheres podem ocupar qualquer espaço. Ela já se apresentou em escolas, orfanatos, centros de proteção a mulheres e participou de projetos sociais como o RAP Solidário. Além disso, ministrou workshops gratuitos em comunidades de baixa renda e eventos LGBTQIAP+, levando cultura e transformação para locais com baixo IDH."
@@ -937,7 +992,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "16 - Janine Mathias- SUDESTE.jpeg",
         "location": "QNL Chaparrau, Taguatinga Norte- DF",
         "socials": "@janinemathias",
         "description": "Janine Mathias é uma artista multifacetada, conhecida por sua autenticidade e fusão de RAP e samba. Seu envolvimento com o Hip Hop começou na adolescência na QNL e nos bailes da Smurphie Disco Club, passando pelo Movimento Hip Hop Gospel, onde atuou em presídios e fez parte do grupo Verdade Relatada. Ao lado de MCs de Classe, ajudou a construir a roda de rima na praça do D.I. e gravou com MC Hadda e DJ LM. Desde 2009, mora em Curitiba, onde iniciou sua carreira artística profissional. Com influências de jazz e soul, Janine já se apresentou com grandes nomes da música brasileira e lançou seu primeiro EP solo, \"Eu Quero Mergulhar\". É também idealizadora da ÍFÈ Personalizados e do projeto \"Samba da Nêga\". Atualmente, está lançando o álbum \"A ORAP do Meu Samba\", com previsão para o segundo semestre de 2024."
@@ -949,7 +1004,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "17- Dree-K. SUDESTEjpg.jpg",
         "location": "Samambaia - DF",
         "socials": "@Dreekoficial",
         "description": "DREE-K começou no Rap DF em 2004, acompanhando batalhas no Skate Park do Recanto das Emas. Em 2006, passou a participar ativamente, mas se afastou das batalhas devido ao machismo e rimas sem conteúdo. Aos 15 anos, começou a compor sobre a realidade da favela em Ceilândia, abordando temas como desigualdade e falta de educação. Inspirada pela literatura marginal, criou a identidade “DREE-K” em 2017, com o propósito de empoderar mulheres e desconstruir conceitos de invisibilidade feminina. Em 2021, enfrentou a prisão, mas encontrou na música um meio de liberdade e autoconhecimento. Sua primeira música, “Desconstruir”, foi produzida por DJ Raffa Santoro e aborda superação e desafios enfrentados por mulheres no rap."
@@ -962,7 +1017,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Conhecimento"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "18-Roselane SUDESTE.jpg",
         "location": "Samambaia - DF",
         "socials": "@Roselane.alves.3",
         "description": "Meu nome e Roselane Alves, alguns anos conheci o Rap ,anos atrás, curtia os encontros em uma cidade chamada de Ceilândia, marcados na época por muitos lazeres, então nessa época conheci um grupo chamado Cúmplice de Sina, que levava poesias as mulheres ao público em geral, então foi aí que conheci nossa guerreira Vera VerôniKa, Márcia e DJ  Alissom em 1999, eu fiz algumas participações em grupos da cidade era conhecida como kalanga ,hoje não canto, mas, tenho boa lembrança dessa época, muitas lembranças,... hoje sou mãe, dona de casa, guerreira, mulher, deixo aqui minha satisfação em partilhar, sobre minha história, gratidão..."
@@ -974,7 +1029,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "MC",
           "Produtora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "19- Meimei Bastos- SUDESTE.JPG",
         "location": "Samambaia - DF",
         "socials": "@ameimeibastos",
         "description": "Nascida em Ceilândia, com infância em Santa Maria e juventude em Samambaia, a escritora se inspirou nas vivências lúdicas da periferia e nas histórias de sua família para desenvolver sua escrita. Enfrentando violências raciais e de gênero, encontrou refúgio na literatura e no rap. Hoje é escritora, professora, produtora cultural, pesquisadora e coordenadora do Campeonato de Poesia Falada do DF. Publicou seu primeiro livro, Um verso e mei, em 2017, e A menina que bebeu água do chocalho em 2022. Ganhou prêmios como Cultura e Cidadania (2018), Aldir Blanc (2020) e Marielle Franco (2023). Atuante em movimentos sociais, também é editora da Revista Ruído Manifesto e colunista do Brasil de Fato DF."
@@ -992,20 +1047,22 @@ TODO: revisar que 1 - de cada região não sumiu
     "name": "Região Norte",
     "artistas": [
       {
-		    "name": "NIRVS",
-		    "titles": [
-		        "Grafitti"
-		    ],
-		    "location": "Vale do Amanhecer, Planaltina - DF",
-		    "socials": "@nirvsantos",
-		    "description": "Comecei no graffiti em 2020, durante a pandemia, praticando em casa com dicas de grafiteiros. Em 2021, participei do meu primeiro evento, o 4° Encontro de Graffiti do DF e Entorno, além de mutirões em várias regiões do DF e do edital W3 Arte Urbana, onde pintei uma parada de ônibus no SCS. Formada em Arquitetura e Urbanismo, já tinha experiência como artista visual, tatuadora e ilustradora, mas foi no graffiti que desenvolvi meu próprio estilo. A falta de referências de personagens negros e periféricos na minha formação acadêmica dificultava minha conexão com a ilustração. No graffiti, encontrei a liberdade para criar personagens que me representam."
-			},
+        "name": "Ravena Carmo",
+        "titles": [
+          "Conhecimento ",
+          "Produção ",
+          "Literatura"
+        ],
+        "location": "Marginal, Planaltina - DF",
+        "foto": "1 RAVENA NORTE .jpeg",
+        "description": "Ravena do Carmo Silva é uma mulher inspiradora de Planaltina, DF, cuja trajetória é marcada por superação, ativismo e dedicação à Cultura Hip Hop. Mãe solo, pedagoga, mestre em políticas públicas e educadora popular, encontrou no graffiti uma expressão libertadora durante um período de internação, influenciada pelo grafiteiro Rafael Jet Mix. Determinada a mudar de vida, formou-se na UnB em Licenciatura em Ciências Naturais e Pedagogia, e concluiu seu mês. Fundadora do coletivo Poesia nas Quebradas e do NEOLIM, publicou seis livros, com destaque para \"Poesia nas Quebradas\" e \"Vozes e Escritos do Gueto\". Idealizadora de diversos projetos sociais, como o Empodera Quebrada e Saberes Inclusivos da Cultura Hip Hop, atua pela inclusão e valorização da comunidade periférica. Ravena também fundou o Instituto Periferia Livre e a Casa de Hip Hop de Planaltina.",
+      },
 			{
         "name": "NIRVS",
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "2- Nirvana NORTEs.jpg",
         "location": "Vale do Amanhecer, Planaltina - DF",
         "socials": "@nirvsantos",
         "description": "Comecei no graffiti em 2020, durante a pandemia, praticando em casa com dicas de grafiteiros. Em 2021, participei do meu primeiro evento, o 4° Encontro de Graffiti do DF e Entorno, além de mutirões em várias regiões do DF e do edital W3 Arte Urbana, onde pintei uma parada de ônibus no SCS. Formada em Arquitetura e Urbanismo, já tinha experiência como artista visual, tatuadora e ilustradora, mas foi no graffiti que desenvolvi meu próprio estilo. A falta de referências de personagens negros e periféricos na minha formação acadêmica dificultava minha conexão com a ilustração. No graffiti, encontrei a liberdade para criar personagens que me representam."
@@ -1018,7 +1075,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Produtora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "3- Nimsai - NORTE_.JPG",
         "location": "Sobradinho II - DF",
         "socials": "@nimsai_exsoo",
         "description": "Minha relação com o Hip Hop começou em 2018 como a primeira jurada de batalhas de rima em Sobradinho, participando das batalhas. Em 2021, apresentei a batalha de rima na Feira Internacional do Livro, fui a primeira MC a conduzir uma etapa Estadual no Duelo Nacional de MCs no DF e a primeira mulher do Brasil a ser host na FMS (Freestyle Master Série). Em 2022, fui MC no Estadual da Bienal e fundei o coletivo Freestyle ao Quadrado em Sobradinho 2, que se destacou em Brasília. Com essa trajetória, me tornei uma das figuras mais importantes do freestyle no DF e representante dos MCs na construção do cinquentenário do Hip Hop."
@@ -1029,7 +1086,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Produtora ",
           "Fotografia"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "4-Bia NORTEjpeg.jpeg",
         "location": "Planaltina - DF",
         "socials": "@bianasbatalhas e @biacamphotos",
         "description": "Beatriz, de 25 anos e mãe de Luna, descobriu o Hip Hop em 2018 ao acompanhar batalhas de rima. Apaixonada pela cena, começou a fotografar as batalhas, revelando seu talento na fotografia. Logo, passou a gerenciar as redes sociais e a organizar eventos. Sua trajetória a levou ao Coletivo Poesia nas Quebradas, onde atua na produção e fotografia. Participou de projetos importantes, como \"Nas Quebras da Socioeducação\", no qual suas fotos ilustraram um livro produzido com jovens do sistema socioeducativo. O Hip Hop transformou sua vida, tornando-se sua principal paixão e fonte de expressão artística."
@@ -1039,7 +1096,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "DJ"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "5- Dj nilma naiz NORTE .jpg",
         "location": "Planaltina - DF",
         "socials": "@nilmanaiz (Instagram) nilma Naiz(Facebook)",
         "description": "DJ Nilma Naiz, de Planaltina, DF, cresceu cercada pela música, inspirada pelo irmão DJ. Participou de diversos grupos de dança no DF, o que solidificou sua conexão com a música. Após um relacionamento abusivo que a afastou da cena por 23 anos, retomou sua carreira em 2014. Hoje, toca na Noite Black em todo o DF, destacando-se em um cenário dominado por homens. Sonha em viver da discotecagem e defende a valorização do Hip Hop em Planaltina como forma de inclusão comunitária."
@@ -1051,7 +1108,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "6- FATIA- NORTE.jpeg",
         "location": "Sobradinho – DF",
         "socials": "@katiaferreiraduhz",
         "description": "Missionária Kátia começou no Hip Hop em 2000, quando morava no Riacho Fundo I e frequentava o Novo Gama. Lá, conheceu Stephanny e o grupo Comunidade X, iniciando sua trajetória na cultura. Foi convidada para integrar o grupo Consciência Coletiva, onde descobriu sua paixão pelo Hip Hop, tornando-se uma mulher mais forte e segura. Também participou de projetos com Comunidade X, Identidade e A Banca, vivendo momentos inesquecíveis na cena. Hoje, aos 52 anos, reside no DF e é evangélica, louvando rap gospel em sua congregação."
@@ -1063,9 +1120,21 @@ TODO: revisar que 1 - de cada região não sumiu
           "Danças Urbanas"
         ],
         "location": "Planaltina - DF",
-        "foto": "foto_here___________________________",
+        "foto": "7-Fabgirl - NORTE.jpg",
         "socials": "@fabgirl_br",
         "description": "Fabiana \"FaB*Girl\" Balduína começou no Breaking na ONG Ação Esperança (Vale do Amanhecer, Planaltina-DF) e tem quase 23 anos de carreira. Representou o Brasil no Mundial Battle of The Year/We Bgirlz na Alemanha (2008 e 2010) e foi a primeira B-girl da América do Sul jurada na Red Bull BC One World Final (2022). Fundou o BSBGIRLS, primeiro grupo de Breaking só de mulheres de Brasília, e o Batom Battle, maior festival de Breaking focado em gênero do Brasil. Criou a Drop Education, primeira escola híbrida de Breaking no país. Multiartista e produtora criativa, atua na economia criativa, danças urbanas."
+      },
+      {
+        "name": "Kali",
+        "titles": [
+          "Grafitti ",
+          "Produção ",
+          "Arte- Educação"
+        ],
+        "location": "Planaltina - DF",
+        "socials": "@iasmimkali @kali.grafita",
+        "description": "Nascida no interior de São Paulo, de família goiana e paulista, mora em Planaltina-DF desde 2011. Formada em Desenho Industrial pela UnB, é grafiteira, artista plástica, designer e tatuadora. Faz graffiti desde 2011 e fundou a Trupe S.A. Crew em 2016, com quem realiza projetos culturais e educacionais. Coordenadora do projeto Trupe Urbana desde 2019, promove a formação de jovens artistas da periferia de Brasília. Feminista, retrata mulheres reais em suas obras e ensina graffiti a adolescentes. Ganhou o Prêmio FAC Brasília (2020 e 2023) e o 061 Citadinas (2023). Seu maior graffiti é uma dançarina de quadrilha de 8 metros no Complexo Cultural de Planaltina-Df.",
+        "foto": "8- - Iasmim Kali. - NORTEjpg.jpg"
       },
       {
         "name": "Miriam Késsia",
@@ -1074,7 +1143,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "9- MIRIAM KESIA - NORTE.jpeg",
         "location": "Planaltina - DF",
         "socials": "@miriamkessia",
         "description": "Miriam Késsia, 32 anos e mãe de quatro filhos, é uma boleira, rapper e uma apaixonada pelo Hip Hop. Sua trajetória começou em 1998, quando participou do \"I Festival de Dança de Rua\" em Formosa - Goiás. Em 2004, aos 14 anos, integrou o grupo Razão Consciente e se tornou secretária do \"Programa Domingo Hip Hop\" na rádio 92,1 FM. Participou de diversos eventos e coletâneas, como o Abril Pro Rap. Tornou-se mãe em 2007 e enfrentou desafios para retornar à cena musical. Em 2012, após se mudar para Planaltina - DF, lançou músicas solo e colaborações com artistas locais. Apesar das dificuldades enfrentadas como mulher no movimento, Miriam está determinada a conquistar seu espaço e dar voz às mulheres fora dos padrões estabelecidos. Ela acredita que todas têm direito a serem ouvidas na cena do Hip Hop."
@@ -1084,7 +1153,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "10- ELLA- NORTE.jpeg",
         "location": "Sobradinho - DF",
         "socials": "@ladyellagraffiti",
         "description": "Alhandra, conhecida como ELLA, é moradora de Sobradinho e encontrou no graffiti uma forma de lidar com a depressão e ansiedade. Esse hobby se tornou um desafio criativo que a ajudou a sair da zona de conforto. Após dois anos de atuação, em 2021, enfrentou dificuldades pessoais, incluindo problemas de saúde e a perda de seu avô, o que a levou a dar uma pausa no graffiti. No entanto, uma nova alegria surgiu em sua vida: ela está grávida. Atualmente, ELLA decidiu priorizar sua família e seu bem-estar, mas mantém o amor pelo graffiti vivo. Ella planeja retornar à cena ainda este ano, mostrando que sua paixão pela arte não desapareceu."
@@ -1095,7 +1164,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Conhecimento"
         ],
         "location": "Planaltina - DF",
-        "foto": "foto_here___________________________",
+        "foto": "11- Rebeca Carmo - NORTE.jpeg",
         "socials": "@Rebecacarmo",
         "description": "Rebeca atua com mulheres em situações de violência, oferecendo apoio e promovendo a autoestima por meio do projeto \"Empodera Quebrada\". Ela trabalha com populações marginalizadas, como pessoas com deficiência e jovens do sistema socioeducativo, criando um espaço inclusivo. Sua coordenação no coletivo Poesia nas Quebradas e a promoção da cultura hip-hop valorizam a diversidade cultural local. Rebeca usa a arte para romper estigmas e celebrar identidades únicas da comunidade. A parceria com a Universidade de Brasília para incluir estudos de literatura marginal promove a educação como ferramenta de transformação social. Como empreendedora criativa e produtora cultural, ela inspira resiliência e inovação. Seus esforços reforçam valores de solidariedade e respeito à diversidade, melhorando a qualidade de vida na comunidade e fomentando um ambiente mais justo."
       },
@@ -1106,7 +1175,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "12- PAULA DIAS- NORTE.jpeg",
         "location": "Sobradinho - DF",
         "socials": "@pauladiashh",
         "description": "Paula Dias é uma talentosa cantora de Rap em Brasília, com uma carreira que começou em 1998 no grupo Eutanásia Rap, participando do primeiro Abril pro Rap em Sobradinho. Ao longo dos anos, ela se destacou como backing vocal em várias bandas, incluindo Destinos Opostos e Voz sem Medo, onde gravou a famosa música \"De Herói a Bandido\". Paula também colaborou com diversos grupos como Subconsciente e Hungria. Em 2008, foi convidada pela pioneira Vera Veronika para atuar como backing vocal, parceria que se mantém até hoje. Ela tem duas músicas solo, \"Indecisão\" e \"Detalhe\", produzidas por Duck Jay. Em 2017, participou do DVD comemorativo de 25 anos de Vera Veronika, chamado Mojubá. Atualmente, Paula continua suas participações e é apoio vocal oficial da Vera."
@@ -1116,17 +1185,27 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "13- RED LION- NORTE.jpeg",
         "location": "Planaltina - DF",
         "socials": "@red_lionn",
         "description": "A história de vida dessa artista é profundamente ligada à cultura Hip-Hop, que conheceu nas ruas do Jardim Roriz, onde participou de projetos sociais e observou a cena local. Começou sua trajetória com a dança nos anos 2000 e, movida pelo desejo de se expressar, fundou a Cerrado em Vênus, um empreendimento de roupas de couro e pedras naturais. Essa busca por independência surgiu após experiências de assédio e racismo em empregos convencionais. Em 2019, mudou-se para Arapoanga e se uniu à Crew de Graffiti Trickster, mergulhando na prática do graffiti. Hoje, faz parte das Crews A.CrIO, Trupe S.A e SDN, tendo conquistado prêmios em concursos como o \"Freestyle Convida\" e no projeto 061 Citadinas. Participa ativamente de mutirões e eventos culturais em Brasília e entorno, como \"A Cultura de Rua Invade\" e \"Ocupa Becos\". Para ela, viver essa cultura é uma forma de resistência e aprendizado constante."
+      },
+      {
+        "name": "DJ Rafaela Ramos",
+        "titles": [
+          "DJ"
+        ],
+        "location": "Sobradinho - DF",
+        "socials": "– djrafaelaramos",
+        "description": "DJ Rafaela Karollyne Lima Ramos, influenciada por seu pai DJ Hool Ramos, iniciou sua jornada musical desde pequena. Em 2020, lançou o programa \"Quarentena Music Beats\" durante a pandemia. Ela se destacou em eventos como o Baile do Hool Ramos e o projeto Mixtape BSB, sendo homenageada no Dia do DJ em 2023. Rafaela fez história ao ser a primeira criança a se apresentar no DMC BRASIL 2023 em São Paulo e a primeira DJ de Brasília nesse evento. Além disso, participou de eventos solidários, como o Natal Solidário na Câmara dos Deputados e \"DJ Tânia Convida Elas\", focado em ajudar mulheres em vulnerabilidade social. Em abril de 2024, abriu o show do artista Luccas Neto para mais de 20.000 crianças, consolidando sua trajetória promissora na música.",
+        "foto": "14- DJ Rafaela Ramos.jpeg"
       },
       {
         "name": "MIC",
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "15- MIC- NORTE .jpeg",
         "location": "Sobradinho - DF",
         "socials": "@michellecunha_mic",
         "description": "A artista paraense se mudou para Brasília em 2006 em busca de oportunidades e encontrou no graffiti uma forma de expressão. Embora já fosse pintora com formação em arte, começou a se aventurar nas ruas em 2012, aprendendo a usar spray com os artistas Moll e Sheep. Criou o personagem Corujinha, que abordava temas como abandono e solidão, e desenvolveu outros personagens, incluindo pássaros geométricos e mulheres. Um dos seus murais preferidos retrata a Cabocla Jurema, resultado de um edital com um grupo de mulheres. Ela também deu oficinas de graffiti para mulheres em Brasília e Belém, impactando mais de cem participantes. Organizou eventos como \"Elas por Elas\", focados na participação feminina no graffiti. Participou da exposição Mundez no Museu da República, enfrentando desafios relacionados ao machismo na cena artística. Atualmente, voltou ao norte, mas continua acompanhando a cena do graffiti em Brasília."
@@ -1137,7 +1216,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Breaking",
           "danças urbanas"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "16- KELLY- NORTE.jpeg",
         "location": "Sobradinho - DF",
         "socials": "@sandrakellylimasilva",
         "description": "A trajetória dessa mulher começa na primeira série do ensino fundamental em Ceilândia, onde percebe as desigualdades ao seu redor e enfrenta um ambiente escolar agressivo. Seu interesse pela dança surge imitando coreografias infantis e se intensifica com o filme Flashdance. Após se mudar para Taguatinga, experimenta aulas de jazz, mas desiste devido a críticas da professora, explorando outros esportes como taekwondo e basquete. Na adolescência, descobre o hip hop pela MTV e se apaixona pelo breaking, enfrentando preconceitos. Trabalhando em uma loja de skate, conhece b.boys que a introduzem no meio. Após um tempo no Rio de Janeiro, onde vê meninas dançando hip hop, retorna a Brasília e se junta ao BSB.GIRLS, o primeiro grupo feminino de breaking do DF. O grupo promove o empoderamento feminino e participa de eventos importantes. Formou-se em Licenciatura em Dança no Instituto Federal de Brasília e busca ensinar essa dança cheia de resistência e originalidade."
@@ -1147,7 +1226,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "DJ"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "17- DJ TÂNIA - NORTE.jpeg",
         "location": "Sobradinho - DF",
         "socials": "@djtaniablackmusic",
         "description": "DJ, mulher, negra, mãe, avó, do lar, empreendedora e produtora cultural. Natural de Brasília-DF, criada em Sobradinho-DF e residente há 08 anos na cidade de Ceilândia-DF. Com seu companheiro “DJ SMOOGG” realizada Bailes de música negra, música Flash Back (70´s, 80 e 90´s) e também eventos socioculturais sem fins lucrativos com objetivo de apoiar famílias não assistidas pelo poder público. Realiza também intervenções culturais em escolas públicas da Ceilândia com grupos de dança de rua."
@@ -1158,7 +1237,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Breaking",
           "danças urbanas"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "18- TACHA- NORTE.jpeg",
         "location": "Planaltina - DF",
         "socials": "@nathachacomch",
         "description": "Em um dia ensolarado de setembro de 2008, a autora recorda a primeira vez que ouviu o som do Hip Hop, sentindo o vento no rosto e a batida da música. A dança se tornou uma paixão que a ajudou a amadurecer, mesmo diante das limitações da periferia e da falta de referências femininas. Durante quatro anos, participou de campeonatos e eventos, valorizando mais o legado cultural do que a fama. O Hip Hop foi uma passagem formadora em sua vida, moldando-a como empresária, mãe e profissional. Apesar das dificuldades pessoais, encontrou no Hip Hop uma forma de expressão e resistência. Ela aconselha a reconexão com as raízes da cultura, enfatizando que o verdadeiro sucesso vem da vivência genuína do Hip Hop. O sentimento de felicidade e pertencimento é palpável em suas memórias, destacando que essa cultura salvou muitas vidas, incluindo a sua. A mensagem central é sobre a importância de perpetuar essa cultura e reconhecer suas raízes para vencer os desafios da vida."
@@ -1172,10 +1251,32 @@ TODO: revisar que 1 - de cada região não sumiu
           "Produção",
           "Conhecimento"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "19- Ediá- NORTE.JPG",
         "location": "Núcleo Rural Lago Oeste, Sobradinho II - DF",
         "socials": "@edia.oficial",
         "description": "Nascida em Rondon do Pará e criada em um quilombo, com uma rica herança cultural. Seu nome é uma mistura dos de seus pais e você se destaca como cantora, compositora, dançarina e brigadista florestal. Recentemente, lançou o projeto \"SOMAR\", que promove música e acessibilidade cultural para pessoas com deficiência. Influenciada por seu pai, um artista autodidata, você encontrou na música uma forma de expressão e autoconhecimento. Sua trajetória inclui desafios pessoais e profissionais, mas você sempre buscou sua independência e se cercou de boas energias. Através da arte, deseja proporcionar acesso e oportunidades para aqueles que vêm de sua comunidade. Sua espiritualidade é uma parte importante da sua vida, guiando suas ações e inspirações. Busca viver bem e trabalhar por um futuro melhor para as novas gerações."
+      },
+      {
+        "name": "Eulla Yaá",
+        "titles": [
+          "Produção",
+          "Conhecimento"
+        ],
+        "location": "Planaltina DF",
+        "socials": "@eullayaa",
+        "description": "Eulla Yaá, 31 anos, travesti, moradora de Planaltina DF. Professora formada pela \n\nFaculdade UnB Planaltina. Tem uma trajetória marcada pela educação popular e pelo exercício das ciências na periferia. Como arte educadora, acredita no poder do hip hop como ferramenta transformadora dentro das escolas, utilizando essa cultura para conectar, inspirar e educar adolescentes. Possui compromisso profundo com uma educação popular e conectada com as culturas juvenis, onde o hip hop não é apenas uma expressão artística, mas um espaço de aprendizado e resistência. \n\nCompõe a coordenação colegiada do Centro de Defesa do Direito da Criança e do Adolescente e o Núcleo de Estudos e Organização do conhecimento sobre literatura marginal-NEOLIM.",
+        "foto": "20 EULLA YAÁ.jpeg"
+      },
+      {
+        "name": "Aline MC",
+        "titles": [
+          "MC",
+          "RAP"
+        ],
+        "location": "Planaltina DF",
+        "socials": "@alinemc_",
+        "description": "Aline Florêncio da Silva, conhecida como Aline Mc, é uma influente artista de 26 anos de Planaltina, destacando-se na cena cultural do Distrito Federal. Sua carreira começou nas batalhas de rima do Hip Hop, onde rapidamente ganhou visibilidade através do YouTube. Além de sua trajetória artística, Aline é comprometida com a comunidade, participando de projetos sociais em escolas e centros de ressocialização infantil. Ela também promove a cultura afro-brasileira por meio de sua arte, fortalecendo a identidade cultural. Em 2019, Aline se mudou para São Paulo, onde trabalhou com produtores renomados como DJ Kaique e a produtora Love Funk. Atualmente, acumula mais de 1,2 milhões de seguidores nas redes sociais e é reconhecida como uma das maiores influenciadoras da região, consolidando sua presença na música e nas atividades sociais.",
+        "foto": "21 ALINE MC .jpeg"
       }
     ]
   },
@@ -1203,6 +1304,7 @@ TODO: revisar que 1 - de cada região não sumiu
 		        "Rapper",
 		        "Cantora"
 		    ],
+        "foto": "0-Jane - METROPOLITANA .jpg",
 		    "location": "Bairro Jardim Céu Azul, Valparaizo de Goiás- GO",
 		    "socials": "@Janemulhercomum",
 		    "description": "Jane realmente se destaca como uma força poderosa no rap feminino brasileiro! Desde a formação do grupo \"Atitude Feminina\", ela tem sido uma voz essencial para questões sociais e direitos das mulheres. Sua música \"Inocência\" é particularmente impactante, abordando um tema tão delicado e importante como a prostituição infantil, algo que muitas vezes é negligenciado.Além de sua carreira musical, o trabalho dela como professora no projeto Mixando mostra seu compromisso em capacitar jovens da periferia, oferecendo oportunidades de aprendizado e desenvolvimento. Isso é fundamental para criar novas perspectivas e possibilidades para esses alunos.As participações dela em eventos como a Expo Hip Hop e documentários também são uma prova de seu reconhecimento na cena cultural. É incrível ver como Jane não só faz música, mas também usa sua plataforma para promover mudanças e conscientização sobre questões sociais."
@@ -1212,7 +1314,7 @@ TODO: revisar que 1 - de cada região não sumiu
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "1- Mai - METROPOLITANA.jpg",
         "location": "Valparaizo de Goias- GO",
         "socials": "@maybucar instagram",
         "description": "Mai entrou na cultura hip hop jovem, convivendo com rappers e se envolvendo com grafite, mas nunca se sentiu talentosa para fazer rap. Após um período de busca pessoal e maternidade, reencontrou sua paixão pela arte, especialmente através de encontros de grafite femininos e mistos. A pintura sempre esteve presente em sua vida, e você expressa gratidão ao hip hop por proporcionar um espaço para seu trabalho artístico. Agora, fazer arte é uma forma de ser quem você realmente é."
@@ -1224,6 +1326,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Produtora ",
           "Trancista"
         ],
+        "foto": "2- DjKetlen METROPOLITANA.jpg",
         "location": "guas Lindas - GO",
         "socials": "@djketlen.niggaz",
         "description": "Ketlen, natural de Ceilândia e moradora de Águas Lindas, é DJ autodidata desde 2015, com forte ligação ao rap e à cultura hip-hop. Estudou discotecagem com DJ Ocimar e DJ Jean e participou de workshops com DJs renomados. Tocou em festivais como Makossa Baile Black, Festival Melanina, Favela Sounds, entre outros, além de colaborar em eventos sociais. Ganhou o prémio no festival Valor Periférico e já trabalhou com artistas como Ellen Oléria e Rico Dalazan. É DJ residente na festa Young Beat e no Encontro A.L., além de gerir o espaço Queens, focado em beleza afro e cultura urbana. Ela luta por reconhecimento e remuneração justa para artistas periféricos, mantendo-se firme na sua missão de inspirar e elevar a autoestima do seu público."
@@ -1235,7 +1338,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "3- Guerreira lilian METROPOLITANA.jpg",
         "location": "Jardim Céu azul -Valparaíso de Goiás-GO (Entorno Sul)",
         "socials": "@Guerreiralli",
         "description": "Guerreira Lilian iniciou a sua carreira no rap em 2001 com o grupo Vozes da Periferia, enfrentando a falta de espaço para mulheres no hip-hop. Em 2003/2004, integrou o grupo R.D.F. e, posteriormente, cofundou o Afrodinâmicarima. Em 2015, iniciou carreira solo, destacando-se no projeto Voz Ativa e trabalhando com o DJ W.Rap. Superou preconceitos e participou em diversos projetos culturais, como Hip Hop em Mim, Rapensando nas Escolas e Mulheres no Hip Hop. Recebeu prémios como o Hip Hop Zumbi e participou em eventos como o Festival Latinidades. Atualmente, é cantora e percussionista no Bloco Afro Rum Black e continua a representar o rap feminino no DF e Entorno."
@@ -1247,7 +1350,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "4- LIA- METROPOLITANA.jpeg",
         "location": "Cidade Ocidental -GO",
         "socials": "@lia.asdonnas",
         "description": "A carreira desta rapper começou num estúdio, inicialmente como uma brincadeira, que evoluiu para a formação do grupo As Donnas com duas amigas. Apresentaram-se em eventos como o BSB Rap Festival e o Festival Hip Hop do Cerrado, destacando-se no prémio Hutus entre as 10 principais bandas. Após a saída das outras integrantes, continuou a lançar músicas a solo, incluindo Infância, abordando temas como a pedofilia. Participou no projeto social Quebrada Em Cena, ministrando cursos em unidades de internação do DF. Atualmente, afastou-se dos palcos devido ao desânimo com o desrespeito à mulher e questões étnicas no movimento, focando-se na família e em outros projetos."
@@ -1259,17 +1362,29 @@ TODO: revisar que 1 - de cada região não sumiu
           "MC",
           "Literaturas de rua"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "5- LORY DE OYA- METROPOLITANA.jpg",
         "location": "Parque Esplanada 01- Valparaizo de Goiás- GO",
         "socials": "@lorydeoya/ @sarauda01",
         "description": "A trajetória desta artista começou na adolescência com poesias marginais e saraus na escola. Inspirada pelo SLAM DO CÉU, onde venceu sua primeira batalha, fundou o Sarau da 01 na sua quebrada, homenageando a sua comunidade. O evento cresceu com apoio do Quiosque Dom Gourmett, integrando artistas locais, batalhas de rima (Batalha da Walls) e graffiti, oferecendo espaço e voz à cultura periférica. Como mulher indígena, sente-se acolhida pelo movimento hip-hop, promovendo pensamento crítico, cultura e lazer na comunidade. O projeto é uma forma de resistência contra preconceitos, crime e depressão, fortalecendo a identidade cultural."
+      },
+      {
+        "name": "Minatina",
+        "titles": [
+          "MC",
+          "Rapper",
+          "Cantora"
+        ],
+        "location": "Luziânia -GO",
+        "socials": "@anacristina2261",
+        "description": "Comecei no movimento por volta de 2003, através, na verdade de uma brincadeira e ao mesmo tempo de uma tirada onde um amigo tinha um grupo que era ele e 2 garotas os componentes escrevi uma letra e quando estavam treinando mostrei e uma delas veio me perguntar se eu tinha coragem de cantar ali,... eu disse que nunca havia cantado mas decidi naquele momento tentar e daí então elas encerraram o grupo com ele e formamos um grupo feminino chamado ANÔNIMAS DO RAP depois mudaram as componentes onde permaneci até que desisti, passados alguns anos voltei com outro grupo também feminino chamado, Dialeto Consciente foram alguns meses até novamente decidir permanecer só no movimento desistindo após algum tempo porém o rap vive em mim e é minha vida até hj!",
+        "foto": "6-MINA TINA- METROPOLITANA .jpg"
       },
       {
         "name": "BISA",
         "titles": [
           "Grafitti"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "7- BISA- Rafaela Santos- METROPOLITANA.jpg",
         "location": "Luziânia - GO",
         "socials": "@bisa_rafaela",
         "description": "Mulher preta da periferia de Luziânia - GO, mãe solo, artista visual, ilustradora e crocheteira. Aprendi a crochetar com minha avó, como uma tradição, e passei a levar a técnica como um exercício de criatividade. Em 2021 tive meu primeiro contato com o graffiti onde passei a unir as técnicas do crochê com a intervenção urbana. Minha ideia é levar o graffiti com o crochê para as ruas e fazer com que as pessoas conheçam e se identifiquem com este movimento e minha estética artística."
@@ -1281,7 +1396,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "8- Juliana METROPOLITANA .jpg",
         "location": "Céu Azul, Valparaizo -GO",
         "socials": "@julianaanaribeiroo",
         "description": "A caminhada desta artista no rap começou entre 2000 e 2002 com o grupo feminino As Sobreviventes. Em 2002, formou o Lenda Suburbana com Téo (Imagem de Rua), lançando músicas como Só Lamento e Levaram Nossa Paz. Em 2003, integraram Naldinho (ex-Voz Ativa) e lançaram o primeiro clipe, apadrinhados por Lio (Liberdade Condicional). O álbum incluiu faixas como Vontade de Vencer e Meninas Superpoderosas, abordando o dia a dia da mulher no rap. Também fez parte do grupo Minas do Gueto. Em 2007, após a perda de Naldinho, o grupo encerrou as atividades em 2009. Atualmente, dedica-se a serviços sociais na comunidade."
@@ -1293,7 +1408,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "9- NEGA BILL- METROPOLITANA.jpg",
         "location": "Pedregal, Novo Gama -GO",
         "socials": "@fabricia.carvalho.754918",
         "description": "O início desta artista no rap foi inspirado pelo irmão mais velho (F.A) do \n\nEsquadrão R.A.P. Formou o grupo As Aliadas do Rap com Ariane, Herbenia e Aline, lançando a primeira música Gotas de Lágrimas no estúdio dos Pacificadores. Apresentaram-se em bailes e eventos em diversas cidades como Recanto das Emas, Gama e Valparaíso, conhecendo grupos como Foras da Lei, As Damas e Veronika. Anos depois, integrou o Esquadrão R.A.P, participando do primeiro álbum Peso das Palavras. Atualmente, afastou-se dos palcos devido às responsabilidades maternas, mas mantém viva a paixão pelo rap."
@@ -1305,7 +1420,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "10 - Stephanne METROPOLITANA.jpg",
         "location": "Novo Gama -GO",
         "socials": "@marquesstephanne",
         "description": "Stephanne Marques iniciou sua trajetória no rap aos 14 anos, em 2000, num projeto cultural escolar. Juntamente com Cláudia e Juliana, foi apoiada pelo grupo Comunidade X (Kaerb, Mano Boy e RD), integrando-se ao grupo e participando de apresentações no Entorno Sul (Gama, Pedregal, Céu Azul, entre outros). Fez colaborações com Disparo Verbal e A Bancada Escolta, destacando-se pela união e irmandade no movimento. Com o apoio da família, especialmente da mãe (Odete Maria), que costurava suas roupas de palco, construiu uma identidade no rap através de letras de luta e sobrevivência. Embora não esteja mais ativa, carrega com carinho as memórias e o amor pelo rap, que continuam a fazer parte de sua vida."
@@ -1317,7 +1432,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "danças urbanas",
           "Produção"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "11- - Thay Brito- METROPOLITANA.jpg",
         "location": "guas Lindas -GO",
         "socials": "@encontro_al",
         "description": "A trajetória desta artista no hip-hop começou em 2006, influenciada pelos irmãos And MC e Dayse Brito. Iniciou na dança ao som de rap e hip-hop, descobrindo o Breaking e treinando regularmente. Fez parte de várias crews, destacando-se no Soul Gheto Style, um dos primeiros grupos de bgirls do DF, fundado pela bgirl Angela. Após o fim do grupo, uniu-se a outras bgirls para formar o BOTS. Atualmente, atua na produção cultural com foco no Breaking e é idealizadora do projeto Encontro A.L, que promove todas as vertentes do hip-hop em Águas Lindas de Goiás desde 2017."
@@ -1329,7 +1444,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "12 - Tuyra Rayanne- METROPOLITANA.jpeg",
         "location": "Lago Azul, Novo Gama -GO",
         "socials": "@Tuyrarayanne",
         "description": "Tuyra Rayanne começou a sua ligação com o rap ainda criança, inspirada pelo tio que ouvia Racionais, GOG e outros clássicos. Após a sua morte, o rap tornou-se um refúgio e forma de expressão, levando-a a escrever letras sobre desigualdade, racismo e questões sociais. Aos 13 anos, entrou para um grupo de rap com o incentivo do amigo Neguim Edvani. Atuou no grupo Versos Periféricos e, posteriormente, no Consciência Coletiva, participando de eventos culturais e lutando por espaço e reconhecimento da cultura hip-hop no Entorno Sul. Embora tenha deixado os palcos, mantém vivo o amor pelo rap, inspirando os seus filhos e admirando as mulheres que continuam a lutar pelo rap feminino na sua comunidade."
@@ -1342,7 +1457,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Trancista"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "13-NEGRITAS ARTEIRAS- metropolitana.jpeg",
         "location": "Novo Gama -GO",
         "socials": "@negritasarteiras",
         "description": "A trajetória desta artista no rap começou em 1996, ao ouvir Ideias Letais e se apaixonar pelo movimento. Frequentando bailes com os irmãos, aproximou-se do rap de Brasília. Em 2006, foi convidada por Brunega, do grupo Realidade das Ruas (Valparaíso de Goiás), para ser a voz feminina do grupo, permanecendo até o seu fim em 2012. Atualmente, segue como voz independente no trap e rap, utilizando as suas vivências e lutas como inspiração."
@@ -1355,7 +1470,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Cantora",
           "Trancista"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "14- Marcia- METROPOLITANA jpeg.jpeg",
         "location": "Valparaizo e Cidade Ocidental -GO",
         "socials": "@marciamartins.go",
         "description": "Esta artista iniciou no rap nos anos 90, inspirada pelo grupo Sob Suspeita. Formou o grupo Missionárias, que depois se tornou Cúmplice de Sina, abordando a força feminina nas letras. Apresentaram-se em eventos como o Rap Christmas, dividindo palco com grandes nomes do rap brasileiro. Participou no CD do Liberdade Condicional e, em 1999, integrou o grupo Original, lançando o álbum Sacudindo o Gueto pela Discovery, o primeiro CD da Cidade Ocidental. Recorda o apoio dos colegas homens no movimento, sentindo-se valorizada como mulher no rap. Atualmente, é cristã evangélica, militante contra a violência doméstica e atuante em políticas públicas para a família, vivendo em Valparaíso de Goiás."
@@ -1366,7 +1481,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Breaking",
           "danças urbanas"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "15- Rayssa Raposo- METROPOLITANA.jpg",
         "location": "guas Lindas -GO",
         "socials": "@rayssa.rps",
         "description": "Comecei a dançar breaking em 2018 como um passatempo, ia treinar no project sagaz uma ou duas vezes por semana e foi assim por muito tempo até o ano da pandemia que comecei a ter aulas com os arte educadores, Tsu e Jhoe, que começaram a passar ideias sobre batalhas de break e afins, no ano seguinte comecei a competir e continuo até hoje, algo que mais marcou a minha vida no breaking foi minha viagem para Portugal aos 17 anos para dançar no The World Battle, fiz diversas apresentações como Bgirl, e uma que me marcou foi a apresentação com a Sista Máfia na Makossa. Um ponto cultural da minha cidade que pode e deve ser potencializado é a Praça do Santa Lúcia."
@@ -1377,7 +1492,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Grafitti",
           "Produção"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "16- santa surda- metropolitana.jpg",
         "location": "Cidade Ocidental -GO",
         "socials": "@santasurdaoficial2020",
         "description": "Olá! Sou Santa Surda, artista visual. Desde criança, adorava desenhar. Comecei a fazer teatro criança e, aos 12, nos quadrinhos; aos 17, fiz meu primeiro grafitti e meu primeiro trabalho de storyboard e direção foi com a equipe do curta &quot;Louise&quot; (2017). Voltei ao grafitti em 2021."
@@ -1389,7 +1504,7 @@ TODO: revisar que 1 - de cada região não sumiu
           "Rapper",
           "Cantora"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "17- Dany Cool Cat METROPOLITANA.jpg",
         "location": "Lago Azul, Novo Gama -GO",
         "socials": "@Danycoolcat",
         "description": "Danyella, conhecida como Dany Cool Cat, apaixonou-se pelo rap aos 5 anos e, aos 12, gravou a primeira música no estúdio de Mano Dalla CDP, consolidando o seu desejo de seguir no mundo do rap. Com o apoio da família, superou críticas sobre o futuro na música e continuou a perseguir o seu sonho. Inspirada por artistas como Wlad Borges, Pacifcadores, Cirurgia Moral, Facção Central, Racionais, Dina Di e Karol Kolombiana, usa as letras para expressar sentimentos e conectar-se com o público. Cresceu no Lago Azul e Céu Azul, comunidades ricas em talentos artísticos, e sonha em inspirar outras mulheres com as suas palavras e perseverança no rap."
@@ -1401,10 +1516,21 @@ TODO: revisar que 1 - de cada região não sumiu
           "BEATMAKER",
           "Produtora Musical"
         ],
-        "foto": "foto_here___________________________",
+        "foto": "18- Bruna Val- METROPOLITANA.jpeg",
         "location": "Valparaizo -GO",
         "socials": "@djbrunaval",
         "description": "Bruna Val é DJ há mais de uma década e produtora musical há cinco anos, com um estilo que transita entre Soul Music, House e Techno, incorporando influências da sua afro-ancestralidade e do Jazz. Já atuou em pistas renomadas no DF, como Tônica, Vapør e My House, e em eventos nacionais como 5uinto (DF), Universo Paralello (BA) e D-Edge (SP/RJ). Atualmente, é DJ residente na festa underground Antena (Externa-DF). Os seus sets e colaborações podem ser conferidos no SoundCloud, onde continua a explorar a sua identidade sonora única."
+      },
+      {
+        "name": "Bgirl Branca",
+        "titles": [
+          "Breaking",
+          "Danças Urbanas"
+        ],
+        "location": "Cidade Ocidental – GO",
+        "socials": "@branca.aguilar",
+        "description": "Esta artista conheceu o hip-hop em 2011 através de um projeto social que a introduziu ao breaking. Apaixonou-se pela dança e venceu competições como Mulheres Batom Battle e Quando as Ruas Chamam. Fez parte dos grupos Rock Ninjas e WE CAN DO IT BGIRLS. Em 2016, após uma lesão medular que a deixou cadeirante e tetraplégica, manteve-se resiliente e determinada, continuando a atuar como jurada no mundo do breaking. É vista como um símbolo de superação e inspiração, dedicando-se a estudar e a partilhar a sua história para motivar outros. Vive o hip-hop com amor e gratidão, servindo de exemplo de força e resistência.",
+        "foto": "19 BGIRL BRANCA METROPOLITANA.jpeg"
       }
     ]
   }

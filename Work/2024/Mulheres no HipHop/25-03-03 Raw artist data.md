@@ -765,7 +765,7 @@ MC/Produção/Conhecimento
 
 Ceilândia - DF 
 
-Siga: @nayanex 
+Siga - @nayanex 
 
 Nayane, nascida em Ceilândia e vinda de uma família de nordestinos e mineiros, sempre teve o sonho de fazer algo grande. Sua determinação moldou sua trajetória, marcada pela busca incessante por conhecimento e pelo entendimento da vida por meio dos espaços e das pessoas ao seu redor. Ela estuda e pesquisa a saúde mental dos artistas do Distrito Federal. 
 
@@ -995,9 +995,7 @@ Quebradas: Planaltina, Arapoanga, Sobradinho I, Sobradinho II e Fercal. 
 
 Conhecimento /Produção / Literatura
 
-Marginal 
-
-Planaltina - DF 
+Marginal, Planaltina - DF 
 
 Siga - @ravenacarmo / @poesianasquebradas /@casadohiphopplanaltina / @institutoperiferialivre 
 
@@ -1071,11 +1069,7 @@ Planaltina - DF 
 
 Siga - @iasmimkali @kali.grafita 
 
-Nascida no interior de São Paulo, de família goiana e paulista, mora em Planaltina-DF desde 2011. Formada em Desenho Industrial pela UnB, é grafiteira, artista plástica, designer e tatuadora. Faz graffiti desde 2011 e fundou a Trupe S.A. Crew em 2016, com quem realiza projetos culturais e educacionais. Coordenadora do projeto Trupe Urbana desde 2019, promove a formação de jovens artistas da periferia de Brasília. Feminista, retrata mulheres reais em suas obras e ensina graffiti a adolescentes. Ganhou o 
-
-Prêmio FAC Brasília (2020 e 2023) e o 061 Citadinas (2023). Seu maior graffiti é uma dançarina de quadrilha de 8 metros no Complexo Cultural de 
-
-Planaltina-Df. 
+Nascida no interior de São Paulo, de família goiana e paulista, mora em Planaltina-DF desde 2011. Formada em Desenho Industrial pela UnB, é grafiteira, artista plástica, designer e tatuadora. Faz graffiti desde 2011 e fundou a Trupe S.A. Crew em 2016, com quem realiza projetos culturais e educacionais. Coordenadora do projeto Trupe Urbana desde 2019, promove a formação de jovens artistas da periferia de Brasília. Feminista, retrata mulheres reais em suas obras e ensina graffiti a adolescentes. Ganhou o Prêmio FAC Brasília (2020 e 2023) e o 061 Citadinas (2023). Seu maior graffiti é uma dançarina de quadrilha de 8 metros no Complexo Cultural de Planaltina-Df. 
 
 ### Miriam Késsia 
 
@@ -1133,7 +1127,7 @@ DJ 
 
 Sobradinho - DF 
 
-Siga– djrafaelaramos 
+Siga – djrafaelaramos 
 
 DJ Rafaela Karollyne Lima Ramos, influenciada por seu pai DJ Hool Ramos, iniciou sua jornada musical desde pequena. Em 2020, lançou o programa "Quarentena Music Beats" durante a pandemia. Ela se destacou em eventos como o Baile do Hool Ramos e o projeto Mixtape BSB, sendo homenageada no Dia do DJ em 2023. Rafaela fez história ao ser a primeira criança a se apresentar no DMC BRASIL 2023 em São Paulo e a primeira DJ de Brasília nesse evento. Além disso, participou de eventos solidários, como o Natal Solidário na Câmara dos Deputados e "DJ Tânia Convida Elas", focado em ajudar mulheres em vulnerabilidade social. Em abril de 2024, abriu o show do artista Luccas Neto para mais de 20.000 crianças, consolidando sua trajetória promissora na música. 
 
@@ -1283,7 +1277,7 @@ MC/ Rapper/Cantora 
 
 Luziânia -GO 
 
-Siga: @anacristina2261 
+Siga - @anacristina2261 
 
 Comecei no movimento por volta de 2003, através, na verdade de uma brincadeira e ao mesmo tempo de uma tirada onde um amigo tinha um grupo que era ele e 2 garotas os componentes escrevi uma letra e quando estavam treinando mostrei e uma delas veio me perguntar se eu tinha coragem de cantar ali,... eu disse que nunca havia cantado mas decidi naquele momento tentar e daí então elas encerraram o grupo com ele e formamos um grupo feminino chamado ANÔNIMAS DO RAP depois mudaram as componentes onde permaneci até que desisti, passados alguns anos voltei com outro grupo também feminino chamado, Dialeto Consciente foram alguns meses até novamente decidir permanecer só no movimento desistindo após algum tempo porém o rap vive em mim e é minha vida até hj! 
 
@@ -1419,4 +1413,4 @@ Cidade Ocidental – GO 
 
 Siga - @branca.aguilar 
 
-Esta artista conheceu o hip-hop em 2011 através de um projeto social que a introduziu ao breaking. Apaixonou-se pela dança e venceu competições como Mulheres Batom Battle e Quando as Ruas Chamam. Fez parte dos grupos Rock Ninjas e WE CAN DO IT BGIRLS. Em 2016, após uma lesão medular que a deixou cadeirante e tetraplégica, manteve-se resiliente e determinada, continuando a atuar como jurada no mundo do breaking. É vista como um símbolo de superação e inspiração, dedicando-se a estudar e a partilhar a sua história para motivar outros. Vive o hip-hop com amor e gratidão, servindo de exemplo de força e resistência.**
+Esta artista conheceu o hip-hop em 2011 através de um projeto social que a introduziu ao breaking. Apaixonou-se pela dança e venceu competições como Mulheres Batom Battle e Quando as Ruas Chamam. Fez parte dos grupos Rock Ninjas e WE CAN DO IT BGIRLS. Em 2016, após uma lesão medular que a deixou cadeirante e tetraplégica, manteve-se resiliente e determinada, continuando a atuar como jurada no mundo do breaking. É vista como um símbolo de superação e inspiração, dedicando-se a estudar e a partilhar a sua história para motivar outros. Vive o hip-hop com amor e gratidão, servindo de exemplo de força e resistência.

@@ -44,3 +44,30 @@ const regions = rawString
 	  }
 	})
 ```
+
+```ts
+
+const artistaRegex = /### (?<name>.+)\s+(?<titles>.+)\s+(?<location>.+)\s+Siga ?-? ?(?<socials>.+)\W+(?<description>(?:[^#].*\n+)+)/gmui
+
+const artistas = rawString
+.matchAll(artistaRegex)
+.toArray()
+.map(artista => {
+  const {
+    name, titles, location, socials, description,
+  } = artista.groups ?? {}
+
+  return {
+    name: cleanStr(name),
+    titles: splitList(titles),
+    location: cleanStr(location),
+    socials: cleanStr(socials),
+    description: cleanStr(description),
+  }
+})
+	  
+const str = "\n      " + JSON
+	.stringify({ ...(artistas[0]), foto: "foto_here___________________________" }, null, 2)
+  .replaceAll("\n", "\n      ") + ","
+console.log(str)
+```
