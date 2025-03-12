@@ -95,18 +95,18 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
-- [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-520/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-527/
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
 - [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-112/)
 - [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-59/)
-- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)s
+- [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)
 - [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
 - [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
+- [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
 - [Swordmaster's Youngest Son](https://asuratoon.com/1908287720-swordmasters-youngest-son-chapter-109/)
 - [Reincarnated Assassin Swordsman](https://asuratoon.com/1398222385-the-reincarnated-assassin-is-a-genius-swordsman-chapter-34/)
