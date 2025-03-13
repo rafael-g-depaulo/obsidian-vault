@@ -44,7 +44,6 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://www.bilibilicomics.net/comic/2179-the-saintess-has-a-showdown
 - price for freedom
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
-- https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-1/
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -71,6 +70,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-12/
 - https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-67
 - https://hivetoon.com/series/study-group/chapter-87
+- https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-9/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
