@@ -67,7 +67,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-76/
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-121
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-57
-- https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-12/
+- https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-33/
 - https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-67
 - https://hivetoon.com/series/study-group/chapter-87
 - https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-9/
