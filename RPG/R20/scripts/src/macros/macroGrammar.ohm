@@ -1,50 +1,49 @@
 TextWithMacros {
 
-Macro = "{{" macroName MacroBody "}}"
+// any text with macros in it
+textWithMacro = (macro | nonMacroText)+
+// anything without a macro
+nonMacroText = (~macro any)+
+
+macro = "{{" macroName s* macroBody s* "}}"
 macroName = validIdentifier
+macroBody = listOf<(macro | macroProp | macroBodyText), space*>
 
-TextWithMacro = (Macro | NonMacroText)+
-NonMacroText = (~Macro any)+
-
-
-MacroBody = (Macro | MacroProp | MacroBodyText)*
-MacroBodyText = notSingle<"}"> | notDouble<"}}"> // notDouble<"}">+
+// macro body delimeters to not "eat" }}'s
+macroBodyText = notSingle<"}"> | notDouble<"}}"> // notDouble<"}">+
 notSingle<char> = ~char any
 notDouble<str> = ~str any any
 doubleTest =  ~"}}" any any
 
-MacroProp = macroPropKey ":" MacroPropValue
-macroPropKey = validIdentifier
-MacroPropValue = MacroPropValueItem+
-MacroPropValueItem = 
-  | Macro
-  | PropValueList
-  | MacroPropValueText
-  
-MacroPropValueText = (~MacroProp ~Macro &MacroBodyText any)+
-
-PropValueList = UnorderedList
-
-// bug: currently counts inline "-" as a separate list item. need to change all to lexical rule to fix i think
-UnorderedList = UnorderedListItem+
-UnorderedListItem = "-" UnorderedListItemValue*
-UnorderedListItemValue = 
-  | Macro
-  | UnorderedListItemText
-UnorderedListItemText = &MacroPropValueText ~"-" any
+// single prop from a macro (ie: "PROP_NAME: PROP_VAL")
+macroProp = macroPropKey space* macroPropValue
+macroPropKey = validIdentifier s* ":"
+macroPropValue = listOf<macroPropValueItem, space*>
+macroPropValueItem = 
+  | macro
+  | unorderedList
+  | macroPropValueText
+macroPropValueText = (~macroPropKey ~macro &macroBodyText any)+
 
 
+// unordered list
+unorderedList = nonemptyListOf<unorderedListItem, nlSpaced>
+unorderedListItem = s* "-" s* unorderedListItemValue*
+unorderedListItemValue = 
+  | macro
+  | unorderedListItemText
+unorderedListItemText = &macroPropValueText ~"\n" any
 
 
+// valid name
 validIdentifier = (alnum | "-" | "_")+
 
-}
 
-MdTable {
-nonNlSpace = ~"\n" space
-mdTable = tableRow "\n" tableHeaderSeparator ("\n" tableRow)+
-tableRow = "|" (nonNlSpace* cellValue* nonNlSpace* "|")+
-tableHeaderSeparator = "|" nonNlSpace* ":"? nonNlSpace* ("-"+ nonNlSpace* ":"? nonNlSpace* "|" nonNlSpace*)+
+// spacing stuff
+s = ~"\n" space // non newline space
+nlSpaced = s* "\n" s* // necessary newline, with optional whitespace around it
 
-cellValue = (~"|" ~"\n" any)+
+spacedList<item> = listOf<item, s*>
+
+
 }

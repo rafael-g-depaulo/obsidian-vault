@@ -119,9 +119,6 @@ const makeGenericNote = (noteId: string, classDeff: Class) => {
 
 const makeFeatsSection = (archetype: string, classDefinition: Class) => {
   const macroStringReplace = (featStr: string) => {
-    if (classDefinition.name === "Beast Warrior") {
-      console.log("SADSDFSDF|||", featStr, "|||")
-    }
     if (featStr.indexOf('BREAK') !== -1) return `{{page-break}}`
 
     if (featStr.indexOf('CLASS_NOTE') !== -1) return makeClassNote(classDefinition.classNote)
