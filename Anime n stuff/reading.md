@@ -97,7 +97,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
-- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-527/
+- https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
