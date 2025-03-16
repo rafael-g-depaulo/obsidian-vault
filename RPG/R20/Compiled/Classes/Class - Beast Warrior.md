@@ -64,7 +64,7 @@ Beginning at level 2, every time you gain a level in Beast Warrior you gain a Wi
 
 - **Blood Healing.** While below HP and raging, the first attack you hit on your turn heals you for your CON mod Pre-requisites: *lv5 de Beast Warrior.*.
 
-- **Wild Senses.** Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 3 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each.
+- **Wild Senses.** Choose 2 skills between Athletics, Acrobatics, Reflexes, Perception, Insight, Nature, Animal Handling. While raging you add your CON mod. to rolls with those skill. When not raging you can spend 1 MP to gain the Wild Senses bonus in a roll, as if you were raging. You can pick this feat multiple times, and choose 2 new skills each.
 
 {{descriptive
 **Sangrando (Bloodied).** Você é considerado **Sangrando** se você está com metade ou menos do seu HP máximo.
@@ -108,7 +108,7 @@ A wild rage has a passive effect, and adds a bonus feature to your Savage Attack
 
 {{descriptive
 ### Beastly Constituition
-Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**.
+Alguns poderes de Beast Warrior são do tipo **Constituição Bestial**. Esses poderes aumentam seu HP máximo e te dão algum efeito negativo se você não está **Sangrando**. 
 
 }}
 
