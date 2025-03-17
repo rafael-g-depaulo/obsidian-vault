@@ -13,7 +13,6 @@ macroBody = listOf<(macro | macroProp | macroBodyText), space*>
 macroBodyText = notSingle<"}"> | notDouble<"}}"> // notDouble<"}">+
 notSingle<char> = ~char any
 notDouble<str> = ~str any any
-doubleTest =  ~"}}" any any
 
 // single prop from a macro (ie: "PROP_NAME: PROP_VAL")
 macroProp = macroPropKey space* macroPropValue

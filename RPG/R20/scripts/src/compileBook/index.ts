@@ -20,6 +20,8 @@ import { numberPage, replacePageBreakMacro } from './replacePageBreakMacro'
 import { replaceVerticalSpacers } from './replaceSpacers'
 import { replaceSpellDefinition } from './replaceSpellDefinition'
 import { Themes } from '../businessLogic/classThemes'
+import * as ohm from 'ohm-js'
+import { parseTextForMacros } from '../macros/parseGrammar'
 
 export type CompileRulesDeps = {
   currentFolder: string
@@ -34,21 +36,31 @@ export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
     .then(processContent(deps))
     .then(content => `${content}\n${numberPage}`)
 
+const parseOhmMacro = async (content: string): Promise<string> => {
+  console.log("-- PARSE ----------")
+  // console.log(content)
+  // ohm.grammar
+  parseTextForMacros(content)
+  console.log("-- PARSE ----------")
+  return content
+}
+
 export const processContent = (deps: CompileRulesDeps) =>
   asyncPipe(
-    removeComments,
-    removeDevComments,
+    // removeComments,
+    // removeDevComments,
     makeInclusionsGlobal(deps.currentFolder),
     replaceFileInclusions(deps),
-    replaceClasses(deps),
-    replaceClassDefinition(deps),
-    replaceClassNotes,
-    replaceClassSpellLists(deps.allSpells),
-    addPageBreakBeforeH1,
-    replaceGlobalSpellList(deps),
-    replaceSpellDefinition,
-    replacePageBreakMacro,
-    replaceVerticalSpacers,
-    removeArchetypeDefinition,
-    replaceSummary,
+    parseOhmMacro,
+    // replaceClasses(deps),
+    // replaceClassDefinition(deps),
+    // replaceClassNotes,
+    // replaceClassSpellLists(deps.allSpells),
+    // addPageBreakBeforeH1,
+    // replaceGlobalSpellList(deps),
+    // replaceSpellDefinition,
+    // replacePageBreakMacro,
+    // replaceVerticalSpacers,
+    // removeArchetypeDefinition,
+    // replaceSummary,
   )

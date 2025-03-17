@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon --watch \"*.ts\" --exec \"ts-node\" ./src/index.ts",
+    "start": "nodemon --watch \"*.ts\" --exec \"tsx\" ./src/index.ts",
     "compile": "ts-node ./src/index.ts"
   },
   "dependencies": {
@@ -20,7 +20,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "nodemon": "^2.0.20",
     "prettier": "^2.6.2",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "tsx": "^4.19.3"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

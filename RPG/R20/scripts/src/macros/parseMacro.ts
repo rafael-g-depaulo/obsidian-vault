@@ -43,28 +43,10 @@ const parseItems = (body: string | undefined) =>
         ])
       )
 
-// TODO: fix bug where lists of 1 item are parsed as simpleValues instead of unitary lists
-export const parseMacros = (content: string): Macro[] => {
-
-  console.log("TEST ----------------------------")
-  console.log(content)
-  console.log("TEST ----------------------------")
-  const isMacro = macroRegex.test(content)
-  if (!isMacro) return []
-
-  return matchAllGroups(content, macroRegex).map(
-    ({ macroName, macroArgument, macroBody }) =>
-      createMacro({
-        items: parseItems(macroBody),
-        name: macroName,
-        argument: macroArgument,
-        rawBody: macroBody,
-      })
-  )
-}
 export const parseMacro = <Name extends string, Keys extends string>(
   content: string
 ): Macro<Keys, Name> | null => {
+
   const groups = matchGroups(content, macroRegex)
   if (!groups?.macroName) return null
 
