@@ -36,12 +36,15 @@ export const compileRules = (filepath: string, deps: CompileRulesDeps) =>
     .then(processContent(deps))
     .then(content => `${content}\n${numberPage}`)
 
+let skip = 0
+let count = 15
 const parseOhmMacro = async (content: string): Promise<string> => {
-  console.log("-- PARSE ----------")
-  // console.log(content)
+  // console.log("-- PARSE ----------")
   // ohm.grammar
-  parseTextForMacros(content)
-  console.log("-- PARSE ----------")
+  if (skip-- <= 0 && content.includes("Beast Warrior") && count-- > 0) {
+    parseTextForMacros(content)
+  }
+  // console.log("-- PARSE ----------")
   return content
 }
 
