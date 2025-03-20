@@ -14,15 +14,15 @@ const groupText = (nodes: MacroAstNode[]) =>
   nodes.reduce<MacroAstNode[]>((acc, cur) => {
     const lastNode = acc.at(-1)
     return lastNode?.type === 'text' && cur.type === 'text'
-      ? [...acc.slice(0, -1), new Text(`${lastNode.value}${cur.value}`)]
+      ? [...acc.slice(0, -1), new Text(`${lastNode.baseStr}${cur.baseStr}`)]
       : [...acc, cur]
   }, [])
 
-const clean = (a: any) => ({
-  ...a,
-  _baseInterval: '',
-  source: a?.source?.sourceString?.slice(0, 20),
-})
+// const clean = (a: any) => ({
+//   ...a,
+//   _baseInterval: '',
+//   source: a?.source?.sourceString?.slice(0, 20),
+// })
 
 const loadGrammar = async () => {
   const grammarFileName = 'src/macros/macroGrammar.ohm'
@@ -36,24 +36,28 @@ const loadGrammar = async () => {
       // textWithMacro: (a) => { return a.children.map(child => child.compileText()).join("") },
       // textWithMacro: (a) => { return a.children.map(child => child.compileText()).join("") },
       // nonMacroText: a => [textNode('@@@@@')], // `${a.sourceString}`,
-      macro: (_open, macroName, _space_1, macroBody, _space_2, _close) => [
-        new Macro(macroName.sourceString, macroBody.parseAST()[0]),
-      ],
+      macro(_open, macroName, _space_1, macroBody, _space_2, _close) {
+        return [
+          new Macro(macroName.sourceString, macroBody.parseAST()[0] ?? [], this),
+        ]
+      },
       // macroName: (a) => a.sourceString,
-      macroBody: bodyItems => {
+      macroBody(bodyItems) {
         const content =
-          bodyItems.asIteration().parseAST() ?? ([]satisfies MacroBodyItem[])
-        return [new MacroBody(content)]
+          bodyItems.asIteration().parseAST() ?? []
+        return [new MacroBody(content, this)]
       },
       // nonemptyListOf: (firstNode, restList, restList2) => []
       // macroBodyText: (a) => ``,
       // notSingle: (a) => ``,
       // notDouble: (b, a) => [`${b.sourceString}${a.sourceString}`],
-      macroProp: (key, _sep, value) => {
+      macroProp(key, _sep, value) {
         // console.log(clean(value.children[0]), "zzzzzzzzz")
-        return [new MacroProp(key.parseAST(), value.asIteration().parseAST())]
+        return [new MacroProp(key.parseAST(), value.asIteration().parseAST(), this)]
       },
-      macroPropKey: (key, _space, _colon) => [new Text(key.sourceString)],
+      macroPropKey(key, _space, _colon) {
+        return [new Text(key.sourceString)]
+      },
       macroPropValue: a => [],
       // macroPropValueItem: (a) => ``,
       // macroPropValueText: (a,b) => ``,
@@ -73,7 +77,7 @@ const loadGrammar = async () => {
       },
       _terminal() {
         return [new Text(this.sourceString)]
-        return [new Text('')]
+        // return [new Text('')]
       },
     })
 
@@ -91,9 +95,10 @@ export const parseTextForMacros = (content: string) =>
     // .then(a => console.log(Object.keys(a)))
     // .then(a => (console.log(a), a))
     .then(a => a.map(node => node.compile()).join(''))
-    .then(a => {
-      console.log('-----------------------------------')
-      console.log(a)
-    })
+    // .then(a => {
+    // console.clear()
+    // console.log('-----------------------------------')
+    // console.log(a)
+    // })
     // .then(() => console.log(dic))
     .then(a => content)
