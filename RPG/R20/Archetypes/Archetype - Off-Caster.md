@@ -46,11 +46,11 @@ HAS_MAGIC: true
 
 FEATURES:
 
-| LEVEL | FEATURE |  |
-| ---- | ---- | ---- |
-| 1 | Magia Inata | Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo). |
-| 5 | Attack of Opportunity | (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo. |
-| 7 | Extra Attack | Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1. |
+| LEVEL | FEATURE               | DESCRIPTION                                                                                                  |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1     | Magia Inata           | Você pode lançar magias dessa classe. Você não pode aprender Truques (magias de 0º Círculo).                 |
+| 5     | Attack of Opportunity | (um inimigo sai da sua área de alcance corpo-a-corpo) Reação: Faça um ataque corpo-a-corpo contra o inimigo. |
+| 7     | Extra Attack          | Ao tomar a ação Atacar (ver [[Combat Actions]]), você pode fazer 2 ataques em vez de 1.                      |
 
 MULTI_FEATURES:
 

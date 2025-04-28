@@ -5,9 +5,9 @@ textWithMacro = (macro | nonMacroText)+
 // anything without a macro
 nonMacroText = (~macro any)+
 
-macro = "{{" macroName s* macroBody s* "}}"
+macro = "{{" macroName macroBody space* "}}"
 macroName = validIdentifier
-macroBody = listOf<(macro | macroProp | macroBodyText), space*>
+macroBody = listOf<(macro | macroProp | macroBodyText), s*>
 
 // macro body delimeters to not "eat" }}'s
 macroBodyText = notSingle<"}"> | notDouble<"}}"> // notDouble<"}">+
@@ -15,15 +15,15 @@ notSingle<char> = ~char any
 notDouble<str> = ~str any any
 
 // single prop from a macro (ie: "PROP_NAME: PROP_VAL")
-macroProp = macroPropKey space* macroPropValue
-macroPropKey = validIdentifier s* ":"
-macroPropValue = listOf<macroPropValueItem, space*>
+macroProp =  macroPropKey space* macroPropValue s*
+macroPropKey = nlSpaced validIdentifier s* ":"
+macroPropValue = listOf<macroPropValueItem, s*>
 macroPropValueItem = 
   | macro
+  | mdTable
   | unorderedList
   | macroPropValueText
-macroPropValueText = (~macroPropKey ~macro &macroBodyText any)+
-
+macroPropValueText = (~macroPropKey ~macro &macroBodyText any)
 
 // unordered list
 unorderedList = nonemptyListOf<unorderedListItem, nlSpaced>
@@ -37,12 +37,19 @@ unorderedListItemText = &macroPropValueText ~"\n" any
 // valid name
 validIdentifier = (alnum | "-" | "_")+
 
-
 // spacing stuff
 s = ~"\n" space // non newline space
 nlSpaced = s* "\n" s* // necessary newline, with optional whitespace around it
 
 spacedList<item> = listOf<item, s*>
 
+// Table stuff
+mdTable = tableRow nlSpaced tableHeaderSeparator (nlSpaced tableRow)+
+tableRow = sep (s* cellValue* s* sep)+
+tableHeaderSeparator = sep s* ":"? s* ("-"+ s* ":"? s* sep s*)+
 
+cellValue = (macro | ~sep ~"\n" any)+
+  
+sep = "|"
+// table stuff - end
 }

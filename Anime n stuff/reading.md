@@ -4,6 +4,7 @@ https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapte
 https://manhuaus.org/manga/i-randomly-have-a-new-career-every-week-manhuaus/chapter-1/
 https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
+https://wotaku.wiki/websites#manga
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
@@ -38,6 +39,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants
 - https://kaliscan.io/manga/76124-rock-is-a-ladys-modesty
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
+- https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-1
 - https://kaliscan.io/manga/71559-reincarnated-as-a-legendary-grimoire
 - Rogue Sun
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-1/
@@ -65,18 +67,20 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
 - https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-76/
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-121
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-57
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-33/
-- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-67
+- https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-70
 - https://hivetoon.com/series/study-group/chapter-87
 - https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-9/
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp
+- https://comick.io/comic/i-really-don-t-want-to-remake/PVLY2-chapter-0-en
+- https://kaliscan.io/manga/1086-apotheosis/chapter-198
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-151/)
-- https://glitterandguilt.thecomicseries.com/comics/81/#content-start
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-152-5/)
+- https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
 - [Geat Mage 4000 years](https://reaperscans.com/comics/7319-the-great-mage-returns-after-4000-years/chapters/74419125-chapter-185)
@@ -88,16 +92,19 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-75/)
+- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-77/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
-- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-140/)
+- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-148/)
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/kbVBeYp_-chapter-154-en
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-164
+- https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34

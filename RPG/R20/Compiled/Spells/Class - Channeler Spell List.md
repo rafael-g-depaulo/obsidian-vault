@@ -55,9 +55,7 @@ List of spells available for a Channeler to learn.
 - [[Silent Image]]
 - [[Thunderwave]]
 - [[Witch Bolt]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
-\page
-
+- [[Área Escorregadia]]{{page-break}}
 
 ### 2nd Circle
 - [[Aid]]

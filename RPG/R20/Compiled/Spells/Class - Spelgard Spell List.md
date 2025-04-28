@@ -51,9 +51,7 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]{{pageNumber,auto}}
-\page
-
+- [[Zephyr Strike]]{{page-break}}
 
 ### 2nd Circle
 - [[Aid]]

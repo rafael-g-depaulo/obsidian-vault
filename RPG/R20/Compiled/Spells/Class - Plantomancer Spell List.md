@@ -56,9 +56,7 @@ List of spells available for a Plantomancer to learn.
 - [[Sleep]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
-\page
-
+- [[Área Escorregadia]]{{page-break}}
 
 ### 2nd Circle
 - [[Barkskin]]

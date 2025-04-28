@@ -3,14 +3,21 @@ import { macroHandler } from './executeMacros'
 
 export type MacroAST = MacroAstNode[]
 
-export type MacroAstNode = Text | Macro | MacroBody | MacroProp | List
+export type MacroAstNode =
+  | Text
+  | Macro
+  | MacroBody
+  | MacroProp
+  | List
+  | Table
+  | TableRow
 
 class MacroAstNode_Base<NodeName extends string> {
   type: NodeName
 
   _node: Node | null
   get baseStr() {
-    return this._node?.sourceString ?? "ERROR in Text Node in AST"
+    return this._node?.sourceString ?? 'ERROR in Text Node in AST'
   }
 
   constructor(type: NodeName, _node: Node | null) {
@@ -35,8 +42,8 @@ export class Text extends MacroAstNode_Base<'text'> {
   }
 
   compile(): string {
-    return '|text| '
     return this.baseStr
+    return '|text| '
   }
 }
 
@@ -62,13 +69,16 @@ export class Macro extends MacroAstNode_Base<'macro'> {
     //   .map(a => a.compile())
 
     const test = bodyContent
-      .map(bodyItem => bodyItem.type === 'text' ? bodyItem.baseStr : bodyItem._node?.sourceString)
-      .join("\n\n- sep -\n\n")
-
+      .map(bodyItem =>
+        bodyItem.type === 'text'
+          ? bodyItem.baseStr
+          : bodyItem._node?.sourceString
+      )
+      .join('\n\n- sep -\n\n')
 
     // console.clear()
     console.log('----------')
-    console.log(test)
+    console.log(bodyContent.map(({_node, ...r}) => (r)))
 
     // console.log(asdasd)
     return macroHandler(this.name, this.body, {
@@ -109,7 +119,7 @@ export class MacroProp extends MacroAstNode_Base<'macroProp'> {
   }
 }
 
-export type MacroPropValue = Macro | List | Text
+export type MacroPropValue = Macro | List | Text | Table
 
 export class List extends MacroAstNode_Base<'list'> {
   items: ListItem[]
@@ -120,3 +130,37 @@ export class List extends MacroAstNode_Base<'list'> {
 }
 
 export type ListItem = (Macro | Text)[]
+
+export class Table extends MacroAstNode_Base<'table'> {
+  data: ({[key: string]: string})[]
+
+  constructor(headerRow: TableRow, data: TableRow[], _node: Node) {
+    super('table', _node)
+
+    const headerValues = headerRow.rowData.map(cell => cell.reduce((acc, cur) => `${acc}${cur.compile()}`,""))
+    this.data = data.map(row => row.rowData.reduce((acc, cell, index) => ({
+      ...acc,
+      [headerValues[index]]: cell.map(cellValue => cellValue.compile()).join(""),
+    }), {}))
+  }
+
+  compile() {
+    return this._node?.sourceString ?? ""
+  }
+}
+
+type TableCellValue = MacroAstNode[]
+export class TableRow extends MacroAstNode_Base<'table_row'> {
+  rowData: TableCellValue[]
+  constructor(dataNodes: TableCellValue[], _node: Node) {
+    super('table_row', _node)
+    this.rowData = dataNodes
+    
+    this.rowData.forEach(cell =>
+      cell.forEach(cellValue =>
+        cellValue.type === 'text' &&
+        (cellValue.text = cellValue.text.trim())
+      )
+    )
+  }
+}

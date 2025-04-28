@@ -7,6 +7,8 @@ import {
   MacroBody,
   MacroBodyItem,
   MacroProp,
+  Table,
+  TableRow,
   Text,
 } from './macroAst'
 
@@ -18,11 +20,11 @@ const groupText = (nodes: MacroAstNode[]) =>
       : [...acc, cur]
   }, [])
 
-// const clean = (a: any) => ({
-//   ...a,
-//   _baseInterval: '',
-//   source: a?.source?.sourceString?.slice(0, 20),
-// })
+const clean = (a: any) => ({
+  ...a,
+  _baseInterval: '',
+  source: a?.source?.sourceString?.slice(0, 20),
+})
 
 const loadGrammar = async () => {
   const grammarFileName = 'src/macros/macroGrammar.ohm'
@@ -36,26 +38,31 @@ const loadGrammar = async () => {
       // textWithMacro: (a) => { return a.children.map(child => child.compileText()).join("") },
       // textWithMacro: (a) => { return a.children.map(child => child.compileText()).join("") },
       // nonMacroText: a => [textNode('@@@@@')], // `${a.sourceString}`,
-      macro(_open, macroName, _space_1, macroBody, _space_2, _close) {
+      macro(_open, macroName, macroBody, _space, _close) {
         return [
-          new Macro(macroName.sourceString, macroBody.parseAST()[0] ?? [], this),
+          new Macro(
+            macroName.sourceString,
+            macroBody.parseAST()[0] ?? [],
+            this
+          ),
         ]
       },
       // macroName: (a) => a.sourceString,
       macroBody(bodyItems) {
-        const content =
-          bodyItems.asIteration().parseAST() ?? []
+        const content = bodyItems.asIteration().parseAST() ?? []
         return [new MacroBody(content, this)]
       },
       // nonemptyListOf: (firstNode, restList, restList2) => []
       // macroBodyText: (a) => ``,
       // notSingle: (a) => ``,
       // notDouble: (b, a) => [`${b.sourceString}${a.sourceString}`],
-      macroProp(key, _sep, value) {
+      macroProp(key, _space_1, value, _space_2) {
         // console.log(clean(value.children[0]), "zzzzzzzzz")
-        return [new MacroProp(key.parseAST(), value.asIteration().parseAST(), this)]
+        return [
+          new MacroProp(key.parseAST(), value.asIteration().parseAST(), this),
+        ]
       },
-      macroPropKey(key, _space, _colon) {
+      macroPropKey(_newline_spaced, key, _space, _colon) {
         return [new Text(key.sourceString)]
       },
       macroPropValue: a => [],
@@ -68,6 +75,26 @@ const loadGrammar = async () => {
       // validIdentifier: (a) => ``,
       // nlSpaced: (a, s, b) => ``,
       // spacedList: (a) => ``,
+
+      tableRow(_sep, _space_1, cellValues, _space_2, _sep_2) {
+        return [
+
+          new TableRow(
+            cellValues.children.map(c => c.parseAST()),
+            this
+          ),
+        ]
+      },
+      // tableRow: (_sep, _space_1, cellValues, _space_2, _sep_2) => cellValues.asIteration().children.map(cellValue => cellValue.parseAST()),
+      mdTable(headerRow, _nl, _sepRow, _nl_2, tableRows) {
+        // const row = headerRow.parseAST()
+        return [new Table(headerRow.parseAST()[0], tableRows.children.flatMap(row => row.parseAST()), this)]
+      },
+      // tableHeaderSeparator: (_sep_1, _space_1, _colon_1, _space_2, _hyphen, _space_3, _colon_2, _space_4, _sep, _space_5) => [],
+      // cellValue(values) {
+      //   console.log(values.children.map(clean))
+      //   return []
+      // },
       _iter: (...children) => {
         // console.log("|||", children.map(c => c.sourceString))
         return groupText(children.flatMap(child => child.parseAST()))
@@ -81,7 +108,8 @@ const loadGrammar = async () => {
       },
     })
 
-  const parse = (content: string): MacroAST => semantics(grammar.match(content)).parseAST()
+  const parse = (content: string): MacroAST =>
+    semantics(grammar.match(content)).parseAST()
 
   return { grammar, semantics, parse }
 }
