@@ -112,6 +112,7 @@ https://www.vaultproject.io/, which i got from this article: https://dev.to/greg
 - [fastify](https://www.fastify.io/) node api framework
 - [koa](https://koajs.com/) nodejs api library made by the express guys
 - [auto-animate](https://auto-animate.formkit.com/) auto animate JS stuff
+- [guia do thales sobre email @domínio-profissional](https://www.tabnews.com.br/thlmenezes/diga-adeus-ao-gmail-com-configure-seu-email-profissional-passo-a-passo)
 
 
 ## Courses

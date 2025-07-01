@@ -21,3 +21,6 @@ pc stuff:
 
 https://www.gorilashield.com.br/capa-a-prova-d-agua-nautical-para-iphone-x-e-xs-gshield?srsltid=AfmBOopQ-sEwX5I68H8SbTDKo6simke6yvGRXb2UT-lZDkLPPD_XtE63
 https://www.mercadolivre.com.br/adaptador-plug-usb-tipoc-fmea-x-usb-macho-compativel-iphone/p/MLB27718083#wid%3DMLB3700958219%26sid%3Dsearch%26searchVariation%3DMLB27718083%26position%3D14%26search_layout%3Dstack%26type%3Dproduct%26tracking_id%3Dc65c20b7-2003-40d6-93b3-2cbf3aac436e
+
+
+https://www.youtube.com/shorts/lAIDn6HdQ3E

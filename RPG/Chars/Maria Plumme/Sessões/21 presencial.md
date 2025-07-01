@@ -1,0 +1,4 @@
+- maria e ardher tem jantar com lamprert
+- de manhã ao ouvir do jantar cookie falou "mas ele não falou nada?". ominous, mas maria n se importou
+- Maria pegou descrição geral de 4 pessoas suspeitas. **investigar depois**
+- Alguma coisa sobre irmandade das sombras

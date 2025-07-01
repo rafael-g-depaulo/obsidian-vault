@@ -5,6 +5,7 @@ https://manhuaus.org/manga/i-randomly-have-a-new-career-every-week-manhuaus/chap
 https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 https://wotaku.wiki/websites#manga
+koharu nsfw (https://everythingmoe.com/s/kskmoe)
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
@@ -36,7 +37,6 @@ https://wotaku.wiki/websites#manga
 - https://mgdemon.org/manga/Reformation-Of-The-Deadbeat-Noble/chapter/3-VA54
 - https://manhwatop.com/manga/dragon-master-series-manhua/chapter-0/
 - https://manhwatop.com/manga/virtual-world-close-combat-mage-series/
-- https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants
 - https://kaliscan.io/manga/76124-rock-is-a-ladys-modesty
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-1
@@ -46,6 +46,7 @@ https://wotaku.wiki/websites#manga
 - https://www.bilibilicomics.net/comic/2179-the-saintess-has-a-showdown
 - price for freedom
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
+- https://kaliscan.io/manga/43789-reincarnation-of-the-unrivalled-time-mage-the-underachiever-at-the-magic-academy-turns-out-to-be-the-strongest-mage-who-controls-time-official/chapter-13.1
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -59,9 +60,9 @@ https://wotaku.wiki/websites#manga
 - [Virus Girlfriend](https://manhwatop.com/manga/virus-girlfriend-my-girlfriend-is-a-zombie-series/chapter-225/)
 - [Does Your Mother Need a Son-in-Law?](https://manhwatop.com/manga/son-in-law-does-cheap-cultivation/chapter-161/)
 - [Trapped on the Same day for 3000 Years](https://zscans.com/comics/ive-been-trapped-on-the-same-day-for-over-3000-years/5533)
+- https://manhwatop.com/manga/virtual-world-close-combat-mage-series/chapter-5/
 - https://night-scans.com/8781815493-i-can-summon-god-redone-chapter-69/
 - https://night-scans.com/8781815493-global-killing-awakening-sss-level-talent-at-the-beginning-chapter-45/
-- https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-10/
 - https://manhwatop.com/manga/about-how-i-with-only-magical-power-of-0-06-became-the-strongest-hunter-with-just-my-skill-level-and-proved-the-greatness-of-the-slingshot/chapter-15/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-203
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
@@ -73,13 +74,17 @@ https://wotaku.wiki/websites#manga
 - https://hivetoon.com/series/study-group/chapter-87
 - https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-9/
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp
-- https://comick.io/comic/i-really-don-t-want-to-remake/PVLY2-chapter-0-en
-- https://kaliscan.io/manga/1086-apotheosis/chapter-198
+- https://kaliscan.io/manga/1086-apotheosis/chapter-558
+- https://comick.io/comic/i-really-don-t-want-to-remake/CWHXzWjU-chapter-37-en
+- https://comick.io/comic/skill-lender-s-retrieving-tale-i-told-you-it-s-10-per-10-days-at-first-didn-t-i/ZcMKIo8X-chapter-47-en#page=20
+- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-23/
+- https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-19/
+- https://manhuaus.org/manga/stuck-in-the-tower/chapter-13/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-152-5/)
+- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-165/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -92,19 +97,22 @@ https://wotaku.wiki/websites#manga
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-77/)
+- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-87/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
-- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-148/)
+- [All the Female Aprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-150/)
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
-- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/kbVBeYp_-chapter-154-en
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-164
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/FSHEQIK_-chapter-177-en
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-180
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
+- https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
+- [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
+- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-30/
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
@@ -140,19 +148,18 @@ https://wotaku.wiki/websites#manga
 - [Boundless Necromancer](https://asuracomics.com/4485330618-boundless-necromancer-chapter-45/)
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
+- [Legend of the Reincarnated Demon God](https://asuracomic.net/series/legend-of-the-reincarnated-demon-god-d01a3511/chapter/46)
 
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
-- [Star Instructor, Master Baek](https://asuratoon.com/0258791518-star-instructor-master-baek-chapter-99/)
-- https://hivetoon.com/2024/records-of-the-demonic-path-s-return-chapter-45/
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
+
+## Re-reading
+- https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-1
 
 ## Done
 - [Heavenly Demon Instructor](https://asuratoon.com/0258791518-heavenly-demon-instructor-chapter-105/)
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
 - [Heroine's in love with me after reading my mind](<- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/>)
-
-## Re-reading
-- https://www.manhwah.xyz/2024/03/TheGreatVillainSeniorBrotherandAllofHisYandereJuniorSistersch103.html

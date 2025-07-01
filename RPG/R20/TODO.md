@@ -13,7 +13,6 @@
 - [ ] crit on iniciative => 1 extra movement action on first round
 - [ ] ranged attack disadvantage on enemy in melee, not on target in melee
 
-
 - [ ] Beast Warrior
 	- [ ] Remove rage ending if didn't take dmg
 	- [ ] Add synergy with companion (companion feats)
@@ -23,9 +22,6 @@
 	- [ ] buff sharkodile rage buff
 	- [ ] add a bunch of feats that increase max hp
 	- [ ] more healing when under 50%
-	- [ ] max hp increase feats
-		- [ ] debuffs while above 50%
-		- [ ] buffs while below 50%
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
 - [ ] Make class "movement action" skills still allow half-movement
@@ -36,3 +32,23 @@
 	- [ ] martials get more flavor feats (martial combat feats become more powerful by default. mostly passive stuff, not mana consuming)
 - [ ] class ideas
 	- [ ] bleed-centric martial, with **Bloody Strike.** (while attacking) free (1PM): the enemy rolls resist (CON). if they fail, they gain 2 bleed stacks. At the start of a creature's turn, if they are bleeding they lose 1d4-1 HP for every stack of bleed and lose 1 stack of bleed. prolly remove con save. maybe keep the con save but make it free to use, and can spend 1PM to garantee the bleed sticks
+- [ ] **Martial Techniques:** spells, but for martials
+
+### spider-classe
+- core mechanic: grappling hook. 
+	- activates to attempt to grapple target.
+	- can go to target
+	- can bring target to self
+	- can topple target
+- bonus to maneuvers
+- feat to grapple objects
+- feats to grapple and auto-push/pull
+- add damage to grapple
+- multi-grapple
+- contant damage on grapple
+- debuffs on grappled target.
+- connecting rope as trigger for damage/other effects
+
+### ideia de classe shuster
+- ideia geral: anti-mage transhumanism. tecnologia vs. natureza e tal.
+- manutenção de features
