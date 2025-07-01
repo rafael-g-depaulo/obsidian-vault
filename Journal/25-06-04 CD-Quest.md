@@ -58,6 +58,7 @@
 | 1-30%                    | 1                                        | 2                                                 | 3                                                 |
 | 31-70%                   | 2                                        | 3                                                 | 4                                                 |
 | 71-100%                  | 3                                        | **4**                                             | 5                                                 |
+
 ### Exemplos Frequentes
 - Consegui realizar essa tarefa do trabalho, então era algo fácil
 - Estou empacado nesse problema, estou sendo improdutivo e falho.
