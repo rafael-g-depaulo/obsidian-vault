@@ -6,7 +6,7 @@
 ## Common issues
 
 ### Env vars
-you can add a `*.d.ts` fileand declare a `ImportMetaEnv` interface, like so:
+you can add a `*.d.ts` file and declare a `ImportMetaEnv` interface, like so:
 
 ```ts
 // <reference types="vite/client" />
