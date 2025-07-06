@@ -107,7 +107,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
-- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/FSHEQIK_-chapter-177-en
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/RrbFTrtm-chapter-184-en
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-180
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
