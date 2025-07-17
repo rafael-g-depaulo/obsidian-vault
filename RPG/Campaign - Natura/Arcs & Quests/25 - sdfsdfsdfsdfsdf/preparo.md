@@ -32,3 +32,4 @@ Fazem algumas semanas desde que a vida desse grupo mudou drásticamente. Tudo co
 - Carroças + burros de carga (Hefca + Fifi)
 - 20gp de comida (Odrel)
 - 100gp Jão
+
