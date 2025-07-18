@@ -66,7 +66,9 @@ List of spells available for a Witch to learn.
 - [[Teia]]
 - [[Tentacle Twister]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]{{page-break}}
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]

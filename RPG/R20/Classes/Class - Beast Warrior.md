@@ -89,7 +89,7 @@ NOTE_BEASTLY_CONSTITUITION
 CLASS_NOTE_NAME: Wild Rage
 CLASS_NOTE_DESCRIPTION:
 
-Some powers are wild rage animal forms. While raging and below half HP, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
+Some powers are wild rage animal forms. While **Raging** and **Bloodied**, you can spend a free action and 5 HP to enter a Wild Rage. Only one kind of Wild Rage can be active at a time.
 
 A wild rage has a passive effect, and adds a bonus feature to your Savage Attacks
 }}
