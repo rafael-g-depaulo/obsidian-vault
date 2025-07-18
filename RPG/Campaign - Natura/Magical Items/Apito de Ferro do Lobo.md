@@ -1,1 +1,1 @@
-Um apito velho e arranhado de ferro preto. quando assoprado, faz um chiado parecido com o uivar de um lobo solitário.
+Um apito velho e arranhado de ferro preto. quando assoprado, faz um chiado parecido com o uivar de um lobo solitário. em 1d6 turnos (não rodadas) a espada bastarda do Sir. João Uíque assobia pelo vento como se jogadae se finca no 

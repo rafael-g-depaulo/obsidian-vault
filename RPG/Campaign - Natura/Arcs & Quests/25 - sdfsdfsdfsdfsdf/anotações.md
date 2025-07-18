@@ -13,4 +13,6 @@ dia 14:
 
 
 dia 17:
-- Lumb: zyggs caiu na fogueira quando kaiser chutou
+- Lumb: zyggs caiu na fogueira quando kaiser chutou ele
+- Syril: curei ele
+- falha
