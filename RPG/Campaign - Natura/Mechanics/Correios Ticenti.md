@@ -17,3 +17,4 @@ Também é possível comprar um carimbo com o seu selo, que você pode dar para 
 | ----------------------- | ---------- |
 | Criação/Link do Símbolo | 500 silver |
 | Carimbo                 | 20 silver  |
+|                         |            |
