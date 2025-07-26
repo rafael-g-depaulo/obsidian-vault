@@ -77,7 +77,6 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://kaliscan.io/manga/1086-apotheosis/chapter-558
 - https://comick.io/comic/i-really-don-t-want-to-remake/CWHXzWjU-chapter-37-en
 - https://comick.io/comic/skill-lender-s-retrieving-tale-i-told-you-it-s-10-per-10-days-at-first-didn-t-i/ZcMKIo8X-chapter-47-en#page=20
-- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-23/
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-19/
 - https://manhuaus.org/manga/stuck-in-the-tower/chapter-13/
 
