@@ -112,7 +112,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-31/
+- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-35/
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
