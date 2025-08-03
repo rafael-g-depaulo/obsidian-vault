@@ -1,0 +1,1 @@
+[One trillion free draws](https://duducat.moe/gacha/)
