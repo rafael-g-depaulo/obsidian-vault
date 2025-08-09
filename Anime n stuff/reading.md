@@ -79,6 +79,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://comick.io/comic/skill-lender-s-retrieving-tale-i-told-you-it-s-10-per-10-days-at-first-didn-t-i/ZcMKIo8X-chapter-47-en#page=20
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-19/
 - https://manhuaus.org/manga/stuck-in-the-tower/chapter-13/
+- https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-6
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
