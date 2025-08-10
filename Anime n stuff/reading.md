@@ -73,7 +73,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-70
 - https://hivetoon.com/series/study-group/chapter-87
 - https://manhwatop.com/manga/i-regressed-but-the-world-didn-t-end/chapter-9/
-- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
 - https://kaliscan.io/manga/1086-apotheosis/chapter-558
 - https://comick.io/comic/i-really-don-t-want-to-remake/CWHXzWjU-chapter-37-en
 - https://comick.io/comic/skill-lender-s-retrieving-tale-i-told-you-it-s-10-per-10-days-at-first-didn-t-i/ZcMKIo8X-chapter-47-en#page=20
@@ -97,7 +97,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-89/)
+- [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-91/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
 - [All the Female Apprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-210/)
@@ -108,7 +108,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/TKAK7h3B-chapter-190-en
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-196
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-200
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
