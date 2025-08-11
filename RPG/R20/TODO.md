@@ -24,19 +24,21 @@
 	- [ ] more healing when under 50%
 
 - [ ] make class skills scale with proficiency instead of arbitrarily
-- [ ] Make class "movement action" skills still allow half-movement
+- [x] Make class "movement action" skills still allow half-movement
 
 ## IDEAS
 - [ ] give "estilo de" to martials for free.
 - [ ] flavor feats required at certain levels
 	- [ ] martials get more flavor feats (martial combat feats become more powerful by default. mostly passive stuff, not mana consuming)
+	- [ ] alternative: add flavor to combat feats to decrease complexity and choices.
 - [ ] class ideas
 	- [ ] bleed-centric martial, with **Bloody Strike.** (while attacking) free (1PM): the enemy rolls resist (CON). if they fail, they gain 2 bleed stacks. At the start of a creature's turn, if they are bleeding they lose 1d4-1 HP for every stack of bleed and lose 1 stack of bleed. prolly remove con save. maybe keep the con save but make it free to use, and can spend 1PM to garantee the bleed sticks
 - [ ] **Martial Techniques:** spells, but for martials
 	- [ ] they "replace" maneuvers
 	- [ ] can use instead of x attacks if you take attack action. kinda like sneak attack options
+	- [ ] only the flashy ones cost MP
 	- [ ] have lvl requirements for the cool ones.
-	- [ ] probably allow any martial to perform them. off-casters
+	- [ ] probably allow any martial to perform them. off-casters maybe have a lvl penalty? idk think later.
 
 ### spider-classe
 - core mechanic: grappling hook. 
