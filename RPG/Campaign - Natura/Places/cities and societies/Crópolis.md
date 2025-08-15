@@ -8,8 +8,10 @@ Cidade relativamente grande, com comércio & caça como principais indústrias. 
 ### Escola de estudos arcanos
 ### Escola de estudos científicos
 ### Centro de Ajuda
-pseudo guilda de aventureiros. principalemente pedidos de caça, mas também local de 
+pseudo guilda de aventureiros. principalemente pedidos de caça, mas também tem pedidos de achar pessoas perdidas, fazer serviços gerais, etc.
 
 
 ## Mapa
+
+
 ![[509f605bc8e33d0d63b1b93888cdbcfa.jpg|650]]
