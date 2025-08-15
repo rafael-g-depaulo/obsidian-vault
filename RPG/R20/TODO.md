@@ -58,3 +58,6 @@
 ### ideia de classe shuster
 - ideia geral: anti-mage transhumanism. tecnologia vs. natureza e tal.
 - manutenção de features
+
+### Foundry
+- auras syril (target e visual)
