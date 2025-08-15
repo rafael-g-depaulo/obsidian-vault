@@ -10,6 +10,7 @@ Cidade relativamente grande, com comércio & caça como principais indústrias. 
 ### Centro de Ajuda
 pseudo guilda de aventureiros. principalemente pedidos de caça, mas também tem pedidos de achar pessoas perdidas, fazer serviços gerais, etc.
 
+### Guilda dos Informantes
 
 ## Mapa
 
