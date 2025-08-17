@@ -107,12 +107,12 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
-- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/TKAK7h3B-chapter-190-en
+- https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-200
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-35/
+- https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-36/
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 
 ## Reading on Asura
