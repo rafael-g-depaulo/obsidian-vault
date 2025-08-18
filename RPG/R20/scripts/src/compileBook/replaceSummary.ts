@@ -50,8 +50,8 @@ const pageCounter = (lines: string[]): PagedHeading[] => {
 }
 
 const makeTocItem = (heading: PagedHeading) =>
-  heading.level === 1 ? `- ### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})` :
-    heading.level === 2 ? `- #### [{{ ${heading.line} }}{{ ${heading.page} }}](#p${heading.page})`
+  heading.level === 1 ? `- ### [{{ ${heading.line} }}{{ ${heading.page - 1} }}](#p${heading.page})` :
+    heading.level === 2 ? `- #### [{{ ${heading.line} }}{{ ${heading.page - 1} }}](#p${heading.page})`
       : `- ${heading.line}`
 
 const makeTocPage = (headings: PagedHeading[]) => {
