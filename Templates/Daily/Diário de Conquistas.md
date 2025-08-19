@@ -1,11 +1,5 @@
-## Psych
-
 ### Diário de Conquista
 
 | Data | Conquista | Quais habilidades, esforços ou estratégias | Como me senti depois | O que isso mostra sobre mim (capacidades/valor) |
 | ---- | --------- | ------------------------------------------ | -------------------- | ----------------------------------------------- |
 |      |           |                                            |                      |                                                 |
-
-
-![[Pasted image 20250819162504.png]]
-
