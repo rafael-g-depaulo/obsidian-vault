@@ -108,7 +108,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-203
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-206
 - https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
