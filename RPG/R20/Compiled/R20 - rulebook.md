@@ -6437,6 +6437,9 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 
 
+
+
+
 {{pageNumber,auto}}
 \page
 # Contracts, Paladins & Entities
@@ -6512,13 +6515,15 @@ Toda benção tem como pré-requisito ser paladino.
 
 ### Rosa Maria
 
+
 ### Lyf
+
 
 
 {{pageNumber,auto}}
 \page
 # Entities
-
+############ INVALID_LINK "null" ############
 
 ############ INVALID_LINK "null" ############
 ############ INVALID_LINK "null" ############

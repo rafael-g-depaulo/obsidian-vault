@@ -12,5 +12,5 @@
 
 **Voz de Fey.** Pode aplicar o seguinte aprimoramento para magias de #enchantment : "**+2 FP, +1 PM:** Aumente a CD dessa magia em 2". *O tom hipnótico que só aqueles familiares com os cantos e brincadeiras das fadas tem*
 
-****
+**Aftercare.** Pode aplicar o seguinte aprimoramento para magias, milagres e habilidades de classe que curam: "**+2FP:** criaturas curadas também recebem \[seu atributo de milagre\] HP temporários."
 

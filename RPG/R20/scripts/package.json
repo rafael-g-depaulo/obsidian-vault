@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon --watch \"*.ts\" --exec \"tsx\" ./src/index.ts",
+    "compile-spells": "nodemon --watch \"*.ts\" --exec \"tsx\" ./src/compile-spells/index.ts",
     "compile": "ts-node ./src/index.ts"
   },
   "dependencies": {
