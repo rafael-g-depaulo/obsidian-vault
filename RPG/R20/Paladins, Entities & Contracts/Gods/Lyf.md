@@ -6,9 +6,9 @@ not much, really.
 people "stealing it's food".
 
 ### Blessings
-**Resistência Necrótica.** (Ao receber dano necrótico, veneno ou ácido) Livre (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
+**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
 
-**Último Predador.** Completa ()
+**Último Predador.** (Você ataca ou usa habilidade em uma criatura viva orgânica) Reação (2FP): Você tem vantagem em rolagens de ataque e o alvo tem desvantagem em testes de resistências desse ataque ou habilidade.
 
 %%
 **Lyf's Mask**. buff perception, insight, intimidation, necrotic damage for scene. buff mental stat saves
