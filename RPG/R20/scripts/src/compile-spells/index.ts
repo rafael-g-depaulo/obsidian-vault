@@ -1,6 +1,6 @@
 import { listFiles } from "../file"
 import { makeSpellDefinitionMacroString } from "./makeSpellDefinitionMacroString"
-import { readCsvFile } from "./readCsv"
+import { readCsvFile, Spell5eToolsExport } from "./readCsv"
 
 console.log("SDFSDFSDF")
 
@@ -18,9 +18,13 @@ const parseCsvFile = (...csvPath: string[]) =>
 // .then(a => console.log(a[0]))
 // .then
 
-const getAllSpellNames = (spellListDir = SpellsListDir) => listFiles(spellListDir).then(spellFilenames => spellFilenames.map(spellFilename => spellFilename.replace('.md', '')))
+const getAllSpellNames = (spellListDir: string = SpellsListDir) => listFiles(spellListDir)
+  .then(spellFilenames => spellFilenames
+    .map(spellFilename => spellFilename.replace('.md', ''))
+  )
 
 // parseCsvFile(SpellsRootDir, csvFilenameToParse).then(a => console.log(a))
 
+const filterExistingSpells = (spellNames: string[], spells: Spell5eToolsExport[]) => spells.filter(spell => !spellNames.some(spellName => spellName === spell.Name))
 
 getAllSpellNames().then((a) => console.log(a))
