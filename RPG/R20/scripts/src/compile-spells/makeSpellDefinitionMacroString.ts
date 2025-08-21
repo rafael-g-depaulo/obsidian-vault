@@ -21,6 +21,7 @@ DESCRIPTION:
 ${spell.Text}
 
 INCREASES:
+
 | cost | description |
 | ---- | ----------- |
 | +0 PM     |    Placeholder        |
