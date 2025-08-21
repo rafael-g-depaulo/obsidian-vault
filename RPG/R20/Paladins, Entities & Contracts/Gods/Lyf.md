@@ -6,6 +6,9 @@ not much, really.
 people "stealing it's food".
 
 ### Blessings
+**Resistência Necrótica.** (Ao receber dano necrótico, veneno ou ácido) Livre (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
+
+**Último Predador.** Completa ()
 
 %%
 **Lyf's Mask**. buff perception, insight, intimidation, necrotic damage for scene. buff mental stat saves

@@ -1,5 +1,5 @@
 # Entities
-%% ! [[Atarp - Treos]] %%
+![[Atarp - Treos]]
 
 ![[Lyf]]
 ![[Rosa Maria]]
