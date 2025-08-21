@@ -7,7 +7,10 @@
 **Charm Person**. Ação (2FP) [[Charm Person]] Spell
 
 [[Healing Spirit]]
-### Blessings
-**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
 
-**Último Predador.** (Você ataca ou usa habilidade em uma criatura viva orgânica) Reação (2FP): Você tem vantagem em rolagens de ataque e o alvo tem desvantagem em testes de resistências desse ataque ou habilidade.
+### Blessings
+
+**Voz de Fey.** Pode aplicar o seguinte aprimoramento para magias de #enchantment : "**+2 FP, +1 PM:** Aumente a CD dessa magia em 2". *O tom hipnótico que só aqueles familiares com os cantos e brincadeiras das fadas tem*
+
+****
+
