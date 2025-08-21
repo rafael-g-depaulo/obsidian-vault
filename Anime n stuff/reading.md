@@ -100,7 +100,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - [Youngest Son of Nangum](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-91/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
-- [All the Female Apprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-210/)
+- [All the Female A33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333pprentices Want to Kill Me](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-210/)
 - [Omnipotent Warrior](https://kaliscan.io/manga/48297-omnipotent-warrior/chapter-34)
 - https://night-scans.com/9792396216-i-level-up-by-absorbing-everything-chapter-29/
 - https://night-scans.com/endless-devourer-chapter-218/
@@ -121,7 +121,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - [Logging 10k Years into the Future](https://asuratoon.com/1908287720-logging-10000-years-into-the-future-chapter-112/)
 - [School Life Pretending to be Worthless](https://asuratoon.com/1908287720-my-school-life-pretending-to-be-a-worthless-person-chapter-59/)
 - [Heavenly Grand Archives Young Master](https://asuratoon.com/4622438374-heavenly-grand-archives-young-master-chapter-61/)
-- [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)
+- [Chronicles of the Martial God](https://asuratoon.com/9260952888-chronicles-of-the-martial-gods-return-chapter-85/)3333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
 - [Talent Devouring Mage](https://asuratoon.com/1908287720-talent-swallowing-magician-chapter-71/)
 - [Reincarnated Escort Warrior](https://asuratoon.com/0873280421-reincarnated-escort-warrior-chapter-53-s1-end/)
 - [Became a Renowned Family's Sword Prodigy](https://asuratoon.com/1908287720-i-became-a-renowned-familys-sword-prodigy-chapter-110/)
