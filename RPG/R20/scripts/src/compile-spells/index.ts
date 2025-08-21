@@ -7,6 +7,8 @@ const csvPath = `../Spells/3rd-circle-Spells.csv`
 
 readCsvFile(csvPath)
   .then(spells => spells
-    // .map(makeSpellDefinitionMacroString)
+    .map(makeSpellDefinitionMacroString)
   )
-  .then(a => console.log(a[0]))
+  // .then(a => console.log(a[0]))
+  // .then
+  .then(a => console.log(a))

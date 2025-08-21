@@ -14,6 +14,7 @@ export type Spell5eToolsExport = {
   Classes: string,
   Subclasses: string,
   Text: string,
+  "At Higher Levels": string,
 }
 
 
