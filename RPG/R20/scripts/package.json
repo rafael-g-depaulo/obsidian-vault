@@ -8,6 +8,7 @@
     "compile": "ts-node ./src/index.ts"
   },
   "dependencies": {
+    "csv-parse": "^6.1.0",
     "ohm-js": "^17.1.0",
     "typescript": "^4.9.4"
   },
