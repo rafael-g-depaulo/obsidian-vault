@@ -19,11 +19,11 @@ const filterExistingSpells = (spellNames: string[], spells: Spell5eToolsExport[]
 const compileNewSpells = async (spells: Spell5eToolsExport[], spellNames: string[]) => {
   const newSpells = filterExistingSpells(spellNames, spells)
     .map(spell => [`${spell.Name}.md`, makeSpellDefinitionMacroString(spell)])
-    .map(([filename, content]) => writeToFile(ParsedSpellsOutputDir, filename, content))
+    .map(([filename, content]) => writeToFile(ParsedSpellsOutputDir, filename, content).then(() => filename.replace('.md', '')))
 
   return Promise.all(newSpells)
     .then(fileWrites => Promise.all(fileWrites))
-    .then(() => spellNames)
+  // .then(() => Promise.all(newSpells))
 }
 
 const parseSpellsFromCsv = async (csvFileName: string) => {
