@@ -1,12 +1,10 @@
 ## Rosa Maria
 
 ### Values
-Pranks, plantas e descontração. Respei
+Pranks, plantas e descontração. Respeitar a flora, e ignorar sofrimento alheio. Risos de crianças e amor puro e inocente,
 
 ### Hates
-people "stealing it's food".
-
-
+Pessoas sérias e responsabilidade.
 
 ### Miracles
 
