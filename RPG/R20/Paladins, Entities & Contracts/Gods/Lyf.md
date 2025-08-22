@@ -5,6 +5,9 @@ not much, really.
 ### Hates
 people "stealing it's food".
 
+### Miracles
+
+
 ### Blessings
 **Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
 
