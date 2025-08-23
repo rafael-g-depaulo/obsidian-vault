@@ -6,12 +6,22 @@ not much, really.
 people "stealing it's food".
 
 ### Miracles
-- sfsdfsdf
-- sdf
-- sdf
-- sdf
-- sdf
-- 
+- Vampiric Touch
+- Stinking Cloud
+- Hunger of Hadar
+- Gaseous Form
+- Feign Death
+- Bestow Curse
+- Wither and Bloom
+- Toll the Dead
+- ??? Maximilian's Earthen Grasp
+- Life Transference
+- Insect Plague
+- Infligir Ferimentos
+- Infestation
+- Espelho do Pântano
+- Entangle
+- Detect Poison and Disease
 
 ### Blessings
 **Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 

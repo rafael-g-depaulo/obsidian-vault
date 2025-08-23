@@ -18,7 +18,7 @@ RANGE: 30 feet
 DURATION: Instantaneous
 
 DESCRIPTION:
-You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
+You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and another creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take. You can never go bellow 1HP from this spell, but your target still heals for the full amount.
 
 INCREASES:
 | cost | description |
