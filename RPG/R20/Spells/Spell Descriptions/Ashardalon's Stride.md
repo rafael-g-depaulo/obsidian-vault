@@ -5,7 +5,11 @@ TAGS:
   - #fire 
   - #elemental 
   - #warmagic 
-  - #
+  - #thaumaturgy 
+  - #transmutation 
+  - #no-arcane 
+  - #boost 
+  - #sacred 
 
 LEVEL: 3
 

@@ -2,20 +2,22 @@
 
 TAGS: 
   - #spell
+  - #holy
+  - #sacred 
 
 LEVEL: 3
 
 CAST_TIME: Action
-RANGE: 30 feet
-TARGET: 
-DURATION: Concentration, up to 1 minute
+RANGE: 6sqr
+TARGET: creatures
+DURATION: Concentration
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
-Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
+For the duration, each target has Advantage on SEN saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
 
 INCREASES:
 
