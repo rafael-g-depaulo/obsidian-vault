@@ -2,6 +2,8 @@
 
 TAGS: 
   - #spell
+  - #necromancy 
+  - #occult
 
 LEVEL: 3
 
@@ -11,7 +13,7 @@ TARGET:
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +21,9 @@ Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. T
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description                        |
+| ----- | ---------------------------------- |
+| +2 PM | Anime uma pilha de ossos adicional |
 
 
 %% RANDOM

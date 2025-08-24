@@ -2,16 +2,21 @@
 
 TAGS: 
   - #spell
+  - #speech 
+  - #trickery 
+  - #enchantment 
+  - #curse 
+  - #occult 
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 30 feet
-TARGET: 
+TARGET: criatura
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+RESISTANCE: SEN
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +24,9 @@ You whisper magical words that antagonize one creature of your choice within ran
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description           |
+| ----- | --------------------- |
+| +1 PM | Aumenta o dano em 1d4 |
 
 
 %% RANDOM

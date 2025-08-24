@@ -2,16 +2,18 @@
 
 TAGS: 
   - #spell
+  - #recovery 
+  - #holy 
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Self
 TARGET: 
-DURATION: Concentration, up to 1 minute
+DURATION: Concentration
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
@@ -32,4 +34,3 @@ INCREASES:
 %%
 
 
-}}
