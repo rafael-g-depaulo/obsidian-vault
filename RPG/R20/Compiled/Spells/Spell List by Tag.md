@@ -185,6 +185,7 @@
 - [[Ray of Enfeeblement]]
 - [[Wither and Bloom]]
 ### 3rd Circle
+- [[Antagonize]]
 - [[Flecha Ácida]]
 - [[Oração]]
 
@@ -259,6 +260,7 @@
 - [[Scorching Ray]]
 - [[Snowball Swarm]]
 ### 3rd Circle
+- [[Ashardalon's Stride]]
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
 
@@ -469,6 +471,7 @@
 
 ## No-arcane Spells
 ### 3rd Circle
+- [[Ashardalon's Stride]]
 - [[Espelho do Pântano]]
 
 ## No-nature Spells
@@ -538,6 +541,7 @@
 - [[Shadow Blade]]
 - [[Wither and Bloom]]
 ### 3rd Circle
+- [[Animate Dead]]
 - [[Flecha Ácida]]
 - [[Life Transference]]
 - [[Oração]]
@@ -634,6 +638,8 @@
 - [[See invisibility]]
 - [[Wither and Bloom]]
 ### 3rd Circle
+- [[Ashardalon's Stride]]
+- [[Beacon of Hope]]
 - [[Campo de Força]]
 - [[Físico Divino]]
 - [[Mass Healing Word]]
@@ -739,6 +745,7 @@
 - [[Scorching Ray]]
 - [[Shadow Blade]]
 ### 3rd Circle
+- [[Ashardalon's Stride]]
 - [[Campo de Força]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
@@ -826,6 +833,7 @@
 - [[Sugestion]]
 - [[Web]]
 ### 3rd Circle
+- [[Antagonize]]
 - [[Camuflagem ilusória]]
 - [[Espelho do Pântano]]
 - [[Invisibilidade]]

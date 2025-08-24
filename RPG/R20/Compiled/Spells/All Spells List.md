@@ -155,6 +155,10 @@ List of spells available for a All to learn.
 - [[Wither and Bloom]]
 
 ### 3rd Circle
+- [[Animate Dead]]
+- [[Antagonize]]
+- [[Ashardalon's Stride]]
+- [[Beacon of Hope]]
 - [[Campo de Força]]
 - [[Camuflagem ilusória]]
 - [[Espelho do Pântano]]
@@ -171,8 +175,12 @@ List of spells available for a All to learn.
 - [[Toque Vampírico]]
 
 ### 5th Circle
+- [[Contagion]]
 - [[Pele de Pedra]]
 - [[Transformação de Guerra]]
 
 ### 6th Circle
 - [[Blade Barrier]]
+
+### 7th Circle
+- [[Manto do Cruzado]]

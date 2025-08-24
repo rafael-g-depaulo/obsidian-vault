@@ -748,6 +748,7 @@ List of spells available for a  to learn.
 - [Snowball Swarm (link not found)]()
 
 ### 3rd Circle
+- [Ashardalon's Stride (link not found)]()
 - [Flecha Ácida (link not found)]()
 - [Relâmpago (link not found)]()
 - [Sopro das Uivantes (link not found)]()
