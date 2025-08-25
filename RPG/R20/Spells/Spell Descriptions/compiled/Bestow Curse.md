@@ -2,16 +2,20 @@
 
 TAGS: 
   - #spell
+  - #curse 
+  - #occult 
+  - #trickery 
+  - #enchantment 
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Touch
-TARGET: 
+TARGET: Criatura
 DURATION: Concentration, up to 1 minute
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +23,9 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description                    |
+| ----- | ------------------------------ |
+| +2 PM | Mude o dano necrótico para 2d8 |
 
 
 %% RANDOM
