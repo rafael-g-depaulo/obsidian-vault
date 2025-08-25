@@ -2,16 +2,19 @@
 
 TAGS: 
   - #spell
+  - #divination 
+  - #arcane 
+  - #creation 
 
 LEVEL: 3
 
 CAST_TIME: 10 Min.
 RANGE: 1 mile
 TARGET: 
-DURATION: Concentration, up to 10 minutes
+DURATION: Cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +22,9 @@ You create an Invisible sensor within range in a location familiar to you (a pla
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +0 PM | Placeholder |
 
 
 %% RANDOM

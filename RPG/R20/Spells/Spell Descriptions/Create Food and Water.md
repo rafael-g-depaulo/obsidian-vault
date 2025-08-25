@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #water 
+  - #nature 
+  - #creation 
+  - #arcane 
 
 LEVEL: 3
 
@@ -11,7 +15,7 @@ TARGET:
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

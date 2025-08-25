@@ -19,6 +19,6 @@ INCREASES:
 
 | cost | description |
 | ---- | ----------- |
-| +1PM | +1d8 dano   | 
+| +1PM | +1d8 dano   |
 
 }}

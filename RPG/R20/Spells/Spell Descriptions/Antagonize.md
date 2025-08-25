@@ -7,6 +7,8 @@ TAGS:
   - #enchantment 
   - #curse 
   - #occult 
+  - #psyquic 
+  - #energy 
 
 LEVEL: 3
 

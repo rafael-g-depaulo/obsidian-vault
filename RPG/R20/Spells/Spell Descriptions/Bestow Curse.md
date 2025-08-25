@@ -6,6 +6,8 @@ TAGS:
   - #occult 
   - #trickery 
   - #enchantment 
+  - #necrotic 
+  - #decay 
 
 LEVEL: 3
 

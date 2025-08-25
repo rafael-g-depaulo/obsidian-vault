@@ -2,6 +2,12 @@
 
 TAGS: 
   - #spell
+  - #holy 
+  - #sacred 
+  - #warmagic 
+  - #thaumaturgy 
+  - #radiant 
+  - #energy
 
 LEVEL: 3
 
@@ -11,7 +17,7 @@ TARGET:
 DURATION: 1 minute
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+RESISTANCE: CON
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +25,9 @@ The target hit by the strike takes an extra 3d8 Radiant damage from the attack, 
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +2 PM | +1d8 dano   |
 
 
 %% RANDOM
