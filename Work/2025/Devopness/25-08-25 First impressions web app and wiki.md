@@ -1,4 +1,5 @@
 Found this thing while playing around with the web app:
+
 ![[Pasted image 20250825173445.png]]
 
 it would have a better UX with a different message. Something like "No actions related to this resource yet.", indicating that you don't *create* and action, but that you do something and the action will show up here.
@@ -14,7 +15,6 @@ flowchart TD
   C --> A
 
 ```
-
 
 ---
 
@@ -41,4 +41,4 @@ Also **team-memberships** is already a subfolder under `environments`, with a si
 
 ---
 
-`webhooks` index page doesn't have cards with the section's focuses like other sections have.
+`webhooks` index page doesn't have cards with the section's focuses like other sections have (e.g.: `virtual-hosts/`).
