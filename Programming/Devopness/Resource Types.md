@@ -20,3 +20,5 @@ Actual cloud machine
 ## Virtual Host
 Interface (IP/DNS) to connect an Application/Server to the web
 
+
+## SSL Certificate
