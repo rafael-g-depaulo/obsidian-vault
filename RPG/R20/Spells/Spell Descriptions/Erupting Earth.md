@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #earth 
+  - #nature 
+  - #transmutation 
+  - #arcane 
 
 LEVEL: 3
 
@@ -19,9 +23,9 @@ Choose a point you can see on the ground within range. A fountain of churned ear
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description  |
+| ----- | ------------ |
+| +2 PM | +1d12 damage |
 
 
 %% RANDOM

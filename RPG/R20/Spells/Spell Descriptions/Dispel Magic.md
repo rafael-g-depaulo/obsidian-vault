@@ -2,6 +2,11 @@
 
 TAGS: 
   - #spell
+  - #trickery 
+  - #occult 
+  - #unholy 
+  - #abjuration 
+  - #thaumaturgy 
 
 LEVEL: 3
 
@@ -11,11 +16,11 @@ TARGET:
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
-Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's level). On a successful check, the spell ends.
+Choose one creature, object, or magical effect within range. Any ongoing spell of 3rd circle or lower on the target ends. For each ongoing spell of 4th circle or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's circle). On a successful check, the spell ends.
 
 INCREASES:
 

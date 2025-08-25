@@ -3,7 +3,10 @@
 TAGS: 
   - #spell
   - #evocation 
-  - #wa
+  - #thaumaturgy 
+  - #abjuration 
+  - #energy 
+  - #radiant 
 
 LEVEL: 3
 

@@ -2,16 +2,20 @@
 
 TAGS: 
   - #spell
+  - #trickery 
+  - #ilusion 
+  - #unholy 
+  - #occult
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 120 feet
 TARGET: 
-DURATION: Concentration, up to 1 minute
+DURATION: Concentration
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+RESISTANCE: INT
 %%TAGS:%%
 
 DESCRIPTION:
