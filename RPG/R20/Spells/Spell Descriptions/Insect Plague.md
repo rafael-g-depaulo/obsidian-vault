@@ -1,5 +1,7 @@
 {{spell-definition "Insect Plague"
+
 LEVEL: 5
+
 CAST_TIME: 1 Action
 RANGE: 300 feet
 COMPONENTS_TEMP_NOT_USED: a few grains of sugar, some kernels of grain, and a smear of fat

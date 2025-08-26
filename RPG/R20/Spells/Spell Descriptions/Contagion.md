@@ -1,8 +1,15 @@
 {{spell-definition "Contagion"
+
 LEVEL: 5
 CAST_TIME: 1 Action
 RANGE: Touch
 DURATION: 7 days
+TAGS:
+- #spell
+- #unholy
+- #occult
+- #decay
+- #curse
 
 DESCRIPTION:
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.

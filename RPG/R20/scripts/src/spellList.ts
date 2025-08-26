@@ -21,6 +21,14 @@ export const createTagSpellMap = (spells: Spell[]) =>
     return acc
   }, {})
 
+const averageLinesPerPage = 60 * 2
+type LineCounter = {
+  text: string
+  curLine: number
+}
+const breakLargeSpellList = (text: string) => text.split('\n').reduce<LineCounter>((acc, cur) => {
+  return acc
+}, { text: "", curLine: 0 })
 export const makeTagSpellList = (tag: string, spells: Spell[]) =>
   `## ${tag[0].toUpperCase()}${tag.slice(1)} Spells\n` +
   groupByLevel(spells)

@@ -15,7 +15,7 @@ LEVEL: 3
 
 CAST_TIME: Bonus
 RANGE: Self
-TARGET: 
+TARGET: self
 DURATION: Concentration
 
 %%CRIT: 20/2x%%

@@ -749,9 +749,29 @@ List of spells available for a  to learn.
 
 ### 3rd Circle
 - [Ashardalon's Stride (link not found)]()
+- [Bestow Curse (link not found)]()
+- [Blinding Smite (link not found)]()
+- [Clairvoyance (link not found)]()
+- [Conjure Barrage (link not found)]()
+- [Create Food and Water (link not found)]()
+- [Crusader's Mantle (link not found)]()
+- [Erupting Earth (link not found)]()
+- [Fireball (link not found)]()
+- [Flame Arrows (link not found)]()
 - [Flecha Ácida (link not found)]()
+- [Haste (link not found)]()
+- [Lightning Bolt (link not found)]()
+- [Melf's Minute Meteors (link not found)]()
+- [Protection from Energy (link not found)]()
 - [Relâmpago (link not found)]()
 - [Sopro das Uivantes (link not found)]()
+- [Spirit Shroud (link not found)]()
+- [Stinking Cloud (link not found)]()
+- [Thunder Step (link not found)]()
+- [Tidal Wave (link not found)]()
+- [Tongues (link not found)]()
+- [Wall of Sand (link not found)]()
+- [Wall of Water (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1278,10 +1298,27 @@ List of spells available for a  to learn.
 - [Sugestion (link not found)]()
 
 ### 3rd Circle
+- [Bestow Curse (link not found)]()
+- [Blink (link not found)]()
 - [Campo de Força (link not found)]()
+- [Clairvoyance (link not found)]()
+- [Conjure Barrage (link not found)]()
+- [Create Food and Water (link not found)]()
+- [Dispel Magic (link not found)]()
+- [Erupting Earth (link not found)]()
+- [Flame Arrows (link not found)]()
 - [Flecha Ácida (link not found)]()
+- [Fly (link not found)]()
 - [Físico Divino (link not found)]()
+- [Haste (link not found)]()
+- [Melf's Minute Meteors (link not found)]()
+- [Plant Growth (link not found)]()
 - [Sopro das Uivantes (link not found)]()
+- [Stinking Cloud (link not found)]()
+- [Tidal Wave (link not found)]()
+- [Tongues (link not found)]()
+- [Wall of Sand (link not found)]()
+- [Wall of Water (link not found)]()
 
 {{pageNumber,auto}}
 \page

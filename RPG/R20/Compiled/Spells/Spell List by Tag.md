@@ -17,17 +17,21 @@
 - [[Pass Without a Trace]]
 ### 3rd Circle
 - [[Campo de Força]]
+- [[Dispel Magic]]
 ### 5th Circle
 - [[Pele de Pedra]]
 - [[Transformação de Guerra]]
 ### 6th Circle
 - [[Blade Barrier]]
+### 7th Circle
+- [[Manto do Cruzado]]
 
 ## Acid Spells
 ### Cantrip
 - [[Acid Splash]]
 ### 3rd Circle
 - [[Flecha Ácida]]
+- [[Hunger of Hadar]]
 
 ## Arcane Spells
 ### Cantrip
@@ -78,10 +82,25 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Blink]]
+- [[Clairvoyance]]
+- [[Conjure Barrage]]
+- [[Create Food and Water]]
+- [[Erupting Earth]]
+- [[Flame Arrows]]
 - [[Flecha Ácida]]
 - [[Flecha Ácida]]
+- [[Fly]]
 - [[Físico Divino]]
+- [[Haste]]
+- [[Melf's Minute Meteors]]
+- [[Plant Growth]]
 - [[Sopro das Uivantes]]
+- [[Stinking Cloud]]
+- [[Tidal Wave]]
+- [[Tongues]]
+- [[Wall of Sand]]
+- [[Wall of Water]]
 ### 5th Circle
 - [[Transformação de Guerra]]
 ### 6th Circle
@@ -116,8 +135,11 @@
 - [[Campo de Força]]
 - [[Físico Divino]]
 - [[Oração]]
+- [[Spirit Guardians]]
 ### 5th Circle
 - [[Transformação de Guerra]]
+### 7th Circle
+- [[Manto do Cruzado]]
 
 ## Cold Spells
 ### Cantrip
@@ -132,6 +154,7 @@
 - [[Ice Knife]]
 - [[Snowball Swarm]]
 ### 3rd Circle
+- [[Hunger of Hadar]]
 - [[Sopro das Uivantes]]
 
 ## Creation Spells
@@ -156,6 +179,7 @@
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
+- [[Wind Wall]]
 ### 6th Circle
 - [[Blade Barrier]]
 
@@ -187,7 +211,10 @@
 ### 3rd Circle
 - [[Antagonize]]
 - [[Flecha Ácida]]
+- [[Hunger of Hadar]]
 - [[Oração]]
+### 5th Circle
+- [[Contagion]]
 
 ## Decay Spells
 ### Cantrip
@@ -200,9 +227,13 @@
 ### 2nd Circle
 - [[Wither and Bloom]]
 ### 3rd Circle
+- [[Bestow Curse]]
 - [[Flecha Ácida]]
 - [[Life Transference]]
+- [[Spirit Shroud]]
 - [[Toque Vampírico]]
+### 5th Circle
+- [[Contagion]]
 
 ## Divination Spells
 ### Cantrip
@@ -218,6 +249,7 @@
 - [[See invisibility]]
 ### 3rd Circle
 - [[Espelho do Pântano]]
+- [[Sending]]
 
 ## Earth Spells
 ### 1st Circle
@@ -261,8 +293,15 @@
 - [[Snowball Swarm]]
 ### 3rd Circle
 - [[Ashardalon's Stride]]
+- [[Call Lightning]]
+- [[Fireball]]
+- [[Flame Arrows]]
+- [[Lightning Bolt]]
+- [[Melf's Minute Meteors]]
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
+- [[Spirit Shroud]]
+- [[Thunder Step]]
 
 ## Enchantment Spells
 ### 1st Circle
@@ -284,11 +323,13 @@
 - [[Calm Emotions]]
 - [[Crown of Madness]]
 - [[Earthbind]]
+- [[Enthrall]]
 - [[Hold Person]]
 - [[Mind Whip]]
 - [[Ray of Enfeeblement]]
 - [[Sugestion]]
 ### 3rd Circle
+- [[Bestow Curse]]
 - [[Oração]]
 
 ## Energy Spells
@@ -307,6 +348,10 @@
 - [[Mind Whip]]
 - [[Moonbeam]]
 - [[Shadow Blade]]
+### 3rd Circle
+- [[Blinding Smite]]
+- [[Crusader's Mantle]]
+- [[Spirit Guardians]]
 
 ## Evocation Spells
 ### Cantrip
@@ -349,7 +394,9 @@
 - [[Spider Climb]]
 - [[Web]]
 ### 3rd Circle
+- [[Conjure Animals]]
 - [[Life Transference]]
+- [[Phantom Steed]]
 - [[Toque Vampírico]]
 
 ## Fire Spells
@@ -375,6 +422,8 @@
 ### 1st Circle
 - [[Magic Missile]]
 - [[Zephyr Strike]]
+### 3rd Circle
+- [[Conjure Barrage]]
 
 ## Holy Spells
 ### Cantrip
@@ -393,8 +442,12 @@
 - [[Moonbeam]]
 - [[Prayer of Healing]]
 ### 3rd Circle
+- [[Aura of Vitality]]
+- [[Fly]]
 - [[Oração]]
 - [[Raio Solar]]
+### 7th Circle
+- [[Manto do Cruzado]]
 
 ## Ilusion Spells
 ### Cantrip
@@ -411,6 +464,7 @@
 - [[Pass Without a Trace]]
 ### 3rd Circle
 - [[Camuflagem ilusória]]
+- [[Enemies Abound]]
 - [[Invisibilidade]]
 
 ## Lighning Spells
@@ -447,8 +501,20 @@
 - [[Shatter]]
 - [[Spider Climb]]
 ### 3rd Circle
+- [[Call Lightning]]
+- [[Create Food and Water]]
+- [[Erupting Earth]]
+- [[Fly]]
+- [[Gaseous Form]]
+- [[Melf's Minute Meteors]]
 - [[Soco de Arsenal]]
 - [[Sopro das Uivantes]]
+- [[Tidal Wave]]
+- [[Wall of Sand]]
+- [[Wall of Water]]
+- [[Water Breathing]]
+- [[Water Walk]]
+- [[Wind Wall]]
 ### 5th Circle
 - [[Pele de Pedra]]
 
@@ -467,12 +533,15 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Spirit Shroud]]
 - [[Toque Vampírico]]
+- [[Vampiric Touch]]
 
 ## No-arcane Spells
 ### 3rd Circle
 - [[Ashardalon's Stride]]
 - [[Espelho do Pântano]]
+- [[Speak with Plants]]
 
 ## No-nature Spells
 ### Cantrip
@@ -494,6 +563,8 @@
 ## No-thaumaturgy Spells
 ### 1st Circle
 - [[Feather Fall]]
+### 3rd Circle
+- [[Gaseous Form]]
 
 ## No-trickery Spells
 ### Cantrip
@@ -505,6 +576,11 @@
 - [[Prayer of Healing]]
 ### 3rd Circle
 - [[Mass Healing Word]]
+
+## No-wild Spells
+### 3rd Circle
+- [[Summon Shadowspawn]]
+- [[Summon Undead]]
 
 ## Occult Spells
 ### Cantrip
@@ -542,10 +618,25 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Animate Dead]]
+- [[Bestow Curse]]
+- [[Dispel Magic]]
+- [[Enemies Abound]]
+- [[Fear]]
 - [[Flecha Ácida]]
+- [[Gaseous Form]]
+- [[Incite Greed]]
 - [[Life Transference]]
 - [[Oração]]
+- [[Slow]]
+- [[Spirit Shroud]]
+- [[Stinking Cloud]]
+- [[Summon Lesser Demons]]
+- [[Summon Shadowspawn]]
+- [[Summon Undead]]
 - [[Toque Vampírico]]
+- [[Vampiric Touch]]
+### 5th Circle
+- [[Contagion]]
 
 ## Plant Spells
 ### Cantrip
@@ -578,6 +669,8 @@
 - [[Crown of Madness]]
 - [[Mind Whip]]
 - [[Shadow Blade]]
+### 3rd Circle
+- [[Antagonize]]
 
 ## Radiant Spells
 ### Cantrip
@@ -600,6 +693,8 @@
 ### 3rd Circle
 - [[Life Transference]]
 - [[Mass Healing Word]]
+### 7th Circle
+- [[Manto do Cruzado]]
 
 ## Sacred Spells
 ### Cantrip
@@ -640,11 +735,17 @@
 ### 3rd Circle
 - [[Ashardalon's Stride]]
 - [[Beacon of Hope]]
+- [[Blinding Smite]]
 - [[Campo de Força]]
+- [[Daylight]]
 - [[Físico Divino]]
+- [[Haste]]
 - [[Mass Healing Word]]
+- [[Motivational Speech]]
 - [[Oração]]
 - [[Raio Solar]]
+- [[Water Breathing]]
+- [[Water Walk]]
 ### 5th Circle
 - [[Transformação de Guerra]]
 
@@ -661,6 +762,7 @@
 - [[Hellish Rebuke]]
 - [[Hideous Laughter]]
 ### 2nd Circle
+- [[Enthrall]]
 - [[Magic Mouth]]
 - [[Prayer of Healing]]
 - [[Shatter]]
@@ -685,6 +787,7 @@
 - [[Misty Step]]
 ### 3rd Circle
 - [[Espelho do Pântano]]
+- [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
 
 ## Thaumaturgy Spells
@@ -746,16 +849,27 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Ashardalon's Stride]]
+- [[Blinding Smite]]
 - [[Campo de Força]]
+- [[Conjure Barrage]]
+- [[Crusader's Mantle]]
+- [[Fireball]]
+- [[Flame Arrows]]
 - [[Flecha Ácida]]
 - [[Físico Divino]]
+- [[Lightning Bolt]]
+- [[Protection from Energy]]
 - [[Relâmpago]]
 - [[Soco de Arsenal]]
+- [[Spirit Guardians]]
+- [[Thunder Step]]
 ### 5th Circle
 - [[Pele de Pedra]]
 - [[Transformação de Guerra]]
 ### 6th Circle
 - [[Blade Barrier]]
+### 7th Circle
+- [[Manto do Cruzado]]
 
 ## Transmutation Spells
 ### Cantrip
@@ -784,6 +898,7 @@
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Físico Divino]]
+- [[Slow]]
 
 ## Trickery Spells
 ### Cantrip
@@ -822,6 +937,7 @@
 - [[Calm Emotions]]
 - [[Crown of Madness]]
 - [[Earthbind]]
+- [[Enthrall]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Magic Mouth]]
@@ -836,8 +952,15 @@
 - [[Antagonize]]
 - [[Camuflagem ilusória]]
 - [[Espelho do Pântano]]
+- [[Fear]]
+- [[Hypnotic Pattern]]
+- [[Incite Greed]]
 - [[Invisibilidade]]
+- [[Major Image]]
+- [[Motivational Speech]]
 - [[Oração]]
+- [[Speak with Plants]]
+- [[Tongues]]
 
 ## Unholy Spells
 ### Cantrip
@@ -859,6 +982,8 @@
 ### 3rd Circle
 - [[Life Transference]]
 - [[Toque Vampírico]]
+### 5th Circle
+- [[Contagion]]
 
 ## Warmagic Spells
 ### Cantrip
@@ -895,6 +1020,7 @@
 ### 3rd Circle
 - [[Campo de Força]]
 - [[Físico Divino]]
+- [[Phantom Steed]]
 - [[Soco de Arsenal]]
 ### 5th Circle
 - [[Pele de Pedra]]
@@ -943,9 +1069,18 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Blink]]
+- [[Call Lightning]]
+- [[Daylight]]
 - [[Espelho do Pântano]]
 - [[Life Transference]]
+- [[Plant Growth]]
 - [[Soco de Arsenal]]
+- [[Speak with Plants]]
+- [[Spirit Guardians]]
+- [[Summon Fey]]
+- [[Summon Lesser Demons]]
+- [[Tiny Servant]]
 - [[Toque Vampírico]]
 
 ## Wind Spells

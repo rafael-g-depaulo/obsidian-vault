@@ -2,37 +2,106 @@
 Here's a list of all of the errors found.
 
 ## Spell file without a definition
-- [[Aura of Vitality]] Spell doesn't have {{spell-defitinition}} macro
-- [[Dawn]] Spell doesn't have {{spell-defitinition}} macro
-- [[Desintegrar]] Spell doesn't have {{spell-defitinition}} macro
-- [[Enthrall]] Spell doesn't have {{spell-defitinition}} macro
-- [[Fire Storm]] Spell doesn't have {{spell-defitinition}} macro
-- [[Flame Strike]] Spell doesn't have {{spell-defitinition}} macro
-- [[Flaming Sphere]] Spell doesn't have {{spell-defitinition}} macro
-- [[Greater Restoration]] Spell doesn't have {{spell-defitinition}} macro
-- [[Gust]] Spell doesn't have {{spell-defitinition}} macro
 - [[Harm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heal]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heroísmo]] Spell doesn't have {{spell-defitinition}} macro
-- [[Holy Weapon]] Spell doesn't have {{spell-defitinition}} macro
-- [[Insect Plague]] Spell doesn't have {{spell-defitinition}} macro
-- [[Levitate]] Spell doesn't have {{spell-defitinition}} macro
-- [[Mass Cure Wounds]] Spell doesn't have {{spell-defitinition}} macro
-- [[Potência Divina]] Spell doesn't have {{spell-defitinition}} macro
-- [[Regenerate]] Spell doesn't have {{spell-defitinition}} macro
-- [[Revivify]] Spell doesn't have {{spell-defitinition}} macro
-- [[Sopro da Salvação]] Spell doesn't have {{spell-defitinition}} macro
 - [[compiled]] Spell doesn't have {{spell-defitinition}} macro
 
 ## Spell Definition Syntax
-- [[Animate Dead]] Missing "DURATION" item
-- [[Ashardalon's Stride]] Missing "DURATION" item
-- [[Contagion]] Missing "TAGS" item
-- [[Manto do Cruzado]] Missing "TAGS" item
+- [[Aura of Vitality]] Missing "DURATION" item
+- [[Blinding Smite]] Missing "DURATION" item
+- [[Blink]] Missing "DURATION" item
+- [[Clairvoyance]] Missing "DURATION" item
+- [[Create Food and Water]] Missing "DURATION" item
+- [[Crusader's Mantle]] Missing "DURATION" item
+- [[Dawn]] Missing "TAGS" item
+- [[Daylight]] Missing "DURATION" item
+- [[Desintegrar]] Missing "TAGS" item
+- [[Dispel Magic]] Missing "DURATION" item
+- [[Enemies Abound]] Missing "DURATION" item
+- [[Erupting Earth]] Missing "DURATION" item
+- [[Feign Death]] Missing "DURATION" item
+- [[Fire Storm]] Missing "TAGS" item
+- [[Flame Strike]] Missing "TAGS" item
+- [[Flaming Sphere]] Missing "TAGS" item
+- [[Gaseous Form]] Missing "DURATION" item
+- [[Greater Restoration]] Missing "TAGS" item
+- [[Gust]] Missing "TAGS" item
+- [[Holy Weapon]] Missing "TAGS" item
+- [[Hunger of Hadar]] Missing "DURATION" item
+- [[Incite Greed]] Missing "DURATION" item
+- [[Insect Plague]] Missing "TAGS" item
+- [[Levitar]] Missing "TAGS" item
+- [[Lightning Arrow]] Missing "DURATION" item
+- [[Lightning Bolt]] Missing "DURATION" item
+- [[Major Image]] Missing "DURATION" item
+- [[Mass Cure Wounds]] Missing "TAGS" item
+- [[Melf's Minute Meteors]] Missing "DURATION" item
+- [[Plant Growth]] Missing "DURATION" item
+- [[Potência Divina]] Missing "TAGS" item
+- [[Protection from Energy]] Missing "DURATION" item
+- [[Regenerate]] Missing "TAGS" item
+- [[Revivify]] Missing "TAGS" item
+- [[Sending]] Missing "DURATION" item
+- [[Slow]] Missing "DURATION" item
+- [[Sopro da Salvação]] Missing "TAGS" item
+- [[Speak with Plants]] Missing "DURATION" item
+- [[Spirit Guardians]] Missing "DURATION" item
+- [[Spirit Shroud]] Missing "DURATION" item
+- [[Stinking Cloud]] Missing "DURATION" item
+- [[Summon Fey]] Missing "DURATION" item
+- [[Summon Lesser Demons]] Missing "DURATION" item
+- [[Summon Shadowspawn]] Missing "DURATION" item
+- [[Summon Undead]] Missing "DURATION" item
+- [[Thunder Step]] Missing "DURATION" item
+- [[Tidal Wave]] Missing "DURATION" item
+- [[Tiny Servant]] Missing "DURATION" item
+- [[Tongues]] Missing "DURATION" item
+- [[Vampiric Touch]] Missing "DURATION" item
+- [[Wall of Sand]] Missing "DURATION" item
+- [[Wall of Water]] Missing "DURATION" item
+- [[Water Breathing]] Missing "DURATION" item
+- [[Water Walk]] Missing "DURATION" item
+- [[Wind Wall]] Missing "DURATION" item
 
 ## Tag Group Hierarchy
 - [[Antagonize]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Antagonize]] Spell has tag "psyquic" but is missing it's group tag "energy" (or you can add "#no-energy")
+- [[Aura of Vitality]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Bestow Curse]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Conjure Animals]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
+- [[Conjure Barrage]] Spell has tag "force" but is missing it's group tag "energy" (or you can add "#no-energy")
+- [[Dispel Magic]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
+- [[Enemies Abound]] Spell has tag "ilusion" but is missing it's group tag "trickery" (or you can add "#no-trickery")
+- [[Fly]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Hunger of Hadar]] Spell has tag "curse" but is missing it's group tag "occult" (or you can add "#no-occult")
+- [[Hunger of Hadar]] Spell has tag "summon" but is missing it's group tag "wild" (or you can add "#no-wild")
+- [[Hunger of Hadar]] Spell has tag "cold" but is missing it's group tag "elemental" (or you can add "#no-elemental")
+- [[Hunger of Hadar]] Spell has tag "acid" but is missing it's group tag "decay" (or you can add "#no-decay")
+- [[Manto do Cruzado]] Spell has tag "recovery" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Manto do Cruzado]] Spell has tag "boost" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Manto do Cruzado]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Phantom Steed]] Spell has tag "warmagic" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
+- [[Phantom Steed]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
+- [[Sending]] Spell has tag "divination" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Slow]] Spell has tag "transmutation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
+- [[Spirit Guardians]] Spell has tag "boost" but is missing it's group tag "sacred" (or you can add "#no-sacred")
+- [[Vampiric Touch]] Spell has tag "necrotic" but is missing it's group tag "decay" (or you can add "#no-decay")
+- [[Wind Wall]] Spell has tag "creation" but is missing it's group tag "arcane" (or you can add "#no-arcane")
 
 ## Spell Tag
-- [[Contagion]] Spell should have either "wip" or "spell" tag
-- [[Manto do Cruzado]] Spell should have either "wip" or "spell" tag
+- [[Dawn]] Spell should have either "wip" or "spell" tag
+- [[Desintegrar]] Spell should have either "wip" or "spell" tag
+- [[Fire Storm]] Spell should have either "wip" or "spell" tag
+- [[Flame Strike]] Spell should have either "wip" or "spell" tag
+- [[Flaming Sphere]] Spell should have either "wip" or "spell" tag
+- [[Greater Restoration]] Spell should have either "wip" or "spell" tag
+- [[Gust]] Spell should have either "wip" or "spell" tag
+- [[Holy Weapon]] Spell should have either "wip" or "spell" tag
+- [[Insect Plague]] Spell should have either "wip" or "spell" tag
+- [[Levitar]] Spell should have either "wip" or "spell" tag
+- [[Mass Cure Wounds]] Spell should have either "wip" or "spell" tag
+- [[Potência Divina]] Spell should have either "wip" or "spell" tag
+- [[Regenerate]] Spell should have either "wip" or "spell" tag
+- [[Revivify]] Spell should have either "wip" or "spell" tag
+- [[Sopro da Salvação]] Spell should have either "wip" or "spell" tag

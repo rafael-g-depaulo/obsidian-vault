@@ -9,7 +9,7 @@ LEVEL: 3
 
 CAST_TIME: 1 Min.
 RANGE: 10 feet
-TARGET: 
+TARGET: objeto
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
