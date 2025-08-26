@@ -6,6 +6,8 @@ TAGS:
   - #elemental 
   - #summon 
   - #wild 
+  - #water 
+  - #nature 
 
 LEVEL: 3
 

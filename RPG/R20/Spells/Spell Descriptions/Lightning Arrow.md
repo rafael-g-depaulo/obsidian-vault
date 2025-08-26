@@ -5,7 +5,7 @@ TAGS:
 
 LEVEL: 3
 
-CAST_TIME: Bonus
+CAST_TIME: Movimento
 RANGE: Self
 TARGET: 
 DURATION: Instantaneous
@@ -19,9 +19,10 @@ As your attack hits or misses the target, the weapon or ammunition you're using 
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description                |
+| ----- | -------------------------- |
+| +1 PM | +1d8 damage to main target |
+| +1 PM | +1d8 area damage           |
 
 
 %% RANDOM

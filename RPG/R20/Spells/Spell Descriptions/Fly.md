@@ -2,26 +2,32 @@
 
 TAGS: 
   - #spell
+  - #wind 
+  - #nature 
+  - #boost 
+  - #holy 
+  - #transmutation 
+  - #arcane 
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Touch
-TARGET: 
-DURATION: Concentration, up to 10 minutes
+TARGET: 1 criatura
+DURATION: Cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
-You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
+You touch a willing creature. For the duration, the target gains a Fly Speed of 12sqr and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +3 PM | +1 criatura |
 
 
 %% RANDOM

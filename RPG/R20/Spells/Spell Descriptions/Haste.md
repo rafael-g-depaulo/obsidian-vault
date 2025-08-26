@@ -1,17 +1,21 @@
 {{spell-definition "Haste"
 
 TAGS: 
-  - #spell
+  - #spell 
+  - #boost 
+  - #sacred 
+  - #transmutation 
+  - #arcane 
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: 30 feet
-TARGET: 
-DURATION: Concentration, up to 1 minute
+TARGET: Willing creature
+DURATION: Concentration
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

@@ -2,6 +2,12 @@
 
 TAGS: 
   - #spell
+  - #fire 
+  - #elemental 
+  - #transmutation 
+  - #arcane 
+  - #warmagic 
+  - #thaumaturgy 
 
 LEVEL: 3
 
@@ -19,9 +25,10 @@ You touch a quiver containing arrows or bolts. When a target is hit by a ranged 
 
 INCREASES:
 
-| cost  | description |
-| ----- | ----------- |
-| +0 PM | Placeholder |
+| cost  | description            |
+| ----- | ---------------------- |
+| +1 PM | +2 munições encantadas |
+| +4PM  | +1d6 dano              |
 
 
 %% RANDOM
