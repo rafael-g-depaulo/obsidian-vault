@@ -19,5 +19,18 @@
   "obsidian-image-toolkit",
   "obsidian-day-planner",
   "obsidian-mind-map",
-  "url-into-selection"
+  "url-into-selection",
+  "calendar",
+  "continuous-mode",
+  "dataview",
+  "hotkey-helper",
+  "iconic",
+  "inline-encrypter",
+  "obsidian-limelight",
+  "maximise-active-pane-obsidian",
+  "rpg-manager",
+  "tab-panels",
+  "cycle-through-panes",
+  "tabout",
+  "obsidian-tasks-plugin"
 ]
