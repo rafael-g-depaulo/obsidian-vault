@@ -28,7 +28,15 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "RPG/R20/Compiled": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "76f50f4c30081b4e"
+      ],
+      "color": "cyan"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

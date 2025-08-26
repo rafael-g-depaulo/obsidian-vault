@@ -2,10 +2,10 @@
 
 TAGS: 
   - #spell
-  - # water
-  - # nature
-  - # boost
-  - # sacred
+  - #water
+  - #nature
+  - #boost
+  - #sacred
 
 LEVEL: 3
 
@@ -15,7 +15,7 @@ TARGET:
 DURATION: 1 hour
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

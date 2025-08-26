@@ -1,25 +1,26 @@
+{{spell-definition "Gust"
+LEVEL: 0
+CAST_TIME: padrão
+RANGE: 6sqr
+TARGET: 1 criatura
+DURATION: imediata
+%%CRIT: 20/2x%%
+RESISTANCE: STR
+%%TAGS:%%
 
-  A Elemental Evil spell
-
-Transmutation
-
-Level: **Cantrip**  
-Casting time: **1 Action**  
-Range: **30 feet**  
-Components: **V, S**  
-Duration: **Instantaneous**
-
----
+DESCRIPTION:
 
 You seize the air and compel it to create one of the following effects at a point you can see within range:  
-• One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.  
-• You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.  
-• You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
 
----
+- One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.  
+ - You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn’t pushed with enough force to cause damage.  
+- You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.
 
-Page: 19 from EE Players Companion
 
----
+INCREASES:
 
-A [Druid](https://www.dnd-spells.com/spells/class/Druid), [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+| cost | description |
+| ---- | ----------- |
+|  +0PM    | Placeholder             |
+
+}}

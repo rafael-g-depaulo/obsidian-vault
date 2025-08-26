@@ -1,4 +1,5 @@
-{{spell   -definition "Potência Divina"
+{{spell-definition "Potência Divina"
+
 LEVEL: 5
 CAST_TIME: padrão
 RANGE: pessoal
@@ -14,4 +15,5 @@ INCREASES:
 | +2 PM | aumenta o bônus de Força em +2. |
 | +2 PM | aumenta a resistência a dano em +2. |
 | +2 PM | muda o alcance para toque e o alvo para 1 criatura. A magia falha se o alvo não seguir a mesma divindade que você. |
+
 }}

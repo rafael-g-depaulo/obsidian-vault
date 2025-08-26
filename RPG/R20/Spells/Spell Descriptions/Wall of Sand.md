@@ -2,7 +2,7 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ earth
+  - #earth
   - #nature
   - #creation
   - #arcane

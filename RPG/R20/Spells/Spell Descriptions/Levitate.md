@@ -1,30 +1,13 @@
+{{spell-definition "Levitar"
+
+LEVEL: 2
 
 CAST_TIME: padrão
-RANGE: 6sqr
+RANGE: 15sqr
 TARGET: 1 criatura
 DURATION: concentração.
 
 DESCRIPTION:
-Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui. Descrição da magia aqui.
-
-INCREASES:
-| cost | description |
-| ---- | ----------- |
-| +1 PM | Upgrade 1. |
-| +3 PM | Upgrade 2. |
-}}
-
-# Levitate
-
-Transmutation
-
-Level: **2**  
-Casting time: **1 Action**  
-Range: **60 feet**  
-Components: **V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)**  
-Duration: **Concentration, up to 10 minutes**
-
----
 
 One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 
@@ -32,10 +15,11 @@ The target can move only by pushing or pulling against a fixed object or surface
 
 When the spell ends, the target floats gently to the ground if it is still aloft.
 
----
 
-Page: 255 Players Handbook
+INCREASES:
 
----
+| cost  | description  |
+| ----- | ------------ |
+| +0 PM | Placeholder. |
 
-A [Sorcerer](https://www.dnd-spells.com/spells/class/Sorcerer), [Wizard](https://www.dnd-spells.com/spells/class/Wizard), spell
+}}

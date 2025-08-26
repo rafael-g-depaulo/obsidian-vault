@@ -2,10 +2,10 @@
 
 TAGS: 
   - #spell
-  - #__PURE__  water
-  - # nature
-  - # boost
-  - # sacred
+  - #water
+  - #nature
+  - #boost
+  - #sacred
 
 LEVEL: 3
 

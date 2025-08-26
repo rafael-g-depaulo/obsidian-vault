@@ -1,3 +1,5 @@
+%%  removi de proposito %%
+
 {{spell-   definition "Heroísmo"
 LEVEL: 5
 CAST_TIME: padrão
