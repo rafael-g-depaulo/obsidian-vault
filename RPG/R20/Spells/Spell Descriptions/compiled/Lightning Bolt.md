@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #lightning
+  - #elemental
+  - #evocation 
+  - #thaumaturgy 
 
 LEVEL: 3
 
