@@ -2,6 +2,8 @@
 
 TAGS: 
   - #spell
+  - #ilusiuon
+  - #trickery 
 
 LEVEL: 3
 

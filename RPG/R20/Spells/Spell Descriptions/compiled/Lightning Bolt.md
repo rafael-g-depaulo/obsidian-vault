@@ -19,13 +19,13 @@ RESISTANCE: DEX
 %%TAGS:%%
 
 DESCRIPTION:
-A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
+A stroke of lightning forming a 20sqr-long, 1sqr-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 
 INCREASES:
 
 | cost  | description |
 | ----- | ----------- |
-| +0 PM | Placeholder |
+| +1 PM | +1d6 dama   |
 
 
 %% RANDOM

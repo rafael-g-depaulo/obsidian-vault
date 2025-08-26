@@ -2,26 +2,31 @@
 
 TAGS: 
   - #spell
+  - #speech
+  - #trickery
+  - #boost 
+  - #__PURE__ sacred
 
 LEVEL: 3
 
 CAST_TIME: 1 Min.
-RANGE: 60 feet
-TARGET: 
-DURATION: 1 hour
+RANGE: 20sqr
+TARGET: willing creatures
+DURATION: cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
-“I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?”— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on Wisdom saving throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.
+“I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?”— Walnut Dankgrass. You address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on PRE saving throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +2 PM | +5 temp hp  |
+
 
 
 %% RANDOM
