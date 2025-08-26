@@ -2,6 +2,17 @@
   "automaticMove": false,
   "useSceneAnalyser": true,
   "version": "4.1.14",
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "customName": "height",
+      "type": "Number",
+      "id": "_height",
+      "isCustom": true,
+      "customTypes": [
+        "nonplayercharacter",
+        "playercharacter"
+      ]
+    }
+  ],
   "forceFullWidth": true
 }
