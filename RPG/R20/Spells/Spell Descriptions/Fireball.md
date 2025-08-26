@@ -2,12 +2,16 @@
 
 TAGS: 
   - #spell
+  - #fire 
+  - #elemental 
+  - #evocation 
+  - #thaumaturgy 
 
 LEVEL: 3
 
 CAST_TIME: Action
-RANGE: 150 feet
-TARGET: 
+RANGE: 30sqr
+TARGET: point
 DURATION: Instantaneous
 
 %%CRIT: 20/2x%%
@@ -15,13 +19,13 @@ RESISTANCE: DEX
 %%TAGS:%%
 
 DESCRIPTION:
-A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.Flammable objects in the area that aren't being worn or carried start burning.
+A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 4sqr-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.Flammable objects in the area that aren't being worn or carried start burning.
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +2 PM | +1d6 damage |
 
 
 %% RANDOM

@@ -7,11 +7,11 @@ LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Touch
-TARGET: 
-DURATION: Concentration, up to 1 hour
+TARGET: objeto
+DURATION: Cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
@@ -19,9 +19,9 @@ You touch a quiver containing arrows or bolts. When a target is hit by a ranged 
 
 INCREASES:
 
-| cost | description |
-| ---- | ----------- |
-| +0 PM     |    Placeholder        |
+| cost  | description |
+| ----- | ----------- |
+| +0 PM | Placeholder |
 
 
 %% RANDOM
