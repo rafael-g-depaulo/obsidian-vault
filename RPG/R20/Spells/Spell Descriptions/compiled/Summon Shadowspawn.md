@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #summon
+  - #no-wild
+  - #__PURE__ unholy#occult
+  - 
 
 LEVEL: 3
 

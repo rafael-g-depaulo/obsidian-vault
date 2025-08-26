@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ unholy#occult
+  - #creation
+  - #arcane
+  - 
 
 LEVEL: 3
 

@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ summon
+  - #wild
+-
+#__PURE__ trickery
 
 LEVEL: 3
 

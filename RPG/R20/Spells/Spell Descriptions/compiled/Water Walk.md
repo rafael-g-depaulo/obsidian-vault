@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - # water
+  - # nature
+  - # boost
+  - # sacred
 
 LEVEL: 3
 

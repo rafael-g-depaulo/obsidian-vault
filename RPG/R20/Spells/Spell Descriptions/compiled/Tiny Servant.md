@@ -2,6 +2,8 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ summon
+  - #wild
 
 LEVEL: 3
 
@@ -11,7 +13,7 @@ TARGET:
 DURATION: 8 hours
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

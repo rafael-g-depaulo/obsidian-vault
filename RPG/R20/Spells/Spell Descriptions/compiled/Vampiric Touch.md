@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ unholy
+  - #occult
+  - #decay 
+  - #necrotic
 
 LEVEL: 3
 
@@ -10,8 +14,8 @@ RANGE: Self
 TARGET: 
 DURATION: Concentration, up to 1 minute
 
-%%CRIT: 20/2x%%
-RESISTANCE: DEX
+CRIT: 20/2x
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

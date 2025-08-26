@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ water
+  - #__PURE__ nature
+  - #__PURE__ creation
+  - #arcane
 
 LEVEL: 3
 

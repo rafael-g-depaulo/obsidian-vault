@@ -3,6 +3,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ lightninhg
+  - #__PURE__ elemental
+  - #evocation
+  - #thaumaturgy
 
 LEVEL: 3
 

@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #wind
+  - #nature 
+  - # arcane
+- # creation
 
 LEVEL: 3
 

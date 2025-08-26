@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__ necromancy
+  - #occult 
+  - #summon
+  - #no-wild
 
 LEVEL: 3
 

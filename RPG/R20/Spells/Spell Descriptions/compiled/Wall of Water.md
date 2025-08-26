@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #__PURE__  water
+  - #__PURE__ nature
+  - #creation 
+  - #arcane 
 
 LEVEL: 3
 
@@ -11,7 +15,7 @@ TARGET:
 DURATION: Concentration, up to 10 minutes
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
