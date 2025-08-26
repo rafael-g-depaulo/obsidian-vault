@@ -2,16 +2,19 @@
 
 TAGS: 
   - #spell
+  - #abjuration
+  - #thaumaturgy
+  - #elemental
 
 LEVEL: 3
 
 CAST_TIME: Action
 RANGE: Touch
 TARGET: 
-DURATION: Concentration, up to 1 hour
+DURATION: Cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

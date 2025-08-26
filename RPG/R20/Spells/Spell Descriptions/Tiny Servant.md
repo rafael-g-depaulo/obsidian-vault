@@ -2,7 +2,7 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ summon
+  - #summon
   - #wild
 
 LEVEL: 3

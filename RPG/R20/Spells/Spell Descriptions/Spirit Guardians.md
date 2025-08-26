@@ -2,6 +2,14 @@
 
 TAGS: 
   - #spell
+  - #abjuration 
+  - #thaumaturgy
+  - #sacred
+  - #boost
+  - #radiant
+  - #energy 
+  - #summon
+  - #wild
 
 LEVEL: 3
 

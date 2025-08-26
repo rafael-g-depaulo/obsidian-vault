@@ -5,7 +5,7 @@ TAGS:
   - #speech
   - #trickery
   - #boost 
-  - #__PURE__ sacred
+  - #sacred
 
 LEVEL: 3
 

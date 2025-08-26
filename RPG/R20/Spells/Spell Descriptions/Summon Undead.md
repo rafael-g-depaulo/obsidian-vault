@@ -2,7 +2,7 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ necromancy
+  - #necromancy
   - #occult 
   - #summon
   - #no-wild
@@ -15,7 +15,7 @@ TARGET:
 DURATION: Concentration, up to 1 hour
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

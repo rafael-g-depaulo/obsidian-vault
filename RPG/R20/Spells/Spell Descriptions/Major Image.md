@@ -10,10 +10,10 @@ LEVEL: 3
 CAST_TIME: Action
 RANGE: 120 feet
 TARGET: 
-DURATION: Concentration, up to 10 minutes
+DURATION: Cena
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

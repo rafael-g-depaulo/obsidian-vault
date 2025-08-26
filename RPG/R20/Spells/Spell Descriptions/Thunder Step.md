@@ -3,8 +3,8 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ lightninhg
-  - #__PURE__ elemental
+  - #lightninhg
+  - #elemental
   - #evocation
   - #thaumaturgy
 

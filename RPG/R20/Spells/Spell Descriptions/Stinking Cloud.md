@@ -2,10 +2,11 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ unholy#occult
+  - #unholy 
+  - #occult
   - #creation
   - #arcane
-  - 
+  - #trickery 
 
 LEVEL: 3
 
@@ -15,7 +16,7 @@ TARGET:
 DURATION: Concentration, up to 1 minute
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+RESISTANCE: CON
 %%TAGS:%%
 
 DESCRIPTION:

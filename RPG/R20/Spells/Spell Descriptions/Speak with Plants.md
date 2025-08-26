@@ -2,6 +2,12 @@
 
 TAGS: 
   - #spell
+  - #speech 
+  - #trickery 
+  - #plant 
+  - #wild 
+  - #divination 
+  - #no-arcane
 
 LEVEL: 3
 

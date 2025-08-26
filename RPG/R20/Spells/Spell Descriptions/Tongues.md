@@ -2,10 +2,10 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ speech
-  - #trickery
-- #__PURE__ divination
-- #arcane
+  - #speech
+  - #trickery 
+  - #divination 
+  - #arcane
 
 
 LEVEL: 3

@@ -4,8 +4,8 @@ TAGS:
   - #spell
   - #summon
   - #no-wild
-  - #__PURE__ unholy#occult
-  - 
+  - #unholy
+  - #occult
 
 LEVEL: 3
 
@@ -15,7 +15,7 @@ TARGET:
 DURATION: Concentration, up to 1 hour
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:

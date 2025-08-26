@@ -2,6 +2,14 @@
 
 TAGS: 
   - #spell
+  - #necromancy
+  - #occult
+  - #cold
+  - #necrotic
+  - #radiant
+  - #decay
+  - #energy
+  - #elemental
 
 LEVEL: 3
 

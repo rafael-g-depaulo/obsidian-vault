@@ -2,7 +2,7 @@
 
 TAGS: 
   - #spell
-  - #__PURE__ unholy
+  - #unholy
   - #occult
   - #decay 
   - #necrotic

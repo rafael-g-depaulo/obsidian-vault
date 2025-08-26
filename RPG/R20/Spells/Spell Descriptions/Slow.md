@@ -2,6 +2,10 @@
 
 TAGS: 
   - #spell
+  - #curse
+  - #occult
+  - #arcane 
+  - #transmutation 
 
 LEVEL: 3
 
@@ -11,7 +15,7 @@ TARGET:
 DURATION: Concentration, up to 1 minute
 
 %%CRIT: 20/2x%%
-RESISTANCE: DEX
+%% RESISTANCE: DEX %%
 %%TAGS:%%
 
 DESCRIPTION:
