@@ -67,9 +67,7 @@ List of spells available for a Witch to learn.
 - [[Teia]]
 - [[Tentacle Twister]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]{{pageNumber,auto}}
-\page
-
+- [[Área Escorregadia]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -111,6 +109,9 @@ List of spells available for a Witch to learn.
 - [[Flecha Ácida]]
 - [[Gaseous Form]]
 - [[Hypnotic Pattern]]
+{{pageNumber,auto}}
+\page
+
 - [[Incite Greed]]
 - [[Invisibilidade]]
 - [[Life Transference]]
@@ -134,7 +135,7 @@ List of spells available for a Witch to learn.
 
 ### 5th Circle
 - [[Contagion]]
-- [[Transformação de Guerra]]BYe 3829
+- [[Transformação de Guerra]]
 
 ## Spell Descriptions
 [[Spells]]

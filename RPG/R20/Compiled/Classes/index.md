@@ -724,9 +724,7 @@ List of spells available for a  to learn.
 - [Silent Image (link not found)]()
 - [Thunderwave (link not found)]()
 - [Witch Bolt (link not found)]()
-- [Área Escorregadia (link not found)](){{pageNumber,auto}}
-\page
-
+- [Área Escorregadia (link not found)]()
 
 ### 2nd Circle
 - [Aid (link not found)]()
@@ -753,7 +751,6 @@ List of spells available for a  to learn.
 - [Bestow Curse (link not found)]()
 - [Blinding Smite (link not found)]()
 - [Clairvoyance (link not found)]()
-- [Conjure Barrage (link not found)]()
 - [Create Food and Water (link not found)]()
 - [Crusader's Mantle (link not found)]()
 - [Erupting Earth (link not found)]()
@@ -772,7 +769,7 @@ List of spells available for a  to learn.
 - [Tidal Wave (link not found)]()
 - [Tongues (link not found)]()
 - [Wall of Sand (link not found)]()
-- [Wall of Water (link not found)]()BYe 3829
+- [Wall of Water (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1271,9 +1268,7 @@ List of spells available for a  to learn.
 - [Sleep (link not found)]()
 - [Thunderwave (link not found)]()
 - [Tranquilidade (link not found)]()
-- [Área Escorregadia (link not found)](){{pageNumber,auto}}
-\page
-
+- [Área Escorregadia (link not found)]()
 
 ### 2nd Circle
 - [Barkskin (link not found)]()
@@ -1320,7 +1315,7 @@ List of spells available for a  to learn.
 - [Tidal Wave (link not found)]()
 - [Tongues (link not found)]()
 - [Wall of Sand (link not found)]()
-- [Wall of Water (link not found)]()BYe 3829
+- [Wall of Water (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1615,9 +1610,7 @@ List of spells available for a  to learn.
 - [Thunderous Smite (link not found)]()
 - [Toque Chocante (link not found)]()
 - [Witch Bolt (link not found)]()
-- [Zephyr Strike (link not found)](){{pageNumber,auto}}
-\page
-
+- [Zephyr Strike (link not found)]()
 
 ### 2nd Circle
 - [Aid (link not found)]()
@@ -1636,7 +1629,7 @@ List of spells available for a  to learn.
 - [Prayer of Healing (link not found)]()
 - [Scorching Ray (link not found)]()
 - [See invisibility (link not found)]()
-- [Spider Climb (link not found)]()BYe 3829
+- [Spider Climb (link not found)]()
 
 {{pageNumber,auto}}
 \page
@@ -1926,5 +1919,5 @@ List of spells available for a  to learn.
 
 ## Spells
 
-BYe 3829
+
 

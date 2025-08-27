@@ -167,7 +167,7 @@ List of spells available for a  to learn.
 
 ## Spells
 
-BYe 3829
+
 
 {{pageNumber,auto}}
 \page

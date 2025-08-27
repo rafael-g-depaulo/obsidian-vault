@@ -25,7 +25,7 @@
 ### 6th Circle
 - [[Blade Barrier]]
 ### 7th Circle
-- [[Manto do Cruzado]]HII 3928
+- [[Manto do Cruzado]]
 
 
 ## Acid Spells
@@ -33,7 +33,7 @@
 - [[Acid Splash]]
 ### 3rd Circle
 - [[Flecha Ácida]]
-- [[Hunger of Hadar]]HII 3928
+- [[Hunger of Hadar]]
 
 
 ## Arcane Spells
@@ -107,7 +107,7 @@
 ### 5th Circle
 - [[Transformação de Guerra]]
 ### 6th Circle
-- [[Blade Barrier]]HII 3928
+- [[Blade Barrier]]
 
 
 ## Boost Spells
@@ -143,7 +143,7 @@
 ### 5th Circle
 - [[Transformação de Guerra]]
 ### 7th Circle
-- [[Manto do Cruzado]]HII 3928
+- [[Manto do Cruzado]]
 
 
 ## Cold Spells
@@ -160,7 +160,7 @@
 - [[Snowball Swarm]]
 ### 3rd Circle
 - [[Hunger of Hadar]]
-- [[Sopro das Uivantes]]HII 3928
+- [[Sopro das Uivantes]]
 
 
 ## Creation Spells
@@ -183,11 +183,13 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Conjure Barrage]]
+- [[Create Food and Water]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
 ### 6th Circle
-- [[Blade Barrier]]HII 3928
+- [[Blade Barrier]]
 
 
 ## Curse Spells
@@ -221,7 +223,7 @@
 - [[Hunger of Hadar]]
 - [[Oração]]
 ### 5th Circle
-- [[Contagion]]HII 3928
+- [[Contagion]]
 
 
 ## Decay Spells
@@ -241,7 +243,7 @@
 - [[Spirit Shroud]]
 - [[Toque Vampírico]]
 ### 5th Circle
-- [[Contagion]]HII 3928
+- [[Contagion]]
 
 
 ## Divination Spells
@@ -258,7 +260,7 @@
 - [[See invisibility]]
 ### 3rd Circle
 - [[Espelho do Pântano]]
-- [[Sending]]HII 3928
+- [[Sending]]
 
 
 ## Earth Spells
@@ -270,7 +272,7 @@
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
 ### 5th Circle
-- [[Pele de Pedra]]HII 3928
+- [[Pele de Pedra]]
 
 
 ## Elemental Spells
@@ -312,7 +314,7 @@
 - [[Relâmpago]]
 - [[Sopro das Uivantes]]
 - [[Spirit Shroud]]
-- [[Thunder Step]]HII 3928
+- [[Thunder Step]]
 
 
 ## Enchantment Spells
@@ -342,7 +344,7 @@
 - [[Sugestion]]
 ### 3rd Circle
 - [[Bestow Curse]]
-- [[Oração]]HII 3928
+- [[Oração]]
 
 
 ## Energy Spells
@@ -363,8 +365,9 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Blinding Smite]]
+- [[Conjure Barrage]]
 - [[Crusader's Mantle]]
-- [[Spirit Guardians]]HII 3928
+- [[Spirit Guardians]]
 
 
 ## Evocation Spells
@@ -390,7 +393,7 @@
 - [[Scorching Ray]]
 ### 3rd Circle
 - [[Flecha Ácida]]
-- [[Relâmpago]]HII 3928
+- [[Relâmpago]]
 
 
 ## Feral Spells
@@ -412,7 +415,7 @@
 - [[Conjure Animals]]
 - [[Life Transference]]
 - [[Phantom Steed]]
-- [[Toque Vampírico]]HII 3928
+- [[Toque Vampírico]]
 
 
 ## Fire Spells
@@ -432,7 +435,7 @@
 - [[Continual Flame]]
 - [[Flame Blade]]
 - [[Heat Metal]]
-- [[Scorching Ray]]HII 3928
+- [[Scorching Ray]]
 
 
 ## Force Spells
@@ -440,7 +443,7 @@
 - [[Magic Missile]]
 - [[Zephyr Strike]]
 ### 3rd Circle
-- [[Conjure Barrage]]HII 3928
+- [[Conjure Barrage]]
 
 
 ## Holy Spells
@@ -465,7 +468,7 @@
 - [[Oração]]
 - [[Raio Solar]]
 ### 7th Circle
-- [[Manto do Cruzado]]HII 3928
+- [[Manto do Cruzado]]
 
 
 ## Ilusion Spells
@@ -484,7 +487,7 @@
 ### 3rd Circle
 - [[Camuflagem ilusória]]
 - [[Enemies Abound]]
-- [[Invisibilidade]]HII 3928
+- [[Invisibilidade]]
 
 
 ## Lighning Spells
@@ -495,7 +498,7 @@
 - [[Toque Chocante]]
 - [[Witch Bolt]]
 ### 3rd Circle
-- [[Relâmpago]]HII 3928
+- [[Relâmpago]]
 
 
 ## Nature Spells
@@ -537,14 +540,14 @@
 - [[Water Walk]]
 - [[Wind Wall]]
 ### 5th Circle
-- [[Pele de Pedra]]HII 3928
+- [[Pele de Pedra]]
 
 
 ## Necromancy Spells
 ### 1st Circle
 - [[Casca da Cigarra]]
 ### 3rd Circle
-- [[Life Transference]]HII 3928
+- [[Life Transference]]
 
 
 ## Necrotic Spells
@@ -558,24 +561,24 @@
 - [[Life Transference]]
 - [[Spirit Shroud]]
 - [[Toque Vampírico]]
-- [[Vampiric Touch]]HII 3928
+- [[Vampiric Touch]]
 
 
 ## No-arcane Spells
 ### 3rd Circle
 - [[Ashardalon's Stride]]
 - [[Espelho do Pântano]]
-- [[Speak with Plants]]HII 3928
+- [[Speak with Plants]]
 
 
 ## No-nature Spells
 ### Cantrip
-- [[Toll the Dead]]HII 3928
+- [[Toll the Dead]]
 
 
 ## No-occult Spells
 ### Cantrip
-- [[Ray of Frost]]HII 3928
+- [[Ray of Frost]]
 
 
 ## No-sacred Spells
@@ -585,14 +588,14 @@
 ### 2nd Circle
 - [[Spider Climb]]
 ### 3rd Circle
-- [[Life Transference]]HII 3928
+- [[Life Transference]]
 
 
 ## No-thaumaturgy Spells
 ### 1st Circle
 - [[Feather Fall]]
 ### 3rd Circle
-- [[Gaseous Form]]HII 3928
+- [[Gaseous Form]]
 
 
 ## No-trickery Spells
@@ -604,13 +607,13 @@
 ### 2nd Circle
 - [[Prayer of Healing]]
 ### 3rd Circle
-- [[Mass Healing Word]]HII 3928
+- [[Mass Healing Word]]
 
 
 ## No-wild Spells
 ### 3rd Circle
 - [[Summon Shadowspawn]]
-- [[Summon Undead]]HII 3928
+- [[Summon Undead]]
 
 
 ## Occult Spells
@@ -667,7 +670,7 @@
 - [[Toque Vampírico]]
 - [[Vampiric Touch]]
 ### 5th Circle
-- [[Contagion]]HII 3928
+- [[Contagion]]
 
 
 ## Plant Spells
@@ -683,14 +686,14 @@
 - [[Hail of Thorns]]
 ### 2nd Circle
 - [[Barkskin]]
-- [[Spike Growth]]HII 3928
+- [[Spike Growth]]
 
 
 ## Poison Spells
 ### Cantrip
 - [[Poison Spray]]
 ### 1st Circle
-- [[Ray of Sickness]]HII 3928
+- [[Ray of Sickness]]
 
 
 ## Psyquic Spells
@@ -704,7 +707,7 @@
 - [[Mind Whip]]
 - [[Shadow Blade]]
 ### 3rd Circle
-- [[Antagonize]]HII 3928
+- [[Antagonize]]
 
 
 ## Radiant Spells
@@ -713,7 +716,7 @@
 ### 1st Circle
 - [[Divine Favor]]
 ### 2nd Circle
-- [[Moonbeam]]HII 3928
+- [[Moonbeam]]
 
 
 ## Recovery Spells
@@ -730,7 +733,7 @@
 - [[Life Transference]]
 - [[Mass Healing Word]]
 ### 7th Circle
-- [[Manto do Cruzado]]HII 3928
+- [[Manto do Cruzado]]
 
 
 ## Sacred Spells
@@ -784,7 +787,7 @@
 - [[Water Breathing]]
 - [[Water Walk]]
 ### 5th Circle
-- [[Transformação de Guerra]]HII 3928
+- [[Transformação de Guerra]]
 
 
 ## Speech Spells
@@ -807,7 +810,7 @@
 - [[Silence]]
 ### 3rd Circle
 - [[Mass Healing Word]]
-- [[Oração]]HII 3928
+- [[Oração]]
 
 
 ## Summon Spells
@@ -827,7 +830,7 @@
 ### 3rd Circle
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
-- [[Soco de Arsenal]]HII 3928
+- [[Soco de Arsenal]]
 
 
 ## Thaumaturgy Spells
@@ -909,7 +912,7 @@
 ### 6th Circle
 - [[Blade Barrier]]
 ### 7th Circle
-- [[Manto do Cruzado]]HII 3928
+- [[Manto do Cruzado]]
 
 
 ## Transmutation Spells
@@ -939,7 +942,7 @@
 - [[Spider Climb]]
 ### 3rd Circle
 - [[Físico Divino]]
-- [[Slow]]HII 3928
+- [[Slow]]
 
 
 ## Trickery Spells
@@ -1002,7 +1005,7 @@
 - [[Motivational Speech]]
 - [[Oração]]
 - [[Speak with Plants]]
-- [[Tongues]]HII 3928
+- [[Tongues]]
 
 
 ## Unholy Spells
@@ -1026,7 +1029,7 @@
 - [[Life Transference]]
 - [[Toque Vampírico]]
 ### 5th Circle
-- [[Contagion]]HII 3928
+- [[Contagion]]
 
 
 ## Warmagic Spells
@@ -1063,13 +1066,14 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Campo de Força]]
+- [[Conjure Barrage]]
 - [[Físico Divino]]
 - [[Phantom Steed]]
 - [[Soco de Arsenal]]
 ### 5th Circle
 - [[Pele de Pedra]]
 ### 6th Circle
-- [[Blade Barrier]]HII 3928
+- [[Blade Barrier]]
 
 
 ## Water Spells
@@ -1078,7 +1082,9 @@
 ### 1st Circle
 - [[Área Escorregadia]]
 ### 2nd Circle
-- [[Misty Step]]HII 3928
+- [[Misty Step]]
+### 3rd Circle
+- [[Create Food and Water]]
 
 
 ## Wild Spells
@@ -1127,7 +1133,7 @@
 - [[Summon Fey]]
 - [[Summon Lesser Demons]]
 - [[Tiny Servant]]
-- [[Toque Vampírico]]HII 3928
+- [[Toque Vampírico]]
 
 
 ## Wind Spells
@@ -1150,4 +1156,4 @@
 - [[Shatter]]
 ### 3rd Circle
 - [[Soco de Arsenal]]
-- [[Sopro das Uivantes]]HII 3928
+- [[Sopro das Uivantes]]

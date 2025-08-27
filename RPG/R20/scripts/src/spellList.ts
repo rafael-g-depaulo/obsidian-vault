@@ -21,7 +21,7 @@ export const createTagSpellMap = (spells: Spell[]) =>
     return acc
   }, {})
 
-const averageLinesPerPage = 40 * 2
+const averageLinesPerPage = 55 * 2
 type LineCounter = {
   text: string
   curLine: number
@@ -38,10 +38,10 @@ const breakLargeSpellList = (text: string) => text
 
     return {
       text: `${text}\n${cur}`,
-      curLine: curLine++,
+      curLine: curLine + 1,
     }
   }, { text: "", curLine: 0 })
-  .text + "HII 3928"
+  .text
 
 
 export const makeTagSpellList = (tag: string, spells: Spell[]) => breakLargeSpellList(_makeTagSpellList(tag, spells))

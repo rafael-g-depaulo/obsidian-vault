@@ -109,8 +109,9 @@ List of spells available for a All to learn.
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Witch Bolt]]
+{{page-break}}
 - [[Zephyr Strike]]
-- [[Área Escorregadia]]{{page-break}}
+- [[Área Escorregadia]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -220,6 +221,7 @@ List of spells available for a All to learn.
 - [[Summon Lesser Demons]]
 - [[Summon Shadowspawn]]
 - [[Summon Undead]]
+{{page-break}}
 - [[Thunder Step]]
 - [[Tidal Wave]]
 - [[Tiny Servant]]
@@ -252,4 +254,4 @@ List of spells available for a All to learn.
 - [[Desintegrar]]
 - [[Fire Storm]]
 - [[Manto do Cruzado]]
-- [[Regenerate]]BYe 3829
+- [[Regenerate]]

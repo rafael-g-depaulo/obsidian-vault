@@ -52,9 +52,7 @@ List of spells available for a Spelgard to learn.
 - [[Thunderous Smite]]
 - [[Toque Chocante]]
 - [[Witch Bolt]]
-- [[Zephyr Strike]]{{pageNumber,auto}}
-\page
-
+- [[Zephyr Strike]]
 
 ### 2nd Circle
 - [[Aid]]
@@ -73,7 +71,7 @@ List of spells available for a Spelgard to learn.
 - [[Prayer of Healing]]
 - [[Scorching Ray]]
 - [[See invisibility]]
-- [[Spider Climb]]BYe 3829
+- [[Spider Climb]]
 
 ## Spell Descriptions
 [[Spells]]

@@ -21,7 +21,7 @@ const tagsCss = `
 </style>
 `
 
-const averageLinesPerPage = 20 * 2
+const averageLinesPerPage = 55 * 2
 type LineCounter = {
   text: string
   curLine: number
@@ -38,10 +38,10 @@ const breakLargeSpellList = (text: string) => text
 
     return {
       text: `${text}\n${cur}`,
-      curLine: curLine++,
+      curLine: curLine + 1,
     }
   }, { text: "", curLine: 0 })
-  .text + "BYe 3829"
+  .text
 
 export const makeSpellListString = (spells: Spell[], groupName: string = '') => breakLargeSpellList(_makeSpellListString(spells, groupName))
 
@@ -55,8 +55,7 @@ const _makeSpellListString = (spells: Spell[], groupName: string = '') =>
     .map(
       ([level, spells]) =>
         `### ${spellLevelStr(Number(level))}\n` +
-        spells.map(spellListItemString).join('\n') +
-        (Number(level) === 1 ? `{{page-break}}` : '')
+        spells.map(spellListItemString).join('\n')
     )
     .join('\n\n')
 
