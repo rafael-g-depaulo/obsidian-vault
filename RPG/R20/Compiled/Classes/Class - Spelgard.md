@@ -125,6 +125,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -198,7 +199,7 @@ List of spells available for a  to learn.
 - [Prayer of Healing](#p16)
 - [Scorching Ray](#p17)
 - [See invisibility](#p18)
-- [Spider Climb](#p18)
+- [Spider Climb](#p18)BYe 3829
 {{pageNumber,auto}}
 \page
 [Spells](#p5)

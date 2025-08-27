@@ -1,4 +1,5 @@
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -251,4 +252,4 @@ List of spells available for a All to learn.
 - [[Desintegrar]]
 - [[Fire Storm]]
 - [[Manto do Cruzado]]
-- [[Regenerate]]
+- [[Regenerate]]BYe 3829

@@ -111,6 +111,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -217,7 +218,7 @@ List of spells available for a  to learn.
 - [Tidal Wave](#p26)
 - [Tongues](#p26)
 - [Wall of Sand](#p27)
-- [Wall of Water](#p27)
+- [Wall of Water](#p27)BYe 3829
 {{pageNumber,auto}}
 \page
 [Spells](#p5)

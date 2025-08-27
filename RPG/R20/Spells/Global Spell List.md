@@ -15,10 +15,3 @@ Spells considering adapting:
 - alter self
 
 %%
-
-
-{{dev-comment
-
-spells de 3o círculo pra adaptar:
-
-}}

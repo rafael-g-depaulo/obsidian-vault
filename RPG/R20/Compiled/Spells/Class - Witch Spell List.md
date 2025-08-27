@@ -1,4 +1,5 @@
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -133,7 +134,7 @@ List of spells available for a Witch to learn.
 
 ### 5th Circle
 - [[Contagion]]
-- [[Transformação de Guerra]]
+- [[Transformação de Guerra]]BYe 3829
 
 ## Spell Descriptions
 [[Spells]]

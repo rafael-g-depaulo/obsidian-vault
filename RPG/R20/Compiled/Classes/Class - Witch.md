@@ -151,6 +151,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -166,7 +167,7 @@ List of spells available for a  to learn.
 
 ## Spells
 
-
+BYe 3829
 
 {{pageNumber,auto}}
 \page

@@ -1,4 +1,5 @@
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -105,7 +106,7 @@ List of spells available for a Plantomancer to learn.
 - [[Tidal Wave]]
 - [[Tongues]]
 - [[Wall of Sand]]
-- [[Wall of Water]]
+- [[Wall of Water]]BYe 3829
 
 ## Spell Descriptions
 [[Spells]]

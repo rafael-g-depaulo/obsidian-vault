@@ -21,15 +21,32 @@ export const createTagSpellMap = (spells: Spell[]) =>
     return acc
   }, {})
 
-const averageLinesPerPage = 60 * 2
+const averageLinesPerPage = 40 * 2
 type LineCounter = {
   text: string
   curLine: number
 }
-const breakLargeSpellList = (text: string) => text.split('\n').reduce<LineCounter>((acc, cur) => {
-  return acc
-}, { text: "", curLine: 0 })
-export const makeTagSpellList = (tag: string, spells: Spell[]) =>
+const breakLargeSpellList = (text: string) => text
+  .split('\n')
+  .reduce<LineCounter>(({ text, curLine }, cur) => {
+
+    if (curLine >= averageLinesPerPage)
+      return {
+        text: `${text}\n{{page-break}}${cur}`,
+        curLine: 0,
+      }
+
+    return {
+      text: `${text}\n${cur}`,
+      curLine: curLine++,
+    }
+  }, { text: "", curLine: 0 })
+  .text + "HII 3928"
+
+
+export const makeTagSpellList = (tag: string, spells: Spell[]) => breakLargeSpellList(_makeTagSpellList(tag, spells))
+
+const _makeTagSpellList = (tag: string, spells: Spell[]) =>
   `## ${tag[0].toUpperCase()}${tag.slice(1)} Spells\n` +
   groupByLevel(spells)
     .map(

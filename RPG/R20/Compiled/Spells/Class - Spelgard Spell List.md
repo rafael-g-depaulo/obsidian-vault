@@ -1,4 +1,5 @@
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -72,7 +73,7 @@ List of spells available for a Spelgard to learn.
 - [[Prayer of Healing]]
 - [[Scorching Ray]]
 - [[See invisibility]]
-- [[Spider Climb]]
+- [[Spider Climb]]BYe 3829
 
 ## Spell Descriptions
 [[Spells]]

@@ -1233,6 +1233,7 @@ List of spells available for a Chaneler to learn.
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1337,7 +1338,7 @@ List of spells available for a  to learn.
 - [Tidal Wave](#p123)
 - [Tongues](#p124)
 - [Wall of Sand](#p126)
-- [Wall of Water](#p126)
+- [Wall of Water](#p126)BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -1778,6 +1779,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1884,7 +1886,7 @@ List of spells available for a  to learn.
 - [Tidal Wave](#p123)
 - [Tongues](#p124)
 - [Wall of Sand](#p126)
-- [Wall of Water](#p126)
+- [Wall of Water](#p126)BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -2126,6 +2128,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -2199,7 +2202,7 @@ List of spells available for a  to learn.
 - [Prayer of Healing](#p112)
 - [Scorching Ray](#p114)
 - [See invisibility](#p115)
-- [Spider Climb](#p119)
+- [Spider Climb](#p119)BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -2473,6 +2476,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -2488,7 +2492,7 @@ List of spells available for a  to learn.
 
 ## Spells
 
-
+BYe 3829
 
 
 
@@ -3879,6 +3883,7 @@ nature -> elemental -> wild -> nature
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -4118,7 +4123,7 @@ List of spells available for a All to learn.
 - [Blade Barrier](#p80)
 
 ### 7th Circle
-- [Manto do Cruzado](#p107)
+- [Manto do Cruzado](#p107)BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -7367,8 +7372,6 @@ ___
 You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
-
-
 
 
 

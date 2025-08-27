@@ -667,6 +667,7 @@ List of spells available for a Chaneler to learn.
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -771,7 +772,7 @@ List of spells available for a  to learn.
 - [Tidal Wave (link not found)]()
 - [Tongues (link not found)]()
 - [Wall of Sand (link not found)]()
-- [Wall of Water (link not found)]()
+- [Wall of Water (link not found)]()BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -1212,6 +1213,7 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1318,7 +1320,7 @@ List of spells available for a  to learn.
 - [Tidal Wave (link not found)]()
 - [Tongues (link not found)]()
 - [Wall of Sand (link not found)]()
-- [Wall of Water (link not found)]()
+- [Wall of Water (link not found)]()BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -1560,6 +1562,7 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1633,7 +1636,7 @@ List of spells available for a  to learn.
 - [Prayer of Healing (link not found)]()
 - [Scorching Ray (link not found)]()
 - [See invisibility (link not found)]()
-- [Spider Climb (link not found)]()
+- [Spider Climb (link not found)]()BYe 3829
 
 {{pageNumber,auto}}
 \page
@@ -1907,6 +1910,7 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1922,5 +1926,5 @@ List of spells available for a  to learn.
 
 ## Spells
 
-
+BYe 3829
 

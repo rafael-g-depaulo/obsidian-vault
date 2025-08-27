@@ -21,7 +21,31 @@ const tagsCss = `
 </style>
 `
 
-export const makeSpellListString = (spells: Spell[], groupName: string = '') =>
+const averageLinesPerPage = 20 * 2
+type LineCounter = {
+  text: string
+  curLine: number
+}
+const breakLargeSpellList = (text: string) => text
+  .split('\n')
+  .reduce<LineCounter>(({ text, curLine }, cur) => {
+
+    if (curLine >= averageLinesPerPage)
+      return {
+        text: `${text}\n{{page-break}}\n${cur}`,
+        curLine: 0,
+      }
+
+    return {
+      text: `${text}\n${cur}`,
+      curLine: curLine++,
+    }
+  }, { text: "", curLine: 0 })
+  .text + "BYe 3829"
+
+export const makeSpellListString = (spells: Spell[], groupName: string = '') => breakLargeSpellList(_makeSpellListString(spells, groupName))
+
+const _makeSpellListString = (spells: Spell[], groupName: string = '') =>
   tagsCss +
   `### Spell List\n` +
   `List of spells available for a ${groupName} to learn.\n\n` +

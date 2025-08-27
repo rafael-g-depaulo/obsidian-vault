@@ -157,6 +157,7 @@ List of spells available for a Chaneler to learn.
 
 
 
+
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -261,7 +262,7 @@ List of spells available for a  to learn.
 - [Tidal Wave](#p25)
 - [Tongues](#p26)
 - [Wall of Sand](#p26)
-- [Wall of Water](#p26)
+- [Wall of Water](#p26)BYe 3829
 {{pageNumber,auto}}
 \page
 [Spells](#p5)

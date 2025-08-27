@@ -77,8 +77,8 @@ export class Macro extends MacroAstNode_Base<'macro'> {
       .join('\n\n- sep -\n\n')
 
     // console.clear()
-    console.log('----------')
-    console.log(bodyContent.map(({_node, ...r}) => (r)))
+    // console.log('----------')
+    // console.log(bodyContent.map(({_node, ...r}) => (r)))
 
     // console.log(asdasd)
     return macroHandler(this.name, this.body, {
@@ -132,12 +132,12 @@ export class List extends MacroAstNode_Base<'list'> {
 export type ListItem = (Macro | Text)[]
 
 export class Table extends MacroAstNode_Base<'table'> {
-  data: ({[key: string]: string})[]
+  data: ({ [key: string]: string })[]
 
   constructor(headerRow: TableRow, data: TableRow[], _node: Node) {
     super('table', _node)
 
-    const headerValues = headerRow.rowData.map(cell => cell.reduce((acc, cur) => `${acc}${cur.compile()}`,""))
+    const headerValues = headerRow.rowData.map(cell => cell.reduce((acc, cur) => `${acc}${cur.compile()}`, ""))
     this.data = data.map(row => row.rowData.reduce((acc, cell, index) => ({
       ...acc,
       [headerValues[index]]: cell.map(cellValue => cellValue.compile()).join(""),
@@ -155,7 +155,7 @@ export class TableRow extends MacroAstNode_Base<'table_row'> {
   constructor(dataNodes: TableCellValue[], _node: Node) {
     super('table_row', _node)
     this.rowData = dataNodes
-    
+
     this.rowData.forEach(cell =>
       cell.forEach(cellValue =>
         cellValue.type === 'text' &&
