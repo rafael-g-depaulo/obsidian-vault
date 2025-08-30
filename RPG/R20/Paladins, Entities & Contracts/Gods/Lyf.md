@@ -15,6 +15,7 @@ people "stealing it's food".
 - Wither and Bloom
 - Toll the Dead
 - ??? Maximilian's Earthen Grasp
+- ???? summon beasts
 - Life Transference
 - Insect Plague
 - Infligir Ferimentos
