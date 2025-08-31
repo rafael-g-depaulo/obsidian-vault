@@ -6,22 +6,22 @@ not much, really.
 people "stealing it's food".
 
 ### Miracles
-- [[Toll the Dead]] 0
-- [[Infestation]] 0
-- [[Entangle]] 1
-- [[Infligir Ferimentos]] 1
-- [[Detect Poison and Disease]] 1
-- [[Casca da Cigarra]] 1
-- [[Abençoar Alimentos]] 1
-- [[Wither and Bloom ]] 2
-- [[Vampiric Touch]] 3
-- [[Stinking Cloud]] 3
-- [[Hunger of Hadar]] 3
-- [[Gaseous Form]] 3
-- [[Feign Death]] 3
-- [[Bestow Curse]] 3
-- [[Life Transference]] 3
-- [[Espelho do Pântano]] 3
+- [[Toll the Dead]] 1
+- [[Infestation]] 1
+- [[Entangle]] 2
+- [[Infligir Ferimentos]] 2
+- [[Detect Poison and Disease]] 2
+- [[Casca da Cigarra]] 2
+- [[Abençoar Alimentos]] 2
+- [[Wither and Bloom ]] 3
+- [[Vampiric Touch]] 4
+- [[Stinking Cloud]] 4
+- [[Hunger of Hadar]] 4
+- [[Gaseous Form]] 4
+- [[Feign Death]] 4
+- [[Bestow Curse]] 4
+- [[Life Transference]] 4
+- [[Espelho do Pântano]] 4
 - [[Insect Plague]] 7
 - [[Contagion]] 7
 
