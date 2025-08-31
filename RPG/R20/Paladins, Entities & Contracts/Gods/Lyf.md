@@ -6,26 +6,29 @@ not much, really.
 people "stealing it's food".
 
 ### Miracles
-- Vampiric Touch
-- Stinking Cloud
-- Hunger of Hadar
-- Gaseous Form
-- Feign Death
-- Bestow Curse
-- Wither and Bloom
-- Toll the Dead
+- [[Toll the Dead]] 0
+- [[Infestation]] 0
+- [[Entangle]] 1
+- [[Infligir Ferimentos]] 1
+- [[Detect Poison and Disease]] 1
+- [[Casca da Cigarra]] 1
+- [[Abençoar Alimentos]] 1
+- [[Wither and Bloom ]] 2
+- [[Vampiric Touch]] 3
+- [[Stinking Cloud]] 3
+- [[Hunger of Hadar]] 3
+- [[Gaseous Form]] 3
+- [[Feign Death]] 3
+- [[Bestow Curse]] 3
+- [[Life Transference]] 3
+- [[Espelho do Pântano]] 3
+- [[Insect Plague]] 7
+- [[Contagion]] 7
+
+%% 
 - ??? Maximilian's Earthen Grasp
 - ???? summon beasts
-- Life Transference
-- Insect Plague
-- Infligir Ferimentos
-- Infestation
-- Espelho do Pântano
-- Entangle
-- Detect Poison and Disease
-- Contagion
-- Casca da Cigarra
-- Abençoar Alimentos3
+%%
 
 ### Blessings
 **Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
