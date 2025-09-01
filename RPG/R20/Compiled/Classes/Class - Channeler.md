@@ -553,7 +553,7 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">water nature creation arcane</div>
+<div class="spell-tags">nature arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1374,7 +1374,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">occult arcane</div>
+<div class="spell-tags">unholy occult creation arcane trickery</div>
 
 *3rd Circle*
 - **Execução:** Action

@@ -49,7 +49,6 @@ Here's a list of all of the errors found.
 - [[Spirit Guardians]] Missing "DURATION" item
 - [[Spirit Shroud]] Missing "DURATION" item
 - [[Stinking Cloud]] Missing "DURATION" item
-- [[Summon Fey]] Missing "DURATION" item
 - [[Summon Lesser Demons]] Missing "DURATION" item
 - [[Summon Shadowspawn]] Missing "DURATION" item
 - [[Summon Undead]] Missing "DURATION" item

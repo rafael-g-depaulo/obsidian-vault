@@ -531,7 +531,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 \page
 [Spells](#p5)
 ### Create Food and Water (3 MP)
-<div class="spell-tags">water nature creation arcane</div>
+<div class="spell-tags">nature arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1346,7 +1346,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 \page
 [Spells](#p5)
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">occult arcane</div>
+<div class="spell-tags">unholy occult creation arcane trickery</div>
 
 *3rd Circle*
 - **Execução:** Action

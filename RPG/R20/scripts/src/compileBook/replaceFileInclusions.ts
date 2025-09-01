@@ -15,9 +15,13 @@ export const parsePath = (currentFolder: string, markdownLink: string) => {
 
 export const makeInclusionsGlobal = (currentFolder: string) => (content: string) =>
   replaceAsync(content, markdownLinkRegex, matchStr =>
-    parsePath(currentFolder, matchStr).then(s => {
-      return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
-    })
+    parsePath(currentFolder, matchStr)
+      .then(s => {
+        if (!s) {
+          console.warn("SDFSDFSDFDS", s, matchStr)
+        }
+        return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
+      })
   )
 
 export const replaceFileInclusions = (

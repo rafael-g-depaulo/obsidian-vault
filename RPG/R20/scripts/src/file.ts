@@ -53,7 +53,9 @@ export const searchPathRecursively = async (
 ): Promise<null | string> => {
   if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
+
   const poppedPath = popTopFolder(currentFolder)
+
   if (!poppedPath) return null
 
   return searchPathRecursively(poppedPath, relativePath)

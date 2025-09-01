@@ -8,9 +8,4 @@ Toda benção tem como pré-requisito ser paladino.
 **NAME_HERE.** Ao fazer um teste de uma perícia de atributo mental (X FP, limitado pela sua proficiência): Você ganha +2 no teste por FP gasto. Os casos de uso válido desse Milagre passam pela discrição do mestre.
 
 ## Entity Specific Blessings
-
-### Rosa Maria
-
-
-### Lyf
-
+Toda entidade também tem bençãos próprias, que tem como prerequisito ser um Paladino daquela entidade.

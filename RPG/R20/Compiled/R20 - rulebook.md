@@ -176,23 +176,22 @@ ___
 - #### [{{ Auvetre }}{{ 129 }}](#p130)
 - #### [{{ Rosa Maria }}{{ 129 }}](#p130)
 - #### [{{ Wuzei }}{{ 129 }}](#p130)
-- ### [{{ Blessing List }}{{ 130 }}](#p131)
-- ### [{{ Companions }}{{ 131 }}](#p132)
-- #### [{{ Stats }}{{ 131 }}](#p132)
-- #### [{{ Companion death }}{{ 131 }}](#p132)
-- #### [{{ Rest }}{{ 131 }}](#p132)
-- #### [{{ Companion Skills }}{{ 131 }}](#p132)
-- ### [{{ Conditions }}{{ 133 }}](#p134)
-- ### [{{ Rest & Recovery }}{{ 134 }}](#p135)
-- #### [{{ Provisions }}{{ 134 }}](#p135)
-- #### [{{ How to recover }}{{ 134 }}](#p135)
-- #### [{{ Skipping a Rest }}{{ 134 }}](#p135)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 135 }}](#p136)
-- ### [{{ Companions }}{{ 136 }}](#p137)
-- #### [{{ Stats }}{{ 136 }}](#p137)
-- #### [{{ Companion death }}{{ 136 }}](#p137)
-- #### [{{ Rest }}{{ 136 }}](#p137)
-- #### [{{ Companion Skills }}{{ 136 }}](#p137)
+- ### [{{ Companions }}{{ 130 }}](#p131)
+- #### [{{ Stats }}{{ 130 }}](#p131)
+- #### [{{ Companion death }}{{ 130 }}](#p131)
+- #### [{{ Rest }}{{ 130 }}](#p131)
+- #### [{{ Companion Skills }}{{ 130 }}](#p131)
+- ### [{{ Conditions }}{{ 132 }}](#p133)
+- ### [{{ Rest & Recovery }}{{ 133 }}](#p134)
+- #### [{{ Provisions }}{{ 133 }}](#p134)
+- #### [{{ How to recover }}{{ 133 }}](#p134)
+- #### [{{ Skipping a Rest }}{{ 133 }}](#p134)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 134 }}](#p135)
+- ### [{{ Companions }}{{ 135 }}](#p136)
+- #### [{{ Stats }}{{ 135 }}](#p136)
+- #### [{{ Companion death }}{{ 135 }}](#p136)
+- #### [{{ Rest }}{{ 135 }}](#p136)
+- #### [{{ Companion Skills }}{{ 135 }}](#p136)
 }}
 
 {{pageNumber,auto}}
@@ -2645,7 +2644,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p134)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p133)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -3261,7 +3260,7 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 
 ## Mantimento
 
-Ao realizar um descanso (Ver: [Rest & Recovery](#p135)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
+Ao realizar um descanso (Ver: [Rest & Recovery](#p134)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
 Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 100 pratas equivalente de mantimentos.
 ## Comidas Especiais
@@ -3272,7 +3271,7 @@ Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer?
 ### Produzir uma **Comida Especial**
 A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p66) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
-- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p135), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
+- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p134), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
 - Os materiais necessários são mantimentos comuns (ver: [Rations (link not found)]()), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial** (a critério do mestre).
 - Com a quantia necessária de materiais gastos, a rolagem de crafting é feita como normalmente, contra a CD do item a ser criado (12 + nível do item / 2).
 - Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
@@ -3788,7 +3787,7 @@ Spells are divided into 9 levels and cantrips (0-level spells).
 ## Spell Tags
 All spells have one or more tags where they fit. The spell [Toque Chocante](#p122), for example, has the lightning, battle & energy tags. Tags are most useful for designers when creating spell lists for new classes.
 
-For example, let's pretend we're creating a "blaster" caster class. That class is 110% ofensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
+For example, let's pretend we're creating a "blaster" caster class. That class is 110% offensive, with only elemental, attack and some utility spells, while most of it's non-attacking abilities come from the class features, not it's spells. So, when creating the spell list for the class we can (instead of checking hundreds of spells manually and deciding if they work with the idea or not) take the 'energy', 'evocation' and 'decay' tags, and just say that the spell list consists of all spells with at least 1 of those tags.
 
 It's important to point out that you're not tied to using only this to create a spell list. Are you mostly fine with using tags to define it, but also REALLY want characters from that class to be able to use Leomund's Tiny Hut? Just add it to the list, ignoring the tags. Don't want a class to have access to one specific spell from a tag you're allowing them? Remove that single spell. Do you just want to manually pick spells? Have at it. This tag system was made to aid the designer in speeding up the process of making a spell list, not to constrain your ideas in any way
 
@@ -6902,17 +6901,18 @@ If you or any of your companions damage the target, the spell ends.
 
 *3rd Circle*
 - **Execução:** Action
-- **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 hour
-- **Resistência:** DEX
+- **Alcance:** 15sqr
+- **Alvo:** point
+- **Duração:** Concentration
+- **Resistência:** SEN
 ___
 
-You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+**Putinho.** The spirit has Advantage on the next attack roll it makes before the end of this turn..**Encantador.** _SEN Saving Throw:_ DC equals your spell save DC, one creature the spirit can see within 2sqr of itself. _Failure:_ The target is Charmed by you and the spirit for 1 minute or until the target takes any damage..**Brincalhão.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.
 
-- **+0 PM:** Placeholder.
+
 
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">occult wild</div>
+<div class="spell-tags">unholy occult summon wild</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -7448,17 +7448,12 @@ Toda benção tem como pré-requisito ser paladino.
 **NAME_HERE.** Ao fazer um teste de uma perícia de atributo mental (X FP, limitado pela sua proficiência): Você ganha +2 no teste por FP gasto. Os casos de uso válido desse Milagre passam pela discrição do mestre.
 
 ## Entity Specific Blessings
-
-### Rosa Maria
-
-
-### Lyf
-
-
+Toda entidade também tem bençãos próprias, que tem como prerequisito ser um Paladino daquela entidade.
 
 {{pageNumber,auto}}
 \page
 # Entities
+
 ############ INVALID_LINK "null" ############
 
 ############ INVALID_LINK "null" ############
@@ -7542,10 +7537,7 @@ Nasce uma planta piranha. Ela ataca um inimigo a sua escolha em 1sqr de alcance.
 
 **See Invisibility.** Você usa a magia [See Invisibility (link not found)]().
 
-{{pageNumber,auto}}
-\page
-# Blessing List
-
+############ INVALID_LINK "null" ############
 
 {{pageNumber,auto}}
 \page

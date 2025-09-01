@@ -1172,7 +1172,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [Spells](#p5)
 ### Major Image (3 MP)
-<div class="spell-tags">trickery</div>
+<div class="spell-tags">ilusiuon trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1569,7 +1569,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">occult arcane</div>
+<div class="spell-tags">unholy occult creation arcane trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1608,14 +1608,15 @@ If you or any of your companions damage the target, the spell ends.
 
 *3rd Circle*
 - **Execução:** Action
-- **Alcance:** 90 feet
-- **Alvo:** DURATION: Concentration, up to 1 hour
-- **Resistência:** DEX
+- **Alcance:** 15sqr
+- **Alvo:** point
+- **Duração:** Concentration
+- **Resistência:** SEN
 ___
 
-You call forth a Fey spirit. It manifests in an unoccupied space that you can see within range and uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a Fey creature of your choice marked by the chosen mood, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+**Putinho.** The spirit has Advantage on the next attack roll it makes before the end of this turn..**Encantador.** _SEN Saving Throw:_ DC equals your spell save DC, one creature the spirit can see within 2sqr of itself. _Failure:_ The target is Charmed by you and the spirit for 1 minute or until the target takes any damage..**Brincalhão.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.
 
-- **+0 PM:** Placeholder.
+
 
 ### Summon Lesser Demons (3 MP)
 <div class="spell-tags">occult wild</div>

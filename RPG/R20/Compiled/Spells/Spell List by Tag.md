@@ -183,9 +183,9 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
-- [[Create Food and Water]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
+- [[Stinking Cloud]]
 - [[Wind Wall]]
 ### 6th Circle
 - [[Blade Barrier]]
@@ -486,6 +486,11 @@
 - [[Camuflagem ilusória]]
 - [[Enemies Abound]]
 - [[Invisibilidade]]
+
+
+## Ilusiuon Spells
+### 3rd Circle
+- [[Major Image]]
 
 
 ## Lighning Spells
@@ -1003,6 +1008,7 @@
 - [[Motivational Speech]]
 - [[Oração]]
 - [[Speak with Plants]]
+- [[Stinking Cloud]]
 - [[Tongues]]
 
 
@@ -1025,6 +1031,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Stinking Cloud]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
@@ -1080,8 +1087,6 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
-### 3rd Circle
-- [[Create Food and Water]]
 
 
 ## Wild Spells
