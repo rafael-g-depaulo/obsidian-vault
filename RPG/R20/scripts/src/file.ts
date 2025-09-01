@@ -80,9 +80,10 @@ export const popTopFolder = (
 }
 export const searchPathRecursively = async (
   currentFolder: string,
-  relativePath: string
+  relativePath: string,
+  log = false
 ): Promise<null | string> => {
-  const r = _searchPathRecursively(currentFolder, relativePath)
+  const r = _searchPathRecursively(currentFolder, relativePath, true)
 
   // console.log("!!!", await r)
   // console.log(`"${currentFolder}"`)
@@ -118,12 +119,17 @@ const removeDuplicateFolders = (leftSegment: string, rightSegment: string) => {
 const _searchPathRecursively = async (
   currentFolder: string,
   _relativePath: string,
+  log = false,
 ): Promise<string | null> => {
 
   const relativePath = removeDuplicateFolders(currentFolder, _relativePath)
   // if (relativePath !== _relativePath) {
   //   console.log("###################", [relativePath, _relativePath])
   // }
+
+  if (relativePath.includes("Proficiency")) {
+    console.log("!!!", relativePath, _relativePath, currentFolder)
+  }
 
   if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)

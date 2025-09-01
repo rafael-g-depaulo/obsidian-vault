@@ -183,6 +183,8 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Conjure Barrage]]
+- [[Create Food and Water]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
@@ -363,6 +365,7 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Blinding Smite]]
+- [[Conjure Barrage]]
 - [[Crusader's Mantle]]
 - [[Spirit Guardians]]
 
@@ -828,6 +831,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
+- [[Summon Lesser Demons]]
 
 
 ## Thaumaturgy Spells
@@ -1024,6 +1028,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Summon Lesser Demons]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
@@ -1063,6 +1068,7 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Campo de Força]]
+- [[Conjure Barrage]]
 - [[Físico Divino]]
 - [[Phantom Steed]]
 - [[Soco de Arsenal]]
@@ -1079,6 +1085,8 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
+### 3rd Circle
+- [[Create Food and Water]]
 
 
 ## Wild Spells

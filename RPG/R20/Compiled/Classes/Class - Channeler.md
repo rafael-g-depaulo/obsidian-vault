@@ -177,18 +177,18 @@ List of spells available for a  to learn.
 - [Acid Splash](#p6)
 - [Chill Touch](#p9)
 - [Control Flames](#p10)
-- [Energy Blast](#p12)
+- [Energy Blast](#p11)
 - [Fire Bolt](#p13)
 - [Frostbite](#p14)
 - [Guidance](#p14)
-- [Lightning Lure](#p17)
+- [Lightning Lure](#p16)
 - [Magic Stone](#p18)
 - [Message](#p19)
 - [Poison Spray](#p19)
 - [Ray of Frost](#p20)
 - [Resistance](#p21)
-- [Shape Water](#p22)
-- [Thunderclap](#p24)
+- [Shape Water](#p21)
+- [Thunderclap](#p23)
 - [Toll the Dead](#p24)
 - [Vicious Mockery](#p25)
 
@@ -213,7 +213,7 @@ List of spells available for a  to learn.
 - [Ray of Sickness](#p20)
 - [Silent Image](#p22)
 - [Thunderwave](#p24)
-- [Witch Bolt](#p26)
+- [Witch Bolt](#p25)
 - [Área Escorregadia](#p6)
 
 ### 2nd Circle
@@ -221,12 +221,12 @@ List of spells available for a  to learn.
 - [Binding Ice](#p7)
 - [Blindness Deafness](#p8)
 - [Calm Emotions](#p8)
-- [Continual Flame](#p10)
+- [Continual Flame](#p9)
 - [Crown of Madness](#p10)
-- [Explosão Sonora](#p13)
+- [Explosão Sonora](#p12)
 - [Heat Metal](#p15)
-- [Hold Person](#p16)
-- [Magic Mouth](#p18)
+- [Hold Person](#p15)
+- [Magic Mouth](#p17)
 - [Manto de Vento](#p18)
 - [Maximilian's Earthen Grasp](#p18)
 - [Mind Whip](#p19)
@@ -241,24 +241,23 @@ List of spells available for a  to learn.
 - [Bestow Curse](#p7)
 - [Blinding Smite](#p7)
 - [Clairvoyance](#p9)
-- [Conjure Barrage](#p9)
 - [Create Food and Water](#p10)
-- [Crusader's Mantle](#p11)
+- [Crusader's Mantle](#p10)
 - [Erupting Earth](#p12)
 - [Fireball](#p13)
-- [Flame Arrows](#p14)
+- [Flame Arrows](#p13)
 - [Flecha Ácida](#p14)
-- [Haste](#p15)
+- [Haste](#p14)
 - [Lightning Bolt](#p16)
-- [Melf's Minute Meteors](#p19)
-- [Protection from Energy](#p20)
-- [Relâmpago](#p21)
-- [Sopro das Uivantes](#p23)
+- [Melf's Minute Meteors](#p18)
+- [Protection from Energy](#p19)
+- [Relâmpago](#p20)
+- [Sopro das Uivantes](#p22)
 - [Spirit Shroud](#p23)
 - [Stinking Cloud](#p23)
 - [Thunder Step](#p23)
 - [Tidal Wave](#p24)
-- [Tongues](#p25)
+- [Tongues](#p24)
 - [Wall of Sand](#p25)
 - [Wall of Water](#p25)
 {{pageNumber,auto}}
@@ -507,22 +506,6 @@ You create an Invisible sensor within range in a location familiar to you (a pla
 
 - **+0 PM:** Placeholder.
 
-### Conjure Barrage (3 MP)
-<div class="spell-tags">arcane thaumaturgy force</div>
-
-*3rd Circle*
-- **Execução:** Action
-- **Alcance:** Self
-- **Alvo:** Area
-- **Duração:** Instantaneous
-- **Resistência:** DEX
-___
-
-You brandish the weapon used to cast the spell and conjure similar spectral weapons (or ammunition appropriate to the weapon) that launch forward and then disappear. Each creature of your choice that you can see in a 12sqr Cone makes a Dexterity saving throw, taking 5d8 Force damage on a failed save or half as much damage on a successful one.
-
-- **+2 PM:** +1d8 damage.{{pageNumber,auto}}
-\page
-[Spells](#p5)
 ### Continual Flame (2 MP)
 <div class="spell-tags">creation fire thaumaturgy evocation arcane elemental thaumaturgy</div>
 
@@ -536,8 +519,9 @@ ___
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
 The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
 
@@ -553,7 +537,7 @@ You instantaneously expand the flame 5 feet in one direction, provided that wood
 
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">nature arcane</div>
+<div class="spell-tags">water nature creation arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -583,9 +567,8 @@ The charmed target must use its action before moving on each of its turns to mak
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
-- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+2PM:** increase the damage by +1d8.
+
 ### Crusader's Mantle (3 MP)
 <div class="spell-tags">thaumaturgy energy</div>
 
@@ -597,8 +580,9 @@ ___
 
 You radiate a magical aura in a 30-foot Emanation. While in the aura, you and your allies each deal an extra 1d4 Radiant damage when hitting with a weapon or an Unarmed Strike.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Despedaçar (1 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -646,9 +630,8 @@ ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 - **+2PM:** increase the damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+3PM:** increase the radius by 1sqr.
+
 ### Energy Blast (0 MP)
 <div class="spell-tags">energy evocation thaumaturgy</div>
 
@@ -665,8 +648,9 @@ A beam of crackling energy streaks toward a creature within range. Make a ranged
 - **+1 PM:** +2sqr alcance..
 - **+2 PM:** você lança +1 raio contra mais um alvo a sua escolha.
 - **+3 PM:** você lança +1 raio contra o alvo principal.
-- **+2 PM:** margem de ameaça +2.
-
+- **+2 PM:** margem de ameaça +2.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Erupting Earth (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -713,9 +697,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **cost:** description.
+
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -730,8 +713,9 @@ ___
 Um som grave atordoante explode em um quadrado de tamanho 3sqr (centrado no ponto escolhido). Todas as criaturas nessa área devem passar em um teste de resistência, ou tomam 3d8 dano de impacto (quem passar toma metade do dano). Criaturas inorgânicas e objetos são vulneráveis a esse dano (dano dobrado).
 
 - **+2 PM:** aumenta o  ano em +1d8..
-- **+2 PM:** aumenta diâmetro da explosão em 1sqr..
-
+- **+2 PM:** aumenta diâmetro da explosão em 1sqr..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Feather Fall (1 MP)
 <div class="spell-tags">transmutation wind arcane no-thaumaturgy nature</div>
 
@@ -774,9 +758,8 @@ ___
 
 A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 4sqr-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.Flammable objects in the area that aren't being worn or carried start burning.
 
-- **+2 PM:** +1d6 damage.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+2 PM:** +1d6 damage.
+
 ### Flame Arrows (3 MP)
 <div class="spell-tags">elemental arcane thaumaturgy</div>
 
@@ -790,8 +773,9 @@ ___
 You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
 
 - **+1 PM:** +2 munições encantadas.
-- **+4PM:** +1d6 dano.
-
+- **+4PM:** +1d6 dano.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Flecha Ácida (3 MP)
 <div class="spell-tags">decay acid evocation arcane curse occult thaumaturgy creation arcane</div>
 
@@ -834,9 +818,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Haste (3 MP)
 <div class="spell-tags">sacred arcane</div>
 
@@ -849,8 +832,9 @@ ___
 
 Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Heat Metal (2 MP)
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
 
@@ -895,9 +879,8 @@ ___
 A willing creature you touch is imbued with bravery.  
 Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 
-- **:** .{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **:** .
+
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -911,8 +894,9 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.
-
+- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Imagem Espelhada (1 MP)
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -958,9 +942,8 @@ ___
 
 A stroke of lightning forming a 20sqr-long, 1sqr-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 
-- **+1 PM:** +1d6 dama.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+1 PM:** +1d6 dama.
+
 ### Lightning Lure (0 MP)
 <div class="spell-tags">lighning elemental transmutation arcane</div>
 
@@ -974,8 +957,9 @@ ___
 You create a lash of lightning energy that strikes at one creature of your choice that you can see within range.  
 The target must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 
-- **+2PM:** increase damage by +1d8.
-
+- **+2PM:** increase damage by +1d8.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Longstrider (1 MP)
 <div class="spell-tags">boost sacred thaumaturgy</div>
 
@@ -1017,9 +1001,8 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
+
 ### Magic Mouth (2 MP)
 <div class="spell-tags">speech trickery arcane divination transmutation</div>
 
@@ -1038,8 +1021,9 @@ When that circumstance occurs, a magical mouth appears on the object and recites
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -1086,9 +1070,8 @@ To break out, the restrained target can make a Strength check against your spell
 
 As an action, you can cause the hand to reach for a different creature or to move to a different unoccupied space within range. The hand releases a restrained target if you do either.
 
-- **+3PM:** increase all damage by +1d6.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+3PM:** increase all damage by +1d6.
+
 ### Melf's Minute Meteors (3 MP)
 <div class="spell-tags">nature elemental arcane</div>
 
@@ -1101,8 +1084,9 @@ ___
 
 You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a movement action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 15sqr of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
-- **+2 PM:** +2 meteoros.
-
+- **+2 PM:** +2 meteoros.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -1145,9 +1129,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+2 PM:** Aumenta o dano em 1d12..
+
 ### Protection from Energy (3 MP)
 <div class="spell-tags">thaumaturgy</div>
 
@@ -1159,8 +1142,9 @@ ___
 
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
@@ -1204,9 +1188,8 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
 
@@ -1220,8 +1203,9 @@ ___
 
 Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
 
-- **cost:** description.
-
+- **cost:** description.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Resistance (0 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -1265,9 +1249,8 @@ ___
 
 For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -1290,8 +1273,9 @@ You choose an area of water that you can see within range and that fits within a
 
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Silence (2 MP)
 <div class="spell-tags">speech trickery transmutation arcane</div>
 
@@ -1339,9 +1323,8 @@ ___
 
 Uma pequena tempestade de granizo e neve atinge um quadrado de tamanho 2sqr centrado no ponto escolhido. Todas as criaturas dentro tomam 4d6 dano de gelo, ou metade se passarem no teste de resistência.
 
-- ****+1PM**:** +1d6 dano.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- ****+1PM**:** +1d6 dano.
+
 ### Sopro das Uivantes (3 MP)
 <div class="spell-tags">wind nature cold elemental creation arcane</div>
 
@@ -1357,8 +1340,9 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
-
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Spirit Shroud (3 MP)
 <div class="spell-tags">occult necrotic decay elemental</div>
 
@@ -1399,9 +1383,8 @@ ___
 
 You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -1414,8 +1397,9 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.
-
+- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 
@@ -1457,9 +1441,8 @@ ___
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
-- **+3 PM:** increase the damage by 2 dice.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+3 PM:** increase the damage by 2 dice.
+
 ### Tongues (3 MP)
 <div class="spell-tags">trickery arcane</div>
 
@@ -1471,8 +1454,9 @@ ___
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Vicious Mockery (0 MP)
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
 
@@ -1512,9 +1496,8 @@ ___
 
 You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall's space is difficult terrain.Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
 

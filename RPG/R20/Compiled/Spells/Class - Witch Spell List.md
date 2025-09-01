@@ -1586,7 +1586,7 @@ ___
 
 
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">occult wild</div>
+<div class="spell-tags">unholy occult summon wild</div>
 
 *3rd Circle*
 - **Execução:** Action
