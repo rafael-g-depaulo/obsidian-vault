@@ -1172,7 +1172,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [Spells](#p5)
 ### Major Image (3 MP)
-<div class="spell-tags">ilusiuon trickery</div>
+<div class="spell-tags">trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1569,7 +1569,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1632,7 +1632,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">no-wild occult</div>
+<div class="spell-tags">summon no-wild unholy occult</div>
 
 *3rd Circle*
 - **Execução:** Action

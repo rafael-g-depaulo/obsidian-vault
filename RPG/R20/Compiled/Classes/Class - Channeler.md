@@ -189,7 +189,7 @@ List of spells available for a  to learn.
 - [Resistance](#p21)
 - [Shape Water](#p22)
 - [Thunderclap](#p24)
-- [Toll the Dead](#p24)
+- [Toll the Dead](#p25)
 - [Vicious Mockery](#p25)
 
 ### 1st Circle
@@ -256,11 +256,12 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p23)
 - [Spirit Shroud](#p23)
 - [Stinking Cloud](#p23)
-- [Thunder Step](#p23)
+- [Summon Shadowspawn](#p23)
+- [Thunder Step](#p24)
 - [Tidal Wave](#p24)
 - [Tongues](#p25)
 - [Wall of Sand](#p25)
-- [Wall of Water](#p25)
+- [Wall of Water](#p26)
 {{pageNumber,auto}}
 \page
 [Spells](#p5)
@@ -1374,7 +1375,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1387,6 +1388,20 @@ You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point
 
 - **+0 PM:** Placeholder.
 
+### Summon Shadowspawn (3 MP)
+<div class="spell-tags">summon no-wild unholy occult</div>
+
+*3rd Circle*
+- **Execução:** Action
+- **Alcance:** 90 feet
+- **Alvo:** DURATION: Concentration, up to 1 hour
+___
+
+You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Thunder Step (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>
 
@@ -1399,9 +1414,8 @@ ___
 
 You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -1443,8 +1457,9 @@ ___
 
 You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
@@ -1457,9 +1472,8 @@ ___
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d4 necrotic damage. If the target is missing any of its hit points, it instead takes 1d8 necrotic damage.
 
-- **+3 PM:** increase the damage by 2 dice.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+3 PM:** increase the damage by 2 dice.
+
 ### Tongues (3 MP)
 <div class="spell-tags">trickery arcane</div>
 
@@ -1499,8 +1513,9 @@ ___
 
 You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 10 feet thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is blinded while in the wall's space and must spend 2 sqr of movement for every 1 sqr it moves there.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Wall of Water (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -1512,9 +1527,8 @@ ___
 
 You create a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the spell ends. The wall's space is difficult terrain.Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Witch Bolt (1 MP)
 <div class="spell-tags">lighning elemental thaumaturgy evocation</div>
 

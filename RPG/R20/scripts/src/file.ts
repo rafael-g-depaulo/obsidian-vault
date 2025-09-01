@@ -51,6 +51,9 @@ export const searchPathRecursively = async (
   currentFolder: string,
   relativePath: string
 ): Promise<null | string> => {
+  return _searchPathRecursively(currentFolder, relativePath)
+
+  // console.log("____________", await fileOrFolderExists(currentFolder, relativePath))
   if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
 
@@ -59,6 +62,15 @@ export const searchPathRecursively = async (
   if (!poppedPath) return null
 
   return searchPathRecursively(poppedPath, relativePath)
+}
+
+const _searchPathRecursively = async (
+  currentFolder: string,
+  relativePath: string,
+) => {
+  console.log("zzzzzzzzzzzzzzzzzz", await listFiles(currentFolder))
+
+  return ""
 }
 
 export const searchFolderRecursively = async (

@@ -1234,7 +1234,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 \page
 [[Spells]]
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
