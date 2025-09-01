@@ -98,11 +98,28 @@ export const searchPathRecursively = async (
 const _searchPathRecursively = async (
   currentFolder: string,
   relativePath: string,
-) => {
-  console.log("zzzzzzzzzzzzzzzzzz", await listFiles(currentFolder))
-  console.log(await getFolderContents(currentFolder))
+): Promise<string | null> => {
+  if (await fileOrFolderExists(currentFolder, relativePath))
+    return join(currentFolder, relativePath)
 
-  return ""
+  // console.log("zzzzzzzzzzzzzzzzzz", await listFiles(currentFolder))
+  const { folders } = await getFolderContents(currentFolder)
+
+  const searchResultsPromises = folders
+    .filter(f => f !== "node_modules")
+    .map(folderName => _searchPathRecursively(join(currentFolder, folderName), relativePath))
+
+  const searchResult = (await Promise
+    .all(searchResultsPromises))
+    .filter(r => !!r)[0]
+
+  if (!searchResult) {
+    console.log("@@@@@@@@@@@@@", "\n", currentFolder, "\n", relativePath)
+    return null
+
+  }
+
+  return searchResult
 }
 
 export const searchFolderRecursively = async (

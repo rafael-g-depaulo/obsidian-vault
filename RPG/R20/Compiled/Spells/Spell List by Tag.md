@@ -828,7 +828,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Shadowspawn]]
+- [[Summon Lesser Demons]]
 
 
 ## Thaumaturgy Spells
@@ -1025,7 +1025,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Shadowspawn]]
+- [[Summon Lesser Demons]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
