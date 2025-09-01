@@ -90,10 +90,20 @@ export const searchPathRecursively = async (
   return r
 }
 
+const removeDuplicateFolders = (currentFolder: string, relativePath: string) => {
+
+  console.log(currentFolder.split('/'))
+  return relativePath
+}
 const _searchPathRecursively = async (
   currentFolder: string,
-  relativePath: string,
+  _relativePath: string,
 ): Promise<string | null> => {
+  // TODO: FIX SEARCH. THE ISSUE IS WITH HOW WE'RE POPPING THE TOP FOLDER.
+  // GET THE OVERLAPPING FOLDER SEGMENTS IN CUR AND RELATIVE AND REMOVE THEM FROM RELATIVE
+  // EX: "vault/RPG/R20" and "RPG/R20/Archetypes/index.md" => "Archetypes/index.md"
+  const relativePath = removeDuplicateFolders(currentFolder, _relativePath)
+
   if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
 
@@ -107,10 +117,6 @@ const _searchPathRecursively = async (
   const searchResults = (await Promise
     .all(searchResultsPromises))
     .filter(r => !!r)
-
-  // TODO: FIX SEARCH. THE ISSUE IS WITH HOW WE'RE POPPING THE TOP FOLDER.
-  // GET THE OVERLAPPING FOLDER SEGMENTS IN CUR AND RELATIVE AND REMOVE THEM FROM RELATIVE
-  // EX: "vault/RPG/R20" and "RPG/R20/Archetypes/index.md" => "Archetypes/index.md"
 
   const searchResult = searchResults[0]
 
