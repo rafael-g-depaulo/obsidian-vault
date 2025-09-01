@@ -13,8 +13,13 @@ import { join } from 'path'
 import { matchGroups } from './regexUtils'
 
 // util file funcions
-export const listFiles = (...dirs: string[]) =>
+export const listFiles = async (...dirs: string[]) =>
   readdir(join(...dirs), { encoding: 'utf8' })
+    .then(filesList => Promise.all(
+      filesList
+        .filter(file => fileOrFolderExists(...dirs, file))
+    )
+    )
 
 export const readFile = (...path: string[]) =>
   fsReadFile(join(...path), { encoding: 'utf8' })
@@ -29,6 +34,32 @@ export const writeToFile = async (
 
 export const deleteFile = async (...paths: string[]) => rm(join(...paths))
 export const deleteDir = async (...paths: string[]) => rmdir(join(...paths))
+
+export type FolderContents = {
+  folders: string[]
+  files: string[]
+}
+
+export const getFolderContents = async (folderPath: string) => listFiles(folderPath).then(filesAndFoldersNames => filesAndFoldersNames
+  .reduce<Promise<FolderContents>>(async (acc, cur) => {
+    const {
+      files, folders
+    } = await acc
+
+    if (await isFolder(cur)) {
+      return {
+        folders: [...folders, cur],
+        files,
+      }
+    }
+
+    return {
+      folders,
+      files: [...files, cur]
+    }
+
+  }, Promise.resolve({ folders: [], files: [] }))
+)
 
 export const fileOrFolderExists = async (...path: string[]) =>
   access(join(...path), constants.R_OK | constants.W_OK)
@@ -69,6 +100,7 @@ const _searchPathRecursively = async (
   relativePath: string,
 ) => {
   console.log("zzzzzzzzzzzzzzzzzz", await listFiles(currentFolder))
+  console.log(await getFolderContents(currentFolder))
 
   return ""
 }
@@ -88,7 +120,7 @@ export const searchFolderRecursively = async (
 export const createFolder = (folder: string) => mkdir(folder, {})
 
 const isFolder = (...path: string[]) =>
-  lstat(join(...path)).then(stat => stat.isDirectory())
+  lstat(join(...path)).then(stat => stat.isDirectory()).catch(() => false)
 
 export const deletePath = (path: string): Promise<any> =>
   isFolder(path)
