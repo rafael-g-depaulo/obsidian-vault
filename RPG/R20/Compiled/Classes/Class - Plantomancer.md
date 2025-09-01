@@ -133,13 +133,13 @@ List of spells available for a  to learn.
 - [Guidance](#p16)
 - [Lightning Lure](#p18)
 - [Magic Stone](#p19)
-- [Poison Spray](#p21)
+- [Poison Spray](#p20)
 - [Resistance](#p21)
 - [Shape Water](#p22)
 - [Shillelagh](#p22)
 - [Sword Burst](#p24)
 - [Thorn Whip](#p24)
-- [Thunderclap](#p25)
+- [Thunderclap](#p24)
 
 ### 1st Circle
 - [Armor of Agathys](#p6)
@@ -165,10 +165,10 @@ List of spells available for a  to learn.
 - [Mage Armor](#p19)
 - [Magic Missile](#p19)
 - [Ray of Sickness](#p21)
-- [Sanctuary](#p22)
-- [Sleep](#p23)
+- [Sanctuary](#p21)
+- [Sleep](#p22)
 - [Thunderwave](#p25)
-- [Tranquilidade](#p26)
+- [Tranquilidade](#p25)
 - [Área Escorregadia](#p6)
 
 ### 2nd Circle
@@ -209,10 +209,9 @@ List of spells available for a  to learn.
 - [Fly](#p16)
 - [Físico Divino](#p15)
 - [Haste](#p17)
-- [Melf's Minute Meteors](#p20)
 - [Plant Growth](#p20)
 - [Sopro das Uivantes](#p23)
-- [Stinking Cloud](#p24)
+- [Stinking Cloud](#p23)
 - [Tidal Wave](#p25)
 - [Tongues](#p25)
 - [Wall of Sand](#p26)
@@ -1106,20 +1105,6 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 - **+3PM:** increase all damage by +1d6.
 
-### Melf's Minute Meteors (3 MP)
-<div class="spell-tags">nature elemental arcane</div>
-
-*3rd Circle*
-- **Execução:** Action
-- **Alcance:** Self
-- **Alvo:** DURATION: Cena
-- **Resistência:** DEX
-___
-
-You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a movement action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 15sqr of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
-
-- **+2 PM:** +2 meteoros.
-
 ### Mind Whip (2 MP)
 <div class="spell-tags">trickery enchantment energy psyquic</div>
 
@@ -1150,9 +1135,8 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 **Enrichment.** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -1164,8 +1148,9 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..
-
+- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Ray of Enfeeblement (2 MP)
 <div class="spell-tags">curse occult unholy trickery enchantment</div>
 
@@ -1209,9 +1194,8 @@ ___
 
 You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Sanctuary (1 MP)
 <div class="spell-tags">boost holy sacred enchantment trickery abjuration thaumaturgy</div>
 
@@ -1228,8 +1212,9 @@ Until the spell ends, any creature who targets the warded creature with an attac
 
 If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### See invisibility (2 MP)
 <div class="spell-tags">divination arcane boost sacred</div>
 
@@ -1280,9 +1265,8 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Sleep (1 MP)
 <div class="spell-tags">curse occult enchantment trickery</div>
 
@@ -1294,8 +1278,9 @@ ___
 
 This spell sends creatures into a magical slumber. Roll 5d8, the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
 
-- **+1PM:** Add +1d8 to the dice rolled..
-
+- **+1PM:** Add +1d8 to the dice rolled..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Snowball Swarm (2 MP)
 <div class="spell-tags">cold elemental creation arcane</div>
 
@@ -1342,9 +1327,8 @@ The ground in the radius centered twists and sprouts hard spikes and thorns. The
   
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area at the time the spell is case must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p5)
+
+
 ### Stinking Cloud (3 MP)
 <div class="spell-tags">occult arcane</div>
 
@@ -1357,8 +1341,9 @@ ___
 
 You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it.Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Sugestion (2 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -1406,9 +1391,8 @@ ___
 
 You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if you pass the creature's Defense by 5 or more (+5 for every size category difference between you), you may pull the creature up to 10 feet closer to you.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **cost:** description.
+
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -1421,8 +1405,9 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.
-
+- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Thunderwave (1 MP)
 <div class="spell-tags">transmutation arcane elemental wind nature</div>
 
@@ -1463,9 +1448,8 @@ ___
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p5)
+- **+0 PM:** Placeholder.
+
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -1482,8 +1466,9 @@ Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitu
 - **+1 PM:** muda o alvo para 1 criatura..
 - **+1 PM:** aumenta o número de alvos em +1..
 - **+2 PM:** aumenta a penalidade em –1..
-- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..
-
+- **+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p5)
 ### Wall of Sand (3 MP)
 <div class="spell-tags">nature arcane</div>
 

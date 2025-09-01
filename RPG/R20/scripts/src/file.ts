@@ -84,25 +84,46 @@ export const searchPathRecursively = async (
 ): Promise<null | string> => {
   const r = _searchPathRecursively(currentFolder, relativePath)
 
-  console.log("!!!", await r)
-  console.log(`"${currentFolder}"`)
-  console.log(`"${relativePath}"`)
+  // console.log("!!!", await r)
+  // console.log(`"${currentFolder}"`)
+  // console.log(`"${relativePath}"`)
   return r
 }
 
-const removeDuplicateFolders = (currentFolder: string, relativePath: string) => {
+const removeDuplicateFolders = (leftSegment: string, rightSegment: string) => {
+  const leftSegmentPaths = leftSegment.split('/')
+  const rightSegmentPaths = rightSegment.split('/')
 
-  console.log(currentFolder.split('/'))
-  return relativePath
+  // if no overlap with the first right segment, no duplicate to remove
+  if (!leftSegmentPaths.some(segment => segment === rightSegmentPaths[0])) {
+    // console.log("no overlap")
+    return rightSegment
+  }
+
+  // check if every following path in the left segment also overlaps
+  const overlapStart = leftSegmentPaths.findIndex(pathSegment => pathSegment === rightSegmentPaths[0]);
+  for (
+    let i = 0;
+    overlapStart + i < leftSegmentPaths.length;
+    i++
+  ) {
+    if (leftSegmentPaths[overlapStart + i] !== rightSegmentPaths[i])
+      return rightSegment
+  }
+
+  return rightSegmentPaths
+    .slice(leftSegmentPaths.length - overlapStart)
+    .join('/')
 }
 const _searchPathRecursively = async (
   currentFolder: string,
   _relativePath: string,
 ): Promise<string | null> => {
-  // TODO: FIX SEARCH. THE ISSUE IS WITH HOW WE'RE POPPING THE TOP FOLDER.
-  // GET THE OVERLAPPING FOLDER SEGMENTS IN CUR AND RELATIVE AND REMOVE THEM FROM RELATIVE
-  // EX: "vault/RPG/R20" and "RPG/R20/Archetypes/index.md" => "Archetypes/index.md"
+
   const relativePath = removeDuplicateFolders(currentFolder, _relativePath)
+  // if (relativePath !== _relativePath) {
+  //   console.log("###################", [relativePath, _relativePath])
+  // }
 
   if (await fileOrFolderExists(currentFolder, relativePath))
     return join(currentFolder, relativePath)
@@ -118,11 +139,12 @@ const _searchPathRecursively = async (
     .all(searchResultsPromises))
     .filter(r => !!r)
 
+  console.log("!", searchResults)
   const searchResult = searchResults[0]
 
   if (!!searchResult) {
-    console.log("----------------", searchResult, currentFolder, relativePath)
-    console.log(searchResults)
+    // console.log("----------------", searchResult, currentFolder, relativePath)
+    // console.log(searchResults)
     return searchResult
   }
 
@@ -152,8 +174,7 @@ const isFolder = (...path: string[]) =>
   lstat(join(...path))
     .then(stat => stat.isDirectory())
     .catch((err) => {
-      console.log("TEST SOMETHING happened", err)
-      console.log(path)
+      console.error("ERROR: ", err)
       return false
     })
 

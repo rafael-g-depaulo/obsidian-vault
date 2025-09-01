@@ -184,6 +184,7 @@
 - [[Web]]
 ### 3rd Circle
 - [[Flecha Ácida]]
+- [[Melf's Minute Meteors]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
 ### 6th Circle
@@ -269,6 +270,8 @@
 - [[Earthbind]]
 - [[Maximilian's Earthen Grasp]]
 - [[Spider Climb]]
+### 3rd Circle
+- [[Melf's Minute Meteors]]
 ### 5th Circle
 - [[Pele de Pedra]]
 
@@ -433,6 +436,8 @@
 - [[Flame Blade]]
 - [[Heat Metal]]
 - [[Scorching Ray]]
+### 3rd Circle
+- [[Melf's Minute Meteors]]
 
 
 ## Force Spells
@@ -828,7 +833,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Shadowspawn]]
+- [[Summon Lesser Demons]]
 
 
 ## Thaumaturgy Spells
@@ -1025,7 +1030,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Shadowspawn]]
+- [[Summon Lesser Demons]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
