@@ -1632,7 +1632,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 - **+0 PM:** Placeholder.
 
 ### Summon Shadowspawn (3 MP)
-<div class="spell-tags">no-wild occult</div>
+<div class="spell-tags">summon no-wild unholy occult</div>
 
 *3rd Circle*
 - **Execução:** Action
