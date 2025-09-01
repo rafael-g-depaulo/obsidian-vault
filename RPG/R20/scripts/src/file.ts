@@ -104,11 +104,21 @@ const _searchPathRecursively = async (
     .filter(f => f !== "node_modules")
     .map(folderName => _searchPathRecursively(join(currentFolder, folderName), relativePath))
 
-  const searchResult = (await Promise
+  const searchResults = (await Promise
     .all(searchResultsPromises))
-    .filter(r => !!r)[0]
+    .filter(r => !!r)
 
-  if (!!searchResult) return searchResult
+  // TODO: FIX SEARCH. THE ISSUE IS WITH HOW WE'RE POPPING THE TOP FOLDER.
+  // GET THE OVERLAPPING FOLDER SEGMENTS IN CUR AND RELATIVE AND REMOVE THEM FROM RELATIVE
+  // EX: "vault/RPG/R20" and "RPG/R20/Archetypes/index.md" => "Archetypes/index.md"
+
+  const searchResult = searchResults[0]
+
+  if (!!searchResult) {
+    console.log("----------------", searchResult, currentFolder, relativePath)
+    console.log(searchResults)
+    return searchResult
+  }
 
   const popFolderFromRelativePath = (path: string) => matchGroups(path, /[^\/]*\/(?<restPath>.+)/).restPath ?? null
 

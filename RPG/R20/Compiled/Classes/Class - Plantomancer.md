@@ -531,7 +531,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 \page
 [Spells](#p5)
 ### Create Food and Water (3 MP)
-<div class="spell-tags">nature arcane</div>
+<div class="spell-tags">water nature creation arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
