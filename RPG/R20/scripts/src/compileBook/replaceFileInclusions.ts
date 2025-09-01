@@ -9,7 +9,6 @@ const __INVALID__LINK__ = (link: string | null) =>
 
 export const parsePath = (currentFolder: string, markdownLink: string) => {
   const link = matchGroups(markdownLink, markdownLinkRegex)?.link
-  if (!link) { console.log("!!!!!!!!!!!!!!!!!!", markdownLink) }
   if (!link) return Promise.resolve(null)
   return searchPathRecursively(currentFolder, `${link}.md`)
 }

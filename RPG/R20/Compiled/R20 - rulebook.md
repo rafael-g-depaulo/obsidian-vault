@@ -52,28 +52,638 @@ ___
 \page
 {{toc,wide
 # Table Of Contents
-- ### [{{ Origins }}{{ 5 }}](#p6)
-- #### [{{ Origin Lists }}{{ 5 }}](#p6)
-- ### [{{ Companions }}{{ 6 }}](#p7)
-- #### [{{ Stats }}{{ 6 }}](#p7)
-- #### [{{ Companion death }}{{ 6 }}](#p7)
-- #### [{{ Rest }}{{ 6 }}](#p7)
-- #### [{{ Companion Skills }}{{ 6 }}](#p7)
-- ### [{{ Conditions }}{{ 8 }}](#p9)
-- ### [{{ Companions }}{{ 9 }}](#p10)
-- #### [{{ Stats }}{{ 9 }}](#p10)
-- #### [{{ Companion death }}{{ 9 }}](#p10)
-- #### [{{ Rest }}{{ 9 }}](#p10)
-- #### [{{ Companion Skills }}{{ 9 }}](#p10)
+- ### [{{ Archetypes }}{{ 5 }}](#p6)
+- #### [{{ Caster }}{{ 5 }}](#p6)
+- #### [{{ Off-Caster }}{{ 5 }}](#p6)
+- #### [{{ Specialist }}{{ 6 }}](#p7)
+- #### [{{ Martial }}{{ 6 }}](#p7)
+- ### [{{ Archetypes }}{{ 7 }}](#p8)
+- #### [{{ Caster }}{{ 7 }}](#p8)
+- #### [{{ Off-Caster }}{{ 7 }}](#p8)
+- #### [{{ Specialist }}{{ 8 }}](#p9)
+- #### [{{ Martial }}{{ 8 }}](#p9)
+- ### [{{ Archetypes }}{{ 9 }}](#p10)
+- #### [{{ Caster }}{{ 9 }}](#p10)
+- #### [{{ Off-Caster }}{{ 9 }}](#p10)
+- #### [{{ Specialist }}{{ 10 }}](#p11)
+- #### [{{ Martial }}{{ 10 }}](#p11)
+- ### [{{ Archetypes }}{{ 11 }}](#p12)
+- #### [{{ Caster }}{{ 11 }}](#p12)
+- #### [{{ Off-Caster }}{{ 11 }}](#p12)
+- #### [{{ Specialist }}{{ 12 }}](#p13)
+- #### [{{ Martial }}{{ 12 }}](#p13)
+- ### [{{ Origins }}{{ 13 }}](#p14)
+- #### [{{ Origin Lists }}{{ 13 }}](#p14)
+- #### [{{ Proficiency }}{{ 13 }}](#p14)
+- ### [{{ Archetypes }}{{ 14 }}](#p15)
+- #### [{{ Caster }}{{ 14 }}](#p15)
+- #### [{{ Off-Caster }}{{ 14 }}](#p15)
+- #### [{{ Specialist }}{{ 15 }}](#p16)
+- #### [{{ Martial }}{{ 15 }}](#p16)
+- ### [{{ Archetypes }}{{ 16 }}](#p17)
+- #### [{{ Caster }}{{ 16 }}](#p17)
+- #### [{{ Off-Caster }}{{ 16 }}](#p17)
+- #### [{{ Specialist }}{{ 17 }}](#p18)
+- #### [{{ Martial }}{{ 17 }}](#p18)
+- ### [{{ Archetypes }}{{ 18 }}](#p19)
+- #### [{{ Caster }}{{ 18 }}](#p19)
+- #### [{{ Off-Caster }}{{ 18 }}](#p19)
+- #### [{{ Specialist }}{{ 19 }}](#p20)
+- #### [{{ Martial }}{{ 19 }}](#p20)
+- ### [{{ Archetypes }}{{ 20 }}](#p21)
+- #### [{{ Caster }}{{ 20 }}](#p21)
+- #### [{{ Off-Caster }}{{ 20 }}](#p21)
+- #### [{{ Specialist }}{{ 21 }}](#p22)
+- #### [{{ Martial }}{{ 21 }}](#p22)
+- ### [{{ Companions }}{{ 22 }}](#p23)
+- #### [{{ Stats }}{{ 22 }}](#p23)
+- #### [{{ Companion death }}{{ 22 }}](#p23)
+- #### [{{ Rest }}{{ 22 }}](#p23)
+- #### [{{ Companion Skills }}{{ 22 }}](#p23)
+- ### [{{ Conditions }}{{ 24 }}](#p25)
+- ### [{{ Companions }}{{ 25 }}](#p26)
+- #### [{{ Stats }}{{ 25 }}](#p26)
+- #### [{{ Companion death }}{{ 25 }}](#p26)
+- #### [{{ Rest }}{{ 25 }}](#p26)
 }}
 
-############ INVALID_LINK "null" ############
+\page
+{{toc,wide
+# Table Of Contents
+- #### [{{ Companion Skills }}{{ 25 }}](#p26)
+}}
 
-############ INVALID_LINK "null" ############
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
 
-############ INVALID_LINK "null" ############
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
 
-############ INVALID_LINK "null" ############
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
 
 {{pageNumber,auto}}
 \page
@@ -156,15 +766,583 @@ You went out and got yourself a proper education in a fancy shmancy school! Well
 
 
 
-############ INVALID_LINK "null" ############
+## Proficiency
+```
+[ ceil(@{level}/2)  (link not found)]()[proficiência]
+```
 
-############ INVALID_LINK "null" ############
 
-############ INVALID_LINK "null" ############
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
 
-############ INVALID_LINK "null" ############
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
 
-############ INVALID_LINK "null" ############
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
+
+{{pageNumber,auto}}
+\page
+# Archetypes
+All player characters have a class they belong to. That class, whichever it may be, is associated with an archetype. A class' archetype determines what weapons they have access to, their maximum HP and MP, their spellcasting capability (if any), among other things. A complete list of the archetypes and their characteristics can be seen below.
+
+## Caster
+A Caster's main strength is variety, versatility and the raw power of their spells.
+
+### Hit Points (HP) & Mana Points (MP)
+A Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 8 + their Constitution modifier
+- **MP at 1st Level:** 6 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 2 + their Constitution modifier
+- **MP gain per level after 1st:** 6
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 12, 16, 19. (5 Total)
+
+### Feats
+A Caster has access to all Caster Feats.
+
+### Spells
+- **Prepared Spells**: After every rest, a Caster choses up to half (rounded up) of their spells. Those are considered prepared, and they may only cast those spells until their next rest. If a Caster tries to cast a spell they know but have not memorized, they must pass an Arcana Check (DC 20 + the spell's MP cost). On a fail, they spend the MP and the casting time, but the skill fails.
+- **Cantrips**: Casters can learn cantrips (0 MP cost spells)
+- **Known Spells**: A Caster knows 3 spells at lv1, and learns a new spell every level after that. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Caster maximum spell circle per Level
+| Level | Spell's Circle |     |
+| :---: | :------------: | --- |
+|  1-2  |       1        |     |
+|  3-4  |       2        |     |
+|  5-6  |       3        |     |
+|  7-8  |       4        |     |
+| 9-10  |       5        |     |
+| 11-12 |       6        |     |
+| 13-14 |       7        |     |
+| 15-16 |       8        |     |
+| 17-20 |       9        |     |
+
+
+
+
+## Off-Caster
+An Off-Caster is a mixed-art fighter that dominates the battlefield. Their mix of physical attacks and versatile skills are sure to give them a considerable edge over most opponents.
+
+### Hit Points (HP) & Mana Points (MP)
+A Half-Caster's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 14 + their Constitution modifier
+- **MP at 1st Level:** 4 + their spellcasting attribute modifier
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 4
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 8, 10, 12, 14, 17. (6 Total)
+
+### Feats
+An off-caster has access to all Caster Feats and all Matial Featst.
+
+### Attacks
+- **Simple Weapon Proficiency**: An Off-Caster character has proficiency with Simple Weapons
+- **Attack of Oportunity:** An Off-Caster Character tha reaches level 5 is able to perform [Attack of Opportunity (link not found)]().
+- **Extra Attack**: An Off-Caster Character that reaches level 7 can attack 2 times on their turn when they use the attack action.
+
+### Spells
+- **Innate Knowledge**: An Off-Caster always has all of their spells prepared at all times.
+- **No Cantrips**: An Off-Caster can't learn cantrips (0 MP cost spells) {{pageNumber,auto}}
+\page
+
+- **Known Spells**: An Off-Caster starts with 1 known spell, and learns a new spell every at every even level. Whenever they learn a new spell, the spell's circle can't exceed the value in the table below:
+
+##### Off Caster maximum spell circle per Level
+| Level | Spell's Circle |
+|:-----:|:--------------:|
+|  1-4  |       1        |
+|  5-7  |       2        |
+| 8-10  |       3        |
+| 11-12 |       4        |
+| 13-14 |       5        |
+| 15-16 |       6        |
+| 17-20 |       7        |
+
+
+
+
+
+## Specialist
+Specialists are exactly what the name implies, incredibly specialized combatants that, instead of focusing on complete mastery of the arcane, martial combat or even a balance of both, have a single niche proficiency or knowledge they use to dominate the battlefield in their own way. Rogues, Artificers, Gunslingers, Alchemists, all of these are primary examples of how a Specialist Class works.
+
+### Hit Points (HP) & Mana Points (MP)
+A Specialist's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 10 + their Constitution modifier
+- **MP at 1st Level:** 5
+- **HP gain per level after 1st:** 3 + their Constitution modifier
+- **MP gain per level after 1st:** 5
+
+### Attribute Score Increase
+- Specialist **Gains ASI at levels:** 4, 6, 8, 10, 12, 15, 17, 19. (8 Total)
+
+### Feats
+A specialist has access to all Specialist Feats.
+
+### Expertise
+Starting at 2nd level, a Specialist gains the **Expertise** feature.
+
+**Expertise.** Choose a number of skills equal to you inteligence modifier (min 1). Before performing a non-attack roll with one of those skills, you may spend 1PM to add your inteligence modifier to the roll. At levels 6, 10, 14 and 18 you chose another skill, and can spend +1PM, and the total added to the roll equals the MP cost times your inteligence modifier.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Specialist character has proficiency with Simple Weapons
+
+### Spells
+None by default
+
+
+
+
+
+## Martial
+Martial characters are masters of physical combat. Short range, long range, unarmed, bladed weapons, name a style of fighting and there is a martial class that excels at it. They're also extremely well built physically, and are considerably tougher to take down on a 1-on-1 fight.
+
+### Hit Points (HP) & Mana Points (MP)
+A Martial character's maximum HP and MP are calculated as such:
+- **HP at 1st Level:** 18 + their Constitution modifier
+- **MP at 1st Level:** 3
+- **HP gain per level after 1st:** 5 + their Constitution modifier
+- **MP gain per level after 1st:** 3
+
+### Attribute Score Increase
+- **Gains ASI at levels:** 4, 6, 9, 12, 15, 17, 19. (7 Total)
+
+### Feats
+A character from a martial class has access to all Matial Feats.
+
+### Attacks
+- **Simple Weapon Proficiency**: Any Martial character has proficiency with Simple Weapons
+- **Martial Weapon Proficiency**: Any Martial character has proficiency with Martial weapons by default.
+- **Extra Attack**: A Martial Character that reaches level 5 can attack 2 times on their turn when they use the attack action.
+- **Attack of Oportunity:** a Martial Character is able to perform [Attack of Opportunity (link not found)]().
+
+<!-- idea: since caster scaling is usually quadratic and really strong (and off-casters above lv7 also have 2 attacks), maybe giving martial classes exclusive access to 3 attacks per turn could be cool -->
+
+
+
 
 {{pageNumber,auto}}
 \page
@@ -327,7 +1505,7 @@ Bright light lets most creatures see normally. Even gloomy days provide bright l
 The target is Grappled, and the grapple’s escape DC equals **8 + your Strength modifier + your Proficiency Bonus**. This grapple is possible only if the target is no more than one Size larger than you and if you have a hand free to grab the target. Shove. You either push the target 5 feet away or knock the target Prone. This shove is possible only if the target is no more than one Size larger than you. (See: [Manobras (link not found)]())
 
 
-############ INVALID_LINK "null" ############
+### Sem
 
 {{pageNumber,auto}}
 \page
