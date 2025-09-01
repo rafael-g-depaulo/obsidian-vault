@@ -545,7 +545,6 @@
 - [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Undead]]
 
 
 ## Necrotic Spells
@@ -829,7 +828,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Undead]]
+- [[Summon Shadowspawn]]
 
 
 ## Thaumaturgy Spells
@@ -1026,6 +1025,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Summon Shadowspawn]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
