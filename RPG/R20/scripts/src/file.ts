@@ -139,7 +139,11 @@ const _searchPathRecursively = async (
     .all(searchResultsPromises))
     .filter(r => !!r)
 
-  console.log("!", searchResults)
+  if (searchResults.length > 1) {
+
+    console.log("!", searchResults)
+    console.log({ currentFolder, relativePath, _relativePath })
+  }
   const searchResult = searchResults[0]
 
   if (!!searchResult) {
@@ -148,10 +152,10 @@ const _searchPathRecursively = async (
     return searchResult
   }
 
-  const popFolderFromRelativePath = (path: string) => matchGroups(path, /[^\/]*\/(?<restPath>.+)/).restPath ?? null
+  // const popFolderFromRelativePath = (path: string) => matchGroups(path, /[^\/]*\/(?<restPath>.+)/).restPath ?? null
 
-  const shorterRelativePath = popFolderFromRelativePath(relativePath)
-  if (shorterRelativePath) return _searchPathRecursively(currentFolder, shorterRelativePath)
+  // const shorterRelativePath = popFolderFromRelativePath(relativePath)
+  // if (shorterRelativePath) return _searchPathRecursively(currentFolder, shorterRelativePath)
 
   return null
 }

@@ -16,9 +16,11 @@ export const parsePath = (currentFolder: string, markdownLink: string) => {
 export const makeInclusionsGlobal = (currentFolder: string) => (content: string) =>
   replaceAsync(content, markdownLinkRegex, matchStr =>
     parsePath(currentFolder, matchStr)
-      .then(s => {
+      .then(async s => {
         if (!s) {
-          console.warn("SDFSDFSDFDS", s, matchStr)
+          console.warn("SDFSDFSDFDS", s, matchStr, currentFolder)
+
+          console.log(await searchPathRecursively(currentFolder, matchStr))
         }
         return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
       })

@@ -1309,6 +1309,7 @@ List of spells available for a  to learn.
 - [Fly (link not found)]()
 - [Físico Divino (link not found)]()
 - [Haste (link not found)]()
+- [Melf's Minute Meteors (link not found)]()
 - [Plant Growth (link not found)]()
 - [Sopro das Uivantes (link not found)]()
 - [Stinking Cloud (link not found)]()

@@ -1090,7 +1090,7 @@ As an action, you can cause the hand to reach for a different creature or to mov
 \page
 [Spells](#p5)
 ### Melf's Minute Meteors (3 MP)
-<div class="spell-tags">earth nature fire elemental creation arcane</div>
+<div class="spell-tags">nature elemental arcane</div>
 
 *3rd Circle*
 - **Execução:** Action

@@ -20,7 +20,7 @@ Pessoas sérias e responsabilidade.
 - [[Vicious Mockery]] 1
 - [[Sugestion]] 3
 - [[Mass Cure Wounds]] 7
-- [[Hideous Laughter]] 2
+- [[Hideous Laughter]] 2 ffffffffffffffffffffffffffff {{page-break}}
 - [[Healing Spirit]] 3
 - [[Goodberry]] 2
 - [[Enthrall]] 3
