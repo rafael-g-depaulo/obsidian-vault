@@ -46,7 +46,7 @@ export const getFolderContents = async (folderPath: string) => listFiles(folderP
       files, folders
     } = await acc
 
-    if (await isFolder(cur)) {
+    if (await isFolder(folderPath, cur)) {
       return {
         folders: [...folders, cur],
         files,
@@ -120,7 +120,13 @@ export const searchFolderRecursively = async (
 export const createFolder = (folder: string) => mkdir(folder, {})
 
 const isFolder = (...path: string[]) =>
-  lstat(join(...path)).then(stat => stat.isDirectory()).catch(() => false)
+  lstat(join(...path))
+    .then(stat => stat.isDirectory())
+    .catch((err) => {
+      console.log("TEST SOMETHING happened", err)
+      console.log(path)
+      return false
+    })
 
 export const deletePath = (path: string): Promise<any> =>
   isFolder(path)

@@ -47,6 +47,7 @@ koharu nsfw (https://everythingmoe.com/s/kskmoe)
 - price for freedom
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
 - https://kaliscan.io/manga/43789-reincarnation-of-the-unrivalled-time-mage-the-underachiever-at-the-magic-academy-turns-out-to-be-the-strongest-mage-who-controls-time-official/chapter-13.1
+- https://comick.io/comic/kaiibu-m-ken-y-shi-no-kai-genshou-ni-tsuite
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
