@@ -18,9 +18,10 @@ export const makeInclusionsGlobal = (currentFolder: string) => (content: string)
     parsePath(currentFolder, matchStr)
       .then(async s => {
         if (!s) {
-          console.warn("SDFSDFSDFDS", s, matchStr, currentFolder, content)
+          console.warn("SDFSDFSDFDS", s, matchStr, currentFolder)
 
-          console.log(await searchPathRecursively(currentFolder, matchStr, true))
+          // console.log(await searchPathRecursively(currentFolder, matchStr, true))
+          console.log(parsePath(currentFolder, matchStr.slice(1)))
         }
         return s ? `{{rewrite "${s}"}}` : __INVALID__LINK__(s)
       })

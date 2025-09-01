@@ -500,7 +500,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 - **+XPM:** both you and the target have +# movement speed when running towards eachother.
 
 ### Conjure Barrage (3 MP)
-<div class="spell-tags">creation arcane warmagic thaumaturgy energy force</div>
+<div class="spell-tags">arcane thaumaturgy force</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -531,7 +531,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 \page
 [Spells](#p5)
 ### Create Food and Water (3 MP)
-<div class="spell-tags">water nature creation arcane</div>
+<div class="spell-tags">nature arcane</div>
 
 *3rd Circle*
 - **Execução:** Action

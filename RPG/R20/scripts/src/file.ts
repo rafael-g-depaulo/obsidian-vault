@@ -147,7 +147,7 @@ const _searchPathRecursively = async (
 
   if (searchResults.length > 1) {
 
-    console.log("!", searchResults)
+    // console.log("!", searchResults)
     console.log({ currentFolder, relativePath, _relativePath })
   }
   const searchResult = searchResults[0]
