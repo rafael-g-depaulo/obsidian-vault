@@ -183,7 +183,6 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
-- [[Create Food and Water]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
@@ -546,6 +545,7 @@
 - [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
+- [[Summon Undead]]
 
 
 ## Necrotic Spells
@@ -829,6 +829,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
+- [[Summon Undead]]
 
 
 ## Thaumaturgy Spells
@@ -1080,8 +1081,6 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
-### 3rd Circle
-- [[Create Food and Water]]
 
 
 ## Wild Spells
