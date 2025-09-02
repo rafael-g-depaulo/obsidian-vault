@@ -6,6 +6,7 @@ https://topmanhua.com/manhua/legend-of-the-northern-blade/
 
 https://wotaku.wiki/websites#manga
 koharu nsfw (https://everythingmoe.com/s/kskmoe)
+https://bato.si/
 ## To read
 - [become a zsh god](https://thevaluable.dev/zsh-install-configure-mouseless/)
 - [Must Become a Monster](https://zeroscans.com/comics/i-must-become-a-monster)
