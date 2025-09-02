@@ -487,6 +487,11 @@
 - [[Invisibilidade]]
 
 
+## Ilusiuon Spells
+### 3rd Circle
+- [[Major Image]]
+
+
 ## Lighning Spells
 ### Cantrip
 - [[Lightning Lure]]

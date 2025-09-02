@@ -17,7 +17,7 @@ type PagedHeadingTempObject = {
   currentPage: number
 }
 
-const startingPageCounter = 3
+const startingPageCounter = 4
 const pageCounter = (lines: string[]): PagedHeading[] => {
   return lines
     .reduce<PagedHeadingTempObject>(
