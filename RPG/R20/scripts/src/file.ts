@@ -81,9 +81,8 @@ export const popTopFolder = (
 export const searchPathRecursively = async (
   currentFolder: string,
   relativePath: string,
-  log = false
 ): Promise<null | string> => {
-  const r = _searchPathRecursively(currentFolder, relativePath, true)
+  const r = _searchPathRecursively(currentFolder, relativePath)
 
   // console.log("!!!", await r)
   // console.log(`"${currentFolder}"`)
@@ -92,14 +91,18 @@ export const searchPathRecursively = async (
 }
 
 const removeDuplicateFolders = (leftSegment: string, rightSegment: string) => {
-  const leftSegmentPaths = leftSegment.split('/')
-  const rightSegmentPaths = rightSegment.split('/')
+  const leftSegmentPaths = leftSegment.split('/').filter(p => p !== '')
+  const rightSegmentPaths = rightSegment.split('/').filter(p => p !== '')
 
   // if no overlap with the first right segment, no duplicate to remove
   if (!leftSegmentPaths.some(segment => segment === rightSegmentPaths[0])) {
     // console.log("no overlap")
     return rightSegment
   }
+
+  // if (rightSegment.includes("Proficiency")) {
+  //   console.log("SAAAAAAA", rightSegmentPaths, leftSegmentPaths)
+  // }
 
   // check if every following path in the left segment also overlaps
   const overlapStart = leftSegmentPaths.findIndex(pathSegment => pathSegment === rightSegmentPaths[0]);
@@ -119,7 +122,6 @@ const removeDuplicateFolders = (leftSegment: string, rightSegment: string) => {
 const _searchPathRecursively = async (
   currentFolder: string,
   _relativePath: string,
-  log = false,
 ): Promise<string | null> => {
 
   const relativePath = removeDuplicateFolders(currentFolder, _relativePath)
@@ -127,12 +129,15 @@ const _searchPathRecursively = async (
   //   console.log("###################", [relativePath, _relativePath])
   // }
 
-  if (relativePath.includes("Proficiency")) {
-    console.log("!!!", relativePath, _relativePath, currentFolder)
-  }
+  // if (relativePath.includes("Proficiency")) {
+  //   console.log("!!!", relativePath, currentFolder)
+  // }
 
-  if (await fileOrFolderExists(currentFolder, relativePath))
+  if (await fileOrFolderExists(currentFolder, relativePath)) {
+    // if (relativePath.includes("Proficiency"))
+    //   console.log("FOUND!", join(currentFolder, relativePath), _relativePath)
     return join(currentFolder, relativePath)
+  }
 
   // console.log("zzzzzzzzzzzzzzzzzz", await listFiles(currentFolder))
   const { folders } = await getFolderContents(currentFolder)
@@ -145,11 +150,11 @@ const _searchPathRecursively = async (
     .all(searchResultsPromises))
     .filter(r => !!r)
 
-  if (searchResults.length > 1) {
+  // if (searchResults.length > 1) {
 
-    // console.log("!", searchResults)
-    console.log({ currentFolder, relativePath, _relativePath })
-  }
+  //   // console.log("!", searchResults)
+  //   console.log({ currentFolder, relativePath, _relativePath })
+  // }
   const searchResult = searchResults[0]
 
   if (!!searchResult) {
