@@ -40,7 +40,7 @@ List of spells available for a Plantomancer to learn.
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Earth Tremor]]
 - [[Enfeitiçar]]
 - [[Entangle]]
@@ -504,7 +504,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
 - **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
 
-### Detect Poison and Disease (Ritual) (1 MP)
+### Detect Poison and Disease (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
 *1st Circle*

@@ -68,7 +68,7 @@ List of spells available for a All to learn.
 - [[Controlar Plantas]]
 - [[Curar Ferimentos]]
 - [[Despedaçar]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
 - [[Dissonant Whispers]]
 - [[Divine Favor]]

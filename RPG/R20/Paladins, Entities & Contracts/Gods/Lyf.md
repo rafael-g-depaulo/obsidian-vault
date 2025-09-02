@@ -13,7 +13,7 @@ people "stealing it's food".
 - [[Detect Poison and Disease]] 2
 - [[Casca da Cigarra]] 2
 - [[Abençoar Alimentos]] 2
-- [[Wither and Bloom ]] 3
+- [[Wither and Bloom]] 3
 - [[Vampiric Touch]] 4
 - [[Stinking Cloud]] 4
 - [[Hunger of Hadar]] 4
@@ -22,7 +22,7 @@ people "stealing it's food".
 - [[Bestow Curse]] 4
 - [[Life Transference]] 4
 - [[Espelho do Pântano]] 4
-- [[Insect Plague]] 7
+%% - [[Insect Plague]] 7 %%
 - [[Contagion]] 7
 
 **Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +4FP, +1HP.
@@ -50,7 +50,7 @@ if corpse: 4d6 healing.
 %%
 
 ### Blessings
-**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
+**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido {{page-break}}{{}}pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
 
 **Último Predador.** (Você ataca ou usa habilidade em uma criatura viva orgânica) Reação (2FP): Você tem vantagem em rolagens de ataque e o alvo tem desvantagem em testes de resistências desse ataque ou habilidade.
 

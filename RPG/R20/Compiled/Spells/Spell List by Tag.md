@@ -449,7 +449,7 @@
 ### 1st Circle
 - [[Abençoar Alimentos]]
 - [[Compelled Duel]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Divine Favor]]
 - [[Guiding Bolt]]
 - [[Luz]]
@@ -719,7 +719,7 @@
 ## Recovery Spells
 ### 1st Circle
 - [[Curar Ferimentos]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Healing Word]]
 ### 2nd Circle
 - [[Healing Spirit]]
@@ -744,7 +744,7 @@
 - [[Benção]]
 - [[Compelled Duel]]
 - [[Curar Ferimentos]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Divine Favor]]
 - [[Escudo]]
 - [[Guiding Bolt]]

@@ -1,4 +1,4 @@
-{{spell-definition "Detect Poison and Disease (Ritual)"
+{{spell-definition "Detect Poison and Disease"
 
 TAGS:
 - #spell

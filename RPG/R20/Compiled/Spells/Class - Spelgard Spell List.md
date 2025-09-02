@@ -36,7 +36,7 @@ List of spells available for a Spelgard to learn.
 - [[Chaos Bolt]]
 - [[Concentração de Combate]]
 - [[Curar Ferimentos]]
-- [[Detect Poison and Disease (Ritual)]]
+- [[Detect Poison and Disease]]
 - [[Detectar Ameaças]]
 - [[Divine Favor]]
 - [[Escudo]]
@@ -303,7 +303,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 - **+2 PM:** +1 alvo.
 - **+1 PM:** +4sqr (+6m)..
 
-### Detect Poison and Disease (Ritual) (1 MP)
+### Detect Poison and Disease (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
 *1st Circle*

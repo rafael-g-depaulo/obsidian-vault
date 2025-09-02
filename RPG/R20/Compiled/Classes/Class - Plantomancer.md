@@ -152,7 +152,7 @@ List of spells available for a  to learn.
 - [Controlar Plantas](#p10)
 - [Curar Ferimentos](#p11)
 - [Despedaçar](#p12)
-- [Detect Poison and Disease (Ritual)](#p12)
+- [Detect Poison and Disease](#p12)
 - [Earth Tremor](#p12)
 - [Enfeitiçar](#p13)
 - [Entangle](#p13)
@@ -616,7 +616,7 @@ Esta magia emite um som alto e agudo. Se o alvo é uma criatura, sofre 1d8+2 pon
 - **+9 PM:** muda o alvo para objeto mundano Enorme. Requer 7º círculo..
 - **+14 PM:** muda o alvo para  bjeto mundano Colossal. Requer 9º círculo..
 
-### Detect Poison and Disease (Ritual) (1 MP)
+### Detect Poison and Disease (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
 *1st Circle*

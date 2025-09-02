@@ -162,7 +162,7 @@ List of spells available for a  to learn.
 - [Chaos Bolt](#p8)
 - [Concentração de Combate](#p8)
 - [Curar Ferimentos](#p9)
-- [Detect Poison and Disease (Ritual)](#p9)
+- [Detect Poison and Disease](#p9)
 - [Detectar Ameaças](#p9)
 - [Divine Favor](#p10)
 - [Escudo](#p11)
@@ -429,7 +429,7 @@ For the duration, that creature has darkvision out to a range of 12sqr (18m).
 - **+2 PM:** +1 alvo.
 - **+1 PM:** +4sqr (+6m)..
 
-### Detect Poison and Disease (Ritual) (1 MP)
+### Detect Poison and Disease (1 MP)
 <div class="spell-tags">sacred holy recovery</div>
 
 *1st Circle*

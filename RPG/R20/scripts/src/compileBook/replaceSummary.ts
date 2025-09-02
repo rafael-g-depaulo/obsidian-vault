@@ -1,7 +1,7 @@
 import { groupByNumber } from '../arrayUtils'
 import { replaceMacro } from '../macros/replaceMacro'
 
-const headingsPerTocPage = 53
+const headingsPerTocPage = 65
 const tocPageSeparator = "\n"
 
 const getHeadingLevel = (heading: string) =>
@@ -17,7 +17,7 @@ type PagedHeadingTempObject = {
   currentPage: number
 }
 
-const startingPageCounter = 5
+const startingPageCounter = 3
 const pageCounter = (lines: string[]): PagedHeading[] => {
   return lines
     .reduce<PagedHeadingTempObject>(
@@ -55,6 +55,7 @@ const makeTocItem = (heading: PagedHeading) =>
       : `- ${heading.line}`
 
 const makeTocPage = (headings: PagedHeading[]) => {
+  console.log(headings)
   const tableOfContentsItems = headings.map(makeTocItem).join('\n')
 
   const tableOfContentsHead = '\n\\page\n{{toc,wide\n# Table Of Contents\n'
@@ -77,7 +78,7 @@ export const replaceSummary = (content: string): string => {
     .filter(line => getHeadingLevel(line) !== -1 || line === '\\page')
     .filter(line => getHeadingLevel(line) < 3))
 
-  const tableOfContents = groupByNumber((headings), headingsPerTocPage)
+  const tableOfContents = groupByNumber(headings, headingsPerTocPage)
     .map(makeTocPage)
     .join(tocPageSeparator)
 

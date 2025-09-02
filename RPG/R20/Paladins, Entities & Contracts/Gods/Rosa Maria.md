@@ -19,8 +19,8 @@ Pessoas sérias e responsabilidade.
 - [[Tranquilidade]] 2
 - [[Vicious Mockery]] 1
 - [[Sugestion]] 3
-- [[Mass Cure Wounds]] 7
-- [[Hideous Laughter]] 2 ffffffffffffffffffffffffffff {{page-break}}
+%% - [[Mass Cure Wounds]] 7 %%
+- [[Hideous Laughter]] 2
 - [[Healing Spirit]] 3
 - [[Goodberry]] 2
 - [[Enthrall]] 3
