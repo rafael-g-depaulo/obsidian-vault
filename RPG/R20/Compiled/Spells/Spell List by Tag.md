@@ -185,6 +185,7 @@
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
+- [[Stinking Cloud]]
 - [[Wind Wall]]
 ### 6th Circle
 - [[Blade Barrier]]
@@ -485,11 +486,6 @@
 - [[Camuflagem ilusória]]
 - [[Enemies Abound]]
 - [[Invisibilidade]]
-
-
-## Ilusiuon Spells
-### 3rd Circle
-- [[Major Image]]
 
 
 ## Lighning Spells
@@ -833,7 +829,6 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Shadowspawn]]
 
 
 ## Thaumaturgy Spells
@@ -1008,6 +1003,7 @@
 - [[Motivational Speech]]
 - [[Oração]]
 - [[Speak with Plants]]
+- [[Stinking Cloud]]
 - [[Tongues]]
 
 
@@ -1030,7 +1026,7 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Shadowspawn]]
+- [[Stinking Cloud]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]

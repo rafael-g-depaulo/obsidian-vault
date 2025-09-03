@@ -1325,7 +1325,6 @@ List of spells available for a  to learn.
 - [Sopro das Uivantes](#p115)
 - [Spirit Shroud](#p116)
 - [Stinking Cloud](#p117)
-- [Summon Shadowspawn](#p118)
 - [Thunder Step](#p119)
 - [Tidal Wave](#p120)
 - [Tongues](#p121)
