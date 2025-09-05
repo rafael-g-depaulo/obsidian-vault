@@ -116,6 +116,7 @@ https://bato.si/
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-39/)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
+- https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
