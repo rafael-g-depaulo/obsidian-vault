@@ -3,4 +3,6 @@ pelo site do [4.events](https://app.4.events/c/SlN4REtGY3RNeWhnQ21BSw==/plugin/i
 ## First Impressions
 - bad keyboard navigation
 	- unintuitive and without clear feedback of currently selected item
-	- awful 
+	- awful optimization
+
+![[Pasted image 20250908155711.png]]
