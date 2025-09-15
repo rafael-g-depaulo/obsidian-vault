@@ -83,6 +83,7 @@ https://bato.si/
 - https://manhuaus.org/manga/stuck-in-the-tower/chapter-13/
 - https://asuracomic.net/series/the-demonic-cult-instructor-returns-1756aeca/chapter/12
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
+- https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-16-1-eng-li/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
