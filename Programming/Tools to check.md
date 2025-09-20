@@ -74,6 +74,7 @@ Apps:
 - [lazygit](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#ubuntu)
 - [preevy](https://github.com/livecycle/preevy) provision testing environments and share them
 - [just](https://github.com/casey/just?tab=readme-ov-file) make-like for general stuff
+- [asciinema](https://www.youtube.com/watch?v=FKlpqR7Z3j8) - record terminal I/O
 
 Curated lists:
 - https://github.com/agarrharr/awesome-cli-apps
