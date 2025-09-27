@@ -49,6 +49,7 @@ https://bato.si/
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
 - https://kaliscan.io/manga/43789-reincarnation-of-the-unrivalled-time-mage-the-underachiever-at-the-magic-academy-turns-out-to-be-the-strongest-mage-who-controls-time-official/chapter-13.1
 - https://comick.io/comic/kaiibu-m-ken-y-shi-no-kai-genshou-ni-tsuite
+- From Simp to Billionaire: The Rise of a Divine Tycoon
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -113,7 +114,7 @@ https://bato.si/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-206
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-39/)
@@ -163,6 +164,7 @@ https://bato.si/
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
+- https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
 
 ## Re-reading
 - https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-1
