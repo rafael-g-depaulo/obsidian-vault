@@ -84,7 +84,7 @@ https://bato.si/
 - https://asuracomic.net/series/the-demonic-cult-instructor-returns-1756aeca/chapter/12
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://asuracomic.net/series/dungeon-odyssey-3c88031a/chapter/124
-- https://www.mgeko.cc/reader/en/the-house-without-time-chapter-2-eng-li/
+- https://www.mgeko.cc/reader/en/the-house-without-time-chapter-16-eng-li/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -113,8 +113,7 @@ https://bato.si/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-206
-- https://kaliscan.io/manga/72445-maou-to-ryuuou-ni-sodaterareta-shounen-wa-gakuen-seikatsu-wo-musou-suru-you-desu/chapter-22
+- https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-39/)
