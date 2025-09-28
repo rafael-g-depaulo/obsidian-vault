@@ -117,7 +117,7 @@ https://bato.si/
 - https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-206
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-39/)
+- [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-42/)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
