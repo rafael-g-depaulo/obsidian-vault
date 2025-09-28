@@ -85,7 +85,7 @@ https://bato.si/
 - https://asuracomic.net/series/the-demonic-cult-instructor-returns-1756aeca/chapter/12
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://asuracomic.net/series/dungeon-odyssey-3c88031a/chapter/124
-- https://www.mgeko.cc/reader/en/the-house-without-time-chapter-16-eng-li/
+- https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
