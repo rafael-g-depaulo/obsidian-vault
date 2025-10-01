@@ -1,0 +1,3 @@
+[submodule "RPG/R20/scripts"]
+	path = RPG/R20/scripts
+	url = git@github.com:rafael-g-depaulo/r20-scripts.git
