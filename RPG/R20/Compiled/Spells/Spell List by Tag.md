@@ -1,4 +1,3 @@
-
 ## Abjuration Spells
 ### Cantrip
 - [[Blade Ward]]
@@ -27,14 +26,12 @@
 ### 7th Circle
 - [[Manto do Cruzado]]
 
-
 ## Acid Spells
 ### Cantrip
 - [[Acid Splash]]
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Hunger of Hadar]]
-
 
 ## Arcane Spells
 ### Cantrip
@@ -109,7 +106,6 @@
 ### 6th Circle
 - [[Blade Barrier]]
 
-
 ## Boost Spells
 ### Cantrip
 - [[Guidance]]
@@ -145,7 +141,6 @@
 ### 7th Circle
 - [[Manto do Cruzado]]
 
-
 ## Cold Spells
 ### Cantrip
 - [[Chill Touch]]
@@ -161,7 +156,6 @@
 ### 3rd Circle
 - [[Hunger of Hadar]]
 - [[Sopro das Uivantes]]
-
 
 ## Creation Spells
 ### Cantrip
@@ -185,11 +179,9 @@
 ### 3rd Circle
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
-- [[Stinking Cloud]]
 - [[Wind Wall]]
 ### 6th Circle
 - [[Blade Barrier]]
-
 
 ## Curse Spells
 ### Cantrip
@@ -224,7 +216,6 @@
 ### 5th Circle
 - [[Contagion]]
 
-
 ## Decay Spells
 ### Cantrip
 - [[Acid Splash]]
@@ -244,7 +235,6 @@
 ### 5th Circle
 - [[Contagion]]
 
-
 ## Divination Spells
 ### Cantrip
 - [[Guidance]]
@@ -261,7 +251,6 @@
 - [[Espelho do Pântano]]
 - [[Sending]]
 
-
 ## Earth Spells
 ### 1st Circle
 - [[Catapult]]
@@ -272,7 +261,6 @@
 - [[Spider Climb]]
 ### 5th Circle
 - [[Pele de Pedra]]
-
 
 ## Elemental Spells
 ### Cantrip
@@ -315,7 +303,6 @@
 - [[Spirit Shroud]]
 - [[Thunder Step]]
 
-
 ## Enchantment Spells
 ### 1st Circle
 - [[Animal Friendship]]
@@ -345,7 +332,6 @@
 - [[Bestow Curse]]
 - [[Oração]]
 
-
 ## Energy Spells
 ### Cantrip
 - [[Energy Blast]]
@@ -366,7 +352,6 @@
 - [[Blinding Smite]]
 - [[Crusader's Mantle]]
 - [[Spirit Guardians]]
-
 
 ## Evocation Spells
 ### Cantrip
@@ -393,7 +378,6 @@
 - [[Flecha Ácida]]
 - [[Relâmpago]]
 
-
 ## Feral Spells
 ### Cantrip
 - [[Primal Savagery]]
@@ -415,7 +399,6 @@
 - [[Phantom Steed]]
 - [[Toque Vampírico]]
 
-
 ## Fire Spells
 ### Cantrip
 - [[Control Flames]]
@@ -435,14 +418,12 @@
 - [[Heat Metal]]
 - [[Scorching Ray]]
 
-
 ## Force Spells
 ### 1st Circle
 - [[Magic Missile]]
 - [[Zephyr Strike]]
 ### 3rd Circle
 - [[Conjure Barrage]]
-
 
 ## Holy Spells
 ### Cantrip
@@ -468,7 +449,6 @@
 ### 7th Circle
 - [[Manto do Cruzado]]
 
-
 ## Ilusion Spells
 ### Cantrip
 - [[Control Flames]]
@@ -487,7 +467,6 @@
 - [[Enemies Abound]]
 - [[Invisibilidade]]
 
-
 ## Lighning Spells
 ### Cantrip
 - [[Lightning Lure]]
@@ -497,7 +476,6 @@
 - [[Witch Bolt]]
 ### 3rd Circle
 - [[Relâmpago]]
-
 
 ## Nature Spells
 ### Cantrip
@@ -540,13 +518,12 @@
 ### 5th Circle
 - [[Pele de Pedra]]
 
-
 ## Necromancy Spells
 ### 1st Circle
 - [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
-
+- [[Summon Undead]]
 
 ## Necrotic Spells
 ### Cantrip
@@ -561,23 +538,19 @@
 - [[Toque Vampírico]]
 - [[Vampiric Touch]]
 
-
 ## No-arcane Spells
 ### 3rd Circle
 - [[Ashardalon's Stride]]
 - [[Espelho do Pântano]]
 - [[Speak with Plants]]
 
-
 ## No-nature Spells
 ### Cantrip
 - [[Toll the Dead]]
 
-
 ## No-occult Spells
 ### Cantrip
 - [[Ray of Frost]]
-
 
 ## No-sacred Spells
 ### 1st Circle
@@ -588,13 +561,11 @@
 ### 3rd Circle
 - [[Life Transference]]
 
-
 ## No-thaumaturgy Spells
 ### 1st Circle
 - [[Feather Fall]]
 ### 3rd Circle
 - [[Gaseous Form]]
-
 
 ## No-trickery Spells
 ### Cantrip
@@ -607,12 +578,10 @@
 ### 3rd Circle
 - [[Mass Healing Word]]
 
-
 ## No-wild Spells
 ### 3rd Circle
 - [[Summon Shadowspawn]]
 - [[Summon Undead]]
-
 
 ## Occult Spells
 ### Cantrip
@@ -670,7 +639,6 @@
 ### 5th Circle
 - [[Contagion]]
 
-
 ## Plant Spells
 ### Cantrip
 - [[Shillelagh]]
@@ -686,13 +654,11 @@
 - [[Barkskin]]
 - [[Spike Growth]]
 
-
 ## Poison Spells
 ### Cantrip
 - [[Poison Spray]]
 ### 1st Circle
 - [[Ray of Sickness]]
-
 
 ## Psyquic Spells
 ### Cantrip
@@ -707,7 +673,6 @@
 ### 3rd Circle
 - [[Antagonize]]
 
-
 ## Radiant Spells
 ### Cantrip
 - [[Word of Radiance]]
@@ -715,7 +680,6 @@
 - [[Divine Favor]]
 ### 2nd Circle
 - [[Moonbeam]]
-
 
 ## Recovery Spells
 ### 1st Circle
@@ -732,7 +696,6 @@
 - [[Mass Healing Word]]
 ### 7th Circle
 - [[Manto do Cruzado]]
-
 
 ## Sacred Spells
 ### Cantrip
@@ -787,7 +750,6 @@
 ### 5th Circle
 - [[Transformação de Guerra]]
 
-
 ## Speech Spells
 ### Cantrip
 - [[Message]]
@@ -810,7 +772,6 @@
 - [[Mass Healing Word]]
 - [[Oração]]
 
-
 ## Summon Spells
 ### Cantrip
 - [[Create Bonfire]]
@@ -829,7 +790,7 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-
+- [[Summon Undead]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -912,7 +873,6 @@
 ### 7th Circle
 - [[Manto do Cruzado]]
 
-
 ## Transmutation Spells
 ### Cantrip
 - [[Create Bonfire]]
@@ -941,7 +901,6 @@
 ### 3rd Circle
 - [[Físico Divino]]
 - [[Slow]]
-
 
 ## Trickery Spells
 ### Cantrip
@@ -1003,9 +962,7 @@
 - [[Motivational Speech]]
 - [[Oração]]
 - [[Speak with Plants]]
-- [[Stinking Cloud]]
 - [[Tongues]]
-
 
 ## Unholy Spells
 ### Cantrip
@@ -1026,11 +983,9 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Stinking Cloud]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]
-
 
 ## Warmagic Spells
 ### Cantrip
@@ -1074,7 +1029,6 @@
 ### 6th Circle
 - [[Blade Barrier]]
 
-
 ## Water Spells
 ### Cantrip
 - [[Shape Water]]
@@ -1082,7 +1036,6 @@
 - [[Área Escorregadia]]
 ### 2nd Circle
 - [[Misty Step]]
-
 
 ## Wild Spells
 ### Cantrip
@@ -1131,7 +1084,6 @@
 - [[Summon Lesser Demons]]
 - [[Tiny Servant]]
 - [[Toque Vampírico]]
-
 
 ## Wind Spells
 ### Cantrip

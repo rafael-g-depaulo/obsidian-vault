@@ -1,5 +1,4 @@
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -67,7 +66,9 @@ List of spells available for a Witch to learn.
 - [[Teia]]
 - [[Tentacle Twister]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]
@@ -109,9 +110,6 @@ List of spells available for a Witch to learn.
 - [[Flecha Ácida]]
 - [[Gaseous Form]]
 - [[Hypnotic Pattern]]
-{{pageNumber,auto}}
-\page
-
 - [[Incite Greed]]
 - [[Invisibilidade]]
 - [[Life Transference]]
@@ -1536,7 +1534,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1612,7 +1610,7 @@ You call forth a shadowy spirit. It manifests in an unoccupied space that you ca
 - **+0 PM:** Placeholder.
 
 ### Summon Undead (3 MP)
-<div class="spell-tags">occult no-wild</div>
+<div class="spell-tags">necromancy occult summon no-wild</div>
 
 *3rd Circle*
 - **Execução:** Action

@@ -5,7 +5,6 @@ Here's a list of all of the errors found.
 - [[Harm]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heal]] Spell doesn't have {{spell-defitinition}} macro
 - [[Heroísmo]] Spell doesn't have {{spell-defitinition}} macro
-- [[compiled]] Spell doesn't have {{spell-defitinition}} macro
 
 ## Spell Definition Syntax
 - [[Aura of Vitality]] Missing "DURATION" item

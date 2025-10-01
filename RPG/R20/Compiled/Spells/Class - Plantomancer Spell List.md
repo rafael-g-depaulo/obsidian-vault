@@ -1,5 +1,4 @@
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -57,7 +56,9 @@ List of spells available for a Plantomancer to learn.
 - [[Sleep]]
 - [[Thunderwave]]
 - [[Tranquilidade]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Barkskin]]
@@ -1234,7 +1235,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 \page
 [[Spells]]
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action

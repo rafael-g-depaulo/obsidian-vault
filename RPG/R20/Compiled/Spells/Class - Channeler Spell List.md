@@ -1,5 +1,4 @@
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -56,7 +55,9 @@ List of spells available for a Channeler to learn.
 - [[Silent Image]]
 - [[Thunderwave]]
 - [[Witch Bolt]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [[Aid]]
@@ -1216,7 +1217,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action

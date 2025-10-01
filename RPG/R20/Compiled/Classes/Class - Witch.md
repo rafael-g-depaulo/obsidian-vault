@@ -151,7 +151,6 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1569,7 +1568,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 - **+0 PM:** Placeholder.
 
 ### Stinking Cloud (3 MP)
-<div class="spell-tags">unholy occult creation arcane trickery</div>
+<div class="spell-tags">occult arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1645,7 +1644,7 @@ You call forth a shadowy spirit. It manifests in an unoccupied space that you ca
 - **+0 PM:** Placeholder.
 
 ### Summon Undead (3 MP)
-<div class="spell-tags">occult no-wild</div>
+<div class="spell-tags">necromancy occult summon no-wild</div>
 
 *3rd Circle*
 - **Execução:** Action

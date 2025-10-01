@@ -667,7 +667,6 @@ List of spells available for a Chaneler to learn.
 
 
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -724,7 +723,9 @@ List of spells available for a  to learn.
 - [Silent Image (link not found)]()
 - [Thunderwave (link not found)]()
 - [Witch Bolt (link not found)]()
-- [Área Escorregadia (link not found)]()
+- [Área Escorregadia (link not found)](){{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [Aid (link not found)]()
@@ -1211,7 +1212,6 @@ As plantas criadas por Herbomancia tem 5 + 2\*o seu nível de Plantomancer de HP
 
 
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1269,7 +1269,9 @@ List of spells available for a  to learn.
 - [Sleep (link not found)]()
 - [Thunderwave (link not found)]()
 - [Tranquilidade (link not found)]()
-- [Área Escorregadia (link not found)]()
+- [Área Escorregadia (link not found)](){{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [Barkskin (link not found)]()
@@ -1558,7 +1560,6 @@ Some Spelgard Feats are Auras. Auras work as spell-like abilities, with the foll
 
 
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -1611,7 +1612,9 @@ List of spells available for a  to learn.
 - [Thunderous Smite (link not found)]()
 - [Toque Chocante (link not found)]()
 - [Witch Bolt (link not found)]()
-- [Zephyr Strike (link not found)]()
+- [Zephyr Strike (link not found)](){{pageNumber,auto}}
+\page
+
 
 ### 2nd Circle
 - [Aid (link not found)]()
@@ -1901,7 +1904,6 @@ Most Hexes also gain an additional effect for each other effect you're concentra
 
 {{pageNumber,auto}}
 \page
-
 
 
 

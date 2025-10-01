@@ -1,5 +1,4 @@
 
-
 <style>
 .spell-tags {
 	color: #ed4512;
@@ -109,9 +108,8 @@ List of spells available for a All to learn.
 - [[Toque Chocante]]
 - [[Tranquilidade]]
 - [[Witch Bolt]]
-{{page-break}}
 - [[Zephyr Strike]]
-- [[Área Escorregadia]]
+- [[Área Escorregadia]]{{page-break}}
 
 ### 2nd Circle
 - [[Aid]]
@@ -221,7 +219,6 @@ List of spells available for a All to learn.
 - [[Summon Lesser Demons]]
 - [[Summon Shadowspawn]]
 - [[Summon Undead]]
-{{page-break}}
 - [[Thunder Step]]
 - [[Tidal Wave]]
 - [[Tiny Servant]]
