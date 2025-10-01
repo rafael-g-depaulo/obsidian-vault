@@ -6051,7 +6051,7 @@ You touch one to three pebbles and imbue them with magic. You or someone else ca
 - **+1 PM:** Increase the number of pebbles by 1..
 
 ### Major Image (3 MP)
-<div class="spell-tags">ilusiuon trickery</div>
+<div class="spell-tags">trickery</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -6904,7 +6904,7 @@ ___
 
 
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">occult wild</div>
+<div class="spell-tags">unholy occult summon wild</div>
 
 *3rd Circle*
 - **Execução:** Action

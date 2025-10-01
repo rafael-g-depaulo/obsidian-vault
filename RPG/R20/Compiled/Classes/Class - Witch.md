@@ -1618,7 +1618,7 @@ ___
 
 
 ### Summon Lesser Demons (3 MP)
-<div class="spell-tags">occult wild</div>
+<div class="spell-tags">unholy occult summon wild</div>
 
 *3rd Circle*
 - **Execução:** Action
@@ -1644,7 +1644,7 @@ You call forth a shadowy spirit. It manifests in an unoccupied space that you ca
 - **+0 PM:** Placeholder.
 
 ### Summon Undead (3 MP)
-<div class="spell-tags">necromancy occult summon no-wild</div>
+<div class="spell-tags">occult no-wild</div>
 
 *3rd Circle*
 - **Execução:** Action
