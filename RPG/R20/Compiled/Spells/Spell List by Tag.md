@@ -11,6 +11,7 @@
 - [[Sanctuary]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Casca Protetora]]
 - [[Enhance Ability]]
 - [[Laço Protetor]]
 - [[Manto de Vento]]
@@ -467,6 +468,10 @@
 - [[Enemies Abound]]
 - [[Invisibilidade]]
 
+## Ilusiuon Spells
+### 3rd Circle
+- [[Major Image]]
+
 ## Lighning Spells
 ### Cantrip
 - [[Lightning Lure]]
@@ -493,6 +498,7 @@
 - [[Zephyr Strike]]
 - [[Área Escorregadia]]
 ### 2nd Circle
+- [[Casca Protetora]]
 - [[Earthbind]]
 - [[Explosão Sonora]]
 - [[Manto de Vento]]
@@ -651,6 +657,7 @@
 - [[Hail of Thorns]]
 ### 2nd Circle
 - [[Barkskin]]
+- [[Casca Protetora]]
 - [[Spike Growth]]
 
 ## Poison Spells
@@ -789,7 +796,6 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Lesser Demons]]
 
 ## Thaumaturgy Spells
 ### Cantrip
@@ -835,6 +841,7 @@
 ### 2nd Circle
 - [[Barkskin]]
 - [[Binding Ice]]
+- [[Casca Protetora]]
 - [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Continual Flame]]
@@ -982,7 +989,6 @@
 - [[Wither and Bloom]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Lesser Demons]]
 - [[Toque Vampírico]]
 ### 5th Circle
 - [[Contagion]]

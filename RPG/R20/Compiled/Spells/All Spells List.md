@@ -118,6 +118,7 @@ List of spells available for a All to learn.
 - [[Binding Ice]]
 - [[Blindness Deafness]]
 - [[Calm Emotions]]
+- [[Casca Protetora]]
 - [[Cloud of Dagges]]
 - [[Continual Flame]]
 - [[Crown of Madness]]

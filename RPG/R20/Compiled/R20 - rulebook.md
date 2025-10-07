@@ -1245,41 +1245,41 @@ List of spells available for a  to learn.
 ### Cantrip
 - [Acid Splash](#p76)
 - [Chill Touch](#p85)
-- [Control Flames](#p87)
+- [Control Flames](#p88)
 - [Energy Blast](#p92)
 - [Fire Bolt](#p96)
 - [Frostbite](#p98)
 - [Guidance](#p99)
 - [Lightning Lure](#p105)
 - [Magic Stone](#p107)
-- [Message](#p108)
-- [Poison Spray](#p111)
+- [Message](#p109)
+- [Poison Spray](#p112)
 - [Ray of Frost](#p113)
 - [Resistance](#p114)
 - [Shape Water](#p116)
-- [Thunderclap](#p122)
+- [Thunderclap](#p123)
 - [Toll the Dead](#p124)
-- [Vicious Mockery](#p125)
+- [Vicious Mockery](#p126)
 
 ### 1st Circle
 - [Benção](#p80)
 - [Burning Hands](#p82)
 - [Catapult](#p84)
-- [Chaos Bolt](#p84)
+- [Chaos Bolt](#p85)
 - [Despedaçar](#p90)
 - [Dissonant Whispers](#p91)
 - [Earth Tremor](#p91)
 - [Escuridão](#p94)
-- [Explosão de chamas](#p94)
+- [Explosão de chamas](#p95)
 - [Feather Fall](#p95)
 - [Hellish Rebuke](#p101)
 - [Heroism](#p101)
-- [Imagem Espelhada](#p102)
+- [Imagem Espelhada](#p103)
 - [Infligir Ferimentos](#p103)
 - [Longstrider](#p105)
 - [Mage Armor](#p106)
 - [Magic Missile](#p106)
-- [Ray of Sickness](#p113)
+- [Ray of Sickness](#p114)
 - [Silent Image](#p117)
 - [Thunderwave](#p123)
 - [Witch Bolt](#p127)
@@ -1292,19 +1292,20 @@ List of spells available for a  to learn.
 - [Binding Ice](#p80)
 - [Blindness Deafness](#p81)
 - [Calm Emotions](#p82)
+- [Casca Protetora](#p84)
 - [Continual Flame](#p87)
-- [Crown of Madness](#p88)
+- [Crown of Madness](#p89)
 - [Explosão Sonora](#p95)
-- [Heat Metal](#p100)
-- [Hold Person](#p101)
-- [Magic Mouth](#p106)
+- [Heat Metal](#p101)
+- [Hold Person](#p102)
+- [Magic Mouth](#p107)
 - [Manto de Vento](#p107)
 - [Maximilian's Earthen Grasp](#p108)
 - [Mind Whip](#p109)
 - [Ray of Enfeeblement](#p113)
-- [Scorching Ray](#p114)
+- [Scorching Ray](#p115)
 - [See invisibility](#p115)
-- [Silence](#p116)
+- [Silence](#p117)
 - [Snowball Swarm](#p118)
 
 ### 3rd Circle
@@ -1315,17 +1316,17 @@ List of spells available for a  to learn.
 - [Conjure Barrage](#p87)
 - [Create Food and Water](#p88)
 - [Crusader's Mantle](#p89)
-- [Erupting Earth](#p93)
+- [Erupting Earth](#p94)
 - [Fireball](#p96)
-- [Flame Arrows](#p96)
+- [Flame Arrows](#p97)
 - [Flecha Ácida](#p97)
 - [Haste](#p100)
 - [Lightning Bolt](#p105)
 - [Melf's Minute Meteors](#p108)
-- [Protection from Energy](#p112)
+- [Protection from Energy](#p113)
 - [Relâmpago](#p114)
 - [Sopro das Uivantes](#p118)
-- [Spirit Shroud](#p119)
+- [Spirit Shroud](#p120)
 - [Stinking Cloud](#p120)
 - [Thunder Step](#p122)
 - [Tidal Wave](#p123)
@@ -1793,13 +1794,13 @@ List of spells available for a  to learn.
 - [Guidance](#p99)
 - [Lightning Lure](#p105)
 - [Magic Stone](#p107)
-- [Poison Spray](#p111)
+- [Poison Spray](#p112)
 - [Resistance](#p114)
 - [Shape Water](#p116)
 - [Shillelagh](#p116)
 - [Sword Burst](#p121)
 - [Thorn Whip](#p122)
-- [Thunderclap](#p122)
+- [Thunderclap](#p123)
 
 ### 1st Circle
 - [Armor of Agathys](#p78)
@@ -1819,12 +1820,12 @@ List of spells available for a  to learn.
 - [Escudo](#p94)
 - [Feather Fall](#p95)
 - [Fog Cloud](#p98)
-- [Goodberry](#p98)
-- [Hail of Thorns](#p99)
+- [Goodberry](#p99)
+- [Hail of Thorns](#p100)
 - [Heroism](#p101)
 - [Mage Armor](#p106)
 - [Magic Missile](#p106)
-- [Ray of Sickness](#p113)
+- [Ray of Sickness](#p114)
 - [Sanctuary](#p114)
 - [Sleep](#p117)
 - [Thunderwave](#p123)
@@ -1837,15 +1838,16 @@ List of spells available for a  to learn.
 - [Barkskin](#p79)
 - [Blindness Deafness](#p81)
 - [Calm Emotions](#p82)
-- [Cloud of Dagges](#p85)
-- [Crown of Madness](#p88)
+- [Casca Protetora](#p84)
+- [Cloud of Dagges](#p86)
+- [Crown of Madness](#p89)
 - [Darkvision](#p89)
-- [Earthbind](#p91)
+- [Earthbind](#p92)
 - [Enlarge Reduce](#p93)
 - [Explosão Sonora](#p95)
 - [Flechas Sentinelas](#p97)
 - [Healing Spirit](#p100)
-- [Hold Person](#p101)
+- [Hold Person](#p102)
 - [Laço Protetor](#p104)
 - [Lesser Restoration](#p104)
 - [Manto de Vento](#p107)
@@ -1864,11 +1866,11 @@ List of spells available for a  to learn.
 - [Clairvoyance](#p85)
 - [Conjure Barrage](#p87)
 - [Create Food and Water](#p88)
-- [Dispel Magic](#p90)
-- [Erupting Earth](#p93)
-- [Flame Arrows](#p96)
+- [Dispel Magic](#p91)
+- [Erupting Earth](#p94)
+- [Flame Arrows](#p97)
 - [Flecha Ácida](#p97)
-- [Fly](#p97)
+- [Fly](#p98)
 - [Físico Divino](#p96)
 - [Haste](#p100)
 - [Melf's Minute Meteors](#p108)
@@ -2142,7 +2144,7 @@ List of spells available for a  to learn.
 - [Fire Bolt](#p96)
 - [Green Flame Blade](#p99)
 - [Guidance](#p99)
-- [Poison Spray](#p111)
+- [Poison Spray](#p112)
 - [Ray of Frost](#p113)
 - [Resistance](#p114)
 - [Sword Burst](#p121)
@@ -2153,21 +2155,21 @@ List of spells available for a  to learn.
 - [Armor of Agathys](#p78)
 - [Benção](#p80)
 - [Burning Hands](#p82)
-- [Chaos Bolt](#p84)
+- [Chaos Bolt](#p85)
 - [Concentração de Combate](#p86)
 - [Curar Ferimentos](#p89)
 - [Detect Poison and Disease](#p90)
 - [Detectar Ameaças](#p90)
 - [Divine Favor](#p91)
 - [Escudo](#p94)
-- [Explosão de chamas](#p94)
+- [Explosão de chamas](#p95)
 - [Guiding Bolt](#p99)
 - [Healing Word](#p100)
 - [Longstrider](#p105)
 - [Mage Armor](#p106)
 - [Magic Missile](#p106)
 - [Primor Atlético](#p112)
-- [Ray of Sickness](#p113)
+- [Ray of Sickness](#p114)
 - [Searing Smite](#p115)
 - [Thunderous Smite](#p123)
 - [Toque Chocante](#p124)
@@ -2179,19 +2181,19 @@ List of spells available for a  to learn.
 ### 2nd Circle
 - [Aid](#p76)
 - [Binding Ice](#p80)
-- [Cloud of Dagges](#p85)
+- [Cloud of Dagges](#p86)
 - [Continual Flame](#p87)
 - [Darkvision](#p89)
-- [Enhance Ability](#p92)
+- [Enhance Ability](#p93)
 - [Enlarge Reduce](#p93)
 - [Flame Blade](#p97)
 - [Flechas Sentinelas](#p97)
 - [Ice Knife](#p102)
 - [Laço Protetor](#p104)
 - [Lesser Restoration](#p104)
-- [Moonbeam](#p109)
+- [Moonbeam](#p110)
 - [Prayer of Healing](#p112)
-- [Scorching Ray](#p114)
+- [Scorching Ray](#p115)
 - [See invisibility](#p115)
 - [Spider Climb](#p119)
 
@@ -3893,7 +3895,7 @@ List of spells available for a All to learn.
 - [Blade Ward](#p81)
 - [Booming Blade](#p82)
 - [Chill Touch](#p85)
-- [Control Flames](#p87)
+- [Control Flames](#p88)
 - [Create Bonfire](#p88)
 - [Energy Blast](#p92)
 - [Fire Bolt](#p96)
@@ -3903,9 +3905,9 @@ List of spells available for a All to learn.
 - [Infestation](#p103)
 - [Lightning Lure](#p105)
 - [Magic Stone](#p107)
-- [Message](#p108)
+- [Message](#p109)
 - [Minor Ilusion](#p109)
-- [Poison Spray](#p111)
+- [Poison Spray](#p112)
 - [Primal Savagery](#p112)
 - [Ray of Frost](#p113)
 - [Resistance](#p114)
@@ -3913,9 +3915,9 @@ List of spells available for a All to learn.
 - [Shillelagh](#p116)
 - [Sword Burst](#p121)
 - [Thorn Whip](#p122)
-- [Thunderclap](#p122)
+- [Thunderclap](#p123)
 - [Toll the Dead](#p124)
-- [Vicious Mockery](#p125)
+- [Vicious Mockery](#p126)
 - [Word of Radiance](#p128)
 
 ### 1st Circle
@@ -3932,7 +3934,7 @@ List of spells available for a All to learn.
 - [Casca da Cigarra](#p84)
 - [Catapult](#p84)
 - [Cause Fear](#p84)
-- [Chaos Bolt](#p84)
+- [Chaos Bolt](#p85)
 - [Charm Person](#p85)
 - [Command](#p86)
 - [Compelled Duel](#p86)
@@ -3949,32 +3951,32 @@ List of spells available for a All to learn.
 - [Entangle](#p93)
 - [Escudo](#p94)
 - [Escuridão](#p94)
-- [Explosão de chamas](#p94)
+- [Explosão de chamas](#p95)
 - [Feather Fall](#p95)
 - [Fog Cloud](#p98)
-- [Goodberry](#p98)
+- [Goodberry](#p99)
 - [Guiding Bolt](#p99)
-- [Hail of Thorns](#p99)
+- [Hail of Thorns](#p100)
 - [Healing Word](#p100)
 - [Hellish Rebuke](#p101)
 - [Heroism](#p101)
 - [Hideous Laughter](#p101)
-- [Imagem Espelhada](#p102)
+- [Imagem Espelhada](#p103)
 - [Infligir Ferimentos](#p103)
 - [Longstrider](#p105)
-- [Luz](#p105)
+- [Luz](#p106)
 - [Mage Armor](#p106)
 - [Mage Hand](#p106)
 - [Magic Missile](#p106)
 - [Perdição](#p111)
 - [Primor Atlético](#p112)
-- [Ray of Sickness](#p113)
+- [Ray of Sickness](#p114)
 - [Sanctuary](#p114)
 - [Searing Smite](#p115)
 - [Silent Image](#p117)
 - [Sleep](#p117)
-- [Snare](#p117)
-- [Teia](#p121)
+- [Snare](#p118)
+- [Teia](#p122)
 - [Tentacle Twister](#p122)
 - [Thunderous Smite](#p123)
 - [Thunderwave](#p123)
@@ -3993,43 +3995,44 @@ List of spells available for a All to learn.
 - [Binding Ice](#p80)
 - [Blindness Deafness](#p81)
 - [Calm Emotions](#p82)
-- [Cloud of Dagges](#p85)
+- [Casca Protetora](#p84)
+- [Cloud of Dagges](#p86)
 - [Continual Flame](#p87)
-- [Crown of Madness](#p88)
+- [Crown of Madness](#p89)
 - [Darkvision](#p89)
-- [Earthbind](#p91)
-- [Enhance Ability](#p92)
+- [Earthbind](#p92)
+- [Enhance Ability](#p93)
 - [Enlarge Reduce](#p93)
 - [Enthrall](#p93)
 - [Explosão Sonora](#p95)
 - [Flame Blade](#p97)
 - [Flechas Sentinelas](#p97)
 - [Healing Spirit](#p100)
-- [Heat Metal](#p100)
-- [Hold Person](#p101)
+- [Heat Metal](#p101)
+- [Hold Person](#p102)
 - [Ice Knife](#p102)
 - [Laço Protetor](#p104)
 - [Lesser Restoration](#p104)
-- [Magic Mouth](#p106)
+- [Magic Mouth](#p107)
 - [Manto de Vento](#p107)
 - [Maximilian's Earthen Grasp](#p108)
 - [Mind Whip](#p109)
 - [Misty Step](#p109)
-- [Moonbeam](#p109)
+- [Moonbeam](#p110)
 - [Pass Without a Trace](#p110)
 - [Prayer of Healing](#p112)
 - [Ray of Enfeeblement](#p113)
-- [Scorching Ray](#p114)
+- [Scorching Ray](#p115)
 - [See invisibility](#p115)
-- [Shadow Blade](#p115)
+- [Shadow Blade](#p116)
 - [Shatter](#p116)
-- [Silence](#p116)
+- [Silence](#p117)
 - [Snowball Swarm](#p118)
 - [Spider Climb](#p119)
 - [Spike Growth](#p119)
 - [Sugestion](#p120)
 - [Web](#p127)
-- [Wither and Bloom](#p127)
+- [Wither and Bloom](#p128)
 
 ### 3rd Circle
 - [Animate Dead](#p77)
@@ -4044,30 +4047,30 @@ List of spells available for a All to learn.
 - [Campo de Força](#p83)
 - [Camuflagem ilusória](#p83)
 - [Clairvoyance](#p85)
-- [Conjure Animals](#p86)
+- [Conjure Animals](#p87)
 - [Conjure Barrage](#p87)
 - [Create Food and Water](#p88)
 - [Crusader's Mantle](#p89)
-- [Daylight](#p89)
-- [Dispel Magic](#p90)
+- [Daylight](#p90)
+- [Dispel Magic](#p91)
 - [Enemies Abound](#p92)
-- [Erupting Earth](#p93)
+- [Erupting Earth](#p94)
 - [Espelho do Pântano](#p94)
 - [Fear](#p95)
-- [Feign Death](#p95)
+- [Feign Death](#p96)
 - [Fireball](#p96)
-- [Flame Arrows](#p96)
+- [Flame Arrows](#p97)
 - [Flecha Ácida](#p97)
-- [Fly](#p97)
+- [Fly](#p98)
 - [Físico Divino](#p96)
 - [Gaseous Form](#p98)
 - [Haste](#p100)
 - [Hunger of Hadar](#p102)
 - [Hypnotic Pattern](#p102)
 - [Incite Greed](#p103)
-- [Invisibilidade](#p103)
+- [Invisibilidade](#p104)
 - [Life Transference](#p104)
-- [Lightning Arrow](#p104)
+- [Lightning Arrow](#p105)
 - [Lightning Bolt](#p105)
 - [Major Image](#p107)
 - [Mass Healing Word](#p108)
@@ -4076,43 +4079,43 @@ List of spells available for a All to learn.
 - [Oração](#p110)
 - [Phantom Steed](#p111)
 - [Plant Growth](#p111)
-- [Protection from Energy](#p112)
+- [Protection from Energy](#p113)
 - [Raio Solar](#p113)
 - [Relâmpago](#p114)
 - [Sending](#p115)
 - [Slow](#p117)
 - [Soco de Arsenal](#p118)
 - [Sopro das Uivantes](#p118)
-- [Speak with Plants](#p118)
+- [Speak with Plants](#p119)
 - [Spirit Guardians](#p119)
-- [Spirit Shroud](#p119)
+- [Spirit Shroud](#p120)
 - [Stinking Cloud](#p120)
 - [Summon Fey](#p120)
-- [Summon Lesser Demons](#p120)
+- [Summon Lesser Demons](#p121)
 - [Summon Shadowspawn](#p121)
 - [Summon Undead](#p121)
 - [Thunder Step](#p122)
 - [Tidal Wave](#p123)
-- [Tiny Servant](#p123)
+- [Tiny Servant](#p124)
 - [Tongues](#p124)
-- [Toque Vampírico](#p124)
+- [Toque Vampírico](#p125)
 - [Vampiric Touch](#p125)
 - [Wall of Sand](#p126)
 - [Wall of Water](#p126)
 - [Water Breathing](#p126)
-- [Water Walk](#p126)
+- [Water Walk](#p127)
 - [Wind Wall](#p127)
 
 ### 5th Circle
 - [Contagion](#p87)
-- [Pele de Pedra](#p110)
+- [Pele de Pedra](#p111)
 - [Transformação de Guerra](#p125)
 
 ### 6th Circle
 - [Blade Barrier](#p80)
 
 ### 7th Circle
-- [Manto do Cruzado](#p107)
+- [Manto do Cruzado](#p108)
 
 {{pageNumber,auto}}
 \page
@@ -4620,6 +4623,20 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 - **+1PM:** aumenta +1d4 nos PV temporários.
 
+### Casca Protetora (2 MP)
+<div class="spell-tags">nature plant abjuration thaumaturgy</div>
+
+*2nd Circle*
+- **Execução:** padrão
+- **Alcance:** pessoal
+- **Alvo:** pessoal
+- **Duração:** imediata
+___
+
+Uma camada de folhas mortas aparecem e te recobrem parcialmente. Enquanto elas estiverem em você, você tem 3d10 HP temporário. Enquanto tiver esse HP temporário, você tem vulnerabilidade a fogo.
+
+- **+1PM:** +1d10 HP temporário.
+
 ### Catapult (1 MP)
 <div class="spell-tags">transmutation earth nature arcane</div>
 
@@ -4646,8 +4663,9 @@ ___
 
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-- **+2PM:** target one additional creature.
-
+- **+2PM:** target one additional creature.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Chaos Bolt (1 MP)
 <div class="spell-tags">occult evocation elemental fire lighning cold thaumaturgy psyquic energy</div>
 
@@ -4672,9 +4690,8 @@ You hurl an undulating, warbling mass of chaotic energy at one creature in range
 | 7   | Psychic     |
 | 8   | Thunder     |
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Charm Person (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -4715,8 +4732,9 @@ ___
 
 You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a Bonus Action, you can switch between seeing and hearing.A creature that sees the sensor (such as a creature benefiting from See Invisibility or Truesight) sees a luminous orb about the size of your fist.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Cloud of Dagges (2 MP)
 <div class="spell-tags">creation arcane warmagic thaumaturgy</div>
 
@@ -4730,9 +4748,8 @@ ___
 You fill the air with spinning daggers in a cube of size 1sqr, centered on a point you choose within range. A creature takes **5d4** slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
 
 - ****+1PM**:** Aumente o dano em +1d4.
-- ****+1PM**:** Aumente o tamanho do cubo em +1sqr.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- ****+1PM**:** Aumente o tamanho do cubo em +1sqr.
+
 ### Command (1 MP)
 <div class="spell-tags">enchantment speech trickery curse occult</div>
 
@@ -4777,8 +4794,9 @@ ___
 Você amplia sua percepção, antecipando movimentos dos inimigos e achando brechas em sua defesa. Quando faz um ataque, você rola dois dados e usa o melhor resultado.
 
 - **+2 PM:** muda a execução para padrão e a duração para cena. Requer 3º círculo..
-- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo..
-
+- **+5 PM:** além do normal, ao atacar você, um inimigo deve rolar dois dados e usar o pior resultado. Requer 5º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Conjure Animals (3 MP)
 <div class="spell-tags">feral</div>
 
@@ -4792,9 +4810,8 @@ ___
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds. You have Advantage on Strength saving throws while you're within 1sqr of the pack, and when you move on your turn, you can also move the pack up to 6sqr to an unoccupied space you can see.Whenever the pack moves within 2sqr of a creature you can see and whenever a creature you can see enters a space within 2sqr of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
 
-- **+2 PM:** +1d10 damage.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** +1d10 damage.
+
 ### Conjure Barrage (3 MP)
 <div class="spell-tags">arcane thaumaturgy force</div>
 
@@ -4836,8 +4853,9 @@ ___
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch.  
 The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Control Flames (0 MP)
 <div class="spell-tags">evocation fire ilusion trickery thaumaturgy elemental</div>
 
@@ -4850,9 +4868,8 @@ ___
 
 You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location..You instantaneously extinguish the flames within the cube..You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour..You cause simple shapes — such as the vague form of a creature, an inanimate object, or a location — to appear within the flames and animate as you like. The shapes last for 1 hour.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Controlar Plantas (1 MP)
 <div class="spell-tags">plant wild enchantment trickery</div>
 
@@ -4894,8 +4911,9 @@ ___
 
 You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range—both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Crown of Madness (2 MP)
 <div class="spell-tags">enchantment curse unholy trickery occult psyquic energy</div>
 
@@ -4914,9 +4932,8 @@ The charmed target must use its action before moving on each of its turns to mak
 On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
 
 - **+1PM:** the target also takes 1d8 psychic damage at the start of their turns.
-- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2PM:** increase the damage by +1d8.
+
 ### Crusader's Mantle (3 MP)
 <div class="spell-tags">thaumaturgy energy</div>
 
@@ -4961,8 +4978,9 @@ You touch a willing creature to grant it the ability to see in the dark.
 For the duration, that creature has darkvision out to a range of 12sqr (18m).
 
 - **+2 PM:** +1 alvo.
-- **+1 PM:** +4sqr (+6m)..
-
+- **+1 PM:** +4sqr (+6m)..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Daylight (3 MP)
 <div class="spell-tags">sacred wild</div>
 
@@ -4974,9 +4992,8 @@ ___
 
 For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.If any of this spell's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Despedaçar (1 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -5024,8 +5041,9 @@ Você percebe a presença e a localização de criaturas inamistosas ou hostis n
 - **+0 PM:** em vez de criaturas, você percebe a presença e localização de venenos..
 - **+1 PM:** muda a execução para ação completa. Você descobre também a raça ou espécie e o poder das criaturas (determinado pela aura delas). Criaturas de 1º a 6º nível geram uma aura tênue, criaturas de 7º a 12º nível geram uma aura moderada e criaturas de 13º ao 20º nível geram uma aura poderosa. Criaturas acima do 20º nível geram uma aura avassaladora..
 - **+2 PM:** em vez de criaturas, você percebe a presença e localização de armadilhas..
-- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..
-
+- **+5 PM:** muda a área para esfera de 30m de raio. Requer 3º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Dispel Magic (3 MP)
 <div class="spell-tags">occult abjuration</div>
 
@@ -5037,9 +5055,8 @@ ___
 
 Choose one creature, object, or magical effect within range. Any ongoing spell of 3rd circle or lower on the target ends. For each ongoing spell of 4th circle or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's circle). On a successful check, the spell ends.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Dissonant Whispers (1 MP)
 <div class="spell-tags">curse unholy trickery occult psyquic energy occult speech</div>
 
@@ -5081,8 +5098,9 @@ ___
 You cause a tremor in the ground in a 2sqr radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 - **+2PM:** increase the damage by +1d6.
-- **+3PM:** increase the radius by 1sqr.
-
+- **+3PM:** increase the radius by 1sqr.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Earthbind (2 MP)
 <div class="spell-tags">earth nature wind enchantment curse occult trickery</div>
 
@@ -5095,9 +5113,8 @@ ___
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell’s duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Enemies Abound (3 MP)
 <div class="spell-tags">ilusion occult</div>
 
@@ -5145,8 +5162,9 @@ Esta magia torna o alvo prestativo (veja a página 118). Ele não fica sob seu c
 
 - **+2 PM:** em vez do normal, você sugere uma ação para o alvo e ele obedece. A sugestão deve ser feita de modo que pareça aceitável, a critério do mestre. Pedir ao alvo que pule de um precipício, por exemplo, dissipa a magia. Já sugerir a um guarda que descanse um pouco, de modo que você e seus aliados passem por ele, é aceitável. Quando o alvo executa a ação, a magia termina. Você pode determinar uma condição específica para a sugestão: por exemplo, que um rico mercador doe suas moedas para o primeiro mendigo que encontrar..
 - **+5 PM:** muda o alvo para 1 espírito ou monstro. Requer 3º círculo..
-- **+5 PM:** afeta todos os alvos dentro do alcance..
-
+- **+5 PM:** afeta todos os alvos dentro do alcance..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Enhance Ability (2 MP)
 <div class="spell-tags">transmutation abjuration warmagic boost feral sacred wild thaumaturgy arcane</div>
 
@@ -5159,9 +5177,8 @@ ___
 
 Bear’s Endurance. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends..Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles..Cat’s Grace. The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated..Eagle’s Splendor. The target has advantage on Charisma checks..Fox’s Cunning. The target has advantage on Intelligence checks..Owl’s Wisdom. The target has advantage on Wisdom checks.
 
-- **+2PM:** aumente o número de alvos em 1.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2PM:** aumente o número de alvos em 1.
+
 ### Enlarge Reduce (2 MP)
 <div class="spell-tags">transmutation boost sacred warmagic thaumaturgy arcane</div>
 
@@ -5214,8 +5231,9 @@ ___
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a PRE saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Erupting Earth (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -5228,9 +5246,8 @@ ___
 
 Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
 
-- **+2 PM:** +1d12 damage.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** +1d12 damage.
+
 ### Escudo (1 MP)
 <div class="spell-tags">boost sacred abjuration thaumaturgy warmagic</div>
 
@@ -5282,8 +5299,9 @@ Você recita o encanto bullywug na poça pensando em alguém que conheça. Perto
 
 O espelho pode ser destruído com uma leve agitação da água. Se o alvo não tiver uma superfície de água próxima de si (até 20 metros) a magia falha. Se o espelho for criado com sucesso, o alvo nota a existência dele, mesmo que esteja fora do seu campo de visão.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Explosão de chamas (1 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -5297,9 +5315,8 @@ ___
 
 Um leque de chamas irrompe de suas mãos, causando 2d6 pontos de dano de fogo às criaturas na área. Resitência reduz o dano a metade.
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **cost:** description.
+
 ### Explosão Sonora (2 MP)
 <div class="spell-tags">wind nature arcane transmutation</div>
 
@@ -5343,8 +5360,9 @@ ___
 
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Feign Death (3 MP)
 <div class="spell-tags"></div>
 
@@ -5356,9 +5374,8 @@ ___
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the Blinded and Incapacitated conditions, and its Speed is 0.The target also has Resistance to all damage except Psychic damage, and it has Immunity to the Poisoned condition.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Fire Bolt (0 MP)
 <div class="spell-tags">fire elemental evocation thaumaturgy</div>
 
@@ -5403,8 +5420,9 @@ O alvo se torna uma versão mais poderosa de si  esmo. O alvo recebe +4 em Forç
 
 - **+3 PM:** em vez do normal, o alvo recebe +4 nos três atributos físicos. Requer 5º círculo..
 - **+7 PM:** muda o alcance para  urto e o alvo para criaturas escolhidas..
-- **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..
-
+- **+7 PM:** aumenta o bônus em +2. Requer 7º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Flame Arrows (3 MP)
 <div class="spell-tags">elemental arcane thaumaturgy</div>
 
@@ -5418,9 +5436,8 @@ ___
 You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
 
 - **+1 PM:** +2 munições encantadas.
-- **+4PM:** +1d6 dano.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+4PM:** +1d6 dano.
+
 ### Flame Blade (2 MP)
 <div class="spell-tags">elemental fire warmagic thaumaturgy</div>
 
@@ -5470,8 +5487,9 @@ ___
 
 You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 6sqr of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
 
-- **+1PM:** +1 flecha.
-
+- **+1PM:** +1 flecha.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Fly (3 MP)
 <div class="spell-tags">nature holy arcane</div>
 
@@ -5484,9 +5502,8 @@ ___
 
 You touch a willing creature. For the duration, the target gains a Fly Speed of 12sqr and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
-- **+3 PM:** +1 criatura.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+3 PM:** +1 criatura.
+
 ### Fog Cloud (1 MP)
 <div class="spell-tags">unholy occult summon wild creation arcane wind nature</div>
 
@@ -5525,8 +5542,9 @@ ___
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Goodberry (1 MP)
 <div class="spell-tags">plant wild summon</div>
 
@@ -5538,9 +5556,8 @@ ___
 
 Up to 10 berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
-- **+1 PM:** Increase the number of berries by 2..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+1 PM:** Increase the number of berries by 2..
+
 ### Green Flame Blade (0 MP)
 <div class="spell-tags">warmagic thaumaturgy fire elemental</div>
 
@@ -5583,8 +5600,9 @@ A flash of light streaks toward a creature of your choice within range.
 Make a ranged spell attack against the target. On a hit, the target takes 2d6 fire damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
 - **+1 PM:** aumenta o dano em +1d6.
-- **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..
-
+- **+3 PM:** o alvo faz um teste de SEN. se falhar, fica cego por 1 turno..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Hail of Thorns (1 MP)
 <div class="spell-tags">warmagic plant wild thaumaturgy</div>
 
@@ -5597,9 +5615,8 @@ ___
 
 The next time you hit a creature with a ranged weapon attack before the spell ends, this spell creates a rain of thorns that sprouts from your ranged weapon or ammunition. In addition to the normal effect of the attack, the target of the attack and each creature within 5 feet of it must make a Dexterity saving throw. A creature takes 1d10 piercing damage on a failed save, or half as much damage on a successful one. The spells damage is increased if the weapon attack critically hit
 
-- **cost:** description.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **cost:** description.
+
 ### Haste (3 MP)
 <div class="spell-tags">sacred arcane</div>
 
@@ -5640,8 +5657,9 @@ ___
 A creature of your choice that you can see within range regains hit points equal to 2d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 - **+2 PM:** aumenta a cura em 1d4.
-- **+2 PM:** muda o casting para reação.
-
+- **+2 PM:** muda o casting para reação.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Heat Metal (2 MP)
 <div class="spell-tags">transmutation arcane fire elemental trickery</div>
 
@@ -5656,9 +5674,8 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-- **+2PM:** the damage increases by +1d8.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2PM:** the damage increases by +1d8.
+
 ### Hellish Rebuke (1 MP)
 <div class="spell-tags">curse occult fire elemental speech trickery</div>
 
@@ -5703,8 +5720,9 @@ A creature of your choice that you can see within range perceives everything as 
   
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Hold Person (2 MP)
 <div class="spell-tags">enchantment trickery arcane curse occult</div>
 
@@ -5718,9 +5736,8 @@ ___
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 - **+1PM:** aumenta o alcance em +5sqr.
-- **+3PM:** aumenta o número de alvos em +1.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+3PM:** aumenta o número de alvos em +1.
+
 ### Hunger of Hadar (3 MP)
 <div class="spell-tags">curse cold acid summon</div>
 
@@ -5765,8 +5782,9 @@ ___
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 1d6 cold damage.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Imagem Espelhada (1 MP)
 <div class="spell-tags">ilusion trickery abjuration thaumaturgy</div>
 
@@ -5780,9 +5798,8 @@ ___
 Três cópias ilusórias suas aparecem. As duplicatas ficam ao seu redor e imitam suas ações, tornando difícil para um inimigo saber quem atacar. Você recebe +6 na Defesa. Cada vez que um ataque contra você erra, uma das imagens desaparece e o bônus na Defesa diminui em 2. Um oponente deve ver as cópias para ser confundido. Se você estiver invisível, ou o atacante fechar os olhos, você não recebe o bônus (mas o atacante ainda sofre penalidades normais por não enxergar).
 
 - **+2 PM:** aumenta o número de cópias em +1 (e o bônus na Defesa em +2)..
-- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** além do normal, toda vez que uma cópia é destruída, emite um clarão de luz. A criatura que destruiu a cópia fica ofuscada por uma rodada. Requer 3º círculo..
+
 ### Incite Greed (3 MP)
 <div class="spell-tags">trickery occult</div>
 
@@ -5827,8 +5844,9 @@ Você canaliza energia negativa contra um alvo, causando 2d8+2 pontos de dano ne
 - **+1 PM:** além do normal, se falhar na resistência, o alvo fica fraco pela cena..
 - **+2 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia..
-- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..
-
+- **+5 PM:** muda o alcance para curto e o alvo para criaturas escolhidas..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Invisibilidade (3 MP)
 <div class="spell-tags">ilusion trickery</div>
 
@@ -5844,9 +5862,8 @@ O alvo fica invisível, incluindo seu equipamento. Ele recebe camuflagem total e
 - **+1 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura ou 1 objeto..
 - **+3 PM:** muda a duração para cena. Requer 5º círculo..
 - **+3 PM:** muda a duração para sustentada. Em vez do normal, o alvo gera uma esfera de invisibilidade. O alvo e todas as criaturas a até 3m dele se tornam invisíveis, como no efeito normal da magia (ainda ficam visíveis caso façam uma ação hostial). A esfera se move juntamente com o alvo; qualquer coisa que saia da esfera fica visível. Requer 5º círculo..
-- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+7 PM:** muda a execução para ação padrão, o alcance para toque e o alvo para 1 criatura. A magia não é dissipada caso o alvo faça um ataque ou use uma habilidade ofensiva. Requer 7º círculo..
+
 ### Laço Protetor (2 MP)
 <div class="spell-tags">abjuration warmagic boost sacred thaumaturgy</div>
 
@@ -5889,8 +5906,9 @@ ___
 
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 necrotic damage, and another creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take. You can never go bellow 1HP from this spell, but your target still heals for the full amount.
 
-- **+1 PM:** aumenta o dano em 1d8.
-
+- **+1 PM:** aumenta o dano em 1d8.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Lightning Arrow (3 MP)
 <div class="spell-tags"></div>
 
@@ -5904,9 +5922,8 @@ ___
 As your attack hits or misses the target, the weapon or ammunition you're using transforms into a lightning bolt. Instead of taking any damage or other effects from the attack, the target takes 4d8 Lightning damage on a hit or half as much damage on a miss. Each creature within 10 feet of the target then makes a Dexterity saving throw, taking 2d8 Lightning damage on a failed save or half as much damage on a successful one.The weapon or ammunition then returns to its normal form.
 
 - **+1 PM:** +1d8 damage to main target.
-- **+1 PM:** +1d8 area damage.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+1 PM:** +1d8 area damage.
+
 ### Lightning Bolt (3 MP)
 <div class="spell-tags">elemental thaumaturgy</div>
 
@@ -5949,8 +5966,9 @@ ___
 You touch a creature. The target’s speed increases by 2sqr until the spell ends.
 
 - **+1PM:** increase the movement speed by another +1sqr.
-- **+1PM:** increase the target by +1.
-
+- **+1PM:** increase the target by +1.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Luz (1 MP)
 <div class="spell-tags">holy trickery ilusion evocation thaumaturgy creation arcane sacred</div>
 
@@ -5965,9 +5983,8 @@ O alvo emite luz (mas não produz calor) em uma área com 6m de raio. O objeto p
 
 - **+1 PM:** aumenta a área iluminada em +3m de raio..
 - **+2 PM:** muda a duração para 1 dia..
-- **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** muda a duração para permanente e adiciona componente material (pó de rubi no valor de T$ 50). Requer 2º círculo..
+
 ### Mage Armor (1 MP)
 <div class="spell-tags">abjuration thaumaturgy boost sacred</div>
 
@@ -6012,8 +6029,9 @@ ___
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.
 
-- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).
-
+- **+1PM:** crie um míssil adicional (Limitado pelo círculo máximo de magia que você pode lançar).{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Magic Mouth (2 MP)
 <div class="spell-tags">speech trickery arcane divination transmutation</div>
 
@@ -6032,9 +6050,8 @@ When that circumstance occurs, a magical mouth appears on the object and recites
 
 The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
-- **:** .{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **:** .
+
 ### Magic Stone (0 MP)
 <div class="spell-tags">transmutation arcane</div>
 
@@ -6074,8 +6091,9 @@ ___
 
 It deafens you and other creatures in its area..It extinguishes unprotected flames in its area that are torch-sized or smaller..The area is difficult terrain for creatures other than you..The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind..It hedges out vapor, gas, and fog that can be dispersed by strong wind.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Manto do Cruzado (10 MP)
 <div class="spell-tags">boost recovery holy abjuration thaumaturgy</div>
 
@@ -6088,9 +6106,8 @@ ___
 
 Você invoca a energia sagrada de sua divindade na forma de um manto de energia sólida que reveste seu corpo. Esta magia tem duas versões. Você escolhe qual versão pode lançar quando aprende esta magia. Ela não pode ser mudada. Manto de Luz: um manto dourado e luminoso. No início de cada um de seus turnos, você e todos os seus aliados em alcance curto recuperam 2d8 PV. Você fica imune a dano de trevas e seus ataques corpo a corpo causam +2d8 pontos de dano de luz. Manto de Trevas: um manto negro como a noite. No início de cada um de seus turnos, todos os inimigos em alcance curto sofrem 2d8 pontos de dano de trevas. Você cura metade de todo o dano causado pela magia. Mão Poderosa
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Mass Healing Word (3 MP)
 <div class="spell-tags">recovery sacred speech no-trickery</div>
 
@@ -6138,8 +6155,9 @@ ___
 
 You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a movement action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 15sqr of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
-- **+2 PM:** +2 meteoros.
-
+- **+2 PM:** +2 meteoros.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Message (0 MP)
 <div class="spell-tags">divination arcane speech trickery</div>
 
@@ -6154,9 +6172,8 @@ You point your finger toward a creature within range and whisper a message. The 
   
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Mind Whip (2 MP)
 <div class="spell-tags">trickery enchantment energy psyquic</div>
 
@@ -6204,8 +6221,9 @@ ___
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Moonbeam (2 MP)
 <div class="spell-tags">wild energy radiant holy sacred</div>
 
@@ -6225,9 +6243,8 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use a movement action to move the beam up to 60 feet in any direction.
 
-- **+2:** aumente o dano em +1d10.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2:** aumente o dano em +1d10.
+
 ### Motivational Speech (3 MP)
 <div class="spell-tags">trickery sacred</div>
 
@@ -6272,8 +6289,9 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Stealth checks and can’t be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Pele de Pedra (6 MP)
 <div class="spell-tags">abjuration warmagic thaumaturgy earth nature</div>
 
@@ -6289,9 +6307,8 @@ Sua pele ganha aspecto e dureza de rocha. Você recebe resistência a dano 5.
 - **+1 PM:** muda o alcance para toque e o alvo para 1 criatura..
 - **+4 PM:** muda a duração para 1 dia..
 - **+4 PM:** sua pele ganha aspecto e dureza de aço. Você recebe resistência a dano 10. Requer 7º círculo..
-- **+4 PM:** muda o alcance para toque, o alvo para 1 criatura, a duração para 1d4 rodadas e adiciona **Resistência:** Fortitude anula..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+4 PM:** muda o alcance para toque, o alvo para 1 criatura, a duração para 1d4 rodadas e adiciona **Resistência:** Fortitude anula..
+
 ### Perdição (1 MP)
 <div class="spell-tags">curse occult</div>
 
@@ -6336,8 +6353,9 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 **Enrichment.** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Poison Spray (0 MP)
 <div class="spell-tags">poison decay evocation thaumaturgy</div>
 
@@ -6349,9 +6367,8 @@ ___
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-- **+2 PM:** Aumenta o dano em 1d12..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** Aumenta o dano em 1d12..
+
 ### Prayer of Healing (2 MP)
 <div class="spell-tags">speech holy recovery sacred no-trickery</div>
 
@@ -6397,8 +6414,9 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +6sqr e +10 
 - **+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30)..
 - **+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala..
 - **+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Você salta muito alto e pousa em alcance corpo a corpo de uma criatura em alcance curto. Se fizer um ataque corpo a corpo contra essa criatura nesta rodada, recebe os benefícios e penalidades de uma investida e sua arma tem o dano aumentado em um dado do mesmo tipo durante este ataque..
-- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..
-
+- **+3 PM:** além do normal, ao fazer testes de perícias baseadas em Força, Destreza ou Constituição, o alvo pode rolar dois dados e escolher o melhor. Não afeta testes de ataque ou resistência. Requer 3º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Protection from Energy (3 MP)
 <div class="spell-tags">thaumaturgy</div>
 
@@ -6410,9 +6428,8 @@ ___
 
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Raio Solar (3 MP)
 <div class="spell-tags">holy sacred</div>
 
@@ -6460,8 +6477,9 @@ ___
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-- **+2PM:** increase the damage by +1d8.
-
+- **+2PM:** increase the damage by +1d8.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Ray of Sickness (1 MP)
 <div class="spell-tags">curse occult poison decay evocation thaumaturgy</div>
 
@@ -6473,9 +6491,8 @@ ___
 
 A ray of sickening greenish energy lashes out toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw. On a failed save, it is also poisoned until the end of your next turn.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Relâmpago (3 MP)
 <div class="spell-tags">lighning elemental evocation thaumaturgy</div>
 
@@ -6521,8 +6538,9 @@ Until the spell ends, any creature who targets the warded creature with an attac
 
 If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.
 
-- **:** .
-
+- **:** .{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Scorching Ray (2 MP)
 <div class="spell-tags">evocation thaumaturgy elemental fire</div>
 
@@ -6539,9 +6557,8 @@ You create three rays of fire and hurl them at targets within range. You can hur
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
 - **+2PM:** +1 raio.
-- **+4PM:** +1d6 por raio.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+4PM:** +1d6 por raio.
+
 ### Searing Smite (1 MP)
 <div class="spell-tags">fire elemental warmagic thaumaturgy</div>
 
@@ -6581,8 +6598,9 @@ ___
 
 You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive. You know if the delivery fails.Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Shadow Blade (2 MP)
 <div class="spell-tags">unholy occult warmagic thaumaturgy psyquic energy</div>
 
@@ -6598,9 +6616,8 @@ You weave together threads of shadow to create a sword of solidified gloom in yo
 
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
 
-- **:** .{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **:** .
+
 ### Shape Water (0 MP)
 <div class="spell-tags">transmutation arcane water nature</div>
 
@@ -6655,8 +6672,9 @@ ___
 The wood of a club or quarterstaff you are holding is imbued with nature’s power.  
 For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon’s damage die becomes a d8. The weapon also becomes magical, if it isn’t already. The spell ends if you cast it again or if you let go of the weapon
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Silence (2 MP)
 <div class="spell-tags">speech trickery transmutation arcane</div>
 
@@ -6670,9 +6688,8 @@ ___
 
 For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-- **:** .{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **:** .
+
 ### Silent Image (1 MP)
 <div class="spell-tags">ilusion trickery creation arcane</div>
 
@@ -6716,8 +6733,9 @@ ___
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Snare (1 MP)
 <div class="spell-tags">trickery ilusion ilusion curse occult</div>
 
@@ -6730,9 +6748,8 @@ ___
 
 As you cast this spell, you use the rope to create a circle with a 1sqr radius on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap. This trap is nearly invisible, requiring a successful Intelligence (Investigation) check against your spell save DC to be discerned. The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell’s radius. That creature must succeed on a Dexterity saving throw or be magically hoisted into the air, leaving it hanging upside down 3 feet above the ground or the floor. The creature is restrained there until the spell ends. A restrained creature can make a Dexterity saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an Intelligence (Arcana) check against your spell save DC. On a success, the restrained effect ends. After the trap is triggered, the spell ends when no creature is restrained by it.
 
-{{pageNumber,auto}}
-\page
-[Spells](#p76)
+
+
 ### Snowball Swarm (2 MP)
 <div class="spell-tags">cold elemental creation arcane</div>
 
@@ -6778,8 +6795,9 @@ Você sopra ar gélido que causa 4d6 pontos de dano de frio (Fortitude reduz à 
 
 - **+2 PM:** aumenta o dano de frio em +2d6..
 - **+2 PM:** além do normal, criaturas que falhem no teste de Fortitude ficam caídas..
-- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..
-
+- **+3 PM:** aumenta o tamanho máximo das criaturas afetadas em uma categoria. Requer 5º círculo..{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Speak with Plants (3 MP)
 <div class="spell-tags">trickery wild no-arcane</div>
 
@@ -6792,9 +6810,8 @@ ___
 
 You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.You can also turn Difficult Terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into Difficult Terrain that lasts for the duration.The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Spider Climb (2 MP)
 <div class="spell-tags">feral transmutation wild arcane earth nature boost no-sacred</div>
 
@@ -6837,8 +6854,9 @@ ___
 
 Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's Speed is halved in the Emanation, and whenever the Emanation enters a creature's space and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes 3d8 Radiant damage (if you are good or neutral) or 3d8 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Spirit Shroud (3 MP)
 <div class="spell-tags">occult necrotic decay elemental</div>
 
@@ -6851,9 +6869,8 @@ ___
 
 You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable.Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.In addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Stinking Cloud (3 MP)
 <div class="spell-tags">occult arcane</div>
 
@@ -6901,8 +6918,9 @@ ___
 
 **Putinho.** The spirit has Advantage on the next attack roll it makes before the end of this turn..**Encantador.** _SEN Saving Throw:_ DC equals your spell save DC, one creature the spirit can see within 2sqr of itself. _Failure:_ The target is Charmed by you and the spirit for 1 minute or until the target takes any damage..**Brincalhão.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.
 
-
-
+{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Summon Lesser Demons (3 MP)
 <div class="spell-tags">unholy occult summon wild</div>
 
@@ -6914,9 +6932,8 @@ ___
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.d6Demons Summoned1-2Two demons of challenge rating 1 or lower3-4Four demons of challenge rating 1/2 or lower5-6Eight demons of challenge rating 1/4 or lowerThe DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Summon Shadowspawn (3 MP)
 <div class="spell-tags">no-wild occult</div>
 
@@ -6955,8 +6972,9 @@ ___
 You create a momentary circle of spectral blades that sweep around you.  
 Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 force damage.
 
-- **+2PM:** increase the damage by +1d6.
-
+- **+2PM:** increase the damage by +1d6.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Teia (1 MP)
 <div class="spell-tags">arcane creation feral wild</div>
 
@@ -6972,9 +6990,8 @@ Teia cria várias camadas de fibras entrelaçadas e pegajosas na área. Qualquer
 
 - **+1 PM:** além do normal, criaturas que falhem na resistência também ficam imóveis..
 - **+2 PM:** além do normal, no início de seus turnos a magia afeta novamente qualquer criatura na área, exigindo um novo teste de Reflexos. Requer 2º círculo..
-- **+2 PM:** aumenta a área em +1 cubo de 1,5m..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** aumenta a área em +1 cubo de 1,5m..
+
 ### Tentacle Twister (1 MP)
 <div class="spell-tags">occult unholy summon wild</div>
 
@@ -7018,8 +7035,9 @@ ___
 
 You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 10 feet of the space you left must make a Constitution saving throw, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 300 feet away.You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 5 feet of you when you cast this spell, and there must be an unoccupied space within 5 feet of your destination space for the creature to appear in; otherwise, the creature is left behind.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Thunderclap (0 MP)
 <div class="spell-tags">wind nature transmutation arcane</div>
 
@@ -7032,9 +7050,8 @@ ___
 You create a burst of thunderous sound, which can be heard 100 feet away.  
 Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-- **+2PM:** increase the damage by 1d6.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2PM:** increase the damage by 1d6.
+
 ### Thunderous Smite (1 MP)
 <div class="spell-tags">warmagic wind nature thaumaturgy</div>
 
@@ -7075,8 +7092,9 @@ ___
 
 You conjure up a wave of water that crashes down on an area within range. The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and then it vanishes.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Tiny Servant (3 MP)
 <div class="spell-tags">wild</div>
 
@@ -7088,9 +7106,8 @@ ___
 
 You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the stat block for its statistics.As a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Toll the Dead (0 MP)
 <div class="spell-tags">occult unholy decay necrotic wind no-nature</div>
 
@@ -7133,8 +7150,9 @@ Arcos elétricos envolvem sua mão. Faça um melee spell attack contra o alvo, c
 
 - **+1 PM:** aumenta o dano em 1d8+1..
 - **+2 PM:** Você encanta uma arma que esteja segurando em vez das suas mãos. Em vez de um ataque de feitiço, faça um ataque com a arma e dê o dano da arma e da magia..
-- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
-
+- **+2 PM:** muda o alcance para pessoal e o alvo para **área:** explosão com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Toque Vampírico (3 MP)
 <div class="spell-tags">necrotic decay feral wild unholy occult</div>
 
@@ -7150,9 +7168,8 @@ Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Voc�
 
 - **+1 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia..
 - **+2 PM:** aumenta o dano em +2d6..
-- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 5º círculo..
+
 ### Tranquilidade (1 MP)
 <div class="spell-tags">enchantment trickery</div>
 
@@ -7198,8 +7215,9 @@ ___
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.Until the spell ends, you can make the attack again on each of your turns as a Magic action, targeting the same creature or a different one.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Vicious Mockery (0 MP)
 <div class="spell-tags">trickery occult curse psyquic energy speech</div>
 
@@ -7213,9 +7231,8 @@ ___
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range.  
 If the target can hear you (thought it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+1PM:** increase damage by +1d4 (limitado por círculo máximo).
+
 ### Wall of Sand (3 MP)
 <div class="spell-tags">nature arcane</div>
 
@@ -7254,8 +7271,9 @@ ___
 
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
-- **+0 PM:** Placeholder.
-
+- **+0 PM:** Placeholder.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Water Walk (3 MP)
 <div class="spell-tags">nature sacred</div>
 
@@ -7267,9 +7285,8 @@ ___
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.An affected target must take a Bonus Action to pass from the liquid's surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
 
-- **+0 PM:** Placeholder.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+0 PM:** Placeholder.
+
 ### Web (2 MP)
 <div class="spell-tags">feral wild trickery creation arcane</div>
 
@@ -7314,8 +7331,9 @@ ___
 
 A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on the end of each of your turns for the duration, you deal 1d12 lightning damage to the target automatically. The spell ends if the target is ever outside the spell’s range or if it has total cover from you.
 
-- **+1PM:** increase the initial damage by +1d12.
-
+- **+1PM:** increase the initial damage by +1d12.{{pageNumber,auto}}
+\page
+[Spells](#p76)
 ### Wither and Bloom (2 MP)
 <div class="spell-tags">occult curse unholy recovery sacred decay necrotic</div>
 
@@ -7332,9 +7350,8 @@ You invoke both death and life upon a 10-foot-radius sphere centered on a point 
 In addition, one creature of your choice in that area can regain HP equal to their level.
 
 - **+2PM:** Aumente o dano em +1d6.
-- **+2PM:** Escolha uma criatura a mais para recuperar HP.{{pageNumber,auto}}
-\page
-[Spells](#p76)
+- **+2PM:** Escolha uma criatura a mais para recuperar HP.
+
 ### Word of Radiance (0 MP)
 <div class="spell-tags">holy sacred radiant energy speech no-trickery</div>
 

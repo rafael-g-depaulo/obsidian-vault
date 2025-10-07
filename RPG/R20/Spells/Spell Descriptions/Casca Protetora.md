@@ -6,7 +6,12 @@ TARGET: pessoal
 DURATION: imediata
 %%CRIT: 20/2x%%
 %% RESISTANCE: DEX %%
-%%TAGS:%%
+TAGS:
+- #spell 
+- #nature 
+- #plant
+- #abjuration 
+- #thaumaturgy 
 
 DESCRIPTION:
 Uma camada de folhas mortas aparecem e te recobrem parcialmente. Enquanto elas estiverem em você, você tem 3d10 HP temporário. Enquanto tiver esse HP temporário, você tem vulnerabilidade a fogo.
