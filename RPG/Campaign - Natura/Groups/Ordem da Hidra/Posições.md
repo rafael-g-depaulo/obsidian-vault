@@ -61,7 +61,7 @@ ideia:
 #### Starter
 | d100   | Skeleton                   |     |
 | ------ | -------------------------- | --- |
-| 1-35   | 3x [[Skeleton, Giant Rat]] |     |
+| 1-35   | 3x [[Skeleton, Rat]] |     |
 | 36-60  | [[Skeleton, Cat]]          |     |
 | 60-85  | dog                        |     |
 | 86-100 | 2x bird                    |     |

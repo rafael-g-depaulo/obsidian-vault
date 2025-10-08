@@ -21,7 +21,7 @@
 		{"id":"f56031a5f41f4541","type":"text","text":"Starter\n\nCheap, mass produced Skeletons used by Unhas. CR 1/8-2","x":-2120,"y":-856,"width":320,"height":172},
 		{"id":"1c45c899c464b6b4","type":"text","text":"High\n\nSpecialized skeletons with a ton of invesment. only Hands and above have multiples of these\n\nCR 5-6","x":-1460,"y":-912,"width":250,"height":326,"color":"2"},
 		{"id":"db38c151c99e022f","type":"text","text":"Medium\n\nOn the high-end of cheap stuff, this is the bread and butter of Falanges, and the goons of Dedos\n\nCR 3-4","x":-1760,"y":-912,"width":250,"height":326,"color":"3"},
-		{"id":"e3808c52c0e91e07","type":"file","file":"RPG/R20/Bestiary/Skeleton, Giant Rat.md","x":-200,"y":-274,"width":360,"height":265},
+		{"id":"e3808c52c0e91e07","type":"file","file":"RPG/R20/Bestiary/Skeleton, Rat.md","x":-200,"y":-274,"width":360,"height":265},
 		{"type":"text","text":"Orc\nTroll\nLoxodas\nTRex\nGiant","id":"6901ae88e817fc75","x":-2740,"y":760,"width":236,"height":181},
 		{"type":"file","file":"RPG/R20/Bestiary/Skeleton, Bullywug.md","id":"6319c38a0734bcfa","x":-1260,"y":740,"width":288,"height":247},
 		{"type":"file","file":"RPG/R20/Bestiary/Skeleton, Gnoll.md","id":"4f78c51632a06e10","x":-1260,"y":1023,"width":288,"height":247},
