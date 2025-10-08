@@ -6,9 +6,11 @@ ___
 **HP**          :: 148(1d4 + 5)
 **Speed**       :: 5sqr.
 ___
-|  STR   |   DEX   |   CON   |   INT   |   WIS   |   PRE   |
-|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (+0) | 17 (+4) | 20 (+5) | 19 (+5) | 11 (+1) | 12 (+1) |
+
+| STR | DEX | CON | INT | WIS | PRE |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     |     |     |
+
 ___
 **Condition Immunities** :: buzzed, groovy, drunk
 **Senses**               :: darkvision 60 ft., passive Perception 18

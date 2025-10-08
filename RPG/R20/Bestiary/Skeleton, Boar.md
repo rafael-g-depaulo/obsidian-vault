@@ -1,5 +1,5 @@
 {{monster
-## Boar Skeleton
+## Boar Skeleton #monster #skeleton
 *Medium Beast*
 ___
 **Defense**     :: 15
