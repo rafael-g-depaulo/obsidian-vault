@@ -1137,7 +1137,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 \page
 [[Spells]]
 ### Major Image (3 MP)
-<div class="spell-tags">ilusiuon trickery</div>
+<div class="spell-tags">trickery</div>
 
 *3rd Circle*
 - **Execução:** Action

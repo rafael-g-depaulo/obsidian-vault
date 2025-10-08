@@ -70,7 +70,6 @@ Here's a list of all of the errors found.
 - [[Bestow Curse]] Spell has tag "enchantment" but is missing it's group tag "trickery" (or you can add "#no-trickery")
 - [[Casca Protetora]] Spell has tag "plant" but is missing it's group tag "wild" (or you can add "#no-wild")
 - [[Conjure Animals]] Spell has tag "feral" but is missing it's group tag "wild" (or you can add "#no-wild")
-- [[Conjure Barrage]] Spell has tag "force" but is missing it's group tag "energy" (or you can add "#no-energy")
 - [[Dispel Magic]] Spell has tag "abjuration" but is missing it's group tag "thaumaturgy" (or you can add "#no-thaumaturgy")
 - [[Enemies Abound]] Spell has tag "ilusion" but is missing it's group tag "trickery" (or you can add "#no-trickery")
 - [[Fly]] Spell has tag "holy" but is missing it's group tag "sacred" (or you can add "#no-sacred")

@@ -1,11 +1,11 @@
 # Entities
 
-![[Atarp - Treos]]
+![[./Gods/Atarp - Treos]]
 
-![[Lyf]]
-![[Rosa Maria]]
+![[./Gods/Lyf]]
+![[./Gods/Rosa Maria]]
 
-![[Odrel]]
+![[./Gods/Odrel]]
 
 
 {{dev-comment

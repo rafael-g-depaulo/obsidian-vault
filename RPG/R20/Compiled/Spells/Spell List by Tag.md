@@ -178,6 +178,7 @@
 - [[Spike Growth]]
 - [[Web]]
 ### 3rd Circle
+- [[Conjure Barrage]]
 - [[Flecha Ácida]]
 - [[Sopro das Uivantes]]
 - [[Wind Wall]]
@@ -351,6 +352,7 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Blinding Smite]]
+- [[Conjure Barrage]]
 - [[Crusader's Mantle]]
 - [[Spirit Guardians]]
 
@@ -467,10 +469,6 @@
 - [[Camuflagem ilusória]]
 - [[Enemies Abound]]
 - [[Invisibilidade]]
-
-## Ilusiuon Spells
-### 3rd Circle
-- [[Major Image]]
 
 ## Lighning Spells
 ### Cantrip
@@ -1027,6 +1025,7 @@
 - [[Shadow Blade]]
 ### 3rd Circle
 - [[Campo de Força]]
+- [[Conjure Barrage]]
 - [[Físico Divino]]
 - [[Phantom Steed]]
 - [[Soco de Arsenal]]

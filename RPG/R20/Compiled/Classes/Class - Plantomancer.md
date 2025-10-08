@@ -516,7 +516,7 @@ The spell ends if you attack any other creature, if you cast a spell that target
 - **+XPM:** both you and the target have +# movement speed when running towards eachother.
 
 ### Conjure Barrage (3 MP)
-<div class="spell-tags">arcane thaumaturgy force</div>
+<div class="spell-tags">creation arcane warmagic thaumaturgy energy force</div>
 
 *3rd Circle*
 - **Execução:** Action

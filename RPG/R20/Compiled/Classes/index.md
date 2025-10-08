@@ -753,7 +753,6 @@ List of spells available for a  to learn.
 - [Bestow Curse (link not found)]()
 - [Blinding Smite (link not found)]()
 - [Clairvoyance (link not found)]()
-- [Conjure Barrage (link not found)]()
 - [Create Food and Water (link not found)]()
 - [Crusader's Mantle (link not found)]()
 - [Erupting Earth (link not found)]()

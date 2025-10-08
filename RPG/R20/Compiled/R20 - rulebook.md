@@ -171,22 +171,26 @@ ___
 - #### [{{ General Blessings }}{{ 130 }}](#p130)
 - #### [{{ Entity Specific Blessings }}{{ 130 }}](#p130)
 - ### [{{ Entities }}{{ 131 }}](#p131)
-- ### [{{ Companions }}{{ 132 }}](#p132)
-- #### [{{ Stats }}{{ 132 }}](#p132)
-- #### [{{ Companion death }}{{ 132 }}](#p132)
-- #### [{{ Rest }}{{ 132 }}](#p132)
-- #### [{{ Companion Skills }}{{ 132 }}](#p132)
-- ### [{{ Conditions }}{{ 134 }}](#p134)
-- ### [{{ Rest & Recovery }}{{ 135 }}](#p135)
-- #### [{{ Provisions }}{{ 135 }}](#p135)
-- #### [{{ How to recover }}{{ 135 }}](#p135)
-- #### [{{ Skipping a Rest }}{{ 135 }}](#p135)
-- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 136 }}](#p136)
-- ### [{{ Companions }}{{ 137 }}](#p137)
-- #### [{{ Stats }}{{ 137 }}](#p137)
-- #### [{{ Companion death }}{{ 137 }}](#p137)
-- #### [{{ Rest }}{{ 137 }}](#p137)
-- #### [{{ Companion Skills }}{{ 137 }}](#p137)
+- #### [{{ Treos }}{{ 131 }}](#p131)
+- #### [{{ Lyf }}{{ 131 }}](#p131)
+- #### [{{ Rosa Maria }}{{ 132 }}](#p132)
+- #### [{{ Odrel }}{{ 132 }}](#p132)
+- ### [{{ Companions }}{{ 133 }}](#p133)
+- #### [{{ Stats }}{{ 133 }}](#p133)
+- #### [{{ Companion death }}{{ 133 }}](#p133)
+- #### [{{ Rest }}{{ 133 }}](#p133)
+- #### [{{ Companion Skills }}{{ 133 }}](#p133)
+- ### [{{ Conditions }}{{ 135 }}](#p135)
+- ### [{{ Rest & Recovery }}{{ 136 }}](#p136)
+- #### [{{ Provisions }}{{ 136 }}](#p136)
+- #### [{{ How to recover }}{{ 136 }}](#p136)
+- #### [{{ Skipping a Rest }}{{ 136 }}](#p136)
+- #### [{{ Regra Opcional: Mantimentos automáticos }}{{ 137 }}](#p137)
+- ### [{{ Companions }}{{ 138 }}](#p138)
+- #### [{{ Stats }}{{ 138 }}](#p138)
+- #### [{{ Companion death }}{{ 138 }}](#p138)
+- #### [{{ Rest }}{{ 138 }}](#p138)
+- #### [{{ Companion Skills }}{{ 138 }}](#p138)
 }}
 
 {{pageNumber,auto}}
@@ -1313,7 +1317,6 @@ List of spells available for a  to learn.
 - [Bestow Curse](#p80)
 - [Blinding Smite](#p81)
 - [Clairvoyance](#p85)
-- [Conjure Barrage](#p87)
 - [Create Food and Water](#p88)
 - [Crusader's Mantle](#p89)
 - [Erupting Earth](#p94)
@@ -2643,7 +2646,7 @@ Grappling is a kind of melee attack. The target of your grapple must be no more 
 Manobras são tipos especiais de ataques corpo-a-corpo que podem ser executadas. Rolam para acerto como um ataque normal, mas em vez de dar dano, causam um efeito especial:
 
 ### Derrubar
-Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p134)). Esta queda normalmente não causa dano.
+Você deixa o alvo caído (Veja a condição de caído: [Conditions](#p135)). Esta queda normalmente não causa dano.
 
 ### Empurrar
 Você empurra a criatura 1 quadrado. Para cada 5 pontos de diferença entre o ataque e a defesa, você empurra o alvo mais 1 quadrado
@@ -3259,7 +3262,7 @@ Itens mundanos, não-mágicos e relativamente comuns, que mesmo assim ajudam mui
 
 ## Mantimento
 
-Ao realizar um descanso (Ver: [Rest & Recovery](#p135)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
+Ao realizar um descanso (Ver: [Rest & Recovery](#p136)), um personagem usa uma quantidade de mantimentos (comida e agua). Esses mantimentos são medidos e controlados não como rações individuais, mas com o seu valor total. Por exemplo, Rafiqi o bruxo saiu em sua viagem de perigrinação, levando consigo comida e agua equivalendo a 80 pratas (8 ouro). Ele ao longo da sua aventura vai usando seus mantimentos, e mecanicamente fazemos o controle disso levando com esse valor equivalente.
 
 Um aventureiro carregando seus mantimentos com si mesmo usa 1 espaço de inventário para cada 100 pratas equivalente de mantimentos.
 ## Comidas Especiais
@@ -3270,7 +3273,7 @@ Comer mantimentos preservados é ok, mas cadê a aventura nisso? cadê o prazer?
 ### Produzir uma **Comida Especial**
 A maioria das **Comidas Especiais** que existem não estão disponíveis em qualquer cidade (**Comidas Especiais** com nível maior que 3 raramente podem ser compradas), mas pra que comprar quando você tem as suas próprias mãos! Criar comidas especiais é um tipo particular de [Crafting](#p69) usando a perícia *cozinhar*. Fora as regras padrão, as seguintes diferenças são aplicadas para criação:
 
-- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p135), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
+- A tentativa de criar uma **Comida Especial** é feita durante um [Rest & Recovery](#p136), e um personagem só pode tentar cozinhar uma **Comida Especial** uma vez por descanso.
 - Os materiais necessários são mantimentos comuns (ver: [Rations (link not found)]()), mas para certos itens de alto nível o mestre pode requer que certos itens ou temperos especiais e raros sejam usados como parte dos materiais para uma **Comida Especial** (a critério do mestre).
 - Com a quantia necessária de materiais gastos, a rolagem de crafting é feita como normalmente, contra a CD do item a ser criado (12 + nível do item / 2).
 - Se o teste passar, uma porção da comida é produzida. Para cada 3 acima da CD, mais uma porção é produzida.
@@ -7463,12 +7466,144 @@ Toda entidade também tem bençãos próprias, que tem como prerequisito ser um 
 \page
 # Entities
 
-############ INVALID_LINK "null" ############
+## Treos
+God of Luck & Fate.
+### Values
+betting, leaving stuff to fate. YOLOing.
 
-############ INVALID_LINK "null" ############
-############ INVALID_LINK "null" ############
+### Hates
+being extra cautios. not trusting in luck. being angry when luck doesn't go your way.
 
-############ INVALID_LINK "null" ############
+### Miracles
+**Not this time**. 5FP, 2MP, reaction: Once per round, you can re-roll a save, attack or skill check made by a creature you can see.
+
+**Alea Jacta Est**. 1FP: Until the end of your turn, the next time you damage a creature, they take 1d2! + 1d4!. At levels 4, 6, 8, 10 you can pay an extra 1FP to add 1d6!, 1d8!, 1d10! and 1d12!, respectively, to the damage.
+
+**Fate's End**. 8FP: The next time you damage a creature this turn, add 1d4!!! to the damage.
+### Blessings
+**All or Nothing!** 2FP, before rolling damage: For your current damage roll, re-roll (and keep re-rolling) all dice that do not land on 1 or the dice's highest value. You can use this ability after the initial roll of the dice, for an extra 3FP.
+
+**Lucky**. 3FP, 1MP: reaction: you can target a creature you can see within short range of you, cause a save, attack or skill check they are making to be made with advantage. This must be called before the roll is made.
+
+**Unlucky**. 3FP, 1MP: reaction: you can target a creature you can see within short range of you, cause an attack or skill check they are making to be made with disadvantage. This must be called before the roll is made.
+
+
+## Lyf
+### Values
+not much, really.
+
+### Hates
+people "stealing it's food".
+
+### Miracles
+- [Toll the Dead](#p124) 1
+- [Infestation](#p103) 1
+- [Entangle](#p93) 2
+- [Infligir Ferimentos](#p103) 2
+- [Detect Poison and Disease](#p90) 2
+- [Casca da Cigarra](#p84) 2
+- [Abençoar Alimentos](#p76) 2
+- [Wither and Bloom](#p128) 3
+- [Vampiric Touch](#p125) 4
+- [Stinking Cloud](#p120) 4
+- [Hunger of Hadar](#p102) 4
+- [Gaseous Form](#p98) 4
+- [Feign Death](#p96) 4
+- [Bestow Curse](#p80) 4
+- [Life Transference](#p104) 4
+- [Espelho do Pântano](#p94) 4
+
+- [Contagion](#p87) 7
+
+**Offer**. 1minute (1PM): Rot a body and give it as food to lyf. Mold, insects and larvae eat away at it. Gain +4FP, +1HP.
+
+**Rot**. (As part of an attack, or Action) 2FP: you enhance your weapon with necrotic energy, or make a ranged spell attack (range: 8sqr). If you hit the attack, you deal 3d6 necrotic damage (or +2d6 if it was as part of an attack), and rot away at your opponents defense, giving them -1 Defense for the rest of the scene.
++1MP, +2FP: increase the damage by +2d6
+
+**Eat/Devorar**. 2FP. melee spell. PRE save
+if alive: 4d6 dmg, heal for half.
+if corpse: 4d6 healing.
+
+**Benção de Bael.** Ação (2FP, 1MP): Escolha uma aliado que você consegue ver em 10sqr. Ele recupera 3d4 HP. Você pode gastar +1FP e +1MP para aumentar a cura em 2d4.
+
+**Maldição de Zehbub.** Ação (2FP, 1MP): Escolha uma criatura com corpo orgânico que consegue ver em 10sqr. Um enxame de insetos começa a devorar o alvo vivo, causando 5d4 de dano. Você pode concentrar nesse milagre, causando 2d4 de dano adicional no início de cada um dos seus turnos.
+
+**Aura of Decay**. 3FP, 0MP. Enemies in the aura have -2 Defense, and allies deal an extra 2d4 necrotic damage on their first damaging ability in their turn. Pré-requisito: ser Spelgard.
+
+**Path of Mycelium/Caminho do Micélio**. Ação (4FP): Um portal de micélios se forma na sua frente, e ao passar por ele você sai em um portal equivalente que aparece em um ponto a sua escolha que possa ver em até 30sqr de distância do original.
+
+**Detonar Corpo.** Ação (5FP): Um cadaver a sua escolha em 18sqr é devorado de dentro pra fora por uma massa de vermes e bactérias. O cadaver incha com um buildup de ácido, gás, mana e outros resultados da digestão do corpo. O corpo explode, jorrando uma mistura escura e espessa em um raio de 2sqr. Todas as criaturas acertadas pela mistura recebem 6d6 dano necrótico, ou metade se passarem num teste de resistência de CON.
+
+
+
+### Blessings
+**Resistência Necrótica.** (Você recebe dano necrótico, veneno ou ácido) Reação (2 FP): Reduza o dano necrótico, de veneno ou ácido recebido {{pageNumber,auto}}
+\page
+{{}}pela metade. *Encantado e protegido pelo lorde das moscas, você já está acostumado com a maior força de decaimento.* 
+
+**Último Predador.** (Você ataca ou usa habilidade em uma criatura viva orgânica) Reação (2FP): Você tem vantagem em rolagens de ataque e o alvo tem desvantagem em testes de resistências desse ataque ou habilidade.
+
+
+
+## Rosa Maria
+
+### Values
+Pranks, plantas e descontração. Respeitar a flora, e ignorar sofrimento alheio. Risos de crianças e amor puro e inocente,
+
+### Hates
+Pessoas sérias e responsabilidade.
+
+### Miracles
+
+**Herbomancia: Nhac.** Ação (3FP, 2MP, concentração): Nasce uma planta piranha. Ela ataca um inimigo a sua escolha em 1sqr de alcance. A planta faz um ataque mágico usando seu atributo mágico +3 para acertar. Se acertar ela causa 3d6 de dano perfurante, e restringe o alvo (condição agarrado). O alvo pode usar uma ação maior em cada turno para realizar um teste de resistência de força (CD milagre) para tentar escapar. Nos seus turnos o alvo toma 3d8 de dano ácido. Se você perder concentração a planta morre e o alvo é solto.
+
+- [Summon Fey](#p120) 4
+- [Sleep](#p117) 2
+- [Speak with Plants](#p119) 4
+- [Plant Growth](#p111) 4
+- [Hypnotic Pattern](#p102) 4
+- [Antagonize](#p77) 4
+- [Tranquilidade](#p125) 2
+- [Vicious Mockery](#p126) 1
+- [Sugestion](#p120) 3
+
+- [Hideous Laughter](#p101) 2
+- [Healing Spirit](#p100) 3
+- [Goodberry](#p99) 2
+- [Enthrall](#p93) 3
+- [Enfeitiçar](#p92) 2
+- [Controlar Plantas](#p88) 2
+- [Charm Person](#p85) 2
+- [Canhão de Ervilha](#p83) 2
+- [Caminhos da Natureza](#p83) 2
+- [Barkskin](#p79) 3
+
+### Blessings
+
+**Voz de Fey.** Pode aplicar o seguinte aprimoramento para magias de #enchantment : "**+2 FP, +1 PM:** Aumente a CD dessa magia em 2". *O tom hipnótico que só aqueles familiares com os cantos e brincadeiras das fadas tem*
+
+**Aftercare.** Pode aplicar o seguinte aprimoramento para magias, milagres e habilidades de classe que curam: "**+2FP:** criaturas curadas também recebem \[seu atributo de milagre\] HP temporários."
+
+
+
+## Odrel
+God of commerce and travelers.
+
+### Values
+respecting trade and deals. respecting travelers and being kind to others. Haggling and bartering. Finding non-violent solution for problems
+
+### Hates
+stealing. attacking people without a clear reason. Breaking laws
+
+### Miracles
+**Chamar o Gerente**. (Ação) 4FP: Você chama ajuda do Odrel, que te da auxílio em alguma situação diplomática, ou para obter informação. Você ganha +10 em uma rolagem para convencer, mentir ou negociar, ou em uma rolagem para adquirir informação
+
+**NAME_HERE**. (Ação) 2FP, 10g: Um alvo em 15sqr de distância é acertado por um raio defensivo, tomando 3d10 de dano de energia. Você pode gastar +2FP e +15g para aumentar o dano em 2d10
+
+**NAME_HERE**. (reação) escudo
+
+**NAME_HERE**. Ação (3FP): Você consegue se comunicar com um interlocutor não-agressivo na língua nativa dele pela cena.
+
 
 
 
