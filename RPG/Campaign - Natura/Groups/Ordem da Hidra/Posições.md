@@ -1,17 +1,17 @@
 
 
-| Tipo      | Patente      | CR  | AC  | HP  | DC  | to hit | Avg. dpr | Max Circle | Ficha           |
-| --------- | ------------ | --- | --- | --- | --- | ------ | -------- | ---------- | --------------- |
+| Tipo      | Patente      | CR  | AC  | HP  | DC  | to hit | Avg. dpr | Max Circle | Ficha             |
+| --------- | ------------ | --- | --- | --- | --- | ------ | -------- | ---------- | ----------------- |
 | Caster    | Unha         | 2   | 15  | 45  | 12  | +4     | -        | 2          | [[Hidra, Caster]] |
-| Fighter   | Unha/Falange | 3   |     |     |     |        |          | -          |                 |
-| Bandido   | Unha         | 2   |     |     |     |        |          | -          |                 |
-| Assassino | Falange      | 4   |     |     |     |        |          | -          |                 |
-|           |              |     |     |     |     |        |          |            |                 |
-|           | Falange      | 4   |     |     |     |        |          |            |                 |
-|           | Dedo         | 6   |     |     |     |        |          |            |                 |
-|           | Mão          | 8   |     |     |     |        |          |            |                 |
-|           | Braço        | 10  |     |     |     |        |          |            |                 |
-|           |              |     |     |     |     |        |          |            |                 |
+| Fighter   | Unha/Falange | 3   |     |     |     |        |          | -          |                   |
+| Bandido   | Unha         | 2   |     |     |     |        |          | -          |                   |
+| Assassino | Falange      | 4   | 16  | 80  | 15  | +9     | 21       | 2          |                   |
+|           |              |     |     |     |     |        |          |            |                   |
+| Caster 2  | Falange      | 4   |     |     |     |        |          |            |                   |
+| Caster 3  | Dedo         | 6   | 16  | 160 | 18  | +10    | 53       | 3          |                   |
+|           | Mão          | 8   |     |     |     |        |          |            |                   |
+|           | Braço        | 10  |     |     |     |        |          |            |                   |
+|           |              |     |     |     |     |        |          |            |                   |
   
 ## Inventário
 Cada nível dentro da Ordem da Hidra tem uma quantidade e qualidade padrão de esqueletos que um membro desse nível tem. Existem ramos mais ricos (Ganância e Luxúria) e menos ricos (Gula e Inveja) que tem um inventário médio melhor ou melhor que os outros, mas de forma geral o inventário esperado de um membro da Ordem da Hidra é:
