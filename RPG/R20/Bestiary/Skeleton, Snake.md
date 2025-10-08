@@ -16,7 +16,7 @@ ___
 **Damage Vulnerabilities** :: Bludgeoning
 **Senses**               :: passive Perception 16
 **Languages**            :: 
-**Challenge**            :: 1/8
+**Challenge**            :: xx
 ___
 ***Marca da Praga.*** Ao tentar atacar um alvo, o esqueleto coloca 2 pontos de **Marca da Praga** no alvo se ele não passar em um teste de **CON (CD 18)**. Ataques contra o alvo tem **+1 acerto e dano** por Marca da Praga.
 
