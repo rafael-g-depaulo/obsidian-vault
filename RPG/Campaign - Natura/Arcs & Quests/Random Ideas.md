@@ -1,1 +1,2 @@
 - Stork skeleton carrying skeleton baby
+- Flaming skeleton ![[Pasted image 20251009121556.png]]
