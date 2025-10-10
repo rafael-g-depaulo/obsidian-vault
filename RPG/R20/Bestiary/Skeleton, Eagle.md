@@ -19,10 +19,13 @@ ___
 ___
 
 **Multiattack.** um ataque de bico e 1 de garras por turno.
-### Actions
-**Beak.** _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 10 (3d6) piercing damage.
 
-**Talons.** _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 15 (3d8+2) slashing damage.
+**Keen predator.** Dá 2d4 de dano a mais em um alvo que tenha uma **Marca do Caçador**.
+
+### Actions
+**Beak.** _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6+1) piercing damage.
+
+**Talons.** _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 11 (3d6) slashing damage.
 
 }}
 
