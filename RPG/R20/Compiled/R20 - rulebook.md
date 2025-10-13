@@ -7741,6 +7741,9 @@ If a character reaches 11th level of exhaustion, they die.
 ### Burning
 Burning targets take damage at the start of their turn and have disadvantage on concentration checks. Any creature can put out a burning creature by spending their action to pat them out (unless the burn effect specifies otherwise). By default, the burn damage is 1d6 per turn.
 
+### Abalado
+O personagem sofre –2 em testes de perícia. Se ficar abalado novamente, em vez disso fica Amedrontado.
+
 ### Amedrontado (Frightened)
 Uma criatura amedrontada tem:
 - desvantagem em rolagens em ações contra a fonte do medo
