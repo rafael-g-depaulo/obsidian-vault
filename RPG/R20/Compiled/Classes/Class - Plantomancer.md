@@ -547,7 +547,7 @@ Esta magia só pode ser lançada em uma área com vegetação. As plantas se enr
 - **Truque:** muda a área para alvo de 1 planta e a resistência para nenhuma. Em vez do normal, você pode fazer a planta se mover como se fosse animada. Ela não pode causar dano ou atrapalhar a concentração de um conjurador..
 
 ### Create Food and Water (3 MP)
-<div class="spell-tags">water nature creation arcane</div>
+<div class="spell-tags">nature arcane</div>
 
 *3rd Circle*
 - **Execução:** Action
