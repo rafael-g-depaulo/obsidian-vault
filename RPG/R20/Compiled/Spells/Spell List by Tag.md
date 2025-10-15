@@ -529,7 +529,6 @@
 - [[Casca da Cigarra]]
 ### 3rd Circle
 - [[Life Transference]]
-- [[Summon Undead]]
 
 ## Necrotic Spells
 ### Cantrip
@@ -797,7 +796,6 @@
 - [[Espelho do Pântano]]
 - [[Hunger of Hadar]]
 - [[Soco de Arsenal]]
-- [[Summon Undead]]
 
 ## Thaumaturgy Spells
 ### Cantrip
