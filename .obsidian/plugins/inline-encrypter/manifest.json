@@ -1,10 +1,13 @@
 {
 	"id": "inline-encrypter",
 	"name": "Inline Encrypter",
-	"version": "1.0.4",
+	"version": "1.1.8",
 	"minAppVersion": "1.1.1",
 	"description": "Encrypt secrets in your notes.",
 	"author": "Alexander Cheryomukhin",
 	"authorUrl": "https://github.com/solargate",
+	"fundingUrl": {
+		"Donations": "https://github.com/solargate/obsidian-inline-encrypter/blob/master/DONATIONS.md"
+	},
 	"isDesktopOnly": false
 }

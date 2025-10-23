@@ -27,74 +27,135 @@ __export(main_exports, {
   default: () => InlineEncrypterPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian3 = require("obsidian");
+var import_obsidian6 = require("obsidian");
+
+// src/Settings.ts
+var import_obsidian = require("obsidian");
+
+// src/Globals.ts
+var State = { passwordGlobal: "", passwordRemember: false };
+function saveStatePasswordGlobal(value) {
+  State.passwordGlobal = value;
+}
+function saveStatePasswordRemember(value) {
+  State.passwordRemember = value;
+}
+
+// src/Settings.ts
+var DEFAULT_SETTINGS = {
+  autoCopy: false,
+  rememberPassword: false
+};
+var InlineEncrypterSettingTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    new import_obsidian.Setting(containerEl).setName("Auto copy secret to clipboard").setDesc("Copy secret to clipboard automatically").addToggle(
+      (toggle) => toggle.setValue(this.plugin.settings.autoCopy).onChange(async (value) => {
+        this.plugin.settings.autoCopy = value;
+        await this.plugin.saveSettings();
+        this.display();
+      })
+    );
+    new import_obsidian.Setting(containerEl).setName("Remember password until session restarts").setDesc("Remember correct password until Obsidian session restarts").addToggle(
+      (toggle) => toggle.setValue(this.plugin.settings.rememberPassword).onChange(async (value) => {
+        this.plugin.settings.rememberPassword = value;
+        if (value === false) {
+          saveStatePasswordGlobal("");
+        }
+        saveStatePasswordRemember(value);
+        await this.plugin.saveSettings();
+        this.display();
+      })
+    );
+  }
+};
 
 // src/ModalPassword.ts
-var import_obsidian = require("obsidian");
-var ModalPassword = class extends import_obsidian.Modal {
-  constructor(app) {
+var import_obsidian2 = require("obsidian");
+
+// src/Constants.ts
+var ENCRYPTED_CODE_PREFIX = "secret";
+
+// src/ModalPassword.ts
+var ModalPassword = class extends import_obsidian2.Modal {
+  constructor(app, textType) {
     super(app);
+    this.password = State.passwordGlobal;
+    this.input = "";
+    this.textType = textType;
   }
   onOpen() {
+    if (State.passwordGlobal.length > 0 && State.passwordRemember && this.textType != 1 /* PreEncrypted */) {
+      this.passwordOk();
+    }
     const { contentEl } = this;
-    contentEl.createEl("h1", { text: "Enter password" });
-    new import_obsidian.Setting(contentEl).setName("Password").addText((text) => {
+    let textArea;
+    if (this.textType === 1 /* PreEncrypted */) {
+      contentEl.createEl("h1", { text: "Enter password and text for encryption" });
+    } else {
+      contentEl.createEl("h1", { text: "Enter password" });
+    }
+    new import_obsidian2.Setting(contentEl).setName("Password").addText((text) => {
       text.inputEl.type = "password";
+      if (State.passwordGlobal.length > 0 && State.passwordRemember) {
+        text.inputEl.value = State.passwordGlobal;
+      }
+      text.inputEl.addEventListener("keypress", (event) => {
+        if (event.key === "Enter") {
+          this.passwordOk();
+        }
+      });
       text.onChange((value) => this.password = value);
     });
-    new import_obsidian.Setting(contentEl).addButton((btn) => btn.setButtonText("OK").setCta().onClick(() => {
-      this.isPassword = true;
-      this.close();
+    new import_obsidian2.Setting(contentEl).setName("Show password").addToggle(
+      (toggle) => toggle.setValue(false).onChange((value) => {
+        const input = this.contentEl.querySelector("input");
+        if (input) {
+          input.type = value ? "text" : "password";
+        }
+      })
+    );
+    if (this.textType === 1 /* PreEncrypted */) {
+      contentEl.classList.add("inline-encrypter-encrypt-text-modal");
+      new import_obsidian2.Setting(contentEl).setName("Text to encrypt").addTextArea((cb) => {
+        textArea = cb;
+        cb.setValue(this.input);
+        cb.inputEl.readOnly = false;
+        cb.inputEl.cols = 30;
+        cb.inputEl.rows = 8;
+      });
+    }
+    new import_obsidian2.Setting(contentEl).addButton((btn) => btn.setButtonText("OK").setCta().onClick(() => {
+      if (this.textType === 1 /* PreEncrypted */) {
+        this.input = textArea.getValue();
+      }
+      this.passwordOk();
     }));
   }
   onClose() {
     const { contentEl } = this;
     contentEl.empty();
   }
-};
-
-// src/ModalDecrypt.ts
-var import_obsidian2 = require("obsidian");
-var ModalDecrypt = class extends import_obsidian2.Modal {
-  constructor(app, text = "") {
-    super(app);
-    this.text = text;
-  }
-  onOpen() {
-    var _a;
-    const { contentEl } = this;
-    contentEl.empty();
-    contentEl.classList.add("inline-encrypter-decrypt-modal");
-    contentEl.createEl("h1", { text: "Decrypted secret" });
-    let textArea;
-    const textVal = new import_obsidian2.Setting(contentEl).addTextArea((cb) => {
-      textArea = cb;
-      cb.setValue(this.text);
-      cb.inputEl.setSelectionRange(0, 0);
-      cb.inputEl.readOnly = true;
-      cb.inputEl.rows = 10;
-    });
-    (_a = textVal.settingEl.querySelector(".setting-item-info")) == null ? void 0 : _a.remove();
-    const buttons = new import_obsidian2.Setting(contentEl);
-    buttons.addButton((cb) => {
-      cb.setButtonText("Copy to clipboard").onClick((evt) => {
-        navigator.clipboard.writeText(textArea.getValue());
-        new import_obsidian2.Notice("Secret copied");
-      });
-    });
-  }
-  onClose() {
-    const { contentEl } = this;
-    contentEl.empty();
+  passwordOk() {
+    this.isPassword = true;
+    if (State.passwordRemember) {
+      saveStatePasswordGlobal(this.password);
+    }
+    this.close();
   }
 };
 
 // src/CryptoFactory.ts
 var CryptoFactory = class {
-  constructor(vectorSize, saltSize, iterations) {
-    this.vectorSize = vectorSize;
-    this.saltSize = saltSize;
-    this.iterations = iterations;
+  constructor() {
+    this.vectorSize = 16;
+    this.saltSize = 16;
+    this.iterations = 262144;
   }
   convertArrayToString(bytes) {
     let result = "";
@@ -197,22 +258,192 @@ var CryptoFactory = class {
   }
 };
 
-// src/Constants.ts
-var ENCRYPTED_CODE_PREFIX = "secret ";
+// src/UiHelper.ts
+var import_obsidian4 = require("obsidian");
+
+// src/ModalDecrypt.ts
+var import_obsidian3 = require("obsidian");
+var ModalDecrypt = class extends import_obsidian3.Modal {
+  constructor(app, text = "", autoCopy) {
+    super(app);
+    this.text = text;
+    this.autoCopy = autoCopy;
+  }
+  onOpen() {
+    var _a;
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.classList.add("inline-encrypter-decrypt-modal");
+    contentEl.createEl("h1", { text: "Decrypted secret" });
+    let textArea;
+    const textVal = new import_obsidian3.Setting(contentEl).addTextArea((cb) => {
+      textArea = cb;
+      cb.setValue(this.text);
+      cb.inputEl.setSelectionRange(0, 0);
+      cb.inputEl.readOnly = true;
+      cb.inputEl.cols = 50;
+      cb.inputEl.rows = 10;
+      if (this.autoCopy == true) {
+        navigator.clipboard.writeText(textArea.getValue());
+        new import_obsidian3.Notice("Secret copied");
+      }
+    });
+    (_a = textVal.settingEl.querySelector(".setting-item-info")) == null ? void 0 : _a.remove();
+    const buttons = new import_obsidian3.Setting(contentEl);
+    buttons.addButton((cb) => {
+      cb.setButtonText("Copy to clipboard").onClick((evt) => {
+        navigator.clipboard.writeText(textArea.getValue());
+        new import_obsidian3.Notice("Secret copied");
+      });
+    });
+  }
+  onClose() {
+    const { contentEl } = this;
+    contentEl.empty();
+  }
+};
+
+// src/UiHelper.ts
+var UiHelper = class {
+  handleDecryptClick(app, plugin, event, input) {
+    event.preventDefault();
+    const cryptoFactory = new CryptoFactory();
+    const passModal = new ModalPassword(app, 0 /* Inline */);
+    passModal.onClose = async () => {
+      if (!passModal.isPassword) {
+        return;
+      }
+      input = input.replace(ENCRYPTED_CODE_PREFIX, "").replace(/`/g, "").replace(/\s/g, "").replace(/\r?\n|\r/g, "");
+      const output = await cryptoFactory.decryptFromBase64(input, passModal.password);
+      if (output === null) {
+        new import_obsidian4.Notice("\u274C Decryption failed!");
+        saveStatePasswordGlobal("");
+        return;
+      } else {
+        new ModalDecrypt(app, output, plugin.settings.autoCopy).open();
+      }
+    };
+    passModal.open();
+  }
+  selectionAndRangeOverlap(selection, rangeFrom, rangeTo) {
+    for (const range of selection.ranges) {
+      if (range.from <= rangeTo && range.to >= rangeFrom) {
+        return true;
+      }
+    }
+    return false;
+  }
+};
+
+// src/LivePreviewExtension.ts
+var import_obsidian5 = require("obsidian");
+var import_view2 = require("@codemirror/view");
+var import_state = require("@codemirror/state");
+var import_language = require("@codemirror/language");
+
+// src/InlineWidget.ts
+var import_view = require("@codemirror/view");
+var InlineWidget = class extends import_view.WidgetType {
+  constructor(app, plugin, value) {
+    super();
+    this.app = app;
+    this.value = value;
+    this.plugin = plugin;
+  }
+  toDOM(view) {
+    const uiHelper = new UiHelper();
+    const div = document.createElement("div");
+    div.addClass("inline-encrypter-lp-code");
+    const a = div.createEl("a");
+    a.addClass("inline-encrypter-code");
+    a.onClickEvent((event) => uiHelper.handleDecryptClick(this.app, this.plugin, event, this.value));
+    return div;
+  }
+};
+
+// src/LivePreviewExtension.ts
+var livePreviewExtension = (app, plugin) => import_view2.ViewPlugin.fromClass(
+  class {
+    constructor(view) {
+      this.decorations = this.buildDecorations(view);
+    }
+    update(update) {
+      if (!update.state.field(import_obsidian5.editorLivePreviewField)) {
+        this.decorations = import_view2.Decoration.none;
+        return;
+      }
+      if (update.docChanged || update.viewportChanged || update.selectionSet) {
+        this.decorations = this.buildDecorations(update.view);
+      }
+    }
+    destroy() {
+    }
+    buildDecorations(view) {
+      if (!view.state.field(import_obsidian5.editorLivePreviewField)) return import_view2.Decoration.none;
+      const uiHelper = new UiHelper();
+      const builder = new import_state.RangeSetBuilder();
+      const selection = view.state.selection;
+      for (const { from, to } of view.visibleRanges) {
+        (0, import_language.syntaxTree)(view.state).iterate({
+          from,
+          to,
+          enter(node) {
+            if (node.type.name.startsWith("inline-code")) {
+              const value = view.state.doc.sliceString(node.from, node.to);
+              const isEncrypted = value.indexOf(ENCRYPTED_CODE_PREFIX) === 0;
+              if (isEncrypted) {
+                if (!uiHelper.selectionAndRangeOverlap(selection, node.from - 1, node.to + 1)) {
+                  builder.add(
+                    node.from,
+                    node.to,
+                    import_view2.Decoration.replace({
+                      widget: new InlineWidget(app, plugin, value)
+                    })
+                  );
+                }
+              }
+            }
+          }
+        });
+      }
+      return builder.finish();
+    }
+  },
+  {
+    decorations: (instance) => instance.decorations
+  }
+);
 
 // src/main.ts
-var InlineEncrypterPlugin = class extends import_obsidian3.Plugin {
+var InlineEncrypterPlugin = class extends import_obsidian6.Plugin {
   constructor() {
     super(...arguments);
-    this.cryptoFactory = new CryptoFactory(16, 16, 262144);
+    this.cryptoFactory = new CryptoFactory();
   }
   async onload() {
-    this.registerMarkdownPostProcessor((el, ctx) => this.processEncryptedCodeBlockProcessor(el, ctx));
+    await this.loadSettings();
+    this.addSettingTab(new InlineEncrypterSettingTab(this.app, this));
+    saveStatePasswordRemember(this.settings.rememberPassword);
+    this.registerMarkdownPostProcessor((el, ctx) => this.processEncryptedInlineCodeBlockProcessor(el, ctx));
+    this.registerMarkdownCodeBlockProcessor(ENCRYPTED_CODE_PREFIX, (source, el, ctx) => this.processEncryptedCodeBlockProcessor(source, el, ctx));
+    this.registerEditorExtension(livePreviewExtension(this.app, this));
     this.addCommand({
       id: "encrypt",
       name: "Encrypt selected text",
       icon: "lock",
-      editorCallback: (editor, view) => this.processInlineEncryptCommand(editor)
+      editorCallback: (editor, view) => this.processInlineEncryptCommand(editor, 0 /* Inline */, 0 /* Inline */)
+    });
+    this.addCommand({
+      id: "encrypt-code",
+      name: "Encrypt selected text as code block",
+      icon: "lock",
+      editorCallback: (editor, view) => this.processInlineEncryptCommand(editor, 1 /* Common */, 0 /* Inline */)
+    });
+    this.addCommand({
+      id: "encrypt-pre",
+      name: "Insert pre-encrypted text",
+      icon: "lock",
+      editorCallback: (editor, view) => this.processInlineEncryptCommand(editor, 0 /* Inline */, 1 /* PreEncrypted */)
     });
     this.addCommand({
       id: "decrypt",
@@ -225,75 +456,107 @@ var InlineEncrypterPlugin = class extends import_obsidian3.Plugin {
   onunload() {
     console.log("Inline Encrypter plugin unloaded");
   }
-  async processInlineEncryptCommand(editor) {
-    if (editor.somethingSelected()) {
-      const input = editor.getSelection();
-      const passModal = new ModalPassword(this.app);
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+  }
+  async saveSettings() {
+    await this.saveData(this.settings);
+  }
+  async processInlineEncryptCommand(editor, codeBlockType, textType) {
+    if (textType === 0 /* Inline */) {
+      if (editor.somethingSelected()) {
+        const input = editor.getSelection();
+        const passModal = new ModalPassword(this.app, textType);
+        passModal.onClose = async () => {
+          if (!passModal.isPassword) {
+            return;
+          }
+          const output = await this.cryptoFactory.encryptToBase64(input, passModal.password);
+          if (codeBlockType === 0 /* Inline */) {
+            editor.replaceSelection("`" + ENCRYPTED_CODE_PREFIX + " " + output + "`");
+          }
+          if (codeBlockType === 1 /* Common */) {
+            editor.replaceSelection("```" + ENCRYPTED_CODE_PREFIX + "\n" + output + "\n```");
+          }
+          if (passModal.password.length === 0) {
+            new import_obsidian6.Notice("\u26A0\uFE0F Password is empty");
+          }
+          new import_obsidian6.Notice("\u2705 Text encrypted");
+        };
+        passModal.open();
+      } else {
+        new import_obsidian6.Notice("\u274C No selected text for encryption");
+      }
+    }
+    if (textType === 1 /* PreEncrypted */) {
+      const passModal = new ModalPassword(this.app, textType);
       passModal.onClose = async () => {
-        if (!passModal.isPassword) {
-          return;
+        const input = passModal.input;
+        if (input.length > 0) {
+          if (!passModal.isPassword) {
+            return;
+          }
+          const output = await this.cryptoFactory.encryptToBase64(input, passModal.password);
+          if (codeBlockType === 0 /* Inline */) {
+            editor.replaceSelection("`" + ENCRYPTED_CODE_PREFIX + " " + output + "`");
+          }
+          if (codeBlockType === 1 /* Common */) {
+            editor.replaceSelection("```" + ENCRYPTED_CODE_PREFIX + "\n" + output + "\n```");
+          }
+          if (passModal.password.length === 0) {
+            new import_obsidian6.Notice("\u26A0\uFE0F Password is empty");
+          }
+          new import_obsidian6.Notice("\u2705 Text encrypted");
+        } else {
+          new import_obsidian6.Notice("\u274C No text for encryption");
         }
-        const output = await this.cryptoFactory.encryptToBase64(input, passModal.password);
-        editor.replaceSelection("`" + ENCRYPTED_CODE_PREFIX + output + "`");
-        new import_obsidian3.Notice("\u2705 Text encrypted");
       };
       passModal.open();
-    } else {
-      new import_obsidian3.Notice("\u274C No selected text for encryption");
     }
   }
   async processInlineDecryptCommand(editor) {
     if (editor.somethingSelected()) {
       let input = editor.getSelection();
-      const passModal = new ModalPassword(this.app);
+      const passModal = new ModalPassword(this.app, 0 /* Inline */);
       passModal.onClose = async () => {
         if (!passModal.isPassword) {
           return;
         }
-        input = input.replace("`", "").replace(ENCRYPTED_CODE_PREFIX, "").replace("`", "");
+        input = input.replace(ENCRYPTED_CODE_PREFIX, "").replace(/`/g, "").replace(/\s/g, "").replace(/\r?\n|\r/g, "");
         const output = await this.cryptoFactory.decryptFromBase64(input, passModal.password);
         if (output === null) {
-          new import_obsidian3.Notice("\u274C Decryption failed!");
+          new import_obsidian6.Notice("\u274C Decryption failed!");
+          saveStatePasswordGlobal("");
           return;
         } else {
           editor.replaceSelection(output);
-          new import_obsidian3.Notice("\u2705 Text decrypted");
+          new import_obsidian6.Notice("\u2705 Text decrypted");
         }
       };
       passModal.open();
     } else {
-      new import_obsidian3.Notice("\u274C No selected text for decryption");
+      new import_obsidian6.Notice("\u274C No selected text for decryption");
     }
   }
-  processEncryptedCodeBlockProcessor(el, ctx) {
+  processEncryptedInlineCodeBlockProcessor(el, ctx) {
     const codeblocks = el.querySelectorAll("code");
     for (let i = 0; i < codeblocks.length; i++) {
       const codeblock = codeblocks.item(i);
       const text = codeblock.innerText.trim();
       const isEncrypted = text.indexOf(ENCRYPTED_CODE_PREFIX) === 0;
       if (isEncrypted) {
+        const uiHelper = new UiHelper();
         codeblock.innerText = "";
         codeblock.createEl("a", { cls: "inline-encrypter-code" });
-        codeblock.onClickEvent((event) => this.handleDecryptClick(event, text));
+        codeblock.onClickEvent((event) => uiHelper.handleDecryptClick(this.app, this, event, text));
       }
     }
   }
-  handleDecryptClick(event, input) {
-    event.preventDefault();
-    const passModal = new ModalPassword(this.app);
-    passModal.onClose = async () => {
-      if (!passModal.isPassword) {
-        return;
-      }
-      input = input.replace(ENCRYPTED_CODE_PREFIX, "");
-      const output = await this.cryptoFactory.decryptFromBase64(input, passModal.password);
-      if (output === null) {
-        new import_obsidian3.Notice("\u274C Decryption failed!");
-        return;
-      } else {
-        new ModalDecrypt(this.app, output).open();
-      }
-    };
-    passModal.open();
+  processEncryptedCodeBlockProcessor(source, el, ctx) {
+    const uiHelper = new UiHelper();
+    const codeblock = el.createEl("a", { cls: "inline-encrypter-code" });
+    codeblock.onClickEvent((event) => uiHelper.handleDecryptClick(this.app, this, event, source));
   }
 };
+
+/* nosourcemap */

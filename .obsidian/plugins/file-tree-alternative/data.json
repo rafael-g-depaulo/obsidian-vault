@@ -8,6 +8,8 @@
   "showFilesFromSubFoldersButton": true,
   "revealActiveFileButton": true,
   "excludedExtensions": "",
+  "hideAttachments": false,
+  "attachmentsFolderName": "attachments",
   "folderIcon": "default",
   "folderCount": true,
   "folderCountOption": "notes",

@@ -3,5 +3,6 @@
     "eng",
     "por"
   ],
-  "rightClickMenu": true
+  "rightClickMenu": true,
+  "useSystemOCR": false
 }

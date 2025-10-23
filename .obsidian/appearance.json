@@ -5,5 +5,7 @@
   "textFontFamily": "fira code",
   "accentColor": "",
   "cssTheme": "Dracula Official",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true
 }
