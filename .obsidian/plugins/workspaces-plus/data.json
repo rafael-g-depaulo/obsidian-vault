@@ -1,0 +1,53 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": true,
+  "workspaceSettings": true,
+  "systemDarkMode": false,
+  "globalSettings": {
+    "baseFontSize": 14,
+    "translucency": true,
+    "interfaceFontFamily": "",
+    "textFontFamily": "fira code",
+    "accentColor": "",
+    "cssTheme": "Dracula Official",
+    "theme": "obsidian",
+    "showViewHeader": true,
+    "showRibbon": true,
+    "legacyEditor": false,
+    "livePreview": true,
+    "promptDelete": false,
+    "showUnsupportedFiles": true,
+    "foldHeading": true,
+    "foldIndent": true,
+    "spellcheck": true,
+    "tabSize": 2,
+    "alwaysUpdateLinks": true,
+    "fileSortOrder": "alphabetical",
+    "readableLineLength": false,
+    "newFileLocation": "current",
+    "showLineNumber": true,
+    "attachmentFolderPath": "./attachments",
+    "vimMode": false,
+    "spellcheckLanguages": null,
+    "userIgnoreFilters": [
+      "RPG/R20/Compiled/"
+    ],
+    "pdfExportSettings": {
+      "includeName": true,
+      "pageSize": "A4",
+      "landscape": false,
+      "margin": "0",
+      "downscalePercent": 70
+    },
+    "propertiesInDocument": "source",
+    "rightToLeft": false
+  },
+  "activeWorkspaceDesktop": "daily",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": true,
+  "workspaceSwitcherRibbon": false,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": true
+}
