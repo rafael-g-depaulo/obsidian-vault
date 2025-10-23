@@ -3,7 +3,9 @@
   "translucency": true,
   "interfaceFontFamily": "",
   "textFontFamily": "fira code",
-  "accentColor": "",
+  "accentColor": "#86a027",
   "cssTheme": "Dracula Official",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": false
 }
