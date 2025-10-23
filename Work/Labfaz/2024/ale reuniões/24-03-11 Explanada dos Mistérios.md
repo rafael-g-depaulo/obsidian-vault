@@ -1,0 +1,1 @@
+Orientei ela sobre a conversa feita antes [[24-03-08 Explanada dos mistérios]]

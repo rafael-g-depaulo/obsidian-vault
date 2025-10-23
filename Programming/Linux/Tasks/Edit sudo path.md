@@ -1,0 +1,1 @@
+https://superuser.com/questions/927512/how-to-set-path-for-sudo-commands
