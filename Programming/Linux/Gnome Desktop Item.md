@@ -1,1 +1,0 @@
-[usefull SO question](https://unix.stackexchange.com/questions/103213/how-can-i-add-an-application-to-the-gnome-application-menu)

@@ -1,1 +1,0 @@
-For a long time i have used [LazyVim](https://www.lazyvim.org/installation), but as of 23-08-31, i started using [AstroNvim](https://astronvim.com/#%EF%B8%8F-installation)

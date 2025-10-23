@@ -1,1 +1,0 @@
-just disable fast-boot and properly shut down windows as described [here](https://ostechnix.com/fix-ntfs-partition-is-in-an-unsafe-state-error-in-linux/)

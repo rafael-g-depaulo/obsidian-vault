@@ -1,1 +1,0 @@
-according to [this answer on SO](https://askubuntu.com/questions/6016/how-to-set-monday-as-the-first-day-of-the-week-in-gnome-2-calendar-applet) you just need to edit the `/etc/default/locale` file.
