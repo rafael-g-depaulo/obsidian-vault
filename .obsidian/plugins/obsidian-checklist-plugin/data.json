@@ -12,5 +12,7 @@
   "includeFiles": "",
   "lookAndFeel": "classic",
   "_collapsedSections": [],
-  "_hiddenTags": []
+  "_hiddenTags": [
+    "todo"
+  ]
 }

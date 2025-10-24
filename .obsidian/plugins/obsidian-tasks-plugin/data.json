@@ -10,7 +10,7 @@
     "hide_everything": "# Hide everything except description and any tags\npreset hide_date_fields\npreset hide_non_date_fields\npreset hide_query_elements"
   },
   "globalQuery": "",
-  "globalFilter": "#task",
+  "globalFilter": "",
   "removeGlobalFilter": true,
   "taskFormat": "tasksPluginEmoji",
   "setCreatedDate": true,
@@ -44,53 +44,32 @@
     ],
     "customStatuses": [
       {
-        "symbol": "/",
-        "name": "In Progress",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": true,
-        "type": "IN_PROGRESS"
-      },
-      {
-        "symbol": "-",
-        "name": "Cancelled",
-        "nextStatusSymbol": " ",
-        "availableAsCommand": true,
-        "type": "CANCELLED"
-      },
-      {
         "symbol": " ",
-        "name": "incomplete",
+        "name": "Unchecked",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
         "symbol": "x",
-        "name": "complete / done",
+        "name": "Checked",
         "nextStatusSymbol": " ",
         "availableAsCommand": false,
         "type": "DONE"
       },
       {
-        "symbol": "-",
-        "name": "cancelled",
-        "nextStatusSymbol": " ",
-        "availableAsCommand": false,
-        "type": "CANCELLED"
-      },
-      {
         "symbol": ">",
-        "name": "deferred",
+        "name": "Rescheduled",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "/",
-        "name": "in progress, or half-done",
+        "symbol": "<",
+        "name": "Scheduled",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
-        "type": "IN_PROGRESS"
+        "type": "TODO"
       },
       {
         "symbol": "!",
@@ -100,92 +79,120 @@
         "type": "TODO"
       },
       {
+        "symbol": "-",
+        "name": "Cancelled",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "CANCELLED"
+      },
+      {
+        "symbol": "/",
+        "name": "In Progress",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
+      },
+      {
         "symbol": "?",
-        "name": "question",
+        "name": "Question",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "R",
-        "name": "review",
+        "symbol": "*",
+        "name": "Star",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "+",
-        "name": "Inbox / task that should be processed later",
+        "symbol": "n",
+        "name": "Note",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "b",
-        "name": "bookmark",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "TODO"
-      },
-      {
-        "symbol": "B",
-        "name": "brainstorm",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "TODO"
-      },
-      {
-        "symbol": "D",
-        "name": "deferred or scheduled",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "TODO"
-      },
-      {
-        "symbol": "I",
-        "name": "Info",
+        "symbol": "l",
+        "name": "Location",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
         "symbol": "i",
-        "name": "idea",
+        "name": "Information",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "N",
-        "name": "note",
+        "symbol": "I",
+        "name": "Idea",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "Q",
-        "name": "quote",
+        "symbol": "S",
+        "name": "Amount",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "W",
-        "name": "win / success / reward",
+        "symbol": "p",
+        "name": "Pro",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "P",
-        "name": "pro",
+        "symbol": "c",
+        "name": "Con",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
       },
       {
-        "symbol": "C",
-        "name": "con",
+        "symbol": "b",
+        "name": "Bookmark",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "f",
+        "name": "Fire",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "k",
+        "name": "Key",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "w",
+        "name": "Win",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "u",
+        "name": "Up",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "d",
+        "name": "Down",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
