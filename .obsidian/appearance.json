@@ -8,9 +8,5 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
-  "enabledCssSnippets": [
-    "LYT-Mode-obsidian",
-    "LYT-Mode-theme",
-    "LYT-Mode-publish"
-  ]
+  "enabledCssSnippets": []
 }
