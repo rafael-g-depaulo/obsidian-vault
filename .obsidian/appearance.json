@@ -7,5 +7,10 @@
   "cssTheme": "Dracula Official",
   "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "LYT-Mode-obsidian",
+    "LYT-Mode-theme",
+    "LYT-Mode-publish"
+  ]
 }
