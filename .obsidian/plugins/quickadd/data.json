@@ -7,7 +7,7 @@
       "command": false,
       "appendLink": false,
       "captureTo": "",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
@@ -30,13 +30,76 @@
         "direction": "below"
       },
       "prepend": false,
-      "task": false,
+      "task": true,
       "openFile": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
         "mode": "default",
         "focus": true
+      }
+    },
+    {
+      "id": "fb43dd5b-d99b-47aa-bb74-9f329be38140",
+      "name": "ff",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "ff",
+        "id": "816e9c7d-1a39-49a0-9f3b-6d9dcc1aedf2",
+        "commands": [
+          {
+            "name": "Select active line",
+            "type": "EditorCommand",
+            "id": "104ae9a4-8f16-4343-996c-a096d615f164",
+            "editorCommandType": "Select active line"
+          },
+          {
+            "name": "tttt",
+            "type": "NestedChoice",
+            "id": "edb3c88b-7245-46bf-9775-336abcf7a191",
+            "choice": {
+              "id": "69a11f20-1e58-4c89-825b-185d48367be9",
+              "name": "tttt",
+              "type": "Capture",
+              "command": false,
+              "appendLink": false,
+              "captureTo": "",
+              "captureToActiveFile": true,
+              "createFileIfItDoesntExist": {
+                "enabled": false,
+                "createWithTemplate": false,
+                "template": ""
+              },
+              "format": {
+                "enabled": true,
+                "format": "- [ ] {{selected}}"
+              },
+              "insertAfter": {
+                "enabled": false,
+                "after": "",
+                "insertAtEnd": false,
+                "considerSubsections": false,
+                "createIfNotFound": false,
+                "createIfNotFoundLocation": "top"
+              },
+              "newLineCapture": {
+                "enabled": false,
+                "direction": "below"
+              },
+              "prepend": false,
+              "task": true,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              }
+            }
+          }
+        ]
       }
     }
   ],
