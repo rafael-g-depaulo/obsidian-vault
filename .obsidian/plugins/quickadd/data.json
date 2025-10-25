@@ -41,12 +41,12 @@
     },
     {
       "id": "fb43dd5b-d99b-47aa-bb74-9f329be38140",
-      "name": "ff",
+      "name": "Cycle task status",
       "type": "Macro",
       "command": true,
       "runOnStartup": false,
       "macro": {
-        "name": "ff",
+        "name": "Cycle task status",
         "id": "816e9c7d-1a39-49a0-9f3b-6d9dcc1aedf2",
         "commands": [
           {
@@ -73,6 +73,7 @@
               "name": "print task",
               "type": "Capture",
               "command": false,
+              "onePageInput": "never",
               "appendLink": false,
               "captureTo": "",
               "captureToActiveFile": true,
@@ -83,7 +84,7 @@
               },
               "format": {
                 "enabled": true,
-                "format": "{{value:test123}}"
+                "format": "- [{{value:nextStatus}}] {{value:task}}"
               },
               "insertAfter": {
                 "enabled": false,
@@ -121,7 +122,7 @@
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
-  "showCaptureNotification": true,
+  "showCaptureNotification": false,
   "showInputCancellationNotification": false,
   "enableTemplatePropertyTypes": false,
   "ai": {

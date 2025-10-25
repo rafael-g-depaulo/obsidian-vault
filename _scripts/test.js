@@ -10,10 +10,21 @@ const script = async (params, settings) => {
 
   variables.selection = selection
 
-  const taskRegex = /-\[(<status>?:.)\] (<task>?:.*)/
+  const taskRegex = /-\s*\[(?<status>.)\]\s*(?<task>.*)/
 
-  variables.result = taskRegex.exec(variables.selection)
-  variables.test123 = JSON.stringify(variables)
+  if (!taskRegex.test(selection)) return
+
+  const { status, task } = taskRegex.exec(variables.selection).groups ?? {}
+
+  const validStatuses = settings["Available Statuses"].split(',')
+  const statusId = validStatuses.findIndex(s => s === status)
+  const nextStatusId = (statusId + 1) % validStatuses.length
+
+  // variables.statusId = statusId
+  // variables.nextStatusId = nextStatusId
+  // variables.status = status
+  variables.nextStatus = validStatuses[nextStatusId]
+  variables.task = task
 }
 
 module.exports = {
