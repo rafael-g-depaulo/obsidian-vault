@@ -34,12 +34,11 @@
   "cycle-through-panes",
   "tabout",
   "obsidian-tasks-plugin",
-  "workspaces-plus",
   "obsidian-image-toolkit",
-  "cmdr",
   "table-editor-obsidian",
   "obsidian-annotator",
   "obsidian42-brat",
-  "obsidian-tasks-x-plugin",
-  "quickadd"
+  "quickadd",
+  "cmdr",
+  "workspaces-plus"
 ]

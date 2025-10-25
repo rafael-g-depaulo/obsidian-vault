@@ -1,18 +1,10 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [
-    {
-      "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "pencil",
-      "name": "Tasks: Create or edit task",
-      "mode": "c8d8ca65e653306c",
-      "color": "#eb0000"
-    }
-  ],
+  "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -38,13 +30,14 @@
       "Omnisearch",
       "New encrypted note",
       "Convert to or from an Encrypted note",
-      "File Tree Alternative Plugin",
       "Timeline",
       "Open rulebook",
-      "RPG Manager"
+      "RPG Manager",
+      "BRAT",
+      "File Tree Alternative Plugin"
     ]
   },
-  "spacing": "10",
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
