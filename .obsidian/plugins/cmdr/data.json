@@ -4,7 +4,15 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "Tasks: Create or edit task",
+      "mode": "c8d8ca65e653306c",
+      "color": "#eb0000"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -13,9 +21,30 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Shell commands: Custom variables",
+      "Open external media",
+      "Breadcrumbs Visualisation",
+      "Lock and Close all open encrypted notes",
+      "Encrypt Selection",
+      "Decrypt at Cursor",
+      "Open quick switcher",
+      "Open graph view",
+      "Insert template",
+      "Open command palette",
+      "Open format converter",
+      "Create new unique note",
+      "Create new base",
+      "Omnisearch",
+      "New encrypted note",
+      "Convert to or from an Encrypted note",
+      "File Tree Alternative Plugin",
+      "Timeline",
+      "Open rulebook",
+      "RPG Manager"
+    ]
   },
-  "spacing": 8,
+  "spacing": "10",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

@@ -123,7 +123,7 @@ If you have modified the sample tasks since they were created, you can see the c
 > [!Tip] Tip: If all your checkboxes look the same...
 > If all the checkboxes look the same in Reading Mode or Live Preview, see [Style custom statuses](https://publish.obsidian.md/tasks/How+To/Style+custom+statuses) for how to select a theme or CSS snippet to style your statuses.
 
-- [ ] Sample task 1: status symbol=`space` status name='Todo'
+- [x] Sample task 1: status symbol=`space` status name='Todo'
 - [x] Sample task 2: status symbol=`x` status name='Done'
 - [>] Sample task 3: status symbol=`>` status name='Rescheduled'
 - [<] Sample task 4: status symbol=`<` status name='Scheduled'
