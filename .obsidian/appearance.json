@@ -8,5 +8,10 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "LYT-theme",
+    "S - Checkboxes",
+    "S - Encoded Fonts",
+    "S - Images Adjustments"
+  ]
 }

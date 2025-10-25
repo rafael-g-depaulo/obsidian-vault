@@ -9,5 +9,8 @@
   "shimmering-focus@@hidden-sidebars-hidden-statusbar": true,
   "shimmering-focus@@hide-properties-in-statusbar": true,
   "shimmering-focus@@hide-backlinks-status-bar": true,
-  "shimmering-focus@@hide-languagetool-status-bar": true
+  "shimmering-focus@@hide-languagetool-status-bar": true,
+  "checkbox@@check-color": true,
+  "checkbox@@check-bg": false,
+  "checkbox@@check-strike": false
 }
