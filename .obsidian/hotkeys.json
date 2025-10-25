@@ -129,14 +129,7 @@
       "key": "N"
     }
   ],
-  "hotkeysplus-obsidian:better-toggle-todo": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": " "
-    }
-  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [],
   "obsidian-outliner:indent-list": [
     {
       "modifiers": [
@@ -163,5 +156,13 @@
       "key": "Z"
     }
   ],
-  "obsidian-advanced-slides:open-advanced-slides-preview": []
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "quickadd:choice:fb43dd5b-d99b-47aa-bb74-9f329be38140": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
 }

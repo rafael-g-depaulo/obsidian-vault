@@ -1,45 +1,6 @@
 {
   "choices": [
     {
-      "id": "c704b2a7-e80f-43db-b04e-b85f914e2434",
-      "name": "qqqqqqq",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": true,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": true,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      }
-    },
-    {
       "id": "fb43dd5b-d99b-47aa-bb74-9f329be38140",
       "name": "Cycle task status",
       "type": "Macro",
@@ -56,13 +17,11 @@
             "editorCommandType": "Select active line"
           },
           {
-            "name": "test",
+            "name": "cycleTaskStatus",
             "type": "UserScript",
-            "id": "c08af499-685b-45ce-883d-2c3d0ae5540f",
-            "path": "_scripts/test.js",
-            "settings": {
-              "Available Statuses": " ,x,/"
-            }
+            "id": "4f8be400-96c2-4d65-bb35-a26c94303f79",
+            "path": "_scripts/cycleTaskStatus.js",
+            "settings": {}
           },
           {
             "name": "print task",
