@@ -56,12 +56,21 @@
             "editorCommandType": "Select active line"
           },
           {
-            "name": "tttt",
+            "name": "test",
+            "type": "UserScript",
+            "id": "c08af499-685b-45ce-883d-2c3d0ae5540f",
+            "path": "_scripts/test.js",
+            "settings": {
+              "Available Statuses": " ,x,/"
+            }
+          },
+          {
+            "name": "print task",
             "type": "NestedChoice",
-            "id": "edb3c88b-7245-46bf-9775-336abcf7a191",
+            "id": "d099bf62-23a9-4b9b-8313-0ec2fb8c06e9",
             "choice": {
-              "id": "69a11f20-1e58-4c89-825b-185d48367be9",
-              "name": "tttt",
+              "id": "7154dfc2-76b0-4658-800c-dc971e856792",
+              "name": "print task",
               "type": "Capture",
               "command": false,
               "appendLink": false,
@@ -74,7 +83,7 @@
               },
               "format": {
                 "enabled": true,
-                "format": "- [ ] {{selected}}"
+                "format": "{{value:test123}}"
               },
               "insertAfter": {
                 "enabled": false,
@@ -89,7 +98,7 @@
                 "direction": "below"
               },
               "prepend": false,
-              "task": true,
+              "task": false,
               "openFile": false,
               "fileOpening": {
                 "location": "tab",
