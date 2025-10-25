@@ -25,7 +25,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-mind-map",
   "workspaces-plus",
-  "obsidian-better-codeblock",
   "calendar",
   "table-editor-obsidian",
   "mermaid-tools",
@@ -33,11 +32,12 @@
   "obsidian-kanban",
   "obsidian-icon-folder",
   "advanced-canvas",
-  "obsidian-auto-link-title",
-  "obsidian-annotator",
-  "better-word-count",
   "breadcrumbs",
   "obsidian-checklist-plugin",
   "obsidian-dictionary-plugin",
-  "obsidian-enhancing-mindmap"
+  "obsidian-enhancing-mindmap",
+  "obsidian-auto-link-title",
+  "obsidian-annotator",
+  "obsidian-better-codeblock",
+  "better-word-count"
 ]
