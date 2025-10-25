@@ -7,11 +7,5 @@
   "cssTheme": "Dracula Official",
   "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true,
-  "enabledCssSnippets": [
-    "LYT-theme",
-    "S - Checkboxes",
-    "S - Encoded Fonts",
-    "S - Images Adjustments"
-  ]
+  "showRibbon": true
 }
