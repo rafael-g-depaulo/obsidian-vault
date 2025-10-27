@@ -1,0 +1,1 @@
+There are a lot of ways to query that info. `xprop` is the most low level, but the output format isn't great
