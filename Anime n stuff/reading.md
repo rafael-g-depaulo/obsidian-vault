@@ -85,7 +85,6 @@ https://bato.si/
 - https://asuracomic.net/series/the-demonic-cult-instructor-returns-1756aeca/chapter/12
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
-- https://manhwatop.com/manga/lightning-degree-series/chapter-197/
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -121,6 +120,7 @@ https://bato.si/
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
+- [Lightning Degree](https://manhwatop.com/manga/lightning-degree-series/chapter-213/)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
