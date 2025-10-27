@@ -1,6 +1,6 @@
 {
   "confirmDeletion": false,
-  "showAddCommand": true,
+  "showAddCommand": false,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],

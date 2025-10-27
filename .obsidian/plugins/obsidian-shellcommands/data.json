@@ -4,7 +4,7 @@
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
-  "working_directory": "RPG/R20/scripts",
+  "working_directory": "",
   "default_shells": {},
   "environment_variable_path_augmentations": {
     "linux": "/home/ragan/.nvm/versions/node/v19.0.1/bin\n/home/ragan/.nvm/versions/node/v12.22.12/bin"
