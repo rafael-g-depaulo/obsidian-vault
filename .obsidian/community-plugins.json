@@ -19,7 +19,6 @@
   "rpg-manager",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-mind-map",
-  "calendar",
   "mermaid-tools",
   "obsidian-kanban",
   "obsidian-icon-folder",
@@ -40,5 +39,6 @@
   "obsidian42-brat",
   "quickadd",
   "cmdr",
-  "workspaces-plus"
+  "workspaces-plus",
+  "calendar"
 ]
