@@ -2,7 +2,8 @@
   "fileVisibility": "documents",
   "excludedFolders": [
     "_scripts",
-    "attatchments"
+    "attatchments",
+    "/Templates"
   ],
   "excludedFiles": [],
   "autoRevealActiveFile": true,

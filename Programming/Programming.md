@@ -1,4 +1,3 @@
-
 %% Begin Waypoint %%
 - **Acessibility**
   - **edX course**
@@ -13,11 +12,7 @@
   - [[Hosting]]
   - [[RFC]]
   - [[System Design Concepts]]
-- **attachments**
-
 - **AWS**
-  - **attachments**
-
   - [[AWS Organizations & Builder ID]]
   - [[CLI]]
   - [[CodePipeline]]
@@ -31,22 +26,16 @@
   - **Guides**
     - [[25-02-05 AWS Account Creation Basics]]
     - [[25-02-15 Host website in s3]]
-    - **attachments**
-
   - [[References]]
   - [[SAM - Serverless Application Model]]
 - **Backend**
   - [[Abstract & Compose Pattern Backend Architecture]]
-  - **attachments**
-
   - [[BFF - Backend for Frontend]]
   - [[DB]]
 - **Devopness**
   - [[Resource Types]]
 - **DevOps**
   - [[Ansible]]
-  - **attachments**
-
   - [[Docker]]
   - [[Google Cloud]]
   - [[Heroku]]
@@ -61,8 +50,6 @@
 - **Linux**
   - [[Act - Run Github Actions locally]]
   - [[ag - The Silver Searcher]]
-  - **attachments**
-
   - [[Awk - fucking magic]]
   - [[Bat - A cat clone with wings]]
   - [[Bitwarden CLI]]
@@ -91,8 +78,6 @@
   - [[sudoers - Run sudo commands without pwd]]
   - **Tasks**
     - [["file watchers limit reached" solved]]
-    - **attachments**
-
     - [[CTRL+ALT+DEL equivalent (pc froze)]]
     - [[Deal with monitors in xrandr or i3]]
     - [[Deal with rar and zip files]]
@@ -154,8 +139,6 @@
     - [[Search and replace]]
 - **Web**
   - [[A11y]]
-  - **attachments**
-
   - [[Comprar Domínio]]
   - [[Design]]
   - [[Icons]]
