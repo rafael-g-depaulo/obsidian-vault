@@ -1,7 +1,8 @@
 {
   "fileVisibility": "documents",
   "excludedFolders": [
-    "_scripts"
+    "_scripts",
+    "attatchments"
   ],
   "excludedFiles": [],
   "autoRevealActiveFile": true,
