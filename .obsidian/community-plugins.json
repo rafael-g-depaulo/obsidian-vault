@@ -15,7 +15,6 @@
   "iconic",
   "inline-encrypter",
   "maximise-active-pane-obsidian",
-  "rpg-manager",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-mind-map",
   "mermaid-tools",
@@ -40,5 +39,11 @@
   "calendar",
   "obsidian-day-planner",
   "notebook-navigator",
-  "waypoint"
+  "waypoint",
+  "theme-picker",
+  "convert-url-to-iframe",
+  "custom-theme-studio",
+  "find-orphaned-images",
+  "obsidian-hotkeys-for-templates",
+  "copy-url-in-preview"
 ]
