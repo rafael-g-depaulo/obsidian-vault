@@ -5,14 +5,3 @@ not done
 sort by start
 ```
 
-
-
-
-
-```tabs
-
---- Tasks
-
-
---- tabs
-```

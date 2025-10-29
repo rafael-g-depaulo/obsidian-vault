@@ -10,7 +10,6 @@
   "text-extractor",
   "obsidian-style-settings",
   "meld-encrypt",
-  "file-tree-alternative",
   "url-into-selection",
   "continuous-mode",
   "iconic",
@@ -27,7 +26,6 @@
   "obsidian-auto-link-title",
   "obsidian-better-codeblock",
   "better-word-count",
-  "breadcrumbs",
   "hotkey-helper",
   "tab-panels",
   "cycle-through-panes",
@@ -35,11 +33,12 @@
   "obsidian-tasks-plugin",
   "obsidian-image-toolkit",
   "table-editor-obsidian",
-  "obsidian-annotator",
   "obsidian42-brat",
   "quickadd",
   "cmdr",
   "workspaces-plus",
   "calendar",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "notebook-navigator",
+  "waypoint"
 ]
