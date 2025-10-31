@@ -119,6 +119,7 @@
   - [[Console]]
   - [[Make CLI Apps]]
   - [[NVM]]
+  - [[SEA]]
   - [[Vite]]
 - [[Obsidian]]
 - [[Programming]]
