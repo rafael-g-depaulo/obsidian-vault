@@ -46,5 +46,7 @@
   "find-orphaned-images",
   "obsidian-hotkeys-for-templates",
   "copy-url-in-preview",
-  "obsidian-version-history-diff"
+  "obsidian-version-history-diff",
+  "medium-importer",
+  "extract-url"
 ]

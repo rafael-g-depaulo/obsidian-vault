@@ -36,7 +36,7 @@
   "navIndent": 16,
   "navItemHeight": 24,
   "navItemHeightScaleText": true,
-  "showRootFolder": false,
+  "showRootFolder": true,
   "inheritFolderColors": true,
   "enableFolderNotes": true,
   "folderNoteType": "markdown",

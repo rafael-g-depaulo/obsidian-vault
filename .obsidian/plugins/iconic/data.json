@@ -27,7 +27,11 @@
     "rulePage": "file"
   },
   "appIcons": {},
-  "tabIcons": {},
+  "tabIcons": {
+    "planner-timeline": {
+      "icon": "pathfinding-method-bezier"
+    }
+  },
   "fileIcons": {
     "RPG/R20/Compiled": {
       "icon": "lucide-computer",
