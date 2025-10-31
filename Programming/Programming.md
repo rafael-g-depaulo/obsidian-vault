@@ -46,6 +46,8 @@
 - **FoundryVTT**
   - [[Resources]]
 - [[Graphana]]
+- **Imported Articles**
+  - [[Boost your productivity by creating your own CLI command with typescript]]
 - [[Interviews]]
 - **Linux**
   - [[Act - Run Github Actions locally]]
