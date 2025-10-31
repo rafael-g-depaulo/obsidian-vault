@@ -9,7 +9,19 @@
   "titleBar": [],
   "statusBar": [],
   "pageHeader": [],
-  "macros": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "custom-theme-studio:toggle-custom-theme"
+        }
+      ],
+      "name": "toggle theme",
+      "icon": "star",
+      "startup": true
+    }
+  ],
   "explorer": [],
   "hide": {
     "statusbar": [],
