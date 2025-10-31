@@ -1,5 +1,5 @@
 {
-  "fileVisibility": "documents",
+  "fileVisibility": "supported",
   "excludedFolders": [
     "_scripts",
     "attatchments",
@@ -53,7 +53,7 @@
   "defaultFolderSort": "title-desc",
   "listPaneTitle": "header",
   "multiSelectModifier": "optionAlt",
-  "noteGrouping": "date",
+  "noteGrouping": "folder",
   "filterPinnedByFolder": false,
   "optimizeNoteHeight": true,
   "showQuickActions": true,
@@ -77,12 +77,12 @@
   "colorFileTags": true,
   "showFileTagsInSlimMode": false,
   "showParentFolderNames": true,
-  "showFilePreview": true,
+  "showFilePreview": false,
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
   "previewProperties": [],
   "previewRows": 2,
-  "showFeatureImage": true,
+  "showFeatureImage": false,
   "featureImageProperties": [
     "thumbnail",
     "featureResized",
@@ -255,7 +255,13 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "Anime n stuff": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
