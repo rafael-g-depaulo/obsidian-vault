@@ -102,7 +102,7 @@ https://bato.si/
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Fetching Title#k4f0](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-100/)
+- [Youngest Son of the NamGung Clan - Chapter 100 - MANHUAUS.ORG](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-100/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
 - [All the Female Apprentices Want to Kill Me - Chapter 262 - MANHUAUS.ORG](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-262/)
@@ -115,7 +115,7 @@ https://bato.si/
 - [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 223 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-223)
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- [Trapped in a Crazy World as an Extra](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-45/)
+- [Trapped in a Crazy World as an Extra - Chapter 48 - MANHUAUS.ORG](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-48/)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
