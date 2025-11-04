@@ -20,6 +20,17 @@
       "name": "toggle theme",
       "icon": "star",
       "startup": true
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspaces-plus:daily"
+        }
+      ],
+      "name": "Open daily workspace",
+      "icon": "star",
+      "startup": true
     }
   ],
   "explorer": [],
