@@ -121,6 +121,7 @@ https://bato.si/
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree](https://manhwatop.com/manga/lightning-degree-series/chapter-213/)
+- [Primal Hunter Chapter 88 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-88/)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
