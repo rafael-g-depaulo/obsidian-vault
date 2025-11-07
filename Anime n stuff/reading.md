@@ -88,7 +88,7 @@ https://bato.si/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Im not the Evil God's Lackey](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-174/)
+- [I’m Really Not The Demon God’s Lackey - Chapter 175 - MANHUAUS.ORG](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-175/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -111,10 +111,10 @@ https://bato.si/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 223 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-223)
+- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 228 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-228)
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- [Trapped in a Crazy World as an Extra - Chapter 48 - MANHUAUS.ORG](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-48/)
+- [Trapped in a Crazy World as an Extra - Chapter 50 - MANHUAUS.ORG](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-50/)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
