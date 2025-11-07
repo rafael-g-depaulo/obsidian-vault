@@ -84,6 +84,7 @@ https://bato.si/
 - [Stuck in the Tower - Chapter 32 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-32/)
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
+- [Stuck in the Tower - Chapter 42 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-42/)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
