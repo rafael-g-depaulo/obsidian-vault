@@ -50,6 +50,8 @@ https://bato.si/
 - https://kaliscan.io/manga/43789-reincarnation-of-the-unrivalled-time-mage-the-underachiever-at-the-magic-academy-turns-out-to-be-the-strongest-mage-who-controls-time-official/chapter-13.1
 - https://comick.io/comic/kaiibu-m-ken-y-shi-no-kai-genshou-ni-tsuite
 - From Simp to Billionaire: The Rise of a Divine Tycoon
+- [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
+- [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
