@@ -87,6 +87,7 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 57 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-57/)
+- [Roxana \[Official\] - Chapter 31 - Read Free Manga Online](https://bato.si/title/89484/1806875-ch_31)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
