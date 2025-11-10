@@ -123,7 +123,7 @@ https://bato.si/
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
-- [Lightning Degree](https://manhwatop.com/manga/lightning-degree-series/chapter-213/)
+- [Lightning Degree - Lastest Chapter 215 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-215/)
 - [Primal Hunter Chapter 89 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-89/)
 
 ## Reading on Asura
