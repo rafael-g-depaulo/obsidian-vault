@@ -52,6 +52,7 @@ https://bato.si/
 - From Simp to Billionaire: The Rise of a Divine Tycoon
 - [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
 - [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
+- [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -161,6 +162,7 @@ https://bato.si/
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
 - [Legend of the Reincarnated Demon God](https://asuracomic.net/series/legend-of-the-reincarnated-demon-god-d01a3511/chapter/46)
+- [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
 
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
