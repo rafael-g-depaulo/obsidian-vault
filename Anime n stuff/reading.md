@@ -179,3 +179,4 @@ https://bato.si/
 - [I'll be taking a break for personal reasons](https://asuratoon.com/1908287720-ill-be-taking-a-break-for-personal-reasons-chapter-100/)
 - [Heroine's in love with me after reading my mind](<- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/>)
 - [i-have-90-billion-licking-gold (cancelled)](https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/)
+- [Roxana (indefinite hiatus)](https://bato.si/title/89484/2258848-ch_43.5)
