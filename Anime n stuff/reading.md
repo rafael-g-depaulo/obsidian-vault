@@ -86,7 +86,7 @@ https://bato.si/
 - [Stuck in the Tower - Chapter 32 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-32/)
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
-- [Stuck in the Tower - Chapter 57 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-57/)
+- [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [Roxana \[Official\] - Chapter 31 - Read Free Manga Online](https://bato.si/title/89484/1806875-ch_31)
 
 ## Caught up
