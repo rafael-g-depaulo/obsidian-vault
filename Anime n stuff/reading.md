@@ -88,7 +88,6 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
-- [Roxana \[Official\] - Chapter 31 - Read Free Manga Online](https://bato.si/title/89484/1806875-ch_31)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -125,7 +124,7 @@ https://bato.si/
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree](https://manhwatop.com/manga/lightning-degree-series/chapter-213/)
-- [Primal Hunter Chapter 88 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-88/)
+- [Primal Hunter Chapter 89 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-89/)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
