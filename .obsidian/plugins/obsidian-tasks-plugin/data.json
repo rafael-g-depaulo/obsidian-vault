@@ -19,7 +19,7 @@
   "setDoneDate": true,
   "setCancelledDate": true,
   "autoSuggestInEditor": true,
-  "autoSuggestMinMatch": 0,
+  "autoSuggestMinMatch": 1,
   "autoSuggestMaxItems": 20,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": true,
