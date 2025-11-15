@@ -106,7 +106,7 @@ https://bato.si/
 - [Loyal Sword](https://zscans.com/comics/loyal-sword/6207)
 - [Peerless Alchemist](https://www.mangaread.org/manga/peerless-alchemist/)
 - [Black Sun](https://aquamanga.org/manga/blacksun/blacksun/chapter-56/)
-- [Youngest Son of the NamGung Clan - Chapter 100 - MANHUAUS.ORG](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-100/)
+- [Youngest Son of the NamGung Clan - Chapter 102 - MANHUAUS.ORG](https://manhuaus.org/manga/youngest-son-of-the-namgung-clan/chapter-102/)
 - [Chronicles of the Heavenly Demon](https://chroniclesofheavenlydemon.net/i18qp/cohd-7/chapter-220/)
 - [Martial Arts Alone](https://manhuaus.com/manga/martial-arts-alone/chapter-78/)
 - [All the Female Apprentices Want to Kill Me - Chapter 262 - MANHUAUS.ORG](https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-262/)
