@@ -88,6 +88,7 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
+- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 10 - Chapter 10 A Piercing Cloud Arrow - WebNovel](https://m.webnovel.com/comic/from-simp-to-billionaire-the-rise-of-a-divine-tycoon_29573161008600401/chapter-10-a-piercing-cloud-arrow_79405226385260701)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
