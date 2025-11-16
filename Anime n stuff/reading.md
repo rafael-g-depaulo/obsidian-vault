@@ -84,7 +84,6 @@ https://bato.si/
 - https://comick.io/comic/i-really-don-t-want-to-remake/CWHXzWjU-chapter-37-en
 - https://comick.io/comic/skill-lender-s-retrieving-tale-i-told-you-it-s-10-per-10-days-at-first-didn-t-i/ZcMKIo8X-chapter-47-en#page=20
 - https://manhwatop.com/manga/legendary-blacksmiths-vengeance/chapter-19/
-- [Stuck in the Tower - Chapter 32 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-32/)
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
