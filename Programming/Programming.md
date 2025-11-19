@@ -14,6 +14,7 @@
   - [[System Design Concepts]]
 - **AWS**
   - [[AWS Organizations & Builder ID]]
+  - [[CLI v2]]
   - [[CLI]]
   - [[CodePipeline]]
   - [[EC2 - Load Balancer]]
