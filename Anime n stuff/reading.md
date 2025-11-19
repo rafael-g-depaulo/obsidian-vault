@@ -49,10 +49,8 @@ https://bato.si/
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady
 - https://kaliscan.io/manga/43789-reincarnation-of-the-unrivalled-time-mage-the-underachiever-at-the-magic-academy-turns-out-to-be-the-strongest-mage-who-controls-time-official/chapter-13.1
 - https://comick.io/comic/kaiibu-m-ken-y-shi-no-kai-genshou-ni-tsuite
-- From Simp to Billionaire: The Rise of a Divine Tycoon
 - [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
 - [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
-- [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -87,7 +85,8 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
-- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 10 - Chapter 10 A Piercing Cloud Arrow - WebNovel](https://m.webnovel.com/comic/from-simp-to-billionaire-the-rise-of-a-divine-tycoon_29573161008600401/chapter-10-a-piercing-cloud-arrow_79405226385260701)
+- [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
+- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 49 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-49)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
