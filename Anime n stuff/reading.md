@@ -86,7 +86,7 @@ https://bato.si/
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
-- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 49 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-49)
+- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 75 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-75)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
