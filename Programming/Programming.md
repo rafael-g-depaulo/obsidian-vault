@@ -75,6 +75,7 @@
   - [[Lutris - Gaming on linux]]
   - [[netstat - list port rules]]
   - [[nnn - cli folder explorer]]
+  - [[pass - local or remote password management]]
   - [[polybar]]
   - [[PPA management]]
   - [[Rclone - sync files local and cloud]]
