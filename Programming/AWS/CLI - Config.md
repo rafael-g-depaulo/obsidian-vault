@@ -1,0 +1,1 @@
+[How to Configure AWS CLI on Linux - DEV Community](https://dev.to/jajera/how-to-configure-aws-cli-on-linux-46mo)
