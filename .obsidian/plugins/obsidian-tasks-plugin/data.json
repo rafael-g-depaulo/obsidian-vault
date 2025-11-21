@@ -8,7 +8,7 @@
     "hide_non_date_fields": "# Hide all the non-date fields, but not tags\nhide id\nhide depends on\nhide recurrence rule\nhide on completion\nhide priority",
     "hide_query_elements": "# Hide postpone, edit and backinks\nhide postpone button\nhide edit button\nhide backlinks",
     "hide_everything": "# Hide everything except description and any tags\npreset hide_date_fields\npreset hide_non_date_fields\npreset hide_query_elements",
-    "hide_ancient": "# Hide tasks in Journal without priority older than 1 month\n(scheduled not before last month) OR (priority is above none)",
+    "hide_ancient": "# Hide tasks in Journal without priority older than 1 month\n(scheduled on or after last month) OR (priority is above none)",
     "recent": "preset hide_ancient\nnot done\nlimit 30"
   },
   "globalQuery": "limit 30\n",
