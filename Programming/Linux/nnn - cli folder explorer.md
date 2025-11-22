@@ -1,5 +1,7 @@
 dotInstall (from source because it makes fontAwesome and plugins available):
 
+Maybe alternative: [GitHub - ranger/ranger: A VIM-inspired filemanager for the console](https://github.com/ranger/ranger)
+
 ## Tutorial
 ![](https://www.youtube.com/watch?v=-knZwdd1ScU)
 

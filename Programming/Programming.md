@@ -73,6 +73,7 @@
   - [[Gnome Desktop Item]]
   - [[i3 - Window Manager]]
   - [[jgmenu]]
+  - [[Kitty term]]
   - [[Lutris - Gaming on linux]]
   - [[netstat - list port rules]]
   - [[nnn - cli folder explorer]]
