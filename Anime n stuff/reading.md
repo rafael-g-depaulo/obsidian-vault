@@ -125,6 +125,7 @@ https://bato.si/
 - [Lightning Degree - Lastest Chapter 215 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-215/)
 - [Primal Hunter Chapter 90 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-90/)
 - [The Hero Starts Over at the Academy Chapter 31 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-930b5e74/chapter/31)
+- [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
