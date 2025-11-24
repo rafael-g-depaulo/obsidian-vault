@@ -124,7 +124,8 @@ https://bato.si/
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 215 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-215/)
-- [Primal Hunter Chapter 89 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-89/)
+- [Primal Hunter Chapter 90 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-90/)
+- [The Hero Starts Over at the Academy Chapter 31 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-930b5e74/chapter/31)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
