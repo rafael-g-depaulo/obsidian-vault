@@ -260,6 +260,11 @@
       "showDate": false,
       "showPreview": false,
       "showImage": false
+    },
+    "Journal": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
     }
   },
   "tagIcons": {},
