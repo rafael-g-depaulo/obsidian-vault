@@ -1,5 +1,29 @@
+const cycleStatus = (config = settings, task, status) => {
+  const validStatuses = config["Available Statuses"].split(',')
+  const statusId = validStatuses.findIndex(s => s === status)
+  const nextStatusId = (statusId + 1) % validStatuses.length
+
+  // variables.statusId = statusId
+  // variables.nextStatusId = nextStatusId
+  // variables.status = status
+
+  return {
+    nextStatus: validStatuses[nextStatusId],
+    task,
+  }
+}
+
+const newTask = (config = settings, task = task) => {
+  const defaultStatus = config["Available Statuses"].split(',')[0]
+  return {
+    nextStatus: defaultStatus,
+    task,
+
+  }
+}
+
 const script = async (params, settings) => {
-  const { quickAddApi, app, variables, obsidian, abort } = params;
+  const { _quickAddApi, app, variables, obsidian, abort } = params;
 
   // Get active editor
   const activeView = app.workspace.getActiveViewOfType(obsidian.MarkdownView);
@@ -12,19 +36,13 @@ const script = async (params, settings) => {
 
   const taskRegex = /-\s*\[(?<status>.)\]\s*(?<task>.*)/
 
-  if (!taskRegex.test(selection)) return
+  if (!taskRegex.test(selection)) {
+    newTask(settings, selection)
+  }
 
   const { status, task } = taskRegex.exec(variables.selection).groups ?? {}
+  cycleStatus(settings, task, status)
 
-  const validStatuses = settings["Available Statuses"].split(',')
-  const statusId = validStatuses.findIndex(s => s === status)
-  const nextStatusId = (statusId + 1) % validStatuses.length
-
-  // variables.statusId = statusId
-  // variables.nextStatusId = nextStatusId
-  // variables.status = status
-  variables.nextStatus = validStatuses[nextStatusId]
-  variables.task = task
 }
 
 module.exports = {
@@ -40,4 +58,3 @@ module.exports = {
     }
   }
 }
-
