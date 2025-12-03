@@ -88,7 +88,7 @@ https://bato.si/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [I’m Really Not The Demon God’s Lackey - Chapter 175 - MANHUAUS.ORG](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-175/)
+- [I’m Really Not The Demon God’s Lackey - Chapter 177 - MANHUAUS.ORG](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-177/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -119,7 +119,7 @@ https://bato.si/
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
-- [Lightning Degree - Lastest Chapter 215 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-215/)
+- [Lightning Degree - Lastest Chapter 216 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-216/)
 - [Primal Hunter Chapter 90 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-90/)
 - [The Hero Starts Over at the Academy Chapter 31 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-930b5e74/chapter/31)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
