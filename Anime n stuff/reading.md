@@ -114,7 +114,6 @@ https://bato.si/
 - [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 229 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-229)
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
-- [Trapped in a Crazy World as an Extra - Chapter 50 - MANHUAUS.ORG](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-50/)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
@@ -163,6 +162,7 @@ https://bato.si/
 
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
+- [Trapped in a Crazy World as an Extra - Chapter 51 - MANHUAUS.ORG](https://manhuaus.org/manga/trapped-in-a-crazy-world-as-an-extra/chapter-51/)
 
 ## Dropped
 - [The Live](https://asura.nacm.xyz/3007846723-the-live-chapter-78/)
