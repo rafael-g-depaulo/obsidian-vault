@@ -4,6 +4,7 @@
 
 https://github.com/fsaintjacques/semver-tool
 https://github.com/polybar/polybar-scripts
+[Filess.io \| Free Database Hosting for Developers](https://filess.io/#comparison)
 ## Tests
 https://vitest.dev/
 
