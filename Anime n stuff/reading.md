@@ -177,3 +177,6 @@ https://bato.si/
 - [Heroine's in love with me after reading my mind](<- https://firescans.xyz/manga/the-villain-after-eavesdropping-on-my-thoughts-the-heroine-wants-to-be-in-my-harem/chapter-127/>)
 - [i-have-90-billion-licking-gold (cancelled)](https://manhwatop.com/manga/i-have-90-billion-licking-gold/chapter-530/)
 - [Roxana (indefinite hiatus)](https://bato.si/title/89484/2258848-ch_43.5)
+
+## Books
+- [The C4 Model \[Book\]](https://www.oreilly.com/library/view/the-c4-model/9798341660113/)
