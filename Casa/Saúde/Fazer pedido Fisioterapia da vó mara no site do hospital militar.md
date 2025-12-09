@@ -8,7 +8,7 @@
 ## 3. Anexe os documentos
 ![[Pasted image 20251209111619.png]]
 
-Adiione o pedido médico, como o da imagem abaixo (válido por 6 meses)
+Adicione o pedido médico, como o da imagem abaixo (válido por 6 meses)
 
 ![[Pedido médico.jpeg]]
 
