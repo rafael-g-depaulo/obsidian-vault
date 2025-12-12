@@ -79,6 +79,7 @@
   - [[nnn - cli folder explorer]]
   - [[pass - local or remote password management]]
   - [[polybar]]
+  - [[Ports and local servers]]
   - [[PPA management]]
   - [[Rclone - sync files local and cloud]]
   - [[Stow]]
