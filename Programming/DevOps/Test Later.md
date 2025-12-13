@@ -1,0 +1,1 @@
+- [HOW TO: Self-hosting and securing web services out of your home with Argo Tunnel, nginx reverse proxy, Let's Encrypt, Fail2ban (H/T Linuxserver SWAG) : r/homelab](https://www.reddit.com/r/homelab/comments/pnto6g/how_to_selfhosting_and_securing_web_services_out/)
