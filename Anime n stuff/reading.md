@@ -51,6 +51,7 @@ https://bato.si/
 - https://comick.io/comic/kaiibu-m-ken-y-shi-no-kai-genshou-ni-tsuite
 - [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
 - [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
+- [Read To Save Seven Villainesses, I Went Full Harem! - KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
