@@ -112,7 +112,7 @@ https://bato.si/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 229 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-229)
+- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 241 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-241)
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
