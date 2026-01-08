@@ -104,6 +104,7 @@
     - [[Kill process on port N]]
     - [[Make RetroArch recognize controller]]
     - [[Mount Filesystems]]
+    - [[NAT Forwarding pro FoundryVTT]]
     - [[Open port]]
     - [[Remap ctrl+C in terminal]]
     - [[Set ubuntu week to start on monday]]
