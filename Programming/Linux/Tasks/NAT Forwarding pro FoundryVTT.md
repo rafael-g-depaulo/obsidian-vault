@@ -12,4 +12,3 @@ Pra resolver isso tem que ligar pro número da claro **10621** e pedir remoção
 
 ## Sources
 - [Forma mais facil para sair do CGNAT da CLARO : r/InternetBrasil](https://www.reddit.com/r/InternetBrasil/comments/1iypsar/forma_mais_facil_para_sair_do_cgnat_da_claro/)
-- 
