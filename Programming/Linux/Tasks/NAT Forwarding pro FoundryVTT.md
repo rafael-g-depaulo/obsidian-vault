@@ -4,7 +4,7 @@ indo por [esse link](http://192.168.0.1/) pra configurar o roteador da claro, eu
 
 ![[Pasted image 20260108000352.png]]
 
-## PRoblema CGNAT
+## Problema CGNAT
 isso não vai dar em nada se seu IP for 100.x, que significa que tá no CGNAT da Claro e NAT não vai ajudar. Pra checar eu fui pelo browser na config do roteador e chequei o IP na navbar:
 
 ![[Pasted image 20260108000524.png]]
