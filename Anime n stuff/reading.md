@@ -89,7 +89,7 @@ https://bato.si/
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [I’m Really Not The Demon God’s Lackey - Chapter 178 - MANHUAUS.ORG](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-178/)
+- [I’m Really Not The Demon God’s Lackey - Chapter 182 - MANHUAUS.ORG](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-182/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -121,7 +121,6 @@ https://bato.si/
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
 - [Primal Hunter Chapter 103 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-103/)
-- [The Hero Starts Over at the Academy Chapter 31 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-930b5e74/chapter/31)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 
 ## Reading on Asura
