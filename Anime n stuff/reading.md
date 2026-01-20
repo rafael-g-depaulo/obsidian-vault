@@ -112,15 +112,15 @@ https://bato.si/
 - https://night-scans.com/8781815493-all-attribute-in-martial-arts-chapter-70/
 - https://kaliscan.io/manga/44405-shiawase-na-kazoku/chapter-41
 - https://comick.io/comic/i-regressed-to-level-up-instead-of-being-a-simp/zfqxkiLy-chapter-191-en
-- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 241 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-241)
+- [Read With My Netherworld Trillions, Game On! \[Official\] - Chapter 247 \| KaliScan](https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-247)
 - https://kaliscan.io/manga/76544-starting-as-a-small-zombie-i-cultivate-to-immortality-by-growing-plants/chapter-15
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
-- [Lightning Degree - Lastest Chapter 216 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-216/)
-- [Primal Hunter Chapter 92 - Raven Scans](https://ravenscans.com/primal-hunter-chapter-92/)
+- [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
+- [Primal Hunter Chapter 103 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-103/)
 - [The Hero Starts Over at the Academy Chapter 31 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-930b5e74/chapter/31)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 

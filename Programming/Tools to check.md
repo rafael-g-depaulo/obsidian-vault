@@ -43,6 +43,7 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 - https://youtube.com/shorts/5MOTRAfgYTc?feature=share
 - [gsap](https://gsap.com/text/) animation library
 - [4 CSS Features Every Front-End Developer Should Know In 2026 · January 7, 2026](https://nerdy.dev/4-css-features-every-front-end-developer-should-know-in-2026)
+- [CodePen Spark](https://codepen.io/spark/491)
 
 ## General Use
 ### Antivirus
