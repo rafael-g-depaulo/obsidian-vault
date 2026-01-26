@@ -120,7 +120,7 @@ https://bato.si/
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
-- [Primal Hunter Chapter 103 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-103/)
+- [Primal Hunter Chapter 104 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-104/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 
 ## Reading on Asura
@@ -158,7 +158,6 @@ https://bato.si/
 - [Of all things, I became a Crow](https://asuracomics.com/4533579728-of-all-things-i-became-a-crow-chapter-32/)
 - [Spirit Farmer](https://asuratoon.com/0873280421-spirit-farmer-chapter-141/)
 - [Legend of the Reincarnated Demon God](https://asuracomic.net/series/legend-of-the-reincarnated-demon-god-d01a3511/chapter/46)
-- [The Hero Starts Over at the Academy Chapter 14 - Asura Scans](https://asuracomic.net/series/the-hero-starts-over-at-the-academy-4d6e2bad/chapter/14)
 
 ## Hiatus
 - [Millenium Cultivator](https://zeroscans.com/comics/the-millennium-alchemist/5854)
