@@ -48,5 +48,6 @@
   "copy-url-in-preview",
   "obsidian-version-history-diff",
   "medium-importer",
-  "extract-url"
+  "extract-url",
+  "templater-obsidian"
 ]
