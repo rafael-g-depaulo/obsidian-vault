@@ -25,7 +25,6 @@
     "margin": "0",
     "downscalePercent": 70
   },
-  "propertiesInDocument": "hidden",
-  "rightToLeft": false,
-  "strictLineBreaks": true
+  "propertiesInDocument": "source",
+  "rightToLeft": false
 }
