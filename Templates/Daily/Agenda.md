@@ -1,6 +1,7 @@
 ## Review Semana Passada
 
 ## Objetivos Semana
+- atualizar template da semana com equivalente de `date +%^a`
 
 ## Agenda Semana
 
