@@ -7,6 +7,8 @@
 ### <% tp.date.weekday("YY-MM-DD", 2, tp.file.title, "YY-MM-DD") %> TER
 
 #### 15:00-18:00
+- [ ] #org Checar agenda
+- [ ] #org Avisar que chequei agenda
 - [ ] 
 ### <% tp.date.weekday("YY-MM-DD", 3, tp.file.title, "YY-MM-DD") %> QUA
 #### 9:00-12:00
