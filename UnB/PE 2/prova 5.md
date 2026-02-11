@@ -11,7 +11,8 @@ p_esp = c(9/16, 3/16, 3/16, 1/16)
 n = sum(f_obs)
 f_esp = p_esp*n
 chi2_obs = sum((f_esp - f_obs)**2/f_esp)
-p_valor = 1-pchisq(chi2_obs, 3)
+gl=3
+p_valor = 1-pchisq(chi2_obs, gl)
 ```
 
 ## 2
