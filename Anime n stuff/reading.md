@@ -50,7 +50,6 @@ https://bato.si/
 - [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
 - [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
 - [Read To Save Seven Villainesses, I Went Full Harem! - KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem)
-- [Read Mr.A's Farm - KaliScan](https://kaliscan.io/manga/80459-mr-as-farm)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -88,6 +87,7 @@ https://bato.si/
 - [My Gift LVL 9999 Unlimited Gacha Chapter 16 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-16/)
 - [Omniscient Reader’s Viewpoint Chapter 175 - Asura Scans](https://asuracomic.net/series/omniscient-readers-viewpoint-b403a8aa/chapter/175)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
+- [Read Mr.A's Farm - Chapter 6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-6)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
