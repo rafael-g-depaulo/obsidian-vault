@@ -84,8 +84,6 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
-- [My Gift LVL 9999 Unlimited Gacha Chapter 16 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-16/)
-- [Omniscient Reader’s Viewpoint Chapter 175 - Asura Scans](https://asuracomic.net/series/omniscient-readers-viewpoint-b403a8aa/chapter/175)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
 - [Read Mr.A's Farm - Chapter 6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-6)
 ## Caught up
