@@ -122,6 +122,7 @@ https://bato.si/
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
 - [Primal Hunter Chapter 108 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-108/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
+- [Read Mr.A's Farm - Chapter 25 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
