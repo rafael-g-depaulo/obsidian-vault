@@ -121,7 +121,7 @@ https://bato.si/
 - [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
-- [Primal Hunter Chapter 108 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-108/)
+- [Read Primal Hunter Chapter 111 Online - Raven Scans](https://ravenscans.org/primal-hunter-chapter-111/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25)
 
