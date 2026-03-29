@@ -85,12 +85,12 @@ https://bato.si/
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
-- [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 2 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-2)
 - [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
+- [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 14 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-14)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Just a moment...](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-185/)
+- [I’m Really Not The Demon God’s Lackey - Chapter 187](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-187/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
