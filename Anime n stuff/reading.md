@@ -50,6 +50,7 @@ https://bato.si/
 - [DEAR. DOOR \[UNCENSORED VERSION R19+\] - Read Free Manga Online](https://bato.si/title/91133-dear-door-uncensored-version-r19)
 - [Under the Oak Tree \[Official\] - Chapter 1 - Read Free Manga Online](https://bato.si/title/81946-en-under-the-oak-tree-official/1594221-ch_1)
 - [Read To Save Seven Villainesses, I Went Full Harem! - KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem)
+- [Read Otherworldly Sword King's Survival Records - KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records)
 
 ## Reading
 - [Lone Necromancer](https://www.webtoons.com/en/fantasy/the-lone-necromancer/ep-26-the-main-story-begins-1/viewer?title_no=3690&episode_no=26)
@@ -87,6 +88,7 @@ https://bato.si/
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
 - [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
 - [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 14 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-14)
+- [Read MookHyang - Dark Lady - Chapter 35 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-35)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
