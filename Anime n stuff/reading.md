@@ -88,7 +88,7 @@ https://bato.si/
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
 - [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
 - [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 22 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-22)
-- [Read MookHyang - Dark Lady - Chapter 98 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-98)
+- [Read MookHyang - Dark Lady - Chapter 181 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-181)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
