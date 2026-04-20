@@ -86,16 +86,14 @@ https://bato.si/
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
-- [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
 - [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 26 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-26)
 - [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
 - [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-54)
-- [Just a moment...](https://manhuaus.com/manga/magic-emperor-0/chapter-844/)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
-- [Just a moment...](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-189/)
+- [I’m Really Not The Demon God’s Lackey - Chapter 189](https://manhuaus.org/manga/im-really-not-the-demon-gods-lackey/chapter-189/)
 - https://glitterandguilt.thecomicseries.com/comics/88/
 - [Fist Demon of Mount Hua](https://aquamanga.org/manga/fist-demon-of-mount-hua/fist-demon-of-mount-hua/ch-162-chapter-162/)
 - [Black Key Incubus](https://www.webtoons.com/en/challenge/black-key-incubus/page-245-246/viewer?title_no=253723&episode_no=149)
@@ -129,6 +127,7 @@ https://bato.si/
 - [Primal Hunter Chapter 115 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-115/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
+- [Just a moment...](https://manhuaus.com/manga/magic-emperor-0/chapter-845/)
 
 
 ## Reading on Asura
