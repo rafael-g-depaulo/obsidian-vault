@@ -87,7 +87,7 @@ https://bato.si/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
 - [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
-- [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-23)
+- [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 26 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-26)
 - [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
 - [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-54)
 - [Just a moment...](https://manhuaus.com/manga/magic-emperor-0/chapter-844/)
@@ -128,8 +128,8 @@ https://bato.si/
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
 - [Primal Hunter Chapter 115 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-115/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
-- [Read Mr.A's Farm - Chapter 25 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25)
-- [Magic Emperor, Chapter 840 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-840/)
+- [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
+
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
