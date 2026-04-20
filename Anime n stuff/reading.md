@@ -90,6 +90,7 @@ https://bato.si/
 - [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-23)
 - [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
 - [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-54)
+- [Just a moment...](https://manhuaus.com/manga/magic-emperor-0/chapter-844/)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
