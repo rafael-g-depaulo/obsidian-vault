@@ -87,8 +87,9 @@ https://bato.si/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
 - [My Gift LVL 9999 Unlimited Gacha Chapter 25 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-25/)
 - [Magic Emperor, Chapter 792 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-792/)
-- [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 22 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-22)
-- [Read MookHyang - Dark Lady - Chapter 181 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-181)  [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
+- [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-23)
+- [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
+- [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-54)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
@@ -127,7 +128,6 @@ https://bato.si/
 - [Primal Hunter Chapter 115 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-115/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25)
-- [Read Otherworldly Sword King's Survival Records - Chapter 45 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-45)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
