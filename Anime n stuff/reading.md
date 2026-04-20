@@ -128,6 +128,7 @@ https://bato.si/
 - [Primal Hunter Chapter 115 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-115/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25)
+- [Magic Emperor, Chapter 840 - Magic Emperor Manga Online](https://www.magicemperor.xyz/manga/magic-emperor-chapter-840/)
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
