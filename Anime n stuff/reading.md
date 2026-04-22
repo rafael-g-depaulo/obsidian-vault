@@ -88,7 +88,7 @@ https://bato.si/
 - [My Gift LVL 9999 Unlimited Gacha Chapter 53 - Raven Scans](https://ravenscans.me/my-gift-lvl-9999-unlimited-gacha-chapter-53/)
 - [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 26 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-26)
 - [Read MookHyang - Dark Lady - Chapter 182 \| KaliScan](https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-182)
-- [kaliscan.io \| 502: Bad gateway](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-54)
+- [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
 
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
