@@ -121,7 +121,7 @@ https://bato.si/
 - [Records of the Demonic Path's Return](https://hivecomic.com/series/records-of-the-demonic-paths-return/chapter-55)
 - https://manhuaplus.org/manga/the-villain-wants-to-live-one-more-day/chapter-35
 - https://comick.io/comic/s-kyuu-guild-wo-ridatsu-shita-katanakaji-no-jiyuu-na-henkyou-slow-life/D8dvOjk0-chapter-4-en#page=30
-- [Level up knight school](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-33-2-eng-li/)
+- [Manga: School Knight Level Up! Chapter - 38-eng-li](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-38-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
 - [Primal Hunter Chapter 116 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-116/)
