@@ -4,7 +4,6 @@
 
 https://github.com/fsaintjacques/semver-tool
 https://github.com/polybar/polybar-scripts
-[Filess.io \| Free Database Hosting for Developers](https://filess.io/#comparison)
 ## Tests
 https://vitest.dev/
 
@@ -42,8 +41,6 @@ https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-
 - [loki](https://github.com/oblador/loki) (cli tool to run storybook in a cool headless way)
 - https://youtube.com/shorts/5MOTRAfgYTc?feature=share
 - [gsap](https://gsap.com/text/) animation library
-- [4 CSS Features Every Front-End Developer Should Know In 2026 · January 7, 2026](https://nerdy.dev/4-css-features-every-front-end-developer-should-know-in-2026)
-- [CodePen Spark](https://codepen.io/spark/491)
 
 ## General Use
 ### Antivirus

@@ -23,14 +23,14 @@ Just remember to run `pm2 save` to save your currently running apps as the ones 
 
 ```
 # DB & AWS connection stuff
-export DATABASE_URL=""
-export ADMIN_JWT_SECRET="7mz666666666666666vspWg=="
-export API_TOKEN_SALT="oYJ4444444444444444hrQ=="
-export APP_KEYS=""
-export AWS_ACCESS_KEY_ID=""
-export AWS_ACCESS_SECRET=""
+export DATABASE_URL="postgres://sbsvemmd:YaHYoGnI9Ut4fSGGmUvgSj0UvA6KpLlJ@babar.db.elephantsql.com:5432/sbsvemmd"
+export ADMIN_JWT_SECRET="7mztDrYdszF2WiI5GvspWg=="
+export API_TOKEN_SALT="oYJEuE4UgAV3nLCG4FLhrQ=="
+export APP_KEYS="wTmUIF/IzONcucyeheVNfw==,oSN40J1GdTBtNJPUeW8waQ==,kgoCYcxYd4TLQrI62aU1Yg==,5pp1vKrnK8F4tBqwYdufdQ=="
+export AWS_ACCESS_KEY_ID="AKIA3Y36L2R5VRXPAG6V"
+export AWS_ACCESS_SECRET="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"
 # export DB_SSL="false"
-export JWT_SECRET="PPsdfsdf8xKRoMBOxcyWGzXpz82Q"
+export JWT_SECRET="PP8xKRoMBOxcyWGzXpz82Q"
 export NODE_ENV="production"
 export PROJECT_NAME="api"
 export START_SCRIPT="start-strapi"
