@@ -1,0 +1,496 @@
+{
+  "workspaces": {
+    "daily": {
+      "main": {
+        "id": "5eb878ef5d909648",
+        "type": "split",
+        "children": [
+          {
+            "id": "ef63464546020a49",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f608a41f0cf3506",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0f4130ad86ff8d81",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ceb2d7829fa9b21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b606bc69b5317c37",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "662c38e21d1cea6e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "50f0f8ac8ece47d5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {},
+                  "icon": "sheets-in-box",
+                  "title": "File Tree"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "8ab4ede7854ee30a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a18a914c5a611420",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "bc49654d4b2ab9d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "cd5f0f916a8600df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d50f2d6c44387cc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 25-10-23"
+                }
+              },
+              {
+                "id": "c5af2e5b0c9e0df2",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 25-10-23"
+                }
+              },
+              {
+                "id": "444351407e9b03b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "cb804df5a758732e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "f3fb996ab457b6e1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 25-10-23"
+                }
+              },
+              {
+                "id": "6d8135bc345e9fab",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "omnisearch:Omnisearch": false,
+          "meld-encrypt:New encrypted note": false,
+          "meld-encrypt:Convert to or from an Encrypted note": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "iconic:Open rulebook": false,
+          "rpg-manager:RPG Manager": false,
+          "workspaces-plus:Manage workspaces": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "f3fb996ab457b6e1",
+      "mtime": "2025-10-23T19:33:07-03:00",
+      "workspaces-plus:settings-v1": {
+        "mode": null
+      }
+    },
+    "read": {
+      "main": {
+        "id": "5eb878ef5d909648",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9e3d1cfe7477054",
+            "type": "tabs",
+            "dimension": 68.74213836477988,
+            "children": [
+              {
+                "id": "9aa3ac6e07b286f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Anime n stuff/reading.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "reading"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b32ef2627786845a",
+            "type": "tabs",
+            "dimension": 31.257861635220124,
+            "children": [
+              {
+                "id": "afe75e279380c867",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://kaliscan.io/manga/57372-with-my-netherworld-trillions-game-on-official/chapter-223",
+                    "title": "Read With My Netherworld Trillions, Game On! [Official] - Chapter 223 | KaliScan",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Read With My Netherworld Trillions, Game On! [Official] - Chapter 223 | KaliScan"
+                }
+              },
+              {
+                "id": "d49b7f5d8c8cbb2b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://manhuaus.org/manga/all-the-female-apprentices-want-to-kill-me/chapter-239/",
+                    "title": "All the Female Apprentices Want to Kill Me - Chapter 239 - MANHUAUS.ORG",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "All the Female Apprentices Want to Kill Me - Chapter 239 - MANHUAUS.ORG"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0f4130ad86ff8d81",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ceb2d7829fa9b21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b606bc69b5317c37",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "662c38e21d1cea6e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "50f0f8ac8ece47d5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {},
+                  "icon": "sheets-in-box",
+                  "title": "File Tree"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "8ab4ede7854ee30a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a18a914c5a611420",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "bc49654d4b2ab9d6",
+        "type": "split",
+        "children": [
+          {
+            "id": "cd5f0f916a8600df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d50f2d6c44387cc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 25-10-23"
+                }
+              },
+              {
+                "id": "c5af2e5b0c9e0df2",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 25-10-23"
+                }
+              },
+              {
+                "id": "444351407e9b03b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "cb804df5a758732e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "f3fb996ab457b6e1",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Journal/25-10-23.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 25-10-23"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "zk-prefixer:Create new unique note": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false,
+          "bases:Create new base": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "omnisearch:Omnisearch": false,
+          "meld-encrypt:New encrypted note": false,
+          "meld-encrypt:Convert to or from an Encrypted note": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "iconic:Open rulebook": false,
+          "rpg-manager:RPG Manager": false,
+          "workspaces-plus:Manage workspaces": false
+        }
+      },
+      "active": "9aa3ac6e07b286f9",
+      "mtime": "2025-10-23T16:49:31-03:00",
+      "workspaces-plus:settings-v1": {}
+    }
+  },
+  "active": "daily"
+}

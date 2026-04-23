@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "5eb878ef5d909648",
+    "type": "split",
+    "children": [
+      {
+        "id": "f55d7e990f65cf5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e478f0e05b578b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/26-04-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "26-04-22"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8236e6a8f573f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5c7ea4b99f5923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/26-04-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "26-04-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4130ad86ff8d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ceb2d7829fa9b21",
+        "type": "tabs",
+        "dimension": 79.25311203319502,
+        "children": [
+          {
+            "id": "662c38e21d1cea6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25e84ba040ea9725",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "eb2b147d06ad54e3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8ab4ede7854ee30a",
+        "type": "tabs",
+        "dimension": 20.74688796680498,
+        "children": [
+          {
+            "id": "a18a914c5a611420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc49654d4b2ab9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5f0f916a8600df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d50f2d6c44387cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cf055f49bb5e9364",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0ca50469ec4fb2ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/26-04-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 26-04-22"
+            }
+          },
+          {
+            "id": "5158a65085900071",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "custom-theme-studio:Custom Theme Studio": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "iconic:Open rulebook": false
+    }
+  },
+  "active": "e478f0e05b578b8e",
+  "lastOpenFiles": [
+    "Journal/26-04-23.md",
+    "Journal/26-04-22.md",
+    "Anime n stuff/reading.md",
+    "Tasks.md",
+    "Anime n stuff/Untitled.md",
+    "Journal/26-04-14.md",
+    "Journal/26-03-03.md",
+    "Casa/Cooking/Sheet pan doner kebab.md",
+    "Journal/26-04-07.md",
+    "Journal/26-03-31.md",
+    "Journal/26-03-24.md",
+    "Journal/26-03-17.md",
+    "Journal/26-03-10.md",
+    "Programming/Programming.md",
+    "Casa/Saúde/Fazer pedido Fisioterapia da vó mara no site do hospital militar.md",
+    "Programming/Tools to check.md",
+    "Journal/26-02-19.md",
+    "Journal/26-02-26.md",
+    "Untitled.md",
+    "Programming/Linux/Tasks/NAT Forwarding pro FoundryVTT.md",
+    "Journal/Untitled 2.md",
+    "Journal/26-02-10.md",
+    "Journal/26-02-03.md",
+    "Journal/26-01-13.md",
+    "UnB/PE 2/prova 5.md",
+    "Journal/26-02-11.md",
+    "Journal/attachments/Pasted image 20260211104047.png",
+    "Journal/attachments/Pasted image 20260201193003.png",
+    "Journal/attachments/Pasted image 20260113162135.png",
+    "Journal/attachments/Pasted image 20260113161749.png",
+    "Programming/Linux/Tasks/attachments/Pasted image 20260108000524.png",
+    "Programming/Linux/Tasks/attachments/Pasted image 20260108000352.png",
+    "Journal/attachments/Pasted image 20251209161916.png",
+    "Casa/Saúde/DOCS.mdenc",
+    "Casa/Saúde/attachments/Pasted image 20251209111908.png",
+    "Casa/Saúde/attachments/Pasted image 20251209111619.png",
+    "Casa/Saúde/attachments/Documento Mara.jpeg",
+    "Casa/Saúde/attachments/Unconfirmed 337987.crdownload",
+    "Casa/Saúde/attachments/Unconfirmed 750771.crdownload",
+    "Casa/Saúde/attachments/Unconfirmed 581715.crdownload",
+    "Casa/Saúde/attachments",
+    "_scripts/cycleTaskStatus.js~",
+    "Programming/Imported Articles",
+    "Programming/Backend/attachments",
+    "Programming/Linux/Tasks/attachments",
+    "_scripts/cycleTaskStatus.js",
+    "RPG/Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas"
+  ]
+}

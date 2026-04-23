@@ -1,0 +1,10 @@
+{
+	"id": "medium-importer",
+	"name": "Medium Importer",
+	"version": "0.4.1",
+	"minAppVersion": "1.5.12",
+	"description": "Import Medium posts into your vault",
+	"author": "David Zachariae",
+	"authorUrl": "https://github.com/arumie",
+	"isDesktopOnly": false
+}

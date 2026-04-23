@@ -1,0 +1,74 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "custom-theme-studio:toggle-custom-theme"
+        }
+      ],
+      "name": "toggle theme",
+      "icon": "star",
+      "startup": true
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "workspaces-plus:daily"
+        }
+      ],
+      "name": "Open daily workspace",
+      "icon": "star",
+      "startup": true
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Shell commands: Custom variables",
+      "Open external media",
+      "Breadcrumbs Visualisation",
+      "Lock and Close all open encrypted notes",
+      "Encrypt Selection",
+      "Decrypt at Cursor",
+      "Open quick switcher",
+      "Open graph view",
+      "Insert template",
+      "Open command palette",
+      "Open format converter",
+      "Create new unique note",
+      "Create new base",
+      "Omnisearch",
+      "New encrypted note",
+      "Convert to or from an Encrypted note",
+      "Timeline",
+      "Open rulebook",
+      "RPG Manager",
+      "BRAT",
+      "File Tree Alternative Plugin"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "themeEnabled": true,
+  "customCSS": "",
+  "cssVariables": [
+    {
+      "uuid": "ec950372-4b35-458e-8776-ee13d4d7cc0b",
+      "parent": "custom",
+      "variable": "--color-header",
+      "value": "#853896"
+    },
+    {
+      "uuid": "06b40b63-bb84-48d4-868c-2e96b143e6c5",
+      "parent": "windowframe",
+      "variable": "--titlebar-background-focused",
+      "value": "var(--color-header)"
+    },
+    {
+      "uuid": "07773580-bbb6-4745-b616-f1c5fb8ce72d",
+      "parent": "windowframe",
+      "variable": "--titlebar-background",
+      "value": "var(--color-header)"
+    }
+  ],
+  "cssRules": [],
+  "exportThemeName": "My Custom Theme",
+  "exportThemeAuthor": "Anonymous",
+  "exportThemeURL": "https://github.com/obsidianmd",
+  "exportThemeIncludeDisabled": false,
+  "exportPrettierFormat": true,
+  "lastSelectedSelector": "",
+  "expandCSSVariables": true,
+  "expandCSSRules": false,
+  "expandExportTheme": false,
+  "expandEditorSettings": false,
+  "expandedVariableCategories": [
+    "variable-category-windowframe"
+  ],
+  "activeVariableTagFilter": "all",
+  "autoApplyChanges": false,
+  "variableInputListener": "change",
+  "generateComputedCSS": false,
+  "showConfirmation": true,
+  "enableFontImport": false,
+  "enableColorPicker": false,
+  "enableAceAutoCompletion": false,
+  "enableAceSnippets": false,
+  "enableAceColorPicker": false,
+  "editorLineNumbers": true,
+  "editorWordWrap": false,
+  "editorFontSize": 15,
+  "editorFontFamily": "",
+  "editorTabWidth": 4,
+  "editorTheme": "Auto",
+  "editorLightTheme": "github_light_default",
+  "editorDarkTheme": "github_dark",
+  "editorKeyboard": "default",
+  "viewScrollToTop": true,
+  "debugLevel": "none",
+  "selectorStyle": "minimal",
+  "selectorPreferClasses": false,
+  "selectorAlwaysIncludeTag": false,
+  "selectorExcludedAttributes": "data-tooltip-*\ndata-delay\naria-expanded\naria-current\naria-controls\naria-describedby",
+  "cssEditorDebounceDelay": 500
+}
