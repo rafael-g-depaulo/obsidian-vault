@@ -1,0 +1,27 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":brown_heart:",
+    ":smiley:",
+    ":100:",
+    ":sunglasses:",
+    ":nerd_face:",
+    ":smiley_cat:",
+    ":smile:",
+    ":moneybag:",
+    ":arrow_right:",
+    ":arrow_forward:",
+    ":arrow_down:",
+    ":pleading_face:",
+    ":raised_hands:",
+    ":arrow_left:",
+    ":raising_hand_woman:",
+    ":banana:",
+    ":angry:",
+    ":crying_cat_face:",
+    ":open_mouth:"
+  ]
+}

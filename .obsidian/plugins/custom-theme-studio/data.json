@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "themeEnabled": true,
+  "customCSS": "",
+  "cssVariables": [
+    {
+      "uuid": "767a30da-38c7-47c9-85e5-48f19ff2a338",
+      "parent": "colors",
+      "variable": "--background-primary-alt",
+      "value": "black"
+    },
+    {
+      "uuid": "c1a1c081-cc29-4742-af4b-d434fa59f51b",
+      "parent": "colors",
+      "variable": "--background-primary",
+      "value": "black"
+    },
+    {
+      "uuid": "2b0b6c16-935f-40b4-98be-4db46519f53e",
+      "parent": "colors",
+      "variable": "--background-secondary",
+      "value": "black"
+    },
+    {
+      "uuid": "41a789f7-0c7e-4301-8a88-d359c6778e19",
+      "parent": "colors",
+      "variable": "--background-modifier-form-field",
+      "value": "black"
+    },
+    {
+      "uuid": "7baaa39c-6319-49e0-9ce8-c9691f3c1cea",
+      "parent": "windowframe",
+      "variable": "--titlebar-background-focused",
+      "value": "var(--color-header)"
+    },
+    {
+      "uuid": "70d31e4e-4506-40b4-be62-9a2de091ead7",
+      "parent": "custom",
+      "variable": "--color-header",
+      "value": "#8a3f03"
+    },
+    {
+      "uuid": "a348a3d1-e9d6-4101-91d0-5a8d47f0e944",
+      "parent": "windowframe",
+      "variable": "--titlebar-background",
+      "value": "var(--color-header)"
+    }
+  ],
+  "cssRules": [],
+  "exportThemeName": "My Custom Theme",
+  "exportThemeAuthor": "Anonymous",
+  "exportThemeURL": "https://github.com/obsidianmd",
+  "exportThemeIncludeDisabled": false,
+  "exportPrettierFormat": true,
+  "lastSelectedSelector": "",
+  "expandCSSVariables": false,
+  "expandCSSRules": false,
+  "expandExportTheme": false,
+  "expandEditorSettings": true,
+  "expandedVariableCategories": [
+    "variable-category-windowframe",
+    "variable-category-vaultprofile",
+    "variable-category-ribbon",
+    "variable-category-scrollbar",
+    "variable-category-sidebar",
+    "variable-category-statusbar",
+    "variable-category-custom",
+    "variable-category-themedark"
+  ],
+  "activeVariableTagFilter": "all",
+  "autoApplyChanges": true,
+  "variableInputListener": "input",
+  "generateComputedCSS": false,
+  "showConfirmation": true,
+  "enableFontImport": false,
+  "enableColorPicker": true,
+  "enableAceAutoCompletion": true,
+  "enableAceSnippets": true,
+  "enableAceColorPicker": true,
+  "editorLineNumbers": true,
+  "editorWordWrap": false,
+  "editorFontSize": 15,
+  "editorFontFamily": "",
+  "editorTabWidth": "2",
+  "editorTheme": "Auto",
+  "editorLightTheme": "github_light_default",
+  "editorDarkTheme": "github_dark",
+  "editorKeyboard": "default",
+  "viewScrollToTop": true,
+  "debugLevel": "none",
+  "selectorStyle": "minimal",
+  "selectorPreferClasses": false,
+  "selectorAlwaysIncludeTag": false,
+  "selectorExcludedAttributes": "data-tooltip-*\ndata-delay\naria-expanded\naria-current\naria-controls\naria-describedby",
+  "cssEditorDebounceDelay": 600
+}
