@@ -37,7 +37,7 @@
       "uuid": "70d31e4e-4506-40b4-be62-9a2de091ead7",
       "parent": "custom",
       "variable": "--color-header",
-      "value": "#8a3f03"
+      "value": "#892961"
     },
     {
       "uuid": "a348a3d1-e9d6-4101-91d0-5a8d47f0e944",
@@ -53,7 +53,7 @@
   "exportThemeIncludeDisabled": false,
   "exportPrettierFormat": true,
   "lastSelectedSelector": "",
-  "expandCSSVariables": false,
+  "expandCSSVariables": true,
   "expandCSSRules": false,
   "expandExportTheme": false,
   "expandEditorSettings": true,
