@@ -125,11 +125,10 @@ https://bato.si/
 - [Manga: School Knight Level Up! Chapter - 38-eng-li](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-38-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
-- [Primal Hunter Chapter 116 - Raven Scans](https://ravenscans.org/primal-hunter-chapter-116/)
+- https://ravenscans.org/primal-hunter-chapter-119/
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
 - [Magic Emperor 851](https://manhuaus.com/manga/magic-emperor-0/chapter-851/)
-
 
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
