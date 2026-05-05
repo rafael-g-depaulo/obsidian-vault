@@ -1,4 +1,4 @@
-			https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
+https://mangaschan.net/22431303/i-played-the-role-of-the-adopted-daughter-too-well-capitulo-37/
 https://manhuaplus.org/manga/taming-spiritual-pets-my-spiritual-pet-is-a-female-zombie/chapter-44
 https://topmanhua.com/manhua/strongest-anti-meta-ultimate-scheming-system/chapter-164/
 https://manhuaus.org/manga/i-randomly-have-a-new-career-every-week-manhuaus/chapter-1/
@@ -26,6 +26,7 @@ https://bato.si/
 - [Git Stuff](https://git-scm.com/book/en/v2)
 - [SQL stuff](https://sqlzap.com/)
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
+- https://asurascans.com/comics/the-forgotten-field-b6e039fe/chapter/1
 - https://zscans.com/comics/hero-i-quit-a-long-time-ago-hero-return
 - https://night-scans.com/series/1096448977-crazy-leveling-system/s
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
