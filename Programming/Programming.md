@@ -77,6 +77,7 @@
 	- **Concepts**
 		- [[Bash Scripting]]
 	- [[cut - get column from text output]]
+	- [[direnv - unclutter your .profile]]
 	- [[du - directory size]]
 	- [[fc (Fix Command) - history under the hood]]
 	- [[Find - Find files]]
