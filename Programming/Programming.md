@@ -35,6 +35,7 @@
 		- **attachments**
 
 		- [[Give IAM user access to billing]]
+		- [[Use AWS CLI]]
 	- [[RDS]]
 	- [[References]]
 	- [[SAM - Serverless Application Model]]
