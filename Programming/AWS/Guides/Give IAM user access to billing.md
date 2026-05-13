@@ -1,10 +1,8 @@
 ## First, activate IAM access to billing
 ![[Pasted image 20260513181715.png]]
 
-
 ## Seccond, attach policy to IAM user
 Give the user/group the `AWSBillingConductorFullAccess` policy.
-
 ![[Pasted image 20260513181309.png]]
 
 ## Sources
