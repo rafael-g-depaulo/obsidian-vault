@@ -49,5 +49,6 @@
   "obsidian-version-history-diff",
   "medium-importer",
   "extract-url",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
