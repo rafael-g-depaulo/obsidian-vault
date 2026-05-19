@@ -1,0 +1,45 @@
+- [ ] github
+- [ ] criar email
+- [ ] heroku (strapi)
+	- [ ] criar conta
+	- [ ] adicionar cartão cliente
+	- [ ] configurar domínio
+	- [ ] postgres
+	- [ ] Github Actions para fazer deploy automático
+- [ ] netlify/vercel (deploy react)
+	- [ ] criar conta
+	- [ ] adicionar cartão cliente
+	- [ ] Github Actions para fazer deploy automático
+- [ ] AWS
+	- [ ] criar conta
+	- [ ] adicionar cartão cliente
+	- [ ] criar e configurar S3
+	- [ ] pegar credenciais pra usar o S3 e botar no env do deploy do strapi
+- [ ] Domínio
+	- [ ] criar conta
+	- [ ] comprar o domínio
+	- [ ] direcionar pro front
+	- [ ] direcionar pro strapi
+- [ ] (talvez desnecessário) CloudFlare
+	- [ ] criar conta
+	- [ ] fazer DNS
+- [ ] Organização de entregáveis
+	- [ ] ter todos esses logins salvos num gerenciador de senha
+	- [ ] guardar comprovante de tudo que **você** comprar pro projeto
+	- [ ] montar um documento com todas as contas e descrição de todos os serviços, pra que eles servem e quais as contas pra entregar pra cliente
+- [ ] (OPCIONAL) CI/CD de Pull Requests
+	- [ ] rodar linters
+	- [ ] rodar testes
+- [ ] (OPCIONAL) Docker
+	- [ ] Ambiente local (DEV)
+		- [ ] imagem local para servir front
+		- [ ] imagem local para servir front
+		- [ ] imagem local para buildar strapi
+		- [ ] imagem local para servir strapi
+		- [ ] docker-compose pra dev local
+	- [ ] Ambiente de Produção
+		- [ ] criar conta no dockerhub
+		- [ ] CI/CD build de imagens on push no github
+		- [ ] imagem docker no strapi heroku OU
+		- [ ] imagem docker no strapi AWS/Azure/etc. OU
+		- [ ] kubernetes no AWS/Azure/etc.

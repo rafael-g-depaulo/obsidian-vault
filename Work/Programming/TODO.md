@@ -1,0 +1,1 @@
+- [ ] Auto nvm use on terminal session creation
