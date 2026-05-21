@@ -25,6 +25,11 @@
 ## Entrevista
 Pedro - equipe de RH.
 
-Pretenção: R$4800
+Pretenção Salarial: R$4800. 
 
+Equipe deles é CTO, Presidente, 1 dev e mais 1~2 pessoas contanto o pedro.
 
+Etapas:
+1. entrevista inicial (agora). feedback até o fim do dia
+2. teste técnico. vou receber link do problema no github e tenho 5 dias pra entregar (feedback em 1 semana)
+3. entrevista técnica
