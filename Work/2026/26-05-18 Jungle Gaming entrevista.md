@@ -21,3 +21,10 @@
 		- Tem dados pra corroborar?
 	- Quando uma vaga alto nível aparece, qual a posição da empresa entre promover funcionários atuais Vs. Contratar experts externos
 		- Tem dados pra corroborar? (no caso anedotas funcionam sem problema)
+
+## Entrevista
+Pedro - equipe de RH.
+
+Pretenção: R$4800
+
+
