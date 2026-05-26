@@ -153,6 +153,8 @@
 	- [[Search]]
 	- **Tasks**
 		- [[Search and replace]]
+- **VS Code**
+	- [[AI (IA) tools]]
 - **Web**
 	- [[A11y]]
 	- **attachments**
