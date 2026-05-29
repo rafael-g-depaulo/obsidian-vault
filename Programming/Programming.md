@@ -17,6 +17,7 @@
 - **AWS**
 	- **attachments**
 
+	- [[AWS Certifications]]
 	- [[AWS Organizations & Builder ID]]
 	- [[CLI - Config]]
 	- [[CLI v2]]
