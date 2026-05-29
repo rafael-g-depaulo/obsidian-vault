@@ -20,8 +20,10 @@ You gotta start up with the Cloud Practitioner Certm and then there are the asso
 | Professional Level | 300 USD |
 
 ## Testing place
+Tests are done through [pearsonvue.com](https://www.pearsonvue.com/).
 
-
+The following are the ones in plano piloto.
+![[Pasted image 20260529172909.png]]
 ## Roadmap (from AWS oficial PDF)
 Source: [AWS\_certification\_paths.pdf](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/AWS_certification_paths.pdf).
 

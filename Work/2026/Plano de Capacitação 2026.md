@@ -4,7 +4,7 @@ Gotta learn how to use AI with VS code
 
 
 ## DevOps God
-AWS Certifications master.
+AWS Certifications master. [[AWS Certifications]].
 
 ### How do AWS Certifications work
 
@@ -21,9 +21,6 @@ AWS Certifications master.
 - [CLF-C02 AWS Cloud Practicioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/19891628?start=0#overview)
 
 ### Services
-#### CCCCC
-
-
 
 ## Low prio
 
