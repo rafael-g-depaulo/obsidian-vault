@@ -86,7 +86,7 @@ https://bato.si/
 - https://comick.io/comic/02-doom-breaker/LWExXkbx-chapter-66-en
 - https://www.mgeko.cc/reader/en/the-house-without-time-chapter-31-eng-li/
 - [Stuck in the Tower - Chapter 60 - MANHUAUS.ORG](https://manhuaus.org/manga/stuck-in-the-tower/chapter-60/)
-- [My Gift LVL 9999 Unlimited Gacha Chapter 53 - Raven Scans](https://ravenscans.me/my-gift-lvl-9999-unlimited-gacha-chapter-53/)
+- [My Gift LVL 9999 Unlimited Gacha Chapter 55 - Raven Scans](https://ravenscans.org/my-gift-lvl-9999-unlimited-gacha-chapter-55/)
 - [Read After the School Belle Dumped Me, I Became a Martial Arts God - Chapter 26 \| KaliScan](https://kaliscan.io/manga/83659-after-the-school-belle-dumped-me-i-became-a-martial-arts-god/chapter-26)
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-189
 - [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
