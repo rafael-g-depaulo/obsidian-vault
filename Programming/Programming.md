@@ -155,6 +155,7 @@
 	- **Tasks**
 		- [[Search and replace]]
 - **VS Code**
+	- [[26-06-02 OIDC - OpenID Connect]]
 	- [[AI (IA) tools]]
 - **Web**
 	- [[A11y]]
