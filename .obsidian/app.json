@@ -26,5 +26,6 @@
     "downscalePercent": 70
   },
   "propertiesInDocument": "source",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "uriCallbacks": true
 }
