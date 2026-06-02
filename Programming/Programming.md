@@ -15,6 +15,7 @@
 - **attachments**
 
 - **AWS**
+	- [[26-06-02 AWS Cognito]]
 	- **attachments**
 
 	- [[AWS Certifications]]
