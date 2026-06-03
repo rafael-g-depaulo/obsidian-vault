@@ -7,9 +7,17 @@ https://github.com/polybar/polybar-scripts
 ## Tests
 https://vitest.dev/
 
+## Dev
+- [React Scan](https://react-scan.com/)
+- [Editor \| ToDiagram](https://todiagram.com/editor)
+- [Jam \| Build a bug-free product.](https://jam.dev/)
+- [Polypane - WebCurate](https://webcurate.co/polypane)
+- [Patterns.dev](https://www.patterns.dev/)
+
 ## OS, UI and UX
 - tint2
 	- [themes](https://terminalroot.com.br/2021/12/os-12-melhores-temas-para-seu-tint2.html)
+- [Jam \| Build a bug-free product.](https://jam.dev/)
 
 ## Documentation
 - Archi + C4 for arquitecture documentation
@@ -21,7 +29,8 @@ https://vitest.dev/
 - https://vrite.io/
 ## Methodologies
 ### DDD
-https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba
+[Book review: Learning Domain-Driven Design by Vlad Khononov \| by Toni Soueid \| Medium](https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba)
+[An Introduction to Domain-Driven Design (DDD) \| Khalil Stemmler](https://khalilstemmler.com/articles/domain-driven-design-intro/)
 
 ## Apps
 - [screenkey](https://www.thregr.org/~wavexx/software/screenkey/) (show keys pressed on screen)
@@ -105,6 +114,7 @@ https://www.vaultproject.io/, which i got from this article: https://dev.to/greg
 
 ## unorganized stuff
 - https://responsively.app (test responsivity and shit)
+- [Responsive design viewer extension](https://chromewebstore.google.com/detail/responsive-device-viewer/jfcnekmenjickfihkniaoaklehjmdhdb?utm_source=item-share-cb)
 - [many stuff, including react three fiber, a cool lib to deal with 3js in react](https://12ft.io/proxy?q=http://javascript.plainenglish.io/10-powerful-react-tools-that-you-should-know-in-2022-76efa7fa711d)
 - https://www.gitbook.com/ cool looking docs tool
 - https://github.com/streamich/react-use cool hooks lib for react
