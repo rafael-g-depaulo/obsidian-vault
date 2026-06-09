@@ -27,6 +27,7 @@ https://bato.si/
 - [SQL stuff](https://sqlzap.com/)
 - https://topmanhua.com/manhua/100000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor/
 - https://asurascans.com/comics/the-forgotten-field-b6e039fe/chapter/1
+- [Don't Touch Kotesashi Manga - Read Manga Online Free](https://mangafire.to/manga/sawaranaide-kotesashi-kunn.oxjpz)
 - https://zscans.com/comics/hero-i-quit-a-long-time-ago-hero-return
 - https://night-scans.com/series/1096448977-crazy-leveling-system/s
 - https://night-scans.com/9792396216-beast-familiar-for-all-beginning-awakening-of-mythical-talents-01/
