@@ -7,5 +7,9 @@
   "cssTheme": "Dracula Official",
   "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "S - Checkboxes",
+    "S - Images Adjustments"
+  ]
 }
