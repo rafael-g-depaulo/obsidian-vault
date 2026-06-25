@@ -20,7 +20,7 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": false,
+  "maxBackups": 2,
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
@@ -44,5 +44,6 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [],
+  "rememberDeletedItems": false
 }

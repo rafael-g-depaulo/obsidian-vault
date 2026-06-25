@@ -5912,7 +5912,7 @@ var require_react_development = __commonJS({
           }
           return element4;
         };
-        function createElement133(type2, config3, children) {
+        function createElement136(type2, config3, children) {
           var propName;
           var props = {};
           var key = null;
@@ -6985,7 +6985,7 @@ var require_react_development = __commonJS({
               error2("React.createElement: type is invalid -- expected a string (for built-in components) or a class/function (for composite components) but got: %s.%s", typeString, info);
             }
           }
-          var element4 = createElement133.apply(this, arguments);
+          var element4 = createElement136.apply(this, arguments);
           if (element4 == null) {
             return element4;
           }
@@ -7780,9 +7780,9 @@ var require_react_dom_development = __commonJS({
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart(new Error());
         }
-        var React134 = require_react();
+        var React137 = require_react();
         var Scheduler = require_scheduler();
-        var ReactSharedInternals = React134.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var ReactSharedInternals = React137.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         var suppressWarning = false;
         function setSuppressWarning(newSuppressWarning) {
           {
@@ -7831,7 +7831,7 @@ var require_react_dom_development = __commonJS({
         var HostPortal = 4;
         var HostComponent = 5;
         var HostText = 6;
-        var Fragment65 = 7;
+        var Fragment66 = 7;
         var Mode = 8;
         var ContextConsumer = 9;
         var ContextProvider = 10;
@@ -8788,7 +8788,7 @@ var require_react_dom_development = __commonJS({
               return "DehydratedFragment";
             case ForwardRef:
               return getWrappedName$1(type2, type2.render, "ForwardRef");
-            case Fragment65:
+            case Fragment66:
               return "Fragment";
             case HostComponent:
               return type2;
@@ -9183,7 +9183,7 @@ var require_react_dom_development = __commonJS({
           {
             if (props.value == null) {
               if (typeof props.children === "object" && props.children !== null) {
-                React134.Children.forEach(props.children, function(child) {
+                React137.Children.forEach(props.children, function(child) {
                   if (child == null) {
                     return;
                   }
@@ -14312,7 +14312,7 @@ var require_react_dom_development = __commonJS({
             }
           }
         }
-        function createElement133(type2, props, rootContainerElement, parentNamespace) {
+        function createElement136(type2, props, rootContainerElement, parentNamespace) {
           var isCustomComponentTag;
           var ownerDocument = getOwnerDocumentFromRootContainer(rootContainerElement);
           var domElement;
@@ -15164,7 +15164,7 @@ var require_react_dom_development = __commonJS({
             }
             parentNamespace = hostContextDev.namespace;
           }
-          var domElement = createElement133(type2, props, rootContainerInstance, parentNamespace);
+          var domElement = createElement136(type2, props, rootContainerInstance, parentNamespace);
           precacheFiberNode(internalInstanceHandle, domElement);
           updateFiberProps(domElement, props);
           return domElement;
@@ -17309,7 +17309,7 @@ var require_react_dom_development = __commonJS({
           }
         }
         var fakeInternalInstance = {};
-        var emptyRefsObject = new React134.Component().refs;
+        var emptyRefsObject = new React137.Component().refs;
         var didWarnAboutStateAssignmentForComponent;
         var didWarnAboutUninitializedState;
         var didWarnAboutGetSnapshotBeforeUpdateWithoutDidUpdate;
@@ -18118,7 +18118,7 @@ var require_react_dom_development = __commonJS({
             }
           }
           function updateFragment2(returnFiber, current2, fragment2, lanes, key) {
-            if (current2 === null || current2.tag !== Fragment65) {
+            if (current2 === null || current2.tag !== Fragment66) {
               var created = createFiberFromFragment(fragment2, returnFiber.mode, lanes, key);
               created.return = returnFiber;
               return created;
@@ -18520,7 +18520,7 @@ var require_react_dom_development = __commonJS({
               if (child.key === key) {
                 var elementType = element4.type;
                 if (elementType === REACT_FRAGMENT_TYPE) {
-                  if (child.tag === Fragment65) {
+                  if (child.tag === Fragment66) {
                     deleteRemainingChildren(returnFiber, child.sibling);
                     var existing = useFiber(child, element4.props.children);
                     existing.return = returnFiber;
@@ -22562,7 +22562,7 @@ var require_react_dom_development = __commonJS({
               var _resolvedProps2 = workInProgress2.elementType === type2 ? _unresolvedProps2 : resolveDefaultProps(type2, _unresolvedProps2);
               return updateForwardRef(current2, workInProgress2, type2, _resolvedProps2, renderLanes2);
             }
-            case Fragment65:
+            case Fragment66:
               return updateFragment(current2, workInProgress2, renderLanes2);
             case Mode:
               return updateMode(current2, workInProgress2, renderLanes2);
@@ -22829,7 +22829,7 @@ var require_react_dom_development = __commonJS({
             case SimpleMemoComponent:
             case FunctionComponent:
             case ForwardRef:
-            case Fragment65:
+            case Fragment66:
             case Mode:
             case Profiler:
             case ContextConsumer:
@@ -27039,7 +27039,7 @@ var require_react_dom_development = __commonJS({
           return fiber;
         }
         function createFiberFromFragment(elements, mode, lanes, key) {
-          var fiber = createFiber(Fragment65, elements, key, mode);
+          var fiber = createFiber(Fragment66, elements, key, mode);
           fiber.lanes = lanes;
           return fiber;
         }
@@ -28297,7 +28297,7 @@ var require_react_is_development = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment65 = REACT_FRAGMENT_TYPE;
+        var Fragment66 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -28356,7 +28356,7 @@ var require_react_is_development = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment65;
+        exports.Fragment = Fragment66;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -29064,7 +29064,7 @@ var require_react_is_development2 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment65 = REACT_FRAGMENT_TYPE;
+        var Fragment66 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -29132,7 +29132,7 @@ var require_react_is_development2 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment65;
+        exports.Fragment = Fragment66;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -35646,7 +35646,7 @@ var require_flatpickr = __commonJS({
           return elem.classList.add(className);
         elem.classList.remove(className);
       }
-      function createElement133(tag, className, content3) {
+      function createElement136(tag, className, content3) {
         var e2 = window.document.createElement(tag);
         className = className || "";
         content3 = content3 || "";
@@ -35667,7 +35667,7 @@ var require_flatpickr = __commonJS({
         return void 0;
       }
       function createNumberInput(inputClassName, opts) {
-        var wrapper = createElement133("div", "numInputWrapper"), numInput = createElement133("input", "numInput " + inputClassName), arrowUp2 = createElement133("span", "arrowUp"), arrowDown2 = createElement133("span", "arrowDown");
+        var wrapper = createElement136("div", "numInputWrapper"), numInput = createElement136("input", "numInput " + inputClassName), arrowUp2 = createElement136("span", "arrowUp"), arrowDown2 = createElement136("span", "arrowDown");
         if (navigator.userAgent.indexOf("MSIE 9.0") === -1) {
           numInput.type = "number";
         } else {
@@ -36023,7 +36023,7 @@ var require_flatpickr = __commonJS({
         self2.clear = clear;
         self2.close = close;
         self2.onMouseOver = onMouseOver;
-        self2._createElement = createElement133;
+        self2._createElement = createElement136;
         self2.createDay = createDay;
         self2.destroy = destroy;
         self2.isEnabled = isEnabled;
@@ -36311,21 +36311,21 @@ var require_flatpickr = __commonJS({
         }
         function build3() {
           var fragment2 = window.document.createDocumentFragment();
-          self2.calendarContainer = createElement133("div", "flatpickr-calendar");
+          self2.calendarContainer = createElement136("div", "flatpickr-calendar");
           self2.calendarContainer.tabIndex = -1;
           if (!self2.config.noCalendar) {
             fragment2.appendChild(buildMonthNav());
-            self2.innerContainer = createElement133("div", "flatpickr-innerContainer");
+            self2.innerContainer = createElement136("div", "flatpickr-innerContainer");
             if (self2.config.weekNumbers) {
               var _a = buildWeeks(), weekWrapper = _a.weekWrapper, weekNumbers = _a.weekNumbers;
               self2.innerContainer.appendChild(weekWrapper);
               self2.weekNumbers = weekNumbers;
               self2.weekWrapper = weekWrapper;
             }
-            self2.rContainer = createElement133("div", "flatpickr-rContainer");
+            self2.rContainer = createElement136("div", "flatpickr-rContainer");
             self2.rContainer.appendChild(buildWeekdays());
             if (!self2.daysContainer) {
-              self2.daysContainer = createElement133("div", "flatpickr-days");
+              self2.daysContainer = createElement136("div", "flatpickr-days");
               self2.daysContainer.tabIndex = -1;
             }
             buildDays();
@@ -36350,7 +36350,7 @@ var require_flatpickr = __commonJS({
                 self2.config.appendTo.appendChild(self2.calendarContainer);
             }
             if (self2.config.static) {
-              var wrapper = createElement133("div", "flatpickr-wrapper");
+              var wrapper = createElement136("div", "flatpickr-wrapper");
               if (self2.element.parentNode)
                 self2.element.parentNode.insertBefore(wrapper, self2.element);
               wrapper.appendChild(self2.element);
@@ -36363,7 +36363,7 @@ var require_flatpickr = __commonJS({
             (self2.config.appendTo !== void 0 ? self2.config.appendTo : window.document.body).appendChild(self2.calendarContainer);
         }
         function createDay(className, date2, _dayNumber, i) {
-          var dateIsEnabled = isEnabled(date2, true), dayElement = createElement133("span", className, date2.getDate().toString());
+          var dateIsEnabled = isEnabled(date2, true), dayElement = createElement136("span", className, date2.getDate().toString());
           dayElement.dateObj = date2;
           dayElement.$i = i;
           dayElement.setAttribute("aria-label", self2.formatDate(date2, self2.config.ariaDateFormat));
@@ -36461,7 +36461,7 @@ var require_flatpickr = __commonJS({
           for (var dayNum = daysInMonth2 + 1; dayNum <= 42 - firstOfMonth && (self2.config.showMonths === 1 || dayIndex % 7 !== 0); dayNum++, dayIndex++) {
             days.appendChild(createDay("flatpickr-day " + nextMonthDayClass, new Date(year, month + 1, dayNum % daysInMonth2), dayNum, dayIndex));
           }
-          var dayContainer = createElement133("div", "dayContainer");
+          var dayContainer = createElement136("div", "dayContainer");
           dayContainer.appendChild(days);
           return dayContainer;
         }
@@ -36498,7 +36498,7 @@ var require_flatpickr = __commonJS({
           for (var i = 0; i < 12; i++) {
             if (!shouldBuildMonth(i))
               continue;
-            var month = createElement133("option", "flatpickr-monthDropdown-month");
+            var month = createElement136("option", "flatpickr-monthDropdown-month");
             month.value = new Date(self2.currentYear, i).getMonth().toString();
             month.textContent = monthToStr(i, self2.config.shorthandCurrentMonth, self2.l10n);
             month.tabIndex = -1;
@@ -36509,13 +36509,13 @@ var require_flatpickr = __commonJS({
           }
         }
         function buildMonth() {
-          var container = createElement133("div", "flatpickr-month");
+          var container = createElement136("div", "flatpickr-month");
           var monthNavFragment = window.document.createDocumentFragment();
           var monthElement;
           if (self2.config.showMonths > 1 || self2.config.monthSelectorType === "static") {
-            monthElement = createElement133("span", "cur-month");
+            monthElement = createElement136("span", "cur-month");
           } else {
-            self2.monthsDropdownContainer = createElement133("select", "flatpickr-monthDropdown-months");
+            self2.monthsDropdownContainer = createElement136("select", "flatpickr-monthDropdown-months");
             self2.monthsDropdownContainer.setAttribute("aria-label", self2.l10n.monthAriaLabel);
             bind2(self2.monthsDropdownContainer, "change", function(e2) {
               var target = getEventTarget(e2);
@@ -36536,7 +36536,7 @@ var require_flatpickr = __commonJS({
             yearElement.setAttribute("max", self2.config.maxDate.getFullYear().toString());
             yearElement.disabled = !!self2.config.minDate && self2.config.minDate.getFullYear() === self2.config.maxDate.getFullYear();
           }
-          var currentMonth = createElement133("div", "flatpickr-current-month");
+          var currentMonth = createElement136("div", "flatpickr-current-month");
           currentMonth.appendChild(monthElement);
           currentMonth.appendChild(yearInput);
           monthNavFragment.appendChild(currentMonth);
@@ -36563,12 +36563,12 @@ var require_flatpickr = __commonJS({
           self2.monthNav.appendChild(self2.nextMonthNav);
         }
         function buildMonthNav() {
-          self2.monthNav = createElement133("div", "flatpickr-months");
+          self2.monthNav = createElement136("div", "flatpickr-months");
           self2.yearElements = [];
           self2.monthElements = [];
-          self2.prevMonthNav = createElement133("span", "flatpickr-prev-month");
+          self2.prevMonthNav = createElement136("span", "flatpickr-prev-month");
           self2.prevMonthNav.innerHTML = self2.config.prevArrow;
-          self2.nextMonthNav = createElement133("span", "flatpickr-next-month");
+          self2.nextMonthNav = createElement136("span", "flatpickr-next-month");
           self2.nextMonthNav.innerHTML = self2.config.nextArrow;
           buildMonths();
           Object.defineProperty(self2, "_hidePrevMonthArrow", {
@@ -36602,9 +36602,9 @@ var require_flatpickr = __commonJS({
           if (self2.config.noCalendar)
             self2.calendarContainer.classList.add("noCalendar");
           var defaults5 = getDefaultHours(self2.config);
-          self2.timeContainer = createElement133("div", "flatpickr-time");
+          self2.timeContainer = createElement136("div", "flatpickr-time");
           self2.timeContainer.tabIndex = -1;
-          var separator = createElement133("span", "flatpickr-time-separator", ":");
+          var separator = createElement136("span", "flatpickr-time-separator", ":");
           var hourInput = createNumberInput("flatpickr-hour", {
             "aria-label": self2.l10n.hourAriaLabel
           });
@@ -36638,11 +36638,11 @@ var require_flatpickr = __commonJS({
             self2.secondElement.setAttribute("min", "0");
             self2.secondElement.setAttribute("max", "59");
             self2.secondElement.setAttribute("maxlength", "2");
-            self2.timeContainer.appendChild(createElement133("span", "flatpickr-time-separator", ":"));
+            self2.timeContainer.appendChild(createElement136("span", "flatpickr-time-separator", ":"));
             self2.timeContainer.appendChild(secondInput);
           }
           if (!self2.config.time_24hr) {
-            self2.amPM = createElement133("span", "flatpickr-am-pm", self2.l10n.amPM[int2((self2.latestSelectedDateObj ? self2.hourElement.value : self2.config.defaultHour) > 11)]);
+            self2.amPM = createElement136("span", "flatpickr-am-pm", self2.l10n.amPM[int2((self2.latestSelectedDateObj ? self2.hourElement.value : self2.config.defaultHour) > 11)]);
             self2.amPM.title = self2.l10n.toggleTitle;
             self2.amPM.tabIndex = -1;
             self2.timeContainer.appendChild(self2.amPM);
@@ -36651,11 +36651,11 @@ var require_flatpickr = __commonJS({
         }
         function buildWeekdays() {
           if (!self2.weekdayContainer)
-            self2.weekdayContainer = createElement133("div", "flatpickr-weekdays");
+            self2.weekdayContainer = createElement136("div", "flatpickr-weekdays");
           else
             clearNode(self2.weekdayContainer);
           for (var i = self2.config.showMonths; i--; ) {
-            var container = createElement133("div", "flatpickr-weekdaycontainer");
+            var container = createElement136("div", "flatpickr-weekdaycontainer");
             self2.weekdayContainer.appendChild(container);
           }
           updateWeekdays();
@@ -36676,9 +36676,9 @@ var require_flatpickr = __commonJS({
         }
         function buildWeeks() {
           self2.calendarContainer.classList.add("hasWeeks");
-          var weekWrapper = createElement133("div", "flatpickr-weekwrapper");
-          weekWrapper.appendChild(createElement133("span", "flatpickr-weekday", self2.l10n.weekAbbreviation));
-          var weekNumbers = createElement133("div", "flatpickr-weeks");
+          var weekWrapper = createElement136("div", "flatpickr-weekwrapper");
+          weekWrapper.appendChild(createElement136("span", "flatpickr-weekday", self2.l10n.weekAbbreviation));
+          var weekNumbers = createElement136("div", "flatpickr-weeks");
           weekWrapper.appendChild(weekNumbers);
           return {
             weekWrapper,
@@ -37536,7 +37536,7 @@ var require_flatpickr = __commonJS({
           self2.input.classList.add("flatpickr-input");
           self2._input = self2.input;
           if (self2.config.altInput) {
-            self2.altInput = createElement133(self2.input.nodeName, self2.config.altInputClass);
+            self2.altInput = createElement136(self2.input.nodeName, self2.config.altInputClass);
             self2._input = self2.altInput;
             self2.altInput.placeholder = self2.input.placeholder;
             self2.altInput.disabled = self2.input.disabled;
@@ -37556,7 +37556,7 @@ var require_flatpickr = __commonJS({
         }
         function setupMobile() {
           var inputType = self2.config.enableTime ? self2.config.noCalendar ? "time" : "datetime-local" : "date";
-          self2.mobileInput = createElement133("input", self2.input.className + " flatpickr-mobile");
+          self2.mobileInput = createElement136("input", self2.input.className + " flatpickr-mobile");
           self2.mobileInput.tabIndex = 1;
           self2.mobileInput.type = inputType;
           self2.mobileInput.disabled = self2.input.disabled;
@@ -46090,7 +46090,7 @@ var require_react_is_development3 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment65 = REACT_FRAGMENT_TYPE;
+        var Fragment66 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -46149,7 +46149,7 @@ var require_react_is_development3 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment65;
+        exports.Fragment = Fragment66;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -46377,7 +46377,7 @@ var require_react_is_development4 = __commonJS({
         var ContextProvider = REACT_PROVIDER_TYPE;
         var Element3 = REACT_ELEMENT_TYPE;
         var ForwardRef = REACT_FORWARD_REF_TYPE;
-        var Fragment65 = REACT_FRAGMENT_TYPE;
+        var Fragment66 = REACT_FRAGMENT_TYPE;
         var Lazy = REACT_LAZY_TYPE;
         var Memo = REACT_MEMO_TYPE;
         var Portal = REACT_PORTAL_TYPE;
@@ -46441,7 +46441,7 @@ var require_react_is_development4 = __commonJS({
         exports.ContextProvider = ContextProvider;
         exports.Element = Element3;
         exports.ForwardRef = ForwardRef;
-        exports.Fragment = Fragment65;
+        exports.Fragment = Fragment66;
         exports.Lazy = Lazy;
         exports.Memo = Memo;
         exports.Portal = Portal;
@@ -46497,6 +46497,7 @@ var ElementType = /* @__PURE__ */ ((ElementType2) => {
   ElementType2["PlayerCharacter"] = "playercharacter";
   ElementType2["NonPlayerCharacter"] = "nonplayercharacter";
   ElementType2["Location"] = "location";
+  ElementType2["Lore"] = "lore";
   ElementType2["Event"] = "event";
   ElementType2["Clue"] = "clue";
   ElementType2["Faction"] = "faction";
@@ -46726,7 +46727,11 @@ var RpgManagerCodeblockService = class {
         const scrollInfo = editor.getScrollInfo();
         EditorPositionService.setEditorPosition(this._file.path, editor, cursorPosition, scrollInfo);
       }
-      this._app.vault.modify(this._file, content3);
+      yield this._app.vault.modify(this._file, content3);
+      if (activeLeaf) {
+        console.info("Reloading file:", this._file.path);
+        this._app.workspace.setActiveLeaf(activeLeaf, { focus: true });
+      }
     });
   }
   update(values2) {
@@ -46795,12 +46800,13 @@ var RpgManagerCodeblockService = class {
       const yamlService = new YamlService();
       const codeblockContent = yamlService.stringify(codeblock);
       this._modifyFileContent(this._fileContent.replace(this._codeblockContent, codeblockContent));
+      this._app.vault.cachedRead(this._file);
     });
   }
   updateRelationshipInContent(relationships) {
     return __async(this, null, function* () {
       yield this._readMetadata();
-      if (this._metadata === null)
+      if (this._metadata == null)
         return void 0;
       const element4 = this._api.get(this._file.path);
       if (element4.type === "campaign" /* Campaign */)
@@ -46834,7 +46840,7 @@ var RpgManagerCodeblockService = class {
     return __async(this, null, function* () {
       var _a, _b, _c, _d, _e;
       yield this._readMetadata();
-      if (this._metadata === null)
+      if (this._metadata == null)
         return void 0;
       let codeblockContent = void 0;
       let codeblockData = void 0;
@@ -46856,16 +46862,24 @@ var RpgManagerCodeblockService = class {
   }
   addCodeBlock(rpgManagerCodeblock) {
     return __async(this, null, function* () {
+      var _a;
       yield this._readMetadata();
-      if (this._metadata === null)
+      if (this._metadata == null)
         return void 0;
       const yamlService = new YamlService();
       const codeblockContent = yamlService.stringify(rpgManagerCodeblock);
       const codeblockContentLines = codeblockContent.split("\n");
       codeblockContentLines.pop();
       let newContent = [];
-      if (this._metadata.frontmatter === void 0) {
-        newContent = ["", "```RpgManager4", ...codeblockContentLines, "```", "", ...this._fileContentLines];
+      if (((_a = this._metadata) == null ? void 0 : _a.frontmatter) === void 0) {
+        newContent = [
+          "",
+          "```RpgManager4",
+          ...codeblockContentLines,
+          "```",
+          "",
+          ...this._fileContentLines
+        ];
       } else {
         let frontmatterStarted = false;
         let frontmatterEnded = false;
@@ -47243,6 +47257,7 @@ var abtstage = { id: "abtstage" /* AbtStage */, type: "AbtStage" /* AbtStage */ 
 var externalactions = { id: "externalactions" /* ExternalActions */, type: "Boolean" /* Boolean */ };
 var address = { id: "address" /* Address */, type: "LongText" /* LongText */ };
 var location = { id: "location" /* Location */, type: "Map" /* Map */ };
+var lore = { id: "lore" /* Lore */, type: "LongText" /* LongText */ };
 var duration = { id: "duration" /* Duration */, type: "Duration" /* Duration */ };
 var philosophy = { id: "philosophy" /* Philosophy */, type: "LongText" /* LongText */ };
 var majorclues = { id: "majorclues" /* MajorClues */, type: "MajorClues" /* MajorClues */ };
@@ -47290,6 +47305,7 @@ var attributes = /* @__PURE__ */ new Map([
   ],
   ["event" /* Event */, [description, date]],
   ["location" /* Location */, [sensoryimprint, description, address, location]],
+  ["lore" /* Lore */, [description]],
   ["faction" /* Faction */, [description, philosophy, factionstructure]],
   ["clue" /* Clue */, [description]],
   [
@@ -48168,6 +48184,10 @@ var i18nIt = {
     location_other: "Luoghi",
     location_inside: "Dentro il Luogo",
     location_contains: "Contiene Luoghi",
+    lore_one: "leggenda",
+    lore_other: "leggende",
+    lore_inside: "Dentro la leggenda",
+    lore_contains: "Contiene leggende",
     faction_one: "Fazione",
     faction_other: "Fazioni",
     faction_inside: "Dentro la Fazione",
@@ -48213,6 +48233,7 @@ var i18nIt = {
     complete_playercharacter: "Completa Personaggio Giocante",
     complete_nonplayercharacter: "Completa Personaggio Non Giocante",
     complete_location: "Completa Luogo",
+    complete_lore: "Completa Leggenda",
     complete_faction: "Completa Fazione",
     complete_event: "Completa Evento",
     complete_clue: "Completa Indizio",
@@ -48266,6 +48287,7 @@ var i18nIt = {
     externalactions: "Eccitante",
     address: "Indirizzo",
     location: "Luogo",
+    lore: "Leggenda",
     duration: "Durata",
     philosophy: "Filosofia",
     majorclues: "Indizi Principali",
@@ -48391,6 +48413,7 @@ var i18nIt = {
     new_playercharacter: "Crea un nuovo Personaggio Giocante",
     new_nonplayercharacter: "Crea un nuovo Personaggio Non Giocante",
     new_location: "Crea un nuovo Luogo",
+    new_lore: "Crea una nuova Leggenda",
     new_faction: "Crea una nuova Fazione",
     new_event: "Crea un nuovo Evento",
     new_clue: "Crea un nuovo Indizio",
@@ -48406,6 +48429,7 @@ var i18nIt = {
     in_playercharacter: "Aggiungi un nuovo Personaggio Giocante alla nota corrente",
     in_nonplayercharacter: "Aggiungi un nuovo Personaggio Non Giocante alla nota corrente",
     in_location: "Aggiungi un nuovo Luogo alla nota corrente",
+    in_lore: "Aggiungi una nuova Leggenda alla nota corrente",
     in_faction: "Aggiungi una nuova Fazione alla nota corrente",
     in_event: "Aggiungi un nuovo Evento alla nota corrente",
     in_clue: "Aggiungi un nuovo Indizio alla nota corrente",
@@ -48415,6 +48439,7 @@ var i18nIt = {
     add_session: "Aggiungi una nuova Sessione",
     add_scene: "Aggiungi una nuova Scena",
     add_chapter: "Aggiungi un nuovo Capitolo",
+    add_lore: "Aggiungi una nuova Leggenda",
     add_task: "Aggiungi un nuovo Compito",
     add_clue: "Aggiungi Indizio",
     add_relationship: "Aggiungi Relazione",
@@ -48489,9 +48514,12 @@ var i18nIt = {
       targetdescription_event: "Scrivi una descrizione per l'evento chiave nel capitolo *{{name}}*",
       targettitle_location: "Descrizione della posizione chiave",
       targetdescription_location: "Scrivi una descrizione per la posizione chiave nel capitolo *{{name}}*",
+      targettitle_lore: "Descrizione della leggenda chiave",
+      targetdescription_lore: "Scrivi una descrizione per la leggenda chiave nel capitolo *{{name}}*",
       targetelementtype: "Tipo di obiettivo",
       targettype_event: "La trama si sviluppa attraverso un evento",
       targettype_location: "Il capitolo ruota attorno a una posizione",
+      targettype_lore: "Il capitolo approfondisce la storia o la leggenda",
       targetelementtype_existing: "Esistente",
       targetelementtypedescription_existing: "Seleziona un evento o una posizione esistenti su cui far pivot il capitolo.",
       targetelementtype_new: "Nuovo",
@@ -51818,6 +51846,11 @@ var i18nEn = {
     location_other: "Locations",
     location_inside: "Inside Location",
     location_contains: "Contains Locations",
+    lore_one: "Lore",
+    lore_other: "Related Lore",
+    lore_other_help: "Lore helps to provide background information and context to the story.",
+    lore_inside: "Inside Lore",
+    lore_contains: "Contains Lore",
     faction_one: "Faction",
     faction_other: "Factions",
     faction_inside: "Inside Faction",
@@ -51863,6 +51896,7 @@ var i18nEn = {
     complete_playercharacter: "Complete Player Character",
     complete_nonplayercharacter: "Complete Non-Player Character",
     complete_location: "Complete Location",
+    complete_lore: "Complete Lore",
     complete_faction: "Complete Faction",
     complete_event: "Complete Event",
     complete_clue: "Complete Clue",
@@ -51887,7 +51921,7 @@ var i18nEn = {
 
 On the left you can see the attributes you have already created, and you can edit them.
 
-If you want to create new ones, just click on the button and define the name and type of the attribute and in which elements it is goign to be available.`,
+If you want to create new ones, just click on the button and define the name and type of the attribute and in which elements it is going to be available.`,
     cantdelete: "You can't delete this attribute because it is used in one or more elements."
   },
   attributes: {
@@ -51916,6 +51950,7 @@ If you want to create new ones, just click on the button and define the name and
     externalactions: "Exciting",
     address: "Address",
     location: "Location",
+    lore: "Lore",
     duration: "Duration",
     philosophy: "Philosophy",
     majorclues: "Major Clues",
@@ -52041,6 +52076,7 @@ If you want to create new ones, just click on the button and define the name and
     new_playercharacter: "Create new Player Character",
     new_nonplayercharacter: "Create new Non-Player Character",
     new_location: "Create new Location",
+    new_lore: "Create new Lore",
     new_faction: "Create new Faction",
     new_event: "Create new Event",
     new_clue: "Create new Clue",
@@ -52056,6 +52092,7 @@ If you want to create new ones, just click on the button and define the name and
     in_playercharacter: "Add a new Player Character to the current note",
     in_nonplayercharacter: "Add a new Non-Player Character to the current note",
     in_location: "Add a new Location to the current note",
+    in_lore: "Adds new Lore to the current note",
     in_faction: "Add a new Faction to the current note",
     in_event: "Add a new Event to the current note",
     in_clue: "Add a new Clue to the current note",
@@ -52065,6 +52102,7 @@ If you want to create new ones, just click on the button and define the name and
     add_session: "Add new Session",
     add_scene: "Add new Scene",
     add_chapter: "Add new Chapter",
+    add_lore: "Add new Lore",
     add_task: "Add new Task",
     add_clue: "Add Clue",
     add_relationship: "Add Relationship",
@@ -52139,9 +52177,12 @@ Describe *{{name}}*.`,
       targetdescription_event: "Write a description for the key event in chapter *{{name}}*",
       targettitle_location: "Description of the key location",
       targetdescription_location: "Write a description for the key location in chapter *{{name}}*",
+      targettitle_lore: "Description of the key lore",
+      targetdescription_lore: "Write a description for the key lore in chapter *{{name}}*",
       targetelementtype: "Target type",
       targettype_event: "The plot is moved forward by an event",
       targettype_location: "The chapter revolves around a location",
+      targettype_lore: "The chapter delves into the history or lore",
       targetelementtype_existing: "Existing",
       targetelementtypedescription_existing: "Select an existing event or location where to pivot the chapter.",
       targetelementtype_new: "New",
@@ -70607,13 +70648,13 @@ function styleToObject(style3) {
     return acc;
   }, {});
 }
-function convert2(createElement133, element4) {
+function convert2(createElement136, element4) {
   var extraProps = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
   if (typeof element4 === "string") {
     return element4;
   }
   var children = (element4.children || []).map(function(child) {
-    return convert2(createElement133, child);
+    return convert2(createElement136, child);
   });
   var mixins = Object.keys(element4.attributes || {}).reduce(function(acc, key) {
     var val = element4.attributes[key];
@@ -70638,7 +70679,7 @@ function convert2(createElement133, element4) {
   });
   var _extraProps$style = extraProps.style, existingStyle = _extraProps$style === void 0 ? {} : _extraProps$style, remaining = _objectWithoutProperties(extraProps, _excluded);
   mixins.attrs["style"] = _objectSpread22(_objectSpread22({}, mixins.attrs["style"]), existingStyle);
-  return createElement133.apply(void 0, [element4.tag, _objectSpread22(_objectSpread22({}, mixins.attrs), remaining)].concat(_toConsumableArray2(children)));
+  return createElement136.apply(void 0, [element4.tag, _objectSpread22(_objectSpread22({}, mixins.attrs), remaining)].concat(_toConsumableArray2(children)));
 }
 var PRODUCTION2 = false;
 try {
@@ -74903,7 +74944,7 @@ var {
 
 // src/services/ChatGptService/ChatGptService.ts
 var ChatGptService = class {
-  constructor(_api, _model = "gpt-3.5-turbo" /* Gpt3Turbo */) {
+  constructor(_api, _model = "gpt-4.1-nano") {
     this._api = _api;
     this._model = _model;
     __publicField(this, "_endpoint", "https://api.openai.com/v1/chat/completions");
@@ -74939,8 +74980,10 @@ Each option should be qualitative, not a short sentence and will allow the story
     return __async(this, null, function* () {
       var _a, _b, _c;
       try {
-        const response = yield axios_default.post(this._endpoint, {
-          model: this._model,
+        const endpoint = this._api.settings.ollamaUrl ? this._api.settings.ollamaUrl + "/v1/chat/completions" : this._endpoint;
+        const model = this._api.settings.ollamaUrl ? this._api.settings.model : this._model;
+        const response = yield axios_default.post(endpoint, {
+          model,
           messages
         }, {
           headers: {
@@ -74957,15 +75000,20 @@ Each option should be qualitative, not a short sentence and will allow the story
     });
   }
   _processLatestMessage(latestMessage) {
-    const splitResponses = latestMessage.trim().split("\n");
-    const results = splitResponses.filter((resp) => resp.trim() !== "").map((resp) => ({ response: resp.replace(/^\d+\.\s*/, "").trim() }));
+    let results = [];
+    if (this._api.settings.ollamaUrl) {
+      results.push({ response: latestMessage });
+    } else {
+      const splitResponses = latestMessage.trim().split("\n");
+      results = splitResponses.filter((resp) => resp.trim() !== "").map((resp) => ({ response: resp.replace(/^\d+\.\s*/, "").trim() }));
+    }
     return results;
   }
 };
 
 // src/services/ChatGptService/models/ChatGptNonPlayerCharacterModel.ts
 var ChatGptNonPlayerCharacterModel = class {
-  constructor(_api, _campaign, _name, _model = "gpt-3.5-turbo" /* Gpt3Turbo */) {
+  constructor(_api, _campaign, _name, _model = "gpt-4.1-nano") {
     this._api = _api;
     this._campaign = _campaign;
     this._name = _name;
@@ -75263,7 +75311,7 @@ function EditComponent2({
   const [touch, setTouch] = React62.useState((_h = (_g = attribute == null ? void 0 : attribute.value) == null ? void 0 : _g.touch) != null ? _h : "");
   const [taste, setTaste] = React62.useState((_j = (_i = attribute == null ? void 0 : attribute.value) == null ? void 0 : _i.taste) != null ? _j : "");
   let chatGpt = void 0;
-  if (api2.settings.chatGptKey !== void 0 && api2.settings.chatGptKey !== "") {
+  if (api2.settings.hasLLM) {
     chatGpt = new ChatGptNonPlayerCharacterModel(api2, element4.type === "campaign" /* Campaign */ ? element4 : element4.campaign, element4.name);
   }
   const handleGeneration = () => {
@@ -75788,207 +75836,11 @@ function LocationComponent({
   })));
 }
 
-// src/components/elements/MonsterComponent.tsx
-var React69 = __toESM(require_react());
-function MonsterComponent({
-  element: element4,
-  isInPopover
-}) {
-  return /* @__PURE__ */ React69.createElement(React69.Fragment, null, /* @__PURE__ */ React69.createElement("div", {
-    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React69.createElement(MainV1Component, {
-    element: element4,
-    isInPopover
-  })));
-}
-
-// src/components/elements/ObjectComponent.tsx
-var React70 = __toESM(require_react());
-function ObjectComponent({
-  element: element4,
-  isInPopover
-}) {
-  return /* @__PURE__ */ React70.createElement(React70.Fragment, null, /* @__PURE__ */ React70.createElement("div", {
-    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React70.createElement(MainV1Component, {
-    element: element4,
-    isInPopover
-  })));
-}
-
-// src/components/elements/PlayerCharacterComponent.tsx
-var React71 = __toESM(require_react());
-function PlayerCharacterComponent({
-  element: element4,
-  isInPopover
-}) {
-  return /* @__PURE__ */ React71.createElement(React71.Fragment, null, /* @__PURE__ */ React71.createElement("div", {
-    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React71.createElement(MainV1Component, {
-    element: element4,
-    isInPopover
-  })));
-}
-
-// src/components/elements/SceneComponent.tsx
-var React73 = __toESM(require_react());
-
-// src/components/attributes/types/DurationAttributeComponent.tsx
-var React72 = __toESM(require_react());
-
-// src/services/TimerService.ts
-var _TimerService = class {
-  static get runningScene() {
-    return this._runningScene;
-  }
-  static startTimer(app, api2, element4) {
-    if (this._runningScene !== void 0 && this._runningScene !== element4.path)
-      return;
-    if (this._runningScene !== void 0)
-      _TimerService.endTimer(app, api2);
-    this._runningScene = element4.path;
-    this._runningStart = Math.round(Date.now() / 1e3);
-  }
-  static endTimer(app, api2) {
-    var _a;
-    if (_TimerService._runningScene === void 0 || _TimerService._runningStart === void 0) {
-      _TimerService._runningScene = void 0;
-      _TimerService._runningStart = void 0;
-      return;
-    }
-    const scene = api2.get(_TimerService._runningScene);
-    if (scene === void 0)
-      return;
-    const attribute = scene.attribute("Duration" /* Duration */);
-    if (attribute === void 0)
-      return;
-    const duration2 = Math.round(Date.now() / 1e3) - _TimerService._runningStart;
-    const codeblockService = new RpgManagerCodeblockService(app, api2, scene.file);
-    codeblockService.updateCodeblockData(attribute.id, ((_a = attribute.value) != null ? _a : 0) + duration2);
-    _TimerService._runningScene = void 0;
-    _TimerService._runningStart = void 0;
-  }
-};
-var TimerService = _TimerService;
-__publicField(TimerService, "_runningScene");
-__publicField(TimerService, "_runningStart");
-
-// src/components/attributes/types/DurationAttributeComponent.tsx
-function DurationAttributeComponent({
-  element: element4,
-  attribute,
-  isEditable
-}) {
-  const { t: t2 } = useTranslation();
-  const api2 = useApi();
-  const app = useApp();
-  const [isRunning, setIsRunning] = React72.useState(false);
-  const [duration2, setDuration] = React72.useState(attribute.value || 0);
-  const timerRef = React72.useRef(null);
-  const handleStartStop = () => {
-    if (isRunning)
-      TimerService.endTimer(app, api2);
-    else
-      TimerService.startTimer(app, api2, element4);
-    setIsRunning(!isRunning);
-  };
-  React72.useEffect(() => {
-    if (isRunning) {
-      timerRef.current = setInterval(() => {
-        setDuration((prev) => prev + 1);
-      }, 1e3);
-    }
-    return () => {
-      if (timerRef.current) {
-        clearInterval(timerRef.current);
-      }
-    };
-  }, [isRunning]);
-  const formatDuration = (seconds) => {
-    const hours = Math.floor(seconds / 3600);
-    const minutes = Math.floor(seconds % 3600 / 60);
-    const secs = seconds % 60;
-    return `${String(hours).padStart(2, "0")}:${String(minutes).padStart(2, "0")}:${String(secs).padStart(2, "0")}`;
-  };
-  return /* @__PURE__ */ React72.createElement("div", {
-    className: "flex items-center space-x-4"
-  }, /* @__PURE__ */ React72.createElement("div", {
-    className: "font-bold"
-  }, t2("attributes.duration")), /* @__PURE__ */ React72.createElement("div", {
-    className: "bg-[--background-secondary] border border-[--background-modifier-border] p-2 rounded cursor-pointer transition-transform duration-300 transform-gpu hover:scale-105",
-    onClick: handleStartStop
-  }, isRunning ? /* @__PURE__ */ React72.createElement("div", {
-    className: "w-4 h-4 bg-[--text-normal]"
-  }) : /* @__PURE__ */ React72.createElement("svg", {
-    viewBox: "0 0 12 14",
-    className: "fill-current text-[--text-normal]",
-    width: "12",
-    height: "14"
-  }, /* @__PURE__ */ React72.createElement("polygon", {
-    points: "0,0 12,7 0,14"
-  }))), /* @__PURE__ */ React72.createElement("div", null, formatDuration(duration2)));
-}
-
-// src/components/elements/SceneComponent.tsx
-function SceneComponent({
-  element: element4,
-  isInPopover
-}) {
-  const attribute = element4.attribute("Duration" /* Duration */);
-  return /* @__PURE__ */ React73.createElement(React73.Fragment, null, /* @__PURE__ */ React73.createElement("div", {
-    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React73.createElement(HeaderComponent, {
-    element: element4,
-    isInPopover
-  }), element4.attribute("sensoryimprint" /* SensoryImprint */) && /* @__PURE__ */ React73.createElement(SensoryImprintAttributeComponent, {
-    element: element4,
-    attribute: element4.attribute("sensoryimprint" /* SensoryImprint */),
-    isEditable: !isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React73.createElement("div", {
-    className: "max-h-32 h-32 overflow-hidden"
-  }, /* @__PURE__ */ React73.createElement(ImageComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React73.createElement("div", {
-    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
-  }, /* @__PURE__ */ React73.createElement("div", {
-    className: `col-span-5 sm:col-span-1 lg:col-span-5`
-  }, /* @__PURE__ */ React73.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
-  }, /* @__PURE__ */ React73.createElement(DescriptionAttributeComponent, {
-    element: element4,
-    attribute: element4.attribute("description" /* Description */),
-    isEditable: !isInPopover
-  }), /* @__PURE__ */ React73.createElement(ParentAttributeComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React73.createElement(AttributeListComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  }))), /* @__PURE__ */ React73.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React73.createElement(DurationAttributeComponent, {
-    element: element4,
-    attribute,
-    isEditable: !isInPopover
-  })), element4.images.length > 1 && /* @__PURE__ */ React73.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React73.createElement(ImageCarouselComponent, {
-    element: element4
-  })), !isInPopover && /* @__PURE__ */ React73.createElement(TasksContainerComponent, {
-    element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React73.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React73.createElement(RelationshipsComponent, {
-    element: element4
-  }))));
-}
-
-// src/components/elements/SessionComponent.tsx
-var React87 = __toESM(require_react());
+// src/components/elements/LoreComponent.tsx
+var React84 = __toESM(require_react());
 
 // src/components/hierarchies/HierarchyComponent.tsx
-var React86 = __toESM(require_react());
+var React83 = __toESM(require_react());
 
 // node_modules/react-beautiful-dnd/dist/react-beautiful-dnd.esm.js
 var import_react23 = __toESM(require_react());
@@ -84282,7 +84134,7 @@ var ConnectedDroppable = connect_default(makeMapStateToProps$1, mapDispatchToPro
 ConnectedDroppable.defaultProps = defaultProps;
 
 // src/components/analyser/SceneAnalyserComponent.tsx
-var React78 = __toESM(require_react());
+var React73 = __toESM(require_react());
 function SceneAnalyserComponent({ element: element4 }) {
   var _a, _b, _c, _d, _e;
   const { t: t2 } = useTranslation();
@@ -84304,9 +84156,9 @@ function SceneAnalyserComponent({ element: element4 }) {
       return "text-[--text-warning]";
     return "text-[--text-success]";
   };
-  const LineIndicator = ({ value }) => /* @__PURE__ */ React78.createElement("div", {
+  const LineIndicator = ({ value }) => /* @__PURE__ */ React73.createElement("div", {
     className: "w-full flex bg-opacity-100 items-center h-[2px] bg-[--background-modifier-border] relative"
-  }, /* @__PURE__ */ React78.createElement("div", {
+  }, /* @__PURE__ */ React73.createElement("div", {
     className: `h-[2px] ${getLineColor(value)} transition-width duration-300 absolute left-1/2`,
     style: {
       width: `${Math.abs(value) / 2}%`,
@@ -84330,43 +84182,43 @@ function SceneAnalyserComponent({ element: element4 }) {
     const minutes = minutesDuration % 60;
     return `${String(hours)}h ${String(minutes).padStart(2, "0")}'`;
   }
-  return /* @__PURE__ */ React78.createElement("div", {
+  return /* @__PURE__ */ React73.createElement("div", {
     className: "w-full mt-3"
-  }, /* @__PURE__ */ React78.createElement("h2", null, t2("analyser.sceneanalyser")), /* @__PURE__ */ React78.createElement("div", {
+  }, /* @__PURE__ */ React73.createElement("h2", null, t2("analyser.sceneanalyser")), /* @__PURE__ */ React73.createElement("div", {
     className: `text-center w-full mb-3 !font-extralight text-5xl ${getTextColor(analysis.score)}`
-  }, ((_a = analysis.score) == null ? void 0 : _a.toString()) + "%"), /* @__PURE__ */ React78.createElement("div", {
+  }, ((_a = analysis.score) == null ? void 0 : _a.toString()) + "%"), /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-3 mb-2 text-center"
-  }, t2("analyser.expectedduration"), ": ", /* @__PURE__ */ React78.createElement("span", {
+  }, t2("analyser.expectedduration"), ": ", /* @__PURE__ */ React73.createElement("span", {
     className: "font-bold"
-  }, secondsToHHMM(analysis.expectedDuration))), /* @__PURE__ */ React78.createElement("div", {
+  }, secondsToHHMM(analysis.expectedDuration))), /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-3 mb-2 text-center"
-  }, t2("analyser.activity"), ": ", ((_b = analysis.activity) == null ? void 0 : _b.toString()) + "%"), /* @__PURE__ */ React78.createElement(LineIndicator, {
+  }, t2("analyser.activity"), ": ", ((_b = analysis.activity) == null ? void 0 : _b.toString()) + "%"), /* @__PURE__ */ React73.createElement(LineIndicator, {
     value: analysis.activity
-  }), getContext(analysis.activity) !== void 0 && /* @__PURE__ */ React78.createElement("div", {
+  }), getContext(analysis.activity) !== void 0 && /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-0 mb-2 text-center text-xs"
-  }, t2("analyser.saactivity", { context: getContext(analysis.activity) })), /* @__PURE__ */ React78.createElement("div", {
+  }, t2("analyser.saactivity", { context: getContext(analysis.activity) })), /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-3 mb-2 text-center"
-  }, t2("analyser.excitement"), ": ", ((_c = analysis.excitement) == null ? void 0 : _c.toString()) + "%"), /* @__PURE__ */ React78.createElement(LineIndicator, {
+  }, t2("analyser.excitement"), ": ", ((_c = analysis.excitement) == null ? void 0 : _c.toString()) + "%"), /* @__PURE__ */ React73.createElement(LineIndicator, {
     value: analysis.excitement
-  }), getContext(analysis.excitement) && /* @__PURE__ */ React78.createElement("div", {
+  }), getContext(analysis.excitement) && /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-0 mb-2 text-center text-xs"
-  }, t2("sanalyser.aexcitement", { context: getContext(analysis.excitement) })), /* @__PURE__ */ React78.createElement("div", {
+  }, t2("sanalyser.aexcitement", { context: getContext(analysis.excitement) })), /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-3 mb-2 text-center"
-  }, t2("analyser.interest"), ": ", ((_d = analysis.interest) == null ? void 0 : _d.toString()) + "%"), /* @__PURE__ */ React78.createElement(LineIndicator, {
+  }, t2("analyser.interest"), ": ", ((_d = analysis.interest) == null ? void 0 : _d.toString()) + "%"), /* @__PURE__ */ React73.createElement(LineIndicator, {
     value: analysis.interest
-  }), getContext(analysis.interest) && /* @__PURE__ */ React78.createElement("div", {
+  }), getContext(analysis.interest) && /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-0 mb-2 text-center text-xs"
-  }, t2("analyser.sainterest", { context: getContext(analysis.interest) })), /* @__PURE__ */ React78.createElement("div", {
+  }, t2("analyser.sainterest", { context: getContext(analysis.interest) })), /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-3 mb-2 text-center"
-  }, t2("analyser.variety"), ": ", ((_e = analysis.variety) == null ? void 0 : _e.toString()) + "%"), /* @__PURE__ */ React78.createElement(LineIndicator, {
+  }, t2("analyser.variety"), ": ", ((_e = analysis.variety) == null ? void 0 : _e.toString()) + "%"), /* @__PURE__ */ React73.createElement(LineIndicator, {
     value: analysis.variety
-  }), getContext(analysis.variety) && /* @__PURE__ */ React78.createElement("div", {
+  }), getContext(analysis.variety) && /* @__PURE__ */ React73.createElement("div", {
     className: "w-full !mt-0 mb-2 text-center text-xs"
   }, t2("savariety", { context: getContext(analysis.variety) })));
 }
 
 // src/components/hierarchies/ChildDefaultComponent.tsx
-var React79 = __toESM(require_react());
+var React74 = __toESM(require_react());
 function ChildDefaultComponent({
   element: element4,
   isInPopover
@@ -84382,48 +84234,48 @@ function ChildDefaultComponent({
     const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
     return codeblockService.updateCodeblockData(attributeName, value);
   }
-  return /* @__PURE__ */ React79.createElement("div", {
+  return /* @__PURE__ */ React74.createElement("div", {
     className: "flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] text-sm group"
-  }, !isInPopover && /* @__PURE__ */ React79.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React74.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1 pt-1 items-center invisible group-hover:visible"
-  }, /* @__PURE__ */ React79.createElement("svg", {
+  }, /* @__PURE__ */ React74.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24",
     fill: "none",
     className: ""
-  }, /* @__PURE__ */ React79.createElement("path", {
+  }, /* @__PURE__ */ React74.createElement("path", {
     d: "M8.5 7C9.60457 7 10.5 6.10457 10.5 5C10.5 3.89543 9.60457 3 8.5 3C7.39543 3 6.5 3.89543 6.5 5C6.5 6.10457 7.39543 7 8.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React79.createElement("path", {
+  }), /* @__PURE__ */ React74.createElement("path", {
     d: "M15.5 7C16.6046 7 17.5 6.10457 17.5 5C17.5 3.89543 16.6046 3 15.5 3C14.3954 3 13.5 3.89543 13.5 5C13.5 6.10457 14.3954 7 15.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React79.createElement("path", {
+  }), /* @__PURE__ */ React74.createElement("path", {
     d: "M10.5 12C10.5 13.1046 9.60457 14 8.5 14C7.39543 14 6.5 13.1046 6.5 12C6.5 10.8954 7.39543 10 8.5 10C9.60457 10 10.5 10.8954 10.5 12Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React79.createElement("path", {
+  }), /* @__PURE__ */ React74.createElement("path", {
     d: "M15.5 14C16.6046 14 17.5 13.1046 17.5 12C17.5 10.8954 16.6046 10 15.5 10C14.3954 10 13.5 10.8954 13.5 12C13.5 13.1046 14.3954 14 15.5 14Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React79.createElement("path", {
+  }), /* @__PURE__ */ React74.createElement("path", {
     d: "M10.5 19C10.5 20.1046 9.60457 21 8.5 21C7.39543 21 6.5 20.1046 6.5 19C6.5 17.8954 7.39543 17 8.5 17C9.60457 17 10.5 17.8954 10.5 19Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React79.createElement("path", {
+  }), /* @__PURE__ */ React74.createElement("path", {
     d: "M15.5 21C16.6046 21 17.5 20.1046 17.5 19C17.5 17.8954 16.6046 17 15.5 17C14.3954 17 13.5 17.8954 13.5 19C13.5 20.1046 14.3954 21 15.5 21Z",
     fill: "#666666"
-  }))), /* @__PURE__ */ React79.createElement("div", {
+  }))), /* @__PURE__ */ React74.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] align-middle items-center"
-  }, /* @__PURE__ */ React79.createElement("a", {
+  }, /* @__PURE__ */ React74.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.positionInParent)), isInPopover ? /* @__PURE__ */ React79.createElement("div", {
+  }, element4.positionInParent)), isInPopover ? /* @__PURE__ */ React74.createElement("div", {
     className: "flex w-full items-center"
-  }, /* @__PURE__ */ React79.createElement("div", null, /* @__PURE__ */ React79.createElement("a", {
+  }, /* @__PURE__ */ React74.createElement("div", null, /* @__PURE__ */ React74.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.name))) : /* @__PURE__ */ React79.createElement("div", {
+  }, element4.name))) : /* @__PURE__ */ React74.createElement("div", {
     className: "grid grid-cols-10 w-full pt-1 pb-1 items-center"
-  }, /* @__PURE__ */ React79.createElement("div", {
+  }, /* @__PURE__ */ React74.createElement("div", {
     className: "col-span-2 pr-1"
-  }, /* @__PURE__ */ React79.createElement("input", {
+  }, /* @__PURE__ */ React74.createElement("input", {
     type: "text",
     onBlur: (e2) => {
       saveAttribute("name" /* Name */, e2.target.value);
@@ -84434,26 +84286,115 @@ function ChildDefaultComponent({
 }
 
 // src/components/hierarchies/ChildDefaultHeadersComponent.tsx
-var React80 = __toESM(require_react());
+var React75 = __toESM(require_react());
 function ChildDefaultHeadersComponent({ isInPopover }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React80.createElement("div", {
+  return /* @__PURE__ */ React75.createElement("div", {
     className: "flex w-full border-b border-b-[--background-modifier-border] pb-1 mb-1"
-  }, /* @__PURE__ */ React80.createElement("div", {
+  }, /* @__PURE__ */ React75.createElement("div", {
     className: "flex"
-  }, !isInPopover && /* @__PURE__ */ React80.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React75.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1"
-  }), /* @__PURE__ */ React80.createElement("div", {
+  }), /* @__PURE__ */ React75.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] font-bold"
-  }, "#")), /* @__PURE__ */ React80.createElement("div", {
+  }, "#")), /* @__PURE__ */ React75.createElement("div", {
     className: "grid grid-cols-1 gap-2 w-full"
-  }, /* @__PURE__ */ React80.createElement("div", {
+  }, /* @__PURE__ */ React75.createElement("div", {
+    className: "font-bold"
+  }, t2("name"))));
+}
+
+// src/components/hierarchies/ChildLoreComponent.tsx
+var React76 = __toESM(require_react());
+function ChildLoreComponent({
+  element: element4,
+  isInPopover
+}) {
+  const api2 = useApi();
+  const app = useApp();
+  function saveAttribute(attributeName, value) {
+    if (attributeName === "name") {
+      const lastIndexOfName = element4.path.lastIndexOf(element4.name);
+      const newPath = element4.path.substring(0, lastIndexOfName) + value + ".md";
+      return app.vault.rename(element4.file, newPath);
+    }
+    const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
+    return codeblockService.updateCodeblockData(attributeName, value);
+  }
+  return /* @__PURE__ */ React76.createElement("div", {
+    className: "flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] text-sm group"
+  }, /* @__PURE__ */ React76.createElement("div", {
+    className: "flex"
+  }, !isInPopover && /* @__PURE__ */ React76.createElement("div", {
+    className: "col-span-1 max-w-[12px] w-[12px] mr-1 pt-1 items-center invisible group-hover:visible"
+  }, /* @__PURE__ */ React76.createElement("svg", {
+    xmlns: "http://www.w3.org/2000/svg",
+    viewBox: "0 0 24 24",
+    fill: "none",
+    className: ""
+  }, /* @__PURE__ */ React76.createElement("path", {
+    d: "M8.5 7C9.60457 7 10.5 6.10457 10.5 5C10.5 3.89543 9.60457 3 8.5 3C7.39543 3 6.5 3.89543 6.5 5C6.5 6.10457 7.39543 7 8.5 7Z",
+    fill: "#666666"
+  }), /* @__PURE__ */ React76.createElement("path", {
+    d: "M15.5 7C16.6046 7 17.5 6.10457 17.5 5C17.5 3.89543 16.6046 3 15.5 3C14.3954 3 13.5 3.89543 13.5 5C13.5 6.10457 14.3954 7 15.5 7Z",
+    fill: "#666666"
+  }), /* @__PURE__ */ React76.createElement("path", {
+    d: "M10.5 12C10.5 13.1046 9.60457 14 8.5 14C7.39543 14 6.5 13.1046 6.5 12C6.5 10.8954 7.39543 10 8.5 10C9.60457 10 10.5 10.8954 10.5 12Z",
+    fill: "#666666"
+  }), /* @__PURE__ */ React76.createElement("path", {
+    d: "M15.5 14C16.6046 14 17.5 13.1046 17.5 12C17.5 10.8954 16.6046 10 15.5 10C14.3954 10 13.5 10.8954 13.5 12C13.5 13.1046 14.3954 14 15.5 14Z",
+    fill: "#666666"
+  }), /* @__PURE__ */ React76.createElement("path", {
+    d: "M10.5 19C10.5 20.1046 9.60457 21 8.5 21C7.39543 21 6.5 20.1046 6.5 19C6.5 17.8954 7.39543 17 8.5 17C9.60457 17 10.5 17.8954 10.5 19Z",
+    fill: "#666666"
+  }), /* @__PURE__ */ React76.createElement("path", {
+    d: "M15.5 21C16.6046 21 17.5 20.1046 17.5 19C17.5 17.8954 16.6046 17 15.5 17C14.3954 17 13.5 17.8954 13.5 19C13.5 20.1046 14.3954 21 15.5 21Z",
+    fill: "#666666"
+  }))), /* @__PURE__ */ React76.createElement("div", {
+    className: "col-span-1 max-w-[20px] w-[20px] align-middle items-center"
+  }, /* @__PURE__ */ React76.createElement("a", {
+    href: element4.file.name,
+    className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
+  }, element4.positionInParent))), isInPopover ? /* @__PURE__ */ React76.createElement("div", {
+    className: "flex w-full items-center"
+  }, /* @__PURE__ */ React76.createElement("div", null, /* @__PURE__ */ React76.createElement("a", {
+    href: element4.file.name,
+    className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
+  }, element4.name))) : /* @__PURE__ */ React76.createElement("div", {
+    className: "grid grid-cols-10 w-full pt-1 pb-1 items-center"
+  }, /* @__PURE__ */ React76.createElement("div", {
+    className: "col-span-2 pr-1"
+  }, /* @__PURE__ */ React76.createElement("input", {
+    type: "text",
+    onBlur: (e2) => {
+      saveAttribute("name" /* Name */, e2.target.value);
+    },
+    className: "w-full !border !border-transparent group-hover:!border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
+    defaultValue: element4.name
+  }))));
+}
+
+// src/components/hierarchies/ChildLoreHeadersComponent.tsx
+var React77 = __toESM(require_react());
+function ChildLoreHeadersComponent({ isInPopover }) {
+  const { t: t2 } = useTranslation();
+  return /* @__PURE__ */ React77.createElement("div", {
+    className: "flex w-full border-b border-b-[--background-modifier-border] pb-1 mb-1"
+  }, /* @__PURE__ */ React77.createElement("div", {
+    className: "flex"
+  }, !isInPopover && /* @__PURE__ */ React77.createElement("div", {
+    className: "col-span-1 max-w-[12px] w-[12px] mr-1"
+  }), /* @__PURE__ */ React77.createElement("div", {
+    className: "col-span-1 max-w-[20px] w-[20px] font-bold"
+  }, "#")), /* @__PURE__ */ React77.createElement("div", {
+    className: "grid grid-cols-1 gap-2 w-full"
+  }, /* @__PURE__ */ React77.createElement("div", {
     className: "font-bold"
   }, t2("name"))));
 }
 
 // src/components/hierarchies/ChildSceneComponent.tsx
-var React81 = __toESM(require_react());
+var React78 = __toESM(require_react());
 function ChildSceneComponent({
   element: element4,
   isInPopover
@@ -84462,8 +84403,8 @@ function ChildSceneComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [showTooltip, setShowTooltip] = React81.useState(false);
-  const [isEditing, setIsEditing] = React81.useState(false);
+  const [showTooltip, setShowTooltip] = React78.useState(false);
+  const [isEditing, setIsEditing] = React78.useState(false);
   function saveAttribute(attributeName, value) {
     if (attributeName === "name") {
       const lastIndexOfName = element4.path.lastIndexOf(element4.name);
@@ -84483,70 +84424,70 @@ function ChildSceneComponent({
     const seconds = duration3 % 60;
     return `${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
   }
-  return /* @__PURE__ */ React81.createElement("div", {
+  return /* @__PURE__ */ React78.createElement("div", {
     className: "flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] text-sm group"
-  }, /* @__PURE__ */ React81.createElement("div", {
+  }, /* @__PURE__ */ React78.createElement("div", {
     className: "flex"
-  }, !isInPopover && /* @__PURE__ */ React81.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React78.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1 pt-1 items-center invisible group-hover:visible"
-  }, /* @__PURE__ */ React81.createElement("svg", {
+  }, /* @__PURE__ */ React78.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24",
     fill: "none",
     className: ""
-  }, /* @__PURE__ */ React81.createElement("path", {
+  }, /* @__PURE__ */ React78.createElement("path", {
     d: "M8.5 7C9.60457 7 10.5 6.10457 10.5 5C10.5 3.89543 9.60457 3 8.5 3C7.39543 3 6.5 3.89543 6.5 5C6.5 6.10457 7.39543 7 8.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React81.createElement("path", {
+  }), /* @__PURE__ */ React78.createElement("path", {
     d: "M15.5 7C16.6046 7 17.5 6.10457 17.5 5C17.5 3.89543 16.6046 3 15.5 3C14.3954 3 13.5 3.89543 13.5 5C13.5 6.10457 14.3954 7 15.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React81.createElement("path", {
+  }), /* @__PURE__ */ React78.createElement("path", {
     d: "M10.5 12C10.5 13.1046 9.60457 14 8.5 14C7.39543 14 6.5 13.1046 6.5 12C6.5 10.8954 7.39543 10 8.5 10C9.60457 10 10.5 10.8954 10.5 12Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React81.createElement("path", {
+  }), /* @__PURE__ */ React78.createElement("path", {
     d: "M15.5 14C16.6046 14 17.5 13.1046 17.5 12C17.5 10.8954 16.6046 10 15.5 10C14.3954 10 13.5 10.8954 13.5 12C13.5 13.1046 14.3954 14 15.5 14Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React81.createElement("path", {
+  }), /* @__PURE__ */ React78.createElement("path", {
     d: "M10.5 19C10.5 20.1046 9.60457 21 8.5 21C7.39543 21 6.5 20.1046 6.5 19C6.5 17.8954 7.39543 17 8.5 17C9.60457 17 10.5 17.8954 10.5 19Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React81.createElement("path", {
+  }), /* @__PURE__ */ React78.createElement("path", {
     d: "M15.5 21C16.6046 21 17.5 20.1046 17.5 19C17.5 17.8954 16.6046 17 15.5 17C14.3954 17 13.5 17.8954 13.5 19C13.5 20.1046 14.3954 21 15.5 21Z",
     fill: "#666666"
-  }))), /* @__PURE__ */ React81.createElement("div", {
+  }))), /* @__PURE__ */ React78.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] align-middle items-center"
-  }, /* @__PURE__ */ React81.createElement("a", {
+  }, /* @__PURE__ */ React78.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.positionInParent))), isInPopover ? /* @__PURE__ */ React81.createElement("div", {
+  }, element4.positionInParent))), isInPopover ? /* @__PURE__ */ React78.createElement("div", {
     className: "flex w-full items-center"
-  }, /* @__PURE__ */ React81.createElement("div", null, /* @__PURE__ */ React81.createElement("a", {
+  }, /* @__PURE__ */ React78.createElement("div", null, /* @__PURE__ */ React78.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.name))) : /* @__PURE__ */ React81.createElement("div", {
+  }, element4.name))) : /* @__PURE__ */ React78.createElement("div", {
     className: "grid grid-cols-12 w-full pt-1 pb-1 items-start"
-  }, /* @__PURE__ */ React81.createElement("div", {
+  }, /* @__PURE__ */ React78.createElement("div", {
     className: "col-span-2 pr-1"
-  }, /* @__PURE__ */ React81.createElement("input", {
+  }, /* @__PURE__ */ React78.createElement("input", {
     type: "text",
     onBlur: (e2) => {
       saveAttribute("name" /* Name */, e2.target.value);
     },
     className: "w-full !border !border-transparent group-hover:!border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
     defaultValue: element4.name
-  })), /* @__PURE__ */ React81.createElement("div", {
+  })), /* @__PURE__ */ React78.createElement("div", {
     className: "pr-1"
-  }, /* @__PURE__ */ React81.createElement("select", {
+  }, /* @__PURE__ */ React78.createElement("select", {
     defaultValue: (_b = element4.attribute("storycirclestage" /* StoryCircleStage */)) == null ? void 0 : _b.value,
     onChange: (e2) => saveAttribute("storycirclestage" /* StoryCircleStage */, e2.target.value),
     className: "selectBorder w-full \n								!border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n								h-7 pl-1 \n								focus:!shadow-none !shadow-none\n								bg-transparent group-hover:bg-[--background-modifier-form-field]\n								"
-  }, /* @__PURE__ */ React81.createElement("option", {
+  }, /* @__PURE__ */ React78.createElement("option", {
     value: ""
-  }), Object.entries(StoryCircleStage).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React81.createElement("option", {
+  }), Object.entries(StoryCircleStage).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => /* @__PURE__ */ React78.createElement("option", {
     key,
     value: index2
-  }, key)))), /* @__PURE__ */ React81.createElement("div", {
+  }, key)))), /* @__PURE__ */ React78.createElement("div", {
     className: "col-span-5 pr-1"
-  }, isEditing ? /* @__PURE__ */ React81.createElement(MarkdownEditorComponent, {
+  }, isEditing ? /* @__PURE__ */ React78.createElement(MarkdownEditorComponent, {
     initialValue: (_d = (_c = element4.attribute("description" /* Description */)) == null ? void 0 : _c.value) != null ? _d : "",
     campaignPath: element4.campaignPath,
     className: "!p-1 m-0 border rounded-md border-transparent group-hover:!border-solid group-hover:!border-[--background-modifier-border] bg-transparent group-hover:bg-[--background-modifier-form-field]",
@@ -84554,78 +84495,78 @@ function ChildSceneComponent({
       saveAttribute("description" /* Description */, value);
     },
     forceFocus: true
-  }) : /* @__PURE__ */ React81.createElement("div", {
+  }) : /* @__PURE__ */ React78.createElement("div", {
     className: "cursor-pointer",
     onClick: () => setIsEditing(true)
-  }, /* @__PURE__ */ React81.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React78.createElement(MarkdownComponent, {
     className: "min-h-[30px] w-full border rounded-md border-transparent group-hover:!border-solid group-hover:!border-[--background-modifier-border] bg-transparent group-hover:bg-[--background-modifier-form-field]",
     value: (_f = (_e = element4.attribute("description" /* Description */)) == null ? void 0 : _e.value) != null ? _f : ""
-  }))), /* @__PURE__ */ React81.createElement("div", {
+  }))), /* @__PURE__ */ React78.createElement("div", {
     className: "col-span-2 pr-1"
-  }, /* @__PURE__ */ React81.createElement("select", {
+  }, /* @__PURE__ */ React78.createElement("select", {
     defaultValue: (_g = element4.attribute("scenetype" /* SceneType */)) == null ? void 0 : _g.value,
     onChange: (e2) => saveAttribute("scenetype" /* SceneType */, e2.target.value),
     className: "selectBorder w-full \n								!border !border-transparent group-hover:!border-[--background-modifier-border] focus:!border-[--background-modifier-border]\n								h-7 pl-1 \n								focus:!shadow-none !shadow-none\n								bg-transparent group-hover:bg-[--background-modifier-form-field]\n								"
-  }, /* @__PURE__ */ React81.createElement("option", {
+  }, /* @__PURE__ */ React78.createElement("option", {
     value: ""
   }), Object.entries(SceneType).filter(([key]) => isNaN(Number(key))).map(([key, index2]) => {
     const isActive = isSceneActive(SceneType[key]);
-    return /* @__PURE__ */ React81.createElement("option", {
+    return /* @__PURE__ */ React78.createElement("option", {
       key,
       value: index2
     }, key + " " + (isActive ? t2("attributes.active") : ""));
-  }))), /* @__PURE__ */ React81.createElement("div", {
+  }))), /* @__PURE__ */ React78.createElement("div", {
     className: "flex justify-center"
-  }, /* @__PURE__ */ React81.createElement("div", null, /* @__PURE__ */ React81.createElement("input", {
+  }, /* @__PURE__ */ React78.createElement("div", null, /* @__PURE__ */ React78.createElement("input", {
     type: "checkbox",
     className: "",
     defaultChecked: ((_h = element4.attribute("externalactions" /* ExternalActions */)) == null ? void 0 : _h.value) === true,
     onChange: (e2) => saveAttribute("externalactions" /* ExternalActions */, e2.target.checked)
-  }))), /* @__PURE__ */ React81.createElement("div", {
+  }))), /* @__PURE__ */ React78.createElement("div", {
     className: "relative flex justify-center opacity-0 group-hover:opacity-100 cursor-help !text-[--text-muted] hover:!text-[text-normal]",
     onMouseEnter: () => setShowTooltip(true),
     onMouseLeave: () => setShowTooltip(false)
-  }, /* @__PURE__ */ React81.createElement("span", {
+  }, /* @__PURE__ */ React78.createElement("span", {
     className: " "
-  }, "?"), showTooltip && /* @__PURE__ */ React81.createElement("div", {
+  }, "?"), showTooltip && /* @__PURE__ */ React78.createElement("div", {
     className: "absolute z-10 w-64 p-2 mt-2 text-xs bg-[--background-secondary] rounded shadow-lg",
     style: { top: "-40px", left: "50%", transform: "translateX(-50%)" }
   }, t2("analyser.expectedduration"), ": ", secondsToMMSS(duration2)))));
 }
 
 // src/components/hierarchies/ChildSceneHeadersComponent.tsx
-var React82 = __toESM(require_react());
+var React79 = __toESM(require_react());
 function ChildSceneHeadersComponent({ isInPopover }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React82.createElement("div", {
+  return /* @__PURE__ */ React79.createElement("div", {
     className: "flex w-full border-b border-b-[--background-modifier-border] pb-1  text-sm"
-  }, /* @__PURE__ */ React82.createElement("div", {
+  }, /* @__PURE__ */ React79.createElement("div", {
     className: "flex"
-  }, !isInPopover && /* @__PURE__ */ React82.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React79.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1"
-  }), /* @__PURE__ */ React82.createElement("div", {
+  }), /* @__PURE__ */ React79.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] font-bold"
-  }, "#")), isInPopover ? /* @__PURE__ */ React82.createElement("div", {
+  }, "#")), isInPopover ? /* @__PURE__ */ React79.createElement("div", {
     className: "w-full"
-  }, /* @__PURE__ */ React82.createElement("div", {
+  }, /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold"
-  }, t2("name"))) : /* @__PURE__ */ React82.createElement("div", {
+  }, t2("name"))) : /* @__PURE__ */ React79.createElement("div", {
     className: "grid grid-cols-12 gap-2 w-full"
-  }, /* @__PURE__ */ React82.createElement("div", {
+  }, /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold col-span-2"
-  }, t2("name")), /* @__PURE__ */ React82.createElement("div", {
+  }, t2("name")), /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.stage")), /* @__PURE__ */ React82.createElement("div", {
+  }, t2("attributes.stage")), /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold col-span-5"
-  }, t2("attributes.description")), /* @__PURE__ */ React82.createElement("div", {
+  }, t2("attributes.description")), /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold col-span-2"
-  }, t2("attributes.scenetype")), /* @__PURE__ */ React82.createElement("div", {
+  }, t2("attributes.scenetype")), /* @__PURE__ */ React79.createElement("div", {
     className: "font-bold"
-  }, t2("attributes.externalactions")), /* @__PURE__ */ React82.createElement("div", null)));
+  }, t2("attributes.externalactions")), /* @__PURE__ */ React79.createElement("div", null)));
 }
 
 // src/components/hierarchies/ChildSessionComponent.tsx
-var React83 = __toESM(require_react());
+var React80 = __toESM(require_react());
 var import_react_flatpickr2 = __toESM(require_build());
 function ChildSessionComponent({
   element: element4,
@@ -84643,59 +84584,59 @@ function ChildSessionComponent({
     const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
     return codeblockService.updateCodeblockData(attributeName, value);
   }
-  return /* @__PURE__ */ React83.createElement("div", {
+  return /* @__PURE__ */ React80.createElement("div", {
     className: "flex items-center w-full hover:bg-[--background-primary-alt] border-b border-b-[--background-modifier-border] text-sm group"
-  }, /* @__PURE__ */ React83.createElement("div", {
+  }, /* @__PURE__ */ React80.createElement("div", {
     className: "flex"
-  }, !isInPopover && /* @__PURE__ */ React83.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React80.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1 pt-1 items-center invisible group-hover:visible"
-  }, /* @__PURE__ */ React83.createElement("svg", {
+  }, /* @__PURE__ */ React80.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     viewBox: "0 0 24 24",
     fill: "none",
     className: ""
-  }, /* @__PURE__ */ React83.createElement("path", {
+  }, /* @__PURE__ */ React80.createElement("path", {
     d: "M8.5 7C9.60457 7 10.5 6.10457 10.5 5C10.5 3.89543 9.60457 3 8.5 3C7.39543 3 6.5 3.89543 6.5 5C6.5 6.10457 7.39543 7 8.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React83.createElement("path", {
+  }), /* @__PURE__ */ React80.createElement("path", {
     d: "M15.5 7C16.6046 7 17.5 6.10457 17.5 5C17.5 3.89543 16.6046 3 15.5 3C14.3954 3 13.5 3.89543 13.5 5C13.5 6.10457 14.3954 7 15.5 7Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React83.createElement("path", {
+  }), /* @__PURE__ */ React80.createElement("path", {
     d: "M10.5 12C10.5 13.1046 9.60457 14 8.5 14C7.39543 14 6.5 13.1046 6.5 12C6.5 10.8954 7.39543 10 8.5 10C9.60457 10 10.5 10.8954 10.5 12Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React83.createElement("path", {
+  }), /* @__PURE__ */ React80.createElement("path", {
     d: "M15.5 14C16.6046 14 17.5 13.1046 17.5 12C17.5 10.8954 16.6046 10 15.5 10C14.3954 10 13.5 10.8954 13.5 12C13.5 13.1046 14.3954 14 15.5 14Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React83.createElement("path", {
+  }), /* @__PURE__ */ React80.createElement("path", {
     d: "M10.5 19C10.5 20.1046 9.60457 21 8.5 21C7.39543 21 6.5 20.1046 6.5 19C6.5 17.8954 7.39543 17 8.5 17C9.60457 17 10.5 17.8954 10.5 19Z",
     fill: "#666666"
-  }), /* @__PURE__ */ React83.createElement("path", {
+  }), /* @__PURE__ */ React80.createElement("path", {
     d: "M15.5 21C16.6046 21 17.5 20.1046 17.5 19C17.5 17.8954 16.6046 17 15.5 17C14.3954 17 13.5 17.8954 13.5 19C13.5 20.1046 14.3954 21 15.5 21Z",
     fill: "#666666"
-  }))), /* @__PURE__ */ React83.createElement("div", {
+  }))), /* @__PURE__ */ React80.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] align-middle items-center"
-  }, /* @__PURE__ */ React83.createElement("a", {
+  }, /* @__PURE__ */ React80.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.positionInParent))), isInPopover ? /* @__PURE__ */ React83.createElement("div", {
+  }, element4.positionInParent))), isInPopover ? /* @__PURE__ */ React80.createElement("div", {
     className: "flex w-full items-center"
-  }, /* @__PURE__ */ React83.createElement("div", null, /* @__PURE__ */ React83.createElement("a", {
+  }, /* @__PURE__ */ React80.createElement("div", null, /* @__PURE__ */ React80.createElement("a", {
     href: element4.file.name,
     className: "internal-link !no-underline cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover]"
-  }, element4.name))) : /* @__PURE__ */ React83.createElement("div", {
+  }, element4.name))) : /* @__PURE__ */ React80.createElement("div", {
     className: "grid grid-cols-5 w-full pt-1 pb-1 items-center"
-  }, /* @__PURE__ */ React83.createElement("div", {
+  }, /* @__PURE__ */ React80.createElement("div", {
     className: "col-span-4 pr-1"
-  }, /* @__PURE__ */ React83.createElement("input", {
+  }, /* @__PURE__ */ React80.createElement("input", {
     type: "text",
     onBlur: (e2) => {
       saveAttribute("name" /* Name */, e2.target.value);
     },
     className: "w-full !border !border-transparent group-hover:!border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
     defaultValue: element4.name
-  })), /* @__PURE__ */ React83.createElement("div", {
+  })), /* @__PURE__ */ React80.createElement("div", {
     className: "pr-1"
-  }, /* @__PURE__ */ React83.createElement(import_react_flatpickr2.default, {
+  }, /* @__PURE__ */ React80.createElement(import_react_flatpickr2.default, {
     value: date2.value,
     className: "w-full !border !border-transparent group-hover:!border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
     options: { dateFormat: "Y-m-d", altInput: true, altFormat: "D, M j, Y" },
@@ -84706,32 +84647,32 @@ function ChildSessionComponent({
 }
 
 // src/components/hierarchies/ChildSessionHeadersComponent.tsx
-var React84 = __toESM(require_react());
+var React81 = __toESM(require_react());
 function ChildSessionHeadersComponent({ isInPopover }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React84.createElement("div", {
+  return /* @__PURE__ */ React81.createElement("div", {
     className: "flex w-full border-b border-b-[--background-modifier-border] pb-1 mb-1"
-  }, /* @__PURE__ */ React84.createElement("div", {
+  }, /* @__PURE__ */ React81.createElement("div", {
     className: "flex"
-  }, !isInPopover && /* @__PURE__ */ React84.createElement("div", {
+  }, !isInPopover && /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-1 max-w-[12px] w-[12px] mr-1"
-  }), /* @__PURE__ */ React84.createElement("div", {
+  }), /* @__PURE__ */ React81.createElement("div", {
     className: "col-span-1 max-w-[20px] w-[20px] font-bold"
-  }, "#")), isInPopover ? /* @__PURE__ */ React84.createElement("div", {
+  }, "#")), isInPopover ? /* @__PURE__ */ React81.createElement("div", {
     className: "w-full"
-  }, /* @__PURE__ */ React84.createElement("div", {
+  }, /* @__PURE__ */ React81.createElement("div", {
     className: "font-bold"
-  }, t2("name"))) : /* @__PURE__ */ React84.createElement("div", {
+  }, t2("name"))) : /* @__PURE__ */ React81.createElement("div", {
     className: "grid grid-cols-5 gap-2 w-full"
-  }, /* @__PURE__ */ React84.createElement("div", {
+  }, /* @__PURE__ */ React81.createElement("div", {
     className: "font-bold col-span-4"
-  }, t2("name")), /* @__PURE__ */ React84.createElement("div", {
+  }, t2("name")), /* @__PURE__ */ React81.createElement("div", {
     className: "font-bold"
   }, t2("attributes.sessiondate"))));
 }
 
 // src/components/hierarchies/NewChildComponent.tsx
-var React85 = __toESM(require_react());
+var React82 = __toESM(require_react());
 
 // src/services/FileCreationService.ts
 var import_obsidian4 = require("obsidian");
@@ -84826,6 +84767,7 @@ var FileCreationService = class {
   }
   _generateFilePath() {
     return __async(this, null, function* () {
+      var _a;
       let pathSeparator;
       try {
         pathSeparator = path3.sep;
@@ -84853,7 +84795,8 @@ var FileCreationService = class {
           response += pathSeparator + this._name + ".md";
           break;
         case "chapter" /* Chapter */:
-          response += pathSeparator + "01. Adventures" + pathSeparator + parent.name + pathSeparator + "Chapters";
+          var useLoreOrAdventure = parent.type === "lore" /* Lore */ ? "12. Lore" : "01. Adventures";
+          response += pathSeparator + useLoreOrAdventure + pathSeparator + parent.name + pathSeparator + "Chapters";
           this._createFolder(response);
           response += pathSeparator + this._name + ".md";
           break;
@@ -84912,6 +84855,20 @@ var FileCreationService = class {
           this._createFolder(response);
           response += pathSeparator + this._name + ".md";
           break;
+        case "lore" /* Lore */:
+          if ((parent == null ? void 0 : parent.type) === "lore" /* Lore */) {
+            const baseLoreDir = response + pathSeparator + "12. Lore";
+            this._createFolder(baseLoreDir);
+            const parentDir = parent.file.parent.path;
+            response = parentDir + pathSeparator + ((_a = parent == null ? void 0 : parent.file) == null ? void 0 : _a.basename);
+            this._createFolder(response);
+            response += pathSeparator + this._name + ".md";
+          } else {
+            response += pathSeparator + "12. Lore";
+            this._createFolder(response);
+            response += pathSeparator + this._name + ".md";
+          }
+          break;
       }
       return response;
     });
@@ -84938,9 +84895,9 @@ function NewChildComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [fileName, setFileName] = React85.useState("");
-  const inputRef = React85.useRef(null);
-  React85.useEffect(() => {
+  const [fileName, setFileName] = React82.useState("");
+  const inputRef = React82.useRef(null);
+  React82.useEffect(() => {
     var _a;
     (_a = inputRef.current) == null ? void 0 : _a.focus();
   }, []);
@@ -84961,15 +84918,15 @@ function NewChildComponent({
       });
     });
   }
-  return /* @__PURE__ */ React85.createElement("div", {
+  return /* @__PURE__ */ React82.createElement("div", {
     className: "flex w-full border-b border-b-[--background-modifier-border] pb-1 mb-1 pt-1"
-  }, /* @__PURE__ */ React85.createElement("div", {
+  }, /* @__PURE__ */ React82.createElement("div", {
     className: "flex"
-  }, /* @__PURE__ */ React85.createElement("div", {
+  }, /* @__PURE__ */ React82.createElement("div", {
     className: "col-span-1 max-w-[36px] w-[36px]"
-  }), /* @__PURE__ */ React85.createElement("div", {
+  }), /* @__PURE__ */ React82.createElement("div", {
     className: "pr-1"
-  }, /* @__PURE__ */ React85.createElement("input", {
+  }, /* @__PURE__ */ React82.createElement("input", {
     ref: inputRef,
     onKeyDown: handleKeyDown,
     type: "text",
@@ -84977,12 +84934,12 @@ function NewChildComponent({
     className: "w-full !border !border-[--background-modifier-border] h-5 focus:!border-[--background-modifier-border] focus:!shadow-none",
     defaultValue: fileName,
     onBlur: handleCreateNewChild
-  }))), /* @__PURE__ */ React85.createElement("div", {
+  }))), /* @__PURE__ */ React82.createElement("div", {
     className: "flex justify-end w-full text-sm"
-  }, /* @__PURE__ */ React85.createElement("button", {
+  }, /* @__PURE__ */ React82.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 mr-3",
     onClick: handleFileAdded
-  }, t2("buttons.cancel")), /* @__PURE__ */ React85.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React82.createElement("button", {
     className: "rpgm-primary pl-3 pr-3",
     onClick: handleCreateNewChild
   }, t2("create.add", { context: type2 }))));
@@ -84998,7 +84955,7 @@ function HierarchyComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [newChild, setNewChild] = React86.useState(false);
+  const [newChild, setNewChild] = React83.useState(false);
   const children = api2.get(void 0, type2 === "campaign" /* Campaign */ ? element4 : element4.campaign, type2, element4);
   children.sort((a, b) => a.positionInParent - b.positionInParent);
   function handleOnDragEnd(result) {
@@ -85015,19 +84972,25 @@ function HierarchyComponent({
   function getChildComponent(child) {
     switch (child.type) {
       case "session" /* Session */:
-        return /* @__PURE__ */ React86.createElement(ChildSessionComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildSessionComponent, {
           key: child.path,
           element: child,
           isInPopover
         });
       case "scene" /* Scene */:
-        return /* @__PURE__ */ React86.createElement(ChildSceneComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildSceneComponent, {
+          key: child.path,
+          element: child,
+          isInPopover
+        });
+      case "lore" /* Lore */:
+        return /* @__PURE__ */ React83.createElement(ChildLoreComponent, {
           key: child.path,
           element: child,
           isInPopover
         });
       default:
-        return /* @__PURE__ */ React86.createElement(ChildDefaultComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildDefaultComponent, {
           key: child.path,
           element: child,
           isInPopover
@@ -85037,15 +85000,19 @@ function HierarchyComponent({
   function getHeaderComponent() {
     switch (type2) {
       case "session" /* Session */:
-        return /* @__PURE__ */ React86.createElement(ChildSessionHeadersComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildSessionHeadersComponent, {
           isInPopover
         });
       case "scene" /* Scene */:
-        return /* @__PURE__ */ React86.createElement(ChildSceneHeadersComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildSceneHeadersComponent, {
+          isInPopover
+        });
+      case "lore" /* Lore */:
+        return /* @__PURE__ */ React83.createElement(ChildLoreHeadersComponent, {
           isInPopover
         });
       default:
-        return /* @__PURE__ */ React86.createElement(ChildDefaultHeadersComponent, {
+        return /* @__PURE__ */ React83.createElement(ChildDefaultHeadersComponent, {
           isInPopover
         });
     }
@@ -85057,241 +85024,313 @@ function HierarchyComponent({
     setNewChild(false);
   }
   if (!isDraggable) {
-    return /* @__PURE__ */ React86.createElement("div", {
+    return /* @__PURE__ */ React83.createElement("div", {
       className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-    }, /* @__PURE__ */ React86.createElement("h2", null, t2("elements." + type2, { count: 2 })), /* @__PURE__ */ React86.createElement(React86.Fragment, null, getHeaderComponent(), children.map((child, index2) => getChildComponent(child)), newChild && !isInPopover && /* @__PURE__ */ React86.createElement(NewChildComponent, {
+    }, /* @__PURE__ */ React83.createElement("h2", null, t2("elements." + type2, { count: 2 })), /* @__PURE__ */ React83.createElement(React83.Fragment, null, getHeaderComponent(), children.map((child, index2) => getChildComponent(child)), newChild && !isInPopover && /* @__PURE__ */ React83.createElement(NewChildComponent, {
       key: Date.now(),
       parent: element4,
       type: type2,
       handleFileAdded
-    }), !isInPopover && !newChild && /* @__PURE__ */ React86.createElement("div", {
+    }), !isInPopover && !newChild && /* @__PURE__ */ React83.createElement("div", {
       className: "flex justify-end w-full text-sm mt-3"
-    }, /* @__PURE__ */ React86.createElement("button", {
+    }, /* @__PURE__ */ React83.createElement("button", {
       className: "rpgm-secondary pl-3 pr-3",
       onClick: () => handleCreate()
-    }, t2("create.new", { context: type2 }))), !isInPopover && type2 === "scene" /* Scene */ && /* @__PURE__ */ React86.createElement(SceneAnalyserComponent, {
+    }, t2("create.new", { context: type2 }))), !isInPopover && type2 === "scene" /* Scene */ && /* @__PURE__ */ React83.createElement(SceneAnalyserComponent, {
       element: element4
     })));
   }
-  return /* @__PURE__ */ React86.createElement("div", {
+  return /* @__PURE__ */ React83.createElement("div", {
     key: element4.path + "draggable",
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React86.createElement("h2", null, t2("elements." + type2, { count: 2 })), /* @__PURE__ */ React86.createElement(React86.Fragment, null, getHeaderComponent(), /* @__PURE__ */ React86.createElement(DragDropContext, {
+  }, /* @__PURE__ */ React83.createElement("h2", null, t2("elements." + type2, { count: 2 })), /* @__PURE__ */ React83.createElement(React83.Fragment, null, getHeaderComponent(), /* @__PURE__ */ React83.createElement(DragDropContext, {
     onDragEnd: handleOnDragEnd
-  }, /* @__PURE__ */ React86.createElement(ConnectedDroppable, {
+  }, /* @__PURE__ */ React83.createElement(ConnectedDroppable, {
     droppableId: element4.path + "list",
-    renderClone: (provided, snapshot, rubric) => /* @__PURE__ */ React86.createElement("div", __spreadProps(__spreadValues(__spreadValues({
+    renderClone: (provided, snapshot, rubric) => /* @__PURE__ */ React83.createElement("div", __spreadProps(__spreadValues(__spreadValues({
       ref: provided.innerRef
     }, provided.draggableProps), provided.dragHandleProps), {
       style: provided.draggableProps.style
     }), getChildComponent(children[rubric.source.index]))
-  }, (provided) => /* @__PURE__ */ React86.createElement("div", __spreadProps(__spreadValues({}, provided.droppableProps), {
+  }, (provided) => /* @__PURE__ */ React83.createElement("div", __spreadProps(__spreadValues({}, provided.droppableProps), {
     ref: provided.innerRef
-  }), children.map((child, index2) => /* @__PURE__ */ React86.createElement(PublicDraggable, {
+  }), children.map((child, index2) => /* @__PURE__ */ React83.createElement(PublicDraggable, {
     key: child.path,
     draggableId: child.path,
     index: index2
   }, (provided2, snapshot) => {
-    return /* @__PURE__ */ React86.createElement("div", __spreadProps(__spreadValues(__spreadValues({
+    return /* @__PURE__ */ React83.createElement("div", __spreadProps(__spreadValues(__spreadValues({
       ref: provided2.innerRef
     }, provided2.draggableProps), provided2.dragHandleProps), {
       style: __spreadProps(__spreadValues({}, provided2.draggableProps.style), {
         zIndex: snapshot.isDragging ? 9999 : "auto"
       })
     }), getChildComponent(child));
-  })), provided.placeholder))), newChild && !isInPopover && /* @__PURE__ */ React86.createElement(NewChildComponent, {
+  })), provided.placeholder))), newChild && !isInPopover && /* @__PURE__ */ React83.createElement(NewChildComponent, {
     key: Date.now(),
     parent: element4,
     type: type2,
     handleFileAdded
-  }), !isInPopover && !newChild && /* @__PURE__ */ React86.createElement("div", {
+  }), !isInPopover && !newChild && /* @__PURE__ */ React83.createElement("div", {
     className: "flex justify-end w-full text-sm mt-3"
-  }, /* @__PURE__ */ React86.createElement("button", {
+  }, /* @__PURE__ */ React83.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3",
     onClick: () => handleCreate()
-  }, t2("create.new", { context: type2 }))), !isInPopover && type2 === "scene" /* Scene */ && api2.settings.useSceneAnalyser && /* @__PURE__ */ React86.createElement(SceneAnalyserComponent, {
+  }, t2("create.new", { context: type2 }))), !isInPopover && type2 === "scene" /* Scene */ && api2.settings.useSceneAnalyser && /* @__PURE__ */ React83.createElement(SceneAnalyserComponent, {
     element: element4
   })));
 }
 
-// src/components/elements/SessionComponent.tsx
-function SessionComponent({
+// src/components/elements/LoreComponent.tsx
+function LoreComponent({
   element: element4,
   isInPopover
 }) {
   const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
   const kishotenketsu2 = element4.attribute("kishotenketsu" /* Kishotenketsu */);
   const conflict2 = element4.attribute("conflict" /* Conflict */);
-  return /* @__PURE__ */ React87.createElement(React87.Fragment, null, /* @__PURE__ */ React87.createElement("div", {
+  return /* @__PURE__ */ React84.createElement(React84.Fragment, null, /* @__PURE__ */ React84.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React87.createElement(HeaderComponent, {
+  }, /* @__PURE__ */ React84.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React87.createElement("div", {
-    className: "max-h-32 h-32 overflow-hidden"
-  }, /* @__PURE__ */ React87.createElement(ImageComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React87.createElement("div", {
+  }), element4.images.length > 0 && /* @__PURE__ */ React84.createElement(BannerComponent, {
+    image: element4.images[0]
+  }), /* @__PURE__ */ React84.createElement("div", {
     className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
-  }, /* @__PURE__ */ React87.createElement("div", {
-    className: `col-span-5 sm:col-span-1 lg:col-span-5`
-  }, /* @__PURE__ */ React87.createElement("div", {
+  }, /* @__PURE__ */ React84.createElement("div", {
+    className: `${isInPopover ? "col-span-5 sm:col-span-1 lg:col-span-5" : "col-span-5 sm:col-span-1 lg:col-span-5"}`
+  }, /* @__PURE__ */ React84.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
-  }, /* @__PURE__ */ React87.createElement(DescriptionAttributeComponent, {
+  }, /* @__PURE__ */ React84.createElement(DescriptionAttributeComponent, {
     element: element4,
     attribute: element4.attribute("description" /* Description */),
     isEditable: !isInPopover
-  }), /* @__PURE__ */ React87.createElement(ParentAttributeComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React87.createElement(AttributeListComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  }))), conflict2 && conflict2.isSet && /* @__PURE__ */ React87.createElement("div", {
+  })))), element4.images.length > 1 && /* @__PURE__ */ React84.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React84.createElement(ImageCarouselComponent, {
+    element: element4
+  })), conflict2 && conflict2.isSet && /* @__PURE__ */ React84.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React87.createElement(ConflictComponent, {
+  }, /* @__PURE__ */ React84.createElement(ConflictComponent, {
     element: element4,
     attribute: conflict2,
     isEditable: !isInPopover
-  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React87.createElement("div", {
+  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React84.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React87.createElement(KishotenketsuComponent, {
+  }, /* @__PURE__ */ React84.createElement(KishotenketsuComponent, {
     element: element4,
     attribute: kishotenketsu2,
     isEditable: !isInPopover
-  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React87.createElement("div", {
+  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React84.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React87.createElement(StoryCircleAttributeComponent, {
+  }, /* @__PURE__ */ React84.createElement(StoryCircleAttributeComponent, {
     element: element4,
     attribute: storyCircle,
     isEditable: !isInPopover
-  })), /* @__PURE__ */ React87.createElement(HierarchyComponent, {
+  })), /* @__PURE__ */ React84.createElement(HierarchyComponent, {
     key: element4.path + !isInPopover,
     element: element4,
     isInPopover,
-    type: "scene" /* Scene */,
+    type: "lore" /* Lore */,
     isDraggable: !isInPopover
-  }), element4.images.length > 1 && /* @__PURE__ */ React87.createElement("div", {
+  }), !isInPopover && /* @__PURE__ */ React84.createElement(TasksContainerComponent, {
+    element: element4
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React84.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React87.createElement(ImageCarouselComponent, {
-    element: element4
-  })), !isInPopover && /* @__PURE__ */ React87.createElement(TasksContainerComponent, {
-    element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React87.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 m-3"
-  }, /* @__PURE__ */ React87.createElement(RelationshipsComponent, {
+  }, /* @__PURE__ */ React84.createElement(RelationshipsComponent, {
     element: element4
   }))));
 }
 
-// src/components/elements/SubplotComponent.tsx
-var React88 = __toESM(require_react());
-function SubplotComponent({
+// src/components/elements/MonsterComponent.tsx
+var React85 = __toESM(require_react());
+function MonsterComponent({
   element: element4,
   isInPopover
 }) {
-  const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
-  return /* @__PURE__ */ React88.createElement(React88.Fragment, null, /* @__PURE__ */ React88.createElement("div", {
+  return /* @__PURE__ */ React85.createElement(React85.Fragment, null, /* @__PURE__ */ React85.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React88.createElement(HeaderComponent, {
+  }, /* @__PURE__ */ React85.createElement(MainV1Component, {
     element: element4,
     isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React88.createElement("div", {
-    className: "max-h-32 h-32 overflow-hidden"
-  }, /* @__PURE__ */ React88.createElement(ImageComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React88.createElement("div", {
-    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
-  }, /* @__PURE__ */ React88.createElement("div", {
-    className: `col-span-5 sm:col-span-1 lg:col-span-5`
-  }, /* @__PURE__ */ React88.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
-  }, /* @__PURE__ */ React88.createElement(DescriptionAttributeComponent, {
-    element: element4,
-    attribute: element4.attribute("description" /* Description */),
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React88.createElement(AttributeListComponent, {
-    element: element4,
-    isEditable: !isInPopover
-  }))), storyCircle && storyCircle.isSet && /* @__PURE__ */ React88.createElement("div", {
-    className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React88.createElement(StoryCircleAttributeComponent, {
-    element: element4,
-    attribute: storyCircle,
-    isEditable: !isInPopover
-  })), element4.images.length > 1 && /* @__PURE__ */ React88.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React88.createElement(ImageCarouselComponent, {
-    element: element4
-  })), !isInPopover && /* @__PURE__ */ React88.createElement(TasksContainerComponent, {
-    element: element4
-  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React88.createElement("div", {
-    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
-  }, /* @__PURE__ */ React88.createElement(RelationshipsComponent, {
-    element: element4
-  }))));
+  })));
 }
 
-// src/components/elements/AdventureComponent.tsx
-var React89 = __toESM(require_react());
-function AdventureComponent({
+// src/components/elements/ObjectComponent.tsx
+var React86 = __toESM(require_react());
+function ObjectComponent({
   element: element4,
   isInPopover
 }) {
-  const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
-  const kishotenketsu2 = element4.attribute("kishotenketsu" /* Kishotenketsu */);
-  const conflict2 = element4.attribute("conflict" /* Conflict */);
+  return /* @__PURE__ */ React86.createElement(React86.Fragment, null, /* @__PURE__ */ React86.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React86.createElement(MainV1Component, {
+    element: element4,
+    isInPopover
+  })));
+}
+
+// src/components/elements/PlayerCharacterComponent.tsx
+var React87 = __toESM(require_react());
+function PlayerCharacterComponent({
+  element: element4,
+  isInPopover
+}) {
+  return /* @__PURE__ */ React87.createElement(React87.Fragment, null, /* @__PURE__ */ React87.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React87.createElement(MainV1Component, {
+    element: element4,
+    isInPopover
+  })));
+}
+
+// src/components/elements/SceneComponent.tsx
+var React89 = __toESM(require_react());
+
+// src/components/attributes/types/DurationAttributeComponent.tsx
+var React88 = __toESM(require_react());
+
+// src/services/TimerService.ts
+var _TimerService = class {
+  static get runningScene() {
+    return this._runningScene;
+  }
+  static startTimer(app, api2, element4) {
+    if (this._runningScene !== void 0 && this._runningScene !== element4.path)
+      return;
+    if (this._runningScene !== void 0)
+      _TimerService.endTimer(app, api2);
+    this._runningScene = element4.path;
+    this._runningStart = Math.round(Date.now() / 1e3);
+  }
+  static endTimer(app, api2) {
+    var _a;
+    if (_TimerService._runningScene === void 0 || _TimerService._runningStart === void 0) {
+      _TimerService._runningScene = void 0;
+      _TimerService._runningStart = void 0;
+      return;
+    }
+    const scene = api2.get(_TimerService._runningScene);
+    if (scene === void 0)
+      return;
+    const attribute = scene.attribute("Duration" /* Duration */);
+    if (attribute === void 0)
+      return;
+    const duration2 = Math.round(Date.now() / 1e3) - _TimerService._runningStart;
+    const codeblockService = new RpgManagerCodeblockService(app, api2, scene.file);
+    codeblockService.updateCodeblockData(attribute.id, ((_a = attribute.value) != null ? _a : 0) + duration2);
+    _TimerService._runningScene = void 0;
+    _TimerService._runningStart = void 0;
+  }
+};
+var TimerService = _TimerService;
+__publicField(TimerService, "_runningScene");
+__publicField(TimerService, "_runningStart");
+
+// src/components/attributes/types/DurationAttributeComponent.tsx
+function DurationAttributeComponent({
+  element: element4,
+  attribute,
+  isEditable
+}) {
+  const { t: t2 } = useTranslation();
+  const api2 = useApi();
+  const app = useApp();
+  const [isRunning, setIsRunning] = React88.useState(false);
+  const [duration2, setDuration] = React88.useState(attribute.value || 0);
+  const timerRef = React88.useRef(null);
+  const handleStartStop = () => {
+    if (isRunning)
+      TimerService.endTimer(app, api2);
+    else
+      TimerService.startTimer(app, api2, element4);
+    setIsRunning(!isRunning);
+  };
+  React88.useEffect(() => {
+    if (isRunning) {
+      timerRef.current = setInterval(() => {
+        setDuration((prev) => prev + 1);
+      }, 1e3);
+    }
+    return () => {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+    };
+  }, [isRunning]);
+  const formatDuration = (seconds) => {
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor(seconds % 3600 / 60);
+    const secs = seconds % 60;
+    return `${String(hours).padStart(2, "0")}:${String(minutes).padStart(2, "0")}:${String(secs).padStart(2, "0")}`;
+  };
+  return /* @__PURE__ */ React88.createElement("div", {
+    className: "flex items-center space-x-4"
+  }, /* @__PURE__ */ React88.createElement("div", {
+    className: "font-bold"
+  }, t2("attributes.duration")), /* @__PURE__ */ React88.createElement("div", {
+    className: "bg-[--background-secondary] border border-[--background-modifier-border] p-2 rounded cursor-pointer transition-transform duration-300 transform-gpu hover:scale-105",
+    onClick: handleStartStop
+  }, isRunning ? /* @__PURE__ */ React88.createElement("div", {
+    className: "w-4 h-4 bg-[--text-normal]"
+  }) : /* @__PURE__ */ React88.createElement("svg", {
+    viewBox: "0 0 12 14",
+    className: "fill-current text-[--text-normal]",
+    width: "12",
+    height: "14"
+  }, /* @__PURE__ */ React88.createElement("polygon", {
+    points: "0,0 12,7 0,14"
+  }))), /* @__PURE__ */ React88.createElement("div", null, formatDuration(duration2)));
+}
+
+// src/components/elements/SceneComponent.tsx
+function SceneComponent({
+  element: element4,
+  isInPopover
+}) {
+  const attribute = element4.attribute("Duration" /* Duration */);
   return /* @__PURE__ */ React89.createElement(React89.Fragment, null, /* @__PURE__ */ React89.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
   }, /* @__PURE__ */ React89.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React89.createElement(BannerComponent, {
-    image: element4.images[0]
-  }), /* @__PURE__ */ React89.createElement("div", {
+  }), element4.attribute("sensoryimprint" /* SensoryImprint */) && /* @__PURE__ */ React89.createElement(SensoryImprintAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("sensoryimprint" /* SensoryImprint */),
+    isEditable: !isInPopover
+  }), element4.images.length > 0 && /* @__PURE__ */ React89.createElement("div", {
+    className: "max-h-32 h-32 overflow-hidden"
+  }, /* @__PURE__ */ React89.createElement(ImageComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React89.createElement("div", {
     className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
   }, /* @__PURE__ */ React89.createElement("div", {
-    className: `${isInPopover ? "col-span-5 sm:col-span-1 lg:col-span-5" : "col-span-5 sm:col-span-1 lg:col-span-5"}`
+    className: `col-span-5 sm:col-span-1 lg:col-span-5`
   }, /* @__PURE__ */ React89.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
   }, /* @__PURE__ */ React89.createElement(DescriptionAttributeComponent, {
     element: element4,
     attribute: element4.attribute("description" /* Description */),
     isEditable: !isInPopover
+  }), /* @__PURE__ */ React89.createElement(ParentAttributeComponent, {
+    element: element4,
+    isEditable: !isInPopover
   })), /* @__PURE__ */ React89.createElement(AttributeListComponent, {
     element: element4,
     isEditable: !isInPopover
-  }))), element4.images.length > 1 && /* @__PURE__ */ React89.createElement("div", {
+  }))), /* @__PURE__ */ React89.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React89.createElement(DurationAttributeComponent, {
+    element: element4,
+    attribute,
+    isEditable: !isInPopover
+  })), element4.images.length > 1 && /* @__PURE__ */ React89.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
   }, /* @__PURE__ */ React89.createElement(ImageCarouselComponent, {
     element: element4
-  })), conflict2 && conflict2.isSet && /* @__PURE__ */ React89.createElement("div", {
-    className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React89.createElement(ConflictComponent, {
-    element: element4,
-    attribute: conflict2,
-    isEditable: !isInPopover
-  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React89.createElement("div", {
-    className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React89.createElement(KishotenketsuComponent, {
-    element: element4,
-    attribute: kishotenketsu2,
-    isEditable: !isInPopover
-  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React89.createElement("div", {
-    className: "col-span-1 sm:col-span-1 lg:col-span-6"
-  }, /* @__PURE__ */ React89.createElement(StoryCircleAttributeComponent, {
-    element: element4,
-    attribute: storyCircle,
-    isEditable: !isInPopover
-  })), /* @__PURE__ */ React89.createElement(HierarchyComponent, {
-    key: element4.path + !isInPopover,
-    element: element4,
-    isInPopover,
-    type: "chapter" /* Chapter */,
-    isDraggable: !isInPopover
-  }), !isInPopover && /* @__PURE__ */ React89.createElement(TasksContainerComponent, {
+  })), !isInPopover && /* @__PURE__ */ React89.createElement(TasksContainerComponent, {
     element: element4
   }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React89.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
@@ -85300,50 +85339,64 @@ function AdventureComponent({
   }))));
 }
 
-// src/components/elements/CampaignComponent.tsx
+// src/components/elements/SessionComponent.tsx
 var React90 = __toESM(require_react());
-function CampaignComponent({
+function SessionComponent({
   element: element4,
   isInPopover
 }) {
   const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
+  const kishotenketsu2 = element4.attribute("kishotenketsu" /* Kishotenketsu */);
+  const conflict2 = element4.attribute("conflict" /* Conflict */);
   return /* @__PURE__ */ React90.createElement(React90.Fragment, null, /* @__PURE__ */ React90.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
   }, /* @__PURE__ */ React90.createElement(HeaderComponent, {
     element: element4,
     isInPopover
-  }), element4.images.length > 0 && /* @__PURE__ */ React90.createElement(BannerComponent, {
-    image: element4.images[0]
-  }), /* @__PURE__ */ React90.createElement("div", {
+  }), element4.images.length > 0 && /* @__PURE__ */ React90.createElement("div", {
+    className: "max-h-32 h-32 overflow-hidden"
+  }, /* @__PURE__ */ React90.createElement(ImageComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React90.createElement("div", {
     className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
   }, /* @__PURE__ */ React90.createElement("div", {
-    className: `col-span-5`
+    className: `col-span-5 sm:col-span-1 lg:col-span-5`
   }, /* @__PURE__ */ React90.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
   }, /* @__PURE__ */ React90.createElement(DescriptionAttributeComponent, {
     element: element4,
     attribute: element4.attribute("description" /* Description */),
     isEditable: !isInPopover
+  }), /* @__PURE__ */ React90.createElement(ParentAttributeComponent, {
+    element: element4,
+    isEditable: !isInPopover
   })), /* @__PURE__ */ React90.createElement(AttributeListComponent, {
     element: element4,
     isEditable: !isInPopover
-  }))), storyCircle && storyCircle.isSet && /* @__PURE__ */ React90.createElement("div", {
+  }))), conflict2 && conflict2.isSet && /* @__PURE__ */ React90.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React90.createElement(ConflictComponent, {
+    element: element4,
+    attribute: conflict2,
+    isEditable: !isInPopover
+  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React90.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React90.createElement(KishotenketsuComponent, {
+    element: element4,
+    attribute: kishotenketsu2,
+    isEditable: !isInPopover
+  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React90.createElement("div", {
     className: "col-span-1 sm:col-span-1 lg:col-span-6"
   }, /* @__PURE__ */ React90.createElement(StoryCircleAttributeComponent, {
     element: element4,
     attribute: storyCircle,
     isEditable: !isInPopover
   })), /* @__PURE__ */ React90.createElement(HierarchyComponent, {
-    key: element4.path + "adventure" /* Adventure */ + !isInPopover,
+    key: element4.path + !isInPopover,
     element: element4,
     isInPopover,
-    type: "adventure" /* Adventure */,
-    isDraggable: !isInPopover
-  }), /* @__PURE__ */ React90.createElement(HierarchyComponent, {
-    key: element4.path + "session" /* Session */ + !isInPopover,
-    element: element4,
-    isInPopover,
-    type: "session" /* Session */,
+    type: "scene" /* Scene */,
     isDraggable: !isInPopover
   }), element4.images.length > 1 && /* @__PURE__ */ React90.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
@@ -85351,18 +85404,191 @@ function CampaignComponent({
     element: element4
   })), !isInPopover && /* @__PURE__ */ React90.createElement(TasksContainerComponent, {
     element: element4
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React90.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 m-3"
+  }, /* @__PURE__ */ React90.createElement(RelationshipsComponent, {
+    element: element4
+  }))));
+}
+
+// src/components/elements/SubplotComponent.tsx
+var React91 = __toESM(require_react());
+function SubplotComponent({
+  element: element4,
+  isInPopover
+}) {
+  const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
+  return /* @__PURE__ */ React91.createElement(React91.Fragment, null, /* @__PURE__ */ React91.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React91.createElement(HeaderComponent, {
+    element: element4,
+    isInPopover
+  }), element4.images.length > 0 && /* @__PURE__ */ React91.createElement("div", {
+    className: "max-h-32 h-32 overflow-hidden"
+  }, /* @__PURE__ */ React91.createElement(ImageComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React91.createElement("div", {
+    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
+  }, /* @__PURE__ */ React91.createElement("div", {
+    className: `col-span-5 sm:col-span-1 lg:col-span-5`
+  }, /* @__PURE__ */ React91.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
+  }, /* @__PURE__ */ React91.createElement(DescriptionAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("description" /* Description */),
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React91.createElement(AttributeListComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  }))), storyCircle && storyCircle.isSet && /* @__PURE__ */ React91.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React91.createElement(StoryCircleAttributeComponent, {
+    element: element4,
+    attribute: storyCircle,
+    isEditable: !isInPopover
+  })), element4.images.length > 1 && /* @__PURE__ */ React91.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React91.createElement(ImageCarouselComponent, {
+    element: element4
+  })), !isInPopover && /* @__PURE__ */ React91.createElement(TasksContainerComponent, {
+    element: element4
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React91.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React91.createElement(RelationshipsComponent, {
+    element: element4
+  }))));
+}
+
+// src/components/elements/AdventureComponent.tsx
+var React92 = __toESM(require_react());
+function AdventureComponent({
+  element: element4,
+  isInPopover
+}) {
+  const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
+  const kishotenketsu2 = element4.attribute("kishotenketsu" /* Kishotenketsu */);
+  const conflict2 = element4.attribute("conflict" /* Conflict */);
+  return /* @__PURE__ */ React92.createElement(React92.Fragment, null, /* @__PURE__ */ React92.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React92.createElement(HeaderComponent, {
+    element: element4,
+    isInPopover
+  }), element4.images.length > 0 && /* @__PURE__ */ React92.createElement(BannerComponent, {
+    image: element4.images[0]
+  }), /* @__PURE__ */ React92.createElement("div", {
+    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
+  }, /* @__PURE__ */ React92.createElement("div", {
+    className: `${isInPopover ? "col-span-5 sm:col-span-1 lg:col-span-5" : "col-span-5 sm:col-span-1 lg:col-span-5"}`
+  }, /* @__PURE__ */ React92.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
+  }, /* @__PURE__ */ React92.createElement(DescriptionAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("description" /* Description */),
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React92.createElement(AttributeListComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  }))), element4.images.length > 1 && /* @__PURE__ */ React92.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React92.createElement(ImageCarouselComponent, {
+    element: element4
+  })), conflict2 && conflict2.isSet && /* @__PURE__ */ React92.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React92.createElement(ConflictComponent, {
+    element: element4,
+    attribute: conflict2,
+    isEditable: !isInPopover
+  })), kishotenketsu2 && kishotenketsu2.isSet && /* @__PURE__ */ React92.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React92.createElement(KishotenketsuComponent, {
+    element: element4,
+    attribute: kishotenketsu2,
+    isEditable: !isInPopover
+  })), storyCircle && storyCircle.isSet && /* @__PURE__ */ React92.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React92.createElement(StoryCircleAttributeComponent, {
+    element: element4,
+    attribute: storyCircle,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React92.createElement(HierarchyComponent, {
+    key: element4.path + !isInPopover,
+    element: element4,
+    isInPopover,
+    type: "chapter" /* Chapter */,
+    isDraggable: !isInPopover
+  }), !isInPopover && /* @__PURE__ */ React92.createElement(TasksContainerComponent, {
+    element: element4
+  }), isInPopover === false && element4.relationships.length > 0 && /* @__PURE__ */ React92.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React92.createElement(RelationshipsComponent, {
+    element: element4
+  }))));
+}
+
+// src/components/elements/CampaignComponent.tsx
+var React93 = __toESM(require_react());
+function CampaignComponent({
+  element: element4,
+  isInPopover
+}) {
+  const storyCircle = element4.attribute("StoryCircle" /* StoryCircle */);
+  return /* @__PURE__ */ React93.createElement(React93.Fragment, null, /* @__PURE__ */ React93.createElement("div", {
+    className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
+  }, /* @__PURE__ */ React93.createElement(HeaderComponent, {
+    element: element4,
+    isInPopover
+  }), element4.images.length > 0 && /* @__PURE__ */ React93.createElement(BannerComponent, {
+    image: element4.images[0]
+  }), /* @__PURE__ */ React93.createElement("div", {
+    className: `grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-5 gap-3 !mb-3}`
+  }, /* @__PURE__ */ React93.createElement("div", {
+    className: `col-span-5`
+  }, /* @__PURE__ */ React93.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 !mb-3"
+  }, /* @__PURE__ */ React93.createElement(DescriptionAttributeComponent, {
+    element: element4,
+    attribute: element4.attribute("description" /* Description */),
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React93.createElement(AttributeListComponent, {
+    element: element4,
+    isEditable: !isInPopover
+  }))), storyCircle && storyCircle.isSet && /* @__PURE__ */ React93.createElement("div", {
+    className: "col-span-1 sm:col-span-1 lg:col-span-6"
+  }, /* @__PURE__ */ React93.createElement(StoryCircleAttributeComponent, {
+    element: element4,
+    attribute: storyCircle,
+    isEditable: !isInPopover
+  })), /* @__PURE__ */ React93.createElement(HierarchyComponent, {
+    key: element4.path + "adventure" /* Adventure */ + !isInPopover,
+    element: element4,
+    isInPopover,
+    type: "adventure" /* Adventure */,
+    isDraggable: !isInPopover
+  }), /* @__PURE__ */ React93.createElement(HierarchyComponent, {
+    key: element4.path + "session" /* Session */ + !isInPopover,
+    element: element4,
+    isInPopover,
+    type: "session" /* Session */,
+    isDraggable: !isInPopover
+  }), element4.images.length > 1 && /* @__PURE__ */ React93.createElement("div", {
+    className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3"
+  }, /* @__PURE__ */ React93.createElement(ImageCarouselComponent, {
+    element: element4
+  })), !isInPopover && /* @__PURE__ */ React93.createElement(TasksContainerComponent, {
+    element: element4
   })));
 }
 
 // src/components/elements/NonPlayerCharacterComponent.tsx
-var React91 = __toESM(require_react());
+var React94 = __toESM(require_react());
 function NonPlayerCharacterComponent({
   element: element4,
   isInPopover
 }) {
-  return /* @__PURE__ */ React91.createElement(React91.Fragment, null, /* @__PURE__ */ React91.createElement("div", {
+  return /* @__PURE__ */ React94.createElement(React94.Fragment, null, /* @__PURE__ */ React94.createElement("div", {
     className: "space-y-3 p-3 bg-[--background-primary-alt] border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React91.createElement(MainV1Component, {
+  }, /* @__PURE__ */ React94.createElement(MainV1Component, {
     element: element4,
     isInPopover
   })));
@@ -85378,6 +85604,7 @@ var agnosticComponents = /* @__PURE__ */ new Map([
   ["nonplayercharacter" /* NonPlayerCharacter */, NonPlayerCharacterComponent],
   ["event" /* Event */, EventComponent],
   ["location" /* Location */, LocationComponent],
+  ["lore" /* Lore */, LoreComponent],
   ["faction" /* Faction */, FactionComponent],
   ["clue" /* Clue */, ClueComponent],
   ["playercharacter" /* PlayerCharacter */, PlayerCharacterComponent],
@@ -85444,11 +85671,11 @@ var import_react26 = __toESM(require_react());
 var import_client3 = __toESM(require_client());
 
 // src/components/creation/CreationComponent.tsx
-var React122 = __toESM(require_react());
+var React125 = __toESM(require_react());
 
 // src/contexts/WizardContext.tsx
-var React93 = __toESM(require_react());
-var WizardContext = React93.createContext(void 0);
+var React96 = __toESM(require_react());
+var WizardContext = React96.createContext(void 0);
 
 // src/hooks/useWizard.ts
 var import_react25 = __toESM(require_react());
@@ -85457,19 +85684,19 @@ var useWizard = () => {
 };
 
 // src/components/wizards/chapters/ChapterWizardComponent.tsx
-var React100 = __toESM(require_react());
+var React103 = __toESM(require_react());
 
 // src/components/wizards/WizardNavigatorComponent.tsx
-var React95 = __toESM(require_react());
+var React98 = __toESM(require_react());
 function WizardNavigatorComponent({
   steps,
   step,
   setStep
 }) {
-  return /* @__PURE__ */ React95.createElement(React95.Fragment, null, /* @__PURE__ */ React95.createElement("ul", {
+  return /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("ul", {
     className: "!p-0 !m-0 !mt-3 !mb-3"
   }, steps.map((stepComponent, index2) => {
-    return /* @__PURE__ */ React95.createElement("li", {
+    return /* @__PURE__ */ React98.createElement("li", {
       key: index2,
       className: `${stepComponent.errors !== void 0 && stepComponent.errors.length > 0 ? "text-[--text-error]" : step > index2 ? "text-[--text-normal]" : "text-[--text-muted]"} hover:text-[--text-accent] cursor-pointer`,
       onClick: () => {
@@ -85480,7 +85707,7 @@ function WizardNavigatorComponent({
 }
 
 // src/components/wizards/chapters/steps/ChapterWizardCluesComponent.tsx
-var React96 = __toESM(require_react());
+var React99 = __toESM(require_react());
 function ChapterWizardCluesComponent({
   name,
   campaignPath,
@@ -85492,7 +85719,7 @@ function ChapterWizardCluesComponent({
   const api2 = useApi();
   const app = useApp();
   const wizardData = useWizard();
-  const [chapterClues, setChapterClues] = React96.useState(wizardData.clues.length > 0 ? wizardData.clues : [{ id: v4_default(), cluePath: "" }]);
+  const [chapterClues, setChapterClues] = React99.useState(wizardData.clues.length > 0 ? wizardData.clues : [{ id: v4_default(), cluePath: "" }]);
   const handleInputChange = (index2, field, value, isExistingClue) => {
     var _a, _b;
     const updatedClues = [...chapterClues];
@@ -85533,42 +85760,42 @@ function ChapterWizardCluesComponent({
     error2 = t2("wizards.errors");
     errors.forEach((singleError) => error2 += "\n- " + singleError);
   }
-  return /* @__PURE__ */ React96.createElement(React96.Fragment, null, /* @__PURE__ */ React96.createElement("h3", {
+  return /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("elements.clue", { count: 2 })), error2 && /* @__PURE__ */ React96.createElement("div", {
+  }, t2("elements.clue", { count: 2 })), error2 && /* @__PURE__ */ React99.createElement("div", {
     className: "!mt-3 !mb-3 text-[--text-error]"
-  }, /* @__PURE__ */ React96.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
     value: error2
-  })), /* @__PURE__ */ React96.createElement("div", {
+  })), /* @__PURE__ */ React99.createElement("div", {
     className: "space-y-4"
-  }, /* @__PURE__ */ React96.createElement("div", {
+  }, /* @__PURE__ */ React99.createElement("div", {
     className: "grid grid-cols-2 space-x-4"
-  }, /* @__PURE__ */ React96.createElement("div", {
+  }, /* @__PURE__ */ React99.createElement("div", {
     className: "w-full font-bold"
-  }, t2("elements.clue", { count: 1 })), /* @__PURE__ */ React96.createElement("div", {
+  }, t2("elements.clue", { count: 1 })), /* @__PURE__ */ React99.createElement("div", {
     className: "w-full font-bold"
   }, t2("wizards.chapter.cluesdescription"))), chapterClues.map((clue, index2) => {
     var _a;
-    return /* @__PURE__ */ React96.createElement("div", {
+    return /* @__PURE__ */ React99.createElement("div", {
       key: clue.id,
       className: `grid grid-cols-2 p-3 min-h-[4rem] ${index2 % 2 === 0 ? "bg-[--background-primary-alt]" : "bg-[--background-primary]"}`
-    }, /* @__PURE__ */ React96.createElement("div", {
+    }, /* @__PURE__ */ React99.createElement("div", {
       className: `w-full relative group ${clue.isExistingClue && "col-span-2"}`
-    }, clue.isExistingClue ? /* @__PURE__ */ React96.createElement(React96.Fragment, null, /* @__PURE__ */ React96.createElement("div", null, (_a = clue.clueName) != null ? _a : ""), /* @__PURE__ */ React96.createElement("span", {
+    }, clue.isExistingClue ? /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("div", null, (_a = clue.clueName) != null ? _a : ""), /* @__PURE__ */ React99.createElement("span", {
       className: "text-xs cursor-pointer bottom-0 opacity-0 group-hover:opacity-100 hover:text-[--text-accent-hover]",
       onClick: () => removeExisting(index2)
-    }, t2("wizards.chapter.removeexistingclue"))) : /* @__PURE__ */ React96.createElement(React96.Fragment, null, /* @__PURE__ */ React96.createElement("input", {
+    }, t2("wizards.chapter.removeexistingclue"))) : /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("input", {
       key: clue.id,
       type: "text",
       className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] active:border-[--background-modifier-border-hover] active:shadow-none rounded-md",
       value: clue.clueName || "",
       onChange: (e2) => handleInputChange(index2, "clueName", e2.target.value)
-    }), /* @__PURE__ */ React96.createElement("span", {
+    }), /* @__PURE__ */ React99.createElement("span", {
       className: "text-xs cursor-pointer bottom-0 opacity-0 group-hover:opacity-100 hover:text-[--text-accent-hover]",
       onClick: () => selectExistingClue(index2)
-    }, t2("wizards.chapter.selectexistingclue")))), !clue.isExistingClue && /* @__PURE__ */ React96.createElement("div", {
+    }, t2("wizards.chapter.selectexistingclue")))), !clue.isExistingClue && /* @__PURE__ */ React99.createElement("div", {
       className: "w-full ml-3"
-    }, /* @__PURE__ */ React96.createElement(MarkdownEditorComponent, {
+    }, /* @__PURE__ */ React99.createElement(MarkdownEditorComponent, {
       campaignPath,
       initialValue: clue.description,
       onChange: (value) => handleInputChange(index2, "description", value),
@@ -85578,7 +85805,7 @@ function ChapterWizardCluesComponent({
 }
 
 // src/components/wizards/chapters/steps/ChapterWizardDescriptionComponent.tsx
-var React97 = __toESM(require_react());
+var React100 = __toESM(require_react());
 function ChapterWizardDescriptionComponent({
   name,
   campaignPath,
@@ -85596,19 +85823,19 @@ function ChapterWizardDescriptionComponent({
     error2 = t2("wizards.errors");
     errors.forEach((singleError) => error2 += "\n- " + singleError);
   }
-  return /* @__PURE__ */ React97.createElement(React97.Fragment, null, /* @__PURE__ */ React97.createElement("h3", {
+  return /* @__PURE__ */ React100.createElement(React100.Fragment, null, /* @__PURE__ */ React100.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.description")), /* @__PURE__ */ React97.createElement("div", {
+  }, t2("attributes.description")), /* @__PURE__ */ React100.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React97.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React100.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.description", { context: "description", name })
-  })), error2 && /* @__PURE__ */ React97.createElement("div", {
+  })), error2 && /* @__PURE__ */ React100.createElement("div", {
     className: "!mt-3 !mb-3 text-[--text-error]"
-  }, /* @__PURE__ */ React97.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React100.createElement(MarkdownComponent, {
     value: error2
-  })), /* @__PURE__ */ React97.createElement("div", {
+  })), /* @__PURE__ */ React100.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React97.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React100.createElement(MarkdownEditorComponent, {
     initialValue: wizardData.description,
     campaignPath,
     onChange: updateDescription,
@@ -85617,28 +85844,28 @@ function ChapterWizardDescriptionComponent({
 }
 
 // src/components/wizards/chapters/steps/ChapterWizardDestinationComponent.tsx
-var React98 = __toESM(require_react());
+var React101 = __toESM(require_react());
 function DestinationTypeComponent({
   type: type2,
   destinationType,
   setDestinationType
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React98.createElement("div", {
+  return /* @__PURE__ */ React101.createElement("div", {
     key: type2,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setDestinationType(type2)
-  }, /* @__PURE__ */ React98.createElement("div", {
+  }, /* @__PURE__ */ React101.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, destinationType === type2 && /* @__PURE__ */ React98.createElement("svg", {
+  }, destinationType === type2 && /* @__PURE__ */ React101.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React98.createElement("path", {
+  }, /* @__PURE__ */ React101.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React98.createElement("div", null, /* @__PURE__ */ React98.createElement("h4", null, t2("elements." + type2, { count: 1 })), /* @__PURE__ */ React98.createElement("small", null, /* @__PURE__ */ React98.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React101.createElement("div", null, /* @__PURE__ */ React101.createElement("h4", null, t2("elements." + type2, { count: 1 })), /* @__PURE__ */ React101.createElement("small", null, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.destinationtype", { context: type2 })
   }))));
 }
@@ -85647,37 +85874,37 @@ function DestinationElementTypeComponent({
   setIsExistingDestination
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("div", {
+  return /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("div", {
     key: 0,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setIsExistingDestination(true)
-  }, /* @__PURE__ */ React98.createElement("div", {
+  }, /* @__PURE__ */ React101.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, isElement2 === true && /* @__PURE__ */ React98.createElement("svg", {
+  }, isElement2 === true && /* @__PURE__ */ React101.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React98.createElement("path", {
+  }, /* @__PURE__ */ React101.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React98.createElement("div", null, /* @__PURE__ */ React98.createElement("h4", null, t2("wizards.chapter.destinationelementtype", { context: "existing" })), /* @__PURE__ */ React98.createElement("small", null, /* @__PURE__ */ React98.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React101.createElement("div", null, /* @__PURE__ */ React101.createElement("h4", null, t2("wizards.chapter.destinationelementtype", { context: "existing" })), /* @__PURE__ */ React101.createElement("small", null, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.destinationelementtypedescription", { context: "existing" })
-  })))), /* @__PURE__ */ React98.createElement("div", {
+  })))), /* @__PURE__ */ React101.createElement("div", {
     key: 1,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setIsExistingDestination(false)
-  }, /* @__PURE__ */ React98.createElement("div", {
+  }, /* @__PURE__ */ React101.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, isElement2 === false && /* @__PURE__ */ React98.createElement("svg", {
+  }, isElement2 === false && /* @__PURE__ */ React101.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React98.createElement("path", {
+  }, /* @__PURE__ */ React101.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React98.createElement("div", null, /* @__PURE__ */ React98.createElement("h4", null, t2("wizards.chapter.destinationelementtype", { context: "new" })), /* @__PURE__ */ React98.createElement("small", null, /* @__PURE__ */ React98.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React101.createElement("div", null, /* @__PURE__ */ React101.createElement("h4", null, t2("wizards.chapter.destinationelementtype", { context: "new" })), /* @__PURE__ */ React101.createElement("small", null, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.destinationelementtypedescription", { context: "new" })
   })))));
 }
@@ -85693,11 +85920,11 @@ function ChapterWizardDestinationComponent({
   const api2 = useApi();
   const app = useApp();
   const wizardData = useWizard();
-  const [destinationType, setDestinationType] = React98.useState(wizardData.destinationType);
-  const [destinationName, setDestinationName] = React98.useState((_a = wizardData.destinationName) != null ? _a : "");
-  const [destinationElementPath, setDestinationElementPath] = React98.useState(wizardData.destinationElement);
-  const [destinationElement, setDestinationElement] = React98.useState(wizardData.destinationElement ? api2.get(wizardData.destinationElement) : void 0);
-  const [isExistingDestination, setIsExistingDestination] = React98.useState(wizardData.destinationElement !== void 0 ? true : wizardData.destinationName !== void 0 ? false : void 0);
+  const [destinationType, setDestinationType] = React101.useState(wizardData.destinationType);
+  const [destinationName, setDestinationName] = React101.useState((_a = wizardData.destinationName) != null ? _a : "");
+  const [destinationElementPath, setDestinationElementPath] = React101.useState(wizardData.destinationElement);
+  const [destinationElement, setDestinationElement] = React101.useState(wizardData.destinationElement ? api2.get(wizardData.destinationElement) : void 0);
+  const [isExistingDestination, setIsExistingDestination] = React101.useState(wizardData.destinationElement !== void 0 ? true : wizardData.destinationName !== void 0 ? false : void 0);
   const onSetIsExistingDestination = (isExistingDestination2) => {
     setIsExistingDestination(isExistingDestination2);
     if (isExistingDestination2) {
@@ -85737,42 +85964,42 @@ function ChapterWizardDestinationComponent({
     error2 = t2("wizards.errors");
     errors.forEach((singleError) => error2 += "\n- " + singleError);
   }
-  return /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("h3", {
+  return /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.destinationtitle")), /* @__PURE__ */ React98.createElement("div", {
+  }, t2("wizards.chapter.destinationtitle")), /* @__PURE__ */ React101.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React98.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.destination", { name })
-  })), error2 && /* @__PURE__ */ React98.createElement("div", {
+  })), error2 && /* @__PURE__ */ React101.createElement("div", {
     className: "!mt-3 !mb-3 text-[--text-error]"
-  }, /* @__PURE__ */ React98.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
     value: error2
-  })), /* @__PURE__ */ React98.createElement("div", {
+  })), /* @__PURE__ */ React101.createElement("div", {
     className: "grid grid-cols-2"
-  }, /* @__PURE__ */ React98.createElement(DestinationTypeComponent, {
+  }, /* @__PURE__ */ React101.createElement(DestinationTypeComponent, {
     key: "adventure" /* Adventure */,
     type: "adventure" /* Adventure */,
     destinationType,
     setDestinationType: onSetDestinationType
-  }), /* @__PURE__ */ React98.createElement(DestinationTypeComponent, {
+  }), /* @__PURE__ */ React101.createElement(DestinationTypeComponent, {
     key: "chapter" /* Chapter */,
     type: "chapter" /* Chapter */,
     destinationType,
     setDestinationType: onSetDestinationType
-  })), destinationType !== void 0 && /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("h3", {
+  })), destinationType !== void 0 && /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.destinationelementtype")), /* @__PURE__ */ React98.createElement("div", {
+  }, t2("wizards.chapter.destinationelementtype")), /* @__PURE__ */ React101.createElement("div", {
     className: "grid grid-cols-2"
-  }, /* @__PURE__ */ React98.createElement(DestinationElementTypeComponent, {
+  }, /* @__PURE__ */ React101.createElement(DestinationElementTypeComponent, {
     isElement: isExistingDestination,
     setIsExistingDestination: onSetIsExistingDestination
-  })), isExistingDestination === void 0 ? /* @__PURE__ */ React98.createElement(React98.Fragment, null) : isExistingDestination ? /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("h3", {
+  })), isExistingDestination === void 0 ? /* @__PURE__ */ React101.createElement(React101.Fragment, null) : isExistingDestination ? /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.destinationelement", { context: "existing" })), /* @__PURE__ */ React98.createElement("div", {
+  }, t2("wizards.chapter.destinationelement", { context: "existing" })), /* @__PURE__ */ React101.createElement("div", {
     className: "ml-3"
-  }, destinationElementPath && destinationElement && destinationElement.name)) : /* @__PURE__ */ React98.createElement(React98.Fragment, null, /* @__PURE__ */ React98.createElement("h3", {
+  }, destinationElementPath && destinationElement && destinationElement.name)) : /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.destinationelement", { context: "new" })), /* @__PURE__ */ React98.createElement("input", {
+  }, t2("wizards.chapter.destinationelement", { context: "new" })), /* @__PURE__ */ React101.createElement("input", {
     type: "text",
     defaultValue: destinationName,
     onChange: (e2) => onSetDestinationName(e2.target.value),
@@ -85781,28 +86008,28 @@ function ChapterWizardDestinationComponent({
 }
 
 // src/components/wizards/chapters/steps/ChapterWizardTargetComponent.tsx
-var React99 = __toESM(require_react());
+var React102 = __toESM(require_react());
 function TargetTypeComponent({
   type: type2,
   targetType,
   setTargetType
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React99.createElement("div", {
+  return /* @__PURE__ */ React102.createElement("div", {
     key: type2,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setTargetType(type2)
-  }, /* @__PURE__ */ React99.createElement("div", {
+  }, /* @__PURE__ */ React102.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, targetType === type2 && /* @__PURE__ */ React99.createElement("svg", {
+  }, targetType === type2 && /* @__PURE__ */ React102.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React99.createElement("path", {
+  }, /* @__PURE__ */ React102.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React99.createElement("div", null, /* @__PURE__ */ React99.createElement("h4", null, t2("elements." + type2, { count: 1 })), /* @__PURE__ */ React99.createElement("small", null, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React102.createElement("div", null, /* @__PURE__ */ React102.createElement("h4", null, t2("elements." + type2, { count: 1 })), /* @__PURE__ */ React102.createElement("small", null, /* @__PURE__ */ React102.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.targettype", { context: type2 })
   }))));
 }
@@ -85811,37 +86038,37 @@ function TargetElementTypeComponent({
   setIsExistingTarget
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("div", {
+  return /* @__PURE__ */ React102.createElement(React102.Fragment, null, /* @__PURE__ */ React102.createElement("div", {
     key: 0,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setIsExistingTarget(true)
-  }, /* @__PURE__ */ React99.createElement("div", {
+  }, /* @__PURE__ */ React102.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, isElement2 === true && /* @__PURE__ */ React99.createElement("svg", {
+  }, isElement2 === true && /* @__PURE__ */ React102.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React99.createElement("path", {
+  }, /* @__PURE__ */ React102.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React99.createElement("div", null, /* @__PURE__ */ React99.createElement("h4", null, t2("wizards.chapter.targetelementtype", { context: "existing" })), /* @__PURE__ */ React99.createElement("small", null, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React102.createElement("div", null, /* @__PURE__ */ React102.createElement("h4", null, t2("wizards.chapter.targetelementtype", { context: "existing" })), /* @__PURE__ */ React102.createElement("small", null, /* @__PURE__ */ React102.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.targetelementtypedescription", { context: "existing" })
-  })))), /* @__PURE__ */ React99.createElement("div", {
+  })))), /* @__PURE__ */ React102.createElement("div", {
     key: 1,
     className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
     onClick: () => setIsExistingTarget(false)
-  }, /* @__PURE__ */ React99.createElement("div", {
+  }, /* @__PURE__ */ React102.createElement("div", {
     className: "flext min-w[50px] w-[50px] items-center justify-center"
-  }, isElement2 === false && /* @__PURE__ */ React99.createElement("svg", {
+  }, isElement2 === false && /* @__PURE__ */ React102.createElement("svg", {
     xmlns: "http://www.w3.org/2000/svg",
     width: "30",
     height: "30",
     fill: "currentColor",
     viewBox: "0 0 16 16"
-  }, /* @__PURE__ */ React99.createElement("path", {
+  }, /* @__PURE__ */ React102.createElement("path", {
     d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-  }))), /* @__PURE__ */ React99.createElement("div", null, /* @__PURE__ */ React99.createElement("h4", null, t2("wizards.chapter.targetelementtype", { context: "new" })), /* @__PURE__ */ React99.createElement("small", null, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
+  }))), /* @__PURE__ */ React102.createElement("div", null, /* @__PURE__ */ React102.createElement("h4", null, t2("wizards.chapter.targetelementtype", { context: "new" })), /* @__PURE__ */ React102.createElement("small", null, /* @__PURE__ */ React102.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.targetelementtypedescription", { context: "new" })
   })))));
 }
@@ -85857,11 +86084,11 @@ function ChapterWizardTargetComponent({
   const api2 = useApi();
   const app = useApp();
   const wizardData = useWizard();
-  const [targetType, setTargetType] = React99.useState(wizardData.targetType);
-  const [targetName, setTargetName] = React99.useState((_a = wizardData.targetName) != null ? _a : "");
-  const [targetElementPath, setTargetElementPath] = React99.useState(wizardData.targetElement);
-  const [targetElement, setTargetElement] = React99.useState(wizardData.targetElement ? api2.get(wizardData.targetElement) : void 0);
-  const [isExistingTarget, setIsExistingTarget] = React99.useState(wizardData.targetElement !== void 0 ? true : wizardData.targetName !== void 0 ? false : void 0);
+  const [targetType, setTargetType] = React102.useState(wizardData.targetType);
+  const [targetName, setTargetName] = React102.useState((_a = wizardData.targetName) != null ? _a : "");
+  const [targetElementPath, setTargetElementPath] = React102.useState(wizardData.targetElement);
+  const [targetElement, setTargetElement] = React102.useState(wizardData.targetElement ? api2.get(wizardData.targetElement) : void 0);
+  const [isExistingTarget, setIsExistingTarget] = React102.useState(wizardData.targetElement !== void 0 ? true : wizardData.targetName !== void 0 ? false : void 0);
   const onSetIsExistingTarget = (isExistingTarget2) => {
     setIsExistingTarget(isExistingTarget2);
     if (isExistingTarget2) {
@@ -85904,51 +86131,51 @@ function ChapterWizardTargetComponent({
     error2 = t2("wizards.errors");
     errors.forEach((singleError) => error2 += "\n- " + singleError);
   }
-  return /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("h3", {
+  return /* @__PURE__ */ React102.createElement(React102.Fragment, null, /* @__PURE__ */ React102.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.targettitle")), /* @__PURE__ */ React99.createElement("div", {
+  }, t2("wizards.chapter.targettitle")), /* @__PURE__ */ React102.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React102.createElement(MarkdownComponent, {
     value: t2("wizards.chapter.target", { name })
-  })), error2 && /* @__PURE__ */ React99.createElement("div", {
+  })), error2 && /* @__PURE__ */ React102.createElement("div", {
     className: "!mt-3 !mb-3 text-[--text-error]"
-  }, /* @__PURE__ */ React99.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React102.createElement(MarkdownComponent, {
     value: error2
-  })), /* @__PURE__ */ React99.createElement("div", {
+  })), /* @__PURE__ */ React102.createElement("div", {
     className: "grid grid-cols-2"
-  }, /* @__PURE__ */ React99.createElement(TargetTypeComponent, {
+  }, /* @__PURE__ */ React102.createElement(TargetTypeComponent, {
     key: "event" /* Event */,
     type: "event" /* Event */,
     targetType,
     setTargetType: onSetTargetType
-  }), /* @__PURE__ */ React99.createElement(TargetTypeComponent, {
+  }), /* @__PURE__ */ React102.createElement(TargetTypeComponent, {
     key: "location" /* Location */,
     type: "location" /* Location */,
     targetType,
     setTargetType: onSetTargetType
-  })), targetType !== void 0 && /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("h3", {
+  })), targetType !== void 0 && /* @__PURE__ */ React102.createElement(React102.Fragment, null, /* @__PURE__ */ React102.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.targetelementtype")), /* @__PURE__ */ React99.createElement("div", {
+  }, t2("wizards.chapter.targetelementtype")), /* @__PURE__ */ React102.createElement("div", {
     className: "grid grid-cols-2"
-  }, /* @__PURE__ */ React99.createElement(TargetElementTypeComponent, {
+  }, /* @__PURE__ */ React102.createElement(TargetElementTypeComponent, {
     isElement: isExistingTarget,
     setIsExistingTarget: onSetIsExistingTarget
-  })), isExistingTarget === void 0 ? /* @__PURE__ */ React99.createElement(React99.Fragment, null) : isExistingTarget ? /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("h3", {
+  })), isExistingTarget === void 0 ? /* @__PURE__ */ React102.createElement(React102.Fragment, null) : isExistingTarget ? /* @__PURE__ */ React102.createElement(React102.Fragment, null, /* @__PURE__ */ React102.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.targetelement", { context: "existing" })), /* @__PURE__ */ React99.createElement("div", {
+  }, t2("wizards.chapter.targetelement", { context: "existing" })), /* @__PURE__ */ React102.createElement("div", {
     className: "ml-3"
-  }, targetElementPath && targetElement && targetElement.name)) : /* @__PURE__ */ React99.createElement(React99.Fragment, null, /* @__PURE__ */ React99.createElement("h3", {
+  }, targetElementPath && targetElement && targetElement.name)) : /* @__PURE__ */ React102.createElement(React102.Fragment, null, /* @__PURE__ */ React102.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.targetelement", { context: "new" })), /* @__PURE__ */ React99.createElement("input", {
+  }, t2("wizards.chapter.targetelement", { context: "new" })), /* @__PURE__ */ React102.createElement("input", {
     type: "text",
     defaultValue: targetName,
     onChange: (e2) => onSetTargetName(e2.target.value),
     className: "ml-3"
-  }), /* @__PURE__ */ React99.createElement("h3", {
+  }), /* @__PURE__ */ React102.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("wizards.chapter.targetelementdescription")), /* @__PURE__ */ React99.createElement("div", {
+  }, t2("wizards.chapter.targetelementdescription")), /* @__PURE__ */ React102.createElement("div", {
     className: "ml-3"
-  }, /* @__PURE__ */ React99.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React102.createElement(MarkdownEditorComponent, {
     initialValue: wizardData.targetDescription,
     campaignPath,
     onChange: updateDescription,
@@ -85977,10 +86204,10 @@ function ChapterWizardComponent({
   const wizardData = useWizard();
   if (campaign === void 0 && element4 !== void 0)
     campaign = element4.campaign;
-  const [validation, setValidation] = React100.useState(1e4);
-  const [showOverlay, setShowOverlay] = React100.useState(false);
-  const [step, setStep] = React100.useState(1);
-  const [steps, setSteps] = React100.useState(stepComponents);
+  const [validation, setValidation] = React103.useState(1e4);
+  const [showOverlay, setShowOverlay] = React103.useState(false);
+  const [step, setStep] = React103.useState(1);
+  const [steps, setSteps] = React103.useState(stepComponents);
   if (Object.keys(wizardData).length === 0) {
     wizardData.description = (_a = element4 == null ? void 0 : element4.attribute("description" /* Description */)) == null ? void 0 : _a.value;
     wizardData.destinationType = void 0;
@@ -86079,54 +86306,54 @@ function ChapterWizardComponent({
   } else {
     campaignPath = campaign == null ? void 0 : campaign.path;
   }
-  return /* @__PURE__ */ React100.createElement("div", {
+  return /* @__PURE__ */ React103.createElement("div", {
     className: "relative"
-  }, showOverlay && /* @__PURE__ */ React100.createElement(ChatGptOverlay, {
+  }, showOverlay && /* @__PURE__ */ React103.createElement(ChatGptOverlay, {
     type: "chapter" /* Chapter */
-  }), /* @__PURE__ */ React100.createElement("h2", {
+  }), /* @__PURE__ */ React103.createElement("h2", {
     className: "!text-2xl !font-extralight border-b border-b-[--background-modifier-border]"
-  }, t2("wizards.chapter.title")), /* @__PURE__ */ React100.createElement("div", {
+  }, t2("wizards.chapter.title")), /* @__PURE__ */ React103.createElement("div", {
     className: "grid grid-cols-5 border-b border-b-[--background-modifier-border]"
-  }, /* @__PURE__ */ React100.createElement("div", {
+  }, /* @__PURE__ */ React103.createElement("div", {
     className: "col-span-1 border-r border-r-[--background-modifier-border]"
-  }, /* @__PURE__ */ React100.createElement(WizardNavigatorComponent, {
+  }, /* @__PURE__ */ React103.createElement(WizardNavigatorComponent, {
     key: step + validation,
     steps: stepComponents,
     step,
     setStep
-  })), /* @__PURE__ */ React100.createElement("div", {
+  })), /* @__PURE__ */ React103.createElement("div", {
     className: "p-3 col-span-4"
-  }, /* @__PURE__ */ React100.createElement(CurrentStepComponent.component, {
+  }, /* @__PURE__ */ React103.createElement(CurrentStepComponent.component, {
     key: step + validation,
     name: element4 ? element4 == null ? void 0 : element4.name : name,
     chatGpt: void 0,
     campaignPath,
     setOverlay: setShowOverlay,
     errors: CurrentStepComponent.errors
-  }))), /* @__PURE__ */ React100.createElement("div", {
+  }))), /* @__PURE__ */ React103.createElement("div", {
     className: "flex justify-end pt-5"
-  }, /* @__PURE__ */ React100.createElement("button", {
+  }, /* @__PURE__ */ React103.createElement("button", {
     className: "rpgm-danger pl-3 pr-3 mr-6",
     onClick: () => close()
-  }, t2("buttons.cancel")), /* @__PURE__ */ React100.createElement("button", {
+  }, t2("buttons.cancel")), /* @__PURE__ */ React103.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 ml-3 disabled:text-[--text-faint]",
     onClick: () => updateStep(step - 1),
     disabled: step === 1
-  }, t2("buttons.previous")), /* @__PURE__ */ React100.createElement("button", {
+  }, t2("buttons.previous")), /* @__PURE__ */ React103.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 ml-3 disabled:text-[--text-faint]",
     onClick: () => updateStep(step + 1),
     disabled: step === stepComponents.length
-  }, t2("buttons.next")), /* @__PURE__ */ React100.createElement("button", {
+  }, t2("buttons.next")), /* @__PURE__ */ React103.createElement("button", {
     className: "rpgm-primary pl-3 pr-3 ml-3 mr-5",
     onClick: () => save()
   }, t2("buttons.create"))));
 }
 
 // src/components/wizards/npcs/NonPlayerCharacterWizardComponent.tsx
-var React115 = __toESM(require_react());
+var React118 = __toESM(require_react());
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardArcStepComponent.tsx
-var React101 = __toESM(require_react());
+var React104 = __toESM(require_react());
 function NonPlayerCharacterWizardArcStepComponent({
   name,
   campaignPath,
@@ -86135,7 +86362,7 @@ function NonPlayerCharacterWizardArcStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [arcType, setArcType] = React101.useState(wizardData.arc);
+  const [arcType, setArcType] = React104.useState(wizardData.arc);
   const setArc = (arc2) => {
     setArcType(arc2);
     wizardData.arc = arc2;
@@ -86172,46 +86399,46 @@ function NonPlayerCharacterWizardArcStepComponent({
       selected: arcType === 5 /* Flat */
     }
   ];
-  return /* @__PURE__ */ React101.createElement(React101.Fragment, null, /* @__PURE__ */ React101.createElement("h3", {
+  return /* @__PURE__ */ React104.createElement(React104.Fragment, null, /* @__PURE__ */ React104.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.arc")), /* @__PURE__ */ React101.createElement("div", {
+  }, t2("attributes.arc")), /* @__PURE__ */ React104.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React104.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "arc", name })
-  })), /* @__PURE__ */ React101.createElement("div", {
+  })), /* @__PURE__ */ React104.createElement("div", {
     className: ""
   }, arcs.map((arc2, index2) => {
-    return /* @__PURE__ */ React101.createElement("div", {
+    return /* @__PURE__ */ React104.createElement("div", {
       key: index2,
       className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
       onClick: () => setArc(arc2.type)
-    }, /* @__PURE__ */ React101.createElement("div", {
+    }, /* @__PURE__ */ React104.createElement("div", {
       className: "flext min-w[50px] w-[50px] items-center justify-center"
-    }, arc2.selected && /* @__PURE__ */ React101.createElement("svg", {
+    }, arc2.selected && /* @__PURE__ */ React104.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       width: "30",
       height: "30",
       fill: "currentColor",
       viewBox: "0 0 16 16"
-    }, /* @__PURE__ */ React101.createElement("path", {
+    }, /* @__PURE__ */ React104.createElement("path", {
       d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-    }))), /* @__PURE__ */ React101.createElement("div", null, /* @__PURE__ */ React101.createElement("h4", null, arc2.name), /* @__PURE__ */ React101.createElement("small", null, /* @__PURE__ */ React101.createElement(MarkdownComponent, {
+    }))), /* @__PURE__ */ React104.createElement("div", null, /* @__PURE__ */ React104.createElement("h4", null, arc2.name), /* @__PURE__ */ React104.createElement("small", null, /* @__PURE__ */ React104.createElement(MarkdownComponent, {
       value: arc2.description
     }))));
   })));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardBehaviourStepComponent.tsx
-var React103 = __toESM(require_react());
+var React106 = __toESM(require_react());
 
 // src/components/chatgpt/ChatGptSuggestionComponent.tsx
-var React102 = __toESM(require_react());
+var React105 = __toESM(require_react());
 function ChatGptSuggestionComponent({
   generateSuggestions,
   applySuggestions
 }) {
   const { t: t2 } = useTranslation();
-  const [suggestions, setSuggestions] = React102.useState(void 0);
+  const [suggestions, setSuggestions] = React105.useState(void 0);
   const selectSuggestion = (suggestion) => {
     applySuggestions(suggestion);
   };
@@ -86220,13 +86447,13 @@ function ChatGptSuggestionComponent({
     const providedSuggestions = yield generateSuggestions();
     setSuggestions(providedSuggestions);
   });
-  return /* @__PURE__ */ React102.createElement("div", {
+  return /* @__PURE__ */ React105.createElement("div", {
     className: "!mt-3 p-3 grid grid-cols-1 rounded-lg border border-[--background-modifier-border]"
-  }, /* @__PURE__ */ React102.createElement("div", null, /* @__PURE__ */ React102.createElement("button", {
+  }, /* @__PURE__ */ React105.createElement("div", null, /* @__PURE__ */ React105.createElement("button", {
     className: "rpgm-secondary !m-0",
     onClick: requestSuggestions
-  }, t2("chatgpt.generate"))), suggestions && /* @__PURE__ */ React102.createElement(React102.Fragment, null, suggestions.map((suggestion, index2) => {
-    return /* @__PURE__ */ React102.createElement("div", {
+  }, t2("chatgpt.generate"))), suggestions && /* @__PURE__ */ React105.createElement(React105.Fragment, null, suggestions.map((suggestion, index2) => {
+    return /* @__PURE__ */ React105.createElement("div", {
       key: index2,
       className: "rounded-lg border border-[--background-modifier-border] m-2 p-1 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
       onClick: () => selectSuggestion(suggestion)
@@ -86243,8 +86470,8 @@ function NonPlayerCharacterWizardBehaviourStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React103.useState(Date.now());
-  const [behaviour2, setBehaviour] = React103.useState(wizardData.behaviour);
+  const [key, setKey] = React106.useState(Date.now());
+  const [behaviour2, setBehaviour] = React106.useState(wizardData.behaviour);
   const updateBehaviour = (value) => {
     wizardData.behaviour = value;
     setBehaviour(value);
@@ -86268,28 +86495,28 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React103.createElement(React103.Fragment, null, /* @__PURE__ */ React103.createElement("h3", {
+  return /* @__PURE__ */ React106.createElement(React106.Fragment, null, /* @__PURE__ */ React106.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.behaviour")), /* @__PURE__ */ React103.createElement("div", {
+  }, t2("attributes.behaviour")), /* @__PURE__ */ React106.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React103.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React106.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "behaviour", name })
-  })), /* @__PURE__ */ React103.createElement("div", {
+  })), /* @__PURE__ */ React106.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React103.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React106.createElement(MarkdownEditorComponent, {
     key,
     initialValue: behaviour2,
     campaignPath,
     onChange: updateBehaviour,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React103.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React106.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardBeliefsStepComponent.tsx
-var React104 = __toESM(require_react());
+var React107 = __toESM(require_react());
 function NonPlayerCharacterWizardBeliefsStepComponent({
   name,
   campaignPath,
@@ -86298,8 +86525,8 @@ function NonPlayerCharacterWizardBeliefsStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React104.useState(Date.now());
-  const [beliefs2, setBeliefs] = React104.useState(wizardData.beliefs);
+  const [key, setKey] = React107.useState(Date.now());
+  const [beliefs2, setBeliefs] = React107.useState(wizardData.beliefs);
   const updateBeliefs = (value) => {
     wizardData.beliefs = value;
     setBeliefs(value);
@@ -86323,28 +86550,28 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React104.createElement(React104.Fragment, null, /* @__PURE__ */ React104.createElement("h3", {
+  return /* @__PURE__ */ React107.createElement(React107.Fragment, null, /* @__PURE__ */ React107.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.beliefs")), /* @__PURE__ */ React104.createElement("div", {
+  }, t2("attributes.beliefs")), /* @__PURE__ */ React107.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React104.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React107.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "beliefs", name })
-  })), /* @__PURE__ */ React104.createElement("div", {
+  })), /* @__PURE__ */ React107.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React104.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React107.createElement(MarkdownEditorComponent, {
     key,
     initialValue: beliefs2,
     campaignPath,
     onChange: updateBeliefs,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React104.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React107.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardDescriptionStepComponent.tsx
-var React105 = __toESM(require_react());
+var React108 = __toESM(require_react());
 function NonPlayerCharacterWizardDescriptionStepComponent({
   name,
   campaignPath,
@@ -86356,15 +86583,15 @@ function NonPlayerCharacterWizardDescriptionStepComponent({
   const updateDescription = (value) => {
     wizardData.description = value;
   };
-  return /* @__PURE__ */ React105.createElement(React105.Fragment, null, /* @__PURE__ */ React105.createElement("h3", {
+  return /* @__PURE__ */ React108.createElement(React108.Fragment, null, /* @__PURE__ */ React108.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.description")), /* @__PURE__ */ React105.createElement("div", {
+  }, t2("attributes.description")), /* @__PURE__ */ React108.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React105.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React108.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "description", name })
-  })), /* @__PURE__ */ React105.createElement("div", {
+  })), /* @__PURE__ */ React108.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React105.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React108.createElement(MarkdownEditorComponent, {
     initialValue: wizardData.description,
     campaignPath,
     onChange: updateDescription,
@@ -86373,7 +86600,7 @@ function NonPlayerCharacterWizardDescriptionStepComponent({
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardGhostStepComponent.tsx
-var React106 = __toESM(require_react());
+var React109 = __toESM(require_react());
 function NonPlayerCharacterWizardGhostStepComponent({
   name,
   campaignPath,
@@ -86382,8 +86609,8 @@ function NonPlayerCharacterWizardGhostStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React106.useState(Date.now());
-  const [ghost2, setGhost] = React106.useState(wizardData.ghost);
+  const [key, setKey] = React109.useState(Date.now());
+  const [ghost2, setGhost] = React109.useState(wizardData.ghost);
   const updateGhost = (value) => {
     wizardData.ghost = value;
     setGhost(value);
@@ -86407,28 +86634,28 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React106.createElement(React106.Fragment, null, /* @__PURE__ */ React106.createElement("h3", {
+  return /* @__PURE__ */ React109.createElement(React109.Fragment, null, /* @__PURE__ */ React109.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.ghost")), /* @__PURE__ */ React106.createElement("div", {
+  }, t2("attributes.ghost")), /* @__PURE__ */ React109.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React106.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React109.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "ghost", name })
-  })), /* @__PURE__ */ React106.createElement("div", {
+  })), /* @__PURE__ */ React109.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React106.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React109.createElement(MarkdownEditorComponent, {
     key,
     initialValue: ghost2,
     campaignPath,
     onChange: updateGhost,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React106.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React109.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardLieStepComponent.tsx
-var React107 = __toESM(require_react());
+var React110 = __toESM(require_react());
 function NonPlayerCharacterWizardLieStepComponent({
   name,
   campaignPath,
@@ -86437,8 +86664,8 @@ function NonPlayerCharacterWizardLieStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React107.useState(Date.now());
-  const [lie2, setLie] = React107.useState(wizardData.lie);
+  const [key, setKey] = React110.useState(Date.now());
+  const [lie2, setLie] = React110.useState(wizardData.lie);
   const updateLie = (value) => {
     wizardData.lie = value;
     setLie(value);
@@ -86462,28 +86689,28 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React107.createElement(React107.Fragment, null, /* @__PURE__ */ React107.createElement("h3", {
+  return /* @__PURE__ */ React110.createElement(React110.Fragment, null, /* @__PURE__ */ React110.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.lie")), /* @__PURE__ */ React107.createElement("div", {
+  }, t2("attributes.lie")), /* @__PURE__ */ React110.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React107.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React110.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "lie", name })
-  })), /* @__PURE__ */ React107.createElement("div", {
+  })), /* @__PURE__ */ React110.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React107.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React110.createElement(MarkdownEditorComponent, {
     key,
     initialValue: lie2,
     campaignPath,
     onChange: updateLie,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React107.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React110.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardNeedStepComponent.tsx
-var React108 = __toESM(require_react());
+var React111 = __toESM(require_react());
 function NonPlayerCharacterWizardNeedStepComponent({
   name,
   campaignPath,
@@ -86492,8 +86719,8 @@ function NonPlayerCharacterWizardNeedStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React108.useState(Date.now());
-  const [need2, setNeed] = React108.useState(wizardData.need);
+  const [key, setKey] = React111.useState(Date.now());
+  const [need2, setNeed] = React111.useState(wizardData.need);
   const updateNeed = (value) => {
     wizardData.need = value;
     setNeed(value);
@@ -86517,28 +86744,28 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React108.createElement(React108.Fragment, null, /* @__PURE__ */ React108.createElement("h3", {
+  return /* @__PURE__ */ React111.createElement(React111.Fragment, null, /* @__PURE__ */ React111.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.need")), /* @__PURE__ */ React108.createElement("div", {
+  }, t2("attributes.need")), /* @__PURE__ */ React111.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React108.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React111.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "need", name })
-  })), /* @__PURE__ */ React108.createElement("div", {
+  })), /* @__PURE__ */ React111.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React108.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React111.createElement(MarkdownEditorComponent, {
     key,
     initialValue: need2,
     campaignPath,
     onChange: updateNeed,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React108.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React111.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardOccupationStepComponent.tsx
-var React109 = __toESM(require_react());
+var React112 = __toESM(require_react());
 function NonPlayerCharacterWizardOccupationStepComponent({
   name,
   campaignPath,
@@ -86547,20 +86774,20 @@ function NonPlayerCharacterWizardOccupationStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [occupation2, setOccupation] = React109.useState(wizardData.occupation);
+  const [occupation2, setOccupation] = React112.useState(wizardData.occupation);
   const updateOccupation = (value) => {
     wizardData.occupation = value;
     setOccupation(value);
   };
-  return /* @__PURE__ */ React109.createElement(React109.Fragment, null, /* @__PURE__ */ React109.createElement("h3", {
+  return /* @__PURE__ */ React112.createElement(React112.Fragment, null, /* @__PURE__ */ React112.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.occupation")), /* @__PURE__ */ React109.createElement("div", {
+  }, t2("attributes.occupation")), /* @__PURE__ */ React112.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React109.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React112.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "occupation", name })
-  })), /* @__PURE__ */ React109.createElement("div", {
+  })), /* @__PURE__ */ React112.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React109.createElement(TextInputComponent, {
+  }, /* @__PURE__ */ React112.createElement(TextInputComponent, {
     initialValue: occupation2,
     campaignPath,
     onChange: updateOccupation,
@@ -86569,7 +86796,7 @@ function NonPlayerCharacterWizardOccupationStepComponent({
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardOppositionStepComponent.tsx
-var React110 = __toESM(require_react());
+var React113 = __toESM(require_react());
 function NonPlayerCharacterWizardOppositionStepComponent({
   name,
   campaignPath,
@@ -86578,8 +86805,8 @@ function NonPlayerCharacterWizardOppositionStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React110.useState(Date.now());
-  const [opposition2, setOpposition] = React110.useState(wizardData.opposition);
+  const [key, setKey] = React113.useState(Date.now());
+  const [opposition2, setOpposition] = React113.useState(wizardData.opposition);
   const updateOpposition = (value) => {
     wizardData.opposition = value;
     setOpposition(value);
@@ -86603,30 +86830,30 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React110.createElement(React110.Fragment, null, /* @__PURE__ */ React110.createElement("h3", {
+  return /* @__PURE__ */ React113.createElement(React113.Fragment, null, /* @__PURE__ */ React113.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.opposition")), /* @__PURE__ */ React110.createElement("div", {
+  }, t2("attributes.opposition")), /* @__PURE__ */ React113.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React110.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React113.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "opposition", name })
-  }), wizardData.want !== void 0 && /* @__PURE__ */ React110.createElement(React110.Fragment, null, /* @__PURE__ */ React110.createElement("br", null), /* @__PURE__ */ React110.createElement("small", null, name, " wants to:", /* @__PURE__ */ React110.createElement(MarkdownComponent, {
+  }), wizardData.want !== void 0 && /* @__PURE__ */ React113.createElement(React113.Fragment, null, /* @__PURE__ */ React113.createElement("br", null), /* @__PURE__ */ React113.createElement("small", null, name, " wants to:", /* @__PURE__ */ React113.createElement(MarkdownComponent, {
     value: wizardData.want
-  })))), /* @__PURE__ */ React110.createElement("div", {
+  })))), /* @__PURE__ */ React113.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React110.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React113.createElement(MarkdownEditorComponent, {
     key,
     initialValue: opposition2,
     campaignPath,
     onChange: updateOpposition,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React110.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React113.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardStakeStepComponent.tsx
-var React111 = __toESM(require_react());
+var React114 = __toESM(require_react());
 function NonPlayerCharacterWizardStakeStepComponent({
   name,
   campaignPath,
@@ -86636,9 +86863,9 @@ function NonPlayerCharacterWizardStakeStepComponent({
   var _a;
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [stake2, setStake] = React111.useState((_a = wizardData.stake) != null ? _a : 0);
-  const [widthPercentage, setWidthPercentage] = React111.useState(stake2 / 10 * 100);
-  React111.useEffect(() => {
+  const [stake2, setStake] = React114.useState((_a = wizardData.stake) != null ? _a : 0);
+  const [widthPercentage, setWidthPercentage] = React114.useState(stake2 / 10 * 100);
+  React114.useEffect(() => {
     setWidthPercentage(stake2 / 10 * 100);
   }, [stake2]);
   const handleMouseOver = (event) => {
@@ -86652,30 +86879,30 @@ function NonPlayerCharacterWizardStakeStepComponent({
     wizardData.stake = newValue;
     setStake(newValue);
   };
-  return /* @__PURE__ */ React111.createElement(React111.Fragment, null, /* @__PURE__ */ React111.createElement("h3", {
+  return /* @__PURE__ */ React114.createElement(React114.Fragment, null, /* @__PURE__ */ React114.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.stake")), /* @__PURE__ */ React111.createElement("div", {
+  }, t2("attributes.stake")), /* @__PURE__ */ React114.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React111.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React114.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "stake", name })
-  })), /* @__PURE__ */ React111.createElement("div", {
+  })), /* @__PURE__ */ React114.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React111.createElement("div", {
+  }, /* @__PURE__ */ React114.createElement("div", {
     className: "w-full mt-3 cursor-pointer"
-  }, /* @__PURE__ */ React111.createElement("div", {
+  }, /* @__PURE__ */ React114.createElement("div", {
     className: "relative mr-3 h-2 bg-[--background-primary-alt] rounded-full",
     onMouseMove: handleMouseOver,
     onClick: updateStake
-  }, /* @__PURE__ */ React111.createElement("div", {
+  }, /* @__PURE__ */ React114.createElement("div", {
     style: { width: `${widthPercentage}%` },
     className: "absolute h-2 bg-[--text-accent] rounded-full"
-  })), /* @__PURE__ */ React111.createElement("div", {
+  })), /* @__PURE__ */ React114.createElement("div", {
     className: "text-xs text-[--text-faint] text-center"
   }, Math.round(widthPercentage / 100 * 10)))));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardStrengthsAndWeaknessesStepComponent.tsx
-var React112 = __toESM(require_react());
+var React115 = __toESM(require_react());
 function NonPlayerCharacterWizardStrengthsAndWeaknessesStepComponent({
   name,
   campaignPath,
@@ -86684,11 +86911,11 @@ function NonPlayerCharacterWizardStrengthsAndWeaknessesStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React112.useState(Date.now());
-  const [retrievingStrengthsSuggestions, setRetrievingStrengthsSuggestions] = React112.useState(false);
-  const [retrievingWeaknessesSuggestions, setRetrievingWeaknessesSuggestions] = React112.useState(false);
-  const [strengths2, setStrengths] = React112.useState(wizardData.strengths);
-  const [weaknesses2, setWeaknesses] = React112.useState(wizardData.weaknesses);
+  const [key, setKey] = React115.useState(Date.now());
+  const [retrievingStrengthsSuggestions, setRetrievingStrengthsSuggestions] = React115.useState(false);
+  const [retrievingWeaknessesSuggestions, setRetrievingWeaknessesSuggestions] = React115.useState(false);
+  const [strengths2, setStrengths] = React115.useState(wizardData.strengths);
+  const [weaknesses2, setWeaknesses] = React115.useState(wizardData.weaknesses);
   const requestStrengthsSuggestions = () => __async(this, null, function* () {
     setRetrievingStrengthsSuggestions(true);
     try {
@@ -86741,53 +86968,53 @@ function NonPlayerCharacterWizardStrengthsAndWeaknessesStepComponent({
     wizardData.weaknesses = wizardData.weaknesses ^ weaknesses3;
     setWeaknesses(wizardData.weaknesses);
   };
-  return /* @__PURE__ */ React112.createElement(React112.Fragment, null, /* @__PURE__ */ React112.createElement("h3", {
+  return /* @__PURE__ */ React115.createElement(React115.Fragment, null, /* @__PURE__ */ React115.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.strengths")), /* @__PURE__ */ React112.createElement("div", {
+  }, t2("attributes.strengths")), /* @__PURE__ */ React115.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React112.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React115.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "strengths", name })
-  })), /* @__PURE__ */ React112.createElement("div", {
+  })), /* @__PURE__ */ React115.createElement("div", {
     className: "!mb-5"
-  }, /* @__PURE__ */ React112.createElement(StrengthsComponent, {
+  }, /* @__PURE__ */ React115.createElement(StrengthsComponent, {
     key,
     initialValue: strengths2,
     propagateValue: updateStrengths
-  })), chatGpt && /* @__PURE__ */ React112.createElement("div", {
+  })), chatGpt && /* @__PURE__ */ React115.createElement("div", {
     className: "!mt-3 grid grid-cols-1"
-  }, /* @__PURE__ */ React112.createElement("div", {
+  }, /* @__PURE__ */ React115.createElement("div", {
     className: "!mb-3"
-  }, /* @__PURE__ */ React112.createElement("button", {
+  }, /* @__PURE__ */ React115.createElement("button", {
     className: "rpgm-secondary",
     onClick: requestStrengthsSuggestions,
     disabled: retrievingStrengthsSuggestions
-  }, t2("chatgpt.generate"))), retrievingStrengthsSuggestions && /* @__PURE__ */ React112.createElement("div", {
+  }, t2("chatgpt.generate"))), retrievingStrengthsSuggestions && /* @__PURE__ */ React115.createElement("div", {
     className: "p-3 rounded-lg border border-[--background-modifier-border]"
-  }, t2("chatgpt.messages", { returnObjects: true })[0])), /* @__PURE__ */ React112.createElement("h3", {
+  }, t2("chatgpt.messages", { returnObjects: true })[0])), /* @__PURE__ */ React115.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.weaknesses")), /* @__PURE__ */ React112.createElement("div", {
+  }, t2("attributes.weaknesses")), /* @__PURE__ */ React115.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React112.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React115.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "weaknesses", name })
-  })), /* @__PURE__ */ React112.createElement("div", null, /* @__PURE__ */ React112.createElement(WeaknessesComponent, {
+  })), /* @__PURE__ */ React115.createElement("div", null, /* @__PURE__ */ React115.createElement(WeaknessesComponent, {
     key,
     initialValue: weaknesses2,
     propagateValue: updateWeaknesses
-  })), chatGpt && /* @__PURE__ */ React112.createElement("div", {
+  })), chatGpt && /* @__PURE__ */ React115.createElement("div", {
     className: "!mt-3 grid grid-cols-1"
-  }, /* @__PURE__ */ React112.createElement("div", {
+  }, /* @__PURE__ */ React115.createElement("div", {
     className: "!mb-3"
-  }, /* @__PURE__ */ React112.createElement("button", {
+  }, /* @__PURE__ */ React115.createElement("button", {
     className: "rpgm-secondary",
     onClick: requestWeaknessesSuggestions,
     disabled: retrievingWeaknessesSuggestions
-  }, t2("chatgpt.generate"))), retrievingWeaknessesSuggestions && /* @__PURE__ */ React112.createElement("div", {
+  }, t2("chatgpt.generate"))), retrievingWeaknessesSuggestions && /* @__PURE__ */ React115.createElement("div", {
     className: "p-3 rounded-lg border border-[--background-modifier-border]"
   }, t2("chatgpt.messages", { returnObjects: true })[0])));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardTypeStepComponent.tsx
-var React113 = __toESM(require_react());
+var React116 = __toESM(require_react());
 function NonPlayerCharacterWizardTypeStepComponent({
   name,
   campaignPath,
@@ -86796,7 +87023,7 @@ function NonPlayerCharacterWizardTypeStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [characterType, setCharacterType] = React113.useState(wizardData.nonplayercharactertype);
+  const [characterType, setCharacterType] = React116.useState(wizardData.nonplayercharactertype);
   const setType = (type2) => {
     wizardData.nonplayercharactertype = type2;
     setCharacterType(type2);
@@ -86821,37 +87048,37 @@ function NonPlayerCharacterWizardTypeStepComponent({
       selected: characterType === "extra" /* Extra */
     }
   ];
-  return /* @__PURE__ */ React113.createElement(React113.Fragment, null, /* @__PURE__ */ React113.createElement("h3", {
+  return /* @__PURE__ */ React116.createElement(React116.Fragment, null, /* @__PURE__ */ React116.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.nonplayercharactertype")), /* @__PURE__ */ React113.createElement("div", {
+  }, t2("attributes.nonplayercharactertype")), /* @__PURE__ */ React116.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React113.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React116.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "type", name })
-  })), /* @__PURE__ */ React113.createElement("div", {
+  })), /* @__PURE__ */ React116.createElement("div", {
     className: ""
   }, types.map((type2, index2) => {
-    return /* @__PURE__ */ React113.createElement("div", {
+    return /* @__PURE__ */ React116.createElement("div", {
       key: index2,
       className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
       onClick: () => setType(type2.type)
-    }, /* @__PURE__ */ React113.createElement("div", {
+    }, /* @__PURE__ */ React116.createElement("div", {
       className: "flext min-w[50px] w-[50px] items-center justify-center"
-    }, type2.selected && /* @__PURE__ */ React113.createElement("svg", {
+    }, type2.selected && /* @__PURE__ */ React116.createElement("svg", {
       xmlns: "http://www.w3.org/2000/svg",
       width: "30",
       height: "30",
       fill: "currentColor",
       viewBox: "0 0 16 16"
-    }, /* @__PURE__ */ React113.createElement("path", {
+    }, /* @__PURE__ */ React116.createElement("path", {
       d: "M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"
-    }))), /* @__PURE__ */ React113.createElement("div", null, /* @__PURE__ */ React113.createElement("h4", null, type2.name), /* @__PURE__ */ React113.createElement("small", null, /* @__PURE__ */ React113.createElement(MarkdownComponent, {
+    }))), /* @__PURE__ */ React116.createElement("div", null, /* @__PURE__ */ React116.createElement("h4", null, type2.name), /* @__PURE__ */ React116.createElement("small", null, /* @__PURE__ */ React116.createElement(MarkdownComponent, {
       value: type2.description
     }))));
   })));
 }
 
 // src/components/wizards/npcs/steps/NonPlayerCharacterWizardWantStepComponent.tsx
-var React114 = __toESM(require_react());
+var React117 = __toESM(require_react());
 function NonPlayerCharacterWizardWantStepComponent({
   name,
   campaignPath,
@@ -86860,8 +87087,8 @@ function NonPlayerCharacterWizardWantStepComponent({
 }) {
   const { t: t2 } = useTranslation();
   const wizardData = useWizard();
-  const [key, setKey] = React114.useState(Date.now());
-  const [want2, setWant] = React114.useState(wizardData.want);
+  const [key, setKey] = React117.useState(Date.now());
+  const [want2, setWant] = React117.useState(wizardData.want);
   const updateWant = (value) => {
     wizardData.want = value;
     setWant(value);
@@ -86885,21 +87112,21 @@ ${suggestion}` : suggestion;
       }
     });
   }
-  return /* @__PURE__ */ React114.createElement(React114.Fragment, null, /* @__PURE__ */ React114.createElement("h3", {
+  return /* @__PURE__ */ React117.createElement(React117.Fragment, null, /* @__PURE__ */ React117.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("attributes.want")), /* @__PURE__ */ React114.createElement("div", {
+  }, t2("attributes.want")), /* @__PURE__ */ React117.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, /* @__PURE__ */ React114.createElement(MarkdownComponent, {
+  }, /* @__PURE__ */ React117.createElement(MarkdownComponent, {
     value: t2("wizards.npc.description", { context: "want", name })
-  })), /* @__PURE__ */ React114.createElement("div", {
+  })), /* @__PURE__ */ React117.createElement("div", {
     className: ""
-  }, /* @__PURE__ */ React114.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React117.createElement(MarkdownEditorComponent, {
     key,
     initialValue: want2,
     campaignPath,
     onChange: updateWant,
     className: "w-full resize-none overflow-y-hidden border border-[--background-modifier-border] rounded-md"
-  })), chatGpt && /* @__PURE__ */ React114.createElement(ChatGptSuggestionComponent, {
+  })), chatGpt && /* @__PURE__ */ React117.createElement(ChatGptSuggestionComponent, {
     generateSuggestions,
     applySuggestions: applySuggestion
   }));
@@ -86951,12 +87178,12 @@ function NonPlayerCharacterWizardComponent({
 }) {
   var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p;
   const { t: t2 } = useTranslation();
-  const [stepsType, setStepsType] = React115.useState(initialStepComponents);
-  const [showOverlay, setShowOverlay] = React115.useState(false);
+  const [stepsType, setStepsType] = React118.useState(initialStepComponents);
+  const [showOverlay, setShowOverlay] = React118.useState(false);
   const api2 = useApi();
   const app = useApp();
   const wizardData = useWizard();
-  const chatGpt = React115.useRef(void 0);
+  const chatGpt = React118.useRef(void 0);
   const createAutomatically = () => __async(this, null, function* () {
     if (chatGpt.current === void 0)
       return;
@@ -87064,7 +87291,7 @@ function NonPlayerCharacterWizardComponent({
     });
     chatGpt.current.weaknesses = weaknesses2.join(", ");
   };
-  if (api2.settings.chatGptKey !== void 0 && api2.settings.chatGptKey !== "" && !chatGpt.current) {
+  if (api2.settings.hasLLM && !chatGpt.current) {
     chatGpt.current = new ChatGptNonPlayerCharacterModel(api2, (_a = element4 == null ? void 0 : element4.campaign) != null ? _a : campaign, (_b = element4 == null ? void 0 : element4.name) != null ? _b : name);
   }
   const setCurrentChatGPT = () => {
@@ -87111,9 +87338,9 @@ function NonPlayerCharacterWizardComponent({
     if (chatGpt.current !== void 0)
       setCurrentChatGPT();
   }
-  const [step, setStep] = React115.useState(1);
+  const [step, setStep] = React118.useState(1);
   const updateStep = (newStep) => {
-    if (api2.settings.chatGptKey !== void 0 && api2.settings.chatGptKey !== "") {
+    if (api2.settings.hasLLM) {
       setCurrentChatGPT();
     }
     if (step === 1) {
@@ -87152,71 +87379,71 @@ function NonPlayerCharacterWizardComponent({
   } else {
     campaignPath = campaign == null ? void 0 : campaign.path;
   }
-  return /* @__PURE__ */ React115.createElement("div", {
+  return /* @__PURE__ */ React118.createElement("div", {
     className: "relative"
-  }, showOverlay && /* @__PURE__ */ React115.createElement(ChatGptOverlay, {
+  }, showOverlay && /* @__PURE__ */ React118.createElement(ChatGptOverlay, {
     type: "nonplayercharacter" /* NonPlayerCharacter */
-  }), /* @__PURE__ */ React115.createElement("h2", {
+  }), /* @__PURE__ */ React118.createElement("h2", {
     className: "!text-2xl !font-extralight border-b border-b-[--background-modifier-border]"
-  }, t2("wizards.npc.title")), /* @__PURE__ */ React115.createElement("div", {
+  }, t2("wizards.npc.title")), /* @__PURE__ */ React118.createElement("div", {
     className: "grid grid-cols-5 border-b border-b-[--background-modifier-border]"
-  }, /* @__PURE__ */ React115.createElement("div", {
+  }, /* @__PURE__ */ React118.createElement("div", {
     className: "col-span-1 border-r border-r-[--background-modifier-border]"
-  }, WizardNavigatorComponent({ steps: stepsType, step, setStep })), /* @__PURE__ */ React115.createElement("div", {
+  }, WizardNavigatorComponent({ steps: stepsType, step, setStep })), /* @__PURE__ */ React118.createElement("div", {
     className: "p-3 col-span-4"
-  }, /* @__PURE__ */ React115.createElement(CurrentStepComponent.component, {
+  }, /* @__PURE__ */ React118.createElement(CurrentStepComponent.component, {
     key: step,
     name: element4 ? element4 == null ? void 0 : element4.name : name,
     chatGpt: chatGpt.current,
     campaignPath,
     setOverlay: setShowOverlay
-  }))), /* @__PURE__ */ React115.createElement("div", {
+  }))), /* @__PURE__ */ React118.createElement("div", {
     className: "flex justify-end pt-5"
-  }, /* @__PURE__ */ React115.createElement("button", {
+  }, /* @__PURE__ */ React118.createElement("button", {
     className: "rpgm-danger pl-3 pr-3 mr-6",
     onClick: () => close()
-  }, t2("buttons.cancel")), api2.settings.chatGptKey !== void 0 && api2.settings.chatGptKey !== "" && chatGpt.current && step > 2 && /* @__PURE__ */ React115.createElement("button", {
+  }, t2("buttons.cancel")), api2.settings.hasLLM && chatGpt.current && step > 2 && /* @__PURE__ */ React118.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 mr-6",
     onClick: () => createAutomatically()
-  }, t2("wizards.npc.create")), /* @__PURE__ */ React115.createElement("button", {
+  }, t2("wizards.npc.create")), /* @__PURE__ */ React118.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 ml-3 disabled:text-[--text-faint]",
     onClick: () => updateStep(step - 1),
     disabled: step === 1
-  }, t2("buttons.previous")), /* @__PURE__ */ React115.createElement("button", {
+  }, t2("buttons.previous")), /* @__PURE__ */ React118.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 ml-3 disabled:text-[--text-faint]",
     onClick: () => updateStep(step + 1),
     disabled: step === stepsType.length
-  }, t2("buttons.next")), /* @__PURE__ */ React115.createElement("button", {
+  }, t2("buttons.next")), /* @__PURE__ */ React118.createElement("button", {
     className: "rpgm-primary pl-3 pr-3 ml-3 mr-5",
     onClick: () => save()
   }, t2("buttons.create"))));
 }
 
 // src/components/creation/CreationBaseComponent.tsx
-var React121 = __toESM(require_react());
+var React124 = __toESM(require_react());
 
 // src/components/creation/AdventureSelectionComponent.tsx
-var React116 = __toESM(require_react());
+var React119 = __toESM(require_react());
 function AdventureSelectionComponent({
   adventures,
   setAdventurePath
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React116.createElement("div", {
+  return /* @__PURE__ */ React119.createElement("div", {
     className: "max-w-md mb-3"
-  }, /* @__PURE__ */ React116.createElement("div", null, t2("adventure", { count: 1 })), /* @__PURE__ */ React116.createElement("div", null, /* @__PURE__ */ React116.createElement("select", {
+  }, /* @__PURE__ */ React119.createElement("div", null, t2("adventure", { count: 1 })), /* @__PURE__ */ React119.createElement("div", null, /* @__PURE__ */ React119.createElement("select", {
     onChange: (e2) => setAdventurePath(e2.target.value),
     className: "w-full"
-  }, adventures.length > 1 && /* @__PURE__ */ React116.createElement("option", {
+  }, adventures.length > 1 && /* @__PURE__ */ React119.createElement("option", {
     value: ""
-  }), adventures.map((adventure) => /* @__PURE__ */ React116.createElement("option", {
+  }), adventures.map((adventure) => /* @__PURE__ */ React119.createElement("option", {
     key: adventure.path,
     value: adventure.path
   }, adventure.name)))));
 }
 
 // src/components/creation/CampaignSelectionComponent.tsx
-var React117 = __toESM(require_react());
+var React120 = __toESM(require_react());
 function CampaignSelectionComponent({
   campaigns,
   setAsGlobal,
@@ -87231,70 +87458,70 @@ function CampaignSelectionComponent({
     setCampaign(campaignPath);
     setSystem(campaign.system);
   };
-  return /* @__PURE__ */ React117.createElement("div", {
+  return /* @__PURE__ */ React120.createElement("div", {
     className: "max-w-md mb-3"
-  }, /* @__PURE__ */ React117.createElement("div", {
+  }, /* @__PURE__ */ React120.createElement("div", {
     className: "font-bold"
-  }, t2("create.select", { context: "campaign" /* Campaign */ })), /* @__PURE__ */ React117.createElement("select", {
+  }, t2("create.select", { context: "campaign" /* Campaign */ })), /* @__PURE__ */ React120.createElement("select", {
     onChange: (e2) => setSelectedCampaign(e2.target.value),
     className: "w-full"
-  }, campaigns.length > 1 && /* @__PURE__ */ React117.createElement("option", {
+  }, campaigns.length > 1 && /* @__PURE__ */ React120.createElement("option", {
     value: ""
-  }), campaigns.map((campaign) => /* @__PURE__ */ React117.createElement("option", {
+  }), campaigns.map((campaign) => /* @__PURE__ */ React120.createElement("option", {
     key: campaign.path,
     value: campaign.path
-  }, campaign.name))), setAsGlobal !== void 0 && /* @__PURE__ */ React117.createElement(React117.Fragment, null, /* @__PURE__ */ React117.createElement("label", {
+  }, campaign.name))), setAsGlobal !== void 0 && /* @__PURE__ */ React120.createElement(React120.Fragment, null, /* @__PURE__ */ React120.createElement("label", {
     key: "global",
     className: "block"
-  }, /* @__PURE__ */ React117.createElement("input", {
+  }, /* @__PURE__ */ React120.createElement("input", {
     type: "checkbox",
     onChange: (e2) => setAsGlobal(e2.target.checked)
   }), t2("global_description"))));
 }
 
 // src/components/creation/CreationTypeSelectionComponent.tsx
-var React118 = __toESM(require_react());
+var React121 = __toESM(require_react());
 function CreationTypeSelectionComponent({
   setType
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React118.createElement(React118.Fragment, null, /* @__PURE__ */ React118.createElement("h3", {
+  return /* @__PURE__ */ React121.createElement(React121.Fragment, null, /* @__PURE__ */ React121.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("create.new", { context: "element" })), /* @__PURE__ */ React118.createElement("div", {
+  }, t2("create.new", { context: "element" })), /* @__PURE__ */ React121.createElement("div", {
     className: "!mt-3 !mb-3"
-  }, t2("create.select", { context: "type" })), /* @__PURE__ */ React118.createElement("div", {
+  }, t2("create.select", { context: "type" })), /* @__PURE__ */ React121.createElement("div", {
     className: ""
   }, Object.keys(ElementType).map((type2, index2) => {
-    return /* @__PURE__ */ React118.createElement("div", {
+    return /* @__PURE__ */ React121.createElement("div", {
       key: index2,
       className: "flex items-center rounded-lg border border-[--background-modifier-border] m-4 p-4 hover:bg-[--background-primary-alt] bg-transparent cursor-pointer",
       onClick: () => setType(type2)
-    }, /* @__PURE__ */ React118.createElement("div", null, /* @__PURE__ */ React118.createElement("h4", null, type2)));
+    }, /* @__PURE__ */ React121.createElement("div", null, /* @__PURE__ */ React121.createElement("h4", null, type2)));
   })));
 }
 
 // src/components/creation/SessionSelectionComponent.tsx
-var React119 = __toESM(require_react());
+var React122 = __toESM(require_react());
 function SessionSelectionComponent({
   sessions,
   setSessionPath
 }) {
   const { t: t2 } = useTranslation();
-  return /* @__PURE__ */ React119.createElement("div", {
+  return /* @__PURE__ */ React122.createElement("div", {
     className: "max-w-md mb-3"
-  }, /* @__PURE__ */ React119.createElement("div", null, t2("session", { count: 1 })), /* @__PURE__ */ React119.createElement("div", null, /* @__PURE__ */ React119.createElement("select", {
+  }, /* @__PURE__ */ React122.createElement("div", null, t2("session", { count: 1 })), /* @__PURE__ */ React122.createElement("div", null, /* @__PURE__ */ React122.createElement("select", {
     onChange: (e2) => setSessionPath(e2.target.value),
     className: "w-full"
-  }, sessions.length > 1 && /* @__PURE__ */ React119.createElement("option", {
+  }, sessions.length > 1 && /* @__PURE__ */ React122.createElement("option", {
     value: ""
-  }), sessions.map((session) => /* @__PURE__ */ React119.createElement("option", {
+  }), sessions.map((session) => /* @__PURE__ */ React122.createElement("option", {
     key: session.path,
     value: session.path
   }, session.name)))));
 }
 
 // src/components/creation/TemplateSelectionComponent.tsx
-var React120 = __toESM(require_react());
+var React123 = __toESM(require_react());
 function TemplateSelectionComponent({
   setTemplate
 }) {
@@ -87306,16 +87533,16 @@ function TemplateSelectionComponent({
   const templates = app.vault.getFiles().filter((file) => file.parent.path === api2.settings.templatesFolder && file.extension === "md");
   if (templates.length === 0)
     return null;
-  return /* @__PURE__ */ React120.createElement("div", {
+  return /* @__PURE__ */ React123.createElement("div", {
     className: "max-w-md mb-3"
-  }, /* @__PURE__ */ React120.createElement("div", {
+  }, /* @__PURE__ */ React123.createElement("div", {
     className: "font-bold"
-  }, t2("create.select", { context: "template" })), /* @__PURE__ */ React120.createElement("select", {
+  }, t2("create.select", { context: "template" })), /* @__PURE__ */ React123.createElement("select", {
     onChange: (e2) => setTemplate(e2.target.value),
     className: "w-full"
-  }, /* @__PURE__ */ React120.createElement("option", {
+  }, /* @__PURE__ */ React123.createElement("option", {
     value: ""
-  }), templates.map((template) => /* @__PURE__ */ React120.createElement("option", {
+  }), templates.map((template) => /* @__PURE__ */ React123.createElement("option", {
     key: template.path,
     value: template.path
   }, template.basename))));
@@ -87331,15 +87558,15 @@ function CreationBaseComponent({
 }) {
   const { t: t2 } = useTranslation();
   const api2 = useApi();
-  const [global2, setGlobal] = React121.useState(false);
-  const [type2, setType] = React121.useState(initialType);
-  const [campaignPath, setCampaignPath] = React121.useState();
-  const [parentPath, setParentPath] = React121.useState(void 0);
-  const [positionInParent, setPositionInParent] = React121.useState(void 0);
-  const [name, setName] = React121.useState(void 0);
-  const [error2, setError] = React121.useState(void 0);
-  const [system, setSystem] = React121.useState(void 0);
-  const [template, setTemplate] = React121.useState(void 0);
+  const [global2, setGlobal] = React124.useState(false);
+  const [type2, setType] = React124.useState(initialType);
+  const [campaignPath, setCampaignPath] = React124.useState();
+  const [parentPath, setParentPath] = React124.useState(void 0);
+  const [positionInParent, setPositionInParent] = React124.useState(void 0);
+  const [name, setName] = React124.useState(void 0);
+  const [error2, setError] = React124.useState(void 0);
+  const [system, setSystem] = React124.useState(void 0);
+  const [template, setTemplate] = React124.useState(void 0);
   let campaigns = [];
   let campaign = void 0;
   let adventures = [];
@@ -87353,7 +87580,7 @@ function CreationBaseComponent({
     if (type2 !== "campaign" /* Campaign */) {
       campaigns = api2.get(void 0, void 0, "campaign" /* Campaign */);
       if (campaigns.length === 0 && !global2)
-        return /* @__PURE__ */ React121.createElement("div", null, t2("errors.must", { context: "campaign" }));
+        return /* @__PURE__ */ React124.createElement("div", null, t2("errors.must", { context: "campaign" }));
       if (campaigns.length === 1) {
         campaign = campaigns[0];
         if (!campaignPath) {
@@ -87373,7 +87600,7 @@ function CreationBaseComponent({
       if (type2 === "scene" /* Scene */) {
         sessions = api2.get(void 0, campaign, "session" /* Session */, campaign);
         if (sessions.length === 0)
-          return /* @__PURE__ */ React121.createElement("div", null, t2("errors.must", { context: "session" }));
+          return /* @__PURE__ */ React124.createElement("div", null, t2("errors.must", { context: "session" }));
         if (sessions.length === 1) {
           session = sessions[0];
         } else if (parentPath !== void 0) {
@@ -87390,7 +87617,7 @@ function CreationBaseComponent({
       if (type2 === "chapter" /* Chapter */) {
         adventures = api2.get(void 0, campaign, "adventure" /* Adventure */, campaign);
         if (adventures.length === 0)
-          return /* @__PURE__ */ React121.createElement("div", null, t2("errors.must", { context: "adventure" }));
+          return /* @__PURE__ */ React124.createElement("div", null, t2("errors.must", { context: "adventure" }));
         if (adventures.length === 1) {
           adventure = adventures[0];
         } else if (parentPath !== void 0) {
@@ -87406,7 +87633,7 @@ function CreationBaseComponent({
       }
     }
   }
-  const createElement133 = (launchWizard) => __async(this, null, function* () {
+  const createElement136 = (launchWizard) => __async(this, null, function* () {
     let e2 = "";
     if (type2 !== "campaign" /* Campaign */ && campaignPath === void 0 && !global2)
       e2 += "You must select a campaign";
@@ -87424,8 +87651,8 @@ function CreationBaseComponent({
     }
     setId(launchWizard, type2, name, system, global2 ? void 0 : campaignPath, parentPath, positionInParent, template);
   });
-  const inputRef = React121.useRef(null);
-  React121.useEffect(() => {
+  const inputRef = React124.useRef(null);
+  React124.useEffect(() => {
     var _a;
     if (type2 !== void 0) {
       (_a = inputRef.current) == null ? void 0 : _a.focus();
@@ -87433,26 +87660,26 @@ function CreationBaseComponent({
   }, [type2]);
   function handleKeyDown(event) {
     if (event.key === "Enter") {
-      createElement133(hasWizard);
+      createElement136(hasWizard);
     }
   }
-  return /* @__PURE__ */ React121.createElement(React121.Fragment, null, /* @__PURE__ */ React121.createElement("h2", {
+  return /* @__PURE__ */ React124.createElement(React124.Fragment, null, /* @__PURE__ */ React124.createElement("h2", {
     className: "!text-2xl !font-extralight border-b border-b-[--background-modifier-border]"
-  }, t2("create.new", { context: type2 })), /* @__PURE__ */ React121.createElement("div", {
+  }, t2("create.new", { context: type2 })), /* @__PURE__ */ React124.createElement("div", {
     className: "grid grid-cols-5 border-b border-b-[--background-modifier-border]"
-  }, /* @__PURE__ */ React121.createElement("div", {
+  }, /* @__PURE__ */ React124.createElement("div", {
     className: "col-span-1 border-r border-r-[--background-modifier-border]"
-  }, /* @__PURE__ */ React121.createElement("ul", {
+  }, /* @__PURE__ */ React124.createElement("ul", {
     className: "!p-0 !m-0 !mt-3"
-  }, /* @__PURE__ */ React121.createElement("li", {
+  }, /* @__PURE__ */ React124.createElement("li", {
     className: "text-[--text-normal]"
-  }, t2("elements.element", { count: 1 })))), /* @__PURE__ */ React121.createElement("div", {
+  }, t2("elements.element", { count: 1 })))), /* @__PURE__ */ React124.createElement("div", {
     className: "p-3 col-span-4"
-  }, error2 && /* @__PURE__ */ React121.createElement("div", null, error2), type2 === void 0 ? /* @__PURE__ */ React121.createElement(CreationTypeSelectionComponent, {
+  }, error2 && /* @__PURE__ */ React124.createElement("div", null, error2), type2 === void 0 ? /* @__PURE__ */ React124.createElement(CreationTypeSelectionComponent, {
     setType
-  }) : /* @__PURE__ */ React121.createElement(TemplateSelectionComponent, {
+  }) : /* @__PURE__ */ React124.createElement(TemplateSelectionComponent, {
     setTemplate
-  }), type2 !== void 0 && type2 !== "campaign" /* Campaign */ && /* @__PURE__ */ React121.createElement(CampaignSelectionComponent, {
+  }), type2 !== void 0 && type2 !== "campaign" /* Campaign */ && /* @__PURE__ */ React124.createElement(CampaignSelectionComponent, {
     campaigns,
     setCampaign: setCampaignPath,
     setAsGlobal: ![
@@ -87463,17 +87690,17 @@ function CreationBaseComponent({
       "scene" /* Scene */
     ].contains(type2) ? setGlobal : void 0,
     setSystem
-  }), type2 !== void 0 && type2 === "scene" /* Scene */ && /* @__PURE__ */ React121.createElement(SessionSelectionComponent, {
+  }), type2 !== void 0 && type2 === "scene" /* Scene */ && /* @__PURE__ */ React124.createElement(SessionSelectionComponent, {
     sessions,
     setSessionPath: setParentPath
-  }), type2 !== void 0 && type2 === "chapter" /* Chapter */ && /* @__PURE__ */ React121.createElement(AdventureSelectionComponent, {
+  }), type2 !== void 0 && type2 === "chapter" /* Chapter */ && /* @__PURE__ */ React124.createElement(AdventureSelectionComponent, {
     adventures,
     setAdventurePath: setParentPath
-  }), type2 !== void 0 && /* @__PURE__ */ React121.createElement("div", {
+  }), type2 !== void 0 && /* @__PURE__ */ React124.createElement("div", {
     className: "max-w-md"
-  }, /* @__PURE__ */ React121.createElement("div", {
+  }, /* @__PURE__ */ React124.createElement("div", {
     className: "font-bold"
-  }, t2("name")), /* @__PURE__ */ React121.createElement("input", {
+  }, t2("name")), /* @__PURE__ */ React124.createElement("input", {
     onKeyDown: handleKeyDown,
     ref: inputRef,
     type: "text",
@@ -87481,17 +87708,17 @@ function CreationBaseComponent({
     placeholder: t2("name"),
     onChange: (e2) => setName(e2.target.value),
     className: "w-full"
-  }), error2 && /* @__PURE__ */ React121.createElement("div", null, error2)))), /* @__PURE__ */ React121.createElement("div", {
+  }), error2 && /* @__PURE__ */ React124.createElement("div", null, error2)))), /* @__PURE__ */ React124.createElement("div", {
     className: "flex justify-end pt-5"
-  }, /* @__PURE__ */ React121.createElement("button", {
+  }, /* @__PURE__ */ React124.createElement("button", {
     className: "rpgm-secondary pl-3 pr-3 mr-6",
     onClick: closeModal
-  }, t2("buttons.cancel")), hasWizard && /* @__PURE__ */ React121.createElement("button", {
+  }, t2("buttons.cancel")), hasWizard && /* @__PURE__ */ React124.createElement("button", {
     className: "rpgm-primary pl-3 pr-3 ml-3",
-    onClick: () => createElement133(true)
-  }, t2("buttons.launchwizard")), /* @__PURE__ */ React121.createElement("button", {
+    onClick: () => createElement136(true)
+  }, t2("buttons.launchwizard")), /* @__PURE__ */ React124.createElement("button", {
     className: "rpgm-primary pl-3 pr-3 ml-3 mr-5",
-    onClick: () => createElement133(false)
+    onClick: () => createElement136(false)
   }, t2("buttons.create"))));
 }
 
@@ -87504,14 +87731,14 @@ function CreationComponent({
 }) {
   const api2 = useApi();
   const app = useApp();
-  const [inWizard, setInWizard] = React122.useState(false);
-  const [selectedType, setSelectedType] = React122.useState(type2);
-  const [name, setName] = React122.useState(void 0);
-  const [system, setSystem] = React122.useState(void 0);
-  const [campaignPath, setCampaignPath] = React122.useState(void 0);
-  const [parentPath, setParentPath] = React122.useState(void 0);
-  const [positionInParent, setPositionInParent] = React122.useState(void 0);
-  const [template, setTemplate] = React122.useState(void 0);
+  const [inWizard, setInWizard] = React125.useState(false);
+  const [selectedType, setSelectedType] = React125.useState(type2);
+  const [name, setName] = React125.useState(void 0);
+  const [system, setSystem] = React125.useState(void 0);
+  const [campaignPath, setCampaignPath] = React125.useState(void 0);
+  const [parentPath, setParentPath] = React125.useState(void 0);
+  const [positionInParent, setPositionInParent] = React125.useState(void 0);
+  const [template, setTemplate] = React125.useState(void 0);
   function setId(launchWizard, passedType, passedName, passedSystem, passedCampaignPath, passedParentPath, passedPositionInParent, passedTemplate) {
     return __async(this, null, function* () {
       if (launchWizard) {
@@ -87553,7 +87780,7 @@ function CreationComponent({
   let wizardTypeComponent = void 0;
   switch (selectedType) {
     case "chapter" /* Chapter */:
-      wizardTypeComponent = React122.createElement(ChapterWizardComponent, {
+      wizardTypeComponent = React125.createElement(ChapterWizardComponent, {
         element: void 0,
         name,
         campaign: api2.get(campaignPath),
@@ -87562,7 +87789,7 @@ function CreationComponent({
       });
       break;
     case "nonplayercharacter" /* NonPlayerCharacter */:
-      wizardTypeComponent = React122.createElement(NonPlayerCharacterWizardComponent, {
+      wizardTypeComponent = React125.createElement(NonPlayerCharacterWizardComponent, {
         element: void 0,
         name,
         campaign: api2.get(campaignPath),
@@ -87571,11 +87798,11 @@ function CreationComponent({
       });
       break;
   }
-  const wizardComponent = wizardTypeComponent !== void 0 ? React122.createElement(WizardContext.Provider, { value: {} }, wizardTypeComponent) : void 0;
+  const wizardComponent = wizardTypeComponent !== void 0 ? React125.createElement(WizardContext.Provider, { value: {} }, wizardTypeComponent) : void 0;
   if (inWizard && wizardComponent !== void 0) {
     return wizardComponent;
   }
-  return /* @__PURE__ */ React122.createElement(CreationBaseComponent, {
+  return /* @__PURE__ */ React125.createElement(CreationBaseComponent, {
     initialType: selectedType,
     currentNote,
     setId,
@@ -87779,7 +88006,7 @@ var import_react27 = __toESM(require_react());
 var import_client4 = __toESM(require_client());
 
 // src/services/UpdaterService/components/UpdaterComponent.tsx
-var React123 = __toESM(require_react());
+var React126 = __toESM(require_react());
 
 // src/services/UpdaterService/UpdaterService.ts
 var import_obsidian8 = require("obsidian");
@@ -88013,6 +88240,8 @@ var UpdaterService = class {
         return "faction" /* Faction */;
       case 4096:
         return "subplot" /* Subplot */;
+      case 8192:
+        return "lore" /* Lore */;
     }
   }
   _replaceCodeblock(file, codeblock) {
@@ -88111,17 +88340,17 @@ var UpdaterService = class {
 function Upgrading() {
   const api2 = useApi();
   const app = useApp();
-  const [total, setTotal] = React123.useState(0);
-  const [processed, setProcessed] = React123.useState(0);
-  const [process2, setProcess] = React123.useState(void 0);
-  const [message, setMessage] = React123.useState(void 0);
-  const updateViewRef = React123.useRef();
+  const [total, setTotal] = React126.useState(0);
+  const [processed, setProcessed] = React126.useState(0);
+  const [process2, setProcess] = React126.useState(void 0);
+  const [message, setMessage] = React126.useState(void 0);
+  const updateViewRef = React126.useRef();
   updateViewRef.current = (total2, processed2, process3) => {
     setTotal(total2);
     setProcessed(processed2);
     setProcess(process3);
   };
-  React123.useEffect(() => {
+  React126.useEffect(() => {
     const updateView = (total2, processed2, process3) => {
       var _a;
       (_a = updateViewRef.current) == null ? void 0 : _a.call(updateViewRef, total2, processed2, process3);
@@ -88130,6 +88359,9 @@ function Upgrading() {
     updater.updateVault().then(() => {
       const settings = {
         chatGptKey: void 0,
+        ollamaUrl: void 0,
+        model: "",
+        hasLLM: false,
         templatesFolder: api2.settings.templateFolder,
         assetsFolder: api2.settings.imagesFolder,
         automaticMove: false,
@@ -88145,60 +88377,60 @@ function Upgrading() {
       setMessage("**Upgrade completed**.\n\nObsidian is currently re-indexing your vault.\n\nPlease wait a minute then restart Obsidian to enjoy the new RPG Manager!");
     });
   }, []);
-  return /* @__PURE__ */ React123.createElement("div", null, total && /* @__PURE__ */ React123.createElement("div", null, "total: ", total), processed && /* @__PURE__ */ React123.createElement("div", null, "processed: ", processed), process2 && /* @__PURE__ */ React123.createElement("div", null, "process: ", process2), message && /* @__PURE__ */ React123.createElement("div", null, /* @__PURE__ */ React123.createElement(MarkdownComponent, {
+  return /* @__PURE__ */ React126.createElement("div", null, total && /* @__PURE__ */ React126.createElement("div", null, "total: ", total), processed && /* @__PURE__ */ React126.createElement("div", null, "processed: ", processed), process2 && /* @__PURE__ */ React126.createElement("div", null, "process: ", process2), message && /* @__PURE__ */ React126.createElement("div", null, /* @__PURE__ */ React126.createElement(MarkdownComponent, {
     value: message
   })));
 }
 function UpdaterComponent() {
-  const [upgrading, setUpgrading] = React123.useState(false);
-  return /* @__PURE__ */ React123.createElement("div", {
+  const [upgrading, setUpgrading] = React126.useState(false);
+  return /* @__PURE__ */ React126.createElement("div", {
     className: "relative"
-  }, /* @__PURE__ */ React123.createElement("div", {
+  }, /* @__PURE__ */ React126.createElement("div", {
     className: "flex flex-col m-3"
-  }, /* @__PURE__ */ React123.createElement("h1", {
+  }, /* @__PURE__ */ React126.createElement("h1", {
     className: "text-[--text-error] text-4xl font-bold mt-3 mb-3"
-  }, "RPG Manager WARNING!"), /* @__PURE__ */ React123.createElement("p", {
+  }, "RPG Manager WARNING!"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "RPG Manager has been updated to ", /* @__PURE__ */ React123.createElement("strong", null, "Version 4.0"), " that is ", /* @__PURE__ */ React123.createElement("strong", null, "incompatible"), " with the version previously installed in your vault!"), /* @__PURE__ */ React123.createElement("p", {
+  }, "RPG Manager has been updated to ", /* @__PURE__ */ React126.createElement("strong", null, "Version 4.0"), " that is", " ", /* @__PURE__ */ React126.createElement("strong", null, "incompatible"), " with the version previously installed in your vault!"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "Previous versions are not supported any longer"), /* @__PURE__ */ React123.createElement("p", {
+  }, "Previous versions are not supported any longer"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "Currently, your campaigns have been disabled."), /* @__PURE__ */ React123.createElement("h2", {
+  }, "Currently, your campaigns have been disabled."), /* @__PURE__ */ React126.createElement("h2", {
     className: "text-3xl mt-3 mb-3"
-  }, "What can you do?"), /* @__PURE__ */ React123.createElement("p", {
+  }, "What can you do?"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "Currently you have two options to proceed:"), /* @__PURE__ */ React123.createElement("ol", {
+  }, "Currently you have two options to proceed:"), /* @__PURE__ */ React126.createElement("ol", {
     className: "list-decimal list-inside"
-  }, /* @__PURE__ */ React123.createElement("li", null, "Revert to Version 3"), /* @__PURE__ */ React123.createElement("li", null, "Upgrade your campaigns to Version 4")), /* @__PURE__ */ React123.createElement("h3", {
+  }, /* @__PURE__ */ React126.createElement("li", null, "Revert to Version 3"), /* @__PURE__ */ React126.createElement("li", null, "Upgrade your campaigns to Version 4")), /* @__PURE__ */ React126.createElement("h3", {
     className: "text-2xl mt-3 mb-3"
-  }, "Revert to Version 3"), /* @__PURE__ */ React123.createElement("p", {
+  }, "Revert to Version 3"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "Reverting RPG Manager to version 3 is possible through the BRAT plugin. If you decide to go down this route, you will be able to use RPG Manager as always. You will not receive any further updates, but your campaigns will work and look as they always have."), /* @__PURE__ */ React123.createElement("p", {
+  }, "Reverting RPG Manager to version 3 is possible through the BRAT plugin. If you decide to go down this route, you will be able to use RPG Manager as always. You will not receive any further updates, but your campaigns will work and look as they always have."), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "If you decide to revert to Version 3, you will have to:"), /* @__PURE__ */ React123.createElement("ol", {
+  }, "If you decide to revert to Version 3, you will have to:"), /* @__PURE__ */ React126.createElement("ol", {
     className: "list-decimal list-inside"
-  }, /* @__PURE__ */ React123.createElement("li", null, /* @__PURE__ */ React123.createElement("strong", null, "Install BRAT"), ': To install the BRAT plugin, open "', /* @__PURE__ */ React123.createElement("em", null, "Obsidian Preferences"), '"", head to "', /* @__PURE__ */ React123.createElement("em", null, "Community Plugins"), '" and click "', /* @__PURE__ */ React123.createElement("em", null, "Browse"), '". Search for "', /* @__PURE__ */ React123.createElement("em", null, "Obsidian42 - BRAT"), '", install it and enable it.'), /* @__PURE__ */ React123.createElement("li", null, /* @__PURE__ */ React123.createElement("strong", null, "Add Beta plugin with frozen version"), ': Once BRAT is installed and active, go in the Obsidian42 - BRAT Options and click the button "', /* @__PURE__ */ React123.createElement("em", null, "Add Beta plugin with frozen version"), '".'), /* @__PURE__ */ React123.createElement("li", null, /* @__PURE__ */ React123.createElement("strong", null, "Add version 3.4.5 of RPG Manager"), ': In the field "', /* @__PURE__ */ React123.createElement("em", null, "Github repository for beta plugin"), '" add "', /* @__PURE__ */ React123.createElement("strong", null, "carlonicora/obsidian-rpg-manager"), '" and in the field "', /* @__PURE__ */ React123.createElement("em", null, "Specify the release version tag"), '" add "', /* @__PURE__ */ React123.createElement("strong", null, "3.4.5"), '".'), /* @__PURE__ */ React123.createElement("li", null, /* @__PURE__ */ React123.createElement("strong", null, "Restart Obsidian"))), /* @__PURE__ */ React123.createElement("p", {
+  }, /* @__PURE__ */ React126.createElement("li", null, /* @__PURE__ */ React126.createElement("strong", null, "Install BRAT"), ': To install the BRAT plugin, open "', /* @__PURE__ */ React126.createElement("em", null, "Obsidian Preferences"), '"", head to "', /* @__PURE__ */ React126.createElement("em", null, "Community Plugins"), '" and click "', /* @__PURE__ */ React126.createElement("em", null, "Browse"), '". Search for "', /* @__PURE__ */ React126.createElement("em", null, "Obsidian42 - BRAT"), '", install it and enable it.'), /* @__PURE__ */ React126.createElement("li", null, /* @__PURE__ */ React126.createElement("strong", null, "Add Beta plugin with frozen version"), ': Once BRAT is installed and active, go in the Obsidian42 - BRAT Options and click the button "', /* @__PURE__ */ React126.createElement("em", null, "Add Beta plugin with frozen version"), '".'), /* @__PURE__ */ React126.createElement("li", null, /* @__PURE__ */ React126.createElement("strong", null, "Add version 3.4.5 of RPG Manager"), ': In the field "', /* @__PURE__ */ React126.createElement("em", null, "Github repository for beta plugin"), '" add "', /* @__PURE__ */ React126.createElement("strong", null, "carlonicora/obsidian-rpg-manager"), '" and in the field "', /* @__PURE__ */ React126.createElement("em", null, "Specify the release version tag"), '" add "', /* @__PURE__ */ React126.createElement("strong", null, "3.4.5"), '".'), /* @__PURE__ */ React126.createElement("li", null, /* @__PURE__ */ React126.createElement("strong", null, "Restart Obsidian"))), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "This procedure will install Version 3.4.5 of RPG Manager and will instruct Obsidian not to upgrade to version 4."), /* @__PURE__ */ React123.createElement("p", null, "If, in the future, you'd like to upgrade to Version 4, Open the BRAT Settings and remove RPG Manager from the plugins. Go on the Community Plugins and upgrade RPG Manager."), /* @__PURE__ */ React123.createElement("h3", {
+  }, "This procedure will install Version 3.4.5 of RPG Manager and will instruct Obsidian not to upgrade to version 4."), /* @__PURE__ */ React126.createElement("p", null, "If, in the future, you'd like to upgrade to Version 4, Open the BRAT Settings and remove RPG Manager from the plugins. Go on the Community Plugins and upgrade RPG Manager."), /* @__PURE__ */ React126.createElement("h3", {
     className: "text-2xl mt-3 mb-3"
-  }, "Upgrade your campaigns to Version 4"), /* @__PURE__ */ React123.createElement("p", {
+  }, "Upgrade your campaigns to Version 4"), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "Upgrading your campaigns to Version 4 of RPG Manager will align your campaigns to the new RPG Manager, you will have access to the new data strucure and user interface; however, you will have to run through the update process for your data. The update process may change some of the information in your campaigns, and it is never a bug-free solution."), /* @__PURE__ */ React123.createElement("p", null, /* @__PURE__ */ React123.createElement("em", null, "Please keep in mind that RPG Manager comes as-is, with no guarantee of bug-free upgrade proces. Upgrade at your own risk, especially if you skip #1")), /* @__PURE__ */ React123.createElement("p", {
+  }, "Upgrading your campaigns to Version 4 of RPG Manager will align your campaigns to the new RPG Manager, you will have access to the new data strucure and user interface; however, you will have to run through the update process for your data. The update process may change some of the information in your campaigns, and it is never a bug-free solution."), /* @__PURE__ */ React126.createElement("p", null, /* @__PURE__ */ React126.createElement("em", null, "Please keep in mind that RPG Manager comes as-is, with no guarantee of bug-free upgrade proces. Upgrade at your own risk, especially if you skip #1")), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "If you decide to upgrade your campaigns, you will have to:"), /* @__PURE__ */ React123.createElement("ol", {
+  }, "If you decide to upgrade your campaigns, you will have to:"), /* @__PURE__ */ React126.createElement("ol", {
     className: "list-decimal list-inside"
-  }, /* @__PURE__ */ React123.createElement("li", null, /* @__PURE__ */ React123.createElement("strong", null, "Backup your current vault"), ": Please keep in mind this is a vital step to avoid any data loss. Just go in your filesystem and make a copy of your current vault. If anything go south, you can restore your backup!"), /* @__PURE__ */ React123.createElement("li", null, "Start the upgrade process by clicking on the ", /* @__PURE__ */ React123.createElement("strong", null, "Upgrade"), " button below")), /* @__PURE__ */ React123.createElement("p", {
+  }, /* @__PURE__ */ React126.createElement("li", null, /* @__PURE__ */ React126.createElement("strong", null, "Backup your current vault"), ": Please keep in mind this is a vital step to avoid any data loss. Just go in your filesystem and make a copy of your current vault. If anything go south, you can restore your backup!"), /* @__PURE__ */ React126.createElement("li", null, "Start the upgrade process by clicking on the", " ", /* @__PURE__ */ React126.createElement("strong", null, "Upgrade"), " button below")), /* @__PURE__ */ React126.createElement("p", {
     className: "mt-2 mb-2"
-  }, "The process might take some time to complete, depending on the size of your vault. Once completed, you will have to restart Obsidian for your campaigns to be loaded."), /* @__PURE__ */ React123.createElement("button", {
+  }, "The process might take some time to complete, depending on the size of your vault. Once completed, you will have to restart Obsidian for your campaigns to be loaded."), /* @__PURE__ */ React126.createElement("button", {
     className: "rpgm-danger",
     onClick: () => setUpgrading(true)
-  }, "I am ready! I have backed up my vault! upgrade my vault to Version 4")), upgrading && /* @__PURE__ */ React123.createElement(React123.Fragment, null, /* @__PURE__ */ React123.createElement("div", {
+  }, "I am ready! I have backed up my vault! upgrade my vault to Version 4")), upgrading && /* @__PURE__ */ React126.createElement(React126.Fragment, null, /* @__PURE__ */ React126.createElement("div", {
     className: "fixed inset-0 bg-gray-900 bg-opacity-75"
-  }), /* @__PURE__ */ React123.createElement("div", {
+  }), /* @__PURE__ */ React126.createElement("div", {
     className: "fixed inset-0 flex justify-center items-center"
-  }, /* @__PURE__ */ React123.createElement("div", {
+  }, /* @__PURE__ */ React126.createElement("div", {
     className: "bg-white p-10 rounded-lg"
-  }, /* @__PURE__ */ React123.createElement(Upgrading, null)))));
+  }, /* @__PURE__ */ React126.createElement(Upgrading, null)))));
 }
 
 // src/services/UpdaterService/views/UpdaterView.ts
@@ -88277,6 +88509,9 @@ var taskService = class {
 var import_obsidian10 = require("obsidian");
 var rpgManagerDefaultSettings = {
   chatGptKey: void 0,
+  ollamaUrl: void 0,
+  model: "gpt-4.1-nano",
+  hasLLM: false,
   templatesFolder: void 0,
   assetsFolder: void 0,
   automaticMove: false,
@@ -88358,16 +88593,38 @@ var RpgManagerSettings = class extends import_obsidian10.PluginSettingTab {
         yield this.saveSettings({ useSceneAnalyser: value });
       }));
     });
-    containerEl.createEl("h3", { text: "ChatGPT", cls: "mt-3" });
-    const ChatGPT = containerEl.createEl("p");
-    ChatGPT.appendText("Set up all the add-ons for the plugin. ");
+    containerEl.createEl("h3", { text: "AI Plugins", cls: "mt-3" });
+    const AIPlugins = containerEl.createEl("p");
+    AIPlugins.appendText("Set up all the add-ons for the plugin. ");
     const ChatGPTWarning = containerEl.createEl("p");
     ChatGPTWarning.appendChild(createEl("span", {
       text: "Please note: ChatGPT is a paid service, you need to have a key to use it. Also, some data from your vault will be sent to OpenAI.",
       cls: "text-[--text-warning]"
     }));
-    new import_obsidian10.Setting(containerEl).setName("OpenAI Key").setDesc("Insert your OpenAI key here.").addText((text6) => text6.setPlaceholder("").setValue(this._plugin.settings.chatGptKey).onChange((value) => __async(this, null, function* () {
-      yield this.saveSettings({ chatGptKey: value });
+    new import_obsidian10.Setting(containerEl).setName("OpenAI/ChatGPT Key").setDesc("Insert your OpenAI key here.").addText((text6) => text6.setPlaceholder("").setValue(this._plugin.settings.chatGptKey).onChange((value) => __async(this, null, function* () {
+      yield this.saveSettings({
+        chatGptKey: value,
+        hasLLM: true
+      });
+    })));
+    const OllamaWarning = containerEl.createEl("p");
+    OllamaWarning.appendChild(createEl("span", {
+      text: "Please note: Ollama is an open-source LLM you can run on your own machine(s). See ollama.com for more information",
+      cls: "text-[--text-warning]"
+    }));
+    new import_obsidian10.Setting(containerEl).setName("Ollama URL").setDesc("Insert the root URL of your local ollama server (eg. http://localhost:11434)").addText((text6) => text6.setPlaceholder("http://localhost:11434").setValue(this._plugin.settings.ollamaUrl).onChange((value) => __async(this, null, function* () {
+      yield this.saveSettings({
+        ollamaUrl: value,
+        hasLLM: true
+      });
+    })));
+    const modelWarning = containerEl.createEl("p");
+    modelWarning.appendChild(createEl("span", {
+      text: "To use either OpenAI or Ollama, you need to select a model.",
+      cls: "text-[--text-warning]"
+    }));
+    new import_obsidian10.Setting(containerEl).setName("AI Model").setDesc("Enter the AI model (eg. gpt-4.1-nano for OpenAI, or llama3.1 for Ollama or any other you like).").addText((text6) => text6.setPlaceholder("").setValue(this._plugin.settings.model).onChange((value) => __async(this, null, function* () {
+      yield this.saveSettings({ model: value });
     })));
   }
   _createFolderMap(parent = void 0, indent = 0) {
@@ -88388,10 +88645,10 @@ var RpgManagerSettings = class extends import_obsidian10.PluginSettingTab {
 };
 
 // src/components/options/OptionContainerComponent.tsx
-var React133 = __toESM(require_react());
+var React136 = __toESM(require_react());
 
 // src/components/creation/NewElementComponent.tsx
-var React124 = __toESM(require_react());
+var React127 = __toESM(require_react());
 function NewElementComponent({
   element: element4,
   file
@@ -88399,19 +88656,19 @@ function NewElementComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  return /* @__PURE__ */ React124.createElement("div", {
+  return /* @__PURE__ */ React127.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 col-span-1 text-xs mb-3"
-  }, file && !element4 && /* @__PURE__ */ React124.createElement("div", {
+  }, file && !element4 && /* @__PURE__ */ React127.createElement("div", {
     className: "mb-3"
-  }, /* @__PURE__ */ React124.createElement("h3", {
+  }, /* @__PURE__ */ React127.createElement("h3", {
     className: "!mb-1 !text-xl !font-extralight mt-0"
-  }, t2("create.in_title")), Object.values(ElementType).filter((v) => isNaN(Number(v))).map((type2, index2) => /* @__PURE__ */ React124.createElement("div", {
+  }, t2("create.in_title")), Object.values(ElementType).filter((v) => isNaN(Number(v))).map((type2, index2) => /* @__PURE__ */ React127.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     key: index2,
     onClick: () => new ModalCreationController(app, api2, type2, true).open()
-  }, t2("elements." + type2, { count: 1 })))), /* @__PURE__ */ React124.createElement("h3", {
+  }, t2("elements." + type2, { count: 1 })))), /* @__PURE__ */ React127.createElement("h3", {
     className: "!mb-1 !text-xl !font-extralight mt-0"
-  }, t2("create.title")), Object.values(ElementType).filter((v) => isNaN(Number(v))).map((type2, index2) => /* @__PURE__ */ React124.createElement("div", {
+  }, t2("create.title")), Object.values(ElementType).filter((v) => isNaN(Number(v))).map((type2, index2) => /* @__PURE__ */ React127.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     key: index2,
     onClick: () => new ModalCreationController(app, api2, type2).open()
@@ -88419,7 +88676,7 @@ function NewElementComponent({
 }
 
 // src/components/options/OptionsViewComponent.tsx
-var React132 = __toESM(require_react());
+var React135 = __toESM(require_react());
 
 // src/controllers/CustomAttributesController.ts
 var import_obsidian11 = require("obsidian");
@@ -88427,10 +88684,10 @@ var import_react28 = __toESM(require_react());
 var import_client5 = __toESM(require_client());
 
 // src/components/custom/CustomAttributesComponent.tsx
-var React127 = __toESM(require_react());
+var React130 = __toESM(require_react());
 
 // src/components/custom/CustomAttributeComponent.tsx
-var React125 = __toESM(require_react());
+var React128 = __toESM(require_react());
 function CustomAttributeComponent({
   attribute,
   onSaveAttribute
@@ -88438,12 +88695,12 @@ function CustomAttributeComponent({
   var _a;
   const { t: t2 } = useTranslation();
   const api2 = useApi();
-  const [name, setName] = React125.useState((attribute == null ? void 0 : attribute.customName) || "");
-  const [type2, setType] = React125.useState(attribute == null ? void 0 : attribute.type);
-  const [options, setOptions] = React125.useState((attribute == null ? void 0 : attribute.options) ? [...attribute.options, ""] : [""]);
-  const [customTypes, setCustomTypes] = React125.useState((_a = attribute == null ? void 0 : attribute.customTypes) != null ? _a : []);
-  const [errors, setErrors] = React125.useState({});
-  const [canBeDeleted] = React125.useState(() => {
+  const [name, setName] = React128.useState((attribute == null ? void 0 : attribute.customName) || "");
+  const [type2, setType] = React128.useState(attribute == null ? void 0 : attribute.type);
+  const [options, setOptions] = React128.useState((attribute == null ? void 0 : attribute.options) ? [...attribute.options, ""] : [""]);
+  const [customTypes, setCustomTypes] = React128.useState((_a = attribute == null ? void 0 : attribute.customTypes) != null ? _a : []);
+  const [errors, setErrors] = React128.useState({});
+  const [canBeDeleted] = React128.useState(() => {
     if (!attribute)
       return false;
     return !api2.get().some((element4) => {
@@ -88529,77 +88786,77 @@ function CustomAttributeComponent({
     yield api2.saveData(api2.settings);
     onSaveAttribute();
   });
-  return /* @__PURE__ */ React125.createElement("div", {
+  return /* @__PURE__ */ React128.createElement("div", {
     className: "w-full"
-  }, /* @__PURE__ */ React125.createElement("h3", null, name !== "" ? name : "New Custom Attribute"), /* @__PURE__ */ React125.createElement("div", {
+  }, /* @__PURE__ */ React128.createElement("h3", null, name !== "" ? name : "New Custom Attribute"), /* @__PURE__ */ React128.createElement("div", {
     className: `grid ${type2 === "Select" /* Select */ ? "grid-cols-3" : "grid-cols-2"} gap-4`
-  }, /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", {
+  }, /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", {
     className: "font-bold"
-  }, t2("customattributes.name")), /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("input", {
+  }, t2("customattributes.name")), /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("input", {
     type: "text",
     value: name,
     onChange: (e2) => setName(e2.target.value)
-  }), errors.name && /* @__PURE__ */ React125.createElement("div", {
+  }), errors.name && /* @__PURE__ */ React128.createElement("div", {
     className: "text-[--text-error] text-sm"
-  }, errors.name))), /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", {
+  }, errors.name))), /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", {
     className: "font-bold"
-  }, t2("customattributes.type")), /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("select", {
+  }, t2("customattributes.type")), /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("select", {
     defaultValue: type2,
     onChange: (e2) => setType(e2.target.value)
-  }, /* @__PURE__ */ React125.createElement("option", null), /* @__PURE__ */ React125.createElement("option", {
+  }, /* @__PURE__ */ React128.createElement("option", null), /* @__PURE__ */ React128.createElement("option", {
     value: "Text" /* Text */
-  }, t2("customattributes.text")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.text")), /* @__PURE__ */ React128.createElement("option", {
     value: "Number" /* Number */
-  }, t2("customattributes.number")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.number")), /* @__PURE__ */ React128.createElement("option", {
     value: "Select" /* Select */
-  }, t2("customattributes.option")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.option")), /* @__PURE__ */ React128.createElement("option", {
     value: "Boolean" /* Boolean */
-  }, t2("customattributes.checkbox")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.checkbox")), /* @__PURE__ */ React128.createElement("option", {
     value: "LongText" /* LongText */
-  }, t2("customattributes.longtext")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.longtext")), /* @__PURE__ */ React128.createElement("option", {
     value: "Date" /* Date */
-  }, t2("customattributes.date")), /* @__PURE__ */ React125.createElement("option", {
+  }, t2("customattributes.date")), /* @__PURE__ */ React128.createElement("option", {
     value: "Link" /* Link */
-  }, t2("customattributes.link"))), errors.type && /* @__PURE__ */ React125.createElement("div", {
+  }, t2("customattributes.link"))), errors.type && /* @__PURE__ */ React128.createElement("div", {
     className: "text-[--text-error] text-sm"
-  }, errors.type)))), type2 === "Select" /* Select */ && /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", {
+  }, errors.type)))), type2 === "Select" /* Select */ && /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", {
     className: "font-bold"
-  }, t2("customattributes.options")), /* @__PURE__ */ React125.createElement("div", null, (options || []).map((option, index2) => /* @__PURE__ */ React125.createElement("input", {
+  }, t2("customattributes.options")), /* @__PURE__ */ React128.createElement("div", null, (options || []).map((option, index2) => /* @__PURE__ */ React128.createElement("input", {
     key: index2,
     type: "text",
     value: option,
     onChange: (e2) => handleOptionChange(index2, e2.target.value),
     className: "mb-2"
-  }))), errors.options && /* @__PURE__ */ React125.createElement("div", {
+  }))), errors.options && /* @__PURE__ */ React128.createElement("div", {
     className: "text-[--text-error] text-sm"
-  }, errors.options))), /* @__PURE__ */ React125.createElement("div", null, /* @__PURE__ */ React125.createElement("div", {
+  }, errors.options))), /* @__PURE__ */ React128.createElement("div", null, /* @__PURE__ */ React128.createElement("div", {
     className: "font-bold"
-  }, t2("customattributes.availableon")), /* @__PURE__ */ React125.createElement("div", null, Object.values(ElementType).map((type3) => /* @__PURE__ */ React125.createElement("label", {
+  }, t2("customattributes.availableon")), /* @__PURE__ */ React128.createElement("div", null, Object.values(ElementType).map((type3) => /* @__PURE__ */ React128.createElement("label", {
     key: type3,
     className: "block"
-  }, /* @__PURE__ */ React125.createElement("input", {
+  }, /* @__PURE__ */ React128.createElement("input", {
     type: "checkbox",
     checked: (customTypes == null ? void 0 : customTypes.includes(type3)) || false,
     onChange: (e2) => handleCustomTypeChange(type3, e2.target.checked)
-  }), t2(`elements.${type3}`, { count: 2 })))), errors.customTypes && /* @__PURE__ */ React125.createElement("div", {
+  }), t2(`elements.${type3}`, { count: 2 })))), errors.customTypes && /* @__PURE__ */ React128.createElement("div", {
     className: "text-[--text-error] text-sm"
-  }, errors.customTypes))), /* @__PURE__ */ React125.createElement("div", {
+  }, errors.customTypes))), /* @__PURE__ */ React128.createElement("div", {
     className: "flex w-full justify-end"
-  }, canBeDeleted === true ? /* @__PURE__ */ React125.createElement("button", {
+  }, canBeDeleted === true ? /* @__PURE__ */ React128.createElement("button", {
     className: "rpgm-danger",
     onClick: handleDelete
-  }, t2("buttons.delete")) : /* @__PURE__ */ React125.createElement("button", {
+  }, t2("buttons.delete")) : /* @__PURE__ */ React128.createElement("button", {
     className: "text-[--text-faint] cursor-not-allowed",
     disabled: true,
     title: t2("customattributes.cantdelete")
-  }, t2("buttons.delete")), /* @__PURE__ */ React125.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React128.createElement("button", {
     className: "rpgm-primary",
     onClick: handleSave
   }, t2("buttons.save"))));
 }
 
 // src/components/custom/CustomAttributeListComponent.tsx
-var React126 = __toESM(require_react());
+var React129 = __toESM(require_react());
 function CustomAttributeListComponent({
   element: element4,
   setAttribute,
@@ -88610,18 +88867,18 @@ function CustomAttributeListComponent({
   const api2 = useApi();
   let customAttributes = (_a = api2.settings.customAttributes) != null ? _a : [];
   customAttributes = customAttributes.filter((customAttribute) => customAttribute.customTypes.contains(element4.type));
-  return /* @__PURE__ */ React126.createElement(React126.Fragment, null, /* @__PURE__ */ React126.createElement("ul", {
+  return /* @__PURE__ */ React129.createElement(React129.Fragment, null, /* @__PURE__ */ React129.createElement("ul", {
     className: "!p-0 !m-0 !mt-3 !mb-3"
   }, customAttributes.map((attribute, index2) => {
     var _a2;
-    return /* @__PURE__ */ React126.createElement("li", {
+    return /* @__PURE__ */ React129.createElement("li", {
       key: index2,
       className: "text-[--text-normal] hover:text-[--text-accent] cursor-pointer",
       onClick: () => {
         setAttribute(attribute);
       }
     }, (_a2 = attribute.customName) != null ? _a2 : attribute.id);
-  })), /* @__PURE__ */ React126.createElement("button", {
+  })), /* @__PURE__ */ React129.createElement("button", {
     className: "rpgm-secondary !ml-0 mb-3 mt-3",
     onClick: () => setNewAttribute(true)
   }, t2("buttons.newattribute")));
@@ -88631,8 +88888,8 @@ function CustomAttributeListComponent({
 function CustomAttributesComponent({ element: element4 }) {
   const { t: t2 } = useTranslation();
   const app = useApp();
-  const [attribute, setAttribute] = React127.useState(void 0);
-  const [newAttribute, setNewAttribute] = React127.useState(false);
+  const [attribute, setAttribute] = React130.useState(void 0);
+  const [newAttribute, setNewAttribute] = React130.useState(false);
   const handleSetAttribute = (newAttribute2) => {
     setAttribute(newAttribute2);
     setNewAttribute(false);
@@ -88650,32 +88907,32 @@ function CustomAttributesComponent({ element: element4 }) {
   };
   let content3 = void 0;
   if (attribute) {
-    content3 = /* @__PURE__ */ React127.createElement(CustomAttributeComponent, {
+    content3 = /* @__PURE__ */ React130.createElement(CustomAttributeComponent, {
       key: attribute.id,
       attribute,
       onSaveAttribute: reset
     });
   }
   if (newAttribute) {
-    content3 = /* @__PURE__ */ React127.createElement(CustomAttributeComponent, {
+    content3 = /* @__PURE__ */ React130.createElement(CustomAttributeComponent, {
       onSaveAttribute: reset
     });
   }
-  return /* @__PURE__ */ React127.createElement(React127.Fragment, null, /* @__PURE__ */ React127.createElement("h2", {
+  return /* @__PURE__ */ React130.createElement(React130.Fragment, null, /* @__PURE__ */ React130.createElement("h2", {
     className: "!text-2xl !font-extralight border-b border-b-[--background-modifier-border]"
-  }, t2("attributes.custom")), /* @__PURE__ */ React127.createElement("div", {
+  }, t2("attributes.custom")), /* @__PURE__ */ React130.createElement("div", {
     className: "grid grid-cols-5 border-b border-b-[--background-modifier-border]"
-  }, /* @__PURE__ */ React127.createElement("div", {
+  }, /* @__PURE__ */ React130.createElement("div", {
     className: "col-span-1 border-r border-r-[--background-modifier-border]"
-  }, /* @__PURE__ */ React127.createElement(CustomAttributeListComponent, {
+  }, /* @__PURE__ */ React130.createElement(CustomAttributeListComponent, {
     element: element4,
     setAttribute: handleSetAttribute,
     setNewAttribute: handleSetNewAttribute
-  })), /* @__PURE__ */ React127.createElement("div", {
+  })), /* @__PURE__ */ React130.createElement("div", {
     className: "p-3 col-span-4"
-  }, attribute || newAttribute ? /* @__PURE__ */ React127.createElement(React127.Fragment, null, content3) : /* @__PURE__ */ React127.createElement("div", null, /* @__PURE__ */ React127.createElement("h3", {
+  }, attribute || newAttribute ? /* @__PURE__ */ React130.createElement(React130.Fragment, null, content3) : /* @__PURE__ */ React130.createElement("div", null, /* @__PURE__ */ React130.createElement("h3", {
     className: "!p-0 !text-xl !font-extralight"
-  }, t2("customattributes.your")), /* @__PURE__ */ React127.createElement("div", null, /* @__PURE__ */ React127.createElement(MarkdownComponent, {
+  }, t2("customattributes.your")), /* @__PURE__ */ React130.createElement("div", null, /* @__PURE__ */ React130.createElement(MarkdownComponent, {
     value: t2("customattributes.describe")
   }))))));
 }
@@ -88717,17 +88974,17 @@ var import_react29 = __toESM(require_react());
 var import_client6 = __toESM(require_client());
 
 // src/components/gallery/GalleryComponent.tsx
-var React131 = __toESM(require_react());
+var React134 = __toESM(require_react());
 
 // src/components/gallery/BrowseImagesComponent.tsx
-var React128 = __toESM(require_react());
+var React131 = __toESM(require_react());
 function BrowseImagesComponent({
   element: element4,
   selectImage
 }) {
   const api2 = useApi();
   const app = useApp();
-  const [searchTerm, setSearchTerm] = React128.useState("");
+  const [searchTerm, setSearchTerm] = React131.useState("");
   let allImages = app.vault.getAllLoadedFiles();
   if (api2.settings.assetsFolder !== void 0 && api2.settings.assetsFolder !== "") {
     allImages = allImages.filter((file) => {
@@ -88745,24 +89002,24 @@ function BrowseImagesComponent({
       selectImage();
     });
   });
-  return /* @__PURE__ */ React128.createElement("div", {
+  return /* @__PURE__ */ React131.createElement("div", {
     className: "mt-3"
-  }, /* @__PURE__ */ React128.createElement("div", {
+  }, /* @__PURE__ */ React131.createElement("div", {
     className: "grid mb-3 grid-cols-1 md:grid-cols-4 items-center justify-center"
-  }, /* @__PURE__ */ React128.createElement("div", {
+  }, /* @__PURE__ */ React131.createElement("div", {
     className: "col-span-1"
-  }, /* @__PURE__ */ React128.createElement("a", {
+  }, /* @__PURE__ */ React131.createElement("a", {
     href: "#",
     className: "!no-underline cursor-pointer text-[--text-normal] hover:text-[--text-accent-hover]",
     onClick: selectImage
-  }, "<back")), /* @__PURE__ */ React128.createElement("div", {
+  }, "<back")), /* @__PURE__ */ React131.createElement("div", {
     className: "col-span-3 w-full"
-  }, /* @__PURE__ */ React128.createElement("input", {
+  }, /* @__PURE__ */ React131.createElement("input", {
     type: "text",
     className: "w-full",
     placeholder: "Search",
     onChange: (e2) => setSearchTerm(e2.target.value)
-  }))), /* @__PURE__ */ React128.createElement("div", {
+  }))), /* @__PURE__ */ React131.createElement("div", {
     className: "grid grid-cols-4 justify-center gap-3"
   }, allImages.map((imageFile, index2) => {
     var _a;
@@ -88778,15 +89035,15 @@ function BrowseImagesComponent({
     const image2 = ImageService.createImage(app, api2, imageData);
     if (!image2)
       return null;
-    return /* @__PURE__ */ React128.createElement("div", {
+    return /* @__PURE__ */ React131.createElement("div", {
       key: index2,
       className: "flex justify-center relative",
       onClick: () => handleAddExistingImage(image2)
-    }, /* @__PURE__ */ React128.createElement("div", {
+    }, /* @__PURE__ */ React131.createElement("div", {
       className: "w-full relative pb-[100%]"
-    }, /* @__PURE__ */ React128.createElement("div", {
+    }, /* @__PURE__ */ React131.createElement("div", {
       className: "absolute top-0 left-0 w-full h-full overflow-hidden rounded-lg"
-    }, /* @__PURE__ */ React128.createElement("img", {
+    }, /* @__PURE__ */ React131.createElement("img", {
       src: image2.src,
       alt: image2.caption,
       className: "w-full h-auto object-contain !cursor-pointer"
@@ -88795,18 +89052,18 @@ function BrowseImagesComponent({
 }
 
 // src/components/gallery/CurrentImagesComponent.tsx
-var React129 = __toESM(require_react());
+var React132 = __toESM(require_react());
 function CurrentImagesComponent({
   element: element4,
   setCurrentImage
 }) {
-  return /* @__PURE__ */ React129.createElement("div", {
+  return /* @__PURE__ */ React132.createElement("div", {
     className: "flex flex-wrap justify-center"
-  }, element4.images.map((image2, index2) => /* @__PURE__ */ React129.createElement("div", {
+  }, element4.images.map((image2, index2) => /* @__PURE__ */ React132.createElement("div", {
     key: index2,
     className: "m-1 w-48 h-48 overflow-hidden cursor-pointer",
     onClick: () => setCurrentImage(image2)
-  }, /* @__PURE__ */ React129.createElement("img", {
+  }, /* @__PURE__ */ React132.createElement("img", {
     src: image2.src,
     alt: image2.caption,
     className: "w-full h-auto object-contain !cursor-pointer rounded-lg"
@@ -88814,7 +89071,7 @@ function CurrentImagesComponent({
 }
 
 // src/components/gallery/SingleImageComponent.tsx
-var React130 = __toESM(require_react());
+var React133 = __toESM(require_react());
 function SingleImageComponent({
   element: element4,
   image: image2,
@@ -88823,7 +89080,7 @@ function SingleImageComponent({
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [caption, setCaption] = React130.useState(image2.caption);
+  const [caption, setCaption] = React133.useState(image2.caption);
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   const saveCaption = () => {
     codeblockService.updateImage(image2.path, caption).then(() => {
@@ -88835,37 +89092,37 @@ function SingleImageComponent({
       resetCurrentImage();
     });
   };
-  return /* @__PURE__ */ React130.createElement("div", {
+  return /* @__PURE__ */ React133.createElement("div", {
     className: "mt-3"
-  }, /* @__PURE__ */ React130.createElement("div", null, /* @__PURE__ */ React130.createElement("a", {
+  }, /* @__PURE__ */ React133.createElement("div", null, /* @__PURE__ */ React133.createElement("a", {
     href: "#",
     className: "!no-underline cursor-pointer text-[--text-normal] hover:text-[--text-accent-hover]",
     onClick: resetCurrentImage
-  }, "< back")), /* @__PURE__ */ React130.createElement("div", {
+  }, "< back")), /* @__PURE__ */ React133.createElement("div", {
     className: "flex items-start"
-  }, /* @__PURE__ */ React130.createElement("div", {
+  }, /* @__PURE__ */ React133.createElement("div", {
     className: "flex items-start justify-start w-[350px] h-[350px]"
-  }, /* @__PURE__ */ React130.createElement("img", {
+  }, /* @__PURE__ */ React133.createElement("img", {
     src: image2.src,
     alt: caption,
     className: "w-full h-auto object-contain rounded-lg"
-  })), /* @__PURE__ */ React130.createElement("div", {
+  })), /* @__PURE__ */ React133.createElement("div", {
     className: "ml-3 w-full"
-  }, /* @__PURE__ */ React130.createElement("div", null, /* @__PURE__ */ React130.createElement("h3", {
+  }, /* @__PURE__ */ React133.createElement("div", null, /* @__PURE__ */ React133.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("gallery.caption")), /* @__PURE__ */ React130.createElement("div", {
+  }, t2("gallery.caption")), /* @__PURE__ */ React133.createElement("div", {
     className: "w-full"
-  }, /* @__PURE__ */ React130.createElement(MarkdownEditorComponent, {
+  }, /* @__PURE__ */ React133.createElement(MarkdownEditorComponent, {
     initialValue: caption,
     onChange: setCaption,
     campaignPath: element4.type === "campaign" /* Campaign */ ? element4.path : element4.campaignPath,
     className: "w-full"
-  })), /* @__PURE__ */ React130.createElement("div", {
+  })), /* @__PURE__ */ React133.createElement("div", {
     className: "flex w-full justify-end"
-  }, /* @__PURE__ */ React130.createElement("button", {
+  }, /* @__PURE__ */ React133.createElement("button", {
     className: "rpgm-danger",
     onClick: deleteImage
-  }, t2("buttons.delete")), /* @__PURE__ */ React130.createElement("button", {
+  }, t2("buttons.delete")), /* @__PURE__ */ React133.createElement("button", {
     className: "rpgm-primary",
     onClick: saveCaption
   }, t2("buttons.save")))))));
@@ -88875,9 +89132,9 @@ function SingleImageComponent({
 function GalleryComponent({ element: element4 }) {
   const { t: t2 } = useTranslation();
   const app = useApp();
-  const [currentImage, setCurrentImage] = React131.useState(void 0);
-  const [browseImages, setBrowseImages] = React131.useState(false);
-  const [key, setKey] = React131.useState(Date.now());
+  const [currentImage, setCurrentImage] = React134.useState(void 0);
+  const [browseImages, setBrowseImages] = React134.useState(false);
+  const [key, setKey] = React134.useState(Date.now());
   const api2 = useApi();
   const codeblockService = new RpgManagerCodeblockService(app, api2, element4.file);
   const fileUpload = new FileUploadService(app, api2);
@@ -88927,68 +89184,68 @@ function GalleryComponent({ element: element4 }) {
   });
   let content3;
   if (currentImage !== void 0) {
-    content3 = /* @__PURE__ */ React131.createElement(SingleImageComponent, {
+    content3 = /* @__PURE__ */ React134.createElement(SingleImageComponent, {
       key,
       element: element4,
       image: currentImage,
       resetCurrentImage
     });
   } else if (browseImages === true) {
-    content3 = /* @__PURE__ */ React131.createElement(BrowseImagesComponent, {
+    content3 = /* @__PURE__ */ React134.createElement(BrowseImagesComponent, {
       key,
       element: element4,
       selectImage: resetCurrentImage
     });
   } else {
-    content3 = /* @__PURE__ */ React131.createElement(CurrentImagesComponent, {
+    content3 = /* @__PURE__ */ React134.createElement(CurrentImagesComponent, {
       key,
       element: element4,
       setCurrentImage
     });
   }
-  return /* @__PURE__ */ React131.createElement("div", {
+  return /* @__PURE__ */ React134.createElement("div", {
     key
-  }, /* @__PURE__ */ React131.createElement("div", {
+  }, /* @__PURE__ */ React134.createElement("div", {
     className: "flex justify-center items-center"
-  }, /* @__PURE__ */ React131.createElement("h2", {
+  }, /* @__PURE__ */ React134.createElement("h2", {
     className: "!text-2xl !font-extralight"
-  }, t2("gallery.title"))), /* @__PURE__ */ React131.createElement("div", {
+  }, t2("gallery.title"))), /* @__PURE__ */ React134.createElement("div", {
     className: "border-2 p-4"
-  }, /* @__PURE__ */ React131.createElement("div", {
+  }, /* @__PURE__ */ React134.createElement("div", {
     className: "grid grid-cols-4 space-x-4"
-  }, /* @__PURE__ */ React131.createElement("div", {
+  }, /* @__PURE__ */ React134.createElement("div", {
     className: "flex-1"
-  }, /* @__PURE__ */ React131.createElement("h3", {
+  }, /* @__PURE__ */ React134.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("gallery.drag")), /* @__PURE__ */ React131.createElement("div", {
+  }, t2("gallery.drag")), /* @__PURE__ */ React134.createElement("div", {
     className: "border-2 border-dashed p-4 cursor-pointer flex-1",
     onDrop: handleFileDrop,
     onDragOver: handleDragOver
-  }, t2("gallery.dragdrop"))), /* @__PURE__ */ React131.createElement("div", {
+  }, t2("gallery.dragdrop"))), /* @__PURE__ */ React134.createElement("div", {
     className: "flex-1"
-  }, /* @__PURE__ */ React131.createElement("h3", {
+  }, /* @__PURE__ */ React134.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("gallery.upload")), /* @__PURE__ */ React131.createElement("input", {
+  }, t2("gallery.upload")), /* @__PURE__ */ React134.createElement("input", {
     type: "file",
     onChange: handleFileSelect,
     accept: "image/*"
-  })), /* @__PURE__ */ React131.createElement("div", {
+  })), /* @__PURE__ */ React134.createElement("div", {
     className: "flex-1"
-  }, /* @__PURE__ */ React131.createElement("h3", {
+  }, /* @__PURE__ */ React134.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("gallery.link")), /* @__PURE__ */ React131.createElement("input", {
+  }, t2("gallery.link")), /* @__PURE__ */ React134.createElement("input", {
     type: "text",
     onChange: handleImageUrlChange,
     className: "border-2 p-2 w-full",
     placeholder: "Enter image url"
-  })), /* @__PURE__ */ React131.createElement("div", {
+  })), /* @__PURE__ */ React134.createElement("div", {
     className: "flex-1"
-  }, /* @__PURE__ */ React131.createElement("h3", {
+  }, /* @__PURE__ */ React134.createElement("h3", {
     className: "!text-xl !font-extralight"
-  }, t2("gallery.browse")), /* @__PURE__ */ React131.createElement("button", {
+  }, t2("gallery.browse")), /* @__PURE__ */ React134.createElement("button", {
     className: "rpgm-secondary",
     onClick: () => setBrowseImages(true)
-  }, t2("gallery.browselocal"))))), /* @__PURE__ */ React131.createElement("div", null, content3));
+  }, t2("gallery.browselocal"))))), /* @__PURE__ */ React134.createElement("div", null, content3));
 }
 
 // src/controllers/GalleryController.ts
@@ -89072,8 +89329,8 @@ function OptionsViewComponent({ element: element4 }) {
   const { t: t2 } = useTranslation();
   const api2 = useApi();
   const app = useApp();
-  const [isDragging, setIsDragging] = React132.useState(false);
-  React132.useEffect(() => {
+  const [isDragging, setIsDragging] = React135.useState(false);
+  React135.useEffect(() => {
     let dragCounter = 0;
     const handleWindowDragEnter = (event) => {
       event.preventDefault();
@@ -89168,33 +89425,33 @@ function OptionsViewComponent({ element: element4 }) {
     const fileUpload = new FileUploadService(app, api2);
     fileUpload.uploadFileList(element4, event.dataTransfer.files);
   };
-  return /* @__PURE__ */ React132.createElement(React132.Fragment, null, /* @__PURE__ */ React132.createElement("div", {
+  return /* @__PURE__ */ React135.createElement(React135.Fragment, null, /* @__PURE__ */ React135.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 col-span-1 text-xs mb-3"
-  }, /* @__PURE__ */ React132.createElement("h3", {
+  }, /* @__PURE__ */ React135.createElement("h3", {
     className: "!text-xl !font-extralight !mb-1 mt-0"
-  }, t2("options.option", { count: 2 })), hasWizard && /* @__PURE__ */ React132.createElement("div", {
+  }, t2("options.option", { count: 2 })), hasWizard && /* @__PURE__ */ React135.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     onClick: openWizard
-  }, t2("options.wizard")), element4.type !== "campaign" /* Campaign */ && /* @__PURE__ */ React132.createElement("div", {
+  }, t2("options.wizard")), element4.type !== "campaign" /* Campaign */ && /* @__PURE__ */ React135.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     onClick: addRelationship
-  }, t2("create.add", { context: "relationship" })), /* @__PURE__ */ React132.createElement("div", {
+  }, t2("create.add", { context: "relationship" })), /* @__PURE__ */ React135.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     onClick: createCustomAttribute
-  }, t2("attributes.custom")), /* @__PURE__ */ React132.createElement("div", {
+  }, t2("attributes.custom")), /* @__PURE__ */ React135.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     onClick: openGallery
-  }, t2("gallery.title")), isDragging && /* @__PURE__ */ React132.createElement("div", {
+  }, t2("gallery.title")), isDragging && /* @__PURE__ */ React135.createElement("div", {
     className: "border-2 border-dashed p-4 cursor-pointer flex-1",
     onDrop: handleFileDrop,
     onDragOver: handleDragOver
-  }, t2("gallery.dragdrop"))), /* @__PURE__ */ React132.createElement("div", {
+  }, t2("gallery.dragdrop"))), /* @__PURE__ */ React135.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 col-span-1 text-xs mb-1"
-  }, /* @__PURE__ */ React132.createElement("h3", {
+  }, /* @__PURE__ */ React135.createElement("h3", {
     className: "!text-xl !font-extralight !mb-1 mt-0"
   }, t2("attributes.attribute", { count: 2 })), availableAttributes.filter((attribute) => attribute.id !== "description" /* Description */ && attribute.id !== "duration" /* Duration */).map((attribute, index2) => {
     var _a;
-    return /* @__PURE__ */ React132.createElement("div", {
+    return /* @__PURE__ */ React135.createElement("div", {
       className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] list-disc list-inside pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
       key: index2,
       onClick: addAttribute(attribute)
@@ -89217,23 +89474,23 @@ function OptionContainerComponent({
       active: true
     });
   };
-  return /* @__PURE__ */ React133.createElement("div", {
+  return /* @__PURE__ */ React136.createElement("div", {
     className: "flex flex-col min-h-screen pb-16"
-  }, element4 && /* @__PURE__ */ React133.createElement("div", {
+  }, element4 && /* @__PURE__ */ React136.createElement("div", {
     className: "mb-3"
-  }, /* @__PURE__ */ React133.createElement("h1", {
+  }, /* @__PURE__ */ React136.createElement("h1", {
     className: "text-xl !font-bold mb-3"
-  }, element4.name), /* @__PURE__ */ React133.createElement(OptionsViewComponent, {
+  }, element4.name), /* @__PURE__ */ React136.createElement(OptionsViewComponent, {
     element: element4
-  })), /* @__PURE__ */ React133.createElement(NewElementComponent, {
+  })), /* @__PURE__ */ React136.createElement(NewElementComponent, {
     element: element4,
     file
-  }), /* @__PURE__ */ React133.createElement("div", {
+  }), /* @__PURE__ */ React136.createElement("div", {
     className: "rounded-lg border border-[--background-modifier-border] bg-[--background-primary] p-3 col-span-1 text-xs"
-  }, /* @__PURE__ */ React133.createElement("div", {
+  }, /* @__PURE__ */ React136.createElement("div", {
     className: "cursor-pointer text-[--text-accent] hover:text-[--text-accent-hover] pl-2 pr-2 pt-1 pb-1 border border-transparent hover:bg-[--background-primary-alt] hover:border-[--background-modifier-border] rounded-lg",
     onClick: showReadme
-  }, t2("documentation")), /* @__PURE__ */ React133.createElement("div", {
+  }, t2("documentation")), /* @__PURE__ */ React136.createElement("div", {
     className: "absolute bottom-8 left-0 right-0 pr-3 text-right text-[--text-faint] text-xs"
   }, "RPG Manager" + api2.version)));
 }

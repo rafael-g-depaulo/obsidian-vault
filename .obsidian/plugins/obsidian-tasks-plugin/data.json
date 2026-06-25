@@ -25,6 +25,9 @@
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,
   "removeScheduledDateOnRecurrence": false,
+  "searchResults": {
+    "taskCountLocation": "bottom"
+  },
   "statusSettings": {
     "coreStatuses": [
       {
@@ -71,6 +74,9 @@
     "created": true,
     "done": true,
     "cancelled": true
+  },
+  "dismissedNotices": {
+    "live-preview-callout-warning": false
   },
   "features": {
     "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
