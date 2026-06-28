@@ -131,7 +131,7 @@ https://bato.si/
 - [Primal Hunter Chapter 121 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-121/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
-- [Magic Emperor 862](https://manhuaus.com/manga/magic-emperor-0/chapter-862/)
+- [Magic Emperor 875](https://manhuaus.com/manga/magic-emperor-0/chapter-875/)
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
