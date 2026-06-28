@@ -92,8 +92,7 @@ https://bato.si/
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-189
 - [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
 - [Read With My Netherworld Trillions, Game On! - Chapter 290 \| KaliScan](https://kaliscan.io/manga/57347-with-my-netherworld-trillions-game-on/chapter-290)
-- [Heavenly Demon Cultivation Simulation · Ch.138](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/7221791-chapter-138)
-[Heavenly Demon Cultivation Simulation · Ch.143](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/7221796-chapter-143)
+- [Heavenly Demon Cultivation Simulation · Ch.169](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/8843186-chapter-169)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -133,7 +132,6 @@ https://bato.si/
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
 - [Magic Emperor 862](https://manhuaus.com/manga/magic-emperor-0/chapter-862/)
-[Heavenly Demon Cultivation Simulation · Ch.143](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/7221796-chapter-143)
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
