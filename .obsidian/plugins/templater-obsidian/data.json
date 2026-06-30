@@ -22,7 +22,7 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": ".*",
+      "regex": "Untitled",
       "template": "Templates/New File.md"
     }
   ],
@@ -34,5 +34,10 @@
   "startup_templates": [
     ""
   ],
-  "intellisense_render": 1
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
 }
