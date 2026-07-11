@@ -93,6 +93,7 @@ https://bato.si/
 - [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
 - [Read With My Netherworld Trillions, Game On! - Chapter 290 \| KaliScan](https://kaliscan.io/manga/57347-with-my-netherworld-trillions-game-on/chapter-290)
 - [Supreme Curse Master - Lastest Chapter 29 - MANHWATOP](https://manhwatop.com/manga/supreme-curse-master/chapter-29/)
+- [Read To Save Seven Villainesses, I Went Full Harem! - Chapter 3 \| KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem/chapter-3)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
