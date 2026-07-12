@@ -128,12 +128,12 @@ https://bato.si/
 - [Manga: School Knight Level Up! Chapter - 38-eng-li](https://www.mgeko.cc/reader/en/school-knight-level-up-chapter-38-eng-li/)
 - https://readpark.net/title/77593-en-fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen/9878743-ch-050
 - [Lightning Degree - Lastest Chapter 220.5 - MANHWATOP](https://manhwatop.com/manga/lightning-degree-series/chapter-220.5/)
-- https://ravenscans.org/primal-hunter-chapter-119/
 - [Primal Hunter Chapter 121 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-121/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
-- [JMagic Emperor 878](https://manhuaus.com/manga/magic-emperor-0/chapter-878/)
+- [Magic Emperor 878](https://manhuaus.com/manga/magic-emperor-0/chapter-878/)
 - [Heavenly Demon Cultivation Simulation · Ch.189](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/10473850-chapter-189)
+- [Read To Save Seven Villainesses, I Went Full Harem! - Chapter 66 \| KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem/chapter-66)
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
