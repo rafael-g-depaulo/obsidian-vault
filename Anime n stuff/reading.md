@@ -73,7 +73,6 @@ https://bato.si/
 - https://kaliscan.io/manga/27921-keep-a-low-profile-sect-leader/chapter-203
 - https://manhuatop.org/manhua/god-of-martial-arts/chapter-139-1/
 - https://kaliscan.io/manga/70680-the-academys-genius-tamer/chapter-15
-- https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-76/
 - https://kaliscan.io/manga/51182-the-devil-raises-a-lady/chapter-57
 - https://manhwatop.com/manga/infinite-level-up-in-murim-series/chapter-33/
 - https://kaliscan.io/manga/59584-my-furry-harem-is-after-me/chapter-70
@@ -93,7 +92,6 @@ https://bato.si/
 - [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
 - [Read With My Netherworld Trillions, Game On! - Chapter 290 \| KaliScan](https://kaliscan.io/manga/57347-with-my-netherworld-trillions-game-on/chapter-290)
 - [Supreme Curse Master - Lastest Chapter 29 - MANHWATOP](https://manhwatop.com/manga/supreme-curse-master/chapter-29/)
-- [Read To Save Seven Villainesses, I Went Full Harem! - Chapter 29 \| KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem/chapter-29)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
@@ -134,6 +132,7 @@ https://bato.si/
 - [Magic Emperor 878](https://manhuaus.com/manga/magic-emperor-0/chapter-878/)
 - [Heavenly Demon Cultivation Simulation · Ch.189](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/10473850-chapter-189)
 - [Read To Save Seven Villainesses, I Went Full Harem! - Chapter 66 \| KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem/chapter-66)
+- [I Was Forced by the System to Become a Villain - Lastest Chapter 76 - MANHWATOP](https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-76/)
 ## Reading on Asura
 - https://asuracomic.net/series/margraves-bastard-son-was-the-emperor-0ac42319/chapter/34
 - [Suicidal Battle God](https://asuratoon.com/8612194254-reincarnation-of-the-suicidal-battle-god-chapter-67/)
