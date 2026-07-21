@@ -1,5 +1,6 @@
 LOOK INTO:
 - questões de concursos <- sistema. 10 questões/dia free
+- **só procure questões da banca!**
 
 ## MODULO I - CONHECIMENTOS GERAIS (PARA TODOS OS CARGOS/PERFIS)
 
@@ -9,36 +10,39 @@ LOOK INTO:
 3. Domínio da ortografia oficial.
 4. Domínio dos mecanismos de coesão textual. 
 	1. Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
-	2. Emprego de tempos e modos verbais. 5 Domínio da estrutura morfossintática do período.
+	2. Emprego de tempos e modos verbais.
 5. Domínio da estrutura morfossintática do período.
+6. Domínio da estrutura morfossintática do período.
 	1. Emprego das classes de palavras.
 	2. Relações de coordenação entre orações e entre termos da oração.
 	3. Relações de subordinação entre orações e entre termos da oração.
 	4. Emprego dos sinais de pontuação.
-	5. 5.5 Concordância verbal e nominal
-	6. 5.6 Regência verbal e nominal.
-	7. 5.7 Emprego do sinal indicativo de crase.
-	8. 5.8 Colocação dos pronomes átonos
-6. Reescrita de frases e parágrafos do texto.
-	1. 6.1 Significação das palavras.
-	2. 6.2 Substituição de palavras ou de trechos de texto.
-	3. 6.3 Reorganização da estrutura de orações e de períodos do texto.
-	4. 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+	5. Concordância verbal e nominal
+	6. Regência verbal e nominal.
+	7. Emprego do sinal indicativo de crase.
+	8. Colocação dos pronomes átonos
+7. Reescrita de frases e parágrafos do texto.
+	1. Significação das palavras.
+	2. Substituição de palavras ou de trechos de texto.
+	3. Reorganização da estrutura de orações e de períodos do texto.
+	4. Reescrita de textos de diferentes gêneros e níveis de formalidade.
 
 ### LÍNGUA INGLESA:  *despriorizado*
-1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o
-entendimento dos sentidos dos textos.
+1.  Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
 
 ### RACIOCÍNIO LÓGICO: *despriorizado*
-1 Estruturas lógicas. 2 Lógica de argumentação: analogias, inferências, deduções e
-conclusões. 3 Lógica sentencial (ou proposicional). 3.1 Proposições simples e compostas. 3.2 Tabelas-verdade.
-3.3 Equivalências. 3.4 Diagramas lógicos. 4 Lógica de primeira ordem. 5 Raciocínio lógico envolvendo
-problemas aritméticos, geométricos e matriciais
-
+1. Estruturas lógicas.
+2. Lógica de argumentação: analogias, inferências, deduções e conclusões.
+3. Lógica sentencial (ou proposicional).
+	1. Proposições simples e compostas.
+	2. Tabelas-verdade.
+	3. Equivalências.
+	4. Diagramas lógicos.
+4. Lógica de primeira ordem.
+5. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 ### ATUALIDADES E INTELIGÊNCIA ARTIFICIAL:
-1 Tópicos relevantes e atuais de diversas áreas, tais como
-segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia.
-2 Inteligência Artificial: fundamentos e aplicações: conceitos de inteligência artificial; aprendizado da máquina; introdução aos modelos generativos e modelos de linguagem; ética, governança e privacidade em IA.
+1. Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia.
+2. Inteligência Artificial: fundamentos e aplicações: conceitos de inteligência artificial; aprendizado da máquina; introdução aos modelos generativos e modelos de linguagem; ética, governança e privacidade em IA.
 
 ### LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS:
 1. Lei nº 12.527/2011 (Lei de Acesso à Informação): capítulos I, II, III, IV e V; Dec. nº 7.724 e nº 7845.
@@ -57,32 +61,32 @@ segurança, transportes, política, economia, sociedade, educação, saúde, cul
 6. **DevOps**.
 7. **Ferramenta de Gestão da configuração GIT. TESTES: conceitos básicos de testes de aplicações. Testes unitários. Testes de integração. Testes ágeis. Teste de usabilidade de software. Testes automatizados. Tipos de testes. Test-driven development (TDD). Gestão do ciclo de vida de testes**.
 	1. RPA (robotic process automation).
-8. **8 Metodologias Ágeis de Desenvolvimento.**
-	1. **8.1 Scrum,**
-	2. 8.2 Kanban,
-	3. 8.3 XP.
-9. *9 Padrões de desenvolvimento e reuso.*
-10. 10 Codificação de software (transacionais, analíticos, mobile e API).
-11. 11 **Metodologia de Ponto de Função e Story Points**.
-12. 12 *Engenharia de Requisitos*.
-	1. 1 Classificação de Requisitos.
-	2. 12.2 Processo de Engenharia de Requisitos.
-	3. 12.3 Técnicas de Elicitação de Requisitos.
-13. **13. Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks** (VueJS, Angular e React).
-	1. **13.1 Padrões de frontend.**
-	2. **13.2 SPA e PWA.**
-14. **14 Protocolos HTTPS, SSL/TLS.**
-15. 15Blockchain.
-16. **16 Design de software.**
-17. **17 Arquitetura hexagonal, microsserviços (orquestração de serviços e API gateway) e containers**.
-18. 18 Transações distribuídas.
-19. **19 User Experience (UX).**
-	1. 19.1 Sistemas de gestão de conteúdo.
-		1. **19.1.1 Conceitos básicos e aplicações**
-		2. *19.1.2 Arquitetura de informação.*
-		3. 19.1.3 Portais corporativos.
-		4. *19.1.4 Conceitos básicos e aplicações.*
-		5. 19.1.5 Workflow.
+8. **Metodologias Ágeis de Desenvolvimento.**
+	1. **Scrum,**
+	2. Kanban,
+	3. XP.
+9. *Padrões de desenvolvimento e reuso.*
+10. Codificação de software (transacionais, analíticos, mobile e API).
+11. **Metodologia de Ponto de Função e Story Points**.
+12. *Engenharia de Requisitos*.
+	1. Classificação de Requisitos.
+	2. Processo de Engenharia de Requisitos.
+	3. Técnicas de Elicitação de Requisitos.
+13. **Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks** (VueJS, Angular e React).
+	1. **Padrões de frontend.**
+	2. **SPA e PWA.**
+14. **Protocolos HTTPS, SSL/TLS.**
+15. Blockchain. ugh
+16. **Design de software.**
+17. **Arquitetura hexagonal, microsserviços (orquestração de serviços e API gateway) e containers**.
+18. Transações distribuídas.
+19. **User Experience (UX).**
+	1. Sistemas de gestão de conteúdo.
+		1. **Conceitos básicos e aplicações**
+		2. *Arquitetura de informação.*
+		3. Portais corporativos.
+		4. *Conceitos básicos e aplicações.*
+		5. Workflow.
 		6. **Conceitos de acessibilidade e usabilidade.**
 		7. **Desenho e planejamento de interação em aplicações web.**
 20. Conceitos de Inteligência Artificial, Análise de Dados e Big Data.
@@ -128,11 +132,9 @@ segurança, transportes, política, economia, sociedade, educação, saúde, cul
 17. Técnicas de Integração e Ingestão de Dados (ETL/ELT, Transferência de Arquivos e Integração via Base de Dados).
 
 ### GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
-1. **Gerenciamento de projetos: conceitos; áreas**
-**de conhecimento, projetos, programas, portfólio, Tipos de Abordagem: tradicional, hibrida e ágil (Framework**
-**Scrum, Metodologia Lean, e Método Kanban); Guia Scrum de prática ágil para gerenciamento de projetos**
+1. **Gerenciamento de projetos: conceitos; áreas* **de conhecimento, projetos, programas, portfólio, Tipos de Abordagem: tradicional, hibrida e ágil (Framework** **Scrum, Metodologia Lean, e Método Kanban); Guia Scrum de prática ágil para gerenciamento de projetos**
 2. Processos, grupos de processos e área de conhecimento.
-3. 3 Gestão de riscos.
+3. Gestão de riscos.
 4. Gerenciamento de serviços (ITIL v4).
 	1. Conceitos básicos, disciplinas, estrutura e objetivos.
 5. Governança de TI (COBIT 2019).
