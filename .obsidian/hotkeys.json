@@ -120,15 +120,6 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "hotkeysplus-obsidian:better-toggle-todo": [],
   "obsidian-outliner:indent-list": [
     {
@@ -171,6 +162,14 @@
         "Mod"
       ],
       "key": " "
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }
