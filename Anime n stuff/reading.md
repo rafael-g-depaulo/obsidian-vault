@@ -190,3 +190,4 @@ https://bato.si/
 
 ## Books
 - [The C4 Model \[Book\]](https://www.oreilly.com/library/view/the-c4-model/9798341660113/)
+- Perfect Victims
