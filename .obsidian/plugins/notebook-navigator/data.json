@@ -64,7 +64,8 @@
           "transitionStyle": "hue",
           "scope": "root"
         }
-      }
+      },
+      "descendantExcludedFolders": []
     }
   ],
   "vaultTitle": "navigation",
@@ -140,6 +141,7 @@
   "rootLevelSpacing": 0,
   "collapseBehavior": "all",
   "smartCollapse": true,
+  "excludeVaultRootFromCollapse": false,
   "collapseOtherBranchesOnExpand": false,
   "autoSelectFirstFileOnFocusChange": false,
   "autoExpandNavItems": false,
@@ -195,6 +197,7 @@
   "showSelectedNavigationPills": false,
   "stickyGroupHeaders": true,
   "showFolderGroupPaths": true,
+  "showGroupHeaderItemCounts": false,
   "showCurrentFolderFilesAtBottom": false,
   "filterPinnedByFolder": false,
   "showQuickActions": true,
@@ -221,11 +224,13 @@
   "fileNameIconMap": {},
   "showCategoryIcons": false,
   "fileTypeIconMap": {},
+  "fileTypeIconPreset": "none",
   "fileNameRows": 1,
   "useFolderColorForTitles": false,
   "showFilePreview": false,
   "skipHeadingsInPreview": true,
   "skipCodeBlocksInPreview": true,
+  "skipCalloutsInPreview": false,
   "stripHtmlInPreview": true,
   "stripLatexInPreview": true,
   "previewRows": 2,
@@ -269,11 +274,13 @@
   "calendarEnabled": true,
   "calendarPlacement": "left-sidebar",
   "calendarConfirmBeforeCreate": true,
+  "calendarShowHiddenItems": false,
   "calendarLocale": "system-default",
   "calendarWeekendDays": "sat-sun",
   "calendarMonthHeadingFormat": "full",
   "calendarHighlightToday": true,
   "calendarShowFeatureImage": true,
+  "calendarShowTasks": true,
   "calendarMonthHighlights": {},
   "calendarShowWeekNumber": false,
   "calendarShowQuarter": false,
@@ -325,6 +332,12 @@
     "pane:end": [
       {
         "key": "End",
+        "modifiers": []
+      }
+    ],
+    "pane:rename": [
+      {
+        "key": "F2",
         "modifiers": []
       }
     ],
@@ -402,6 +415,22 @@
         ]
       }
     ],
+    "list:manual-sort-up": [
+      {
+        "key": "ArrowUp",
+        "modifiers": [
+          "Mod"
+        ]
+      }
+    ],
+    "list:manual-sort-down": [
+      {
+        "key": "ArrowDown",
+        "modifiers": [
+          "Mod"
+        ]
+      }
+    ],
     "list:range-to-start": [
       {
         "key": "Home",
@@ -451,7 +480,6 @@
       "property": false
     }
   },
-  "collapsedPinnedContexts": {},
   "fileIcons": {},
   "fileColors": {},
   "fileBackgroundColors": {},
@@ -502,7 +530,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.2.0",
+  "lastShownVersion": "3.3.0",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": [],

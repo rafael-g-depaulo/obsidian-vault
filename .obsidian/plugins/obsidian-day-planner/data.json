@@ -19,11 +19,10 @@
   "defaultDurationMinutes": 60,
   "minimalDurationMinutes": 10,
   "showTimestampInTaskBlock": true,
-  "showUncheduledTasks": true,
   "showUnscheduledNestedTasks": true,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.30.0",
+  "pluginVersion": "0.35.1",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [
@@ -45,11 +44,13 @@
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
-  "showTimelineInSidebar": true,
+  "showActiveClockInStatusBar": true,
   "timelineColumns": {
     "planner": true,
     "timeTracker": false
   },
+  "showUncheduledTasks": true,
+  "showTimelineInSidebar": true,
   "dataviewSource": "",
   "editMode": "simple",
   "copyOnDrag": false

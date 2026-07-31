@@ -10,11 +10,20 @@ var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
-var __esm = (fn3, res) => function __init() {
-  return fn3 && (res = (0, fn3[__getOwnPropNames(fn3)[0]])(fn3 = 0)), res;
+var __esm = (fn3, res, err) => function __init() {
+  if (err) throw err[0];
+  try {
+    return fn3 && (res = (0, fn3[__getOwnPropNames(fn3)[0]])(fn3 = 0)), res;
+  } catch (e) {
+    throw err = [e], e;
+  }
 };
 var __commonJS = (cb, mod) => function __require() {
-  return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
+  try {
+    return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
+  } catch (e) {
+    throw mod = 0, e;
+  }
 };
 var __export = (target, all) => {
   for (var name in all)
@@ -44,10 +53,10 @@ var require_ace = __commonJS({
   "node_modules/ace-builds/src-noconflict/ace.js"(exports, module2) {
     (function() {
       var ACE_NAMESPACE = "ace";
-      var global2 = /* @__PURE__ */ function() {
+      var global = /* @__PURE__ */ (function() {
         return this;
-      }();
-      if (!global2 && typeof window != "undefined") global2 = window;
+      })();
+      if (!global && typeof window != "undefined") global = window;
       if (!ACE_NAMESPACE && typeof requirejs !== "undefined")
         return;
       var define2 = function(module3, deps, payload) {
@@ -134,11 +143,11 @@ var require_ace = __commonJS({
         return module3;
       };
       function exportAce(ns2) {
-        var root = global2;
+        var root = global;
         if (ns2) {
-          if (!global2[ns2])
-            global2[ns2] = {};
-          root = global2[ns2];
+          if (!global[ns2])
+            global[ns2] = {};
+          root = global[ns2];
         }
         if (!root.define || !root.define.packaged) {
           define2.original = root.define;
@@ -732,17 +741,8 @@ var require_ace = __commonJS({
     ace.define("ace/lib/net", ["require", "exports", "module", "ace/lib/dom"], function(require3, exports2, module3) {
       "use strict";
       var dom = require3("./dom");
-      exports2.get = function(url, callback) {
-        var xhr = new XMLHttpRequest();
-        xhr.open("GET", url, true);
-        xhr.onreadystatechange = function() {
-          if (xhr.readyState === 4) {
-            callback(xhr.responseText);
-          }
-        };
-        xhr.send(null);
-      };
-      exports2.loadScript = function(path2, callback) { /* disabled for security */ };
+      exports2.get = function() { /* disabled: use bundled resources */ };
+      exports2.loadScript = function() { /* disabled: all resources are bundled */ };
       exports2.qualifyURL = function(url) {
         var a = document.createElement("a");
         a.href = url;
@@ -1005,15 +1005,15 @@ var require_ace = __commonJS({
       var nlsPlaceholders;
       var AppConfig = (
         /** @class */
-        function() {
+        (function() {
           function AppConfig2() {
             this.$defaultOptions = {};
             messages = defaultEnglishMessages;
             nlsPlaceholders = "dollarSigns";
           }
-          AppConfig2.prototype.defineOptions = function(obj, path2, options) {
+          AppConfig2.prototype.defineOptions = function(obj, path, options) {
             if (!obj.$options)
-              this.$defaultOptions[path2] = obj.$options = {};
+              this.$defaultOptions[path] = obj.$options = {};
             Object.keys(options).forEach(function(key) {
               var opt = options[key];
               if (typeof opt == "string")
@@ -1033,15 +1033,15 @@ var require_ace = __commonJS({
                 obj.setOption(key, opt.value);
             });
           };
-          AppConfig2.prototype.setDefaultValue = function(path2, name, value) {
-            if (!path2) {
-              for (path2 in this.$defaultOptions)
-                if (this.$defaultOptions[path2][name])
+          AppConfig2.prototype.setDefaultValue = function(path, name, value) {
+            if (!path) {
+              for (path in this.$defaultOptions)
+                if (this.$defaultOptions[path][name])
                   break;
-              if (!this.$defaultOptions[path2][name])
+              if (!this.$defaultOptions[path][name])
                 return false;
             }
-            var opts = this.$defaultOptions[path2] || (this.$defaultOptions[path2] = {});
+            var opts = this.$defaultOptions[path] || (this.$defaultOptions[path] = {});
             if (opts[name]) {
               if (opts.forwardTo)
                 this.setDefaultValue(opts.forwardTo, name, value);
@@ -1049,9 +1049,9 @@ var require_ace = __commonJS({
                 opts[name].value = value;
             }
           };
-          AppConfig2.prototype.setDefaultValues = function(path2, optionHash) {
+          AppConfig2.prototype.setDefaultValues = function(path, optionHash) {
             Object.keys(optionHash).forEach(function(key) {
-              this.setDefaultValue(path2, key, optionHash[key]);
+              this.setDefaultValue(path, key, optionHash[key]);
             }, this);
           };
           AppConfig2.prototype.setMessages = function(value, options) {
@@ -1085,7 +1085,7 @@ var require_ace = __commonJS({
             return translated;
           };
           return AppConfig2;
-        }()
+        })()
       );
       AppConfig.prototype.warn = warn;
       AppConfig.prototype.reportError = reportError;
@@ -1153,15 +1153,15 @@ var require_ace = __commonJS({
         }
         if ((!base || base == component) && parts.length > 1)
           base = parts[parts.length - 2];
-        var path2 = options[component + "Path"];
-        if (path2 == null) {
-          path2 = options.basePath;
+        var path = options[component + "Path"];
+        if (path == null) {
+          path = options.basePath;
         } else if (sep == "/") {
           component = sep = "";
         }
-        if (path2 && path2.slice(-1) != "/")
-          path2 += "/";
-        return path2 + component + sep + base + this.get("suffix");
+        if (path && path.slice(-1) != "/")
+          path += "/";
+        return path + component + sep + base + this.get("suffix");
       };
       exports2.setModuleUrl = function(name, subst) {
         return options.$moduleUrls[name] = subst;
@@ -1256,9 +1256,9 @@ var require_ace = __commonJS({
           cb(null, module4);
         });
       });
-      var global2 = /* @__PURE__ */ function() {
+      var global = /* @__PURE__ */ (function() {
         return this || typeof window != "undefined" && window;
-      }();
+      })();
       module3.exports = function(ace4) {
         config.init = init;
         config.$require = require3;
@@ -1268,9 +1268,9 @@ var require_ace = __commonJS({
       };
       init(true);
       function init(packaged) {
-        if (!global2 || !global2.document)
+        if (!global || !global.document)
           return;
-        config.set("packaged", packaged || require3.packaged || module3.packaged || global2.define && define.packaged);
+        config.set("packaged", packaged || require3.packaged || module3.packaged || global.define && define.packaged);
         var scriptOptions = {};
         var scriptUrl = "";
         var currentScript = document.currentScript || document._currentScript;
@@ -1318,7 +1318,7 @@ var require_ace = __commonJS({
       "use strict";
       var Range = (
         /** @class */
-        function() {
+        (function() {
           function Range2(startRow, startColumn, endRow, endColumn) {
             this.start = {
               row: startRow,
@@ -1514,7 +1514,7 @@ var require_ace = __commonJS({
             this.end.column += column;
           };
           return Range2;
-        }()
+        })()
       );
       Range.fromPoints = function(start, end) {
         return new Range(start.row, start.column, end.row, end.column);
@@ -1853,11 +1853,11 @@ var require_ace = __commonJS({
               return;
           }
           if (keyCode === 18 || keyCode === 17) {
-            var location2 = e.location;
-            if (keyCode === 17 && location2 === 1) {
+            var location = e.location;
+            if (keyCode === 17 && location === 1) {
               if (pressedKeys[keyCode] == 1)
                 ts2 = e.timeStamp;
-            } else if (keyCode === 18 && hashId === 3 && location2 === 2) {
+            } else if (keyCode === 18 && hashId === 3 && location === 2) {
               var dt2 = e.timeStamp - ts2;
               if (dt2 < 50)
                 pressedKeys.altGr = true;
@@ -1988,7 +1988,7 @@ var require_ace = __commonJS({
       var isMobile = useragent.isMobile;
       var TextInput = (
         /** @class */
-        function() {
+        (function() {
           function TextInput2(parentNode, host) {
             var _this = this;
             this.host = host;
@@ -2658,7 +2658,7 @@ var require_ace = __commonJS({
               this.text.parentElement.removeChild(this.text);
           };
           return TextInput2;
-        }()
+        })()
       );
       exports2.TextInput = TextInput;
       exports2.$setUserAgentForTests = function(_isMobile, _isIOS) {
@@ -2673,7 +2673,7 @@ var require_ace = __commonJS({
       var SCROLL_COOLDOWN_T = 550;
       var DefaultHandlers = (
         /** @class */
-        function() {
+        (function() {
           function DefaultHandlers2(mouseHandler) {
             mouseHandler.$clickSelection = null;
             var editor = mouseHandler.editor;
@@ -2883,7 +2883,7 @@ var require_ace = __commonJS({
             }
           };
           return DefaultHandlers2;
-        }()
+        })()
       );
       DefaultHandlers.prototype.selectEnd = DefaultHandlers.prototype.selectByLinesEnd;
       DefaultHandlers.prototype.selectAllEnd = DefaultHandlers.prototype.selectByLinesEnd;
@@ -2917,7 +2917,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/tooltip", ["require", "exports", "module", "ace/lib/dom", "ace/lib/event", "ace/range", "ace/lib/scroll"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -2935,7 +2935,7 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var __values = this && this.__values || function(o) {
         var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
         if (m) return m.call(o);
@@ -2954,7 +2954,7 @@ var require_ace = __commonJS({
       var CLASSNAME = "ace_tooltip";
       var Tooltip = (
         /** @class */
-        function() {
+        (function() {
           function Tooltip2(parentNode) {
             this.isOpen = false;
             this.$element = null;
@@ -3016,11 +3016,11 @@ var require_ace = __commonJS({
             }
           };
           return Tooltip2;
-        }()
+        })()
       );
       var PopupManager = (
         /** @class */
-        function() {
+        (function() {
           function PopupManager2() {
             this.popups = [];
           }
@@ -3084,14 +3084,14 @@ var require_ace = __commonJS({
             return rectA.left < rectB.right && rectA.right > rectB.left && rectA.top < rectB.bottom && rectA.bottom > rectB.top;
           };
           return PopupManager2;
-        }()
+        })()
       );
       var popupManager = new PopupManager();
       exports2.popupManager = popupManager;
       exports2.Tooltip = Tooltip;
       var HoverTooltip = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(HoverTooltip2, _super);
           function HoverTooltip2(parentNode) {
             if (parentNode === void 0) {
@@ -3262,13 +3262,13 @@ var require_ace = __commonJS({
               this.hide();
           };
           return HoverTooltip2;
-        }(Tooltip)
+        })(Tooltip)
       );
       exports2.HoverTooltip = HoverTooltip;
     });
     ace.define("ace/mouse/default_gutter_handler", ["require", "exports", "module", "ace/lib/dom", "ace/lib/event", "ace/tooltip", "ace/config"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -3286,7 +3286,7 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var __values = this && this.__values || function(o) {
         var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
         if (m) return m.call(o);
@@ -3408,7 +3408,7 @@ var require_ace = __commonJS({
       exports2.GutterHandler = GutterHandler;
       var GutterTooltip = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(GutterTooltip2, _super);
           function GutterTooltip2(editor, isHover) {
             if (isHover === void 0) {
@@ -3613,7 +3613,7 @@ var require_ace = __commonJS({
             return summary.join(", ");
           };
           return GutterTooltip2;
-        }(Tooltip)
+        })(Tooltip)
       );
       GutterTooltip.$uid = 0;
       exports2.GutterTooltip = GutterTooltip;
@@ -3622,10 +3622,10 @@ var require_ace = __commonJS({
       "use strict";
       var event = require3("../lib/event");
       var useragent = require3("../lib/useragent");
-      var MouseEvent2 = (
+      var MouseEvent = (
         /** @class */
-        function() {
-          function MouseEvent3(domEvent, editor) {
+        (function() {
+          function MouseEvent2(domEvent, editor) {
             this.speed;
             this.wheelX;
             this.wheelY;
@@ -3638,31 +3638,31 @@ var require_ace = __commonJS({
             this.propagationStopped = false;
             this.defaultPrevented = false;
           }
-          MouseEvent3.prototype.stopPropagation = function() {
+          MouseEvent2.prototype.stopPropagation = function() {
             event.stopPropagation(this.domEvent);
             this.propagationStopped = true;
           };
-          MouseEvent3.prototype.preventDefault = function() {
+          MouseEvent2.prototype.preventDefault = function() {
             event.preventDefault(this.domEvent);
             this.defaultPrevented = true;
           };
-          MouseEvent3.prototype.stop = function() {
+          MouseEvent2.prototype.stop = function() {
             this.stopPropagation();
             this.preventDefault();
           };
-          MouseEvent3.prototype.getDocumentPosition = function() {
+          MouseEvent2.prototype.getDocumentPosition = function() {
             if (this.$pos)
               return this.$pos;
             this.$pos = this.editor.renderer.screenToTextCoordinates(this.clientX, this.clientY);
             return this.$pos;
           };
-          MouseEvent3.prototype.getGutterRow = function() {
+          MouseEvent2.prototype.getGutterRow = function() {
             var documentRow = this.getDocumentPosition().row;
             var screenRow = this.editor.session.documentToScreenRow(documentRow, 0);
             var screenTopRow = this.editor.session.documentToScreenRow(this.editor.renderer.$gutterLayer.$lines.get(0).row, 0);
             return screenRow - screenTopRow;
           };
-          MouseEvent3.prototype.inSelection = function() {
+          MouseEvent2.prototype.inSelection = function() {
             if (this.$inSelection !== null)
               return this.$inSelection;
             var editor = this.editor;
@@ -3675,19 +3675,19 @@ var require_ace = __commonJS({
             }
             return this.$inSelection;
           };
-          MouseEvent3.prototype.getButton = function() {
+          MouseEvent2.prototype.getButton = function() {
             return event.getButton(this.domEvent);
           };
-          MouseEvent3.prototype.getShiftKey = function() {
+          MouseEvent2.prototype.getShiftKey = function() {
             return this.domEvent.shiftKey;
           };
-          MouseEvent3.prototype.getAccelKey = function() {
+          MouseEvent2.prototype.getAccelKey = function() {
             return useragent.isMac ? this.domEvent.metaKey : this.domEvent.ctrlKey;
           };
-          return MouseEvent3;
-        }()
+          return MouseEvent2;
+        })()
       );
-      exports2.MouseEvent = MouseEvent2;
+      exports2.MouseEvent = MouseEvent;
     });
     ace.define("ace/mouse/dragdrop_handler", ["require", "exports", "module", "ace/lib/dom", "ace/lib/event", "ace/lib/useragent"], function(require3, exports2, module3) {
       "use strict";
@@ -4023,7 +4023,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/mouse/touch_handler", ["require", "exports", "module", "ace/mouse/mouse_event", "ace/lib/event", "ace/lib/dom"], function(require3, exports2, module3) {
       "use strict";
-      var MouseEvent2 = require3("./mouse_event").MouseEvent;
+      var MouseEvent = require3("./mouse_event").MouseEvent;
       var event = require3("../lib/event");
       var dom = require3("../lib/dom");
       exports2.addTouchListeners = function(el, editor) {
@@ -4189,7 +4189,7 @@ var require_ace = __commonJS({
           startX = e.clientX = x;
           startY = e.clientY = y2;
           vX = vY = 0;
-          var ev = new MouseEvent2(e, editor);
+          var ev = new MouseEvent(e, editor);
           pos = ev.getDocumentPosition();
           if (t - touchStartT < 500 && touches.length == 1 && !animationSteps) {
             clickCount++;
@@ -4273,7 +4273,7 @@ var require_ace = __commonJS({
           var dt2 = t - lastT;
           lastT = t;
           if (mode == "scroll") {
-            var mouseEvent = new MouseEvent2(e, editor);
+            var mouseEvent = new MouseEvent(e, editor);
             mouseEvent.speed = 1;
             mouseEvent.wheelX = wheelX;
             mouseEvent.wheelY = wheelY;
@@ -4290,7 +4290,7 @@ var require_ace = __commonJS({
               vX = vY = 0;
             }
           } else {
-            var ev = new MouseEvent2(e, editor);
+            var ev = new MouseEvent(e, editor);
             var pos2 = ev.getDocumentPosition();
             if (mode == "cursor")
               editor.selection.moveCursorToPosition(pos2);
@@ -4329,13 +4329,13 @@ var require_ace = __commonJS({
       var useragent = require3("../lib/useragent");
       var DefaultHandlers = require3("./default_handlers").DefaultHandlers;
       var DefaultGutterHandler = require3("./default_gutter_handler").GutterHandler;
-      var MouseEvent2 = require3("./mouse_event").MouseEvent;
+      var MouseEvent = require3("./mouse_event").MouseEvent;
       var DragdropHandler = require3("./dragdrop_handler").DragdropHandler;
       var addTouchListeners = require3("./touch_handler").addTouchListeners;
       var config = require3("../config");
       var MouseHandler = (
         /** @class */
-        function() {
+        (function() {
           function MouseHandler2(editor) {
             this.$dragDelay;
             this.$dragEnabled;
@@ -4400,16 +4400,16 @@ var require_ace = __commonJS({
           MouseHandler2.prototype.onMouseEvent = function(name, e) {
             if (!this.editor.session)
               return;
-            this.editor._emit(name, new MouseEvent2(e, this.editor));
+            this.editor._emit(name, new MouseEvent(e, this.editor));
           };
           MouseHandler2.prototype.onMouseMove = function(name, e) {
             var listeners = this.editor._eventRegistry && this.editor._eventRegistry.mousemove;
             if (!listeners || !listeners.length)
               return;
-            this.editor._emit(name, new MouseEvent2(e, this.editor));
+            this.editor._emit(name, new MouseEvent(e, this.editor));
           };
           MouseHandler2.prototype.onMouseWheel = function(name, e) {
-            var mouseEvent = new MouseEvent2(e, this.editor);
+            var mouseEvent = new MouseEvent(e, this.editor);
             mouseEvent.speed = this.$scrollSpeed * 2;
             mouseEvent.wheelX = e.wheelX;
             mouseEvent.wheelY = e.wheelY;
@@ -4435,7 +4435,7 @@ var require_ace = __commonJS({
               self2.x = e.clientX;
               self2.y = e.clientY;
               mouseMoveHandler && mouseMoveHandler(e);
-              self2.mouseEvent = new MouseEvent2(e, self2.editor);
+              self2.mouseEvent = new MouseEvent(e, self2.editor);
               self2.$mouseMoved = true;
             };
             var onCaptureEnd = function(e) {
@@ -4498,7 +4498,7 @@ var require_ace = __commonJS({
               this.releaseMouse();
           };
           return MouseHandler2;
-        }()
+        })()
       );
       MouseHandler.prototype.releaseMouse = null;
       config.defineOptions(MouseHandler.prototype, "mouseHandler", {
@@ -4515,7 +4515,7 @@ var require_ace = __commonJS({
       var dom = require3("../lib/dom");
       var FoldHandler = (
         /** @class */
-        /* @__PURE__ */ function() {
+        /* @__PURE__ */ (function() {
           function FoldHandler2(editor) {
             editor.on("click", function(e) {
               var position = e.getDocumentPosition();
@@ -4570,7 +4570,7 @@ var require_ace = __commonJS({
             });
           }
           return FoldHandler2;
-        }()
+        })()
       );
       exports2.FoldHandler = FoldHandler;
     });
@@ -4580,7 +4580,7 @@ var require_ace = __commonJS({
       var event = require3("../lib/event");
       var KeyBinding = (
         /** @class */
-        function() {
+        (function() {
           function KeyBinding2(editor) {
             this.$editor = editor;
             this.$data = { editor };
@@ -4674,7 +4674,7 @@ var require_ace = __commonJS({
             return this.$callKeyboardHandlers(-1, text);
           };
           return KeyBinding2;
-        }()
+        })()
       );
       exports2.KeyBinding = KeyBinding;
     });
@@ -5267,7 +5267,7 @@ var require_ace = __commonJS({
       var bidiRE = /[\u0590-\u05f4\u0600-\u06ff\u0700-\u08ac\u202B]/;
       var BidiHandler = (
         /** @class */
-        function() {
+        (function() {
           function BidiHandler2(session) {
             this.session = session;
             this.bidiMap = {};
@@ -5502,7 +5502,7 @@ var require_ace = __commonJS({
             return logicalIdx + this.wrapIndent;
           };
           return BidiHandler2;
-        }()
+        })()
       );
       exports2.BidiHandler = BidiHandler;
     });
@@ -5514,7 +5514,7 @@ var require_ace = __commonJS({
       var Range = require3("./range").Range;
       var Selection = (
         /** @class */
-        function() {
+        (function() {
           function Selection2(session) {
             this.session = session;
             this.doc = session.getDocument();
@@ -6052,7 +6052,7 @@ var require_ace = __commonJS({
             return true;
           };
           return Selection2;
-        }()
+        })()
       );
       Selection.prototype.setSelectionAnchor = Selection.prototype.setAnchor;
       Selection.prototype.getSelectionAnchor = Selection.prototype.getAnchor;
@@ -6066,7 +6066,7 @@ var require_ace = __commonJS({
       var MAX_TOKEN_COUNT = 2e3;
       var Tokenizer = (
         /** @class */
-        function() {
+        (function() {
           function Tokenizer2(rules) {
             this.splitRegex;
             this.states = rules;
@@ -6338,7 +6338,7 @@ var require_ace = __commonJS({
             };
           };
           return Tokenizer2;
-        }()
+        })()
       );
       Tokenizer.prototype.reportError = reportError;
       exports2.Tokenizer = Tokenizer;
@@ -6585,7 +6585,7 @@ var require_ace = __commonJS({
       var Range = require3("./range").Range;
       var TokenIterator = (
         /** @class */
-        function() {
+        (function() {
           function TokenIterator2(session, initialRow, initialColumn) {
             this.$session = session;
             this.$row = initialRow;
@@ -6650,7 +6650,7 @@ var require_ace = __commonJS({
             return new Range(this.$row, column, this.$row, column + token.value.length);
           };
           return TokenIterator2;
-        }()
+        })()
       );
       exports2.TokenIterator = TokenIterator;
     });
@@ -7406,7 +7406,7 @@ var require_ace = __commonJS({
       var dom = require3("./lib/dom");
       var LineWidgets = (
         /** @class */
-        function() {
+        (function() {
           function LineWidgets2(session) {
             this.session = session;
             this.session.widgetManager = this;
@@ -7732,7 +7732,7 @@ var require_ace = __commonJS({
             }
           };
           return LineWidgets2;
-        }()
+        })()
       );
       exports2.LineWidgets = LineWidgets;
     });
@@ -7797,7 +7797,7 @@ var require_ace = __commonJS({
       var EventEmitter = require3("./lib/event_emitter").EventEmitter;
       var Anchor = (
         /** @class */
-        function() {
+        (function() {
           function Anchor2(doc, row, column) {
             this.$onChange = this.onChange.bind(this);
             this.attach(doc);
@@ -7867,7 +7867,7 @@ var require_ace = __commonJS({
             return pos;
           };
           return Anchor2;
-        }()
+        })()
       );
       Anchor.prototype.$insertRight = false;
       oop.implement(Anchor.prototype, EventEmitter);
@@ -7909,7 +7909,7 @@ var require_ace = __commonJS({
       var Anchor = require3("./anchor").Anchor;
       var Document = (
         /** @class */
-        function() {
+        (function() {
           function Document2(textOrLines) {
             this.$lines = [""];
             if (textOrLines.length === 0) {
@@ -8221,7 +8221,7 @@ var require_ace = __commonJS({
             return text.split(/\r\n|\r|\n/);
           };
           return Document2;
-        }()
+        })()
       );
       Document.prototype.$autoNewLine = "";
       Document.prototype.$newLineMode = "auto";
@@ -8234,7 +8234,7 @@ var require_ace = __commonJS({
       var EventEmitter = require3("./lib/event_emitter").EventEmitter;
       var BackgroundTokenizer = (
         /** @class */
-        function() {
+        (function() {
           function BackgroundTokenizer2(tokenizer, session) {
             this.running = false;
             this.lines = [];
@@ -8357,7 +8357,7 @@ var require_ace = __commonJS({
             this.removeAllListeners();
           };
           return BackgroundTokenizer2;
-        }()
+        })()
       );
       oop.implement(BackgroundTokenizer.prototype, EventEmitter);
       exports2.BackgroundTokenizer = BackgroundTokenizer;
@@ -8368,7 +8368,7 @@ var require_ace = __commonJS({
       var Range = require3("./range").Range;
       var SearchHighlight = (
         /** @class */
-        function() {
+        (function() {
           function SearchHighlight2(regExp, clazz, type) {
             if (type === void 0) {
               type = "text";
@@ -8430,7 +8430,7 @@ var require_ace = __commonJS({
             this.docLen = session.getValue().length;
           };
           return SearchHighlight2;
-        }()
+        })()
       );
       SearchHighlight.prototype.MAX_RANGES = 500;
       exports2.SearchHighlight = SearchHighlight;
@@ -8439,7 +8439,7 @@ var require_ace = __commonJS({
       "use strict";
       var UndoManager = (
         /** @class */
-        function() {
+        (function() {
           function UndoManager2() {
             this.$keepRedoStack;
             this.$maxRev = 0;
@@ -8622,7 +8622,7 @@ var require_ace = __commonJS({
             return stringifyDelta(this.$undoStack) + "\n---\n" + stringifyDelta(this.$redoStack);
           };
           return UndoManager2;
-        }()
+        })()
       );
       UndoManager.prototype.hasUndo = UndoManager.prototype.canUndo;
       UndoManager.prototype.hasRedo = UndoManager.prototype.canRedo;
@@ -8896,7 +8896,7 @@ var require_ace = __commonJS({
       var Range = require3("../range").Range;
       var FoldLine = (
         /** @class */
-        function() {
+        (function() {
           function FoldLine2(foldData, folds) {
             this.foldData = foldData;
             if (Array.isArray(folds)) {
@@ -9073,7 +9073,7 @@ var require_ace = __commonJS({
             };
           };
           return FoldLine2;
-        }()
+        })()
       );
       exports2.FoldLine = FoldLine;
     });
@@ -9083,7 +9083,7 @@ var require_ace = __commonJS({
       var comparePoints = Range.comparePoints;
       var RangeList = (
         /** @class */
-        function() {
+        (function() {
           function RangeList2() {
             this.ranges = [];
             this.$bias = 1;
@@ -9285,14 +9285,14 @@ var require_ace = __commonJS({
             }
           };
           return RangeList2;
-        }()
+        })()
       );
       RangeList.prototype.comparePoints = comparePoints;
       exports2.RangeList = RangeList;
     });
     ace.define("ace/edit_session/fold", ["require", "exports", "module", "ace/range_list"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -9310,11 +9310,11 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var RangeList = require3("../range_list").RangeList;
       var Fold = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(Fold2, _super);
           function Fold2(range, placeholder) {
             var _this = _super.call(this) || this;
@@ -9383,7 +9383,7 @@ var require_ace = __commonJS({
             return restoreRange(range, this.start);
           };
           return Fold2;
-        }(RangeList)
+        })(RangeList)
       );
       function consumePoint(point, anchor) {
         point.row -= anchor.row;
@@ -9411,7 +9411,7 @@ var require_ace = __commonJS({
       var FoldLine = require3("./fold_line").FoldLine;
       var Fold = require3("./fold").Fold;
       var TokenIterator = require3("../token_iterator").TokenIterator;
-      var MouseEvent2 = require3("../mouse/mouse_event").MouseEvent;
+      var MouseEvent = require3("../mouse/mouse_event").MouseEvent;
       function Folding() {
         this.getFoldAt = function(row, column, side) {
           var foldLine = this.getFoldLine(row);
@@ -9697,24 +9697,24 @@ var require_ace = __commonJS({
             this.expandFold(fold);
           }, this);
         };
-        this.unfold = function(location2, expandInner) {
+        this.unfold = function(location, expandInner) {
           var range, folds;
-          if (location2 == null) {
+          if (location == null) {
             range = new Range(0, 0, this.getLength(), 0);
             if (expandInner == null)
               expandInner = true;
-          } else if (typeof location2 == "number") {
-            range = new Range(location2, 0, location2, this.getLine(location2).length);
-          } else if ("row" in location2) {
-            range = Range.fromPoints(location2, location2);
-          } else if (Array.isArray(location2)) {
+          } else if (typeof location == "number") {
+            range = new Range(location, 0, location, this.getLine(location).length);
+          } else if ("row" in location) {
+            range = Range.fromPoints(location, location);
+          } else if (Array.isArray(location)) {
             folds = [];
-            location2.forEach(function(range2) {
+            location.forEach(function(range2) {
               folds = folds.concat(this.unfold(range2));
             }, this);
             return folds;
           } else {
-            range = location2;
+            range = location;
           }
           folds = this.getFoldsInRangeList(range);
           var outermostFolds = folds;
@@ -9990,7 +9990,7 @@ var require_ace = __commonJS({
           };
         };
         this.onFoldWidgetClick = function(row, e) {
-          if (e instanceof MouseEvent2)
+          if (e instanceof MouseEvent)
             e = e.domEvent;
           var options = {
             children: e.shiftKey,
@@ -10437,7 +10437,7 @@ var require_ace = __commonJS({
       var UndoManager = require3("./undomanager").UndoManager;
       var EditSession = (
         /** @class */
-        function() {
+        (function() {
           function EditSession2(text, mode) {
             this.doc;
             this.$breakpoints = [];
@@ -10948,32 +10948,32 @@ var require_ace = __commonJS({
               if (mode.getTokenizer)
                 return this.$onChangeMode(mode);
               var options = mode;
-              var path2 = options.path;
+              var path = options.path;
             } else {
-              path2 = /**@type{string}*/
+              path = /**@type{string}*/
               mode || "ace/mode/text";
             }
             if (!this.$modes["ace/mode/text"])
               this.$modes["ace/mode/text"] = new TextMode();
-            if (this.$modes[path2] && !options) {
-              this.$onChangeMode(this.$modes[path2]);
+            if (this.$modes[path] && !options) {
+              this.$onChangeMode(this.$modes[path]);
               cb && cb();
               return;
             }
-            this.$modeId = path2;
-            config.loadModule(["mode", path2], function(m) {
+            this.$modeId = path;
+            config.loadModule(["mode", path], function(m) {
               if (this.destroyed) {
                 return;
               }
-              if (this.$modeId !== path2)
+              if (this.$modeId !== path)
                 return cb && cb();
-              if (this.$modes[path2] && !options) {
-                this.$onChangeMode(this.$modes[path2]);
+              if (this.$modes[path] && !options) {
+                this.$onChangeMode(this.$modes[path]);
               } else if (m && m.Mode) {
                 m = new m.Mode(options);
                 if (!options) {
-                  this.$modes[path2] = m;
-                  m.$id = path2;
+                  this.$modes[path] = m;
+                  m.$id = path;
                 }
                 this.$onChangeMode(m);
               }
@@ -11964,7 +11964,7 @@ var require_ace = __commonJS({
             this.selection.detach();
           };
           return EditSession2;
-        }()
+        })()
       );
       EditSession.$uid = 0;
       EditSession.prototype.$modes = config.$modes;
@@ -12137,7 +12137,7 @@ var require_ace = __commonJS({
       var Range = require3("./range").Range;
       var Search = (
         /** @class */
-        function() {
+        (function() {
           function Search2() {
             this.$options = {};
           }
@@ -12553,7 +12553,7 @@ var require_ace = __commonJS({
             return { forEach };
           };
           return Search2;
-        }()
+        })()
       );
       function addWordBoundary(needle, options) {
         var supportsLookbehind = lang.supportsLookbehind();
@@ -12602,7 +12602,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/keyboard/hash_handler", ["require", "exports", "module", "ace/lib/keys", "ace/lib/useragent"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -12620,13 +12620,13 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var keyUtil = require3("../lib/keys");
       var useragent = require3("../lib/useragent");
       var KEY_MODS = keyUtil.KEY_MODS;
       var MultiHashHandler = (
         /** @class */
-        function() {
+        (function() {
           function MultiHashHandler2(config, platform) {
             this.$init(config, platform, false);
           }
@@ -12802,14 +12802,14 @@ var require_ace = __commonJS({
             return data.$keyChain || "";
           };
           return MultiHashHandler2;
-        }()
+        })()
       );
       function getPosition(command) {
         return typeof command == "object" && command.bindKey && command.bindKey.position || (command.isDefault ? -100 : 0);
       }
       var HashHandler = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(HashHandler2, _super);
           function HashHandler2(config, platform) {
             var _this = _super.call(this, config, platform) || this;
@@ -12817,7 +12817,7 @@ var require_ace = __commonJS({
             return _this;
           }
           return HashHandler2;
-        }(MultiHashHandler)
+        })(MultiHashHandler)
       );
       HashHandler.call = function(thisArg, config, platform) {
         MultiHashHandler.prototype.$init.call(thisArg, config, platform, true);
@@ -12830,7 +12830,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/commands/command_manager", ["require", "exports", "module", "ace/lib/oop", "ace/keyboard/hash_handler", "ace/lib/event_emitter"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -12848,13 +12848,13 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var oop = require3("../lib/oop");
       var MultiHashHandler = require3("../keyboard/hash_handler").MultiHashHandler;
       var EventEmitter = require3("../lib/event_emitter").EventEmitter;
       var CommandManager = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(CommandManager2, _super);
           function CommandManager2(platform, commands) {
             var _this = _super.call(this, commands, platform) || this;
@@ -12945,7 +12945,7 @@ var require_ace = __commonJS({
             });
           };
           return CommandManager2;
-        }(MultiHashHandler)
+        })(MultiHashHandler)
       );
       oop.implement(CommandManager.prototype, EventEmitter);
       exports2.CommandManager = CommandManager;
@@ -14081,7 +14081,7 @@ var require_ace = __commonJS({
       var GutterTooltip = require3("../mouse/default_gutter_handler").GutterTooltip;
       var GutterKeyboardHandler = (
         /** @class */
-        function() {
+        (function() {
           function GutterKeyboardHandler2(editor) {
             this.editor = editor;
             this.gutterLayer = editor.renderer.$gutterLayer;
@@ -14473,12 +14473,12 @@ var require_ace = __commonJS({
             return null;
           };
           return GutterKeyboardHandler2;
-        }()
+        })()
       );
       exports2.GutterKeyboardHandler = GutterKeyboardHandler;
       var GutterKeyboardEvent = (
         /** @class */
-        function() {
+        (function() {
           function GutterKeyboardEvent2(domEvent, gutterKeyboardHandler) {
             this.gutterKeyboardHandler = gutterKeyboardHandler;
             this.domEvent = domEvent;
@@ -14496,7 +14496,7 @@ var require_ace = __commonJS({
             return this.gutterKeyboardHandler.activeLane === "fold";
           };
           return GutterKeyboardEvent2;
-        }()
+        })()
       );
       exports2.GutterKeyboardEvent = GutterKeyboardEvent;
     });
@@ -14537,7 +14537,7 @@ var require_ace = __commonJS({
       var HoverTooltip = require3("./tooltip").HoverTooltip;
       var Editor = (
         /** @class */
-        function() {
+        (function() {
           function Editor2(renderer, session, options) {
             this.id = "editor" + ++Editor2.$uid;
             this.session;
@@ -16196,7 +16196,7 @@ var require_ace = __commonJS({
             });
           };
           return Editor2;
-        }()
+        })()
       );
       Editor.$uid = 0;
       Editor.prototype.curOp = null;
@@ -16556,7 +16556,7 @@ var require_ace = __commonJS({
       var dom = require3("../lib/dom");
       var Lines = (
         /** @class */
-        function() {
+        (function() {
           function Lines2(element, canvasHeight) {
             this.element = element;
             this.canvasHeight = canvasHeight || 5e5;
@@ -16650,7 +16650,7 @@ var require_ace = __commonJS({
             return cell;
           };
           return Lines2;
-        }()
+        })()
       );
       exports2.Lines = Lines;
     });
@@ -16664,7 +16664,7 @@ var require_ace = __commonJS({
       var nls = require3("../config").nls;
       var Gutter = (
         /** @class */
-        function() {
+        (function() {
           function Gutter2(parentEl) {
             this.element = dom.createElement("div");
             this.element.className = "ace_layer ace_gutter-layer";
@@ -17177,7 +17177,7 @@ var require_ace = __commonJS({
               return "foldWidgets";
           };
           return Gutter2;
-        }()
+        })()
       );
       Gutter.prototype.$fixedWidth = false;
       Gutter.prototype.$highlightGutterLine = true;
@@ -17204,7 +17204,7 @@ var require_ace = __commonJS({
       var dom = require3("../lib/dom");
       var Marker = (
         /** @class */
-        function() {
+        (function() {
           function Marker2(parentEl) {
             this.element = dom.createElement("div");
             this.element.className = "ace_layer ace_marker-layer";
@@ -17351,7 +17351,7 @@ var require_ace = __commonJS({
             this.elt(clazz, "height:" + height + "px;top:" + top + "px;left:0;right:0;" + (extraStyle || ""));
           };
           return Marker2;
-        }()
+        })()
       );
       Marker.prototype.$padding = 0;
       function getBorderClass(tl, tr3, br2, bl2) {
@@ -17376,7 +17376,7 @@ var require_ace = __commonJS({
       var isTextToken = require3("./text_util").isTextToken;
       var Text = (
         /** @class */
-        function() {
+        (function() {
           function Text2(parentEl) {
             this.dom = dom;
             this.element = this.dom.createElement("div");
@@ -17962,7 +17962,7 @@ var require_ace = __commonJS({
             return this.session.getUseWrapMode();
           };
           return Text2;
-        }()
+        })()
       );
       Text.prototype.EOF_CHAR = "\xB6";
       Text.prototype.EOL_CHAR_LF = "\xAC";
@@ -17989,7 +17989,7 @@ var require_ace = __commonJS({
       var dom = require3("../lib/dom");
       var Cursor = (
         /** @class */
-        function() {
+        (function() {
           function Cursor2(parentEl) {
             this.element = dom.createElement("div");
             this.element.className = "ace_layer ace_cursor-layer";
@@ -18174,7 +18174,7 @@ var require_ace = __commonJS({
             clearTimeout(this.timeoutId);
           };
           return Cursor2;
-        }()
+        })()
       );
       Cursor.prototype.$padding = 0;
       Cursor.prototype.drawCursor = null;
@@ -18182,7 +18182,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/scrollbar", ["require", "exports", "module", "ace/lib/oop", "ace/lib/dom", "ace/lib/event", "ace/lib/event_emitter"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -18200,7 +18200,7 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var oop = require3("./lib/oop");
       var dom = require3("./lib/dom");
       var event = require3("./lib/event");
@@ -18208,7 +18208,7 @@ var require_ace = __commonJS({
       var MAX_SCROLL_H = 32768;
       var Scrollbar = (
         /** @class */
-        function() {
+        (function() {
           function Scrollbar2(parent, classSuffix) {
             this.element = dom.createElement("div");
             this.element.className = "ace_scrollbar ace_scrollbar" + classSuffix;
@@ -18228,12 +18228,12 @@ var require_ace = __commonJS({
             this.coeff = 1;
           };
           return Scrollbar2;
-        }()
+        })()
       );
       oop.implement(Scrollbar.prototype, EventEmitter);
       var VScrollBar = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(VScrollBar2, _super);
           function VScrollBar2(parent, renderer) {
             var _this = _super.call(this, parent, "-v") || this;
@@ -18279,12 +18279,12 @@ var require_ace = __commonJS({
             }
           };
           return VScrollBar2;
-        }(Scrollbar)
+        })(Scrollbar)
       );
       VScrollBar.prototype.setInnerHeight = VScrollBar.prototype.setScrollHeight;
       var HScrollBar = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(HScrollBar2, _super);
           function HScrollBar2(parent, renderer) {
             var _this = _super.call(this, parent, "-h") || this;
@@ -18319,7 +18319,7 @@ var require_ace = __commonJS({
             }
           };
           return HScrollBar2;
-        }(Scrollbar)
+        })(Scrollbar)
       );
       exports2.ScrollBar = VScrollBar;
       exports2.ScrollBarV = VScrollBar;
@@ -18329,7 +18329,7 @@ var require_ace = __commonJS({
     });
     ace.define("ace/scrollbar_custom", ["require", "exports", "module", "ace/lib/oop", "ace/lib/dom", "ace/lib/event", "ace/lib/event_emitter"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -18347,7 +18347,7 @@ var require_ace = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var oop = require3("./lib/oop");
       var dom = require3("./lib/dom");
       var event = require3("./lib/event");
@@ -18355,7 +18355,7 @@ var require_ace = __commonJS({
       dom.importCssString(".ace_editor>.ace_sb-v div, .ace_editor>.ace_sb-h div{\n  position: absolute;\n  background: rgba(128, 128, 128, 0.6);\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n  border: 1px solid #bbb;\n  border-radius: 2px;\n  z-index: 8;\n}\n.ace_editor>.ace_sb-v, .ace_editor>.ace_sb-h {\n  position: absolute;\n  z-index: 6;\n  background: none;\n  overflow: hidden!important;\n}\n.ace_editor>.ace_sb-v {\n  z-index: 6;\n  right: 0;\n  top: 0;\n  width: 12px;\n}\n.ace_editor>.ace_sb-v div {\n  z-index: 8;\n  right: 0;\n  width: 100%;\n}\n.ace_editor>.ace_sb-h {\n  bottom: 0;\n  left: 0;\n  height: 12px;\n}\n.ace_editor>.ace_sb-h div {\n  bottom: 0;\n  height: 100%;\n}\n.ace_editor>.ace_sb_grabbed {\n  z-index: 8;\n  background: #000;\n}", "ace_scrollbar.css", false);
       var ScrollBar = (
         /** @class */
-        function() {
+        (function() {
           function ScrollBar2(parent, classSuffix) {
             this.element = dom.createElement("div");
             this.element.className = "ace_sb" + classSuffix;
@@ -18375,12 +18375,12 @@ var require_ace = __commonJS({
             this.coeff = 1;
           };
           return ScrollBar2;
-        }()
+        })()
       );
       oop.implement(ScrollBar.prototype, EventEmitter);
       var VScrollBar = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(VScrollBar2, _super);
           function VScrollBar2(parent, renderer) {
             var _this = _super.call(this, parent, "-v") || this;
@@ -18473,12 +18473,12 @@ var require_ace = __commonJS({
             this.inner.style.top = this.thumbTop + "px";
           };
           return VScrollBar2;
-        }(ScrollBar)
+        })(ScrollBar)
       );
       VScrollBar.prototype.setInnerHeight = VScrollBar.prototype.setScrollHeight;
       var HScrollBar = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(HScrollBar2, _super);
           function HScrollBar2(parent, renderer) {
             var _this = _super.call(this, parent, "-h") || this;
@@ -18567,7 +18567,7 @@ var require_ace = __commonJS({
             this.inner.style.left = this.thumbLeft + "px";
           };
           return HScrollBar2;
-        }(ScrollBar)
+        })(ScrollBar)
       );
       HScrollBar.prototype.setInnerWidth = HScrollBar.prototype.setScrollWidth;
       exports2.ScrollBar = VScrollBar;
@@ -18581,7 +18581,7 @@ var require_ace = __commonJS({
       var event = require3("./lib/event");
       var RenderLoop = (
         /** @class */
-        function() {
+        (function() {
           function RenderLoop2(onRender, win) {
             this.onRender = onRender;
             this.pending = false;
@@ -18619,7 +18619,7 @@ var require_ace = __commonJS({
             return changes;
           };
           return RenderLoop2;
-        }()
+        })()
       );
       exports2.RenderLoop = RenderLoop;
     });
@@ -18635,7 +18635,7 @@ var require_ace = __commonJS({
       var L3 = 200;
       var FontMetrics = (
         /** @class */
-        function() {
+        (function() {
           function FontMetrics2(parentEl) {
             this.el = dom.createElement("div");
             this.$setMeasureNodeStyles(this.el.style, true);
@@ -18789,7 +18789,7 @@ var require_ace = __commonJS({
             return mul(L3, f);
           };
           return FontMetrics2;
-        }()
+        })()
       );
       FontMetrics.prototype.$characterSize = { width: 0, height: 0 };
       oop.implement(FontMetrics.prototype, EventEmitter);
@@ -19501,7 +19501,7 @@ var require_ace = __commonJS({
       var EventEmitter = require3("../lib/event_emitter").EventEmitter;
       var Decorator = (
         /** @class */
-        function() {
+        (function() {
           function Decorator2(scrollbarV, renderer) {
             this.renderer = renderer;
             this.pixelRatio = 1;
@@ -19619,7 +19619,7 @@ var require_ace = __commonJS({
             this.canvas.parentNode.removeChild(this.canvas);
           };
           return Decorator2;
-        }()
+        })()
       );
       oop.implement(Decorator.prototype, EventEmitter);
       exports2.Decorator = Decorator;
@@ -19648,7 +19648,7 @@ var require_ace = __commonJS({
       dom.importCssString(editorCss, "ace_editor.css", false);
       var VirtualRenderer = (
         /** @class */
-        function() {
+        (function() {
           function VirtualRenderer2(container, theme) {
             var _self = this;
             this.container = container || dom.createElement("div");
@@ -20922,7 +20922,7 @@ var require_ace = __commonJS({
             this.$resizeObserver.observe(this.container);
           };
           return VirtualRenderer2;
-        }()
+        })()
       );
       VirtualRenderer.prototype.CHANGE_CURSOR = 1;
       VirtualRenderer.prototype.CHANGE_MARKER = 2;
@@ -21219,8 +21219,8 @@ var require_ace = __commonJS({
         this.reportError = function(err) {
           window.console && console.error && console.error(err);
         };
-        this.$normalizePath = function(path2) {
-          return net.qualifyURL(path2);
+        this.$normalizePath = function(path) {
+          return net.qualifyURL(path);
         };
         this.terminate = function() {
           this._signal("terminate", {});
@@ -21336,7 +21336,7 @@ var require_ace = __commonJS({
       var oop = require3("./lib/oop");
       var PlaceHolder = (
         /** @class */
-        function() {
+        (function() {
           function PlaceHolder2(session, length, pos, others, mainClass, othersClass) {
             var _self = this;
             this.length = length;
@@ -21481,7 +21481,7 @@ var require_ace = __commonJS({
               this.session.selection.fromJSON(this.selectionBefore);
           };
           return PlaceHolder2;
-        }()
+        })()
       );
       oop.implement(PlaceHolder.prototype, EventEmitter);
       exports2.PlaceHolder = PlaceHolder;
@@ -22710,18 +22710,18 @@ var require_ace = __commonJS({
           a.config.init(true);
           a.define = ace.define;
         }
-        var global2 = /* @__PURE__ */ function() {
+        var global = /* @__PURE__ */ (function() {
           return this;
-        }();
-        if (!global2 && typeof window != "undefined") global2 = window;
-        if (!global2 && typeof self != "undefined") global2 = self;
-        if (!global2.ace)
-          global2.ace = a;
+        })();
+        if (!global && typeof window != "undefined") global = window;
+        if (!global && typeof self != "undefined") global = self;
+        if (!global.ace)
+          global.ace = a;
         for (var key in a) if (a.hasOwnProperty(key))
-          global2.ace[key] = a[key];
-        global2.ace["default"] = global2.ace;
+          global.ace[key] = a[key];
+        global.ace["default"] = global.ace;
         if (typeof module2 == "object" && typeof exports == "object" && module2) {
-          module2.exports = global2.ace;
+          module2.exports = global.ace;
         }
       });
     })();
@@ -23430,7 +23430,7 @@ var require_ext_command_bar = __commonJS({
       };
       var CommandBarTooltip = (
         /** @class */
-        function() {
+        (function() {
           function CommandBarTooltip2(parentNode, options) {
             var e_1, _a2;
             options = options || {};
@@ -23815,7 +23815,7 @@ var require_ext_command_bar = __commonJS({
             }
           };
           return CommandBarTooltip2;
-        }()
+        })()
       );
       oop.implement(CommandBarTooltip.prototype, EventEmitter);
       dom.importCssString("\n.ace_tooltip.".concat(TOOLTIP_CLASS_NAME, "_wrapper {\n    padding: 0;\n}\n\n.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, " {\n    padding: 1px 5px;\n    display: flex;\n    pointer-events: auto;\n}\n\n.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options {\n    padding: 1px;\n    flex-direction: column;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, " {\n    display: inline-flex;\n    cursor: pointer;\n    margin: 1px;\n    border-radius: 2px;\n    padding: 2px 5px;\n    align-items: center;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_selected,\ndiv.").concat(BUTTON_CLASS_NAME, ":hover:not(.ace_disabled) {\n    background-color: rgba(0, 0, 0, 0.1);\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #777;\n    pointer-events: none;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, " .ace_icon_svg {\n    height: 12px;\n    background-color: #000;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_disabled .ace_icon_svg {\n    background-color: #777;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(BUTTON_CLASS_NAME, " {\n    display: flex;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".").concat(VALUE_CLASS_NAME, " {\n    display: none;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(VALUE_CLASS_NAME, " {\n    display: inline-block;\n    width: 12px;\n}\n\n.").concat(CAPTION_CLASS_NAME, " {\n    display: inline-block;\n}\n\n.").concat(KEYBINDING_CLASS_NAME, " {\n    margin: 0 2px;\n    display: inline-block;\n    font-size: 8px;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(KEYBINDING_CLASS_NAME, " {\n    margin-left: auto;\n}\n\n.").concat(KEYBINDING_CLASS_NAME, " div {\n    display: inline-block;\n    min-width: 8px;\n    padding: 2px;\n    margin: 0 1px;\n    border-radius: 2px;\n    background-color: #ccc;\n    text-align: center;\n}\n\n.ace_dark.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, " {\n    background-color: #373737;\n    color: #eee;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #979797;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_selected,\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ":hover:not(.ace_disabled) {\n    background-color: rgba(255, 255, 255, 0.1);\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, " .ace_icon_svg {\n    background-color: #eee;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_disabled .ace_icon_svg {\n    background-color: #979797;\n}\n\n.ace_dark .").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #979797;\n}\n\n.ace_dark .").concat(KEYBINDING_CLASS_NAME, " div {\n    background-color: #575757;\n}\n\n.ace_checkmark::before {\n    content: '\u2713';\n}\n"), "commandbar.css", false);
@@ -23840,7 +23840,7 @@ var require_ext_elastic_tabstops_lite = __commonJS({
       "use strict";
       var ElasticTabstopsLite = (
         /** @class */
-        function() {
+        (function() {
           function ElasticTabstopsLite2(editor) {
             this.$editor = editor;
             var self2 = this;
@@ -23982,13 +23982,13 @@ var require_ext_elastic_tabstops_lite = __commonJS({
             var rowTabs = this.$tabsForRow(row);
             if (rowTabs.length == 0)
               return;
-            var bias = 0, location2 = -1;
+            var bias = 0, location = -1;
             var expandedSet = this.$izip(widths, rowTabs);
             for (var i = 0, l = expandedSet.length; i < l; i++) {
               var w2 = expandedSet[i][0], it3 = expandedSet[i][1];
-              location2 += 1 + w2;
+              location += 1 + w2;
               it3 += bias;
-              var difference = location2 - it3;
+              var difference = location - it3;
               if (difference == 0)
                 continue;
               var partialLine = this.$editor.session.getLine(row).substr(0, it3);
@@ -24038,7 +24038,7 @@ var require_ext_elastic_tabstops_lite = __commonJS({
             return expandedSet;
           };
           return ElasticTabstopsLite2;
-        }()
+        })()
       );
       exports2.ElasticTabstopsLite = ElasticTabstopsLite;
       var Editor = require3("../editor").Editor;
@@ -24297,7 +24297,7 @@ var require_ext_inline_autocomplete = __commonJS({
       }
       var SnippetManager = (
         /** @class */
-        function() {
+        (function() {
           function SnippetManager2() {
             this.snippetMap = {};
             this.snippetNameMap = {};
@@ -24785,7 +24785,7 @@ var require_ext_inline_autocomplete = __commonJS({
             return snippet;
           };
           return SnippetManager2;
-        }()
+        })()
       );
       oop.implement(SnippetManager.prototype, EventEmitter);
       var processSnippetText = function(editor, snippetText, options) {
@@ -24908,7 +24908,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var TabstopManager = (
         /** @class */
-        function() {
+        (function() {
           function TabstopManager2(editor) {
             this.index = 0;
             this.ranges = [];
@@ -25153,7 +25153,7 @@ var require_ext_inline_autocomplete = __commonJS({
             }
           };
           return TabstopManager2;
-        }()
+        })()
       );
       TabstopManager.prototype.keyboardHandler = new HashHandler();
       TabstopManager.prototype.keyboardHandler.bindKeys({
@@ -25197,7 +25197,7 @@ var require_ext_inline_autocomplete = __commonJS({
       "use strict";
       var AceInlineScreenReader = (
         /** @class */
-        function() {
+        (function() {
           function AceInlineScreenReader2(editor) {
             this.editor = editor;
             this.screenReaderDiv = document.createElement("div");
@@ -25245,7 +25245,7 @@ var require_ext_inline_autocomplete = __commonJS({
             return container;
           };
           return AceInlineScreenReader2;
-        }()
+        })()
       );
       exports2.AceInlineScreenReader = AceInlineScreenReader;
     });
@@ -25255,7 +25255,7 @@ var require_ext_inline_autocomplete = __commonJS({
       var AceInlineScreenReader = require3("./inline_screenreader").AceInlineScreenReader;
       var AceInline = (
         /** @class */
-        function() {
+        (function() {
           function AceInline2() {
             this.editor = null;
           }
@@ -25308,7 +25308,7 @@ var require_ext_inline_autocomplete = __commonJS({
             }
           };
           return AceInline2;
-        }()
+        })()
       );
       exports2.AceInline = AceInline;
     });
@@ -25342,7 +25342,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var AcePopup = (
         /** @class */
-        /* @__PURE__ */ function() {
+        /* @__PURE__ */ (function() {
           function AcePopup2(parentNode) {
             var el = dom.createElement("div");
             var popup = $singleLineEditor(el);
@@ -25672,7 +25672,7 @@ var require_ext_inline_autocomplete = __commonJS({
             return popup;
           }
           return AcePopup2;
-        }()
+        })()
       );
       dom.importCssString('\n.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #CAD6FA;\n    z-index: 1;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #3a674e;\n}\n.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid #abbffe;\n    margin-top: -1px;\n    background: rgba(233,233,253,0.4);\n    position: absolute;\n    z-index: 2;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid rgba(109, 150, 13, 0.8);\n    background: rgba(58, 103, 78, 0.62);\n}\n.ace_completion-meta {\n    opacity: 0.5;\n    margin-left: 0.9em;\n}\n.ace_completion-message {\n    margin-left: 0.9em;\n    color: blue;\n}\n.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #2d69c7;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #93ca12;\n}\n.ace_editor.ace_autocomplete {\n    width: 300px;\n    z-index: 200000;\n    border: 1px lightgray solid;\n    position: fixed;\n    box-shadow: 2px 3px 5px rgba(0,0,0,.2);\n    line-height: 1.4;\n    background: #fefefe;\n    color: #111;\n}\n.ace_dark.ace_editor.ace_autocomplete {\n    border: 1px #484747 solid;\n    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.51);\n    line-height: 1.4;\n    background: #25282c;\n    color: #c1c1c1;\n}\n.ace_autocomplete .ace_text-layer  {\n    width: calc(100% - 8px);\n}\n.ace_autocomplete .ace_line {\n    display: flex;\n    align-items: center;\n}\n.ace_autocomplete .ace_line > * {\n    min-width: 0;\n    flex: 0 0 auto;\n}\n.ace_autocomplete .ace_line .ace_ {\n    flex: 0 1 auto;\n    overflow: hidden;\n    text-overflow: ellipsis;\n}\n.ace_autocomplete .ace_completion-spacer {\n    flex: 1;\n}\n.ace_autocomplete.ace_loading:after  {\n    content: "";\n    position: absolute;\n    top: 0px;\n    height: 2px;\n    width: 8%;\n    background: blue;\n    z-index: 100;\n    animation: ace_progress 3s infinite linear;\n    animation-delay: 300ms;\n    transform: translateX(-100%) scaleX(1);\n}\n@keyframes ace_progress {\n    0% { transform: translateX(-100%) scaleX(1) }\n    50% { transform: translateX(625%) scaleX(2) } \n    100% { transform: translateX(1500%) scaleX(3) } \n}\n@media (prefers-reduced-motion) {\n    .ace_autocomplete.ace_loading:after {\n        transform: translateX(625%) scaleX(2);\n        animation: none;\n     }\n}\n', "autocompletion.css", false);
       exports2.AcePopup = AcePopup;
@@ -25758,7 +25758,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var Autocomplete = (
         /** @class */
-        function() {
+        (function() {
           function Autocomplete2() {
             this.autoInsert = false;
             this.autoSelect = true;
@@ -26313,7 +26313,7 @@ var require_ext_inline_autocomplete = __commonJS({
             return editor.completer;
           };
           return Autocomplete2;
-        }()
+        })()
       );
       Autocomplete.prototype.commands = {
         "Up": function(editor) {
@@ -26371,7 +26371,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var CompletionProvider = (
         /** @class */
-        function() {
+        (function() {
           function CompletionProvider2(initialPosition) {
             this.initialPosition = initialPosition;
             this.active = true;
@@ -26502,11 +26502,11 @@ var require_ext_inline_autocomplete = __commonJS({
             });
           };
           return CompletionProvider2;
-        }()
+        })()
       );
       var FilteredList = (
         /** @class */
-        function() {
+        (function() {
           function FilteredList2(array, filterText) {
             this.all = array;
             this.filtered = array;
@@ -26584,7 +26584,7 @@ var require_ext_inline_autocomplete = __commonJS({
             return results;
           };
           return FilteredList2;
-        }()
+        })()
       );
       exports2.Autocomplete = Autocomplete;
       exports2.CompletionProvider = CompletionProvider;
@@ -26637,7 +26637,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var CommandBarTooltip = (
         /** @class */
-        function() {
+        (function() {
           function CommandBarTooltip2(parentNode, options) {
             var e_1, _a2;
             options = options || {};
@@ -27022,7 +27022,7 @@ var require_ext_inline_autocomplete = __commonJS({
             }
           };
           return CommandBarTooltip2;
-        }()
+        })()
       );
       oop.implement(CommandBarTooltip.prototype, EventEmitter);
       dom.importCssString("\n.ace_tooltip.".concat(TOOLTIP_CLASS_NAME, "_wrapper {\n    padding: 0;\n}\n\n.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, " {\n    padding: 1px 5px;\n    display: flex;\n    pointer-events: auto;\n}\n\n.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options {\n    padding: 1px;\n    flex-direction: column;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, " {\n    display: inline-flex;\n    cursor: pointer;\n    margin: 1px;\n    border-radius: 2px;\n    padding: 2px 5px;\n    align-items: center;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_selected,\ndiv.").concat(BUTTON_CLASS_NAME, ":hover:not(.ace_disabled) {\n    background-color: rgba(0, 0, 0, 0.1);\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #777;\n    pointer-events: none;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, " .ace_icon_svg {\n    height: 12px;\n    background-color: #000;\n}\n\ndiv.").concat(BUTTON_CLASS_NAME, ".ace_disabled .ace_icon_svg {\n    background-color: #777;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(BUTTON_CLASS_NAME, " {\n    display: flex;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".").concat(VALUE_CLASS_NAME, " {\n    display: none;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(VALUE_CLASS_NAME, " {\n    display: inline-block;\n    width: 12px;\n}\n\n.").concat(CAPTION_CLASS_NAME, " {\n    display: inline-block;\n}\n\n.").concat(KEYBINDING_CLASS_NAME, " {\n    margin: 0 2px;\n    display: inline-block;\n    font-size: 8px;\n}\n\n.").concat(TOOLTIP_CLASS_NAME, ".tooltip_more_options .").concat(KEYBINDING_CLASS_NAME, " {\n    margin-left: auto;\n}\n\n.").concat(KEYBINDING_CLASS_NAME, " div {\n    display: inline-block;\n    min-width: 8px;\n    padding: 2px;\n    margin: 0 1px;\n    border-radius: 2px;\n    background-color: #ccc;\n    text-align: center;\n}\n\n.ace_dark.ace_tooltip .").concat(TOOLTIP_CLASS_NAME, " {\n    background-color: #373737;\n    color: #eee;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #979797;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_selected,\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ":hover:not(.ace_disabled) {\n    background-color: rgba(255, 255, 255, 0.1);\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, " .ace_icon_svg {\n    background-color: #eee;\n}\n\n.ace_dark div.").concat(BUTTON_CLASS_NAME, ".ace_disabled .ace_icon_svg {\n    background-color: #979797;\n}\n\n.ace_dark .").concat(BUTTON_CLASS_NAME, ".ace_disabled {\n    color: #979797;\n}\n\n.ace_dark .").concat(KEYBINDING_CLASS_NAME, " div {\n    background-color: #575757;\n}\n\n.ace_checkmark::before {\n    content: '\u2713';\n}\n"), "commandbar.css", false);
@@ -27034,7 +27034,7 @@ var require_ext_inline_autocomplete = __commonJS({
       "use strict";
       var MarkerGroup = (
         /** @class */
-        function() {
+        (function() {
           function MarkerGroup2(session, options) {
             if (options)
               this.markerType = options.markerType;
@@ -27101,7 +27101,7 @@ var require_ext_inline_autocomplete = __commonJS({
             }
           };
           return MarkerGroup2;
-        }()
+        })()
       );
       MarkerGroup.prototype.MAX_MARKERS = 1e4;
       exports2.MarkerGroup = MarkerGroup;
@@ -27371,7 +27371,7 @@ var require_ext_inline_autocomplete = __commonJS({
       };
       var InlineAutocomplete = (
         /** @class */
-        function() {
+        (function() {
           function InlineAutocomplete2(editor) {
             this.editor = editor;
             this.keyboardHandler = new HashHandler(this.commands);
@@ -27587,7 +27587,7 @@ var require_ext_inline_autocomplete = __commonJS({
           InlineAutocomplete2.prototype.updateDocTooltip = function() {
           };
           return InlineAutocomplete2;
-        }()
+        })()
       );
       InlineAutocomplete.prototype.commands = {
         "Previous": {
@@ -27948,7 +27948,7 @@ var require_ext_language_tools = __commonJS({
       }
       var SnippetManager = (
         /** @class */
-        function() {
+        (function() {
           function SnippetManager2() {
             this.snippetMap = {};
             this.snippetNameMap = {};
@@ -28436,7 +28436,7 @@ var require_ext_language_tools = __commonJS({
             return snippet;
           };
           return SnippetManager2;
-        }()
+        })()
       );
       oop.implement(SnippetManager.prototype, EventEmitter);
       var processSnippetText = function(editor, snippetText, options) {
@@ -28559,7 +28559,7 @@ var require_ext_language_tools = __commonJS({
       };
       var TabstopManager = (
         /** @class */
-        function() {
+        (function() {
           function TabstopManager2(editor) {
             this.index = 0;
             this.ranges = [];
@@ -28804,7 +28804,7 @@ var require_ext_language_tools = __commonJS({
             }
           };
           return TabstopManager2;
-        }()
+        })()
       );
       TabstopManager.prototype.keyboardHandler = new HashHandler();
       TabstopManager.prototype.keyboardHandler.bindKeys({
@@ -28874,7 +28874,7 @@ var require_ext_language_tools = __commonJS({
       };
       var AcePopup = (
         /** @class */
-        /* @__PURE__ */ function() {
+        /* @__PURE__ */ (function() {
           function AcePopup2(parentNode) {
             var el = dom.createElement("div");
             var popup = $singleLineEditor(el);
@@ -29204,7 +29204,7 @@ var require_ext_language_tools = __commonJS({
             return popup;
           }
           return AcePopup2;
-        }()
+        })()
       );
       dom.importCssString('\n.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #CAD6FA;\n    z-index: 1;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #3a674e;\n}\n.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid #abbffe;\n    margin-top: -1px;\n    background: rgba(233,233,253,0.4);\n    position: absolute;\n    z-index: 2;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid rgba(109, 150, 13, 0.8);\n    background: rgba(58, 103, 78, 0.62);\n}\n.ace_completion-meta {\n    opacity: 0.5;\n    margin-left: 0.9em;\n}\n.ace_completion-message {\n    margin-left: 0.9em;\n    color: blue;\n}\n.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #2d69c7;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #93ca12;\n}\n.ace_editor.ace_autocomplete {\n    width: 300px;\n    z-index: 200000;\n    border: 1px lightgray solid;\n    position: fixed;\n    box-shadow: 2px 3px 5px rgba(0,0,0,.2);\n    line-height: 1.4;\n    background: #fefefe;\n    color: #111;\n}\n.ace_dark.ace_editor.ace_autocomplete {\n    border: 1px #484747 solid;\n    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.51);\n    line-height: 1.4;\n    background: #25282c;\n    color: #c1c1c1;\n}\n.ace_autocomplete .ace_text-layer  {\n    width: calc(100% - 8px);\n}\n.ace_autocomplete .ace_line {\n    display: flex;\n    align-items: center;\n}\n.ace_autocomplete .ace_line > * {\n    min-width: 0;\n    flex: 0 0 auto;\n}\n.ace_autocomplete .ace_line .ace_ {\n    flex: 0 1 auto;\n    overflow: hidden;\n    text-overflow: ellipsis;\n}\n.ace_autocomplete .ace_completion-spacer {\n    flex: 1;\n}\n.ace_autocomplete.ace_loading:after  {\n    content: "";\n    position: absolute;\n    top: 0px;\n    height: 2px;\n    width: 8%;\n    background: blue;\n    z-index: 100;\n    animation: ace_progress 3s infinite linear;\n    animation-delay: 300ms;\n    transform: translateX(-100%) scaleX(1);\n}\n@keyframes ace_progress {\n    0% { transform: translateX(-100%) scaleX(1) }\n    50% { transform: translateX(625%) scaleX(2) } \n    100% { transform: translateX(1500%) scaleX(3) } \n}\n@media (prefers-reduced-motion) {\n    .ace_autocomplete.ace_loading:after {\n        transform: translateX(625%) scaleX(2);\n        animation: none;\n     }\n}\n', "autocompletion.css", false);
       exports2.AcePopup = AcePopup;
@@ -29215,7 +29215,7 @@ var require_ext_language_tools = __commonJS({
       "use strict";
       var AceInlineScreenReader = (
         /** @class */
-        function() {
+        (function() {
           function AceInlineScreenReader2(editor) {
             this.editor = editor;
             this.screenReaderDiv = document.createElement("div");
@@ -29263,7 +29263,7 @@ var require_ext_language_tools = __commonJS({
             return container;
           };
           return AceInlineScreenReader2;
-        }()
+        })()
       );
       exports2.AceInlineScreenReader = AceInlineScreenReader;
     });
@@ -29273,7 +29273,7 @@ var require_ext_language_tools = __commonJS({
       var AceInlineScreenReader = require3("./inline_screenreader").AceInlineScreenReader;
       var AceInline = (
         /** @class */
-        function() {
+        (function() {
           function AceInline2() {
             this.editor = null;
           }
@@ -29326,7 +29326,7 @@ var require_ext_language_tools = __commonJS({
             }
           };
           return AceInline2;
-        }()
+        })()
       );
       exports2.AceInline = AceInline;
     });
@@ -29409,7 +29409,7 @@ var require_ext_language_tools = __commonJS({
       };
       var Autocomplete = (
         /** @class */
-        function() {
+        (function() {
           function Autocomplete2() {
             this.autoInsert = false;
             this.autoSelect = true;
@@ -29964,7 +29964,7 @@ var require_ext_language_tools = __commonJS({
             return editor.completer;
           };
           return Autocomplete2;
-        }()
+        })()
       );
       Autocomplete.prototype.commands = {
         "Up": function(editor) {
@@ -30022,7 +30022,7 @@ var require_ext_language_tools = __commonJS({
       };
       var CompletionProvider = (
         /** @class */
-        function() {
+        (function() {
           function CompletionProvider2(initialPosition) {
             this.initialPosition = initialPosition;
             this.active = true;
@@ -30153,11 +30153,11 @@ var require_ext_language_tools = __commonJS({
             });
           };
           return CompletionProvider2;
-        }()
+        })()
       );
       var FilteredList = (
         /** @class */
-        function() {
+        (function() {
           function FilteredList2(array, filterText) {
             this.all = array;
             this.filtered = array;
@@ -30235,7 +30235,7 @@ var require_ext_language_tools = __commonJS({
             return results;
           };
           return FilteredList2;
-        }()
+        })()
       );
       exports2.Autocomplete = Autocomplete;
       exports2.CompletionProvider = CompletionProvider;
@@ -30245,7 +30245,7 @@ var require_ext_language_tools = __commonJS({
       "use strict";
       var MarkerGroup = (
         /** @class */
-        function() {
+        (function() {
           function MarkerGroup2(session, options) {
             if (options)
               this.markerType = options.markerType;
@@ -30312,7 +30312,7 @@ var require_ext_language_tools = __commonJS({
             }
           };
           return MarkerGroup2;
-        }()
+        })()
       );
       MarkerGroup.prototype.MAX_MARKERS = 1e4;
       exports2.MarkerGroup = MarkerGroup;
@@ -30638,9 +30638,9 @@ var require_ext_modelist = __commonJS({
     ace.define("ace/ext/modelist", ["require", "exports", "module"], function(require3, exports2, module3) {
       "use strict";
       var modes = [];
-      function getModeForPath(path2) {
+      function getModeForPath(path) {
         var mode2 = modesByName.text;
-        var fileName = path2.split(/[\/\\]/).pop();
+        var fileName = path.split(/[\/\\]/).pop();
         for (var i = 0; i < modes.length; i++) {
           if (modes[i].supportsFile(fileName)) {
             mode2 = modes[i];
@@ -30651,7 +30651,7 @@ var require_ext_modelist = __commonJS({
       }
       var Mode = (
         /** @class */
-        function() {
+        (function() {
           function Mode2(name2, caption, extensions) {
             this.name = name2;
             this.caption = caption;
@@ -30671,7 +30671,7 @@ var require_ext_modelist = __commonJS({
             return filename2.match(this.extRe);
           };
           return Mode2;
-        }()
+        })()
       );
       var supportedModes = {
         ABAP: ["abap"],
@@ -30987,9 +30987,9 @@ var require_ext_options = __commonJS({
     ace.define("ace/ext/modelist", ["require", "exports", "module"], function(require3, exports2, module3) {
       "use strict";
       var modes = [];
-      function getModeForPath(path2) {
+      function getModeForPath(path) {
         var mode2 = modesByName.text;
-        var fileName = path2.split(/[\/\\]/).pop();
+        var fileName = path.split(/[\/\\]/).pop();
         for (var i = 0; i < modes.length; i++) {
           if (modes[i].supportsFile(fileName)) {
             mode2 = modes[i];
@@ -31000,7 +31000,7 @@ var require_ext_options = __commonJS({
       }
       var Mode = (
         /** @class */
-        function() {
+        (function() {
           function Mode2(name2, caption, extensions) {
             this.name = name2;
             this.caption = caption;
@@ -31020,7 +31020,7 @@ var require_ext_options = __commonJS({
             return filename2.match(this.extRe);
           };
           return Mode2;
-        }()
+        })()
       );
       var supportedModes = {
         ABAP: ["abap"],
@@ -31513,7 +31513,7 @@ var require_ext_options = __commonJS({
       };
       var OptionPanel = (
         /** @class */
-        function() {
+        (function() {
           function OptionPanel2(editor, element) {
             this.editor = editor;
             this.container = element || document.createElement("div");
@@ -31642,10 +31642,10 @@ var require_ext_options = __commonJS({
           OptionPanel2.prototype.renderOption = function(key, option) {
             if (option.path && !option.onchange && !this.editor.$options[option.path])
               return;
-            var path2 = Array.isArray(option) ? option[0].path : option.path;
-            this.options[path2] = option;
-            var safeKey = "-" + path2;
-            var safeId = path2 + "-label";
+            var path = Array.isArray(option) ? option[0].path : option.path;
+            this.options[path] = option;
+            var safeKey = "-" + path;
+            var safeId = path + "-label";
             var control = this.renderOptionControl(safeKey, option);
             return ["tr", { class: "ace_optionsMenuEntry" }, [
               "td",
@@ -31677,7 +31677,7 @@ var require_ext_options = __commonJS({
             return this.editor.getOption(option.path);
           };
           return OptionPanel2;
-        }()
+        })()
       );
       oop.implement(OptionPanel.prototype, EventEmitter);
       exports2.OptionPanel = OptionPanel;
@@ -31726,7 +31726,7 @@ var require_ext_prompt = __commonJS({
       };
       var AcePopup = (
         /** @class */
-        /* @__PURE__ */ function() {
+        /* @__PURE__ */ (function() {
           function AcePopup2(parentNode) {
             var el = dom.createElement("div");
             var popup = $singleLineEditor(el);
@@ -32056,7 +32056,7 @@ var require_ext_prompt = __commonJS({
             return popup;
           }
           return AcePopup2;
-        }()
+        })()
       );
       dom.importCssString('\n.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #CAD6FA;\n    z-index: 1;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line {\n    background-color: #3a674e;\n}\n.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid #abbffe;\n    margin-top: -1px;\n    background: rgba(233,233,253,0.4);\n    position: absolute;\n    z-index: 2;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_line-hover {\n    border: 1px solid rgba(109, 150, 13, 0.8);\n    background: rgba(58, 103, 78, 0.62);\n}\n.ace_completion-meta {\n    opacity: 0.5;\n    margin-left: 0.9em;\n}\n.ace_completion-message {\n    margin-left: 0.9em;\n    color: blue;\n}\n.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #2d69c7;\n}\n.ace_dark.ace_editor.ace_autocomplete .ace_completion-highlight{\n    color: #93ca12;\n}\n.ace_editor.ace_autocomplete {\n    width: 300px;\n    z-index: 200000;\n    border: 1px lightgray solid;\n    position: fixed;\n    box-shadow: 2px 3px 5px rgba(0,0,0,.2);\n    line-height: 1.4;\n    background: #fefefe;\n    color: #111;\n}\n.ace_dark.ace_editor.ace_autocomplete {\n    border: 1px #484747 solid;\n    box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.51);\n    line-height: 1.4;\n    background: #25282c;\n    color: #c1c1c1;\n}\n.ace_autocomplete .ace_text-layer  {\n    width: calc(100% - 8px);\n}\n.ace_autocomplete .ace_line {\n    display: flex;\n    align-items: center;\n}\n.ace_autocomplete .ace_line > * {\n    min-width: 0;\n    flex: 0 0 auto;\n}\n.ace_autocomplete .ace_line .ace_ {\n    flex: 0 1 auto;\n    overflow: hidden;\n    text-overflow: ellipsis;\n}\n.ace_autocomplete .ace_completion-spacer {\n    flex: 1;\n}\n.ace_autocomplete.ace_loading:after  {\n    content: "";\n    position: absolute;\n    top: 0px;\n    height: 2px;\n    width: 8%;\n    background: blue;\n    z-index: 100;\n    animation: ace_progress 3s infinite linear;\n    animation-delay: 300ms;\n    transform: translateX(-100%) scaleX(1);\n}\n@keyframes ace_progress {\n    0% { transform: translateX(-100%) scaleX(1) }\n    50% { transform: translateX(625%) scaleX(2) } \n    100% { transform: translateX(1500%) scaleX(3) } \n}\n@media (prefers-reduced-motion) {\n    .ace_autocomplete.ace_loading:after {\n        transform: translateX(625%) scaleX(2);\n        animation: none;\n     }\n}\n', "autocompletion.css", false);
       exports2.AcePopup = AcePopup;
@@ -32154,7 +32154,7 @@ var require_ext_prompt = __commonJS({
       }
       var SnippetManager = (
         /** @class */
-        function() {
+        (function() {
           function SnippetManager2() {
             this.snippetMap = {};
             this.snippetNameMap = {};
@@ -32642,7 +32642,7 @@ var require_ext_prompt = __commonJS({
             return snippet;
           };
           return SnippetManager2;
-        }()
+        })()
       );
       oop.implement(SnippetManager.prototype, EventEmitter);
       var processSnippetText = function(editor, snippetText, options) {
@@ -32765,7 +32765,7 @@ var require_ext_prompt = __commonJS({
       };
       var TabstopManager = (
         /** @class */
-        function() {
+        (function() {
           function TabstopManager2(editor) {
             this.index = 0;
             this.ranges = [];
@@ -33010,7 +33010,7 @@ var require_ext_prompt = __commonJS({
             }
           };
           return TabstopManager2;
-        }()
+        })()
       );
       TabstopManager.prototype.keyboardHandler = new HashHandler();
       TabstopManager.prototype.keyboardHandler.bindKeys({
@@ -33054,7 +33054,7 @@ var require_ext_prompt = __commonJS({
       "use strict";
       var AceInlineScreenReader = (
         /** @class */
-        function() {
+        (function() {
           function AceInlineScreenReader2(editor) {
             this.editor = editor;
             this.screenReaderDiv = document.createElement("div");
@@ -33102,7 +33102,7 @@ var require_ext_prompt = __commonJS({
             return container;
           };
           return AceInlineScreenReader2;
-        }()
+        })()
       );
       exports2.AceInlineScreenReader = AceInlineScreenReader;
     });
@@ -33112,7 +33112,7 @@ var require_ext_prompt = __commonJS({
       var AceInlineScreenReader = require3("./inline_screenreader").AceInlineScreenReader;
       var AceInline = (
         /** @class */
-        function() {
+        (function() {
           function AceInline2() {
             this.editor = null;
           }
@@ -33165,7 +33165,7 @@ var require_ext_prompt = __commonJS({
             }
           };
           return AceInline2;
-        }()
+        })()
       );
       exports2.AceInline = AceInline;
     });
@@ -33248,7 +33248,7 @@ var require_ext_prompt = __commonJS({
       };
       var Autocomplete = (
         /** @class */
-        function() {
+        (function() {
           function Autocomplete2() {
             this.autoInsert = false;
             this.autoSelect = true;
@@ -33803,7 +33803,7 @@ var require_ext_prompt = __commonJS({
             return editor.completer;
           };
           return Autocomplete2;
-        }()
+        })()
       );
       Autocomplete.prototype.commands = {
         "Up": function(editor) {
@@ -33861,7 +33861,7 @@ var require_ext_prompt = __commonJS({
       };
       var CompletionProvider = (
         /** @class */
-        function() {
+        (function() {
           function CompletionProvider2(initialPosition) {
             this.initialPosition = initialPosition;
             this.active = true;
@@ -33992,11 +33992,11 @@ var require_ext_prompt = __commonJS({
             });
           };
           return CompletionProvider2;
-        }()
+        })()
       );
       var FilteredList = (
         /** @class */
-        function() {
+        (function() {
           function FilteredList2(array, filterText) {
             this.all = array;
             this.filtered = array;
@@ -34074,7 +34074,7 @@ var require_ext_prompt = __commonJS({
             return results;
           };
           return FilteredList2;
-        }()
+        })()
       );
       exports2.Autocomplete = Autocomplete;
       exports2.CompletionProvider = CompletionProvider;
@@ -34138,9 +34138,9 @@ var require_ext_prompt = __commonJS({
     ace.define("ace/ext/modelist", ["require", "exports", "module"], function(require3, exports2, module3) {
       "use strict";
       var modes = [];
-      function getModeForPath(path2) {
+      function getModeForPath(path) {
         var mode2 = modesByName.text;
-        var fileName = path2.split(/[\/\\]/).pop();
+        var fileName = path.split(/[\/\\]/).pop();
         for (var i = 0; i < modes.length; i++) {
           if (modes[i].supportsFile(fileName)) {
             mode2 = modes[i];
@@ -34151,7 +34151,7 @@ var require_ext_prompt = __commonJS({
       }
       var Mode = (
         /** @class */
-        function() {
+        (function() {
           function Mode2(name2, caption, extensions) {
             this.name = name2;
             this.caption = caption;
@@ -34171,7 +34171,7 @@ var require_ext_prompt = __commonJS({
             return filename2.match(this.extRe);
           };
           return Mode2;
-        }()
+        })()
       );
       var supportedModes = {
         ABAP: ["abap"],
@@ -34973,7 +34973,7 @@ var require_ext_searchbox = __commonJS({
       dom.importCssString(searchboxCss, "ace_searchbox", false);
       var SearchBox = (
         /** @class */
-        function() {
+        (function() {
           function SearchBox2(editor, range, showReplaceForm) {
             this.activeInput;
             this.element = dom.buildDom([
@@ -35224,7 +35224,7 @@ var require_ext_searchbox = __commonJS({
             return el == this.searchInput || el == this.replaceInput;
           };
           return SearchBox2;
-        }()
+        })()
       );
       var $searchBarKb = new HashHandler();
       $searchBarKb.bindKeys({
@@ -35395,9 +35395,9 @@ var require_ext_settings_menu = __commonJS({
     ace.define("ace/ext/modelist", ["require", "exports", "module"], function(require3, exports2, module3) {
       "use strict";
       var modes = [];
-      function getModeForPath(path2) {
+      function getModeForPath(path) {
         var mode2 = modesByName.text;
-        var fileName = path2.split(/[\/\\]/).pop();
+        var fileName = path.split(/[\/\\]/).pop();
         for (var i = 0; i < modes.length; i++) {
           if (modes[i].supportsFile(fileName)) {
             mode2 = modes[i];
@@ -35408,7 +35408,7 @@ var require_ext_settings_menu = __commonJS({
       }
       var Mode = (
         /** @class */
-        function() {
+        (function() {
           function Mode2(name2, caption, extensions) {
             this.name = name2;
             this.caption = caption;
@@ -35428,7 +35428,7 @@ var require_ext_settings_menu = __commonJS({
             return filename2.match(this.extRe);
           };
           return Mode2;
-        }()
+        })()
       );
       var supportedModes = {
         ABAP: ["abap"],
@@ -35921,7 +35921,7 @@ var require_ext_settings_menu = __commonJS({
       };
       var OptionPanel = (
         /** @class */
-        function() {
+        (function() {
           function OptionPanel2(editor, element) {
             this.editor = editor;
             this.container = element || document.createElement("div");
@@ -36050,10 +36050,10 @@ var require_ext_settings_menu = __commonJS({
           OptionPanel2.prototype.renderOption = function(key, option) {
             if (option.path && !option.onchange && !this.editor.$options[option.path])
               return;
-            var path2 = Array.isArray(option) ? option[0].path : option.path;
-            this.options[path2] = option;
-            var safeKey = "-" + path2;
-            var safeId = path2 + "-label";
+            var path = Array.isArray(option) ? option[0].path : option.path;
+            this.options[path] = option;
+            var safeKey = "-" + path;
+            var safeId = path + "-label";
             var control = this.renderOptionControl(safeKey, option);
             return ["tr", { class: "ace_optionsMenuEntry" }, [
               "td",
@@ -36085,7 +36085,7 @@ var require_ext_settings_menu = __commonJS({
             return this.editor.getOption(option.path);
           };
           return OptionPanel2;
-        }()
+        })()
       );
       oop.implement(OptionPanel.prototype, EventEmitter);
       exports2.OptionPanel = OptionPanel;
@@ -36225,7 +36225,7 @@ var require_ext_simple_tokenizer = __commonJS({
       var isTextToken = require3("../layer/text_util").isTextToken;
       var SimpleTokenizer = (
         /** @class */
-        function() {
+        (function() {
           function SimpleTokenizer2(content, tokenizer) {
             this._lines = content.split(/\r\n|\r|\n/);
             this._states = [];
@@ -36242,7 +36242,7 @@ var require_ext_simple_tokenizer = __commonJS({
             return this._lines.length;
           };
           return SimpleTokenizer2;
-        }()
+        })()
       );
       function tokenize(content, highlightRules) {
         var tokenizer = new SimpleTokenizer(content, new Tokenizer(highlightRules.getRules()));
@@ -37190,7 +37190,7 @@ var require_keybinding_emacs = __commonJS({
   "node_modules/ace-builds/src-noconflict/keybinding-emacs.js"(exports, module2) {
     ace.define("ace/occur", ["require", "exports", "module", "ace/lib/oop", "ace/search", "ace/edit_session", "ace/search_highlight", "ace/lib/dom"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -37208,14 +37208,14 @@ var require_keybinding_emacs = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var oop = require3("./lib/oop");
       var Search = require3("./search").Search;
       var EditSession = require3("./edit_session").EditSession;
       var SearchHighlight = require3("./search_highlight").SearchHighlight;
       var Occur = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(Occur2, _super);
           function Occur2() {
             return _super !== null && _super.apply(this, arguments) || this;
@@ -37291,7 +37291,7 @@ var require_keybinding_emacs = __commonJS({
             }, []);
           };
           return Occur2;
-        }(Search)
+        })(Search)
       );
       var dom = require3("./lib/dom");
       dom.importCssString(".ace_occur-highlight {\n    border-radius: 4px;\n    background-color: rgba(87, 255, 8, 0.25);\n    position: absolute;\n    z-index: 4;\n    box-sizing: border-box;\n    box-shadow: 0 0 4px rgb(91, 255, 50);\n}\n.ace_dark .ace_occur-highlight {\n    background-color: rgb(80, 140, 85);\n    box-shadow: 0 0 4px rgb(60, 120, 70);\n}\n", "incremental-occur-highlighting", false);
@@ -37553,7 +37553,7 @@ var require_keybinding_emacs = __commonJS({
     });
     ace.define("ace/incremental_search", ["require", "exports", "module", "ace/range", "ace/search", "ace/search_highlight", "ace/commands/incremental_search_commands", "ace/lib/dom", "ace/commands/command_manager", "ace/editor", "ace/config"], function(require3, exports2, module3) {
       "use strict";
-      var __extends = this && this.__extends || /* @__PURE__ */ function() {
+      var __extends = this && this.__extends || /* @__PURE__ */ (function() {
         var extendStatics = function(d, b2) {
           extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d2, b3) {
             d2.__proto__ = b3;
@@ -37571,7 +37571,7 @@ var require_keybinding_emacs = __commonJS({
           }
           d.prototype = b2 === null ? Object.create(b2) : (__.prototype = b2.prototype, new __());
         };
-      }();
+      })();
       var Range = require3("./range").Range;
       var Search = require3("./search").Search;
       var SearchHighlight = require3("./search_highlight").SearchHighlight;
@@ -37599,7 +37599,7 @@ var require_keybinding_emacs = __commonJS({
       }
       var IncrementalSearch = (
         /** @class */
-        function(_super) {
+        (function(_super) {
           __extends(IncrementalSearch2, _super);
           function IncrementalSearch2() {
             var _this = _super.call(this) || this;
@@ -37734,7 +37734,7 @@ var require_keybinding_emacs = __commonJS({
             }
           };
           return IncrementalSearch2;
-        }(Search)
+        })(Search)
       );
       exports2.IncrementalSearch = IncrementalSearch;
       var dom = require3("./lib/dom");
@@ -44814,7 +44814,7 @@ var require_keybinding_vim = __commonJS({
           var tokens = argString ? splitBySeparator(argString, argString[0]) : [];
           var regexPart, replacePart = "", trailing, flagsPart, count;
           var confirm2 = false;
-          var global2 = false;
+          var global = false;
           if (tokens.length) {
             regexPart = tokens[0];
             if (getOption("pcre") && regexPart !== "") {
@@ -44844,7 +44844,7 @@ var require_keybinding_vim = __commonJS({
                 confirm2 = true;
               }
               if (flagsPart.indexOf("g") != -1) {
-                global2 = true;
+                global = true;
               }
               if (getOption("pcre")) {
                 regexPart = regexPart + "/" + flagsPart;
@@ -44885,7 +44885,7 @@ var require_keybinding_vim = __commonJS({
           }
           var startPos = clipCursorToContent(cm, new Pos(lineStart, 0));
           var cursor = cm.getSearchCursor(query, startPos);
-          doReplace(cm, confirm2, global2, lineStart, lineEnd, cursor, query, replacePart, params.callback);
+          doReplace(cm, confirm2, global, lineStart, lineEnd, cursor, query, replacePart, params.callback);
         },
         startinsert: function(cm, params) {
           doKeyToKey(cm, params.argString == "!" ? "A" : "i", {});
@@ -44968,7 +44968,7 @@ var require_keybinding_vim = __commonJS({
         }
       };
       var exCommandDispatcher = new ExCommandDispatcher();
-      function doReplace(cm, confirm2, global2, lineStart, lineEnd, searchCursor, query, replaceWith, callback) {
+      function doReplace(cm, confirm2, global, lineStart, lineEnd, searchCursor, query, replaceWith, callback) {
         cm.state.vim.exMode = true;
         var done = false;
         var lastPos, modifiedLineNumber, joined;
@@ -45000,7 +45000,7 @@ var require_keybinding_vim = __commonJS({
         }
         function next() {
           while (findNextValidMatch() && isInRange(searchCursor.from(), lineStart, lineEnd)) {
-            if (!global2 && searchCursor.from().line == modifiedLineNumber && !joined) {
+            if (!global && searchCursor.from().line == modifiedLineNumber && !joined) {
               continue;
             }
             cm.scrollIntoView(searchCursor.from(), 30);
@@ -46047,9 +46047,9 @@ var require_keybinding_vscode = __commonJS({
 // src/lib/ace-colorpicker.js
 var require_ace_colorpicker = __commonJS({
   "src/lib/ace-colorpicker.js"(exports, module2) {
-    (function(global2, factory) {
-      typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global2["ace-colorpicker"] = factory();
-    })(exports, function() {
+    (function(global, factory) {
+      typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global["ace-colorpicker"] = factory();
+    })(exports, (function() {
       "use strict";
       function format(obj, type) {
         var defaultColor = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : "rgba(0, 0, 0, 0)";
@@ -46212,7 +46212,7 @@ var require_ace_colorpicker = __commonJS({
           throw new TypeError("Cannot call a class as a function");
         }
       };
-      var createClass = /* @__PURE__ */ function() {
+      var createClass = /* @__PURE__ */ (function() {
         function defineProperties(target, props) {
           for (var i = 0; i < props.length; i++) {
             var descriptor = props[i];
@@ -46227,7 +46227,7 @@ var require_ace_colorpicker = __commonJS({
           if (staticProps) defineProperties(Constructor, staticProps);
           return Constructor;
         };
-      }();
+      })();
       var defineProperty = function(obj, key, value) {
         if (key in obj) {
           Object.defineProperty(obj, key, {
@@ -46292,7 +46292,7 @@ var require_ace_colorpicker = __commonJS({
         }
         return call && (typeof call === "object" || typeof call === "function") ? call : self2;
       };
-      var slicedToArray = /* @__PURE__ */ function() {
+      var slicedToArray = /* @__PURE__ */ (function() {
         function sliceIterator(arr, i) {
           var _arr = [];
           var _n3 = true;
@@ -46324,7 +46324,7 @@ var require_ace_colorpicker = __commonJS({
             throw new TypeError("Invalid attempt to destructure non-iterable instance");
           }
         };
-      }();
+      })();
       var toArray = function(arr) {
         return Array.isArray(arr) ? arr : Array.from(arr);
       };
@@ -47202,7 +47202,7 @@ var require_ace_colorpicker = __commonJS({
           return bitmap;
         }
       };
-      var ImageLoader = function() {
+      var ImageLoader = (function() {
         function ImageLoader2(url) {
           var opt = arguments.length > 1 && arguments[1] !== void 0 ? arguments[1] : {};
           classCallCheck(this, ImageLoader2);
@@ -47293,11 +47293,11 @@ var require_ace_colorpicker = __commonJS({
             var pixels = new Uint8ClampedArray(imagedata.data);
             var bitmap = { pixels, width, height };
             if (!filter2) {
-              filter2 = /* @__PURE__ */ function() {
+              filter2 = /* @__PURE__ */ (function() {
                 return function(bitmap2, done) {
                   done(bitmap2);
                 };
-              }();
+              })();
             }
             filter2(bitmap, function(newBitmap) {
               var tmpCanvas = Canvas.drawPixels(newBitmap);
@@ -47331,7 +47331,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ImageLoader2;
-      }();
+      })();
       var CONSTANT = {
         identity: function identity2() {
           return [1, 0, 0, 0, 1, 0, 0, 0, 1];
@@ -48833,7 +48833,7 @@ var require_ace_colorpicker = __commonJS({
         }
         groupedFilter.forEach(function(filter2, index2) {
           if (Array.isArray(filter2)) {
-            groupedFilter[index2] = function() {
+            groupedFilter[index2] = (function() {
               var userFunction = makePrebuildUserFilterList(filter2);
               return function(bitmap, done) {
                 for (var i2 = 0, len2 = bitmap.pixels.length; i2 < len2; i2 += 4) {
@@ -48841,7 +48841,7 @@ var require_ace_colorpicker = __commonJS({
                 }
                 done(bitmap);
               };
-            }();
+            })();
           }
         });
         return groupedFilter;
@@ -49282,7 +49282,7 @@ var require_ace_colorpicker = __commonJS({
       };
       var GLFilter = _extends({}, matrix$2, pixel$2, multi$4);
       var TEXTURE_INDEX = 0;
-      var GLCanvas = function() {
+      var GLCanvas = (function() {
         function GLCanvas2() {
           var opt = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {
             width: "400px",
@@ -49419,7 +49419,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }, {
           key: "location",
-          value: function location2(key) {
+          value: function location(key) {
             var type = arguments.length > 1 && arguments[1] !== void 0 ? arguments[1] : "attribute";
             if (type === "attribute") {
               this.locations[key] = this.gl.getAttribLocation(this.program, key);
@@ -49768,7 +49768,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return GLCanvas2;
-      }();
+      })();
       var GL$1 = {
         GLCanvas
       };
@@ -49983,7 +49983,7 @@ var require_ace_colorpicker = __commonJS({
       var color = Color$1.color;
       var counter = 0;
       var cached = [];
-      var Dom = function() {
+      var Dom = (function() {
         function Dom2(tag, className, attr) {
           classCallCheck(this, Dom2);
           if (typeof tag != "string") {
@@ -50347,8 +50347,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return Dom2;
-      }();
-      var BaseModule = function() {
+      })();
+      var BaseModule = (function() {
         function BaseModule2($store) {
           classCallCheck(this, BaseModule2);
           this.$store = $store;
@@ -50372,8 +50372,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return BaseModule2;
-      }();
-      var ColorSetsList = function(_BaseModule) {
+      })();
+      var ColorSetsList = (function(_BaseModule) {
         inherits(ColorSetsList2, _BaseModule);
         function ColorSetsList2() {
           classCallCheck(this, ColorSetsList2);
@@ -50504,7 +50504,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorSetsList2;
-      }(BaseModule);
+      })(BaseModule);
       var Event = {
         addEvent: function addEvent(dom, eventName, callback, options) {
           if (dom) {
@@ -50531,7 +50531,7 @@ var require_ace_colorpicker = __commonJS({
         }
       };
       var DELEGATE_SPLIT = ".";
-      var State = function() {
+      var State = (function() {
         function State2(masterObj) {
           var settingObj = arguments.length > 1 && arguments[1] !== void 0 ? arguments[1] : {};
           classCallCheck(this, State2);
@@ -50574,12 +50574,12 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return State2;
-      }();
+      })();
       var CHECK_EVENT_PATTERN = /^(click|mouse(down|up|move|enter|leave)|touch(start|move|end)|key(down|up|press)|contextmenu|change|input)/ig;
       var CHECK_LOAD_PATTERN = /^load (.*)/ig;
       var EVENT_SAPARATOR = " ";
       var META_KEYS = ["Control", "Shift", "Alt", "Meta"];
-      var EventMachin = function() {
+      var EventMachin = (function() {
         function EventMachin2() {
           classCallCheck(this, EventMachin2);
           this.state = new State(this);
@@ -50909,9 +50909,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return EventMachin2;
-      }();
+      })();
       var CHECK_STORE_EVENT_PATTERN = /^@/;
-      var UIElement = function(_EventMachin) {
+      var UIElement = (function(_EventMachin) {
         inherits(UIElement2, _EventMachin);
         function UIElement2(opt) {
           classCallCheck(this, UIElement2);
@@ -50947,11 +50947,11 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return UIElement2;
-      }(EventMachin);
+      })(EventMachin);
       function isUndefined(v2) {
         return typeof v2 == "undefined" || v2 == null;
       }
-      var ColorManager = function(_BaseModule) {
+      var ColorManager = (function(_BaseModule) {
         inherits(ColorManager2, _BaseModule);
         function ColorManager2() {
           classCallCheck(this, ColorManager2);
@@ -51054,8 +51054,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorManager2;
-      }(BaseModule);
-      var BaseStore = function() {
+      })(BaseModule);
+      var BaseStore = (function() {
         function BaseStore2(opt) {
           classCallCheck(this, BaseStore2);
           this.callbacks = [];
@@ -51130,8 +51130,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return BaseStore2;
-      }();
-      var BaseColorPicker = function(_UIElement) {
+      })();
+      var BaseColorPicker = (function(_UIElement) {
         inherits(BaseColorPicker2, _UIElement);
         function BaseColorPicker2(opt) {
           classCallCheck(this, BaseColorPicker2);
@@ -51499,8 +51499,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return BaseColorPicker2;
-      }(UIElement);
-      var BaseBox = function(_UIElement) {
+      })(UIElement);
+      var BaseBox = (function(_UIElement) {
         inherits(BaseBox2, _UIElement);
         function BaseBox2(opt) {
           classCallCheck(this, BaseBox2);
@@ -51604,8 +51604,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return BaseBox2;
-      }(UIElement);
-      var BaseSlider = function(_BaseBox) {
+      })(UIElement);
+      var BaseSlider = (function(_BaseBox) {
         inherits(BaseSlider2, _BaseBox);
         function BaseSlider2(opt) {
           classCallCheck(this, BaseSlider2);
@@ -51702,8 +51702,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return BaseSlider2;
-      }(BaseBox);
-      var Value = function(_BaseSlider) {
+      })(BaseBox);
+      var Value = (function(_BaseSlider) {
         inherits(Value2, _BaseSlider);
         function Value2(opt) {
           classCallCheck(this, Value2);
@@ -51746,8 +51746,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return Value2;
-      }(BaseSlider);
-      var Opacity = function(_BaseSlider) {
+      })(BaseSlider);
+      var Opacity = (function(_BaseSlider) {
         inherits(Opacity2, _BaseSlider);
         function Opacity2(opt) {
           classCallCheck(this, Opacity2);
@@ -51799,9 +51799,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return Opacity2;
-      }(BaseSlider);
+      })(BaseSlider);
       var source = "macos-control";
-      var ColorControl = function(_UIElement) {
+      var ColorControl = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -51848,8 +51848,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var ColorWheel = function(_UIElement) {
+      })(UIElement);
+      var ColorWheel = (function(_UIElement) {
         inherits(ColorWheel2, _UIElement);
         function ColorWheel2(opt) {
           classCallCheck(this, ColorWheel2);
@@ -52075,9 +52075,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorWheel2;
-      }(UIElement);
+      })(UIElement);
       var source$2 = "chromedevtool-information";
-      var ColorInformation = function(_UIElement) {
+      var ColorInformation = (function(_UIElement) {
         inherits(ColorInformation2, _UIElement);
         function ColorInformation2() {
           classCallCheck(this, ColorInformation2);
@@ -52290,9 +52290,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorInformation2;
-      }(UIElement);
+      })(UIElement);
       var DATA_COLORSETS_INDEX = "data-colorsets-index";
-      var ColorSetsChooser = function(_UIElement) {
+      var ColorSetsChooser = (function(_UIElement) {
         inherits(ColorSetsChooser2, _UIElement);
         function ColorSetsChooser2() {
           classCallCheck(this, ColorSetsChooser2);
@@ -52370,8 +52370,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorSetsChooser2;
-      }(UIElement);
-      var CurrentColorSets = function(_UIElement) {
+      })(UIElement);
+      var CurrentColorSets = (function(_UIElement) {
         inherits(CurrentColorSets2, _UIElement);
         function CurrentColorSets2() {
           classCallCheck(this, CurrentColorSets2);
@@ -52441,8 +52441,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return CurrentColorSets2;
-      }(UIElement);
-      var CurrentColorSetsContextMenu = function(_UIElement) {
+      })(UIElement);
+      var CurrentColorSetsContextMenu = (function(_UIElement) {
         inherits(CurrentColorSetsContextMenu2, _UIElement);
         function CurrentColorSetsContextMenu2() {
           classCallCheck(this, CurrentColorSetsContextMenu2);
@@ -52503,8 +52503,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return CurrentColorSetsContextMenu2;
-      }(UIElement);
-      var MacOSColorPicker = function(_BaseColorPicker) {
+      })(UIElement);
+      var MacOSColorPicker = (function(_BaseColorPicker) {
         inherits(MacOSColorPicker2, _BaseColorPicker);
         function MacOSColorPicker2() {
           classCallCheck(this, MacOSColorPicker2);
@@ -52538,8 +52538,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return MacOSColorPicker2;
-      }(BaseColorPicker);
-      var Hue = function(_BaseSlider) {
+      })(BaseColorPicker);
+      var Hue = (function(_BaseSlider) {
         inherits(Hue2, _BaseSlider);
         function Hue2(opt) {
           classCallCheck(this, Hue2);
@@ -52571,9 +52571,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return Hue2;
-      }(BaseSlider);
+      })(BaseSlider);
       var source$3 = "chromedevtool-control";
-      var ColorControl$2 = function(_UIElement) {
+      var ColorControl$2 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -52620,9 +52620,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
+      })(UIElement);
       var source$4 = "chromedevtool-palette";
-      var ColorPalette = function(_UIElement) {
+      var ColorPalette = (function(_UIElement) {
         inherits(ColorPalette2, _UIElement);
         function ColorPalette2() {
           classCallCheck(this, ColorPalette2);
@@ -52745,8 +52745,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorPalette2;
-      }(UIElement);
-      var ChromeDevToolColorPicker = function(_BaseColorPicker) {
+      })(UIElement);
+      var ChromeDevToolColorPicker = (function(_BaseColorPicker) {
         inherits(ChromeDevToolColorPicker2, _BaseColorPicker);
         function ChromeDevToolColorPicker2() {
           classCallCheck(this, ChromeDevToolColorPicker2);
@@ -52780,9 +52780,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ChromeDevToolColorPicker2;
-      }(BaseColorPicker);
+      })(BaseColorPicker);
       var source$5 = "mini-control";
-      var ColorControl$4 = function(_UIElement) {
+      var ColorControl$4 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -52823,8 +52823,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var MiniColorPicker = function(_BaseColorPicker) {
+      })(UIElement);
+      var MiniColorPicker = (function(_BaseColorPicker) {
         inherits(MiniColorPicker2, _BaseColorPicker);
         function MiniColorPicker2() {
           classCallCheck(this, MiniColorPicker2);
@@ -52850,8 +52850,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return MiniColorPicker2;
-      }(BaseColorPicker);
-      var VerticalSlider = function(_BaseSlider) {
+      })(BaseColorPicker);
+      var VerticalSlider = (function(_BaseSlider) {
         inherits(VerticalSlider2, _BaseSlider);
         function VerticalSlider2(opt) {
           classCallCheck(this, VerticalSlider2);
@@ -52907,8 +52907,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return VerticalSlider2;
-      }(BaseSlider);
-      var VerticalHue = function(_VerticalSlider) {
+      })(BaseSlider);
+      var VerticalHue = (function(_VerticalSlider) {
         inherits(VerticalHue2, _VerticalSlider);
         function VerticalHue2(opt) {
           classCallCheck(this, VerticalHue2);
@@ -52940,8 +52940,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return VerticalHue2;
-      }(VerticalSlider);
-      var Opacity$2 = function(_VerticalSlider) {
+      })(VerticalSlider);
+      var Opacity$2 = (function(_VerticalSlider) {
         inherits(Opacity2, _VerticalSlider);
         function Opacity2(opt) {
           classCallCheck(this, Opacity2);
@@ -52986,9 +52986,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return Opacity2;
-      }(VerticalSlider);
+      })(VerticalSlider);
       var source$6 = "mini-control";
-      var ColorControl$6 = function(_UIElement) {
+      var ColorControl$6 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -53029,8 +53029,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var MiniColorPicker$2 = function(_BaseColorPicker) {
+      })(UIElement);
+      var MiniColorPicker$2 = (function(_BaseColorPicker) {
         inherits(MiniColorPicker2, _BaseColorPicker);
         function MiniColorPicker2() {
           classCallCheck(this, MiniColorPicker2);
@@ -53055,9 +53055,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return MiniColorPicker2;
-      }(BaseColorPicker);
+      })(BaseColorPicker);
       var source$7 = "macos-control";
-      var ColorControl$8 = function(_UIElement) {
+      var ColorControl$8 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -53104,8 +53104,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var ColorRing = function(_ColorWheel) {
+      })(UIElement);
+      var ColorRing = (function(_ColorWheel) {
         inherits(ColorRing2, _ColorWheel);
         function ColorRing2(opt) {
           classCallCheck(this, ColorRing2);
@@ -53156,8 +53156,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorRing2;
-      }(ColorWheel);
-      var RingColorPicker = function(_BaseColorPicker) {
+      })(ColorWheel);
+      var RingColorPicker = (function(_BaseColorPicker) {
         inherits(RingColorPicker2, _BaseColorPicker);
         function RingColorPicker2() {
           classCallCheck(this, RingColorPicker2);
@@ -53193,8 +53193,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return RingColorPicker2;
-      }(BaseColorPicker);
-      var ColorControl$10 = function(_UIElement) {
+      })(BaseColorPicker);
+      var ColorControl$10 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -53233,8 +53233,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var XDColorPicker = function(_BaseColorPicker) {
+      })(UIElement);
+      var XDColorPicker = (function(_BaseColorPicker) {
         inherits(XDColorPicker2, _BaseColorPicker);
         function XDColorPicker2() {
           classCallCheck(this, XDColorPicker2);
@@ -53268,9 +53268,9 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return XDColorPicker2;
-      }(BaseColorPicker);
+      })(BaseColorPicker);
       var source$8 = "mini-control";
-      var ColorControl$12 = function(_UIElement) {
+      var ColorControl$12 = (function(_UIElement) {
         inherits(ColorControl2, _UIElement);
         function ColorControl2() {
           classCallCheck(this, ColorControl2);
@@ -53314,8 +53314,8 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorControl2;
-      }(UIElement);
-      var VSCodePicker = function(_BaseColorPicker) {
+      })(UIElement);
+      var VSCodePicker = (function(_BaseColorPicker) {
         inherits(VSCodePicker2, _BaseColorPicker);
         function VSCodePicker2() {
           classCallCheck(this, VSCodePicker2);
@@ -53403,7 +53403,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return VSCodePicker2;
-      }(BaseColorPicker);
+      })(BaseColorPicker);
       var ColorPicker = {
         create: function create(opts) {
           switch (opts.type) {
@@ -53446,7 +53446,7 @@ var require_ace_colorpicker = __commonJS({
       }
       var colorpicker_token_class = "ace_color";
       var colorpicker_container_class = "ace-colorpicker";
-      var ColorView = function() {
+      var ColorView = (function() {
         function ColorView2(ace4, editor) {
           var opt = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {
             type: "vscode",
@@ -53592,7 +53592,7 @@ var require_ace_colorpicker = __commonJS({
           }
         }]);
         return ColorView2;
-      }();
+      })();
       function LOAD_ACE_COLORPICKER(ace4, editor, opt) {
         return new ColorView(ace4, editor, opt);
       }
@@ -53601,7 +53601,7 @@ var require_ace_colorpicker = __commonJS({
       };
       var index = _extends({}, Util, ColorPicker, AceExtension);
       return index;
-    });
+    }));
   }
 });
 
@@ -55108,83 +55108,6 @@ var require_theme_vibrant_ink = __commonJS({
   }
 });
 
-// node_modules/file-saver/dist/FileSaver.min.js
-var require_FileSaver_min = __commonJS({
-  "node_modules/file-saver/dist/FileSaver.min.js"(exports, module2) {
-    (function(a, b2) {
-      if ("function" == typeof define && define.amd) define([], b2);
-      else if ("undefined" != typeof exports) b2();
-      else {
-        b2(), a.FileSaver = { exports: {} }.exports;
-      }
-    })(exports, function() {
-      "use strict";
-      function b2(a2, b3) {
-        return "undefined" == typeof b3 ? b3 = { autoBom: false } : "object" != typeof b3 && (console.warn("Deprecated: Expected third argument to be a object"), b3 = { autoBom: !b3 }), b3.autoBom && /^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(a2.type) ? new Blob(["\uFEFF", a2], { type: a2.type }) : a2;
-      }
-      function c(a2, b3, c2) {
-        var d2 = new XMLHttpRequest();
-        d2.open("GET", a2), d2.responseType = "blob", d2.onload = function() {
-          g3(d2.response, b3, c2);
-        }, d2.onerror = function() {
-          console.error("could not download file");
-        }, d2.send();
-      }
-      function d(a2) {
-        var b3 = new XMLHttpRequest();
-        b3.open("HEAD", a2, false);
-        try {
-          b3.send();
-        } catch (a3) {
-        }
-        return 200 <= b3.status && 299 >= b3.status;
-      }
-      function e(a2) {
-        try {
-          a2.dispatchEvent(new MouseEvent("click"));
-        } catch (c2) {
-          var b3 = document.createEvent("MouseEvents");
-          b3.initMouseEvent("click", true, true, window, 0, 0, 0, 80, 20, false, false, false, false, 0, null), a2.dispatchEvent(b3);
-        }
-      }
-      var f = "object" == typeof window && window.window === window ? window : "object" == typeof self && self.self === self ? self : "object" == typeof global && global.global === global ? global : void 0, a = f.navigator && /Macintosh/.test(navigator.userAgent) && /AppleWebKit/.test(navigator.userAgent) && !/Safari/.test(navigator.userAgent), g3 = f.saveAs || ("object" != typeof window || window !== f ? function() {
-      } : "download" in HTMLAnchorElement.prototype && !a ? function(b3, g4, h) {
-        var i = f.URL || f.webkitURL, j3 = document.createElement("a");
-        g4 = g4 || b3.name || "download", j3.download = g4, j3.rel = "noopener", "string" == typeof b3 ? (j3.href = b3, j3.origin === location.origin ? e(j3) : d(j3.href) ? c(b3, g4, h) : e(j3, j3.target = "_blank")) : (j3.href = i.createObjectURL(b3), setTimeout(function() {
-          i.revokeObjectURL(j3.href);
-        }, 4e4), setTimeout(function() {
-          e(j3);
-        }, 0));
-      } : "msSaveOrOpenBlob" in navigator ? function(f2, g4, h) {
-        if (g4 = g4 || f2.name || "download", "string" != typeof f2) navigator.msSaveOrOpenBlob(b2(f2, h), g4);
-        else if (d(f2)) c(f2, g4, h);
-        else {
-          var i = document.createElement("a");
-          i.href = f2, i.target = "_blank", setTimeout(function() {
-            e(i);
-          });
-        }
-      } : function(b3, d2, e2, g4) {
-        if (g4 = g4 || open("", "_blank"), g4 && (g4.document.title = g4.document.body.innerText = "downloading..."), "string" == typeof b3) return c(b3, d2, e2);
-        var h = "application/octet-stream" === b3.type, i = /constructor/i.test(f.HTMLElement) || f.safari, j3 = /CriOS\/[\d]+/.test(navigator.userAgent);
-        if ((j3 || h && i || a) && "undefined" != typeof FileReader) {
-          var k2 = new FileReader();
-          k2.onloadend = function() {
-            var a2 = k2.result;
-            a2 = j3 ? a2 : a2.replace(/^data:[^;]*;/, "data:attachment/file;"), g4 ? g4.location.href = a2 : location = a2, g4 = null;
-          }, k2.readAsDataURL(b3);
-        } else {
-          var l = f.URL || f.webkitURL, m = l.createObjectURL(b3);
-          g4 ? g4.location = m : location.href = m, g4 = null, setTimeout(function() {
-            l.revokeObjectURL(m);
-          }, 4e4);
-        }
-      });
-      f.saveAs = g3.saveAs = g3, "undefined" != typeof module2 && (module2.exports = g3);
-    });
-  }
-});
-
 // src/main.ts
 var main_exports = {};
 __export(main_exports, {
@@ -55256,9 +55179,9 @@ var Logger = class _Logger {
   /**
    * Format the log message with timestamp and location
    */
-  static formatMessage(level, message, location2) {
+  static formatMessage(level, message, location) {
     const timestamp = (/* @__PURE__ */ new Date()).toISOString().replace("T", " ").substring(0, 19);
-    const locationStr = location2 ? ` [${location2}]` : "";
+    const locationStr = location ? ` [${location}]` : "";
     return `[CTS:${level}] ${timestamp}${locationStr} ${message}`;
   }
   /**
@@ -55287,8 +55210,8 @@ var Logger = class _Logger {
    */
   static debug(message, data) {
     if (!_Logger.shouldLog("debug")) return;
-    const location2 = _Logger.getLocation();
-    const formattedMessage = _Logger.formatMessage("Debug", message, location2);
+    const location = _Logger.getLocation();
+    const formattedMessage = _Logger.formatMessage("Debug", message, location);
     if (data !== void 0) {
       console.debug(formattedMessage, data);
     } else {
@@ -55300,8 +55223,8 @@ var Logger = class _Logger {
    */
   static info(message, data) {
     if (!_Logger.shouldLog("info")) return;
-    const location2 = _Logger.getLocation();
-    const formattedMessage = _Logger.formatMessage("Info", message, location2);
+    const location = _Logger.getLocation();
+    const formattedMessage = _Logger.formatMessage("Info", message, location);
     if (data !== void 0) {
       console.debug(formattedMessage, data);
     } else {
@@ -55313,8 +55236,8 @@ var Logger = class _Logger {
    */
   static warn(message, data) {
     if (!_Logger.shouldLog("warn")) return;
-    const location2 = _Logger.getLocation();
-    const formattedMessage = _Logger.formatMessage("Warn", message, location2);
+    const location = _Logger.getLocation();
+    const formattedMessage = _Logger.formatMessage("Warn", message, location);
     if (data !== void 0) {
       console.warn(formattedMessage, data);
     } else {
@@ -55326,8 +55249,8 @@ var Logger = class _Logger {
    */
   static error(message, data) {
     if (!_Logger.shouldLog("error")) return;
-    const location2 = _Logger.getLocation();
-    const formattedMessage = _Logger.formatMessage("Error", message, location2);
+    const location = _Logger.getLocation();
+    const formattedMessage = _Logger.formatMessage("Error", message, location);
     if (data !== void 0) {
       console.error(formattedMessage, data);
     } else {
@@ -56406,6 +56329,7 @@ var obsidianCSSVariables_default = {
     "--bases-embed-border-color": "var(--background-modifier-border)",
     "--bases-embed-border-radius": "var(--radius-s)",
     "--bases-filter-menu-width": "520px",
+    "--bases-filter-input-background": "var(--background-modifier-form-field)",
     "--bases-group-heading-property-size": "var(--font-ui-smaller)",
     "--bases-group-heading-property-weight": "var(--font-normal)",
     "--bases-group-heading-property-color": "var(--text-muted)",
@@ -56490,30 +56414,30 @@ var obsidianCSSVariables_default = {
     "--callout-title-weight": "calc(var(--font-weight) + var(--bold-modifier))",
     "--callout-content-padding": "0",
     "--callout-content-background": "transparent",
-    "--callout-bug": "var(--color-red-rgb)",
-    "--callout-default": "var(--color-blue-rgb)",
-    "--callout-error": "var(--color-red-rgb)",
-    "--callout-example": "var(--color-purple-rgb)",
-    "--callout-fail": "var(--color-red-rgb)",
-    "--callout-important": "var(--color-cyan-rgb)",
-    "--callout-info": "var(--color-blue-rgb)",
-    "--callout-question": "var(--color-orange-rgb)",
-    "--callout-success": "var(--color-green-rgb)",
-    "--callout-summary": "var(--color-cyan-rgb)",
-    "--callout-tip": "var(--color-cyan-rgb)",
-    "--callout-todo": "var(--color-blue-rgb)",
-    "--callout-warning": "var(--color-orange-rgb)",
-    "--callout-quote": "158, 158, 158"
+    "--callout-bug": "var(--color-red)",
+    "--callout-default": "var(--color-blue)",
+    "--callout-error": "var(--color-red)",
+    "--callout-example": "var(--color-purple)",
+    "--callout-fail": "var(--color-red)",
+    "--callout-important": "var(--color-cyan)",
+    "--callout-info": "var(--color-blue)",
+    "--callout-question": "var(--color-orange)",
+    "--callout-success": "var(--color-green)",
+    "--callout-summary": "var(--color-cyan)",
+    "--callout-tip": "var(--color-cyan)",
+    "--callout-todo": "var(--color-blue)",
+    "--callout-warning": "var(--color-orange)",
+    "--callout-quote": "#9e9e9e"
   },
   canvas: {
     "--canvas-background": "var(--background-primary)",
     "--canvas-card-label-color": "var(--text-faint)",
-    "--canvas-color-1": "var(--color-red-rgb)",
-    "--canvas-color-2": "var(--color-orange-rgb)",
-    "--canvas-color-3": "var(--color-yellow-rgb)",
-    "--canvas-color-4": "var(--color-green-rgb)",
-    "--canvas-color-5": "var(--color-cyan-rgb)",
-    "--canvas-color-6": "var(--color-purple-rgb)",
+    "--canvas-color-1": "var(--color-red)",
+    "--canvas-color-2": "var(--color-orange)",
+    "--canvas-color-3": "var(--color-yellow)",
+    "--canvas-color-4": "var(--color-green)",
+    "--canvas-color-5": "var(--color-cyan)",
+    "--canvas-color-6": "var(--color-purple)",
     "--canvas-dot-pattern": "var(--color-base-30)",
     "--canvas-controls-radius": "var(--radius-s)",
     "--canvas-controls-icon-size": "var(--icon-s)",
@@ -56530,6 +56454,10 @@ var obsidianCSSVariables_default = {
     "--checkbox-margin-inline-start": "0.85em",
     "--checklist-done-decoration": "line-through",
     "--checklist-done-color": "var(--text-muted)"
+  },
+  collapse: {
+    "--collapse-icon-color": "var(--text-faint)",
+    "--collapse-icon-color-collapsed": "var(--text-accent)"
   },
   code: {
     "--code-white-space": "pre-wrap",
@@ -56555,7 +56483,7 @@ var obsidianCSSVariables_default = {
     "--swatch-radius": "14px",
     "--swatch-height": "22px",
     "--swatch-width": "22px",
-    "--swatch-shadow": "inset 0 0 0 1px rgba(var(--mono-rgb-100), 0.15)"
+    "--swatch-shadow": "inset 0 0 0 1px color-mix(in oklch, var(--mono-100) 15%, transparent)"
   },
   colors: {
     "--accent-h": "258",
@@ -56564,22 +56492,21 @@ var obsidianCSSVariables_default = {
     "--background-primary": "var(--color-base-00)",
     "--background-primary-alt": "var(--color-base-10)",
     "--background-secondary": "var(--color-base-20)",
-    "--background-modifier-hover": "rgba(var(--mono-rgb-100), 0.067)",
-    "--background-modifier-active-hover": "hsla(var(--interactive-accent-hsl), 0.1)",
+    "--background-modifier-hover": "color-mix(in oklch, var(--mono-100) 6.7%, transparent)",
+    "--background-modifier-active-hover": "color-mix(in oklch, var(--interactive-accent) 10%, transparent)",
     "--background-modifier-border": "var(--color-base-30)",
     "--background-modifier-border-hover": "var(--color-base-35)",
     "--background-modifier-border-focus": "var(--color-base-40)",
-    "--background-modifier-error-rgb": "var(--color-red-rgb)",
     "--background-modifier-error": "var(--color-red)",
+    "--background-modifier-warning": "var(--color-orange)",
     "--background-modifier-error-hover": "var(--color-red)",
-    "--background-modifier-success-rgb": "var(--color-green-rgb)",
+    "--background-modifier-warning-hover": "var(--color-orange)",
     "--background-modifier-success": "var(--color-green)",
-    "--background-modifier-message": "rgba(0, 0, 0, 0.9)",
+    "--background-modifier-message": "color-mix(in oklch, black 90%, transparent)",
     "--background-modifier-form-field": "var(--color-base-00)",
     "--background-modifier-form-field-hover": "var(--background-modifier-form-field)",
     "--interactive-normal": "var(--color-base-00)",
     "--interactive-hover": "var(--color-base-10)",
-    "--interactive-accent-hsl": "var(--color-accent-hsl)",
     "--interactive-accent": "var(--color-accent-1)",
     "--interactive-accent-hover": "var(--color-accent-2)",
     "--text-normal": "var(--color-base-100)",
@@ -56590,16 +56517,15 @@ var obsidianCSSVariables_default = {
     "--text-error": "var(--color-red)",
     "--text-warning": "var(--color-orange)",
     "--text-success": "var(--color-green)",
-    "--text-selection": "hsla(var(--color-accent-hsl), 0.2)",
-    "--text-highlight-bg-rgb": "255, 208, 0",
-    "--text-highlight-bg": "rgba(var(--text-highlight-bg-rgb), 0.4)",
+    "--text-selection": "color-mix(in oklch, var(--interactive-accent) 20%, transparent)",
+    "--text-highlight-bg": "rgba(255, 208, 0, 0.4)",
     "--text-accent": "var(--color-accent)",
     "--text-accent-hover": "var(--color-accent-2)",
     "--caret-color": "var(--text-normal)"
   },
   cts: {
     "--element-selector-highlight-outline": "1px dashed var(--interactive-accent)",
-    "--element-selector-highlight-background-color": "hsla(var(--interactive-accent-hsl), .1)",
+    "--element-selector-highlight-background-color": "color-mix(in oklch, var(--interactive-accent) 10%, transparent)",
     "--element-selector-tooltip-background-color": "var(--background-primary)",
     "--element-selector-tooltip-border": "1px solid var(--background-modifier-border)",
     "--element-selector-tooltip-border-radius": "var(--size-4-2)",
@@ -56625,17 +56551,21 @@ var obsidianCSSVariables_default = {
   },
   dragging: {
     "--drag-ghost-background": "rgba(0, 0, 0, 0.85)",
-    "--drag-ghost-text-color": "#ffffff"
+    "--drag-ghost-text-color": "#ffffff",
+    "--drag-item-background": "var(--background-primary)",
+    "--drag-item-shadow": "0 2px 8px var(--background-modifier-box-shadow)"
   },
   dropdowns: {
-    "--dropdown-background-blend-mode": "hard-light",
-    "--dropdown-background-position": "var(--inset-end) var(--dropdown-icon-inset) top 50%, 0 0",
-    "--dropdown-background-size": "var(--dropdown-icon-width) auto, 100%",
+    "--dropdown-background-blend-mode": "hard-light, normal",
+    "--dropdown-background-position": "var(--inset-end) var(--dropdown-icon-inset) top 50%, var(--inset-end) 0.15em top 50%, 0 0",
+    "--dropdown-background-size": "var(--dropdown-icon-width) auto, 2em 2em, 100%",
+    "--dropdown-icon-background": "transparent",
     "--dropdown-icon-width": "1em",
-    "--dropdown-icon-inset": "0.5em",
+    "--dropdown-icon-inset": "0.65em",
     "--dropdown-padding": "0 var(--dropdown-padding-end) 0 var(--dropdown-padding-start)",
     "--dropdown-padding-start": "0.8em",
-    "--dropdown-padding-end": "1.9em"
+    "--dropdown-padding-end": "2.4em",
+    "--dropdown-text-align": "start"
   },
   embed: {
     "--embed-max-height": "4000px",
@@ -56646,7 +56576,8 @@ var obsidianCSSVariables_default = {
     "--embed-border-top": "none",
     "--embed-border-bottom": "none",
     "--embed-padding": "0 0 0 var(--size-4-6)",
-    "--embed-font-style": "inherit"
+    "--embed-font-style": "inherit",
+    "--embed-block-shadow-hover": "0 0 0 1px var(--background-modifier-border), inset 0 0 0 1px var(--background-modifier-border)"
   },
   file: {
     "--file-line-width": "700px",
@@ -56661,6 +56592,10 @@ var obsidianCSSVariables_default = {
     "--file-header-background-focused": "var(--background-primary)",
     "--file-header-border": "var(--border-width) solid transparent",
     "--file-header-justify": "center"
+  },
+  flair: {
+    "--flair-background": "var(--interactive-normal)",
+    "--flair-color": "var(--text-normal)"
   },
   footnote: {
     "--footnote-divider-color-active": "var(--metadata-divider-color-focus)",
@@ -56771,8 +56706,8 @@ var obsidianCSSVariables_default = {
     "--indent-unit": "0.5625em",
     "--indentation-guide-width": "var(--border-width)",
     "--indentation-guide-width-active": "var(--border-width)",
-    "--indentation-guide-color": "rgba(var(--mono-rgb-100), 0.12)",
-    "--indentation-guide-color-active": "rgba(var(--mono-rgb-100), 0.3)",
+    "--indentation-guide-color": "color-mix(in oklch, var(--mono-100) 12%, transparent)",
+    "--indentation-guide-color-active": "color-mix(in oklch, var(--mono-100) 30%, transparent)",
     "--indentation-guide-editing-indent": "0.85em",
     "--indentation-guide-reading-indent": "-0.85em",
     "--indentation-guide-source-indent": "0.25em"
@@ -56815,7 +56750,7 @@ var obsidianCSSVariables_default = {
     "--link-unresolved-opacity": "0.7",
     "--link-unresolved-filter": "none",
     "--link-unresolved-decoration-style": "solid",
-    "--link-unresolved-decoration-color": "hsla(var(--interactive-accent-hsl), 0.3)"
+    "--link-unresolved-decoration-color": "color-mix(in oklch, var(--interactive-accent) 30%, transparent)"
   },
   list: {
     "--list-indent": "calc(var(--indent-unit) * var(--indent-size))",
@@ -56845,6 +56780,7 @@ var obsidianCSSVariables_default = {
   },
   modal: {
     "--modal-background": "var(--background-primary)",
+    "--modal-sidebar-background": "var(--modal-background)",
     "--modal-header-height": "auto",
     "--modal-width": "90vw",
     "--modal-height": "85vh",
@@ -56883,13 +56819,13 @@ var obsidianCSSVariables_default = {
     "--nav-item-color-highlighted": "var(--text-accent)",
     "--nav-item-background-hover": "var(--background-modifier-hover)",
     "--nav-item-background-active": "var(--background-modifier-hover)",
-    "--nav-item-background-selected": "hsla(var(--color-accent-hsl), 0.15)",
+    "--nav-item-background-selected": "color-mix(in oklch, var(--color-accent) 15%, transparent)",
     "--nav-item-padding": "var(--size-4-1) var(--size-4-2) var(--size-4-1) var(--size-4-6)",
     "--nav-item-parent-padding": "var(--nav-item-padding)",
     "--nav-item-children-padding-start": "var(--size-2-2)",
     "--nav-item-children-margin-start": "var(--size-4-3)",
     "--nav-item-margin-bottom": "var(--size-2-1)",
-    "--nav-item-radius": "var(--radius-s);",
+    "--nav-item-radius": "var(--radius-s)",
     "--nav-item-weight": "inherit",
     "--nav-item-weight-hover": "inherit",
     "--nav-item-weight-active": "inherit",
@@ -56904,7 +56840,7 @@ var obsidianCSSVariables_default = {
     "--nav-heading-color-collapsed-hover": "var(--text-muted)",
     "--nav-heading-weight": "var(--font-medium)",
     "--nav-heading-weight-hover": "var(--font-medium)",
-    "--nav-tag-background": "transparent;",
+    "--nav-tag-background": "transparent",
     "--nav-tag-radius": "var(--radius-s)",
     "--nav-tag-color": "var(--text-faint)",
     "--nav-tag-color-hover": "var(--text-muted)",
@@ -56918,6 +56854,14 @@ var obsidianCSSVariables_default = {
     "--popover-pdf-width": "450px",
     "--popover-pdf-height": "400px",
     "--popover-font-size": "var(--font-text-size)"
+  },
+  pdf: {
+    "--pdf-background": "var(--background-primary)",
+    "--pdf-page-background": "var(--background-primary)",
+    "--pdf-shadow": "0 0 0 1px rgba(0, 0, 0, 0.05), 0 2px 8px rgba(0, 0, 0, 0.1)",
+    "--pdf-spread-shadow": "0 0 0 1px rgba(0, 0, 0, 0.05)",
+    "--pdf-sidebar-background": "var(--background-primary)",
+    "--pdf-thumbnail-shadow": "0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.2)"
   },
   prompt: {
     "--prompt-input-height": "40px",
@@ -56991,7 +56935,7 @@ var obsidianCSSVariables_default = {
     "--radius-s": "4px",
     "--radius-m": "8px",
     "--radius-l": "12px",
-    "--radius-xl": "16px"
+    "--radius-xl": "24px"
   },
   ribbon: {
     "--ribbon-background": "var(--background-secondary)",
@@ -57004,26 +56948,31 @@ var obsidianCSSVariables_default = {
     "--scrollbar-height": "12px",
     "--scrollbar-border-width": "3px 3px 3px 2px",
     "--scrollbar-radius": "var(--radius-l)",
-    "--scrollbar-active-thumb-bg": "rgba(var(--mono-rgb-100), 0.2)",
-    "--scrollbar-bg": "rgba(var(--mono-rgb-100), 0.05)",
-    "--scrollbar-thumb-bg": "rgba(var(--mono-rgb-100), 0.1)"
+    "--scrollbar-active-thumb-bg": "color-mix(in oklch, var(--mono-100) 20%, transparent)",
+    "--scrollbar-bg": "color-mix(in oklch, var(--mono-100) 5%, transparent)",
+    "--scrollbar-thumb-bg": "color-mix(in oklch, var(--mono-100) 10%, transparent)"
   },
   search: {
     "--search-clear-button-color": "var(--text-muted)",
     "--search-clear-button-size": "13px",
     "--search-icon-color": "var(--text-muted)",
     "--search-icon-size": "18px",
+    "--search-input-corner-shape": "var(--input-corner-shape)",
+    "--search-input-radius": "var(--input-radius)",
     "--search-result-background": "var(--background-primary)"
   },
   settinggroup: {
     "--setting-group-heading-color": "var(--text-normal)",
     "--setting-group-heading-size": "var(--font-ui-medium)",
     "--setting-group-heading-weight": "var(--font-semibold)",
+    "--setting-group-max-width": "700px",
     "--setting-items-background": "var(--background-primary-alt)",
-    "--setting-items-padding": "var(--size-4-5)",
+    "--setting-items-padding-x": "var(--size-4-5)",
+    "--setting-items-padding-y": "var(--size-4-5)",
     "--setting-items-radius": "var(--radius-l)",
     "--setting-items-border-width": "0",
-    "--setting-items-border-color": "var(--background-modifier-border)"
+    "--setting-items-border-color": "var(--background-modifier-border)",
+    "--setting-items-divider-width": "var(--border-width)"
   },
   sidebar: {
     "--sidebar-markdown-font-size": "calc(var(--font-text-size) * 0.9)",
@@ -57042,8 +56991,8 @@ var obsidianCSSVariables_default = {
     "--slider-thumb-radius": "var(--slider-thumb-height)",
     "--slider-s-thumb-size": "15px",
     "--slider-s-thumb-position": "-5px",
-    "--slider-track-background": "var(--background-modifier-border)",
-    "--slider-track-height": "3px"
+    "--slider-track-background": "var(--background-modifier-border-hover)",
+    "--slider-track-height": "4px"
   },
   spacing: {
     "--size-2-1": "2px",
@@ -57111,7 +57060,7 @@ var obsidianCSSVariables_default = {
     "--table-row-alt-background": "var(--table-background)",
     "--table-row-alt-background-hover": "var(--table-background)",
     "--table-row-last-border-width": "var(--table-border-width)",
-    "--table-selection": "hsla(var(--color-accent-hsl), 0.1)",
+    "--table-selection": "color-mix(in oklch, var(--color-accent) 10%, transparent)",
     "--table-selection-blend-mode": "var(--highlight-mix-blend-mode)",
     "--table-selection-border-color": "var(--interactive-accent)",
     "--table-selection-border-width": "2px",
@@ -57159,7 +57108,7 @@ var obsidianCSSVariables_default = {
     "--tab-switcher-background": "var(--background-secondary)",
     "--tab-switcher-preview-radius": "var(--radius-xl)",
     "--tab-switcher-preview-background-shadow": "0 4px 30px 2px rgba(0, 0, 0, 0.2)",
-    "--tab-switcher-preview-shadow": "0 0 0 1px rgba(var(--mono-rgb-100), 0.05)",
+    "--tab-switcher-preview-shadow": "0 0 0 1px color-mix(in oklch, var(--mono-100) 5%, transparent)",
     "--tab-switcher-preview-shadow-active": "0 0 0 2px var(--color-accent)"
   },
   tag: {
@@ -57168,10 +57117,10 @@ var obsidianCSSVariables_default = {
     "--tag-color-hover": "var(--text-accent)",
     "--tag-decoration": "none",
     "--tag-decoration-hover": "none",
-    "--tag-background": "hsla(var(--interactive-accent-hsl), 0.1)",
-    "--tag-background-hover": "hsla(var(--interactive-accent-hsl), 0.2)",
-    "--tag-border-color": "hsla(var(--interactive-accent-hsl), 0.15)",
-    "--tag-border-color-hover": "hsla(var(--interactive-accent-hsl), 0.15)",
+    "--tag-background": "color-mix(in oklch, var(--interactive-accent) 10%, transparent)",
+    "--tag-background-hover": "color-mix(in oklch, var(--interactive-accent) 20%, transparent)",
+    "--tag-border-color": "color-mix(in oklch, var(--interactive-accent) 15%, transparent)",
+    "--tag-border-color-hover": "color-mix(in oklch, var(--interactive-accent) 15%, transparent)",
     "--tag-border-width": "0px",
     "--tag-padding-x": "0.65em",
     "--tag-padding-y": "0.25em",
@@ -57220,45 +57169,36 @@ var obsidianCSSVariables_default = {
   },
   themelight: {
     "--highlight-mix-blend-mode": "darken",
-    "--mono-rgb-0": "255, 255, 255",
-    "--mono-rgb-100": "0, 0, 0",
-    "--color-red-rgb": "233, 49, 71",
+    "--mono-0": "white",
+    "--mono-100": "black",
     "--color-red": "#e93147",
-    "--color-orange-rgb": "236, 117, 0",
     "--color-orange": "#ec7500",
-    "--color-yellow-rgb": "224, 172, 0",
     "--color-yellow": "#e0ac00",
-    "--color-green-rgb": "8, 185, 78",
     "--color-green": "#08b94e",
-    "--color-cyan-rgb": "0, 191, 188",
     "--color-cyan": "#00bfbc",
-    "--color-blue-rgb": "8, 109, 221",
     "--color-blue": "#086ddd",
-    "--color-purple-rgb": "120, 82, 238",
     "--color-purple": "#7852ee",
-    "--color-pink-rgb": "213, 57, 132",
     "--color-pink": "#d53984",
     "--color-base-00": "#ffffff",
     "--color-base-05": "#fcfcfc",
     "--color-base-10": "#fafafa",
     "--color-base-20": "#f6f6f6",
-    "--color-base-25": "#e3e3e3",
-    "--color-base-30": "#e0e0e0",
-    "--color-base-35": "#d4d4d4",
+    "--color-base-25": "#efefef",
+    "--color-base-30": "#e4e4e4",
+    "--color-base-35": "#dadada",
     "--color-base-40": "#bdbdbd",
     "--color-base-50": "#ababab",
     "--color-base-60": "#707070",
     "--color-base-70": "#5c5c5c",
     "--color-base-100": "#222222",
-    "--color-accent-hsl": "var(--accent-h), var(--accent-s), var(--accent-l)",
     "--color-accent": "hsl(var(--accent-h), var(--accent-s), var(--accent-l))",
     "--color-accent-1": "hsl(calc(var(--accent-h) - 1), calc(var(--accent-s) * 1.01), calc(var(--accent-l) * 1.075))",
     "--color-accent-2": "hsl(calc(var(--accent-h) - 3), calc(var(--accent-s) * 1.02), calc(var(--accent-l) * 1.15))",
     "--background-secondary-alt": "var(--color-base-05)",
     "--background-modifier-box-shadow": "rgba(0, 0, 0, 0.1)",
     "--background-modifier-cover": "rgba(220, 220, 220, 0.4)",
-    "--input-shadow": "inset 0 0 0 1px rgba(0, 0, 0, 0.12), 0 2px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent",
-    "--input-shadow-hover": "inset 0 0 0 1px rgba(0, 0, 0, 0.17), 0 2px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent",
+    "--input-shadow": "inset 0 0 0 1px rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.065), 0 0 0 0 transparent",
+    "--input-shadow-hover": "inset 0 0 0 1px rgba(0, 0, 0, 0.17), 0 1px 2px 0 rgba(0, 0, 0, 0.1), 0 0 0 0 transparent",
     "--shadow-edges": "0 0 transparent",
     "--shadow-xs": "0 1px 6px rgba(0, 0, 0, 0.015), 0 4px 24px rgba(0, 0, 0, 0.065), var(--shadow-edges)",
     "--shadow-s": "0px 1px 2px rgba(0, 0, 0, 0.028), 0px 3.4px 6.7px rgba(0, 0, 0, 0.042), 0px 15px 30px rgba(0, 0, 0, 0.07)",
@@ -57266,37 +57206,28 @@ var obsidianCSSVariables_default = {
   },
   themedark: {
     "--highlight-mix-blend-mode": "lighten",
-    "--mono-rgb-0": "0, 0, 0",
-    "--mono-rgb-100": "255, 255, 255",
-    "--color-red-rgb": "251, 70, 76",
+    "--mono-0": "black",
+    "--mono-100": "white",
     "--color-red": "#fb464c",
-    "--color-orange-rgb": "233, 151, 63",
     "--color-orange": "#e9973f",
-    "--color-yellow-rgb": "224, 222, 113",
     "--color-yellow": "#e0de71",
-    "--color-green-rgb": "68, 207, 110",
     "--color-green": "#44cf6e",
-    "--color-cyan-rgb": "83, 223, 221",
     "--color-cyan": "#53dfdd",
-    "--color-blue-rgb": "2, 122, 255",
     "--color-blue": "#027aff",
-    "--color-purple-rgb": "168, 130, 255",
     "--color-purple": "#a882ff",
-    "--color-pink-rgb": "250, 153, 205",
     "--color-pink": "#fa99cd",
-    "--color-base-00": "#1e1e1e",
+    "--color-base-00": "#1C1C1C",
     "--color-base-05": "#212121",
-    "--color-base-10": "#242424",
-    "--color-base-20": "#262626",
-    "--color-base-25": "#2a2a2a",
-    "--color-base-30": "#363636",
+    "--color-base-10": "#232323",
+    "--color-base-20": "#282828",
+    "--color-base-25": "#2e2e2e",
+    "--color-base-30": "#333333",
     "--color-base-35": "#3f3f3f",
     "--color-base-40": "#555555",
     "--color-base-50": "#666666",
     "--color-base-60": "#999999",
     "--color-base-70": "#b3b3b3",
     "--color-base-100": "#dadada",
-    "--color-accent-hsl": "var(--accent-h), var(--accent-s), var(--accent-l)",
     "--color-accent": "hsl(var(--accent-h), var(--accent-s), var(--accent-l))",
     "--color-accent-1": "hsl(calc(var(--accent-h) - 3), calc(var(--accent-s) * 1.02), calc(var(--accent-l) * 1.15))",
     "--color-accent-2": "hsl(calc(var(--accent-h) - 5), calc(var(--accent-s) * 1.05), calc(var(--accent-l) * 1.29))",
@@ -57311,7 +57242,7 @@ var obsidianCSSVariables_default = {
     "--background-modifier-box-shadow": "rgba(0, 0, 0, 0.3)",
     "--background-modifier-cover": "rgba(10, 10, 10, 0.4)",
     "--raised-mask-background": "transparent",
-    "--text-selection": "hsla(var(--interactive-accent-hsl), 0.33)",
+    "--text-selection": "color-mix(in oklch, var(--interactive-accent) 33%, transparent)",
     "--input-shadow": "inset 0 0.5px 0.5px 0.5px rgba(255, 255, 255, 0.09), 0 2px 4px 0 rgba(0, 0, 0, 0.15), 0 1px 1.5px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 0 0 0 transparent",
     "--input-shadow-hover": "inset 0 0.5px 1px 0.5px rgba(255, 255, 255, 0.16), 0 2px 3px 0 rgba(0, 0, 0, 0.3), 0 1px 1.5px 0 rgba(0, 0, 0, 0.2), 0 1px 2px 0 rgba(0, 0, 0, 0.4), 0 0 0 0 transparent",
     "--shadow-xs": "0 1px 6px rgba(0, 0, 0, 0.045), 0 4px 24px rgba(0, 0, 0, 0.195), var(--shadow-edges)",
@@ -57371,7 +57302,8 @@ var obsidianCSSVariables_default = {
     "--vault-profile-font-size": "var(--font-ui-small)",
     "--vault-profile-font-weight": "var(--font-medium)",
     "--vault-profile-color": "var(--text-normal)",
-    "--vault-profile-color-hover": "var(--vault-profile-color)"
+    "--vault-profile-color-hover": "var(--vault-profile-color)",
+    "--vault-profile-radius": "var(--radius-s)"
   },
   view: {
     "--view-top-fade-opacity": "0.25",
@@ -57392,7 +57324,24 @@ var obsidianCSSVariables_default = {
     "--header-height": "40px"
   },
   workspace: {
-    "--workspace-background-translucent": "rgba(var(--mono-rgb-0), 0.6)"
+    "--workspace-background-translucent": "color-mix(in oklch, var(--mono-0) 60%, transparent)"
+  },
+  deprecated: {
+    "--interactive-accent-hsl": "var(--color-accent-hsl)",
+    "--background-modifier-error-rgb": "var(--color-red-rgb)",
+    "--background-modifier-success-rgb": "var(--color-green-rgb)",
+    "--text-highlight-bg-rgb": "255, 208, 0",
+    "--mono-rgb-0": "255, 255, 255",
+    "--mono-rgb-100": "0, 0, 0",
+    "--color-accent-hsl": "var(--accent-h), var(--accent-s), var(--accent-l)",
+    "--color-red-rgb": "233, 49, 71",
+    "--color-orange-rgb": "236, 117, 0",
+    "--color-yellow-rgb": "224, 172, 0",
+    "--color-green-rgb": "8, 185, 78",
+    "--color-cyan-rgb": "0, 191, 188",
+    "--color-blue-rgb": "8, 109, 221",
+    "--color-purple-rgb": "120, 82, 238",
+    "--color-pink-rgb": "213, 57, 132"
   }
 };
 
@@ -57426,6 +57375,7 @@ var variableCategories = {
   canvas: { parent: "Plugins", category: "Canvas" },
   checkbox: { parent: "Components", category: "Checkbox" },
   code: { parent: "Editor", category: "Code" },
+  collapse: { parent: "Components", category: "Collapse", text: "Collapse icon variables" },
   colorinput: { parent: "Components", category: "Color+input" },
   colors: { parent: "Foundations", category: "Colors" },
   cts: { parent: "CTS", category: "Custom Theme Studio plugin", text: "Variables for the element selector and highlighted element" },
@@ -57438,6 +57388,7 @@ var variableCategories = {
   embed: { parent: "Editor", category: "Embed" },
   file: { parent: "Editor", category: "File" },
   fileexplorer: { parent: "Plugins", category: "File+explorer" },
+  flair: { parent: "Components", category: "Flair", text: "Flair variables" },
   footnote: { parent: "Editor", category: "Footnote" },
   graph: { parent: "Plugins", category: "Graph" },
   headings: { parent: "Editor", category: "Headings" },
@@ -57451,6 +57402,7 @@ var variableCategories = {
   modal: { parent: "Components", category: "Modal" },
   multiselect: { parent: "Components", category: "Multi-select" },
   navigation: { parent: "Components", category: "Navigation" },
+  pdf: { parent: "Plugins", category: "PDF", text: "PDF viewer variables" },
   popover: { parent: "Components", category: "Popover" },
   prompt: { parent: "Components", category: "Prompt" },
   properties: { parent: "Editor", category: "Properties" },
@@ -57507,16 +57459,17 @@ var CSSVariableManager = class {
    * Update a CSS variable value
    */
   updateVariable(uuid, name, value, parent) {
-    let customVars = this.plugin.settings.cssVariables;
-    if (!customVars) {
-      this.plugin.settings.cssVariables = [];
+    var _a2;
+    const customVars = (_a2 = this.plugin.settings.cssVariables) != null ? _a2 : [];
+    if (!this.plugin.settings.cssVariables) {
+      this.plugin.settings.cssVariables = customVars;
     }
-    const updateVar = (target, name2, value2) => {
-      target.variable = name2;
-      target.value = value2;
+    const updateVar = (target, newName, newValue) => {
+      target.variable = newName;
+      target.value = newValue;
     };
-    const removeVarByUUID = (uuid2) => {
-      const index = customVars.findIndex((el) => el.uuid === uuid2);
+    const removeVarByUUID = (targetUuid) => {
+      const index = customVars.findIndex((el) => el.uuid === targetUuid);
       if (index !== -1) customVars.splice(index, 1);
     };
     if (uuid) {
@@ -57532,7 +57485,7 @@ var CSSVariableManager = class {
       if (existing) {
         if (value !== "") {
           updateVar(existing, name, value);
-        } else {
+        } else if (existing.uuid) {
           removeVarByUUID(existing.uuid);
         }
       } else if (value !== "") {
@@ -58470,10 +58423,10 @@ function vu(e) {
   return t;
 }
 var Ne = vu;
-var R = Symbol("MODE_BREAK");
-var H = Symbol("MODE_FLAT");
-var de = Symbol("cursor");
-var _t = Symbol("DOC_FILL_PRINTED_LENGTH");
+var R = /* @__PURE__ */ Symbol("MODE_BREAK");
+var H = /* @__PURE__ */ Symbol("MODE_FLAT");
+var de = /* @__PURE__ */ Symbol("cursor");
+var _t = /* @__PURE__ */ Symbol("DOC_FILL_PRINTED_LENGTH");
 function Nr() {
   return { value: "", length: 0, queue: [] };
 }
@@ -59078,7 +59031,7 @@ function Ju(e, t, r) {
 function qu(e, t) {
   let r = e.node;
   if (!r) return {};
-  let n = t[Symbol.for("printedComments")];
+  let n = t[/* @__PURE__ */ Symbol.for("printedComments")];
   if ((r.comments || []).filter((a) => !n.has(a)).length === 0) return { leading: "", trailing: "" };
   let o = [], i = [], s;
   return e.each(() => {
@@ -59093,7 +59046,7 @@ function Mr(e, t, r) {
   return !n && !u ? t : Fe(t, (o) => [n, o, u]);
 }
 function Gr(e) {
-  let { [Symbol.for("comments")]: t, [Symbol.for("printedComments")]: r } = e;
+  let { [/* @__PURE__ */ Symbol.for("comments")]: t, [/* @__PURE__ */ Symbol.for("printedComments")]: r } = e;
   for (let n of t) {
     if (!n.printed && !r.has(n)) throw new Error('Comment "' + n.value.trim() + '" was not printed. Please report this error!');
     delete n.printed;
@@ -59217,8 +59170,8 @@ var an = (e, t, { descriptor: r }) => {
   let n = [`${V.yellow(typeof e == "string" ? r.key(e) : r.pair(e))} is deprecated`];
   return t && n.push(`we now treat it as ${V.blue(typeof t == "string" ? r.key(t) : r.pair(t))}`), n.join("; ") + ".";
 };
-var Ze = Symbol.for("vnopts.VALUE_NOT_EXIST");
-var ge = Symbol.for("vnopts.VALUE_UNCHANGED");
+var Ze = /* @__PURE__ */ Symbol.for("vnopts.VALUE_NOT_EXIST");
+var ge = /* @__PURE__ */ Symbol.for("vnopts.VALUE_UNCHANGED");
 var Dn = " ".repeat(2);
 var fn = (e, t, r) => {
   let { text: n, list: u } = r.normalizeExpectedResult(r.schemas[e].expected(r)), o = [];
@@ -59770,7 +59723,7 @@ async function Bo(e, t, r, n) {
   return $e(i);
 }
 function _o(e, t) {
-  let { originalText: r, [Symbol.for("comments")]: n, locStart: u, locEnd: o, [Symbol.for("printedComments")]: i } = t, { node: s } = e, a = u(s), c = o(s);
+  let { originalText: r, [/* @__PURE__ */ Symbol.for("comments")]: n, locStart: u, locEnd: o, [/* @__PURE__ */ Symbol.for("printedComments")]: i } = t, { node: s } = e, a = u(s), c = o(s);
   for (let D2 of n) u(D2) >= a && o(D2) <= c && i.add(D2);
   return r.slice(a, c);
 }
@@ -59817,7 +59770,7 @@ function Rn(e, t, r, n, u) {
 async function Gt(e, t) {
   var _a2;
   let r = (_a2 = e.comments) != null ? _a2 : [];
-  t[Symbol.for("comments")] = r, t[Symbol.for("printedComments")] = /* @__PURE__ */ new Set(), Vr(e, t);
+  t[/* @__PURE__ */ Symbol.for("comments")] = r, t[/* @__PURE__ */ Symbol.for("printedComments")] = /* @__PURE__ */ new Set(), Vr(e, t);
   let { printer: { preprocess: n } } = t;
   return e = n ? await n(e, t) : e, { ast: e, comments: r };
 }
@@ -59951,7 +59904,7 @@ function Wn(e, t, r) {
   return { rangeStart: Math.min(o(p), o(l)), rangeEnd: Math.max(i(p), i(l)) };
 }
 var zn = "\uFEFF";
-var Mn = Symbol("cursor");
+var Mn = /* @__PURE__ */ Symbol("cursor");
 async function Hn(e, t, r = 0) {
   if (!e || e.trim().length === 0) return { formatted: "", cursorOffset: -1, comments: [] };
   let { ast: n, text: u } = await De(e, t);
@@ -59963,7 +59916,7 @@ async function Hn(e, t, r = 0) {
     let a = i.formatted.trim();
     i.cursorNodeStart !== void 0 && (i.cursorNodeStart -= i.formatted.indexOf(a), i.cursorNodeStart < 0 && (i.cursorNodeStart = 0, i.cursorNodeText = i.cursorNodeText.trimStart()), i.cursorNodeStart + i.cursorNodeText.length > a.length && (i.cursorNodeText = i.cursorNodeText.trimEnd())), i.formatted = a + xe(t.endOfLine);
   }
-  let s = t[Symbol.for("comments")];
+  let s = t[/* @__PURE__ */ Symbol.for("comments")];
   if (t.cursorOffset >= 0) {
     let a, c, D2, p;
     if ((t.cursorNode || t.nodeBeforeCursor || t.nodeAfterCursor) && i.cursorNodeText) if (D2 = i.cursorNodeStart, p = i.cursorNodeText, t.cursorNode) a = t.locStart(t.cursorNode), c = u.slice(a, t.locEnd(t.cursorNode));
@@ -60413,8 +60366,8 @@ var lt = g2((Dv, Ii) => {
 });
 var Vt2 = g2((Mv, us) => {
   "use strict";
-  us.exports.isClean = Symbol("isClean");
-  us.exports.my = Symbol("my");
+  us.exports.isClean = /* @__PURE__ */ Symbol("isClean");
+  us.exports.my = /* @__PURE__ */ Symbol("my");
 });
 var pt2 = g2((Bv, qi) => {
   "use strict";
@@ -60622,7 +60575,7 @@ var mt2 = g2((Fv, Di) => {
 });
 var le2 = g2(($v, Vi) => {
   "use strict";
-  var Mi = qe2(), Bi = mt2(), Ic = pt2(), { isClean: Ui, my: Fi } = Vt2(), cs, $i, Wi, fs2;
+  var Mi = qe2(), Bi = mt2(), Ic = pt2(), { isClean: Ui, my: Fi } = Vt2(), cs, $i, Wi, fs;
   function Gi(t) {
     return t.map((e) => (e.nodes && (e.nodes = Gi(e.nodes)), delete e.source, e));
   }
@@ -60699,7 +60652,7 @@ var le2 = g2(($v, Vi) => {
       else if (e.prop) {
         if (typeof e.value > "u") throw new Error("Value field is missed in node creation");
         typeof e.value != "string" && (e.value = String(e.value)), e = [new Bi(e)];
-      } else if (e.selector || e.selectors) e = [new fs2(e)];
+      } else if (e.selector || e.selectors) e = [new fs(e)];
       else if (e.name) e = [new cs(e)];
       else if (e.text) e = [new Mi(e)];
       else throw new Error("Unknown node type in node creation");
@@ -60783,7 +60736,7 @@ var le2 = g2(($v, Vi) => {
     $i = t;
   };
   V2.registerRule = (t) => {
-    fs2 = t;
+    fs = t;
   };
   V2.registerAtRule = (t) => {
     cs = t;
@@ -60794,7 +60747,7 @@ var le2 = g2(($v, Vi) => {
   Vi.exports = V2;
   V2.default = V2;
   V2.rebuild = (t) => {
-    t.type === "atrule" ? Object.setPrototypeOf(t, cs.prototype) : t.type === "rule" ? Object.setPrototypeOf(t, fs2.prototype) : t.type === "decl" ? Object.setPrototypeOf(t, Bi.prototype) : t.type === "comment" ? Object.setPrototypeOf(t, Mi.prototype) : t.type === "root" && Object.setPrototypeOf(t, Wi.prototype), t[Fi] = true, t.nodes && t.nodes.forEach((e) => {
+    t.type === "atrule" ? Object.setPrototypeOf(t, cs.prototype) : t.type === "rule" ? Object.setPrototypeOf(t, fs.prototype) : t.type === "decl" ? Object.setPrototypeOf(t, Bi.prototype) : t.type === "comment" ? Object.setPrototypeOf(t, Mi.prototype) : t.type === "root" && Object.setPrototypeOf(t, Wi.prototype), t[Fi] = true, t.nodes && t.nodes.forEach((e) => {
       V2.rebuild(e);
     });
   };
@@ -60819,7 +60772,7 @@ var ps = g2((Vv, Ki) => {
 });
 var De2 = g2((Hv, eo2) => {
   "use strict";
-  var { nanoid: Mc } = Hi(), { isAbsolute: ms, resolve: ys } = {}, { SourceMapConsumer: Bc, SourceMapGenerator: Uc } = ji(), { fileURLToPath: Qi, pathToFileURL: zt2 } = {}, Xi = Gt2(), Fc = ps(), hs = os(), ds = Symbol("lineToIndexCache"), $c = !!(Bc && Uc), Ji = !!(ys && ms);
+  var { nanoid: Mc } = Hi(), { isAbsolute: ms, resolve: ys } = {}, { SourceMapConsumer: Bc, SourceMapGenerator: Uc } = ji(), { fileURLToPath: Qi, pathToFileURL: zt2 } = {}, Xi = Gt2(), Fc = ps(), hs = os(), ds = /* @__PURE__ */ Symbol("lineToIndexCache"), $c = !!(Bc && Uc), Ji = !!(ys && ms);
   function Zi(t) {
     if (t[ds]) return t[ds];
     let e = t.css.split(`
@@ -62471,7 +62424,7 @@ var ve2 = g2((or2, Oa) => {
       }) : r[n] = t(i, r);
     }
     return r;
-  }, Ap = function() {
+  }, Ap = (function() {
     function t() {
       var e = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {};
       Op(this, t);
@@ -62500,7 +62453,7 @@ var ve2 = g2((or2, Oa) => {
     }, t.prototype.toString = function() {
       return [this.spaces.before, String(this.value), this.spaces.after].join("");
     }, t;
-  }();
+  })();
   or2.default = Ap;
   Oa.exports = or2.default;
 });
@@ -62512,7 +62465,7 @@ var M2 = g2((B2) => {
 var ur2 = g2((ar2, Ca) => {
   "use strict";
   ar2.__esModule = true;
-  var Np = /* @__PURE__ */ function() {
+  var Np = /* @__PURE__ */ (function() {
     function t(e, s) {
       for (var r = 0; r < s.length; r++) {
         var n = s[r];
@@ -62522,7 +62475,7 @@ var ur2 = g2((ar2, Ca) => {
     return function(e, s, r) {
       return s && t(e.prototype, s), r && t(e, r), e;
     };
-  }(), Pp = ve2(), Rp = Lp(Pp), Ip = M2(), ee2 = qp(Ip);
+  })(), Pp = ve2(), Rp = Lp(Pp), Ip = M2(), ee2 = qp(Ip);
   function qp(t) {
     if (t && t.__esModule) return t;
     var e = {};
@@ -62543,7 +62496,7 @@ var ur2 = g2((ar2, Ca) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Up = function(t) {
+  var Up = (function(t) {
     Bp(e, t);
     function e(s) {
       Dp(this, e);
@@ -62675,7 +62628,7 @@ var ur2 = g2((ar2, Ca) => {
     } }, { key: "length", get: function() {
       return this.nodes.length;
     } }]), e;
-  }(Rp.default);
+  })(Rp.default);
   ar2.default = Up;
   Ca.exports = ar2.default;
 });
@@ -62697,7 +62650,7 @@ var Na = g2((lr2, Aa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Hp = function(t) {
+  var Hp = (function(t) {
     zp(e, t);
     function e(s) {
       Yp(this, e);
@@ -62711,7 +62664,7 @@ var Na = g2((lr2, Aa) => {
       }, "").slice(0, -1);
       return this.trailingComma ? r + "," : r;
     }, e;
-  }($p.default);
+  })($p.default);
   lr2.default = Hp;
   Aa.exports = lr2.default;
 });
@@ -62733,7 +62686,7 @@ var Ra = g2((cr2, Pa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var th = function(t) {
+  var th = (function(t) {
     eh(e, t);
     function e(s) {
       Jp(this, e);
@@ -62741,14 +62694,14 @@ var Ra = g2((cr2, Pa) => {
       return r.type = Qp.SELECTOR, r;
     }
     return e;
-  }(Kp.default);
+  })(Kp.default);
   cr2.default = th;
   Pa.exports = cr2.default;
 });
 var $e2 = g2((fr2, Ia) => {
   "use strict";
   fr2.__esModule = true;
-  var rh = /* @__PURE__ */ function() {
+  var rh = /* @__PURE__ */ (function() {
     function t(e, s) {
       for (var r = 0; r < s.length; r++) {
         var n = s[r];
@@ -62758,7 +62711,7 @@ var $e2 = g2((fr2, Ia) => {
     return function(e, s, r) {
       return s && t(e.prototype, s), r && t(e, r), e;
     };
-  }(), sh = ve2(), nh = ih(sh);
+  })(), sh = ve2(), nh = ih(sh);
   function ih(t) {
     return t && t.__esModule ? t : { default: t };
   }
@@ -62773,7 +62726,7 @@ var $e2 = g2((fr2, Ia) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var lh = function(t) {
+  var lh = (function(t) {
     uh(e, t);
     function e() {
       return oh(this, e), ah(this, t.apply(this, arguments));
@@ -62784,7 +62737,7 @@ var $e2 = g2((fr2, Ia) => {
       var r = this.namespace;
       return r ? (typeof r == "string" ? r : "") + "|" : "";
     } }]), e;
-  }(nh.default);
+  })(nh.default);
   fr2.default = lh;
   Ia.exports = fr2.default;
 });
@@ -62806,7 +62759,7 @@ var La = g2((pr2, qa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var gh = function(t) {
+  var gh = (function(t) {
     yh(e, t);
     function e(s) {
       dh(this, e);
@@ -62816,7 +62769,7 @@ var La = g2((pr2, qa) => {
     return e.prototype.toString = function() {
       return [this.spaces.before, this.ns, "." + this.value, this.spaces.after].join("");
     }, e;
-  }(fh.default);
+  })(fh.default);
   pr2.default = gh;
   qa.exports = pr2.default;
 });
@@ -62838,7 +62791,7 @@ var Ma = g2((hr2, Da) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Sh = function(t) {
+  var Sh = (function(t) {
     kh(e, t);
     function e(s) {
       _h(this, e);
@@ -62846,7 +62799,7 @@ var Ma = g2((hr2, Da) => {
       return r.type = xh.COMMENT, r;
     }
     return e;
-  }(vh.default);
+  })(vh.default);
   hr2.default = Sh;
   Da.exports = hr2.default;
 });
@@ -62868,7 +62821,7 @@ var Ua = g2((dr2, Ba) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Ih = function(t) {
+  var Ih = (function(t) {
     Rh(e, t);
     function e(s) {
       Nh(this, e);
@@ -62878,7 +62831,7 @@ var Ua = g2((dr2, Ba) => {
     return e.prototype.toString = function() {
       return [this.spaces.before, this.ns, "#" + this.value, this.spaces.after].join("");
     }, e;
-  }(Oh.default);
+  })(Oh.default);
   dr2.default = Ih;
   Ba.exports = dr2.default;
 });
@@ -62900,7 +62853,7 @@ var $a = g2((mr2, Fa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var $h = function(t) {
+  var $h = (function(t) {
     Fh(e, t);
     function e(s) {
       Bh(this, e);
@@ -62908,7 +62861,7 @@ var $a = g2((mr2, Fa) => {
       return r.type = Dh.TAG, r;
     }
     return e;
-  }(Lh.default);
+  })(Lh.default);
   mr2.default = $h;
   Fa.exports = mr2.default;
 });
@@ -62930,7 +62883,7 @@ var Ga = g2((yr2, Wa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Kh = function(t) {
+  var Kh = (function(t) {
     jh(e, t);
     function e(s) {
       zh(this, e);
@@ -62938,7 +62891,7 @@ var Ga = g2((yr2, Wa) => {
       return r.type = Yh.STRING, r;
     }
     return e;
-  }(Gh.default);
+  })(Gh.default);
   yr2.default = Kh;
   Wa.exports = yr2.default;
 });
@@ -62960,7 +62913,7 @@ var Va = g2((gr2, Ya) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var sd = function(t) {
+  var sd = (function(t) {
     rd(e, t);
     function e(s) {
       ed(this, e);
@@ -62971,7 +62924,7 @@ var Va = g2((gr2, Ya) => {
       var r = this.length ? "(" + this.map(String).join(",") + ")" : "";
       return [this.spaces.before, String(this.value), r, this.spaces.after].join("");
     }, e;
-  }(Xh.default);
+  })(Xh.default);
   gr2.default = sd;
   Ya.exports = gr2.default;
 });
@@ -62993,7 +62946,7 @@ var Ha = g2((wr2, za) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var fd = function(t) {
+  var fd = (function(t) {
     cd(e, t);
     function e(s) {
       ud(this, e);
@@ -63004,7 +62957,7 @@ var Ha = g2((wr2, za) => {
       var r = [this.spaces.before, "[", this.ns, this.attribute];
       return this.operator && r.push(this.operator), this.value && r.push(this.value), this.raws.insensitive ? r.push(this.raws.insensitive) : this.insensitive && r.push(" i"), r.push("]"), r.concat(this.spaces.after).join("");
     }, e;
-  }(id.default);
+  })(id.default);
   wr2.default = fd;
   za.exports = wr2.default;
 });
@@ -63026,7 +62979,7 @@ var Ka = g2((vr2, ja) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var vd = function(t) {
+  var vd = (function(t) {
     wd(e, t);
     function e(s) {
       yd(this, e);
@@ -63034,7 +62987,7 @@ var Ka = g2((vr2, ja) => {
       return r.type = dd.UNIVERSAL, r.value = "*", r;
     }
     return e;
-  }(hd.default);
+  })(hd.default);
   vr2.default = vd;
   ja.exports = vr2.default;
 });
@@ -63056,7 +63009,7 @@ var Xa = g2((xr2, Qa) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Od = function(t) {
+  var Od = (function(t) {
     Td(e, t);
     function e(s) {
       kd(this, e);
@@ -63064,7 +63017,7 @@ var Xa = g2((xr2, Qa) => {
       return r.type = _d.COMBINATOR, r;
     }
     return e;
-  }(bd.default);
+  })(bd.default);
   xr2.default = Od;
   Qa.exports = xr2.default;
 });
@@ -63086,7 +63039,7 @@ var Za = g2((br2, Ja) => {
     if (typeof e != "function" && e !== null) throw new TypeError("Super expression must either be null or a function, not " + typeof e);
     t.prototype = Object.create(e && e.prototype, { constructor: { value: t, enumerable: false, writable: true, configurable: true } }), e && (Object.setPrototypeOf ? Object.setPrototypeOf(t, e) : t.__proto__ = e);
   }
-  var Ld = function(t) {
+  var Ld = (function(t) {
     qd(e, t);
     function e(s) {
       Rd(this, e);
@@ -63094,7 +63047,7 @@ var Za = g2((br2, Ja) => {
       return r.type = Nd.NESTING, r.value = "&", r;
     }
     return e;
-  }(Ad.default);
+  })(Ad.default);
   br2.default = Ld;
   Ja.exports = br2.default;
 });
@@ -63197,7 +63150,7 @@ var cu2 = g2((Sr2, lu) => {
 var hu2 = g2((Tr2, pu2) => {
   "use strict";
   Tr2.__esModule = true;
-  var jd = /* @__PURE__ */ function() {
+  var jd = /* @__PURE__ */ (function() {
     function t(e, s) {
       for (var r = 0; r < s.length; r++) {
         var n = s[r];
@@ -63207,7 +63160,7 @@ var hu2 = g2((Tr2, pu2) => {
     return function(e, s, r) {
       return s && t(e.prototype, s), r && t(e, r), e;
     };
-  }(), Kd = Bs(), Qd = I2(Kd), Xd = Us(), zs = I2(Xd), Jd = Fs(), Zd = I2(Jd), em = Na(), tm = I2(em), rm = Ra(), Hs = I2(rm), sm = La(), nm = I2(sm), im = Ma(), om = I2(im), am = Ua(), um = I2(am), lm = $a(), cm = I2(lm), fm = Ga(), pm = I2(fm), hm = Va(), dm = I2(hm), mm = Ha(), ym = I2(mm), gm = Ka(), wm = I2(gm), vm = Xa(), xm = I2(vm), bm = Za(), _m = I2(bm), Em = tu2(), km = I2(Em), Sm = cu2(), fu2 = I2(Sm), Tm = M2(), Om = Cm(Tm);
+  })(), Kd = Bs(), Qd = I2(Kd), Xd = Us(), zs = I2(Xd), Jd = Fs(), Zd = I2(Jd), em = Na(), tm = I2(em), rm = Ra(), Hs = I2(rm), sm = La(), nm = I2(sm), im = Ma(), om = I2(im), am = Ua(), um = I2(am), lm = $a(), cm = I2(lm), fm = Ga(), pm = I2(fm), hm = Va(), dm = I2(hm), mm = Ha(), ym = I2(mm), gm = Ka(), wm = I2(gm), vm = Xa(), xm = I2(vm), bm = Za(), _m = I2(bm), Em = tu2(), km = I2(Em), Sm = cu2(), fu2 = I2(Sm), Tm = M2(), Om = Cm(Tm);
   function Cm(t) {
     if (t && t.__esModule) return t;
     var e = {};
@@ -63220,7 +63173,7 @@ var hu2 = g2((Tr2, pu2) => {
   function Am(t, e) {
     if (!(t instanceof e)) throw new TypeError("Cannot call a class as a function");
   }
-  var Nm = function() {
+  var Nm = (function() {
     function t(e) {
       Am(this, t), this.input = e, this.lossy = e.options.lossless === false, this.position = 0, this.root = new tm.default();
       var s = new Hs.default();
@@ -63390,14 +63343,14 @@ var hu2 = g2((Tr2, pu2) => {
     } }, { key: "prevToken", get: function() {
       return this.tokens[this.position - 1];
     } }]), t;
-  }();
+  })();
   Tr2.default = Nm;
   pu2.exports = Tr2.default;
 });
 var mu2 = g2((Or2, du2) => {
   "use strict";
   Or2.__esModule = true;
-  var Pm = /* @__PURE__ */ function() {
+  var Pm = /* @__PURE__ */ (function() {
     function t(e, s) {
       for (var r = 0; r < s.length; r++) {
         var n = s[r];
@@ -63407,14 +63360,14 @@ var mu2 = g2((Or2, du2) => {
     return function(e, s, r) {
       return s && t(e.prototype, s), r && t(e, r), e;
     };
-  }(), Rm = hu2(), Im = qm(Rm);
+  })(), Rm = hu2(), Im = qm(Rm);
   function qm(t) {
     return t && t.__esModule ? t : { default: t };
   }
   function Lm(t, e) {
     if (!(t instanceof e)) throw new TypeError("Cannot call a class as a function");
   }
-  var Dm = function() {
+  var Dm = (function() {
     function t(e) {
       return Lm(this, t), this.func = e || function() {
       }, this;
@@ -63427,7 +63380,7 @@ var mu2 = g2((Or2, du2) => {
     }, Pm(t, [{ key: "result", get: function() {
       return String(this.res);
     } }]), t;
-  }();
+  })();
   Or2.default = Dm;
   du2.exports = Or2.default;
 });
@@ -65897,25 +65850,8 @@ var CSSEditorManager = class {
   focusAceEditor() {
     if (!this.editor) return;
     this.editor.focus();
-    const searchOptions = {
-      backwards: true,
-      wrap: false,
-      caseSensitive: true,
-      regExp: false
-    };
-    this.editor.navigateFileEnd();
-    const range = this.editor.find("}", searchOptions);
-    if (range) {
-      const row = range.start.row;
-      if (row > 0) {
-        this.editor.gotoLine(row, Number.MAX_VALUE);
-        const tabWidth = Number(this.plugin.settings.editorTabWidth) || 4;
-        const indent = " ".repeat(tabWidth);
-        this.editor.insert("\n" + indent);
-      } else {
-        this.editor.moveCursorTo(range.start.row, range.start.column);
-      }
-    }
+    this.editor.moveCursorTo(0, 0);
+    this.editor.clearSelection();
   }
   removeInlineEditor() {
     this.editor.session.off("change", this.changeListener);
@@ -67770,8 +67706,6 @@ var import_obsidian15 = require("obsidian");
 // src/modals/fontImportModal.ts
 var import_obsidian14 = require("obsidian");
 init_confirmModal();
-var import_fs = __toESM(require("fs"));
-var import_path = __toESM(require("path"));
 var FontImportModal = class extends import_obsidian14.Modal {
   constructor(app, plugin) {
     super(app);
@@ -67779,7 +67713,7 @@ var FontImportModal = class extends import_obsidian14.Modal {
     this.base64Content = "";
     this.plugin = plugin;
     this.fontExtensions = ["ttf", "otf", "woff", "woff2"];
-    this.fontFilePath = "";
+    this.fontFileName = "";
   }
   async onOpen() {
     const { contentEl } = this;
@@ -67901,7 +67835,8 @@ var FontImportModal = class extends import_obsidian14.Modal {
   }
   generateFontFaceRule() {
     let mimeType;
-    let ext = import_path.default.extname(this.fontFilePath);
+    const dotIndex = this.fontFileName.lastIndexOf(".");
+    const ext = dotIndex !== -1 ? this.fontFileName.slice(dotIndex).toLowerCase() : "";
     switch (ext) {
       case ".woff":
         mimeType = "font/woff";
@@ -67925,24 +67860,36 @@ var FontImportModal = class extends import_obsidian14.Modal {
 }`;
   }
   async importFontFile() {
-    const windowWithRequire = window;
-    if (!windowWithRequire.require) {
-      Logger.error("Electron require not available");
-      return null;
-    }
-    const electron = windowWithRequire.require("electron");
-    const remote = electron.remote;
-    const { canceled, filePaths } = await remote.dialog.showOpenDialog({
-      title: "Import font file",
-      filters: [{ name: "Font files", extensions: this.fontExtensions }],
-      properties: ["openFile"]
+    return new Promise((resolve) => {
+      const input = this.contentEl.createEl("input", {
+        attr: {
+          type: "file",
+          accept: this.fontExtensions.map((e) => `.${e}`).join(",")
+        }
+      });
+      input.addClass("cts-hidden");
+      const cleanup = () => {
+        input.remove();
+      };
+      input.addEventListener("change", () => {
+        var _a2;
+        const file = (_a2 = input.files) == null ? void 0 : _a2[0];
+        cleanup();
+        if (!file) {
+          resolve(null);
+          return;
+        }
+        this.fontFileName = file.name;
+        void file.arrayBuffer().then((buffer) => {
+          resolve((0, import_obsidian14.arrayBufferToBase64)(buffer));
+        });
+      });
+      input.addEventListener("cancel", () => {
+        cleanup();
+        resolve(null);
+      });
+      input.click();
     });
-    if (canceled || filePaths.length === 0) {
-      return null;
-    }
-    this.fontFilePath = filePaths[0];
-    const fileContent = import_fs.default.readFileSync(this.fontFilePath);
-    return (0, import_obsidian14.arrayBufferToBase64)(fileContent);
   }
 };
 
@@ -67951,6 +67898,9 @@ var CSSRulesSection = class extends UIComponent {
   constructor(context) {
     super(context);
     this.ruleSearch = "";
+    this.settingsUnsubscribers = [];
+    this.buttonContainer = null;
+    this.setupReactiveListeners();
   }
   render() {
     const section = this.createSection("rules-section");
@@ -67969,8 +67919,8 @@ var CSSRulesSection = class extends UIComponent {
     return section;
   }
   renderButtons(container) {
-    const buttonContainer = container.createDiv("css-rules-button-container");
-    createIconButton(buttonContainer, {
+    this.buttonContainer = container.createDiv("css-rules-button-container");
+    createIconButton(this.buttonContainer, {
       icon: "square-pen",
       label: "Add CSS rule",
       classes: ["add-rule-button"],
@@ -67978,7 +67928,7 @@ var CSSRulesSection = class extends UIComponent {
         void this.handleAddRule();
       }
     });
-    createIconButton(buttonContainer, {
+    createIconButton(this.buttonContainer, {
       icon: "mouse-pointer-square-dashed",
       label: "Select an element",
       classes: ["select-element-button"],
@@ -67987,15 +67937,34 @@ var CSSRulesSection = class extends UIComponent {
       }
     });
     if (this.plugin.settings.enableFontImport) {
-      createIconButton(buttonContainer, {
-        icon: "file-type",
-        label: "Import font",
-        classes: ["add-font-face-button"],
-        onClick: () => {
-          new FontImportModal(this.app, this.plugin).open();
-        }
-      });
+      this.addFontImportButton();
     }
+  }
+  addFontImportButton() {
+    if (!this.buttonContainer) return;
+    createIconButton(this.buttonContainer, {
+      icon: "file-type",
+      label: "Import font",
+      classes: ["add-font-face-button"],
+      onClick: () => {
+        new FontImportModal(this.app, this.plugin).open();
+      }
+    });
+  }
+  removeFontImportButton() {
+    var _a2, _b;
+    (_b = (_a2 = this.buttonContainer) == null ? void 0 : _a2.querySelector(".add-font-face-button")) == null ? void 0 : _b.remove();
+  }
+  setupReactiveListeners() {
+    this.settingsUnsubscribers.push(
+      this.settingsManager.onChange("enableFontImport", (value) => {
+        if (value) {
+          this.addFontImportButton();
+        } else {
+          this.removeFontImportButton();
+        }
+      })
+    );
   }
   async handleAddRule() {
     const editorSection = this.container.querySelector(".css-editor-section");
@@ -68135,6 +68104,9 @@ var CSSRulesSection = class extends UIComponent {
   }
   destroy() {
     var _a2;
+    this.settingsUnsubscribers.forEach((unsub) => unsub());
+    this.settingsUnsubscribers = [];
+    this.buttonContainer = null;
     (_a2 = this.element) == null ? void 0 : _a2.remove();
   }
 };
@@ -68270,7 +68242,7 @@ var SettingsIO = class _SettingsIO {
   }
   /**
    * Exports the plugin settings to a JSON file in the vault.
-   * The file will be created as CTS_settings.json in the vault root.
+   * The file will be created as cts_settings.json in the vault root.
    *
    * @param settings - The settings object to export.
    * @returns A promise that resolves to true if the export was successful, false otherwise.
@@ -68290,17 +68262,17 @@ var SettingsIO = class _SettingsIO {
   }
   /**
    * Exports the settings to the vault.
-   * Exports the settings to a file named CTS_settings.json
+   * Exports the settings to a file named cts_settings.json
    *
    * @param settingsData - The settings data to export.
    * @returns A promise that resolves to true if the export was successful, false otherwise.
    */
   async exportToVault(settingsData, app) {
     try {
-      const filename = "CTS_settings.json";
+      const filename = "cts_settings.json";
       const existingFile = app.vault.getAbstractFileByPath(filename);
       if (existingFile instanceof import_obsidian16.TFile) {
-        const backupName = `CTS_settings_backup_${Date.now()}.json`;
+        const backupName = `cts_settings_backup_${Date.now()}.json`;
         await app.vault.copy(existingFile, backupName);
         await app.vault.modify(existingFile, settingsData);
       } else {
@@ -68316,7 +68288,7 @@ var SettingsIO = class _SettingsIO {
   }
   /**
    * Imports settings from a JSON file in the vault.
-   * Looks for CTS_settings.json in the vault root.
+   * Looks for cts_settings.json in the vault root.
    *
    * @returns The imported settings or null if the import failed.
    */
@@ -68334,13 +68306,13 @@ var SettingsIO = class _SettingsIO {
   }
   /**
    * Fallback method to import settings from the vault.
-   * from the file CTS_settings.json
+   * from the file cts_settings.json
    *
    * @returns The imported settings or null if the import failed.
    */
   async importFromVault(app) {
     try {
-      const filename = "CTS_settings.json";
+      const filename = "cts_settings.json";
       const file = app.vault.getAbstractFileByPath(filename);
       if (!file || !(file instanceof import_obsidian16.TFile)) {
         new import_obsidian16.Notice(`Could not find ${filename} in vault`);
@@ -68478,402 +68450,560 @@ aria-controls
 aria-describedby`,
   cssEditorDebounceDelay: 500
 };
-var THEME_COLOR = {
-  Auto: "Auto",
-  Light: "Light",
-  Dark: "Dark"
-};
+function themesToRecord(themes) {
+  const result = {};
+  for (const theme of themes) {
+    result[theme.value] = theme.name;
+  }
+  return result;
+}
+function stringsToRecord(items) {
+  const result = {};
+  for (const item of items) {
+    result[item] = item;
+  }
+  return result;
+}
 var CustomThemeStudioSettingTab = class extends import_obsidian17.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
   }
+  /* eslint-disable @typescript-eslint/no-deprecated -- super.display() needed to add CSS scope class */
   display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.addClass("cts-settings-tab");
-    new import_obsidian17.Setting(containerEl).setName("Enable custom theme").setDesc("Toggle your custom theme on or off.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.themeEnabled).onChange(async (value) => {
-        this.plugin.settings.themeEnabled = value;
-        if (value) {
-          this.plugin.themeManager.applyCustomTheme();
-        } else {
-          this.plugin.themeManager.removeCustomTheme();
-        }
-        await this.plugin.saveSettings();
-        let themeToggle = window.document.querySelector('.cts-view [id="theme-toggle-switch"]');
-        if (themeToggle) {
-          if (value) {
-            themeToggle.checked = true;
-          } else {
-            themeToggle.checked = false;
-          }
-        }
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("CSS variables").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Variable update trigger").setDesc('When to update CSS after changing variable values. Choose "input" for live updates (every keystroke) or "change" to update only when you finish editing (clicking away from the field).').addDropdown((dropdown) => {
-      dropdown.addOptions({
-        "input": "input",
-        "change": "change"
-      }).setValue(this.plugin.settings.variableInputListener).onChange(async (newValue) => {
-        this.plugin.settings.variableInputListener = newValue;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian17.Setting(containerEl).setName("Variable color picker").setDesc("Enable a color picker for CSS variables that have a default hex color value.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.enableColorPicker).onChange(async (value) => {
-        this.plugin.settings.enableColorPicker = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("CSS rules").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Font import").setDesc("Enable font imports to create @font-face CSS rules.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.enableFontImport).onChange(async (value) => {
-        this.plugin.settings.enableFontImport = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Warn before discarding changes").setDesc("Warn before discarding unsaved changes when closing or switching between CSS editors.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.showConfirmation).onChange(async (value) => {
-        this.plugin.settings.showConfirmation = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Element selector").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Selector style preset").setDesc('Choose the style of CSS selectors generated when picking elements. "minimal" creates short selectors, "balanced" includes the tag name, and "specific" includes all attributes.').addDropdown(
-      (dropdown) => dropdown.addOption("minimal", "Minimal (clean & short)").addOption("balanced", "Balanced (moderate specificity)").addOption("specific", "Specific (maximum detail)").setValue(this.plugin.settings.selectorStyle).onChange(async (value) => {
-        this.plugin.settings.selectorStyle = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Prefer classes over attributes").setDesc("When enabled, prioritize class selectors (e.g., .my-class) over data attributes.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.selectorPreferClasses).onChange(async (value) => {
-        this.plugin.settings.selectorPreferClasses = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Always include tag names").setDesc("When enabled, always include the HTML tag (e.g., div[data-foo] instead of [data-foo]).").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.selectorAlwaysIncludeTag).onChange(async (value) => {
-        this.plugin.settings.selectorAlwaysIncludeTag = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Excluded attribute patterns").setDesc('Attributes matching these patterns will be excluded from minimal and balanced selectors (one per line). Supports wildcards like "data-tooltip-*". Specific mode includes all attributes.').addTextArea(
-      (text) => text.setPlaceholder("Data-tooltip-*").setValue(this.plugin.settings.selectorExcludedAttributes).onChange(async (value) => {
-        this.plugin.settings.selectorExcludedAttributes = value;
-        await this.plugin.saveSettings();
-      })
-    ).then((setting) => {
-      var _a2;
-      (_a2 = setting.controlEl.querySelector("textarea")) == null ? void 0 : _a2.setAttribute("rows", "5");
-    });
-    new import_obsidian17.Setting(containerEl).setName("Generate CSS").setDesc("Automatically populate the CSS editor with common properties (color, background, font, etc.) when selecting an element.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.generateComputedCSS).onChange(async (value) => {
-        this.plugin.settings.generateComputedCSS = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("CSS editor").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Auto-apply changes").setDesc('Automatically preview changes "live" as you make them. Changes become permanent once the CSS is saved.').addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.autoApplyChanges).onChange(async (value) => {
-        this.plugin.settings.autoApplyChanges = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    let noticeDiv = this.containerEl.createDiv("cts-auto-apply-changes-notice");
-    let noticeIcon = noticeDiv.createDiv("cts-auto-apply-changes-notice-icon");
-    noticeIcon.setAttribute("aria-label", "Notice");
-    noticeIcon.setAttribute("data-tooltip-position", "top");
-    let noticeText = noticeDiv.createDiv("cts-auto-apply-changes-notice-text");
-    noticeText.textContent = 'When enabled, every keystroke triggers a "live" refresh of your theme. This can lead to unwanted styling and possibly make Obsidian unusable.';
-    (0, import_obsidian17.setIcon)(noticeIcon, "alert-triangle");
-    this.containerEl.appendChild(noticeDiv);
-    let debounceDelaySlider;
-    new import_obsidian17.Setting(containerEl).setName("Auto-apply change delay").setDesc("Delay before live-previewing CSS changes while typing (requires auto-apply). Lower values = faster feedback but may cause performance issues.").addSlider((slider) => {
-      debounceDelaySlider = slider;
-      slider.setLimits(0, 2e3, 100).setValue(this.plugin.settings.cssEditorDebounceDelay).onChange(async (value) => {
-        slider.sliderEl.setAttribute("aria-label", value.toString() + "ms");
-        this.plugin.settings.cssEditorDebounceDelay = value;
-        await this.plugin.saveSettings();
-      });
-      slider.sliderEl.setAttribute("aria-label", this.plugin.settings.cssEditorDebounceDelay.toString() + "ms");
-      slider.sliderEl.setAttribute("data-tooltip-position", "top");
-      slider.sliderEl.setAttribute("data-tooltip-delay", "100");
-    }).addExtraButton(
-      (button) => button.setIcon("rotate-ccw").setTooltip(`Restore default (${DEFAULT_SETTINGS.cssEditorDebounceDelay.toString()})`).onClick(async () => {
-        debounceDelaySlider.setValue(DEFAULT_SETTINGS.cssEditorDebounceDelay);
-        debounceDelaySlider.sliderEl.setAttribute("aria-label", DEFAULT_SETTINGS.cssEditorDebounceDelay.toString());
-        this.plugin.settings.cssEditorDebounceDelay = 500;
-        await this.plugin.saveSettings();
-      })
-    );
-    const editorSettingsHeading = new import_obsidian17.Setting(containerEl).setName("CSS editor preferences").setHeading().setTooltip("Click to expand/collapse CSS editor preferences");
-    editorSettingsHeading.settingEl.addClass("cts-collapsible-heading");
-    const chevronIcon = editorSettingsHeading.nameEl.createDiv("cts-chevron-icon");
-    (0, import_obsidian17.setIcon)(chevronIcon, this.plugin.settings.expandEditorSettings ? "chevron-down" : "chevron-right");
-    const editorSettingsContainer = containerEl.createDiv("cts-editor-settings-container");
-    if (!this.plugin.settings.expandEditorSettings) {
-      editorSettingsContainer.addClass("cts-hidden");
-    }
-    editorSettingsHeading.settingEl.addEventListener("click", () => {
-      this.plugin.settings.expandEditorSettings = !this.plugin.settings.expandEditorSettings;
-      editorSettingsContainer.toggleClass("cts-hidden", !this.plugin.settings.expandEditorSettings);
-      chevronIcon.empty();
-      (0, import_obsidian17.setIcon)(chevronIcon, this.plugin.settings.expandEditorSettings ? "chevron-down" : "chevron-right");
-      void this.plugin.saveSettings();
-    });
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Editor color picker").setDesc("Show inline color picker for hex/rgb values.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.enableAceColorPicker).onChange(async (value) => {
-        this.plugin.settings.enableAceColorPicker = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    let liveAutoCompletiongsToggle = new import_obsidian17.Setting(editorSettingsContainer).setName("Live auto completion").setDesc("Show auto-completion suggestions while typing CSS properties and values.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.enableAceAutoCompletion).onChange(async (value) => {
-        var _a2;
-        if (!value) {
-          if ((_a2 = snippetsToggle.settingEl.querySelector(".checkbox-container")) == null ? void 0 : _a2.hasClass("is-enabled")) {
-            new import_obsidian17.Notice('Snippets are enabled and require that "live auto completion" be enabled. Please disable the below "snippets" toggle before disabling this setting.', 1e4);
-            toggle.setValue(true);
-            return;
-          }
-        }
-        this.plugin.settings.enableAceAutoCompletion = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    let snippetsToggle = new import_obsidian17.Setting(editorSettingsContainer).setName("Snippets").setDesc("Show Obsidian CSS variables in auto-completion (requires live auto-completion).").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.enableAceSnippets).onChange(async (value) => {
-        var _a2;
-        this.plugin.settings.enableAceSnippets = value;
-        if (value) {
-          if (!((_a2 = liveAutoCompletiongsToggle.settingEl.querySelector(".checkbox-container")) == null ? void 0 : _a2.hasClass("is-enabled"))) {
-            new import_obsidian17.Notice('Please enable the above "live auto completion" toggle before enabling this setting.', 1e4);
-            toggle.setValue(false);
-            this.plugin.settings.enableAceSnippets = false;
-          }
-        } else {
-          new import_obsidian17.Notice('Disabling this setting requires a reload of the Obsidian window. From the command palette, run the command "reload app without saving." \u2026 click this message to dismiss.', 0);
-        }
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Editor theme").setDesc('CSS editor color theme. "auto" matches your Obsidian theme.').addDropdown(async (dropdown) => {
-      for (const key in THEME_COLOR) {
-        dropdown.addOption(key, key);
-      }
-      dropdown.setValue(this.plugin.settings.editorTheme);
-      dropdown.onChange(async (option) => {
-        this.plugin.settings.editorTheme = option;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Light mode theme").setDesc("Syntax highlighting theme when Obsidian is in light mode.").addDropdown((dropdown) => {
-      AceLightThemesList.forEach((theme) => {
-        dropdown.addOption(theme.value, theme.name);
-      });
-      dropdown.setValue(this.plugin.settings.editorLightTheme).onChange(async (newValue) => {
-        this.plugin.settings.editorLightTheme = newValue;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Dark mode theme").setDesc("Syntax highlighting theme when Obsidian is in dark mode.").addDropdown((dropdown) => {
-      AceDarkThemesList.forEach((theme) => {
-        dropdown.addOption(theme.value, theme.name);
-      });
-      dropdown.setValue(this.plugin.settings.editorDarkTheme).onChange(async (newValue) => {
-        this.plugin.settings.editorDarkTheme = newValue;
-        await this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Keyboard shortcuts").setDesc("Keyboard shortcut scheme for the CSS editor.").addDropdown((dropdown) => {
-      AceKeyboardList.forEach((binding) => {
-        dropdown.addOption(binding, binding);
-      });
-      dropdown.setValue(this.plugin.settings.editorKeyboard).onChange(async (newValue) => {
-        this.plugin.settings.editorKeyboard = newValue;
-        await this.plugin.saveSettings();
-      });
-    });
-    let fontSizeSlider;
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Font size").setDesc("Set the font size of the CSS editor.").addSlider((slider) => {
-      fontSizeSlider = slider;
-      slider.setLimits(5, 30, 1).setValue(this.plugin.settings.editorFontSize).onChange(async (value) => {
-        slider.sliderEl.setAttribute("aria-label", value.toString());
-        this.plugin.settings.editorFontSize = value;
-        void this.plugin.saveSettings();
-      });
-      slider.sliderEl.setAttribute("aria-label", this.plugin.settings.editorFontSize.toString());
-      slider.sliderEl.setAttribute("data-tooltip-position", "top");
-      slider.sliderEl.setAttribute("data-tooltip-delay", "100");
-    }).addExtraButton(
-      (button) => button.setIcon("rotate-ccw").setTooltip("Restore default (15)").onClick(async () => {
-        fontSizeSlider.setValue(15);
-        fontSizeSlider.sliderEl.setAttribute("aria-label", "15");
-        this.plugin.settings.editorFontSize = 15;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Font family").setDesc('Font family for the CSS editor (e.g., "fira code", "monaco"). Leave empty for default.').addText(
-      (text) => text.setValue(this.plugin.settings.editorFontFamily).onChange(async (value) => {
-        this.plugin.settings.editorFontFamily = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    let tabWidthDropdown;
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Tab width").setDesc("Indentation width (spaces per tab level). Standard is 2 or 4.").addDropdown((dropdown) => {
-      tabWidthDropdown = dropdown;
-      dropdown.addOptions({
-        "2": "2",
-        "4": "4"
-      }).setValue(this.plugin.settings.editorTabWidth.toString()).onChange(async (newValue) => {
-        this.plugin.settings.editorTabWidth = newValue;
-        await this.plugin.saveSettings();
-      });
-    }).addExtraButton(
-      (button) => button.setIcon("rotate-ccw").setTooltip(`Restore default (${DEFAULT_SETTINGS.editorTabWidth.toString()})`).onClick(async () => {
-        tabWidthDropdown.setValue(DEFAULT_SETTINGS.editorTabWidth.toString());
-        this.plugin.settings.editorTabWidth = DEFAULT_SETTINGS.editorTabWidth.toString();
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Word wrap").setDesc("Wrap long lines instead of scrolling horizontally.").addToggle((toggle) => toggle.setValue(this.plugin.settings.editorWordWrap).onChange(async (value) => {
-      this.plugin.settings.editorWordWrap = value;
-      await this.plugin.saveSettings();
-    }));
-    new import_obsidian17.Setting(editorSettingsContainer).setName("Line numbers").setDesc("Show line numbers in the CSS editor.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.editorLineNumbers).onChange(async (value) => {
-        this.plugin.settings.editorLineNumbers = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Theme export").setHeading();
-    containerEl.createDiv(
+    super.display();
+    this.containerEl.addClass("cts-settings-tab");
+  }
+  /* eslint-enable @typescript-eslint/no-deprecated -- re-enable after display() override */
+  getSettingDefinitions() {
+    const doc = this.app.workspace.containerEl.ownerDocument;
+    return [
+      // ── Enable custom theme ──
       {
-        cls: "cts-theme-export-description",
-        text: "These settings can also be changed at time of export."
-      }
-    );
-    new import_obsidian17.Setting(containerEl).setName("Theme name").setDesc("The name or title for your exported theme. ").addText((text) => text.setValue(this.plugin.settings.exportThemeName).onChange(async (value) => {
-      this.plugin.settings.exportThemeName = value;
-      await this.plugin.saveSettings();
-      let varInput = window.document.querySelector(".cts-view .export-form-theme-name");
-      if (varInput) {
-        varInput.value = value;
-      }
-    }));
-    new import_obsidian17.Setting(containerEl).setName("Author name").setDesc("Your name as the theme author. ").addText((text) => text.setValue(this.plugin.settings.exportThemeAuthor).onChange(async (value) => {
-      this.plugin.settings.exportThemeAuthor = value;
-      await this.plugin.saveSettings();
-      let varInput = window.document.querySelector(".cts-view .export-form-theme-author");
-      if (varInput) {
-        varInput.value = value;
-      }
-    }));
-    new import_obsidian17.Setting(containerEl).setName("Author URL").setDesc("URL to your GitHub profile page (e.g. https://github.com/username). ").addText((text) => text.setValue(this.plugin.settings.exportThemeURL).onChange(async (value) => {
-      this.plugin.settings.exportThemeURL = value;
-      await this.plugin.saveSettings();
-      let varInput = window.document.querySelector(".cts-view .export-form-theme-url");
-      if (varInput) {
-        varInput.value = value;
-      }
-    }));
-    new import_obsidian17.Setting(containerEl).setName("Include disabled CSS rules when exporting").setDesc('Include disabled rules in exported themes (useful for sharing themes with optional features)."').addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.exportThemeIncludeDisabled).onChange(async (value) => {
-        this.plugin.settings.exportThemeIncludeDisabled = value;
-        await this.plugin.saveSettings();
-        let includeDisabledToggle = window.document.querySelector('.cts-view [id="include-disabled-switch"]');
-        if (includeDisabledToggle) {
-          if (value) {
-            includeDisabledToggle.checked = true;
-          } else {
-            includeDisabledToggle.checked = false;
-          }
+        name: "Enable custom theme",
+        desc: "Toggle your custom theme on or off.",
+        render: (setting) => {
+          setting.addToggle(
+            (toggle) => toggle.setValue(this.plugin.settings.themeEnabled).onChange(async (value) => {
+              this.plugin.settings.themeEnabled = value;
+              if (value) {
+                this.plugin.themeManager.applyCustomTheme();
+              } else {
+                this.plugin.themeManager.removeCustomTheme();
+              }
+              await this.plugin.saveSettings();
+              const themeToggle = doc.querySelector('.cts-view [id="theme-toggle-switch"]');
+              if (themeToggle) {
+                themeToggle.checked = value;
+              }
+            })
+          );
         }
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Prettier formatting").setDesc("Automatically format CSS using prettier formatter.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.exportPrettierFormat).onChange(async (value) => {
-        this.plugin.settings.exportPrettierFormat = value;
-        await this.plugin.saveSettings();
-        let enabledPrettierToggle = window.document.querySelector('.cts-view [id="enable-prettier-switch"]');
-        if (enabledPrettierToggle) {
-          if (value) {
-            enabledPrettierToggle.checked = true;
-          } else {
-            enabledPrettierToggle.checked = false;
-          }
-        }
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Scroll helper").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Scroll to top").setDesc("Auto-scroll to expanded sections or active editors for easier navigation.").addToggle(
-      (toggle) => toggle.setValue(this.plugin.settings.viewScrollToTop).onChange(async (value) => {
-        this.plugin.settings.viewScrollToTop = value;
-        await this.plugin.saveSettings();
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Backup").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Export & import settings").setDesc("Export or import all plugin settings. Import will overwrite current settings. File saved to vault root as cts_settings.json.").addButton((button) => {
-      button.setButtonText("Export");
-      button.onClick(() => {
-        void settingsIO_default.exportSettings(this.plugin.settings, this.app);
-      });
-    }).addButton((button) => {
-      button.setButtonText("Import");
-      button.onClick(async () => {
-        const importedSettings = await settingsIO_default.importSettings(this.app);
-        if (importedSettings) {
-          if (await confirm("This will overwrite your current settings and cannot be undone. Continue?", this.plugin.app)) {
-            this.plugin.settings = importedSettings;
-            await this.plugin.saveData(this.plugin.settings);
-            const leaves = this.app.workspace.getLeavesOfType("cts-view");
-            if (leaves.length > 0) {
-              void this.plugin.reloadView();
+      },
+      // ── CSS variables ──
+      {
+        type: "group",
+        heading: "CSS variables",
+        items: [
+          {
+            name: "Variable update trigger",
+            desc: 'When to update CSS after changing variable values. Choose "input" for live updates (every keystroke) or "change" to update only when you finish editing (clicking away from the field).',
+            control: {
+              type: "dropdown",
+              key: "variableInputListener",
+              options: { "input": "input", "change": "change" }
             }
-            this.display();
-            new import_obsidian17.Notice("Settings imported successfully");
+          },
+          {
+            name: "Variable color picker",
+            desc: "Enable a color picker for CSS variables that have a default hex color value.",
+            control: { type: "toggle", key: "enableColorPicker" }
           }
-        }
-      });
-    });
-    new import_obsidian17.Setting(containerEl).setName("Troubleshooting").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Reload view").setDesc("Most settings under CSS variables & CSS rules require the plugin's view to be reloaded to take effect.").addButton(
-      (button) => button.setButtonText("Reload").setClass("mod-destructive").onClick(async () => {
-        if (await confirm("You may have unsaved changes. Reloading the view will reload all forms. Continue?", this.plugin.app)) {
-          try {
-            await this.plugin.reloadView();
-            new import_obsidian17.Notice("The custom theme studio view has been reloaded");
-          } catch (error) {
-            Logger.error(error instanceof Error ? error.message : String(error));
-            new import_obsidian17.Notice("Failed to reload view. Check developer console for details.", 1e4);
+        ]
+      },
+      // ── CSS rules ──
+      {
+        type: "group",
+        heading: "CSS rules",
+        items: [
+          {
+            name: "Font import",
+            desc: "Enable font imports to create @font-face CSS rules.",
+            render: (setting) => {
+              setting.addToggle(
+                (toggle) => toggle.setValue(this.plugin.settings.enableFontImport).onChange(async (value) => {
+                  await this.plugin.settingsManager.update("enableFontImport", value);
+                })
+              );
+            }
+          },
+          {
+            name: "Warn before discarding changes",
+            desc: "Warn before discarding unsaved changes when closing or switching between CSS editors.",
+            control: { type: "toggle", key: "showConfirmation" }
           }
-        }
-      })
-    );
-    new import_obsidian17.Setting(containerEl).setName("Debug level").setDesc("Control console logging verbosity for debugging").addDropdown((dropdown) => dropdown.addOption("none", "None (no logs)").addOption("error", "Errors only").addOption("warn", "Warnings and errors").addOption("info", "Info, warnings, and errors").addOption("debug", "Debug (all logs)").setValue(this.plugin.settings.debugLevel).onChange(async (value) => {
-      this.plugin.settings.debugLevel = value;
-      await this.plugin.saveSettings();
-    }));
-    new import_obsidian17.Setting(containerEl).setName("Reset").setClass("reset-options-heading").setHeading();
-    new import_obsidian17.Setting(containerEl).setName("Reset theme").setDesc("Reset all theme customizations.").addButton((button) => button.setButtonText("Reset").setClass("mod-destructive").onClick(async () => {
-      if (await confirm("Are you sure you want to reset all theme customizations? This cannot be undone.", this.plugin.app)) {
-        this.plugin.settings.customCSS = "";
-        this.plugin.settings.cssVariables = [];
-        this.plugin.settings.cssRules = [];
-        this.plugin.settings.themeEnabled = false;
-        this.plugin.themeManager.removeCustomTheme();
-        this.plugin.themeManager.applyIfEnabled();
-        await this.plugin.saveSettings();
-        const leaves = this.app.workspace.getLeavesOfType("cts-view");
-        if (leaves.length > 0) {
-          void this.plugin.reloadView();
-        }
-        this.display();
-        new import_obsidian17.Notice("Theme has been reset");
+        ]
+      },
+      // ── Element selector ──
+      {
+        type: "group",
+        heading: "Element selector",
+        items: [
+          {
+            name: "Selector style preset",
+            desc: 'Choose the style of CSS selectors generated when picking elements. "minimal" creates short selectors, "balanced" includes the tag name, and "specific" includes all attributes.',
+            control: {
+              type: "dropdown",
+              key: "selectorStyle",
+              options: {
+                "minimal": "Minimal (clean & short)",
+                "balanced": "Balanced (moderate specificity)",
+                "specific": "Specific (maximum detail)"
+              }
+            }
+          },
+          {
+            name: "Prefer classes over attributes",
+            desc: "When enabled, prioritize class selectors (e.g., .my-class) over data attributes.",
+            control: { type: "toggle", key: "selectorPreferClasses" }
+          },
+          {
+            name: "Always include tag names",
+            desc: "When enabled, always include the HTML tag (e.g., div[data-foo] instead of [data-foo]).",
+            control: { type: "toggle", key: "selectorAlwaysIncludeTag" }
+          },
+          {
+            name: "Excluded attribute patterns",
+            desc: 'Attributes matching these patterns will be excluded from minimal and balanced selectors (one per line). Supports wildcards like "data-tooltip-*". Specific mode includes all attributes.',
+            control: {
+              type: "textarea",
+              key: "selectorExcludedAttributes",
+              placeholder: "Data-tooltip-*",
+              rows: 5
+            }
+          },
+          {
+            name: "Generate CSS",
+            desc: "Automatically populate the CSS editor with common properties (color, background, font, etc.) when selecting an element.",
+            control: { type: "toggle", key: "generateComputedCSS" }
+          }
+        ]
+      },
+      // ── CSS editor ──
+      {
+        type: "group",
+        heading: "CSS editor",
+        items: [
+          {
+            name: "Auto-apply changes",
+            desc: 'Automatically preview changes "live" as you make them. Changes become permanent once the CSS is saved.',
+            control: { type: "toggle", key: "autoApplyChanges" }
+          },
+          // Auto-apply warning notice
+          {
+            name: "",
+            searchable: false,
+            render: (setting) => {
+              setting.settingEl.empty();
+              const noticeDiv = setting.settingEl.createDiv("cts-auto-apply-changes-notice");
+              const noticeIcon = noticeDiv.createDiv("cts-auto-apply-changes-notice-icon");
+              noticeIcon.setAttribute("aria-label", "Notice");
+              noticeIcon.setAttribute("data-tooltip-position", "top");
+              const noticeText = noticeDiv.createDiv("cts-auto-apply-changes-notice-text");
+              noticeText.textContent = 'When enabled, every keystroke triggers a "live" refresh of your theme. This can lead to unwanted styling and possibly make Obsidian unusable.';
+              (0, import_obsidian17.setIcon)(noticeIcon, "alert-triangle");
+            }
+          },
+          // Debounce delay slider + reset
+          {
+            name: "Auto-apply change delay",
+            desc: "Delay before live-previewing CSS changes while typing (requires auto-apply). Lower values = faster feedback but may cause performance issues.",
+            render: (setting) => {
+              let debounceDelaySlider;
+              setting.addSlider((slider) => {
+                debounceDelaySlider = slider;
+                slider.setLimits(0, 2e3, 100).setValue(this.plugin.settings.cssEditorDebounceDelay).onChange(async (value) => {
+                  slider.sliderEl.setAttribute("aria-label", value.toString() + "ms");
+                  this.plugin.settings.cssEditorDebounceDelay = value;
+                  await this.plugin.saveSettings();
+                });
+                slider.sliderEl.setAttribute("aria-label", this.plugin.settings.cssEditorDebounceDelay.toString() + "ms");
+                slider.sliderEl.setAttribute("data-tooltip-position", "top");
+                slider.sliderEl.setAttribute("data-tooltip-delay", "100");
+              }).addExtraButton(
+                (button) => button.setIcon("rotate-ccw").setTooltip(`Restore default (${DEFAULT_SETTINGS.cssEditorDebounceDelay.toString()})`).onClick(async () => {
+                  debounceDelaySlider.setValue(DEFAULT_SETTINGS.cssEditorDebounceDelay);
+                  debounceDelaySlider.sliderEl.setAttribute("aria-label", DEFAULT_SETTINGS.cssEditorDebounceDelay.toString());
+                  this.plugin.settings.cssEditorDebounceDelay = DEFAULT_SETTINGS.cssEditorDebounceDelay;
+                  await this.plugin.saveSettings();
+                })
+              );
+            }
+          }
+        ]
+      },
+      // ── CSS editor preferences ──
+      {
+        type: "group",
+        heading: "CSS editor preferences",
+        items: [
+          {
+            name: "Editor color picker",
+            desc: "Show inline color picker for hex/rgb values.",
+            control: { type: "toggle", key: "enableAceColorPicker" }
+          },
+          {
+            name: "Live auto completion",
+            desc: "Show auto-completion suggestions while typing CSS properties and values.",
+            render: (setting) => {
+              setting.addToggle(
+                (toggle) => toggle.setValue(this.plugin.settings.enableAceAutoCompletion).onChange(async (value) => {
+                  if (!value && this.plugin.settings.enableAceSnippets) {
+                    new import_obsidian17.Notice('Snippets are enabled and require that "live auto completion" be enabled. Please disable the below "snippets" toggle before disabling this setting.', 1e4);
+                    toggle.setValue(true);
+                    return;
+                  }
+                  this.plugin.settings.enableAceAutoCompletion = value;
+                  await this.plugin.saveSettings();
+                })
+              );
+            }
+          },
+          {
+            name: "Snippets",
+            desc: "Show Obsidian CSS variables in auto-completion (requires live auto-completion).",
+            render: (setting) => {
+              setting.addToggle(
+                (toggle) => toggle.setValue(this.plugin.settings.enableAceSnippets).onChange(async (value) => {
+                  if (value && !this.plugin.settings.enableAceAutoCompletion) {
+                    new import_obsidian17.Notice('Please enable the above "live auto completion" toggle before enabling this setting.', 1e4);
+                    toggle.setValue(false);
+                    return;
+                  }
+                  this.plugin.settings.enableAceSnippets = value;
+                  if (!value) {
+                    new import_obsidian17.Notice('Disabling this setting requires a reload of the Obsidian window. From the command palette, run the command "reload app without saving." \u2026 click this message to dismiss.', 0);
+                  }
+                  await this.plugin.saveSettings();
+                })
+              );
+            }
+          },
+          {
+            name: "Editor theme",
+            desc: 'CSS editor color theme. "auto" matches your Obsidian theme.',
+            control: {
+              type: "dropdown",
+              key: "editorTheme",
+              options: { "Auto": "Auto", "Light": "Light", "Dark": "Dark" }
+            }
+          },
+          {
+            name: "Light mode theme",
+            desc: "Syntax highlighting theme when Obsidian is in light mode.",
+            control: {
+              type: "dropdown",
+              key: "editorLightTheme",
+              options: themesToRecord(AceLightThemesList)
+            }
+          },
+          {
+            name: "Dark mode theme",
+            desc: "Syntax highlighting theme when Obsidian is in dark mode.",
+            control: {
+              type: "dropdown",
+              key: "editorDarkTheme",
+              options: themesToRecord(AceDarkThemesList)
+            }
+          },
+          {
+            name: "Keyboard shortcuts",
+            desc: "Keyboard shortcut scheme for the CSS editor.",
+            control: {
+              type: "dropdown",
+              key: "editorKeyboard",
+              options: stringsToRecord(AceKeyboardList)
+            }
+          },
+          {
+            name: "Font size",
+            desc: "Set the font size of the CSS editor.",
+            render: (setting) => {
+              let fontSizeSlider;
+              setting.addSlider((slider) => {
+                fontSizeSlider = slider;
+                slider.setLimits(5, 30, 1).setValue(this.plugin.settings.editorFontSize).onChange(async (value) => {
+                  slider.sliderEl.setAttribute("aria-label", value.toString());
+                  this.plugin.settings.editorFontSize = value;
+                  void this.plugin.saveSettings();
+                });
+                slider.sliderEl.setAttribute("aria-label", this.plugin.settings.editorFontSize.toString());
+                slider.sliderEl.setAttribute("data-tooltip-position", "top");
+                slider.sliderEl.setAttribute("data-tooltip-delay", "100");
+              }).addExtraButton(
+                (button) => button.setIcon("rotate-ccw").setTooltip("Restore default (15)").onClick(async () => {
+                  fontSizeSlider.setValue(15);
+                  fontSizeSlider.sliderEl.setAttribute("aria-label", "15");
+                  this.plugin.settings.editorFontSize = 15;
+                  await this.plugin.saveSettings();
+                })
+              );
+            }
+          },
+          {
+            name: "Font family",
+            desc: 'Font family for the CSS editor (e.g., "fira code", "monaco"). Leave empty for default.',
+            control: { type: "text", key: "editorFontFamily" }
+          },
+          {
+            name: "Tab width",
+            desc: "Indentation width (spaces per tab level). Standard is 2 or 4.",
+            render: (setting) => {
+              setting.addDropdown((dropdown) => {
+                dropdown.addOptions({ "2": "2", "4": "4" }).setValue(this.plugin.settings.editorTabWidth.toString()).onChange(async (newValue) => {
+                  this.plugin.settings.editorTabWidth = newValue;
+                  await this.plugin.saveSettings();
+                });
+              }).addExtraButton(
+                (button) => button.setIcon("rotate-ccw").setTooltip(`Restore default (${DEFAULT_SETTINGS.editorTabWidth.toString()})`).onClick(async () => {
+                  this.plugin.settings.editorTabWidth = DEFAULT_SETTINGS.editorTabWidth.toString();
+                  await this.plugin.saveSettings();
+                  this.update();
+                })
+              );
+            }
+          },
+          {
+            name: "Word wrap",
+            desc: "Wrap long lines instead of scrolling horizontally.",
+            control: { type: "toggle", key: "editorWordWrap" }
+          },
+          {
+            name: "Line numbers",
+            desc: "Show line numbers in the CSS editor.",
+            control: { type: "toggle", key: "editorLineNumbers" }
+          }
+        ]
+      },
+      // ── Theme export ──
+      {
+        type: "group",
+        heading: "Theme export",
+        items: [
+          // Export description text
+          {
+            name: "",
+            searchable: false,
+            render: (setting) => {
+              setting.settingEl.empty();
+              setting.settingEl.createDiv({
+                cls: "cts-theme-export-description",
+                text: "These settings can also be changed at time of export."
+              });
+            }
+          },
+          // Theme name (render: syncs view input)
+          {
+            name: "Theme name",
+            desc: "The name or title for your exported theme. ",
+            render: (setting) => {
+              setting.addText((text) => text.setValue(this.plugin.settings.exportThemeName).onChange(async (value) => {
+                this.plugin.settings.exportThemeName = value;
+                await this.plugin.saveSettings();
+                const varInput = doc.querySelector(".cts-view .export-form-theme-name");
+                if (varInput) {
+                  varInput.value = value;
+                }
+              }));
+            }
+          },
+          // Author name (render: syncs view input)
+          {
+            name: "Author name",
+            desc: "Your name as the theme author. ",
+            render: (setting) => {
+              setting.addText((text) => text.setValue(this.plugin.settings.exportThemeAuthor).onChange(async (value) => {
+                this.plugin.settings.exportThemeAuthor = value;
+                await this.plugin.saveSettings();
+                const varInput = doc.querySelector(".cts-view .export-form-theme-author");
+                if (varInput) {
+                  varInput.value = value;
+                }
+              }));
+            }
+          },
+          // Author URL (render: syncs view input)
+          {
+            name: "Author URL",
+            desc: "URL to your GitHub profile page (e.g. https://github.com/username). ",
+            render: (setting) => {
+              setting.addText((text) => text.setValue(this.plugin.settings.exportThemeURL).onChange(async (value) => {
+                this.plugin.settings.exportThemeURL = value;
+                await this.plugin.saveSettings();
+                const varInput = doc.querySelector(".cts-view .export-form-theme-url");
+                if (varInput) {
+                  varInput.value = value;
+                }
+              }));
+            }
+          },
+          // Include disabled CSS rules (render: syncs view checkbox)
+          {
+            name: "Include disabled CSS rules when exporting",
+            desc: 'Include disabled rules in exported themes (useful for sharing themes with optional features)."',
+            render: (setting) => {
+              setting.addToggle(
+                (toggle) => toggle.setValue(this.plugin.settings.exportThemeIncludeDisabled).onChange(async (value) => {
+                  this.plugin.settings.exportThemeIncludeDisabled = value;
+                  await this.plugin.saveSettings();
+                  const includeDisabledToggle = doc.querySelector('.cts-view [id="include-disabled-switch"]');
+                  if (includeDisabledToggle) {
+                    includeDisabledToggle.checked = value;
+                  }
+                })
+              );
+            }
+          },
+          // Prettier formatting (render: syncs view checkbox)
+          {
+            name: "Prettier formatting",
+            desc: "Automatically format CSS using prettier formatter.",
+            render: (setting) => {
+              setting.addToggle(
+                (toggle) => toggle.setValue(this.plugin.settings.exportPrettierFormat).onChange(async (value) => {
+                  this.plugin.settings.exportPrettierFormat = value;
+                  await this.plugin.saveSettings();
+                  const enabledPrettierToggle = doc.querySelector('.cts-view [id="enable-prettier-switch"]');
+                  if (enabledPrettierToggle) {
+                    enabledPrettierToggle.checked = value;
+                  }
+                })
+              );
+            }
+          }
+        ]
+      },
+      // ── Scroll helper ──
+      {
+        type: "group",
+        heading: "Scroll helper",
+        items: [
+          {
+            name: "Scroll to top",
+            desc: "Auto-scroll to expanded sections or active editors for easier navigation.",
+            control: { type: "toggle", key: "viewScrollToTop" }
+          }
+        ]
+      },
+      // ── Backup ──
+      {
+        type: "group",
+        heading: "Backup",
+        items: [
+          {
+            name: "Export & import settings",
+            desc: "Export or import all plugin settings. Import will overwrite current settings. File saved to vault root as cts_settings.json.",
+            render: (setting) => {
+              setting.addButton((button) => {
+                button.setButtonText("Export");
+                button.onClick(() => {
+                  void settingsIO_default.exportSettings(this.plugin.settings, this.app);
+                });
+              }).addButton((button) => {
+                button.setButtonText("Import");
+                button.onClick(async () => {
+                  const importedSettings = await settingsIO_default.importSettings(this.app);
+                  if (importedSettings) {
+                    if (await confirm("This will overwrite your current settings and cannot be undone. Continue?", this.plugin.app)) {
+                      this.plugin.settings = importedSettings;
+                      await this.plugin.saveData(this.plugin.settings);
+                      const leaves = this.app.workspace.getLeavesOfType("cts-view");
+                      if (leaves.length > 0) {
+                        void this.plugin.reloadView();
+                      }
+                      this.update();
+                      new import_obsidian17.Notice("Settings imported successfully");
+                    }
+                  }
+                });
+              });
+            }
+          }
+        ]
+      },
+      // ── Troubleshooting ──
+      {
+        type: "group",
+        heading: "Troubleshooting",
+        items: [
+          {
+            name: "Reload view",
+            desc: "Most settings under CSS variables & CSS rules require the plugin's view to be reloaded to take effect.",
+            render: (setting) => {
+              setting.addButton(
+                (button) => button.setButtonText("Reload").setClass("mod-destructive").onClick(async () => {
+                  if (await confirm("You may have unsaved changes. Reloading the view will reload all forms. Continue?", this.plugin.app)) {
+                    try {
+                      await this.plugin.reloadView();
+                      new import_obsidian17.Notice("The custom theme studio view has been reloaded");
+                    } catch (error) {
+                      Logger.error(error instanceof Error ? error.message : String(error));
+                      new import_obsidian17.Notice("Failed to reload view. Check developer console for details.", 1e4);
+                    }
+                  }
+                })
+              );
+            }
+          },
+          {
+            name: "Debug level",
+            desc: "Control console logging verbosity for debugging",
+            control: {
+              type: "dropdown",
+              key: "debugLevel",
+              options: {
+                "none": "None (no logs)",
+                "error": "Errors only",
+                "warn": "Warnings and errors",
+                "info": "Info, warnings, and errors",
+                "debug": "Debug (all logs)"
+              }
+            }
+          }
+        ]
+      },
+      // ── Reset ──
+      {
+        type: "group",
+        heading: "Reset",
+        cls: "reset-options-heading",
+        items: [
+          {
+            name: "Reset theme",
+            desc: "Reset all theme customizations.",
+            render: (setting) => {
+              setting.addButton((button) => button.setButtonText("Reset").setClass("mod-destructive").onClick(async () => {
+                if (await confirm("Are you sure you want to reset all theme customizations? This cannot be undone.", this.plugin.app)) {
+                  this.plugin.settings.customCSS = "";
+                  this.plugin.settings.cssVariables = [];
+                  this.plugin.settings.cssRules = [];
+                  this.plugin.settings.themeEnabled = false;
+                  this.plugin.themeManager.removeCustomTheme();
+                  this.plugin.themeManager.applyIfEnabled();
+                  await this.plugin.saveSettings();
+                  const leaves = this.app.workspace.getLeavesOfType("cts-view");
+                  if (leaves.length > 0) {
+                    void this.plugin.reloadView();
+                  }
+                  this.update();
+                  new import_obsidian17.Notice("Theme has been reset");
+                }
+              }));
+            }
+          }
+        ]
       }
-    }));
+    ];
   }
 };
 
@@ -69185,7 +69315,14 @@ var CustomThemeStudioView = class extends import_obsidian18.ItemView {
 
 // src/managers/themeManager.ts
 var import_obsidian19 = require("obsidian");
-var import_file_saver = __toESM(require_FileSaver_min());
+function saveAs(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const a = activeDocument.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
 var ThemeManager = class {
   constructor(plugin) {
     this.styleEl = null;
@@ -69344,7 +69481,7 @@ ${variablesCSS}
 ${rulesCSS}`;
       new import_obsidian19.Notice("Exporting theme CSS file\u2026", 5e3);
       let prettierCSS = this.plugin.settings.exportPrettierFormat ? await this.formatCSS(themeCSS) : themeCSS;
-      (0, import_file_saver.saveAs)(new Blob([prettierCSS], { type: "text/css" }), "theme.css");
+      saveAs(new Blob([prettierCSS], { type: "text/css" }), "theme.css");
     } catch (error) {
       Logger.error("Failed to export theme", error);
       showNotice("Failed to export theme. Check the developer console for details", 1e4, "error");
@@ -69362,7 +69499,7 @@ ${rulesCSS}`;
       };
       const manifestJSON = JSON.stringify(manifest, null, 2);
       new import_obsidian19.Notice("Exporting theme manifest file\u2026", 5e3);
-      (0, import_file_saver.saveAs)(new Blob([manifestJSON], { type: "application/json" }), "manifest.json");
+      saveAs(new Blob([manifestJSON], { type: "application/json" }), "manifest.json");
     } catch (error) {
       Logger.error("Failed to export manifest:", error);
       showNotice("Failed to export manifest. Check the developer console for details", 1e4, "error");

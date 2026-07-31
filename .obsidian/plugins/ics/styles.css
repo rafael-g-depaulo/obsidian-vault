@@ -4,6 +4,37 @@
 padding-top: 2em;
 }
 
+/* The "Output Format" heading (Setting.setHeading()) rendered indented
+   relative to every other row in this modal, on every fix attempted
+   so far for the validation-message layout (neither of which ever
+   actually targeted the heading itself). No local CSS applies any
+   left offset to it, so whatever the source is lives in Obsidian's
+   own styling for a heading row inside a plugin-defined container -
+   overriding directly rather than guessing at the cause again. */
+.ics-settings .setting-item-heading,
+.ics-settings .setting-item-heading .setting-item-info,
+.ics-settings .setting-item-heading .setting-item-name {
+	margin-left: 0 !important;
+	padding-left: 0 !important;
+	text-indent: 0 !important;
+}
+
+/* Inline field validation (SettingsModal.setValidationError). Renders
+   as its own full-width row right after the field's setting-item,
+   rather than inside Obsidian's setting-item-control column - that
+   column has its own right-aligned flex layout this plugin doesn't
+   fully control, and reaching into it previously distorted both that
+   row and the ones after it. */
+.invalid-feedback {
+	margin: -4px 0 12px;
+	font-size: var(--font-ui-smaller);
+	color: var(--text-error);
+}
+
+input.is-invalid {
+	border-color: var(--text-error);
+}
+
 
 /* Field section headers - smaller than main headings */
 .field-extraction-patterns .field-section-header {
@@ -21,24 +52,6 @@ padding-top: 2em;
 	font-size: var(--font-ui-medium);
 }
 
-/* Legacy field extraction pattern grouping (keeping for compatibility) */
-.field-extraction-patterns .setting-item.mod-heading {
-	margin-top: 20px;
-	margin-bottom: 8px;
-	border-bottom: 1px solid var(--background-modifier-border);
-	padding-bottom: 4px;
-}
-
-.field-extraction-patterns .setting-item.mod-heading:first-child {
-	margin-top: 10px;
-}
-
-.field-extraction-patterns .setting-item.mod-heading .setting-item-name {
-	color: var(--text-accent);
-	font-weight: var(--font-semibold);
-	font-size: var(--font-ui-medium);
-}
-
 /* Compatibility note styling */
 .compatibility-note {
 	margin-top: 24px;
@@ -51,7 +64,7 @@ padding-top: 2em;
 }
 
 .compatibility-note p {
-	margin: 0 0 8px 0;
+	margin: 0 0 8px;
 	color: var(--text-muted);
 }
 
@@ -80,7 +93,7 @@ padding-top: 2em;
 }
 
 .field-name-tip p {
-	margin: 0 0 8px 0;
+	margin: 0 0 8px;
 	color: var(--text-muted);
 }
 
@@ -99,11 +112,29 @@ padding-top: 2em;
 
 /* Modal title styling */
 .modal-title {
-	margin: 0 0 20px 0;
+	margin: 0 0 20px;
 	padding: 0;
 	font-size: var(--font-ui-large);
 	font-weight: var(--font-semibold);
 	color: var(--text-normal);
 	border-bottom: 1px solid var(--background-modifier-border);
 	padding-bottom: 8px;
+}
+
+/* Spacer divs used around the field extraction patterns section */
+.ics-spacer-bottom {
+	margin-bottom: 20px;
+}
+
+.ics-spacer-top {
+	margin-top: 20px;
+}
+
+/* Templater example code block */
+.ics-templater-code {
+	white-space: pre-wrap;
+	font-family: var(--font-monospace);
+	font-size: 0.9em;
+	max-height: 400px;
+	overflow: auto;
 }

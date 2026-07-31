@@ -201,7 +201,7 @@ body {
     --nn-theme-calendar-feature-image-overlay-color: rgb(0 0 0 / 0.05);
     --nn-theme-calendar-day-today-color: var(--nn-theme-calendar-day-in-month-color);
     --nn-theme-calendar-day-today-bg: var(--text-selection);
-    --nn-theme-calendar-day-active-border-color: #f94040;
+    --nn-theme-calendar-day-active-border-color: var(--interactive-accent);
     --nn-theme-calendar-day-active-border-width: 3px;
 
     /* -- Folder & Tag Items -- */
@@ -364,6 +364,8 @@ body {
     background-color: var(--nn-theme-list-search-active-bg);
     color: inherit;
     border-radius: 3px;
+    padding: 0;
+    font-weight: 600;
 }
 
 /* Resets Obsidian's default view-content padding for cleaner integration */
@@ -798,9 +800,15 @@ body {
    Mobile Layout
    ======================================================================== */
 
-/* Hide resize handle on mobile */
+/* Widen the divider hit area for touch dragging. The handle only renders in
+   dual pane mode, which is limited to tablets on mobile. */
 .notebook-navigator-mobile .nn-resize-handle {
-    display: none;
+    width: 12px;
+}
+
+.notebook-navigator-mobile .nn-split-container.nn-orientation-vertical .nn-resize-handle {
+    width: 100%;
+    height: 12px;
 }
 
 /* Add touch-action to prevent browser gestures interfering */
@@ -955,25 +963,17 @@ body {
    Mobile Headers + Breadcrumb
    ======================================================================== */
 
-/* Mobile header - adjust for back button */
-.notebook-navigator-mobile .nn-pane-header {
+/* Simplified mobile headers. Keyed on the phone chrome header class so the desktop
+   headers rendered on tablets keep the desktop height and per-pane backgrounds. */
+.notebook-navigator-mobile .nn-pane-header-simple {
     flex-shrink: 0;
     min-height: 48px;
     display: flex;
     align-items: center;
+    justify-content: center;
+    text-align: center;
     padding: 0 var(--nn-file-item-padding-horizontal);
     background-color: var(--nn-theme-list-bg);
-}
-
-/* Simplified mobile headers */
-.notebook-navigator-mobile .nn-pane-header-simple {
-    justify-content: center;
-    text-align: center;
-}
-
-.notebook-navigator-mobile .nn-navigation-pane .nn-pane-header-simple {
-    justify-content: center;
-    text-align: center;
 }
 
 .notebook-navigator-mobile .nn-pane-header-simple .nn-pane-header-profile {
@@ -1414,17 +1414,6 @@ button.nn-icon-button {
     width: auto;
     min-width: 34px;
     height: 25px;
-}
-
-/* iPad-specific adjustment for icon buttons in headers */
-@media (min-width: 768px) {
-    .notebook-navigator-mobile .nn-header-actions button.nn-icon-button {
-        /* Maintain same dimensions as desktop for consistency */
-        padding: 0 8px;
-        width: auto;
-        min-width: 34px;
-        height: 25px;
-    }
 }
 
 /* Icon button hover state - subtle background on hover - desktop only */
@@ -2521,11 +2510,15 @@ button.nn-icon-button.nn-navitem-hover-action-button {
     --nn-calendar-note-indicator-center-offset: clamp(6px, calc(var(--nn-calendar-day-font-size) * 0.65), 12px);
     --nn-calendar-task-indicator-offset-x: clamp(5px, calc(var(--nn-calendar-day-font-size) * 0.42), 9px);
     --nn-calendar-weekend-corner-radius: 6px;
+    --nn-calendar-cell-radius: 6px;
     --nn-calendar-header-chip-bg: var(--nn-theme-nav-bg);
     --nn-calendar-note-indicator-color: var(--nn-theme-calendar-note-indicator-color);
     --nn-calendar-task-indicator-color: var(--nn-theme-calendar-unfinished-task-indicator-color);
     --nn-calendar-active-editor-border-color: var(--nn-theme-calendar-day-active-border-color);
     --nn-calendar-active-editor-border-width: var(--nn-theme-calendar-day-active-border-width);
+    --nn-calendar-active-editor-gap-color: var(--nn-theme-nav-bg);
+    /* Opaque surface behind day cells; underlays translucent cell fills so overdrawn neighbors composite identically */
+    --nn-calendar-cell-surface-bg: var(--nn-theme-nav-bg);
 }
 
 .notebook-navigator-mobile :is(.nn-navigation-pane, .nn-list-pane, .nn-single-pane-calendar) {
@@ -2647,7 +2640,7 @@ button.nn-navigation-calendar-day {
     -webkit-appearance: none;
     appearance: none;
     border: none;
-    border-radius: 6px;
+    border-radius: var(--nn-calendar-cell-radius);
     cursor: pointer;
     box-shadow: none;
     outline: none;
@@ -2953,8 +2946,9 @@ button.nn-navigation-calendar-year-month {
 .nn-navigation-calendar-year-month.has-feature-image::before {
     content: '';
     position: absolute;
-    inset: 0;
-    border-radius: inherit;
+    /* Extends 0.5px past the cell so the highlight ring covers the antialiased edge of the background image. */
+    inset: -0.5px;
+    border-radius: calc(var(--nn-calendar-cell-radius) + 0.5px);
     background:
         linear-gradient(to bottom, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.03) 24%, rgba(255, 255, 255, 0) 48%),
         linear-gradient(
@@ -2972,10 +2966,12 @@ button.nn-navigation-calendar-year-month {
 .nn-navigation-calendar-active-outline {
     display: none;
     position: absolute;
-    inset: 0;
+    /* Extends 0.5px past the cell so the border covers the antialiased edge of the background image. */
+    inset: -0.5px;
     box-sizing: border-box;
     border: var(--nn-calendar-active-editor-border-width) solid var(--nn-calendar-active-editor-border-color);
-    border-radius: inherit;
+    border-radius: calc(var(--nn-calendar-cell-radius) + 0.5px);
+    box-shadow: inset 0 0 0 1px var(--nn-calendar-active-editor-gap-color);
     pointer-events: none;
     z-index: 2;
 }
@@ -3253,26 +3249,31 @@ button.nn-navigation-calendar-weeknumber-button {
     content: '';
     position: absolute;
     inset: 0;
-    background-color: var(--nn-theme-calendar-weekend-bg);
+    /* Opaque surface underlay with the translucent weekend color layered on top. This makes the
+       painted result opaque, so the 1px overdraw into gaps shared with adjacent weekend cells
+       overlaps invisibly. Without the underlay, overlapping translucent fills double-composite
+       into darker seams, and half-pixel overdraw leaves hairline gaps on fractional-DPR displays. */
+    background-color: var(--nn-calendar-cell-surface-bg);
+    background-image: linear-gradient(var(--nn-theme-calendar-weekend-bg), var(--nn-theme-calendar-weekend-bg));
     border-radius: 0;
     pointer-events: none;
     z-index: 0;
 }
 
 .nn-navigation-calendar-day-cell.is-weekend.has-weekend-before::before {
-    inset-inline-start: -0.5px;
+    inset-inline-start: -1px;
 }
 
 .nn-navigation-calendar-day-cell.is-weekend.has-weekend-after::before {
-    inset-inline-end: -0.5px;
+    inset-inline-end: -1px;
 }
 
 .nn-navigation-calendar-day-cell.is-weekend.has-weekend-above::before {
-    inset-block-start: -0.5px;
+    inset-block-start: -1px;
 }
 
 .nn-navigation-calendar-day-cell.is-weekend.has-weekend-below::before {
-    inset-block-end: -0.5px;
+    inset-block-end: -1px;
 }
 
 .nn-navigation-calendar-day-cell.is-weekend.round-weekend-top-left::before {
@@ -3565,6 +3566,8 @@ button.nn-navigation-calendar-day {
 
 .nn-calendar-right-sidebar .nn-navigation-calendar {
     --nn-calendar-header-chip-bg: var(--nn-calendar-right-sidebar-bg);
+    --nn-calendar-active-editor-gap-color: var(--nn-calendar-right-sidebar-bg);
+    --nn-calendar-cell-surface-bg: var(--nn-calendar-right-sidebar-bg);
     --nn-calendar-header-font-size: 16px;
     --nn-calendar-today-font-size: 13px;
 }
@@ -3668,8 +3671,7 @@ button.nn-navigation-calendar-day {
     height: 100%;
 
     /* CSS Custom Properties for file items - themes can override these */
-    /* Isolate layout and style calculations per item while allowing ::before to extend beyond bounds */
-    contain: layout style;
+    contain: layout style paint;
 }
 
 /* Remove shadows */
@@ -3695,8 +3697,7 @@ button.nn-navigation-calendar-day {
     top: 0px;
     inset-inline-start: 0;
     inset-inline-end: 0;
-    /* Extend slightly beyond bottom item bounds (height rounding issue) to prevent hairline gaps when zoomed */
-    bottom: -0.5px;
+    bottom: 0;
     background-color: var(--nn-file-custom-bg-color);
     border-top-left-radius: var(--nn-file-top-left-radius, var(--nn-file-item-border-radius));
     border-top-right-radius: var(--nn-file-top-right-radius, var(--nn-file-item-border-radius));
@@ -3711,16 +3712,13 @@ button.nn-navigation-calendar-day {
     z-index: 2;
 }
 
-.nn-virtual-file-item-has-custom-background::after,
-.nn-virtual-file-item-has-custom-background-next::after {
-    display: none;
-}
-
+.nn-virtual-file-item-has-filled-background-previous > .nn-file,
 .nn-virtual-file-item-has-custom-background-previous > .nn-file.nn-has-custom-background {
     --nn-file-top-left-radius: 0;
     --nn-file-top-right-radius: 0;
 }
 
+.nn-virtual-file-item-has-filled-background-next > .nn-file,
 .nn-virtual-file-item-has-custom-background-next > .nn-file.nn-has-custom-background {
     --nn-file-bottom-left-radius: 0;
     --nn-file-bottom-right-radius: 0;
@@ -3788,7 +3786,11 @@ button.nn-navigation-calendar-day {
 
 /* Hide separator when flagged by renderer (selection) or context menu */
 .nn-virtual-file-item.nn-hide-separator-selection::after,
-.nn-virtual-file-item.nn-hide-separator-context-menu::after {
+.nn-virtual-file-item.nn-hide-separator-context-menu::after,
+.nn-virtual-file-item.nn-virtual-file-item-has-filled-background::after,
+.nn-virtual-file-item.nn-virtual-file-item-has-filled-background-next::after,
+.nn-virtual-file-item.nn-virtual-file-item-has-custom-background::after,
+.nn-virtual-file-item.nn-virtual-file-item-has-custom-background-next::after {
     display: none;
 }
 
@@ -3916,17 +3918,13 @@ button.nn-navigation-calendar-day {
     display: none;
 }
 
-.nn-manual-sort-row-hide-separator::after,
-.nn-manual-sort-row-has-custom-background::after,
-.nn-manual-sort-row-has-custom-background-next::after {
-    display: none;
-}
-
+.nn-manual-sort-row-has-filled-background-previous .nn-file,
 .nn-manual-sort-row-has-custom-background-previous .nn-file.nn-has-custom-background {
     --nn-file-top-left-radius: 0;
     --nn-file-top-right-radius: 0;
 }
 
+.nn-manual-sort-row-has-filled-background-next .nn-file,
 .nn-manual-sort-row-has-custom-background-next .nn-file.nn-has-custom-background {
     --nn-file-bottom-left-radius: 0;
     --nn-file-bottom-right-radius: 0;
@@ -3953,6 +3951,14 @@ button.nn-navigation-calendar-day {
     background-color: var(--nn-theme-list-separator-color);
     z-index: 100;
     pointer-events: none;
+}
+
+.nn-manual-sort-row.nn-manual-sort-row-hide-separator::after,
+.nn-manual-sort-row.nn-manual-sort-row-has-filled-background::after,
+.nn-manual-sort-row.nn-manual-sort-row-has-filled-background-next::after,
+.nn-manual-sort-row.nn-manual-sort-row-has-custom-background::after,
+.nn-manual-sort-row.nn-manual-sort-row-has-custom-background-next::after {
+    display: none;
 }
 
 .nn-manual-sort-file {
@@ -4026,6 +4032,56 @@ button.nn-navigation-calendar-day {
 .nn-file-word-count-suffix {
     color: var(--nn-theme-file-word-count-color);
     font-weight: var(--nn-theme-file-word-count-font-weight);
+}
+
+/* Keep aliases in normal text flow so title clamping can reveal or wrap each value independently. */
+.nn-file-alias-match {
+    display: inline;
+    margin-inline-start: 5px;
+    color: var(--nn-theme-foreground-muted);
+    font-size: 0.85em;
+    font-weight: normal;
+    vertical-align: baseline;
+}
+
+.nn-file-alias-match-icon {
+    display: inline-flex;
+    width: 1em;
+    height: 1em;
+    margin-inline-end: 2px;
+    vertical-align: -0.125em;
+}
+
+.nn-file-alias-match-icon svg {
+    width: 1em;
+    height: 1em;
+}
+
+/* Property evidence appears only while an internal property search is active. */
+.nn-file-property-search-evidence {
+    display: inline;
+    margin-inline-start: 5px;
+    color: var(--nn-theme-foreground-muted);
+    font-size: 0.85em;
+    font-weight: normal;
+    vertical-align: baseline;
+}
+
+.nn-file-property-search-evidence-key {
+    font-weight: 600;
+}
+
+.nn-file-property-search-evidence-icon {
+    display: inline-flex;
+    width: 1em;
+    height: 1em;
+    margin-inline-end: 2px;
+    vertical-align: -0.125em;
+}
+
+.nn-file-property-search-evidence-icon svg {
+    width: 1em;
+    height: 1em;
 }
 
 .nn-file-icon {
@@ -4524,6 +4580,7 @@ button.nn-navigation-calendar-day {
     height: 100%;
 }
 
+/* Inset highlight overlay - masked by the thumbnail image so it only covers opaque pixels */
 .nn-file-thumbnail--inset-highlight::before {
     content: '';
     position: absolute;
@@ -4535,6 +4592,19 @@ button.nn-navigation-calendar-day {
         inset 0 -1px 0 rgba(255, 255, 255, 0.05);
     pointer-events: none;
     z-index: 1;
+    mask-image: var(--nn-file-thumbnail-mask-image, none);
+    mask-repeat: no-repeat;
+}
+
+/* Mask geometry mirrors the img object-fit and object-position per variant */
+.nn-file-thumbnail--square.nn-file-thumbnail--inset-highlight::before {
+    mask-size: cover;
+    mask-position: center top;
+}
+
+.nn-file-thumbnail--natural.nn-file-thumbnail--inset-highlight::before {
+    mask-size: contain;
+    mask-position: center;
 }
 
 .nn-file-thumbnail--square .nn-file-thumbnail-img {
@@ -4599,6 +4669,11 @@ button.nn-navigation-calendar-day {
     display: flex;
     align-items: center;
     gap: 6px;
+}
+
+/* The whole header row toggles collapse, not just the chevron button */
+.nn-list-group-header--collapsible {
+    cursor: pointer;
 }
 
 .nn-list-group-header-spacer {
@@ -4807,6 +4882,12 @@ button.nn-navigation-calendar-day {
     font-weight: var(--nn-theme-navitem-custom-color-name-font-weight);
 }
 
+.nn-list-group-header-item-count {
+    flex: 0 0 auto;
+    font-weight: 400;
+    color: var(--nn-theme-foreground-muted);
+}
+
 .nn-list-group-header-path {
     display: inline-flex;
     align-items: center;
@@ -4953,6 +5034,64 @@ button.nn-list-group-header-collapse-button .nn-list-group-header-icon {
     border-right: none;
     border-bottom: 1px solid var(--nn-theme-divider-border-color);
 }
+/* Source: src/styles/sections/inline-rename.css */
+
+/* ========================================================================
+   Inline Rename Styles
+   ======================================================================== */
+
+.nn-inline-rename-input {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 6px;
+    border: 1px solid var(--interactive-accent);
+    border-radius: 4px;
+    background-color: var(--background-primary);
+    color: var(--text-normal);
+    font: inherit;
+    line-height: normal;
+}
+
+.nn-inline-rename-input:focus {
+    outline: 2px solid var(--interactive-accent);
+    outline-offset: -2px;
+}
+
+.nn-inline-rename-input:disabled {
+    opacity: 0.75;
+}
+
+.nn-navitem-inline-rename {
+    height: calc(var(--nn-setting-nav-item-height) - 8px);
+    font-size: var(--nn-setting-nav-font-size);
+    font-weight: var(--nn-theme-navitem-name-font-weight);
+}
+
+.notebook-navigator-mobile .nn-navitem-inline-rename {
+    height: calc(var(--nn-setting-nav-item-height-mobile) - 10px);
+}
+
+.nn-file-name--inline-renaming {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    max-height: none;
+    overflow: visible;
+    white-space: nowrap;
+    word-break: normal;
+}
+
+.nn-file-name--inline-renaming .nn-file-ext-suffix {
+    flex-shrink: 0;
+}
+
+.nn-file-inline-rename {
+    height: var(--nn-file-title-line-height);
+    font-size: var(--nn-file-name-size-mobile, var(--nn-file-name-size));
+    font-weight: var(--nn-theme-file-name-font-weight);
+}
 /* Source: src/styles/sections/ui-empty-state.css */
 
 /* ========================================================================
@@ -4988,11 +5127,13 @@ button.nn-list-group-header-collapse-button .nn-list-group-header-icon {
     top: 0px;
     inset-inline-start: 0;
     inset-inline-end: 0;
-    /* Extend slightly beyond bottom item bounds (height rounding issue) to prevent hairline gaps when zoomed */
-    bottom: -0.5px;
+    bottom: 0;
     /* Pre-composited solid color prevents hairlines by blending alpha with pane background */
     background-color: var(--nn-selected-file-bg-color);
-    border-radius: var(--nn-file-item-border-radius);
+    border-top-left-radius: var(--nn-file-top-left-radius, var(--nn-file-item-border-radius));
+    border-top-right-radius: var(--nn-file-top-right-radius, var(--nn-file-item-border-radius));
+    border-bottom-left-radius: var(--nn-file-bottom-left-radius, var(--nn-file-item-border-radius));
+    border-bottom-right-radius: var(--nn-file-bottom-right-radius, var(--nn-file-item-border-radius));
     box-shadow: inset 0 0 0 var(--nn-theme-file-border-width) var(--nn-selected-file-border-color);
     z-index: 0; /* Below separator lines */
 }
@@ -5135,30 +5276,20 @@ body.nn-resizing {
     outline: none;
 }
 
-/* Empty placeholder to hide browser's default drag preview */
-.nn-drag-empty-placeholder {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    left: -9999px;
-    top: -9999px;
-    opacity: 0;
-}
-
-/* Drag ghost element - follows the cursor during drag */
-.nn-drag-ghost {
+/* Offscreen element used as the browser-native drag image */
+.nn-drag-native-preview {
     position: fixed;
+    left: -1000px;
+    top: -1000px;
+    display: inline-flex;
+    padding: 10px 0 0 12px;
     pointer-events: none;
     z-index: 999999;
     opacity: 0.9;
-    will-change: transform;
-    left: 0;
-    top: 0;
-    transform: translate(var(--nn-drag-ghost-x, -1000px), var(--nn-drag-ghost-y, -1000px));
 }
 
-/* Badge shown on drag ghost for multiple files - Apple-style red badge */
-.nn-drag-ghost-badge {
+/* Badge shown in the native drag image for multiple files */
+.nn-drag-preview-badge {
     background-color: #dc3545;
     color: white;
     font-weight: bold;
@@ -5173,8 +5304,8 @@ body.nn-resizing {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-/* Icon shown on drag ghost for single file/folder - dark circular background */
-.nn-drag-ghost-icon {
+/* Icon shown in the native drag image for single items */
+.nn-drag-preview-icon {
     background-color: #000000; /* Default black for light mode */
     border-radius: 50%;
     display: inline-flex;
@@ -5186,12 +5317,12 @@ body.nn-resizing {
 }
 
 /* Dark mode: use dark gray background */
-.theme-dark .nn-drag-ghost-icon {
+.theme-dark .nn-drag-preview-icon {
     background-color: var(--background-modifier-border-hover);
 }
 
-/* Style the Lucide icon inside drag ghost - white icon */
-.nn-drag-ghost-icon svg {
+/* Style the Lucide icon inside the drag preview */
+.nn-drag-preview-icon svg {
     width: 16px;
     height: 16px;
     color: #ffffff;
@@ -5376,6 +5507,33 @@ body.nn-resizing {
     justify-content: flex-end;
     gap: 8px;
     margin-top: 16px;
+}
+
+/* YouTube play overlay shared by modal thumbnail links */
+.nn-youtube-play {
+    position: absolute;
+    top: var(--nn-youtube-play-y, 50%);
+    left: var(--nn-youtube-play-x, 50%);
+    width: 52px;
+    height: 36px;
+    transform: translate(-50%, -50%) scale(var(--nn-youtube-play-scale, 1));
+    border-radius: 8px;
+    background-color: #ff0000;
+    opacity: 0.9;
+    pointer-events: none;
+}
+
+.nn-youtube-play::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-40%, -50%);
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 0 8px 14px;
+    border-color: transparent transparent transparent #ffffff;
 }
 
 .nn-folder-note-type-modal .modal-content {
@@ -5808,6 +5966,7 @@ body.nn-resizing {
 }
 
 .nn-welcome-thumbnail-frame {
+    position: relative;
     display: block;
     width: 100%;
     aspect-ratio: 16 / 9;
@@ -5822,6 +5981,16 @@ body.nn-resizing {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.nn-welcome-youtube-play {
+    --nn-youtube-play-x: 80%;
+    --nn-youtube-play-y: 49%;
+    --nn-youtube-play-scale: 1.8;
+}
+
+.nn-welcome-thumbnail-link:hover .nn-welcome-youtube-play {
+    background-color: #cc0000;
 }
 
 .nn-welcome-buttons {
@@ -6058,33 +6227,7 @@ body.nn-resizing {
     font-size: 13px;
 }
 
-.nn-whats-new-youtube-play {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 52px;
-    height: 36px;
-    transform: translate(-50%, -50%);
-    border-radius: 8px;
-    background-color: #ff0000;
-    opacity: 0.9;
-    pointer-events: none;
-}
-
-.nn-whats-new-youtube-play::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-40%, -50%);
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 8px 0 8px 14px;
-    border-color: transparent transparent transparent #ffffff;
-}
-
-.nn-whats-new-youtube-link:hover .nn-whats-new-youtube-play {
+.nn-whats-new-youtube-link:hover .nn-youtube-play {
     background-color: #cc0000;
 }
 
@@ -6110,6 +6253,15 @@ body.nn-resizing {
     padding: 0 2px;
     border-radius: 3px;
     font-weight: 600;
+}
+
+.nn-whats-new-info code,
+.nn-whats-new-version li code {
+    color: var(--code-normal);
+    background-color: var(--code-background);
+    padding: 0.1em 0.35em;
+    border-radius: 4px;
+    font-size: 0.9em;
 }
 
 /* Support container */
@@ -6816,8 +6968,7 @@ body.nn-resizing {
 .nn-virtual-file-item {
     position: relative;
     height: var(--item-height);
-    /* Isolate layout and style calculations per item while allowing overlays to extend beyond bounds */
-    contain: layout style;
+    contain: layout style paint;
 }
 /* Source: src/styles/sections/settings-page.css */
 
@@ -6985,24 +7136,6 @@ body.nn-resizing {
     border-radius: 4px;
     border: 1px solid var(--background-modifier-border);
     box-sizing: border-box;
-}
-
-.nn-toolbar-visibility-sections {
-    display: flex;
-    flex-direction: column;
-    gap: var(--size-4-4);
-}
-
-.nn-toolbar-visibility-group {
-    display: flex;
-    flex-direction: column;
-    gap: var(--size-2-2);
-}
-
-.nn-toolbar-visibility-group-label {
-    font-size: var(--font-ui-small);
-    font-weight: var(--font-semibold);
-    color: var(--nn-theme-foreground-muted);
 }
 
 .nn-toolbar-visibility-grid {
@@ -8192,6 +8325,15 @@ button.nn-youtube-button svg {
     background-color: var(--nn-theme-nav-bg);
 }
 
+/* Horizontal dual pane on tablets sizes the navigation pane from the dragged divider width.
+   Without restoring flex: 0 0 auto, the flex: 1 above zeroes the flex basis so both panes
+   stay evenly split regardless of the stored width. The divider border returns because the
+   resize handle is transparent when idle. */
+.notebook-navigator-mobile .nn-dual-pane.nn-orientation-horizontal .nn-navigation-pane {
+    flex: 0 0 auto;
+    border-right: 1px solid var(--nn-theme-divider-border-color);
+}
+
 .notebook-navigator-mobile .nn-list-pane {
     display: flex;
     flex-direction: column;
@@ -8352,14 +8494,15 @@ button.nn-mobile-toolbar-button {
 
 /* iOS: bottom padding inside the navigator viewport */
 /* Applied to the internal split container so the bottom edge doesn't touch the view chrome and the toolbar shadow can render into the padding (8px matches the top spacer). */
-.notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-split-container {
+/* Scoped to body.is-phone (Obsidian keeps the class current on resize) because tablets render the desktop headers and no floating toolbars. */
+body.is-phone .notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-split-container {
     padding-bottom: 8px;
     box-sizing: border-box;
 }
 
 /* iOS: allow the glass toolbar shadow to render into the split container padding */
-.notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-navigation-pane,
-.notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-list-pane {
+body.is-phone .notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-navigation-pane,
+body.is-phone .notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-list-pane {
     overflow: visible;
 }
 
@@ -8379,8 +8522,9 @@ button.nn-mobile-toolbar-button {
 }
 
 /* iOS: reserve scroll space for the floating toolbar so rows can scroll under it. */
-.notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-navigation-pane-scroller,
-.notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-list-pane-scroller {
+/* Scoped to body.is-phone because tablets never render the floating toolbars. */
+body.is-phone .notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-navigation-pane-scroller,
+body.is-phone .notebook-navigator-ios.notebook-navigator-ios-floating-toolbars .nn-list-pane-scroller {
     padding-bottom: var(--nn-ios-pane-bottom-overlay-height);
 }
 
@@ -8557,15 +8701,27 @@ button.nn-mobile-toolbar-button {
    Android Platform Overrides
    ======================================================================== */
 
+.notebook-navigator-android {
+    /* Declared so calc() uses of the variable stay valid; an undefined variable drops the
+       whole padding/height declaration at computed-value time. Obsidian accounts for
+       Android safe areas in the view chrome. */
+    --nn-mobile-safe-area-bottom: 0px;
+}
+
 /* Android: match the view container background to mobile pane surfaces */
 .view-content.notebook-navigator.notebook-navigator-android {
     background-color: var(--nn-theme-mobile-bg);
 }
 
-/* Android: bottom padding inside the navigator viewport */
-/* Applied to the internal split container so the bottom edge doesn't touch the view chrome (8px matches the top spacer). */
+/* Android: match the split container background to mobile pane surfaces */
 .notebook-navigator-android .nn-split-container {
     background-color: var(--nn-theme-mobile-bg);
+}
+
+/* Android: bottom padding inside the navigator viewport */
+/* Applied to the internal split container so the bottom edge doesn't touch the view chrome (8px matches the top spacer). */
+/* Scoped to body.is-phone to match the iOS rule; tablets render the desktop chrome without the inset. */
+body.is-phone .notebook-navigator-android .nn-split-container {
     padding-bottom: 8px;
     box-sizing: border-box;
 }
@@ -9292,8 +9448,8 @@ settings:
         default-dark: '#'
     -
         id: nn-theme-calendar-day-active-border-color
-        title: Active day outline color
-        description: Border color for the outline shown on the active day in the calendar.
+        title: Selection outline color
+        description: Border color for active calendar outlines.
         type: variable-themed-color
         opacity: true
         format: rgb
@@ -9301,10 +9457,10 @@ settings:
         default-dark: '#'
     -
         id: nn-theme-calendar-day-active-border-width
-        title: Active day outline thickness
-        description: Border width for the outline shown on the active day in the calendar.
+        title: Selection outline thickness
+        description: Border width for active calendar outlines.
         type: variable-number-slider
-        default: 3
+        default: 2
         format: px
         min: 1
         max: 4
