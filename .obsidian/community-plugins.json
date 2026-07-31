@@ -49,5 +49,6 @@
   "medium-importer",
   "extract-url",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-full-calendar"
 ]
