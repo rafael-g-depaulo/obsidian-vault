@@ -57,7 +57,7 @@ LOOK INTO:
 2. Análise estática de código-fonte (clean code e ferramenta SonarQube).
 3. **Arquitetura de software. Interoperabilidade de sistemas. Arquitetura e linguagem orientada a serviços. Web services.** Mensageria. **API**, Swagger. **Arquitetura e linguagem orientada a objetos. Arquitetura de aplicações para ambiente web. Servidor de aplicações**. **Servidor web**. 
 4. *Ambientes Internet, extranet, intranet e portal: finalidades, características físicas e lógicas, aplicações e serviços.*
-5. *Padrões XML, XSLT, UDDI, REST e JSON*.
+5. *Padrões sXML, XSLT, UDDI, REST e JSON*.
 6. **DevOps**.
 7. **Ferramenta de Gestão da configuração GIT. TESTES: conceitos básicos de testes de aplicações. Testes unitários. Testes de integração. Testes ágeis. Teste de usabilidade de software. Testes automatizados. Tipos de testes. Test-driven development (TDD). Gestão do ciclo de vida de testes**.
 	1. RPA (robotic process automation).
