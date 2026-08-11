@@ -2,9 +2,19 @@ LOOK INTO:
 - questões de concursos <- sistema. 10 questões/dia free
 - **só procure questões da banca!**
 
+| Tópicos | Estudado |
+| ------- | -------- |
+| 113<br> | 1        |
+15/week goal
+
+Essa semana: 
+1. [ ] Dev 1-6
+2. [ ] Pt 1-5
+3. [ ] Legislação 1
+
 ## MODULO I - CONHECIMENTOS GERAIS (PARA TODOS OS CARGOS/PERFIS)
 
-### LÍNGUA PORTUGUESA:
+### LÍNGUA PORTUGUESA: 21
 1. Compreensão e interpretação de textos de gêneros variados.
 2. Reconhecimento de tipos e gêneros textuais.
 3. Domínio da ortografia oficial.
@@ -27,10 +37,10 @@ LOOK INTO:
 	3. Reorganização da estrutura de orações e de períodos do texto.
 	4. Reescrita de textos de diferentes gêneros e níveis de formalidade.
 
-### LÍNGUA INGLESA:  *despriorizado*
+### LÍNGUA INGLESA:  *despriorizado* 1
 1.  Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
 
-### RACIOCÍNIO LÓGICO: *despriorizado*
+### RACIOCÍNIO LÓGICO: *despriorizado* 9
 1. Estruturas lógicas.
 2. Lógica de argumentação: analogias, inferências, deduções e conclusões.
 3. Lógica sentencial (ou proposicional).
@@ -40,11 +50,11 @@ LOOK INTO:
 	4. Diagramas lógicos.
 4. Lógica de primeira ordem.
 5. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
-### ATUALIDADES E INTELIGÊNCIA ARTIFICIAL:
+### ATUALIDADES E INTELIGÊNCIA ARTIFICIAL: 2
 1. Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia.
 2. Inteligência Artificial: fundamentos e aplicações: conceitos de inteligência artificial; aprendizado da máquina; introdução aos modelos generativos e modelos de linguagem; ética, governança e privacidade em IA.
 
-### LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS:
+### LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS: 4
 1. Lei nº 12.527/2011 (Lei de Acesso à Informação): capítulos I, II, III, IV e V; Dec. nº 7.724 e nº 7845.
 2. Lei nº 12.737/2012 (Lei de Delitos Informáticos): art. 2º.
 3. Lei nº 12.965/2014 (Marco Civil da Internet): capítulos II, Seção I, e III, Seções I e II.
@@ -52,7 +62,7 @@ LOOK INTO:
 
 ## Conhecimentos Específicos (PERFIL 3: DESENVOLVIMENTO DE SOFTWARE)
 
-### DESENVOLVIMENTO DE SISTEMAS:
+### DESENVOLVIMENTO DE SISTEMAS: 36
 1. Desenvolvimento de sistemas. Desenvolvimento em Linguagens de programação Java (versão 6 ou superior), JavaEE (versão 6 ou superior), JakartaEE, JPA (versão 2 ou superior), **Javascript**, frameworks JUnit, Hibernate, JSF, Primefaces, Spring, SpringCloud e SpringBoot. Desenvolvimento para dispositivos móveis (Android e iOs). Desenvolvimento em ferramentas low-code e no-code.
 2. Análise estática de código-fonte (clean code e ferramenta SonarQube).
 3. **Arquitetura de software. Interoperabilidade de sistemas. Arquitetura e linguagem orientada a serviços. Web services.** Mensageria. **API**, Swagger. **Arquitetura e linguagem orientada a objetos. Arquitetura de aplicações para ambiente web. Servidor de aplicações**. **Servidor web**. 
@@ -91,7 +101,7 @@ LOOK INTO:
 		7. **Desenho e planejamento de interação em aplicações web.**
 20. Conceitos de Inteligência Artificial, Análise de Dados e Big Data.
 
-### INTELIGÊNCIA DE NEGÓCIOS (BUSINESS INTELLIGENCE):
+### INTELIGÊNCIA DE NEGÓCIOS (BUSINESS INTELLIGENCE): 7
 1. Conceitos, fundamentos, características, técnicas e métodos de business intelligence (BI).
 2. Sistemas de suporte a decisão e gestão de conteúdo.
 3. Arquitetura e aplicações de data warehouse com ETL e OLAP.
@@ -100,7 +110,7 @@ LOOK INTO:
 6. Mapeamento das fontes de dados: técnicas para coleta de dados.
 7. Arquitetura de business intelligence.
 
-### SEGURANÇA DA INFORMAÇÃO:
+### SEGURANÇA DA INFORMAÇÃO: 10
 1. Políticas de segurança da informação.
 2. Procedimentos de segurança, conceitos gerais de gerenciamento.
 3. Normas ABNT NBR ISO/IEC 27001:2022 e ABNT NBR ISO/IEC 27002:2022.
@@ -112,7 +122,7 @@ LOOK INTO:
 7. [Ciclo de Vida de Desenvolvimento Seguro](SDL – Security Development Lifecycle), [OWASP Top 10](https://owasp.org/www-project-topten/).
 8. Análise estática e dinâmica de código (SAST – Static Application Security Testing e DAST –Dynamic Application Security Testing”).
 
-### BANCO DE DADOS:
+### BANCO DE DADOS: 17
 1. **Modelagem de dados (conceitual, lógica e física).**
 2. **Abordagem relacional e multidimensional.**
 3. **Normalização das estruturas de dados.**
@@ -131,7 +141,7 @@ LOOK INTO:
 16. Avaliação de modelos de dados.
 17. Técnicas de Integração e Ingestão de Dados (ETL/ELT, Transferência de Arquivos e Integração via Base de Dados).
 
-### GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO:
+### GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO: 6
 1. **Gerenciamento de projetos: conceitos; áreas* **de conhecimento, projetos, programas, portfólio, Tipos de Abordagem: tradicional, hibrida e ágil (Framework** **Scrum, Metodologia Lean, e Método Kanban); Guia Scrum de prática ágil para gerenciamento de projetos**
 2. Processos, grupos de processos e área de conhecimento.
 3. Gestão de riscos.
