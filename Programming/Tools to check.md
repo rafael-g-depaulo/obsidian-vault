@@ -27,6 +27,10 @@ https://vitest.dev/
 
 ## Writing
 - https://vrite.io/
+
+## a11y
+- NVDA, JAWS e VoiceOver
+- AccessMonitor
 ## Methodologies
 ### DDD
 [Book review: Learning Domain-Driven Design by Vlad Khononov \| by Toni Soueid \| Medium](https://tonisoueid.medium.com/book-review-learning-domain-driven-design-by-vlad-khononov-c7473afa5ba)
