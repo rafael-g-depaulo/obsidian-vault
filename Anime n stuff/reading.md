@@ -130,7 +130,7 @@ https://bato.si/
 - [Primal Hunter Chapter 121 – Raven Scans](https://ravenscans.org/primal-hunter-chapter-121/)
 - [From Simp to Billionaire: The Rise of a Divine Tycoon Chapter 242 \| NovaManga](https://novamanga.com/read/from-simp-to-billionaire-the-rise-of-a-divine-tycoon-chapter-242#)
 - [Read Mr.A's Farm - Chapter 25.6 \| KaliScan](https://kaliscan.io/manga/80459-mr-as-farm/chapter-25.6)
-- [Magic Emperor 884](https://manhuaus.com/manga/magic-emperor-0/chapter-894/)
+- [Magic Emperor 897](https://manhuaus.com/manga/magic-emperor-0/chapter-897/)
 - [Heavenly Demon Cultivation Simulation · Ch.189](https://comix.to/title/550kl-heavenly-demon-cultivation-simulation/10473850-chapter-189)
 - [Read To Save Seven Villainesses, I Went Full Harem! - Chapter 70 \| KaliScan](https://kaliscan.io/manga/89533-to-save-seven-villainesses-i-went-full-harem/chapter-70)
 - [I Was Forced by the System to Become a Villain - Lastest Chapter 76 - MANHWATOP](https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-76/)
