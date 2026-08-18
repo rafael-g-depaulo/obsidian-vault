@@ -91,8 +91,10 @@ https://bato.si/
 - https://kaliscan.io/manga/11173-mookhyang-dark-lady/chapter-189
 - [Read Otherworldly Sword King's Survival Records - Chapter 80 \| KaliScan](https://kaliscan.io/manga/14968-otherworldly-sword-kings-survival-records/chapter-80)
 - [Read With My Netherworld Trillions, Game On! - Chapter 291 \| KaliScan](https://kaliscan.io/manga/57347-with-my-netherworld-trillions-game-on/chapter-291)
-- [I Was Forced by the System to Become a Villain - Lastest Chapter 20 - MANHWATOP](https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-30/)
+- [I Was Forced by the System to Become a Villain - Lastest Chapter 41 - MANHWATOP](https://manhwatop.com/manga/i-was-forced-by-the-system-to-become-a-villain/chapter-41/)
 - [Supreme Curse Master - Lastest Chapter 29 - MANHWATOP](https://manhwatop.com/manga/supreme-curse-master/chapter-29/)
+- [Read Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru - Chapter 3 \| KaliScan](https://kaliscan.io/manga/68844-dore-dake-doryoku-shite-mo-mannen-level-0-no-ore-wa-tsuihou-sareta-shin-no-teki-to-yobareta-shounen-wa-shachiku-megami-to-deatte-saikyou-no-chikara-wo-te-ni-ireru/chapter-3)
+- [“ZETTAI OUZA” TO YOBARETA SAIKYOU DOREI NO BOUKENTAN: TOKIHANATARETA DOREI WA, JIYUU NI SEKAI WO OUKA SURU Chapter 2 – Raven Scans](https://ravenscans.net/series/zettai-ouza-to-yobareta-saikyou-dorei-no-boukentan-tokihanatareta-dorei-wa-jiyuu-ni-sekai-wo-ouka-suru/chapter-656571/)
 ## Caught up
 - [Cursifier that makes Artifacts](https://aquamanga.com/read/my-s-rank-party-fired-me-for-being-a-cursificer-i-can-only-make-cursed-items-but-they-re-artifact-class/chapter-12-2/)
 - [Arcane Sniper](https://reaperscans.com/comics/1356-arcane-sniper/chapters/26803429-chapter-120)
