@@ -1,0 +1,2 @@
+
+Olhando por [esse post do reddit](https://www.reddit.com/r/concursospublicos/comments/1gu83af/qual_voc%C3%AAs_acham_que_ser%C3%A1_a_nota_de_corte_do/), acho que 85~95 é uma meta legal e beem segura. daqui a umas 2 semanas quero fazer 1 simulação completa e ter uma ideia de onde estou
