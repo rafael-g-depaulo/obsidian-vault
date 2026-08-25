@@ -9,7 +9,7 @@
 ### Canais de comunicação
 Listar canais necessários:
 - Com quem a gente da equipe de atendimento fala sobre dificuldade de uso do app ou bugs técnicos
-- 
-- Quais são os canais de contato de TI para onde devemos redirecionar os participantes.
+- Com quem conversamos pra pegar um treinamento inicial da equipe de atendimento?
+- Quais são os canais de contato de TI para onde devemos redirecionar os participantes?
 ### Materiais
 
