@@ -8,7 +8,7 @@
 ## 3. Anexe os documentos
 ![[Pasted image 20251209111619.png]]
 
-Adicione o pedido médico, como o da imagem abaixo (válido por 6 meses)
+Adicione o pedido médico, como o da imagem abaixo (válido por 6 meses). **MAS** tem um detalhe importante. vc manda pra lá o pedido só do mês específico, então bota um blur ou tapa os meses que não forem pra ser usados. Tem que mandar tudo isso com antecedência também
 
 ![[Pedido médico.jpeg]]
 
