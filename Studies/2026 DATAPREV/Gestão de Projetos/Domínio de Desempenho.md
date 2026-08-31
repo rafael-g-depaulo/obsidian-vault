@@ -1,0 +1,1 @@
+é um subgrupo de atividades relacionadas, críticas para entrega eficaz dos resultados do projeto

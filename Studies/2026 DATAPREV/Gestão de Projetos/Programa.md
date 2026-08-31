@@ -1,0 +1,1 @@
+Grupo de projetos, subprogramas e atividades de programa relacionado, **gerenciados de forma coordenada**

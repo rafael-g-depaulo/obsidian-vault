@@ -1,0 +1,1 @@
+projetos, programas, subportfolios e operações gerenciados em grupo para alcançar **objetivos estratégicos**
