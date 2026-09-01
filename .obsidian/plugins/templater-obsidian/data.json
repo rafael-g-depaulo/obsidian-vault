@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "Templates",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "regex",
   "auto_jump_to_cursor": true,
