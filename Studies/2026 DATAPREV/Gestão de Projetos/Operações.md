@@ -1,0 +1,1 @@
+Operações são contínuas (=/= de projeto).
