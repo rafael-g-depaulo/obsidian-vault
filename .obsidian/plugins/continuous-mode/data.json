@@ -19,6 +19,8 @@
   "navigateInPlace": false,
   "onlyShowFileName": false,
   "openFoldersRecursively": false,
-  "tabGroupIds": [],
+  "tabGroupIds": [
+    "c8d8ca65e653306c_f13d6e3056e1ebf0_@0"
+  ],
   "warnOnReplace": false
 }
