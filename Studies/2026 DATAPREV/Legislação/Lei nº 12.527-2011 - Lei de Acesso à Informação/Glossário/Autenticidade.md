@@ -1,0 +1,1 @@
+Qualidade que garante **Autor**ia da informação (fonte)

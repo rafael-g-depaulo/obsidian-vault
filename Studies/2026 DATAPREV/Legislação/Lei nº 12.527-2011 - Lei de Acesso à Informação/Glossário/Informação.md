@@ -1,0 +1,1 @@
+**dados** (processados ou n)

@@ -1,0 +1,1 @@
+relacionada à pessoa natural **identificável**

@@ -1,0 +1,1 @@
+submetida temporariamente à restrição de acesso público por segurança de sociedade/estado

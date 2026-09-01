@@ -1,0 +1,1 @@
+Qualidade que garante não-modificação. é sem mais nem menos.

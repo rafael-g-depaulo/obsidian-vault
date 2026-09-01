@@ -1,0 +1,1 @@
+unidade de registro de informações (qualquer formato)

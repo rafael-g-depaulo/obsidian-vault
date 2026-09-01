@@ -1,0 +1,1 @@
+produção, classificação, utilização, acesso, transporte, arquivamento, eliminação, controle, etc. da info

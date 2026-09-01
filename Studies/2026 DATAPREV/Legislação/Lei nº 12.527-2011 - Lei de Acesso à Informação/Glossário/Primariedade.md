@@ -1,0 +1,1 @@
+Qualidade da informação inicial, **DETALHADA** e original.

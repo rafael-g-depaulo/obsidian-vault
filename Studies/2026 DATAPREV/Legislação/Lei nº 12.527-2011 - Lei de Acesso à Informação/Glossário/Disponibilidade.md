@@ -1,0 +1,1 @@
+qualidade da informação que pode ser conhecida e utilizada.
