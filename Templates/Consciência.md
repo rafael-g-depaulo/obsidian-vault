@@ -1,10 +1,3 @@
-## Psico
-- teste amanhã!!! é importante.
-- tente observar o quanto que a ritalina faz de benefício.
-
-
-![[Pasted image 20260901153814.png]]
-Anote:
 
 | Questão                              | anote |
 | ------------------------------------ | ----- |
@@ -14,4 +7,3 @@ Anote:
 | Qual pensamento apareceu?            |       |
 | Qual seria nova resposta?            |       |
 | Qual pequena ação posso fazer agora? |       |
-
