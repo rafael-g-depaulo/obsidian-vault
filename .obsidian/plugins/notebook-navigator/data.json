@@ -184,7 +184,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
-  "defaultFolderSort": "modified-desc",
+  "defaultFolderSort": "filename-asc",
   "propertySortKey": "",
   "propertySortSecondary": "title",
   "manualSortPropertyKey": "sort_index",
@@ -492,7 +492,11 @@
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
   "folderTreeSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "Studies/2026 DATAPREV": {
+      "mode": "compact"
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
