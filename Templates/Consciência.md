@@ -1,5 +1,5 @@
 
-| Questão cursor                       | anote                   |
+| Questão                              | anote                   |
 | ------------------------------------ | ----------------------- |
 | O que queria fazer?                  | <% tp.file.cursor(1) %> |
 | O que fiz?                           | <% tp.file.cursor(2) %> |
