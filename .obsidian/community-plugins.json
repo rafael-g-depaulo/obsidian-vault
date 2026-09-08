@@ -50,5 +50,6 @@
   "extract-url",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "highlightr-plugin"
 ]
