@@ -8,3 +8,5 @@ https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/a3
 ## NÃO PRECISA DE JUSTIFICATIVA PRA REQUERIR INFORMAÇÃO
 
 
+
+## [[Classificação das Informações]]
