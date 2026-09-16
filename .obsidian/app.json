@@ -27,5 +27,6 @@
   },
   "propertiesInDocument": "source",
   "rightToLeft": false,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "deleteUnlinkedAttachments": "always"
 }
