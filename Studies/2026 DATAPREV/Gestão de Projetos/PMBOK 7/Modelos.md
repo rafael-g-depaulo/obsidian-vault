@@ -1,0 +1,1 @@
+Representa a estratégia do pensamento para explicar um processo, framework ou experiência
