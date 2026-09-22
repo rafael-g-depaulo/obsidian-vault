@@ -1,6 +1,16 @@
 - confundi a data da prova e perdi ela
 	- ![[Pasted image 20260922153234.png]]
 - confundi o local da prova e perdi ela
+	- checar depois da consulta.
 - não posso fazer a prova porque perdi os documentos no ônibus
+	- cópia autenticada
+	- (se der) ter segunda via já
 - vou chegar lá e não vou ter caneta correta
-- vou passar mal e não vou conseguir fazer a prova 
+	- Ter backups de caneta
+- Vou confundir/enrolar horário e perder a prova (portão fecha 12:30)
+	- sair de casa umas 11:30
+- vou passar mal e não vou conseguir fazer a prova.
+	- distorção
+	- "se tiver quente pra mim vai estar quente pra eles"
+- vou ficar complacente e vou parar de estudar e me dar mal na prova. 
+
