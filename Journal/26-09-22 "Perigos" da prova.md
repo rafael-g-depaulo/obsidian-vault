@@ -1,0 +1,6 @@
+- confundi a data da prova e perdi ela
+	- ![[Pasted image 20260922153234.png]]
+- confundi o local da prova e perdi ela
+- não posso fazer a prova porque perdi os documentos no ônibus
+- vou chegar lá e não vou ter caneta correta
+- vou passar mal e não vou conseguir fazer a prova 
