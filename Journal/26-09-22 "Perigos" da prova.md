@@ -18,3 +18,8 @@
 	- me re-afirmar. estou indo bem.
 	- revisa, progride no ritmo que dá que vai dar bem
 
+## Coisas que preciso pra prova
+![[Pasted image 20260923174914.png]]
+1. Caneta
+2. Comprovante de Inscrição
+3. Documento Original
