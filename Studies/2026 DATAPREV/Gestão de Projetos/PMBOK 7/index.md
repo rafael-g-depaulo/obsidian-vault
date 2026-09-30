@@ -14,5 +14,9 @@ Não mais organizado em processos
 ### "Foco no Valor"
 
 
+
+## Ciclo de Vida
+- Processo lida com mudança => Adaptativo
+
 ## Aulas
 - [5 - Gestão de Projetos - PMBOK 7ª Edição - Escritório de Planejamento de Processos](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/pFMygQ%2Bs4nY%3D?idCronograma=9fd0cfd4-e803-45a5-a219-dfad810a667d&data=1786018748000)
