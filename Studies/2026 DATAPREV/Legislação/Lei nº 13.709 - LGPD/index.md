@@ -19,3 +19,6 @@
 ![[Pasted image 20261001120323.png]]
 ![[Pasted image 20261001120701.png]]
 ![[Pasted image 20261001120730.png]]
+## Dados pessoais sensíveis
+![[Pasted image 20261001121632.png]]
+![[Pasted image 20261001121732.png]]
