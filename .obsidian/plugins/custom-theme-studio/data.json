@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "themeEnabled": false,
+  "themeEnabled": true,
   "customCSS": "",
   "cssVariables": [
     {
