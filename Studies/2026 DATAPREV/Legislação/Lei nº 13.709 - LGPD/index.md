@@ -22,3 +22,7 @@
 ## Dados pessoais sensíveis
 ![[Pasted image 20261001121632.png]]
 ![[Pasted image 20261001121732.png]]
+![[Pasted image 20261001122435.png]]
+![[Pasted image 20261001123122.png]]
+![[Pasted image 20261001123225.png]]
+![[Pasted image 20261001123432.png]]
