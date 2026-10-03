@@ -6,3 +6,6 @@
 ## Privativo
 ![[Pasted image 20261003203109.png]]
 
+
+
+![[Pasted image 20261003203423.png]]
