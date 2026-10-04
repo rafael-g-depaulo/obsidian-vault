@@ -6,4 +6,6 @@
 ![[Pasted image 20261003214322.png]]
 
 
-## Ní
+## Nível de Capacidade de Processo
+![[Pasted image 20261003214721.png]]
+![[Pasted image 20261003214746.png]]
