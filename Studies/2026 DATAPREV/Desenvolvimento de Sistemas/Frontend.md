@@ -7,3 +7,8 @@
 6. 6 - HTML5 - Exercícios - Bancas FCC e CEBRASPE
 7. 7 - CSS3 - Seletores
 8. 8 - CSS3 - Inline x Block, Cores, Modelo Caixa
+9. 9 - CSS3 - Elementos Flutuantes
+10. 10 - CSS3 - Exercícios - Bancas FCC e CEBRASPE
+11. 11 - CSS3 - Herança e Especificidade
+12. 12 - CSS3 - Abas e layouts líquidos
+13. 13 - CSS3 - Recursos Especiais
