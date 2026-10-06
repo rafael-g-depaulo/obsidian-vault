@@ -12,3 +12,7 @@
 11. 11 - CSS3 - Herança e Especificidade
 12. 12 - CSS3 - Abas e layouts líquidos
 13. 13 - CSS3 - Recursos Especiais
+14. [14 - AJAX](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ybtTUI1cwKg%3D)
+15. [15 - AJAX - Questões](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/n%2F5eXl4MrPw%3D)
+16. [16 - Vue JS - Componentes e Filtros](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/oFoUQVxTDPE%3D)
+17. [17 - Vue JS - Funções Globais, Diretivas e Hooks](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/8fXkdmd1ZM8%3D)
