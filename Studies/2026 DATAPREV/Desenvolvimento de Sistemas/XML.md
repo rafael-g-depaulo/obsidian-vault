@@ -9,3 +9,5 @@
 9. [9 - Tecnologias XML - XPATH, XQUERY, XSLT e XHTML II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/8nJYJeSBSDg%3D)
 10. [10 - Tecnologias XML - Questões](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7p8NfEXyWGg%3D)
 11. [11 - Tecnologias XML - Questões II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/9Ba3xHv7Fi4%3D)
+12. [12 - Arquiteturas de Referência - REST](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/GiwJEsvYGBI%3D)
+13. [13 - JSON e API REST](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/kFJTo%2BDYCHE%3D)

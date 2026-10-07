@@ -8,7 +8,7 @@
 - [x] Microserviços ✅ 2026-10-07
 - [ ] Blockchain
 - [ ] DevOps
-- [ ] XML/XSLT/JSON/etc. <= começar por esse acho
+- [x] XML/XSLT/JSON/etc. <= começar por esse acho ✅ 2026-10-07
 - [x] Ambientes internet/extranet/intranet <= mega importante ✅ 2026-10-07
 - [ ] Mensageria <= importante
 - [ ] Arquitetura de Software <= importante
@@ -37,4 +37,19 @@
 9. [1 - Arquitetura de Microsserviços](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/gIqGboolhzc%3D)
 10. [2 - Arquitetura de Microsserviços II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/oGKvtQfpeCA%3D)
 11. [3 - Arquitetura de Microsserviços III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7W1EOtyQe2I%3D)
-12. 
+12. [1 - Tecnologias XML - XML e Visão Geral](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/41KvjIa619Q%3D)
+13. [2 - Tecnologias XML - XML e Visão Geral II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/VofiF2oFmVU%3D)
+14. [3 - Tecnologias XML - DTD e XSD](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/52lKHlQpwmM%3D)
+15. [4 - Tecnologias XML - DTD e XSD II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/OMBQ7YoQ0fk%3D)
+16. [5 - Tecnologias XML - DTD e XSD III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/o3rESWvXR6g%3D)
+17. [6 - Tecnologias XML - SOAP, WSDL e UDDI](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/Bv5fgt1okes%3D)
+18. [7 - Tecnologias XML - SOAP, WSDL e UDDI II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ZQUDjutpGWc%3D)
+19. [8 - Tecnologias XML - XPATH, XQUERY, XSLT e XHTML](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/NY9dJnzEj6s%3D)
+20. [9 - Tecnologias XML - XPATH, XQUERY, XSLT e XHTML II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/8nJYJeSBSDg%3D)
+21. [10 - Tecnologias XML - Questões](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7p8NfEXyWGg%3D)
+22. [11 - Tecnologias XML - Questões II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/9Ba3xHv7Fi4%3D)
+23. [12 - Arquiteturas de Referência - REST](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/GiwJEsvYGBI%3D)
+24. [13 - JSON e API REST](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/kFJTo%2BDYCHE%3D)
+25. 8 - Kubernetes II
+26. 9 - Kubernetes III
+27. 10 - Kubernetes IV
