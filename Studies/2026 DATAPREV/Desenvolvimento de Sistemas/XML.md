@@ -5,3 +5,5 @@
 5. [5 - Tecnologias XML - DTD e XSD III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/o3rESWvXR6g%3D)
 6. [6 - Tecnologias XML - SOAP, WSDL e UDDI](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/Bv5fgt1okes%3D)
 7. [7 - Tecnologias XML - SOAP, WSDL e UDDI II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ZQUDjutpGWc%3D)
+8. [8 - Tecnologias XML - XPATH, XQUERY, XSLT e XHTML](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/NY9dJnzEj6s%3D)
+9. 
