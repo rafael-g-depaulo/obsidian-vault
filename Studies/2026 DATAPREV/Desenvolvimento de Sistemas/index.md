@@ -8,6 +8,8 @@
 - [x] Microserviços ✅ 2026-10-07
 - [ ] Blockchain
 - [ ] DevOps
+- [x] API Gateway ✅ 2026-10-07
+- [x] Container ✅ 2026-10-07
 - [x] XML/XSLT/JSON/etc. <= começar por esse acho ✅ 2026-10-07
 - [x] Ambientes internet/extranet/intranet <= mega importante ✅ 2026-10-07
 - [ ] Mensageria <= importante
@@ -53,3 +55,7 @@
 25. 8 - Kubernetes II
 26. 9 - Kubernetes III
 27. 10 - Kubernetes IV
+28. 11 - Kubernetes V
+29. 12 - Harbor
+30. 13 - Segurança de contêineres: Docker, Kubernetes e runtime security
+31. 14 - Segurança de contêineres: Docker, Kubernetes e runtime security II
