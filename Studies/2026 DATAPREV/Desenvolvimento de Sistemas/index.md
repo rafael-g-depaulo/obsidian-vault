@@ -4,17 +4,17 @@
 - [ ] Big Data
 - [ ] A11y
 - [ ] BD
-- [ ] CMS
+- [x] CMS ✅ 2026-10-07
 - [x] Microserviços ✅ 2026-10-07
-- [ ] Blockchain
-- [ ] DevOps
+- [x] Blockchain ✅ 2026-10-07
+- [x] DevOps ✅ 2026-10-07
 - [x] API Gateway ✅ 2026-10-07
 - [x] Container ✅ 2026-10-07
 - [x] XML/XSLT/JSON/etc. <= começar por esse acho ✅ 2026-10-07
 - [x] Ambientes internet/extranet/intranet <= mega importante ✅ 2026-10-07
-- [ ] Mensageria <= importante
+- [x] Mensageria <= importante ✅ 2026-10-07
 - [ ] Arquitetura de Software <= importante
-- [ ] Arquitetura orientada a serviços
+- [x] Arquitetura orientada a serviços ✅ 2026-10-07
 - [ ] SonarQube
 - [ ] Mobile Dev
 - [ ] JUnit
@@ -70,3 +70,7 @@
 40. [3 - Continuous Integration (CI/CD)](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ZKG6s2Q28R4%3D)
 41. 1 - Blockchain
 42. [2 - Blockchain II](http://grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/VbmNPXAtUrg%3D)
+43. [1 - Conceitos e Ferramentas de Gestão de Conteúdo](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/vyRG7vSPfgs%3D)
+44. [2 - Conceitos e Ferramentas de Gestão de Conteúdo II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/4%2BVyo9sClEE%3D)
+45. [3 - GED - Gerenciamento Eletrônico de Documentos](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/FM6CNt%2F0%2FX8%3D)
+46. 4 - GED - Gerenciamento Eletrônico de Documentos II
