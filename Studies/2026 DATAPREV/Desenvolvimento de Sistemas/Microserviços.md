@@ -1,1 +1,3 @@
 1. [1 - Arquitetura de Microsserviços](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/gIqGboolhzc%3D)
+2. [2 - Arquitetura de Microsserviços II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/oGKvtQfpeCA%3D)
+3. [3 - Arquitetura de Microsserviços III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7W1EOtyQe2I%3D)
