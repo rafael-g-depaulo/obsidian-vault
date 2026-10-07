@@ -59,3 +59,5 @@
 29. 12 - Harbor
 30. 13 - Segurança de contêineres: Docker, Kubernetes e runtime security
 31. 14 - Segurança de contêineres: Docker, Kubernetes e runtime security II
+32. [1 - Mensageria](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/RUzNqjm2jng%3D)
+33. [2 - Mensageria II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/QNf7tBtqYy0%3D)
