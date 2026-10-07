@@ -61,3 +61,7 @@
 31. 14 - Segurança de contêineres: Docker, Kubernetes e runtime security II
 32. [1 - Mensageria](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/RUzNqjm2jng%3D)
 33. [2 - Mensageria II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/QNf7tBtqYy0%3D)
+34. [1 - Interoperabilidade de Sistemas – SOA e Web Services](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/8qr%2BBH8AxXA%3D)
+35. [2 - Interoperabilidade de Sistemas – SOA e Web Services II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/h2ZnvZHUwJk%3D)
+36. [3 - Interoperabilidade de Sistemas – SOA e Web Services III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/Ah3ml76afco%3D)
+37. [4 - Interoperabilidade de Sistemas – SOA e Web Services IV](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ni5rI%2BSrRqY%3D)
