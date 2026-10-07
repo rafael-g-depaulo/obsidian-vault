@@ -2,3 +2,6 @@
 2. [2 - Tecnologias XML - XML e Visão Geral II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/VofiF2oFmVU%3D)
 3. [3 - Tecnologias XML - DTD e XSD](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/52lKHlQpwmM%3D)
 4. [4 - Tecnologias XML - DTD e XSD II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/OMBQ7YoQ0fk%3D)
+5. [5 - Tecnologias XML - DTD e XSD III](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/o3rESWvXR6g%3D)
+6. [6 - Tecnologias XML - SOAP, WSDL e UDDI](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/Bv5fgt1okes%3D)
+7. [7 - Tecnologias XML - SOAP, WSDL e UDDI II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ZQUDjutpGWc%3D)
