@@ -68,3 +68,5 @@
 38. 1 - DevOps
 39. [2 - DevOps II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/YdFFk4EctI4%3D)
 40. [3 - Continuous Integration (CI/CD)](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/ZKG6s2Q28R4%3D)
+41. 1 - Blockchain
+42. [2 - Blockchain II](http://grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/VbmNPXAtUrg%3D)
