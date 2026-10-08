@@ -27,6 +27,9 @@
 
 ## [[Framework Spring]]
 
+## Aulas de 26-10-08
+1. [1 - Arquitetura de Software](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7%2Fw3f5%2FwDM8%3D)
+
 ## Aulas do Dia
 1. [1 - Conceitos de internet e intranet](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/DwwEtZv3Y2Q%3D)
 2. [2 - Conceitos de internet e intranet II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/3XwcSZSt%2BEk%3D)
