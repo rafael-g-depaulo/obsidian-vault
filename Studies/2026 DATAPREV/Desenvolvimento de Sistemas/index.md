@@ -29,6 +29,10 @@
 
 ## Aulas de 26-10-08
 1. [1 - Arquitetura de Software](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/7%2Fw3f5%2FwDM8%3D)
+2. 2 - Arquitetura Orientada a Objetos
+3. 3 - Arquitetura Orientada a Objetos II
+4. 4 - Arquitetura Cliente Servidor
+5. 5 - Arquitetura Cliente Servidor II
 
 ## Aulas do Dia
 1. [1 - Conceitos de internet e intranet](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/DwwEtZv3Y2Q%3D)
