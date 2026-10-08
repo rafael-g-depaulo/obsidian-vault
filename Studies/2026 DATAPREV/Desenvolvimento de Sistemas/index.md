@@ -33,6 +33,9 @@
 3. 3 - Arquitetura Orientada a Objetos II
 4. 4 - Arquitetura Cliente Servidor
 5. 5 - Arquitetura Cliente Servidor II
+6. [6 - Arquitetura de Software - Questões](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/l2OFb86duH0%3D)
+7. [7 - Arquitetura de Software - Questões II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/pUjeaMaMtQU%3D)
+8. [1 - Conceitos Fundamentais de Dados](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/RwxvZ8t3wbo%3D)
 
 ## Aulas do Dia
 1. [1 - Conceitos de internet e intranet](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/DwwEtZv3Y2Q%3D)
