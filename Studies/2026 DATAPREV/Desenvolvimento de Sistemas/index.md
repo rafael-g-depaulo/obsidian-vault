@@ -1,6 +1,6 @@
 ## Foco!
 - [ ] IA
-- [ ] Análise de Dados
+- [x] Análise de Dados ✅ 2026-10-08
 - [ ] Big Data
 - [ ] A11y
 - [ ] BD
@@ -13,7 +13,7 @@
 - [x] XML/XSLT/JSON/etc. <= começar por esse acho ✅ 2026-10-07
 - [x] Ambientes internet/extranet/intranet <= mega importante ✅ 2026-10-07
 - [x] Mensageria <= importante ✅ 2026-10-07
-- [ ] Arquitetura de Software <= importante
+- [x] Arquitetura de Software <= importante ✅ 2026-10-08
 - [x] Arquitetura orientada a serviços ✅ 2026-10-07
 - [ ] SonarQube
 - [ ] Mobile Dev
@@ -36,6 +36,10 @@
 6. [6 - Arquitetura de Software - Questões](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/l2OFb86duH0%3D)
 7. [7 - Arquitetura de Software - Questões II](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/pUjeaMaMtQU%3D)
 8. [1 - Conceitos Fundamentais de Dados](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/RwxvZ8t3wbo%3D)
+9. 2 - Conceitos Fundamentais de Dados II
+10. 3 - Dados Estruturados e Não Estruturados
+11. 4 - Tipos de Análises de Dados
+12. 5 - Coleta, Tratamento, Armazenamento, Integração e Recuperação de Dados
 
 ## Aulas do Dia
 1. [1 - Conceitos de internet e intranet](https://www.grancursosonline.com.br/aluno/curso/video/codigo/Sc9XsSTjmMU%3D/v/DwwEtZv3Y2Q%3D)
