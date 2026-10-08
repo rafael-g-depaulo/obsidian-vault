@@ -6,7 +6,7 @@
 - [ ] BD
 - [x] CMS ✅ 2026-10-07
 - [x] Microserviços ✅ 2026-10-07
-- [x] Blockchain ✅ 2026-10-07
+- [x] Blockchain ✅ 2026-1\0-07
 - [x] DevOps ✅ 2026-10-07
 - [x] API Gateway ✅ 2026-10-07
 - [x] Container ✅ 2026-10-07
