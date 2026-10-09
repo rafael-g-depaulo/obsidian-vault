@@ -1,5 +1,5 @@
 ## Foco!
-- [ ] IA
+- [x] IA ✅ 2026-10-09
 - [x] Análise de Dados ✅ 2026-10-08
 - [ ] Big Data
 - [ ] A11y
