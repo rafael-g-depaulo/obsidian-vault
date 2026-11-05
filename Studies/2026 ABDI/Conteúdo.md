@@ -86,33 +86,41 @@
 7. Atuação institucional da ABDI: promoção do desenvolvimento industrial, inovação, transformação digital, difusão tecnológica, competitividade e sustentabilidade, conforme o art. 1º da Lei nº 11.080/2004, o art. 2º do Decreto nº 5.352/2005 e o Planejamento Estratégico 2024–2029.
 ## CONHECIMENTOS ESPECÍFICOS
 ### 1. ENGENHARIA DE SOFTWARE
-1.1. Ciclo de vida e processos de desenvolvimento de software. 1.2. Engenharia de requisitos e modelagem UML. 1.3. Arquitetura de software, padrões de projeto e microsserviços. 1.4. Documentação, manutenção e evolução de sistemas. 
+1. Ciclo de vida e processos de desenvolvimento de software.
+2. Engenharia de requisitos e modelagem UML.
+3. Arquitetura de software, padrões de projeto e microsserviços.
+4. Documentação, manutenção e evolução de sistemas. 
 ### 2. LINGUAGENS DE PROGRAMAÇÃO E DESENVOLVIMENTO WEB
-2.1. Lógica de programação, algoritmos e estruturas de dados. 2.2. Programação orientada a objetos. 2.3. Linguagens Java, PHP e JavaScript. 2.4. Node.js. 2.5. HTML5, CSS3 e desenvolvimento de aplicações web responsivas.
+1. Lógica de programação, algoritmos e estruturas de dados.
+2. Programação orientada a objetos.
+3. Linguagens Java, PHP e JavaScript..4. 
+4. Node.js. 
+5. HTML5, CSS3 e desenvolvimento de aplicações web responsivas.
 ### 3. BANCO DE DADOS:
-1. Modelagem de dados e modelo relacional. 3.2. 
-2. Normalização e integridade referencial. 3.3. 
-3. Linguagem SQL: consultas, junções, subconsultas e manipulação de dados. 3.4. Transações, índices e otimização de consultas. 
+1. Modelagem de dados e modelo relacional.
+2. Normalização e integridade referencial.
+3. Linguagem SQL: consultas, junções, subconsultas e manipulação de dados.
+4. Transações, índices e otimização de consultas. 
 ### 4. INTEGRAÇÃO DE SISTEMAS E APIs:
-1. Serviços web e arquitetura REST. 4.2. 
-2. Protocolos HTTP e HTTPS. 4.3. 
-3. Formatos JSON e XML. 4.4. 
+1. Serviços web e arquitetura REST.
+2. Protocolos HTTP e HTTPS.
+3. Formatos JSON e XML.
 4. Desenvolvimento, consumo, autenticação e segurança de APIs.
 ### 5. METODOLOGIAS ÁGEIS E DEVOPS:
 1. Scrum e Kanban.
-2. Histórias de usuário, backlog e critérios de aceitação. 5.3. 
-3. Git, GitHub e GitLab. 5.4. 
-4. Integração e entrega contínuas (CI/CD). 5.5. 
+2. Histórias de usuário, backlog e critérios de aceitação.
+3. Git, GitHub e GitLab.
+4. Integração e entrega contínuas (CI/CD).
 5. Automação e implantação de aplicações.
 ### 6. QUALIDADE E SEGURANÇA DE SOFTWARE:
-1. Testes unitários, funcionais, de integração e regressão. 6.2. 
-2. Depuração, revisão de código e qualidade de software. 6.3. 
-3. Desenvolvimento seguro e vulnerabilidades OWASP Top 10. 6.4. 
-4. Autenticação, autorização e controle de acesso. 6.5. 
-5. Proteção de dados pessoais: Lei nº 13.709/2018 (LGPD). 
+1. Testes unitários, funcionais, de integração e regressão.
+2. Depuração, revisão de código e qualidade de software.
+3. Desenvolvimento seguro e vulnerabilidades OWASP Top 10.
+4. Autenticação, autorização e controle de acesso.
+5. Proteção de dados pessoais: Lei nº 13.709/2018 (LGPD).
 ### 7. SUSTENTAÇÃO E GESTÃO DE SOLUÇÕES DE TI:
-1. Manutenção, monitoramento e suporte a aplicações. 7.2.
-2. Gerenciamento de incidentes, problemas e mudanças. 7.3.
-3. Acordos de Nível de Serviço (SLA). 7.4. 
-4. Especificação técnica e homologação de soluções. 7.5. 
+1. Manutenção, monitoramento e suporte a aplicações.
+2. Gerenciamento de incidentes, problemas e mudanças.
+3. Acordos de Nível de Serviço (SLA).
+4. Especificação técnica e homologação de soluções.
 5. Acompanhamento de contratos, fornecedores e entregas de software.
